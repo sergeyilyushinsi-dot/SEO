@@ -1,0 +1,22 @@
+[
+ {
+  "plan_task": 47,
+  "label": "Название категории (H1, хлебные крошки)",
+  "before_text": "SLM 3D - принтеры",
+  "after_text": "SLM 3D-принтеры",
+  "comment": "Дефис с пробелами. Адрес категории не меняется",
+  "type": "category",
+  "slug": "slm-3d-printeri",
+  "field": "name",
+  "value": "SLM 3D-принтеры",
+  "row": 92,
+  "id": 18,
+  "url": "https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/",
+  "before": "SLM 3D - принтеры",
+  "after": "SLM 3D-принтеры",
+  "saved": true,
+  "on_page": true,
+  "on_cached_page": true,
+  "status": "применено"
+ }
+]

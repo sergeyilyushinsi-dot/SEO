@@ -1,0 +1,274 @@
+{
+ "id": 2138,
+ "date": "2025-02-20T11:06:00",
+ "date_gmt": "2025-02-20T08:06:00",
+ "guid": {
+  "rendered": "http://am-tech.ru/news/aerospayk-valentinka/",
+  "raw": "http://am-tech.ru/news/aerospayk-valentinka/"
+ },
+ "modified": "2025-09-21T16:25:04",
+ "modified_gmt": "2025-09-21T13:25:04",
+ "password": "",
+ "slug": "aerospayk-valentinka",
+ "status": "publish",
+ "type": "news",
+ "link": "https://am-tech.ru/news/aerospayk-valentinka/",
+ "title": {
+  "raw": "Аэроспайк-валентинка",
+  "rendered": "Аэроспайк-валентинка"
+ },
+ "content": {
+  "raw": "<h2>Один из лучших подарков в жизни &mdash; вторая половинка. Вы её уже нашли?</h2>\n<p>А для креативных двигателестроителей нет ничего лучше, чем создать, испытать и разобрать на части ракетный двигатель, с упоением изучая состояние его компонентов.</p>\n<p>Ученые из некоммерческой организации Race 2 Space, стремящиеся сделать космос доступным для всех, разрезали ракетный клиновоздушный двигатель, именуемый аэроспайком. Этот двигатель был спроектирован с нуля при помощи ИИ компанией из Дубая LEAP71. Обе стороны, участвовавшие в проекте, остались очень довольны результатами осмотра половинок.</p>\n<table style=\"border-collapse: collapse; width: 98.5735%;\" align=\"center\">\n<tbody>\n<tr>\n<td><img src=\"/upload/editor_images/1740038645-mceu_82499060821740038642733.jpg\" height=\"300\" /></td>\n<td style=\"width: 49.7467%;\"><img src=\"/upload/editor_images/1740038637-mceu_54198888711740038634949.jpg\" height=\"300\" /></td>\n</tr>\n</tbody>\n</table>\n<p>Глядя на аэроспайк, кто-то может сказать, что это внеземная технология. Однако создатели уверяют, что это обычный двигатель, просто &laquo;вывернутый наизнанку&raquo;: камера сгорания становится тороидальной, а сопло формируется за счет центрального шипа и круговой оболочки вокруг него. Важно, что такой двигатель эффективен как на уровне моря, так и в вакууме, что важно для многоразовых вторых ступеней.</p>\n<p>Сложность проектирования аэроспайка заключается в его большой площади поверхности при одинаковом уровне тяги по сравнению с обычным двигателем. Когда уровень тяги увеличивается, охлаждать любой двигатель, включая аэроспайк, становится легче, так как поток топлива на единицу площади стенки камеры возрастает. Некоторые считают, что охладить аэроспайк при высоком давлении будет сложнее, потому что температура газа растет с увеличением давления. Это правда, поскольку у аэроспайка радиус стенки больше, и поэтому нужна большая толщина стенки, чем у обычного сопла в форме колокола.</p>\n<p>Медные сплавы с их отличной теплопроводностью упрощают охлаждение двигателя при увеличении тяги. Новый подход &mdash; <a href=\"https://am.tech/product/\">3D-печать</a> из медного сплава &mdash; делает это возможным. Например, аддитивные системы компании AM.TECH, функционирующие по технологии L-PBF/<a href=\"https://am.tech/product/slm-3d-printeri/\">SLM</a>, способны справиться и с такой задачей: для экспериментов подойдет <a href=\"https://am.tech/product/slm-3d-printeri/amt-16/\">AMT-16</a>, а для серийного производства &mdash; <a href=\"https://am.tech/product/slm-3d-printeri/amt-32/\">AMT-32</a>. Для этого потребуется спроектировать ракетный двигатель и отправить файл специалистам компании, которые произведут технологическую подготовку и отработают техпроцесс на любом, пригодном для L-PBF материале.</p>\n<p>Во время испытаний обнаружились небольшие прогорания на обратной стороне шипа при выключении и эрозия в горловине. Эти проблемы можно решить, изучив геометрию канала. С помощью современных технологий, таких как большая языковая модель Noyron, можно быстро скорректировать геометрию и перейти к созданию более крупных двигателей, что важно для космонавтики.</p>\n<p>Толщина и углы стенок аэроспайка рассчитываются с учетом теплового расширения, потока массы, теплопередачи и давления. Раньше сначала проектировали, а потом проверяли с помощью CFD (моделирования жидкостной динамики), но сейчас такой подход устарел. Современные методы вычислительной инженерии позволяют оптимизировать этот процесс.</p>\n<p>Хочется отметить тот факт, что сегодня границы между ИИ и инженером стираются, а последние модели 3D-принтеров могут напечатать практически любую геометрию. Впору говорить о взаимовыгодном симбиозе нейросетей и аддитивных технологий с небывалыми ранее возможностями &ndash; совершенное производство без ограничений!</p>",
+  "rendered": "<h2>Один из лучших подарков в жизни &mdash; вторая половинка. Вы её уже нашли?</h2>\n<p>А для креативных двигателестроителей нет ничего лучше, чем создать, испытать и разобрать на части ракетный двигатель, с упоением изучая состояние его компонентов.</p>\n<p>Ученые из некоммерческой организации Race 2 Space, стремящиеся сделать космос доступным для всех, разрезали ракетный клиновоздушный двигатель, именуемый аэроспайком. Этот двигатель был спроектирован с нуля при помощи ИИ компанией из Дубая LEAP71. Обе стороны, участвовавшие в проекте, остались очень довольны результатами осмотра половинок.</p>\n<table style=\"border-collapse: collapse; width: 98.5735%;\" align=\"center\">\n<tbody>\n<tr>\n<td><img loading=\"lazy\" decoding=\"async\" alt=\"Аэроспайк-валентинка - Новости - AM-Tech\" decoding=\"async\" src=\"/upload/editor_images/1740038645-mceu_82499060821740038642733.jpg\" height=\"300\" /></td>\n<td style=\"width: 49.7467%;\"><img loading=\"lazy\" decoding=\"async\" alt=\"Аэроспайк-валентинка - Новости - AM-Tech\" decoding=\"async\" src=\"/upload/editor_images/1740038637-mceu_54198888711740038634949.jpg\" height=\"300\" /></td>\n</tr>\n</tbody>\n</table>\n<p>Глядя на аэроспайк, кто-то может сказать, что это внеземная технология. Однако создатели уверяют, что это обычный двигатель, просто &laquo;вывернутый наизнанку&raquo;: камера сгорания становится тороидальной, а сопло формируется за счет центрального шипа и круговой оболочки вокруг него. Важно, что такой двигатель эффективен как на уровне моря, так и в вакууме, что важно для многоразовых вторых ступеней.</p>\n<p>Сложность проектирования аэроспайка заключается в его большой площади поверхности при одинаковом уровне тяги по сравнению с обычным двигателем. Когда уровень тяги увеличивается, охлаждать любой двигатель, включая аэроспайк, становится легче, так как поток топлива на единицу площади стенки камеры возрастает. Некоторые считают, что охладить аэроспайк при высоком давлении будет сложнее, потому что температура газа растет с увеличением давления. Это правда, поскольку у аэроспайка радиус стенки больше, и поэтому нужна большая толщина стенки, чем у обычного сопла в форме колокола.</p>\n<p>Медные сплавы с их отличной теплопроводностью упрощают охлаждение двигателя при увеличении тяги. Новый подход &mdash; <a href=\"https://am.tech/product/\">3D-печать</a> из медного сплава &mdash; делает это возможным. Например, аддитивные системы компании AM.TECH, функционирующие по технологии L-PBF/<a href=\"https://am.tech/product/slm-3d-printeri/\">SLM</a>, способны справиться и с такой задачей: для экспериментов подойдет <a href=\"https://am.tech/product/slm-3d-printeri/amt-16/\">AMT-16</a>, а для серийного производства &mdash; <a href=\"https://am.tech/product/slm-3d-printeri/amt-32/\">AMT-32</a>. Для этого потребуется спроектировать ракетный двигатель и отправить файл специалистам компании, которые произведут технологическую подготовку и отработают техпроцесс на любом, пригодном для L-PBF материале.</p>\n<p>Во время испытаний обнаружились небольшие прогорания на обратной стороне шипа при выключении и эрозия в горловине. Эти проблемы можно решить, изучив геометрию канала. С помощью современных технологий, таких как большая языковая модель Noyron, можно быстро скорректировать геометрию и перейти к созданию более крупных двигателей, что важно для космонавтики.</p>\n<p>Толщина и углы стенок аэроспайка рассчитываются с учетом теплового расширения, потока массы, теплопередачи и давления. Раньше сначала проектировали, а потом проверяли с помощью CFD (моделирования жидкостной динамики), но сейчас такой подход устарел. Современные методы вычислительной инженерии позволяют оптимизировать этот процесс.</p>\n<p>Хочется отметить тот факт, что сегодня границы между ИИ и инженером стираются, а последние модели 3D-принтеров могут напечатать практически любую геометрию. Впору говорить о взаимовыгодном симбиозе нейросетей и аддитивных технологий с небывалыми ранее возможностями &ndash; совершенное производство без ограничений!</p>\n",
+  "protected": false,
+  "block_version": 0
+ },
+ "excerpt": {
+  "raw": "",
+  "rendered": "<p>Один из лучших подарков в жизни &mdash; вторая половинка. Вы её уже нашли? А для креативных двигателестроителей нет ничего лучше, чем создать, испытать и разобрать на части ракетный двигатель, с упоением изучая состояние его компонентов. Ученые из некоммерческой организации Race 2 Space, стремящиеся сделать космос доступным для всех, разрезали ракетный клиновоздушный двигатель, именуемый аэроспайком. Этот [&hellip;]</p>\n",
+  "protected": false
+ },
+ "author": 1,
+ "featured_media": 2079,
+ "comment_status": "open",
+ "ping_status": "open",
+ "template": "",
+ "meta": {
+  "_acf_changed": false,
+  "_yoast_wpseo_title": "Аэроспайк-валентинка | AM-Tech",
+  "_yoast_wpseo_metadesc": "Аэроспайк-валентинка - новости компании AM-Tech",
+  "_yoast_wpseo_meta-robots-noindex": ""
+ },
+ "news_category": [
+  970
+ ],
+ "news_tag": [],
+ "permalink_template": "https://am-tech.ru/news/%pagename%/",
+ "generated_slug": "ajerospajk-valentinka",
+ "class_list": [
+  "post-2138",
+  "news",
+  "type-news",
+  "status-publish",
+  "has-post-thumbnail",
+  "hentry",
+  "news_category-novosti"
+ ],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Аэроспайк-валентинка | AM-Tech</title>\n<meta name=\"description\" content=\"Аэроспайк-валентинка - новости компании AM-Tech\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/news/aerospayk-valentinka/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Аэроспайк-валентинка | AM-Tech\" />\n<meta property=\"og:description\" content=\"Аэроспайк-валентинка - новости компании AM-Tech\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/news/aerospayk-valentinka/\" />\n<meta property=\"og:site_name\" content=\"am-tech.ru\" />\n<meta property=\"article:modified_time\" content=\"2025-09-21T13:25:04+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2025/02/sj442bx7u1jdfjwr7guzi9iy45bam4cu.png\" />\n\t<meta property=\"og:image:width\" content=\"700\" />\n\t<meta property=\"og:image:height\" content=\"466\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/news/aerospayk-valentinka/\",\"url\":\"https://am-tech.ru/news/aerospayk-valentinka/\",\"name\":\"Аэроспайк-валентинка | AM-Tech\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/news/aerospayk-valentinka/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/news/aerospayk-valentinka/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2025/02/sj442bx7u1jdfjwr7guzi9iy45bam4cu.png\",\"datePublished\":\"2025-02-20T08:06:00+00:00\",\"dateModified\":\"2025-09-21T13:25:04+00:00\",\"description\":\"Аэроспайк-валентинка - новости компании AM-Tech\",\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/news/aerospayk-valentinka/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/news/aerospayk-valentinka/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2025/02/sj442bx7u1jdfjwr7guzi9iy45bam4cu.png\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2025/02/sj442bx7u1jdfjwr7guzi9iy45bam4cu.png\",\"width\":700,\"height\":466},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"am-tech.ru\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"am-tech.ru\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"am-tech.ru\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "Аэроспайк-валентинка | AM-Tech",
+  "description": "Аэроспайк-валентинка - новости компании AM-Tech",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/news/aerospayk-valentinka/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "Аэроспайк-валентинка | AM-Tech",
+  "og_description": "Аэроспайк-валентинка - новости компании AM-Tech",
+  "og_url": "https://am-tech.ru/news/aerospayk-valentinka/",
+  "og_site_name": "am-tech.ru",
+  "article_modified_time": "2025-09-21T13:25:04+00:00",
+  "og_image": [
+   {
+    "width": 700,
+    "height": 466,
+    "url": "https://am-tech.ru/wp-content/uploads/2025/02/sj442bx7u1jdfjwr7guzi9iy45bam4cu.png",
+    "type": "image/png"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/news/aerospayk-valentinka/",
+     "url": "https://am-tech.ru/news/aerospayk-valentinka/",
+     "name": "Аэроспайк-валентинка | AM-Tech",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/news/aerospayk-valentinka/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/news/aerospayk-valentinka/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2025/02/sj442bx7u1jdfjwr7guzi9iy45bam4cu.png",
+     "datePublished": "2025-02-20T08:06:00+00:00",
+     "dateModified": "2025-09-21T13:25:04+00:00",
+     "description": "Аэроспайк-валентинка - новости компании AM-Tech",
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/news/aerospayk-valentinka/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/news/aerospayk-valentinka/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2025/02/sj442bx7u1jdfjwr7guzi9iy45bam4cu.png",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2025/02/sj442bx7u1jdfjwr7guzi9iy45bam4cu.png",
+     "width": 700,
+     "height": 466
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "am-tech.ru",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "am-tech.ru",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "am-tech.ru"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2138",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/types/news"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/users/1"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/comments?post=2138"
+   }
+  ],
+  "wp:featuredmedia": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/media/2079"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/media?parent=2138"
+   }
+  ],
+  "wp:term": [
+   {
+    "taxonomy": "news_category",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_category?post=2138"
+   },
+   {
+    "taxonomy": "news_tag",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_tag?post=2138"
+   }
+  ],
+  "wp:action-publish": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2138"
+   }
+  ],
+  "wp:action-unfiltered-html": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2138"
+   }
+  ],
+  "wp:action-assign-author": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2138"
+   }
+  ],
+  "wp:action-create-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2138"
+   }
+  ],
+  "wp:action-assign-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2138"
+   }
+  ],
+  "wp:action-create-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2138"
+   }
+  ],
+  "wp:action-assign-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2138"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

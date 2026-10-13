@@ -1,0 +1,22 @@
+[
+ {
+  "plan_task": 47,
+  "label": "Название категории (H1, хлебные крошки)",
+  "before_text": "3D - принтеры для печати керамикой",
+  "after_text": "3D-принтеры для печати керамикой",
+  "comment": "Дефис с пробелами. Адрес категории не меняется",
+  "type": "category",
+  "slug": "3d-print-keramika",
+  "field": "name",
+  "value": "3D-принтеры для печати керамикой",
+  "row": 94,
+  "id": 21,
+  "url": "https://am-tech.ru/katalog/promyshlennye-3d-printery-po-sla-i-keramike/3d-print-keramika/",
+  "before": "3D - принтеры для печати керамикой",
+  "after": "3D-принтеры для печати керамикой",
+  "saved": true,
+  "on_page": true,
+  "on_cached_page": true,
+  "status": "применено"
+ }
+]
