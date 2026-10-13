@@ -9,6 +9,8 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import date, timedelta
 from pathlib import Path
 
+import requests
+
 from . import audit, config, crawler, gap, http, positions
 from .config import DATA_DIR, REPORTS_DIR
 
@@ -363,6 +365,8 @@ def main(argv=None):
         a.func(a)
     except http.ApiError as exc:
         sys.exit(f"Ошибка API — {exc}")
+    except requests.RequestException as exc:  # повторы исчерпаны (5xx) или сеть недоступна
+        sys.exit(f"Сервис недоступен — {exc.__class__.__name__}: {str(exc)[:300]}")
 
 
 if __name__ == "__main__":
