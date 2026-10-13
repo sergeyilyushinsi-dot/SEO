@@ -1,0 +1,23 @@
+[
+ {
+  "plan_task": 24,
+  "label": "Description (Yoast)",
+  "type": "news",
+  "slug": "nejavnoe-modelirovanie-dlja-additivnogo-proizvodstva-2",
+  "field": "description",
+  "value": "Неявное моделирование в промышленном аддитивном производстве: где применяется, какие у него ограничения и как оно встраивается в проектирование по DfAM.",
+  "before_text": "(нет)",
+  "after_text": "Неявное моделирование в промышленном аддитивном производстве: где применяется, какие у него ограничения и как оно встраивается в проектирование по DfAM.",
+  "comment": "Поля Yoast открыты (задача 41 выполнена 13.10.2026), пробный запуск прошёл. 152 симв., по тексту страницы",
+  "page_path": "/news/nejavnoe-modelirovanie-dlja-additivnogo-proizvodstva-2/",
+  "row": 139,
+  "id": 4271,
+  "url": "https://am-tech.ru/news/nejavnoe-modelirovanie-dlja-additivnogo-proizvodstva-2/",
+  "before": "",
+  "after": "Неявное моделирование в промышленном аддитивном производстве: где применяется, какие у него ограничения и как оно встраивается в проектирование по DfAM.",
+  "saved": true,
+  "on_page": true,
+  "on_cached_page": true,
+  "status": "применено"
+ }
+]

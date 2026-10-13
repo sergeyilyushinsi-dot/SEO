@@ -1,0 +1,23 @@
+[
+ {
+  "plan_task": 24,
+  "label": "Description (Yoast)",
+  "type": "video",
+  "slug": "delegacija-korporacii-robototehniki-na-moskovskom-cifrovom-zavode",
+  "field": "description",
+  "value": "Делегация Корпорации Робототехники побывала на Московском цифровом заводе и увидела в работе 3D-принтеры AM.TECH по технологиям SLM, EBM и SLA.",
+  "before_text": "(нет)",
+  "after_text": "Делегация Корпорации Робототехники побывала на Московском цифровом заводе и увидела в работе 3D-принтеры AM.TECH по технологиям SLM, EBM и SLA.",
+  "comment": "Поля Yoast открыты (задача 41 выполнена 13.10.2026), пробный запуск прошёл. 143 симв., по тексту страницы",
+  "page_path": "/video-reviews/delegacija-korporacii-robototehniki-na-moskovskom-cifrovom-zavode/",
+  "row": 143,
+  "id": 4256,
+  "url": "https://am-tech.ru/video-reviews/delegacija-korporacii-robototehniki-na-moskovskom-cifrovom-zavode/",
+  "before": "",
+  "after": "Делегация Корпорации Робототехники побывала на Московском цифровом заводе и увидела в работе 3D-принтеры AM.TECH по технологиям SLM, EBM и SLA.",
+  "saved": true,
+  "on_page": true,
+  "on_cached_page": true,
+  "status": "применено"
+ }
+]
