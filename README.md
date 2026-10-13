@@ -87,14 +87,38 @@ YANDEX_CLOUD_FOLDER_ID=...
 Проверка: `curl -s https://am-tech.ru/wp-json/wp/v2/users/me` — 200 с логином; 401 `rest_not_logged_in` значит,
 что секрет не подставлен.
 
-Что можно менять через API (проверено по схеме REST 13.10.2026):
+Что можно менять через API (проверено 13.10.2026 от пользователя `seo-agent`: роли «Менеджер магазина» и SEO-роли
+Yoast, без прав администратора):
 
 | Объект | Через API | Нет в API |
 |---|---|---|
-| Категории товаров | название, текст (`description` — тут лежит SEO-текст категории) | title/description/noindex Yoast |
-| Товары (WooCommerce) | название (= H1), описание, краткое описание, мета-поля | title/description Yoast — проверить через `meta_data` |
-| Записи (новости, статьи) | текст, заголовок, title и description Yoast (`_yoast_wpseo_title`, `_yoast_wpseo_metadesc`) | noindex |
-| Страницы (Elementor) | только `_elementor_data` — правка рискованная, через черновик | title/description/noindex Yoast |
+| Товары, 71 шт. (`wc/v3/products`) | название (= H1), описание, краткое описание, атрибуты, title/description/noindex Yoast — в `meta_data` (`_yoast_wpseo_title`, `_yoast_wpseo_metadesc`, `_yoast_wpseo_meta-robots-noindex`) | — |
+| Категории товаров (`wc/v3/products/categories`) | название, SEO-текст категории (`description`) | title/description/noindex Yoast: Yoast хранит их в своих настройках, а не в полях категории |
+| Новости (`news`, 114), кейсы (`cases`, 7), страницы (13) | текст; у страниц только через `_elementor_data` (рискованно, через черновик) | title/description/noindex Yoast — откроет код ниже |
+| Записи `post` | title/description Yoast уже открыты | записей этого типа на сайте нет |
+
+Код для разработчика (тема или mu-plugin), открывает поля Yoast у страниц, новостей и кейсов — задача 41 плана:
+
+```php
+add_action('init', function () {
+    $keys = ['_yoast_wpseo_title', '_yoast_wpseo_metadesc', '_yoast_wpseo_meta-robots-noindex'];
+    foreach (['page', 'news', 'cases'] as $type) {
+        foreach ($keys as $key) {
+            register_post_meta($type, $key, [
+                'type'          => 'string',
+                'single'        => true,
+                'show_in_rest'  => true,
+                'auth_callback' => function ($allowed, $meta_key, $post_id) {
+                    return current_user_can('edit_post', $post_id);
+                },
+            ]);
+        }
+    }
+});
+```
+
+После правки мета-полей проверяй страницу на сайте: Yoast может отдавать старый title из своего кэша (indexables), пока
+запись не пересохранена.
 
 Редиректы, шаблоны (H1, alt), разметка, robots.txt и настройки Yoast через API не меняются — это задачи разработчику.
 
