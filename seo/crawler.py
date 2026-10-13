@@ -4,6 +4,7 @@ import json
 import re
 import sys
 import time
+from collections import defaultdict, deque
 from datetime import date
 from pathlib import Path
 from urllib import robotparser
@@ -17,6 +18,8 @@ from . import http
 from .config import DATA_DIR
 
 SKIP_EXT = re.compile(r"\.(jpe?g|png|gif|webp|svg|ico|pdf|zip|rar|7z|docx?|xlsx?|pptx?|mp4|avi|mov|stp|step|stl)$", re.I)
+# Сколько страниц обходить по ссылкам, если у сайта нет sitemap.
+DISCOVERY_LIMIT = 500
 LOC_TAGS = ("loc", "{http://www.sitemaps.org/schemas/sitemap/0.9}loc")
 WORD_RE = re.compile(r"[0-9A-Za-zА-Яа-яЁё]+(?:-[0-9A-Za-zА-Яа-яЁё]+)*")
 
@@ -173,34 +176,62 @@ def fetch_page(sess: requests.Session, url: str) -> dict:
     return row
 
 
-def crawl(base_url: str, limit: int | None = None, delay: float = 1.0, extra_urls: list[str] | None = None) -> Path:
-    """Краулит сайт по sitemap и сохраняет JSONL в data/crawl/<домен>/<дата>.jsonl."""
+def balanced(urls: list[str], limit: int | None) -> list[str]:
+    """Берёт URL поровну из каждого раздела (первый сегмент пути), чтобы лимит не съел один раздел товаров."""
+    if not limit or len(urls) <= limit:
+        return urls
+    groups: dict[str, deque] = defaultdict(deque)
+    for u in urls:
+        groups[(urlparse(u).path.strip("/").split("/") or [""])[0]].append(u)
+    picked: list[str] = []
+    while len(picked) < limit:
+        for queue in groups.values():
+            if queue and len(picked) < limit:
+                picked.append(queue.popleft())
+    return picked
+
+
+def crawl(base_url: str, limit: int | None = None, delay: float = 1.0) -> Path:
+    """Краулит сайт по sitemap (или по ссылкам, если sitemap нет) и сохраняет JSONL в data/crawl/<домен>/<дата>.jsonl."""
     sess = http.session()
     robots, sitemaps = load_robots(sess, base_url)
     urls = sitemap_urls(sess, base_url, sitemaps)
-    if not urls:
-        urls = [base_url]
-    for u in extra_urls or []:
-        if u not in urls:
-            urls.append(u)
-    if limit:
-        urls = urls[:limit]
+    discover = not urls
+    queue = deque(balanced(urls, limit) if urls else [base_url])
+    cap = (limit or DISCOVERY_LIMIT) if discover else len(queue)
+    seen = set(queue)
 
     domain = host_of(base_url)
     out = DATA_DIR / "crawl" / domain / f"{date.today().isoformat()}.jsonl"
     out.parent.mkdir(parents=True, exist_ok=True)
-    print(f"{domain}: {len(urls)} URL из sitemap, сохраняю в {out}", file=sys.stderr)
+    source = "sitemap не найден — обход по ссылкам" if discover else f"в sitemap {len(urls)} URL"
+    print(f"{domain}: {source}, к обходу до {cap} → {out}", file=sys.stderr)
+    done = ok = 0
+    first_error = ""
     with out.open("w", encoding="utf-8") as fh:
-        for i, url in enumerate(urls, 1):
+        while queue and done < cap:
+            url = queue.popleft()
             if robots and not robots.can_fetch(http.BOT_TOKEN, url):
                 row = {"url": url, "status": "robots-blocked"}
             else:
                 row = fetch_page(sess, url)
                 time.sleep(delay)
-            row["in_sitemap"] = True
+            row["in_sitemap"] = not discover
+            ok += row.get("status") == 200
+            first_error = first_error or row.get("error", "")
             fh.write(json.dumps(row, ensure_ascii=False) + "\n")
-            if i % 25 == 0:
-                print(f"  {i}/{len(urls)}", file=sys.stderr)
+            done += 1
+            if discover:
+                for link in row.get("internal_links", []):
+                    if link not in seen and "?" not in link and not SKIP_EXT.search(urlparse(link).path):
+                        seen.add(link)
+                        queue.append(link)
+            if done % 50 == 0:
+                print(f"  {domain}: {done}/{cap}", file=sys.stderr)
+    if not ok:
+        out.unlink()
+        raise http.ApiError(f"{domain}: ни одна страница не загрузилась ({first_error or 'нет ответа 200'})")
+    print(f"{domain}: готово, {done} страниц, из них 200 OK — {ok}", file=sys.stderr)
     return out
 
 

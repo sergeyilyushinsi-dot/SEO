@@ -56,8 +56,18 @@ api.webmaster.yandex.net
 api-metrika.yandex.net
 searchapi.api.cloud.yandex.net
 api.wordstat.yandex.net
-<домены конкурентов>
+3dvision.su
+lsystems.ru
+www.lsystems.ru
+onsint.ru
+vilitek.ru
+amfastform.ru
+www.amfastform.ru
+3dlam.com
+lider-3d.ru
 ```
+
+Новых конкурентов добавляйте и в `config/competitors.yaml`, и в разрешённые домены.
 
 ## Установка (локально)
 

@@ -51,7 +51,7 @@ def find_gaps(own_rows: list[dict], comp_rows: list[dict], threshold: float = 0.
 
     result = []
     for r in comp_rows:
-        if r.get("status") != 200 or "title" not in r:
+        if r.get("status") != 200 or "title" not in r or "noindex" in (r.get("meta_robots") or "").lower():
             continue
         topic = page_topic(r, _brand_words(host_of(r["url"])))
         if len(topic) < 2:

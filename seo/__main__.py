@@ -5,6 +5,7 @@ import re
 import sys
 import time
 from collections import Counter
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import date, timedelta
 from pathlib import Path
 
@@ -12,6 +13,8 @@ from . import audit, config, crawler, gap, http, positions
 from .config import DATA_DIR, REPORTS_DIR
 
 TODAY = date.today()
+# Лимит страниц на конкурента: выборка равномерно по разделам сайта.
+COMPETITOR_LIMIT = 1000
 
 
 def _days_range(days: int, lag: int = 0) -> tuple[str, str]:
@@ -40,13 +43,21 @@ def _slug(text: str) -> str:
 
 def cmd_crawl(a):
     if a.competitors:
-        targets = [_site_url(c["domain"]) for c in config.competitors()]
+        targets = [c.get("url") or _site_url(c["domain"]) for c in config.competitors()]
         if not targets:
             sys.exit("config/competitors.yaml пуст — добавьте конкурентов")
+        limit = a.limit or COMPETITOR_LIMIT
     else:
         targets = [_site_url(a.domain)]
-    for url in targets:
-        print(crawler.crawl(url, limit=a.limit, delay=a.delay))
+        limit = a.limit
+    # Сайты обходятся параллельно, но каждый — последовательно, с паузой между запросами.
+    with ThreadPoolExecutor(max_workers=len(targets)) as pool:
+        futures = {pool.submit(crawler.crawl, url, limit, a.delay): url for url in targets}
+        for future in as_completed(futures):
+            try:
+                print(future.result())
+            except Exception as exc:  # один недоступный сайт не должен останавливать остальные
+                print(f"! {futures[future]}: {exc}", file=sys.stderr)
 
 
 def cmd_audit(a):
@@ -87,10 +98,13 @@ def cmd_gap(a):
         if not path:
             print(f"! нет краулинга {domain}: python -m seo crawl --domain {domain}")
             continue
-        rows = gap.find_gaps(own_rows, crawler.load_crawl(path), a.threshold)
+        comp_rows = crawler.load_crawl(path)
+        rows = gap.find_gaps(own_rows, comp_rows, a.threshold)
         out = gap.write_gaps(rows, domain)
         gaps = [r for r in rows if r["gap"]]
         print(f"\n## {domain}: страниц {len(rows)}, нераскрытых тем {len(gaps)} → {out}")
+        sections = Counter(audit.section(r["url"]) for r in comp_rows if r.get("status") == 200)
+        print("Разделы:", ", ".join(f"/{s}/ {n}" for s, n in sections.most_common(15)))
         for r in gaps[: a.top]:
             print(f"- [{r['coverage']}] {r['title'][:90]} — {r['url']}")
         print("Частые основы в нераскрытых темах:", ", ".join(f"{t}({n})" for t, n in gap.gap_terms(rows, 40)))
