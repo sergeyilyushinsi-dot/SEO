@@ -200,7 +200,7 @@ def cmd_serp(a):
             pos, url = position_of(results, own)
             row = {"keyword": kw["keyword"], "cluster": kw.get("cluster", ""), "position": pos or "", "url": url,
                    "target_url": kw.get("target_url", "")}
-            if row["target_url"] and url and url.rstrip("/") != row["target_url"].rstrip("/"):
+            if row["target_url"].startswith("http") and url and url.rstrip("/") != row["target_url"].rstrip("/"):
                 row["note"] = "ранжируется не целевая страница"
             for c in comps:
                 row[c] = position_of(results, c)[0] or ""

@@ -30,7 +30,7 @@ directions:
   slm:
     name: SLM 3D-принтеры по металлу
     url: https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/
-    seeds: [slm 3d принтер, 3d принтер по металлу, промышленный 3d принтер по металлу, селективное лазерное плавление, 3d печать металлом оборудование]
+    seeds: [slm 3d принтер, купить slm принтер, 3d принтер по металлу, промышленный 3d принтер по металлу, селективное лазерное плавление, 3d печать металлом оборудование, российский slm принтер]
   ebm:
     name: EBM 3D-принтеры (электронно-лучевая плавка)
     url: https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/ebm-3d-print/
@@ -67,7 +67,12 @@ directions:
     name: Комплексные решения и услуги
     # На 13.10.2026 адрес редиректит на .../kompleksnye-reshenija-dlja-promyshlennosti-2/ с noindex — см. reports/initial-audit-2026-10-13.md
     url: https://am-tech.ru/kompleksnye-reshenija-dlja-promyshlennosti/
-    seeds: [реверс инжиниринг, 3d контроль качества деталей, аддитивное производство под ключ, 3d сканирование услуги]
+    seeds: [аддитивное производство под ключ, внедрение аддитивных технологий, 3d контроль качества деталей]
+  services:
+    name: Услуги — 3D-печать и 3D-сканирование на заказ
+    # Посадочных страниц под услуги на сайте нет (13.10.2026) — нужно создать, см. reports/slm-services-plan-2026-10-13.md
+    url: null
+    seeds: [3d печать металлом на заказ, услуги 3d печати металлом, slm печать на заказ, 3d сканирование на заказ, услуги 3d сканирования, реверс инжиниринг на заказ, контроль геометрии деталей услуги]
   leasing:
     name: Лизинг оборудования
     url: https://am-tech.ru/leasing/

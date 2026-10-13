@@ -35,9 +35,25 @@ cmm,,координатно измерительная машина,,https://am-
 cmm,,ким машина,,https://am-tech.ru/katalog/kim-3d/,,,,,new,seed из project.yaml
 cmm,,портальная ким,,https://am-tech.ru/katalog/kim-3d/,,,,,new,seed из project.yaml
 cmm,,купить ким,,https://am-tech.ru/katalog/kim-3d/,,,,,new,seed из project.yaml
-solutions,,реверс инжиниринг,,https://am-tech.ru/kompleksnye-reshenija-dlja-promyshlennosti/,,,,,new,seed из project.yaml
+services,,реверс инжиниринг,,новая страница,,,,,new,перенесено из solutions: услуги — отдельное направление
 solutions,,3d контроль качества деталей,,https://am-tech.ru/kompleksnye-reshenija-dlja-promyshlennosti/,,,,,new,seed из project.yaml
 solutions,,аддитивное производство под ключ,,https://am-tech.ru/kompleksnye-reshenija-dlja-promyshlennosti/,,,,,new,seed из project.yaml
-solutions,,3d сканирование услуги,,https://am-tech.ru/kompleksnye-reshenija-dlja-promyshlennosti/,,,,,new,seed из project.yaml
+services,,3d сканирование услуги,,новая страница,,,,,new,перенесено из solutions: услуги — отдельное направление
 leasing,,3d принтер в лизинг,,https://am-tech.ru/leasing/,,,,,new,seed из project.yaml
 leasing,,лизинг промышленного оборудования 3d,,https://am-tech.ru/leasing/,,,,,new,seed из project.yaml
+slm,,купить slm принтер,commercial,https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/,,,,,new,"маркер; Вилитек в ТОП-3 (со слов клиента, 13.10.2026)"
+slm,,slm принтер цена,commercial,https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/,,,,,new,
+slm,,купить 3d принтер по металлу,commercial,https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/,,,,,new,
+slm,,3d принтер по металлу цена,commercial,https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/,,,,,new,
+slm,,российский slm принтер,commercial,https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/,,,,,new,реестр ГИСП/ПП 719 — аргумент против «Лазерных систем»
+slm,,slm принтер реестр минпромторга,,https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/,,,,,new,
+slm,,3d печать медью,,https://am-tech.ru/product/am-tech-m-160g/,,,,,new,M-160G с зелёным лазером; сейчас в категории default
+slm,,3d принтер для печати медью,commercial,https://am-tech.ru/product/am-tech-m-160g/,,,,,new,
+slm,,slm принтер зеленый лазер,,https://am-tech.ru/product/am-tech-m-160g/,,,,,new,
+services,,3d печать металлом на заказ,commercial,новая страница,,,,,new,
+services,,услуги 3d печати металлом,commercial,новая страница,,,,,new,
+services,,slm печать на заказ,commercial,новая страница,,,,,new,
+services,,3d сканирование на заказ,commercial,новая страница,,,,,new,
+services,,услуги 3d сканирования,commercial,новая страница,,,,,new,
+services,,реверс инжиниринг на заказ,commercial,новая страница,,,,,new,
+services,,контроль геометрии деталей услуги,commercial,новая страница,,,,,new,
