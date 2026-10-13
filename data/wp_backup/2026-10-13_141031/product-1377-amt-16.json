@@ -1,0 +1,639 @@
+{
+ "id": 1377,
+ "name": "AMT-16",
+ "slug": "amt-16",
+ "permalink": "https://am-tech.ru/product/amt-16/",
+ "date_created": "2025-08-17T00:37:49",
+ "date_created_gmt": "2025-08-16T21:37:49",
+ "date_modified": "2026-09-11T11:10:23",
+ "date_modified_gmt": "2026-09-11T08:10:23",
+ "type": "simple",
+ "status": "publish",
+ "featured": false,
+ "catalog_visibility": "visible",
+ "description": "<!-- AMT-16: блок описания товара -->\r\n<section class=\"amt16-desc\">\r\n<style>\r\n.amt16-desc{--a:#ff6a00;--as:#fff3ea;--t:#151515;--m:#70706b;--l:#deded8;--s:#f6f6f3;--r:26px;--pill:999px;color:var(--t);font-family:inherit;line-height:1.5}.amt16-desc *{box-sizing:border-box}.amt16-desc .sec{padding:80px 0;border-top:1px solid var(--l)}.amt16-desc .sec:first-child{border-top:0;padding-top:40px}.amt16-desc .ey{margin:0 0 16px;font-size:13px;font-weight:600;color:#50504c}.amt16-desc .ey span{color:var(--a)}.amt16-desc h2,.amt16-desc h3,.amt16-desc p{margin-top:0}.amt16-desc h2{max-width:900px;margin-bottom:22px;font-size:clamp(34px,4vw,60px);line-height:1.04;letter-spacing:-.04em;font-weight:500}.amt16-desc h3{margin-bottom:12px;font-size:clamp(22px,2vw,30px);line-height:1.14;letter-spacing:-.025em;font-weight:500}.amt16-desc .lead{max-width:900px;margin-bottom:0;color:#3d3d39;font-size:clamp(18px,1.6vw,24px);line-height:1.5}.amt16-desc .intro{display:grid;grid-template-columns:.75fr 1.25fr;gap:64px;align-items:start}.amt16-desc .copy p{margin-bottom:20px;color:#41413d;font-size:17px;line-height:1.65}.amt16-desc .quick{margin-top:48px;display:grid;grid-template-columns:repeat(4,1fr);border-top:1px solid var(--l)}.amt16-desc .qi{min-height:118px;padding:22px 24px 0 0;border-right:1px solid var(--l)}.amt16-desc .qi:nth-child(n+2){padding-left:24px}.amt16-desc .qi:last-child{border-right:0}.amt16-desc .qi strong{display:block;margin-bottom:6px;font-size:clamp(24px,2.2vw,32px);font-weight:500;letter-spacing:-.035em}.amt16-desc .qi span{color:var(--m);font-size:13px}.amt16-desc .features{margin-top:34px;display:grid;gap:14px}.amt16-desc .feature{padding:24px 26px;display:grid;grid-template-columns:52px 1fr;gap:18px;border:1px solid var(--l);border-radius:var(--r);background:#fff}.amt16-desc .num{width:44px;height:44px;display:flex;align-items:center;justify-content:center;border-radius:50%;background:var(--as);color:var(--a);font-size:12px;font-weight:700}.amt16-desc .feature p,.amt16-desc .card p{margin:0;color:#5a5a55;font-size:15px;line-height:1.55}.amt16-desc .specwrap{padding:40px;border-radius:30px;background:var(--s)}.amt16-desc .tabs{margin:30px 0 22px;display:flex;gap:8px;flex-wrap:wrap}.amt16-desc .tab{padding:10px 15px;border:1px solid #d1d1cb;border-radius:var(--pill);background:#fff;color:#5c5c57;font:inherit;font-size:13px;cursor:pointer}.amt16-desc .tab.active{border-color:var(--a);color:var(--a);background:#fff7f1}.amt16-desc .spec{overflow:hidden;border:1px solid var(--l);border-radius:26px;background:#fff}.amt16-desc .group{padding:0 28px}.amt16-desc .group+.group{border-top:1px solid var(--l)}.amt16-desc .gt{padding:26px 0 14px;display:flex;align-items:center;gap:10px;font-size:14px;font-weight:600}.amt16-desc .gt:before{content:\"\";width:8px;height:8px;border-radius:50%;background:var(--a)}.amt16-desc .row{min-height:78px;display:grid;grid-template-columns:minmax(230px,.85fr) 1.15fr;gap:34px;align-items:center;border-top:1px solid #ecece8}.amt16-desc .name{color:#767671;font-size:14px}.amt16-desc .value{font-size:16px;font-weight:500;line-height:1.5}.amt16-desc .value.big{font-size:22px;letter-spacing:-.02em}.amt16-desc .sub{color:#5d5d58;font-size:14px;font-weight:400}.amt16-desc .cards{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:38px}.amt16-desc .card{min-height:250px;padding:28px;display:flex;flex-direction:column;justify-content:space-between;border:1px solid var(--l);border-radius:var(--r);background:#fff}.amt16-desc .modules{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:38px}.amt16-desc .module{padding:26px;border:1px solid var(--l);border-radius:var(--r);background:#fff}.amt16-desc .mlabel{margin-bottom:18px;color:var(--a);font-size:12px;font-weight:600}.amt16-desc .mgrid{display:grid;gap:14px}.amt16-desc .mval{padding-top:12px;border-top:1px solid var(--l)}.amt16-desc .mval strong{display:block;margin-bottom:3px;font-size:18px;font-weight:500}.amt16-desc .mval span{color:#777772;font-size:11px}.amt16-desc .seo{display:grid;grid-template-columns:.8fr 1.2fr;gap:64px}.amt16-desc .seo p{margin-bottom:20px;color:#41413d;font-size:17px;line-height:1.65}.amt16-desc .list{margin:26px 0 0;padding:0;list-style:none;display:grid;gap:10px}.amt16-desc .list li{position:relative;padding-left:22px;color:#444440}.amt16-desc .list li:before{content:\"\";position:absolute;left:0;top:.72em;width:7px;height:7px;border-radius:50%;background:var(--a)}.amt16-desc .note{margin-top:28px;padding:22px 24px;border-left:3px solid var(--a);border-radius:0 18px 18px 0;background:#fff7f1;color:#555550;font-size:14px}@media(max-width:1000px){.amt16-desc .intro,.amt16-desc .seo{grid-template-columns:1fr}.amt16-desc .quick{grid-template-columns:repeat(2,1fr)}.amt16-desc .cards,.amt16-desc .modules{grid-template-columns:1fr}}@media(max-width:700px){.amt16-desc .sec{padding:60px 0}.amt16-desc .quick{grid-template-columns:1fr}.amt16-desc .qi,.amt16-desc .qi:nth-child(n+2){min-height:auto;padding:17px 0;border-right:0;border-bottom:1px solid var(--l)}.amt16-desc .specwrap{padding:24px 16px}.amt16-desc .group{padding:0 16px}.amt16-desc .row{grid-template-columns:1fr;gap:7px;padding:16px 0}.amt16-desc .name{font-size:12px}}\r\n</style>\r\n<div class=\"sec\"><div class=\"intro\"><div><div class=\"ey\"><span>AMT-16</span> / промышленная SLM-система</div><h2>Компактная промышленная SLM-платформа для точной печати металлом</h2></div><div class=\"copy\"><p>AMT-16 — компактный промышленный SLM-принтер для высокоточного изготовления металлических деталей, прототипирования и серийного аддитивного производства. Установка сочетает область построения Ø165×225 мм, волоконный лазер мощностью 500 Вт и динамическую фокусировку лазерного луча.</p><p>Компактная компоновка позволяет разместить AMT-16 на производственном участке площадью около 8 м². Открытая программная платформа PrintMate предоставляет более 60 параметров настройки процесса, а система контроля отслеживает состояние защитной атмосферы и качество порошкового слоя.</p></div></div><div class=\"quick\"><div class=\"qi\"><strong>Ø165×225</strong><span>область построения, мм</span></div><div class=\"qi\"><strong>500 Вт</strong><span>мощность лазера</span></div><div class=\"qi\"><strong>2 датчика O₂</strong><span>контроль атмосферы</span></div><div class=\"qi\"><strong>930 кг</strong><span>масса установки</span></div></div><div class=\"features\"><div class=\"feature\"><div class=\"num\">01</div><div><h3>Динамическая фокусировка</h3><p>Изменение диаметра лазерного пятна позволяет выбирать между более производительным режимом построения и режимом с повышенной точностью.</p></div></div><div class=\"feature\"><div class=\"num\">02</div><div><h3>Открытая настройка процесса</h3><p>PrintMate предоставляет более 60 параметров лазерного синтеза и позволяет адаптировать режимы под конкретный порошковый материал и задачу.</p></div></div><div class=\"feature\"><div class=\"num\">03</div><div><h3>Контроль порошкового слоя</h3><p>Система компьютерного зрения анализирует равномерность нанесения порошка и помогает выявлять отклонения в процессе построения.</p></div></div></div></div>\r\n<div class=\"sec\"><div class=\"specwrap\"><div class=\"ey\">AMT-16 / Характеристики</div><h2>Технические параметры</h2><p class=\"lead\">Основные параметры установки сгруппированы по процессу печати, контролю и габаритам оборудования.</p><div class=\"tabs\"><button class=\"tab active\" type=\"button\" data-target=\"all\">Все параметры</button><button class=\"tab\" type=\"button\" data-target=\"process\">Печать</button><button class=\"tab\" type=\"button\" data-target=\"control\">Контроль</button><button class=\"tab\" type=\"button\" data-target=\"dimensions\">Габариты</button></div><div class=\"spec\"><div class=\"group\" data-group=\"process\"><div class=\"gt\">Печать</div><div class=\"row\"><div class=\"name\">Габариты области построения, Ш×Г×В</div><div class=\"value big\">Ø165 × 225 мм</div></div><div class=\"row\"><div class=\"name\">Количество лазеров</div><div class=\"value big\">1 шт.</div></div><div class=\"row\"><div class=\"name\">Мощность лазера</div><div class=\"value\">500 Вт</div></div><div class=\"row\"><div class=\"name\">Максимальная масса изделия</div><div class=\"value\">30 кг</div></div></div><div class=\"group\" data-group=\"control\"><div class=\"gt\">Контроль</div><div class=\"row\"><div class=\"name\">Количество датчиков кислорода</div><div class=\"value\">2 шт.</div></div><div class=\"row\"><div class=\"name\">Программная платформа</div><div class=\"value\">PrintMate <span class=\"sub\">/ более 60 параметров процесса</span></div></div><div class=\"row\"><div class=\"name\">Контроль порошкового слоя</div><div class=\"value\">Система компьютерного зрения</div></div></div><div class=\"group\" data-group=\"dimensions\"><div class=\"gt\">Габариты</div><div class=\"row\"><div class=\"name\">Основной модуль, Ш×Г×В</div><div class=\"value\">1300 × 900 × 2200 мм / 850 кг</div></div><div class=\"row\"><div class=\"name\">Модуль охлаждения, Ш×Г×В</div><div class=\"value\">780 × 890 × 475 мм / 80 кг</div></div><div class=\"row\"><div class=\"name\">Масса установки</div><div class=\"value\">930 кг</div></div></div></div></div></div>\r\n<div class=\"sec\"><div class=\"ey\">Ключевые возможности</div><h2>Гибкость процесса в компактном промышленном формате</h2><p class=\"lead\">AMT-16 рассчитан на задачи, где важны точная настройка режима, работа с разными металлическими порошками и контролируемая повторяемость процесса.</p><div class=\"cards\"><div class=\"card\"><div class=\"num\">01</div><div><h3>Динамическая оптика</h3><p>Система динамической фокусировки добавляет технологу дополнительный параметр управления лазерным пятном.</p></div></div><div class=\"card\"><div class=\"num\">02</div><div><h3>Широкий выбор материалов</h3><p>Установка рассчитана на работу с нержавеющей сталью, кобальт-хромом, никелевыми, титановыми и алюминиевыми сплавами.</p></div></div><div class=\"card\"><div class=\"num\">03</div><div><h3>Промышленный мониторинг</h3><p>Датчики кислорода, контроль давления и мониторинг фильтрации помогают поддерживать стабильные условия длительного построения.</p></div></div></div></div>\r\n<div class=\"sec\"><div class=\"ey\">Компоновка оборудования</div><h2>Компактная установка и отдельный модуль охлаждения</h2><div class=\"modules\"><div class=\"module\"><div class=\"mlabel\">01 </div><h3>Основной модуль</h3><div class=\"mgrid\"><div class=\"mval\"><strong>1300 × 900 × 2200 мм</strong><span>габариты, Ш×Г×В</span></div><div class=\"mval\"><strong>850 кг</strong><span>масса</span></div></div></div><div class=\"module\"><div class=\"mlabel\">02 </div><h3>Модуль охлаждения</h3><div class=\"mgrid\"><div class=\"mval\"><strong>780 × 890 × 475 мм</strong><span>габариты, Ш×Г×В</span></div><div class=\"mval\"><strong>80 кг</strong><span>масса</span></div></div></div><div class=\"module\"><div class=\"mlabel\">03 </div><h3>Установка в сборе</h3><div class=\"mgrid\"><div class=\"mval\"><strong>≈ 8 м²</strong><span>площадь размещения</span></div><div class=\"mval\"><strong>930 кг</strong><span>общая масса</span></div></div></div></div></div>\r\n<div class=\"sec\"><div class=\"seo\"><div><div class=\"ey\">Промышленная SLM-печать</div><h2>AMT-16 для исследований, прототипирования и промышленного производства</h2></div><div><p>Промышленный SLM 3D-принтер AMT-16 подходит для выпуска металлических изделий со сложной внутренней геометрией, опытного производства и небольших серий. Рабочая зона Ø165×225 мм делает систему удобной для компактных производственных участков и лабораторий, которым нужен полноценный промышленный процесс.</p><p>Лазер мощностью 500 Вт и динамическая фокусировка позволяют гибко подбирать режим построения. Унифицированная оптическая архитектура серии AMT упрощает перенос технологических режимов между установками разного формата.</p><p>AMT-16 поддерживает металлические порошки на основе титана, алюминия, никеля, железа и кобальт-хрома, поэтому может использоваться в машиностроении, энергетике, медицине и при производстве технологической оснастки.</p><ul class=\"list\"><li>рабочая область Ø165×225 мм;</li><li>лазер 500 Вт и динамическая фокусировка;</li><li>2 датчика контроля кислорода;</li><li>максимальная масса изделия 30 кг;</li><li>PrintMate с более чем 60 параметрами процесса;</li><li>общая масса установки 930 кг.</li></ul></div></div></div>\r\n<script>(function(){const r=document.querySelector('.amt16-desc');if(!r)return;const t=[...r.querySelectorAll('.tab')],g=[...r.querySelectorAll('.group')];t.forEach(b=>b.addEventListener('click',()=>{const x=b.dataset.target;t.forEach(z=>z.classList.toggle('active',z===b));g.forEach(y=>y.style.display=(x==='all'||y.dataset.group===x)?'':'none')}));})();</script>\r\n</section>",
+ "short_description": "<p class=\"PDq2pG_selectionAnchorContainer\" data-start=\"0\" data-end=\"183\"><strong data-start=\"0\" data-end=\"10\">AMT-16</strong> — компактный промышленный SLM-принтер для 3D-печати металлом. Оснащён лазером <strong data-start=\"89\" data-end=\"99\" data-is-only-node=\"\">500 Вт</strong>, динамической фокусировкой луча и верхней загрузкой порошка без остановки печати.</p>\r\n<p data-start=\"185\" data-end=\"292\" data-is-last-node=\"\" data-is-only-node=\"\">Установка внесена в <strong data-start=\"205\" data-end=\"254\">реестр российского промышленного оборудования</strong>.<br data-start=\"255\" data-end=\"258\" /><strong data-start=\"258\" data-end=\"292\" data-is-last-node=\"\">№ реестровой записи: <a href=\"https://gisp.gov.ru/goods/#/product/4954159\">10876808</a></strong></p>",
+ "sku": "",
+ "price": "",
+ "regular_price": "",
+ "sale_price": "",
+ "date_on_sale_from": null,
+ "date_on_sale_from_gmt": null,
+ "date_on_sale_to": null,
+ "date_on_sale_to_gmt": null,
+ "on_sale": false,
+ "purchasable": false,
+ "total_sales": 0,
+ "virtual": false,
+ "downloadable": false,
+ "downloads": [],
+ "download_limit": -1,
+ "download_expiry": -1,
+ "external_url": "",
+ "button_text": "",
+ "tax_status": "taxable",
+ "tax_class": "",
+ "manage_stock": false,
+ "stock_quantity": null,
+ "backorders": "no",
+ "backorders_allowed": false,
+ "backordered": false,
+ "low_stock_amount": null,
+ "sold_individually": false,
+ "weight": "",
+ "dimensions": {
+  "length": "",
+  "width": "",
+  "height": ""
+ },
+ "shipping_required": true,
+ "shipping_taxable": true,
+ "shipping_class": "",
+ "shipping_class_id": 0,
+ "reviews_allowed": true,
+ "average_rating": "0",
+ "rating_count": 0,
+ "upsell_ids": [],
+ "cross_sell_ids": [],
+ "parent_id": 0,
+ "purchase_note": "",
+ "categories": [
+  {
+   "id": 18,
+   "name": "SLM 3D - принтеры",
+   "slug": "slm-3d-printeri"
+  }
+ ],
+ "brands": [],
+ "tags": [],
+ "images": [
+  {
+   "id": 1378,
+   "date_created": "2025-08-17T03:37:49",
+   "date_created_gmt": "2025-08-16T21:37:49",
+   "date_modified": "2025-08-17T03:37:49",
+   "date_modified_gmt": "2025-08-16T21:37:49",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/g12s47zqysfj6sz9xypp4ylc4zqucftz.png",
+   "name": "g12s47zqysfj6sz9xypp4ylc4zqucftz",
+   "alt": ""
+  },
+  {
+   "id": 1380,
+   "date_created": "2025-08-17T03:37:54",
+   "date_created_gmt": "2025-08-16T21:37:54",
+   "date_modified": "2025-08-17T03:37:54",
+   "date_modified_gmt": "2025-08-16T21:37:54",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/g2v56mvo06ssq95n4udnbq4oyusgox58-scaled.png",
+   "name": "g2v56mvo06ssq95n4udnbq4oyusgox58",
+   "alt": ""
+  },
+  {
+   "id": 1381,
+   "date_created": "2025-08-17T03:38:18",
+   "date_created_gmt": "2025-08-16T21:38:18",
+   "date_modified": "2025-08-17T03:38:18",
+   "date_modified_gmt": "2025-08-16T21:38:18",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/ioxhakvknk7f65w42k8dbgiykppdcscy-scaled.jpg",
+   "name": "ioxhakvknk7f65w42k8dbgiykppdcscy",
+   "alt": ""
+  },
+  {
+   "id": 1382,
+   "date_created": "2025-08-17T03:38:28",
+   "date_created_gmt": "2025-08-16T21:38:28",
+   "date_modified": "2025-08-17T03:38:28",
+   "date_modified_gmt": "2025-08-16T21:38:28",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/31mi3b4za9lzy9q5kx57atzcuyb1n9qr-scaled.jpg",
+   "name": "31mi3b4za9lzy9q5kx57atzcuyb1n9qr",
+   "alt": ""
+  },
+  {
+   "id": 1383,
+   "date_created": "2025-08-17T03:38:38",
+   "date_created_gmt": "2025-08-16T21:38:38",
+   "date_modified": "2025-08-17T03:38:38",
+   "date_modified_gmt": "2025-08-16T21:38:38",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/1xh68zh2puc9kmqpmcdim2pcnvqvrgat-scaled.jpg",
+   "name": "1xh68zh2puc9kmqpmcdim2pcnvqvrgat",
+   "alt": ""
+  },
+  {
+   "id": 1384,
+   "date_created": "2025-08-17T03:38:49",
+   "date_created_gmt": "2025-08-16T21:38:49",
+   "date_modified": "2025-08-17T03:38:49",
+   "date_modified_gmt": "2025-08-16T21:38:49",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/uh35o1cohghhsb8sh9orlpbnazohe70z-scaled.jpg",
+   "name": "uh35o1cohghhsb8sh9orlpbnazohe70z",
+   "alt": ""
+  },
+  {
+   "id": 1385,
+   "date_created": "2025-08-17T03:39:03",
+   "date_created_gmt": "2025-08-16T21:39:03",
+   "date_modified": "2025-08-17T03:39:03",
+   "date_modified_gmt": "2025-08-16T21:39:03",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/18reba2n2bsn8kananear46sxvyoivwt-scaled.jpg",
+   "name": "18reba2n2bsn8kananear46sxvyoivwt",
+   "alt": ""
+  },
+  {
+   "id": 1386,
+   "date_created": "2025-08-17T03:39:17",
+   "date_created_gmt": "2025-08-16T21:39:17",
+   "date_modified": "2025-08-17T03:39:17",
+   "date_modified_gmt": "2025-08-16T21:39:17",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/743y0sd4iugybjrezq43vms5klme5n3s-scaled.jpg",
+   "name": "743y0sd4iugybjrezq43vms5klme5n3s",
+   "alt": ""
+  }
+ ],
+ "attributes": [
+  {
+   "id": 3542,
+   "name": "Габариты области построения ШхГхВ (мм)",
+   "slug": "pa_gabarity-oblasti-postroenija",
+   "position": 0,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "ø165х225"
+   ]
+  },
+  {
+   "id": 3485,
+   "name": "Количество лазеров, шт",
+   "slug": "pa_kolichestvo-lazerov-sht",
+   "position": 1,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "1"
+   ]
+  },
+  {
+   "id": 3486,
+   "name": "Мощность лазера, Вт",
+   "slug": "pa_moshhnost-lazera-vt",
+   "position": 2,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "500"
+   ]
+  },
+  {
+   "id": 3543,
+   "name": "Максимальная масса изделия (кг)",
+   "slug": "pa_production_max_mass",
+   "position": 3,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "30"
+   ]
+  },
+  {
+   "id": 3491,
+   "name": "Количество датчиков кислорода (шт)",
+   "slug": "pa_datchiki-urovnja-kisloroda",
+   "position": 4,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "2"
+   ]
+  },
+  {
+   "id": 3544,
+   "name": "Габариты основного модуля ШхГхВ (мм)",
+   "slug": "pa_gabarity-osnovnogo-modulja",
+   "position": 5,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "1300x900x2200"
+   ]
+  },
+  {
+   "id": 3547,
+   "name": "Масса основного модуля (кг)",
+   "slug": "pa_massa-osnovnogo-modulja-kg",
+   "position": 6,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "850"
+   ]
+  },
+  {
+   "id": 3551,
+   "name": "Габариты модуля охлаждения ШхГхВ, (мм)",
+   "slug": "pa_gabarity-modulja-ohlazhd",
+   "position": 7,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "780x890x475"
+   ]
+  },
+  {
+   "id": 3550,
+   "name": "Масса модуля охлаждения, кг",
+   "slug": "pa_massa-modulja-ohlazhdenija",
+   "position": 8,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "80"
+   ]
+  },
+  {
+   "id": 3494,
+   "name": "Масса установки, кг",
+   "slug": "pa_massa-ustanovki",
+   "position": 9,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "930"
+   ]
+  }
+ ],
+ "default_attributes": [],
+ "variations": [],
+ "grouped_products": [],
+ "menu_order": 0,
+ "price_html": "",
+ "related_ids": [
+  4323,
+  1707,
+  1610,
+  1604,
+  4011
+ ],
+ "meta_data": [
+  {
+   "id": 22849,
+   "key": "Анонс",
+   "value": "<p>В уникальной разработке am-tech.ru нет места компромиссам между качеством и скоростью построения &ndash; заказчик сразу получает оборудование с высочайшей производительностью за счёт установки мощного лазера и увеличенной высотой печати. Серия принтеров АМТ является полноценным производственным комплексом, успешно решающим задачи, связанные как с научными исследованиями, так и крупносерийным производством.</p>"
+  },
+  {
+   "id": 22850,
+   "key": "Описание",
+   "value": "<h2>SLM-принтеры am-tech.ru</h2>\r\n<p>Наилучшая производительность и безопасность в классе</p>\r\n<ul style=\"list-style-type: square;\">\r\n<li>Высота печати: <b><span style=\"font-size: 20pt; color: #ef8817;\">225</span></b> мм</li>\r\n<li>Беспрецедентно высокая мощность лазера для своего класса: <b><span style=\"font-size: 20pt; color: #ef8817;\">500</span></b> Вт</li>\r\n</ul>\r\n<p>В уникальной разработке am-tech.ru нет места компромиссам между качеством и скоростью построения – заказчик сразу получает оборудование с высочайшей производительностью за счёт установки мощного лазера и увеличенной высотой печати. Серия принтеров АМТ является полноценным производственным комплексом, успешно решающим задачи, связанные как с научными исследованиями, так и крупносерийным производством.</p>\r\n<h2>Свобода выбора материалов</h2>\r\n<p>На всех аддитивных комплексах АМ.ТЕСН можно использовать металлопорошковые материалы как собственного производства компании, так и внешних российских или зарубежных поставщиков.</p>\r\n<h2>Открытая архитектура</h2>\r\n<p>Отечественное (российское) программное обеспечение АМ.ТЕСН PrintMate с открытой архитектурой предоставляет пользователю возможность выбора между стандартными параметрами АМ.ТЕСН под определенные материалы или самостоятельной настройкой под специальные производственные потребности. Полный контроль за технологическим процессом – промышленные решения еще не были настолько доступными.</p>\r\n<h2>Унифицированная конструкция</h2>\r\n<p>В уникальной разработке am-tech.ru впервые применён принцип единства параметров оптической системы всего типоразмера систем независимо от габаритов рабочей области. Такая унификация позволяет существенно сократить количество итераций по настройке параметров процесса синтеза при переходе от младших АМТ к старшим моделям аддитивных комплексов, отличающихся увеличенными размерами рабочей области. <br />Исследовательские институты и опытно-конструкторские бюро могут использовать компактный комплекс АМТ в качестве экспериментальной площадки для обучения специалистов особенностям процесса лазерного синтеза, а также для отработки технологических режимов синтеза порошковых материалов по запросу серийных производств. При этом значительно сокращается время адаптации параметров для более производительных систем АМ.ТЕСН.</p>\r\n<h2>Расширенный пакет контрольно-измерительной аппаратуры</h2>\r\n<p>Для детального анализа технологического процесса уже в базовой комплектации АМТ установлены два датчика анализа содержания кислорода для контроля газовой атмосферы и безопасной работы со сложными материалами. Датчик давления в рабочей камере, совместно с интеллектуальной системой регулировки, обеспечивает стабильность параметров газовой атмосферы на всём протяжении процесса сплавления. Автоматизированный контроль состояния загрязненности фильтрующего элемента вовремя подскажет на необходимость его замены.</p>\r\n<h2>Интеллектуальная система контроля качества порошкового слоя</h2>\r\n<p>Система позволяет выявлять мельчайшие отклонения в плотности распределения порошкового слоя по всей площади печати. Чувствительность определения дефектов может настраиваться пользователем в зависимости от материала и параметров процесса синтеза. Предупреждение дефектов уже на ранних стадиях цикла печати позволит сократить затраты, концентрируясь на получении продукции высокого качества.</p>\r\n<h2>Материалы печати:</h2>\r\n<ul>\r\n<li>\r\n<p>Титан</p>\r\n</li>\r\n<li>\r\n<p>Алюминий</p>\r\n</li>\r\n<li>\r\n<p>Никель</p>\r\n</li>\r\n</ul>\r\n<h2>Примеры изделий, созданных по технологии SLM</h2>\r\n<p><img src=\"/upload/editor_images/1718284449-CR6_1543.jpg\" alt=\"\" width=\"291\" height=\"320\" />    <img src=\"/upload/editor_images/1718284466-CR6_1538.jpg\" alt=\"\" width=\"524\" height=\"320\" /></p>\r\n<p><img src=\"/upload/editor_images/1718284488-CR6_1552.jpg\" alt=\"\" width=\"405\" height=\"246\" />    <img src=\"/upload/editor_images/1718284532-CR6_1550.jpg\" alt=\"\" width=\"405\" height=\"245\" /></p>\r\n<p> </p>\r\n<p>Все представленное в нашем каталоге оборудование доступно к приобретению на выгодных условиях <a href=\"https://am-tech.ru/leasing/\">лизинга.</a></p>\r\n<p>Наши специалисты помогут подобрать оптимальную схему лизинга под ваши производственные задачи и финансовые возможности, а также окажут содействие в оформлении всей необходимой документации.</p>"
+  },
+  {
+   "id": 22854,
+   "key": "Показывать на главной странице",
+   "value": "Y"
+  },
+  {
+   "id": 22855,
+   "key": "Изображение SLM установки am-tech.ru",
+   "value": "/pr_new_files/iblock/8da/66ov1ewmftgk0koua44fjcx2y434n6zu.jpg"
+  },
+  {
+   "id": 22856,
+   "key": "Обзоры",
+   "value": "a:2:{s:4:\"TEXT\";s:4:\"test\";s:4:\"TYPE\";s:4:\"HTML\";}"
+  },
+  {
+   "id": 22857,
+   "key": "Примеры печати",
+   "value": "a:2:{s:4:\"TEXT\";s:444:\"<p><img src=\"/upload/editor_images/1736947035-1718284449-CR6_1543.jpg\" alt=\"\" width=\"600\" height=\"660\" /></p>\r\n<p><img src=\"/upload/editor_images/1736947058-mceu_85499891511736947098873.jpg\" width=\"600\" /></p>\r\n<p><img src=\"/upload/editor_images/1736947081-mceu_72511173921736947122517.jpg\" width=\"600\" /></p>\r\n<p><img src=\"/upload/editor_images/1736947092-mceu_4419854831736947133982.jpg\" width=\"600\" /></p>\r\n<p>Примеры печати</p>\";s:4:\"TYPE\";s:4:\"HTML\";}"
+  },
+  {
+   "id": 22858,
+   "key": "Страна производства",
+   "value": "Россия"
+  },
+  {
+   "id": 22859,
+   "key": "Связанные товары по фильтру",
+   "value": "[]"
+  },
+  {
+   "id": 22860,
+   "key": "Картинки галереи",
+   "value": "/pr_new_files/iblock/7c5/zsnne2zph6f6mmn4vvwqisl40l7ywkvi.png"
+  },
+  {
+   "id": 22861,
+   "key": "Габариты установки, мм",
+   "value": "1295х898х2174"
+  },
+  {
+   "id": 22862,
+   "key": "Габариты рабочей зоны, мм",
+   "value": "Ø165x225"
+  },
+  {
+   "id": 22863,
+   "key": "Количество лазеров, шт",
+   "value": "1"
+  },
+  {
+   "id": 22864,
+   "key": "Мощность лазера, Вт",
+   "value": "500"
+  },
+  {
+   "id": 22865,
+   "key": "Подогрев платформы",
+   "value": "нет"
+  },
+  {
+   "id": 22866,
+   "key": "Материалы печати",
+   "value": "сплавы на основе Fe, Ni, Co, Al, Ti"
+  },
+  {
+   "id": 22867,
+   "key": "Подключение",
+   "value": "220В (опционально 380В)"
+  },
+  {
+   "id": 22868,
+   "key": "bitrix_picture",
+   "value": "/pr_new_files/iblock/417/685obwfvkdwv0vj7pb1ulzt31qy0eynp.jpg"
+  },
+  {
+   "id": 22871,
+   "key": "Документы товара",
+   "value": ""
+  },
+  {
+   "id": 26652,
+   "key": "Код с видео (iframe)",
+   "value": ""
+  },
+  {
+   "id": 26653,
+   "key": "Файл видео",
+   "value": "2799"
+  },
+  {
+   "id": 30287,
+   "key": "_news_category",
+   "value": "1107"
+  },
+  {
+   "id": 30288,
+   "key": "_news_tag",
+   "value": "0"
+  },
+  {
+   "id": 30289,
+   "key": "_my_menu_type",
+   "value": "обычное"
+  },
+  {
+   "id": 30290,
+   "key": "_video_block",
+   "value": {
+    "video_title": "Возможности 3D-печати металлом",
+    "video_post_id": "3720",
+    "right_title": "Метод селективного лазерного сплавления",
+    "subtitle": "",
+    "video_description": "Selective Laser Melting (SLM) — это аддитивная технология 3D-печати металлом, при которой тонкий слой металлического порошка послойно сплавляется с помощью мощного лазера.\r\n\r\nПринтер наносит порошок на платформу, а лазер точно плавит его по заданной 3D-модели. После застывания слоя платформа опускается, наносится следующий слой порошка, и процесс повторяется до получения готовой детали.\r\n\r\nSLM позволяет создавать сложные геометрические формы с высокой точностью и отличными механическими свойствами.",
+    "button_text": "Смотреть больше видео",
+    "tag_id": "1295"
+   }
+  },
+  {
+   "id": 30291,
+   "key": "_yoast_wpseo_primary_product_brand",
+   "value": ""
+  },
+  {
+   "id": 30293,
+   "key": "_yoast_wpseo_content_score",
+   "value": "90"
+  },
+  {
+   "id": 30294,
+   "key": "_yoast_wpseo_estimated-reading-time-minutes",
+   "value": "3"
+  },
+  {
+   "id": 31859,
+   "key": "_yoast_wpseo_focuskw",
+   "value": "SLM 3D-принтер"
+  },
+  {
+   "id": 31860,
+   "key": "_yoast_wpseo_title",
+   "value": "SLM 3D - принтер AMT-16 - заказать у производителя с доставкой по России | AM-Tech"
+  },
+  {
+   "id": 31861,
+   "key": "_yoast_wpseo_metadesc",
+   "value": "Заказать SLM 3D - принтер AMT-16 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91"
+  },
+  {
+   "id": 31862,
+   "key": "_yoast_wpseo_linkdex",
+   "value": "61"
+  },
+  {
+   "id": 31893,
+   "key": "_elementor_edit_mode",
+   "value": "builder"
+  },
+  {
+   "id": 31894,
+   "key": "_elementor_template_type",
+   "value": "wp-post"
+  },
+  {
+   "id": 31895,
+   "key": "_elementor_version",
+   "value": "3.31.2"
+  },
+  {
+   "id": 31943,
+   "key": "boldgrid_in_page_containers",
+   "value": "1"
+  },
+  {
+   "id": 34157,
+   "key": "_custom_advantages",
+   "value": "<div class=\"boldgrid-section bg-background-color color-neutral-background-color color-neutral-text-contrast\" style=\"background-size: auto;background-repeat: repeat\">\r\n<div class=\"container\">\r\n<div class=\"row bg-background-color color-neutral-background-color color-neutral-text-contrast\">\r\n<div class=\"col-lg-6 col-md-6 col-sm-6 col-xs-12\">\r\n<div>\r\n<h2>Динамическая фокусировка</h2>\r\nУникальная для небольших SLM-принтеров особенность AMT-16 - динамическая фокусировка лазерного луча. Она улучшает стабильность работы комплекса и даёт дополнительную степень свободы при настройке режима печати, позволяя выбирать между производительным режимом печати с большим диаметром пучка и точным режимом с минимальным диаметром луча.\r\n\r\n</div>\r\n</div>\r\n<div class=\"col-lg-6 col-md-6 col-sm-6 col-xs-12\">\r\n<h2>Открытое программное обеспечение</h2>\r\nПрограммное обеспечение АМ.ТЕСН PrintMate с открытой архитектурой предоставляет пользователю возможность выбора между стандартными параметрами АМ.ТЕСН под определенные материалы или самостоятельной настройкой под специальные производственные потребности. Полный контроль за технологическим процессом – промышленные решения еще не были настолько доступными.\r\n\r\n</div>\r\n</div>\r\n<div class=\"row\">\r\n<div class=\"col-lg-6 col-md-6 col-sm-6 col-xs-12\">\r\n<h2>Расширенный пакет контрольной аппаратуры</h2>\r\nИнтеллектуальная система контроля с двумя датчиками концентрации кислорода и датчиком давления обеспечивает стабильность параметров газовой атмосферы на всём протяжении процесса сплавления, гарантируя надёжную и безопасную работу со всеми материалами. Автоматизированный контроль состояния загрязненности фильтрующего элемента вовремя укажет на необходимость его замены.\r\n\r\n</div>\r\n<div class=\"col-lg-6 col-md-6 col-sm-6 col-xs-12\">\r\n<h2>Унифицированная конструкция</h2>\r\nВо всех <a href=\"https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/\">SLM</a>-принтерах серии  AMT используется одинаковая лазерно-оптическая система . Такая унификация позволяет существенно сократить количество итераций по настройке параметров процесса синтеза при переходе от младших АМТ к старшим моделям аддитивных комплексов, отличающихся увеличенными размерами рабочей области.\r\n\r\n</div>\r\n</div>\r\n<div class=\"row\">\r\n<div class=\"col-lg-6 col-md-6 col-sm-6 col-xs-12\">\r\n<h2>Контроль качества порошкового слоя</h2>\r\nДля контроля качества порошкового слоя используется система компьютерного зрения, которая выявляет мельчайшие отклонения в плотности распределения порошкового слоя по всей площади печати.\r\n\r\n</div>\r\n<div class=\"col-lg-6 col-md-6 col-sm-6 col-xs-12\">\r\n<h2>Свобода выбора материала</h2>\r\nНержавеющая сталь, кобальт-хром, никелевые сплавы, сплавы титана и алюминия — все эти материалы могут быть использованы в SLM-установке AMT-16.\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>"
+  },
+  {
+   "id": 39352,
+   "key": "_yoast_wpseo_primary_product_cat",
+   "value": ""
+  }
+ ],
+ "stock_status": "instock",
+ "has_options": false,
+ "post_password": "",
+ "global_unique_id": "",
+ "permalink_template": "https://am-tech.ru/product/%pagename%/",
+ "generated_slug": "amt-16",
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>SLM 3D - принтер AMT-16 - заказать у производителя с доставкой по России | AM-Tech</title>\n<meta name=\"description\" content=\"Заказать SLM 3D - принтер AMT-16 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/product/amt-16/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"SLM 3D - принтер AMT-16 - заказать у производителя с доставкой по России | AM-Tech\" />\n<meta property=\"og:description\" content=\"Заказать SLM 3D - принтер AMT-16 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/product/amt-16/\" />\n<meta property=\"og:site_name\" content=\"am-tech.ru\" />\n<meta property=\"article:modified_time\" content=\"2026-09-11T08:10:23+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2025/08/g12s47zqysfj6sz9xypp4ylc4zqucftz.png\" />\n\t<meta property=\"og:image:width\" content=\"1000\" />\n\t<meta property=\"og:image:height\" content=\"981\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"3 минуты\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/product/amt-16/\",\"url\":\"https://am-tech.ru/product/amt-16/\",\"name\":\"SLM 3D - принтер AMT-16 - заказать у производителя с доставкой по России | AM-Tech\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/product/amt-16/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/product/amt-16/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2025/08/g12s47zqysfj6sz9xypp4ylc4zqucftz.png\",\"datePublished\":\"2025-08-16T21:37:49+00:00\",\"dateModified\":\"2026-09-11T08:10:23+00:00\",\"description\":\"Заказать SLM 3D - принтер AMT-16 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91\",\"breadcrumb\":{\"@id\":\"https://am-tech.ru/product/amt-16/#breadcrumb\"},\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/product/amt-16/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/product/amt-16/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2025/08/g12s47zqysfj6sz9xypp4ylc4zqucftz.png\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2025/08/g12s47zqysfj6sz9xypp4ylc4zqucftz.png\",\"width\":1000,\"height\":981},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://am-tech.ru/product/amt-16/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Главная страница\",\"item\":\"https://am-tech.ru/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"SLM 3D - принтеры\",\"item\":\"https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"AMT-16\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"am-tech.ru\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"am-tech.ru\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"am-tech.ru\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "SLM 3D - принтер AMT-16 - заказать у производителя с доставкой по России | AM-Tech",
+  "description": "Заказать SLM 3D - принтер AMT-16 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/product/amt-16/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "SLM 3D - принтер AMT-16 - заказать у производителя с доставкой по России | AM-Tech",
+  "og_description": "Заказать SLM 3D - принтер AMT-16 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91",
+  "og_url": "https://am-tech.ru/product/amt-16/",
+  "og_site_name": "am-tech.ru",
+  "article_modified_time": "2026-09-11T08:10:23+00:00",
+  "og_image": [
+   {
+    "width": 1000,
+    "height": 981,
+    "url": "https://am-tech.ru/wp-content/uploads/2025/08/g12s47zqysfj6sz9xypp4ylc4zqucftz.png",
+    "type": "image/png"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "3 минуты"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/product/amt-16/",
+     "url": "https://am-tech.ru/product/amt-16/",
+     "name": "SLM 3D - принтер AMT-16 - заказать у производителя с доставкой по России | AM-Tech",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/product/amt-16/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/product/amt-16/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2025/08/g12s47zqysfj6sz9xypp4ylc4zqucftz.png",
+     "datePublished": "2025-08-16T21:37:49+00:00",
+     "dateModified": "2026-09-11T08:10:23+00:00",
+     "description": "Заказать SLM 3D - принтер AMT-16 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91",
+     "breadcrumb": {
+      "@id": "https://am-tech.ru/product/amt-16/#breadcrumb"
+     },
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/product/amt-16/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/product/amt-16/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2025/08/g12s47zqysfj6sz9xypp4ylc4zqucftz.png",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2025/08/g12s47zqysfj6sz9xypp4ylc4zqucftz.png",
+     "width": 1000,
+     "height": 981
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://am-tech.ru/product/amt-16/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Главная страница",
+       "item": "https://am-tech.ru/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "SLM 3D - принтеры",
+       "item": "https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "AMT-16"
+      }
+     ]
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "am-tech.ru",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "am-tech.ru",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "am-tech.ru"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wc/v3/products/1377",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wc/v3/products"
+   }
+  ]
+ }
+}
