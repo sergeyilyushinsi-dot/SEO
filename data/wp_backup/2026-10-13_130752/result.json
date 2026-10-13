@@ -1,0 +1,58 @@
+[
+ {
+  "row": 4,
+  "slug": "3d-skaner-trackscan-go-e",
+  "field": "title",
+  "value": "3D-сканер TrackScan GO E: мобильный, точность 0,060 мм | AM-Tech",
+  "id": 4374,
+  "url": "https://am-tech.ru/product/3d-skaner-trackscan-go-e/",
+  "before": "3D-сканер TrackScan Sharp E — с оптическим трекингом | AM-Tech",
+  "after": "3D-сканер TrackScan GO E: мобильный, точность 0,060 мм | AM-Tech",
+  "saved": true,
+  "on_page": true,
+  "on_cached_page": true,
+  "status": "применено"
+ },
+ {
+  "row": 5,
+  "slug": "3d-skaner-trackscan-go-c",
+  "field": "title",
+  "value": "3D-сканер TrackScan GO C: сканер и трекер, 3 конфигурации | AM-Tech",
+  "id": 4364,
+  "url": "https://am-tech.ru/product/3d-skaner-trackscan-go-c/",
+  "before": "3D-сканер TrackScan Sharp E — с оптическим трекингом | AM-Tech",
+  "after": "3D-сканер TrackScan GO C: сканер и трекер, 3 конфигурации | AM-Tech",
+  "saved": true,
+  "on_page": true,
+  "on_cached_page": true,
+  "status": "применено"
+ },
+ {
+  "row": 6,
+  "slug": "3d-skaner-trackscan-go-c",
+  "field": "description",
+  "value": "TrackScan GO C — беспроводная система 3D-сканирования с тремя конфигурациями работы. До 6,5 млн точек/с, объёмная точность 0,064 мм. Демонстрация в AM.TECH.",
+  "id": 4364,
+  "url": "https://am-tech.ru/product/3d-skaner-trackscan-go-c/",
+  "before": "TrackScan GO C — беспроводная система 3D-сканирования с тремя конфигурациями работы. До 6,5 млн точек/с, объёмная точность 0,064 мм. Характеристики и демонстрация в AM.TECH, доставка по всей России.",
+  "after": "TrackScan GO C — беспроводная система 3D-сканирования с тремя конфигурациями работы. До 6,5 млн точек/с, объёмная точность 0,064 мм. Демонстрация в AM.TECH.",
+  "saved": true,
+  "on_page": true,
+  "on_cached_page": true,
+  "status": "применено"
+ },
+ {
+  "row": 7,
+  "slug": "3d-skaner-trackscan-sharp-z",
+  "field": "title",
+  "value": "3D-сканер TrackScan Sharp Z: автотрекинг до 12 м | AM-Tech",
+  "id": 4350,
+  "url": "https://am-tech.ru/product/3d-skaner-trackscan-sharp-z/",
+  "before": "3D-сканер TrackScan Sharp E — с оптическим трекингом | AM-Tech",
+  "after": "3D-сканер TrackScan Sharp Z: автотрекинг до 12 м | AM-Tech",
+  "saved": true,
+  "on_page": true,
+  "on_cached_page": true,
+  "status": "применено"
+ }
+]

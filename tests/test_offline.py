@@ -1,5 +1,5 @@
 """Офлайн-тесты разбора данных (без обращений к API)."""
-from seo import cluster, gap, positions
+from seo import cluster, gap, positions, wp
 from seo.serp import parse_xml, position_of
 from seo.wordstat import exact
 
@@ -44,3 +44,46 @@ def test_term_profile_and_gaps():
             {"url": "https://c.ru/y/", "status": 200, "title": "3D-принтеры SLM по металлу", "h1": [], "words": 500}]
     rows = {r["url"]: r for r in gap.find_gaps(own, comp)}
     assert rows["https://c.ru/x/"]["gap"] and not rows["https://c.ru/y/"]["gap"]
+
+
+PRODUCT = {
+    "slug": "amt-43", "name": "AMT-43",
+    "short_description": '<p class="x"><strong><span>AMT-45 – SLM-принтер</span></strong></p>\n',
+    "meta_data": [{"id": 7, "key": "_yoast_wpseo_title", "value": "AMT-45 | AM-Tech"},
+                  {"id": 8, "key": "_custom_advantages", "value": "<h2>Материалы</h2>\r\nв SLM-установке AMT-45.\r\n"}],
+}
+
+
+def test_wp_build_update():
+    body = wp.build_update(PRODUCT, [
+        {"field": "title", "value": "AMT-43 | AM-Tech"},
+        {"field": "description", "value": "Описание"},
+        {"field": "short_description", "value": "AMT-43 — SLM-принтер"},
+    ])
+    assert body["meta_data"] == [{"id": 7, "key": "_yoast_wpseo_title", "value": "AMT-43 | AM-Tech"},
+                                 {"key": "_yoast_wpseo_metadesc", "value": "Описание"}]
+    assert body["short_description"] == '<p class="x"><strong><span>AMT-43 — SLM-принтер</span></strong></p>\n'
+
+
+def test_wp_build_update_refuses_unknown_text():
+    try:
+        wp.build_update(PRODUCT, [{"field": "short_description", "value": "x", "old": "AMT-16"}])
+    except ValueError:
+        pass
+    else:
+        raise AssertionError("правка с ненайденным текстом должна отклоняться")
+
+
+def test_wp_on_page():
+    page = {"title": "AMT-43 &amp; | AM-Tech", "description": "", "meta_robots": "noindex, follow",
+            "h1": ["AMT-43"], "text": "Цена по запросу AMT-43 — SLM-принтер"}
+    assert wp.on_page(page, "title", "AMT-43 & | AM-Tech")
+    assert wp.on_page(page, "noindex", "1") and not wp.on_page(page, "noindex", "2")
+    assert wp.on_page(page, "short_description", "AMT-43 — SLM-принтер")
+
+
+def test_wp_meta_fragment():
+    body = wp.build_update(PRODUCT, [{"field": "meta:_custom_advantages", "old": "SLM-установке AMT-45",
+                                      "value": "SLM-установке AMT-43"}])
+    assert body["meta_data"] == [{"id": 8, "key": "_custom_advantages",
+                                  "value": "<h2>Материалы</h2>\r\nв SLM-установке AMT-43.\r\n"}]

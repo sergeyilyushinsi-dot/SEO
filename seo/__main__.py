@@ -11,7 +11,7 @@ from pathlib import Path
 
 import requests
 
-from . import audit, config, crawler, gap, http, positions
+from . import audit, config, crawler, gap, http, positions, wp
 from .config import DATA_DIR, REPORTS_DIR
 
 TODAY = date.today()
@@ -281,6 +281,41 @@ def cmd_cluster(a):
     print(f"{len(groups)} кластеров из {len(rows)} запросов ({path.name}) → {out}")
 
 
+# --- правки на сайте -------------------------------------------------------------------------
+
+def cmd_wp_me(a):
+    me = wp.WordPress().me()
+    caps = me.get("capabilities", {})
+    print(f"{me['username']} (id {me['id']}), роли: {', '.join(me.get('roles', []))}")
+    for cap in ("edit_products", "edit_others_products", "manage_product_terms", "edit_others_pages", "manage_options"):
+        print(f"  {cap}: {'да' if caps.get(cap) else 'нет'}")
+
+
+def cmd_wp_product(a):
+    site = wp.WordPress()
+    for slug in a.slug:
+        product = site.product(slug)
+        print(f"\n{product['permalink']} (id {product['id']}, {product['status']})")
+        for field in wp.FIELDS:
+            value = wp.text(wp.get_value(product, field))
+            print(f"  {field:18} [{len(value)}] {value[:200]}")
+
+
+def cmd_wp_apply(a):
+    changes = json.loads(Path(a.file).read_text(encoding="utf-8"))
+    results = wp.apply(changes, dry_run=a.dry_run)
+    for r in results:
+        if a.dry_run:
+            before = r.get("old") or wp.text(r["before"])
+            print(f"{r['slug']} {r['field']}: «{before[:80]}» → «{r['value'][:80]}»")
+        else:
+            marks = f"сохранено: {'да' if r['saved'] else 'НЕТ'}, на странице: {'да' if r['on_page'] else 'НЕТ'}, " \
+                    f"в кэше: {'да' if r['on_cached_page'] else 'НЕТ'}"
+            print(f"{r['slug']} {r['field']}: {r['status']} ({marks})")
+    if not a.dry_run and results:
+        print(f"Резервные копии и результат: {wp.BACKUP_DIR}")
+
+
 def main(argv=None):
     config.load_env()
     p = argparse.ArgumentParser(prog="python -m seo", description="SEO-агент am-tech.ru")
@@ -359,6 +394,18 @@ def main(argv=None):
     s.add_argument("--freq", help="csv с частотами (keyword + exact_freq или phrase + count)")
     s.add_argument("--min-common", type=int, default=3)
     s.set_defaults(func=cmd_cluster)
+
+    s = sub.add_parser("wp-me", help="проверить доступ агента к WordPress API")
+    s.set_defaults(func=cmd_wp_me)
+
+    s = sub.add_parser("wp-product", help="SEO-поля карточек товаров (title, description, краткое описание)")
+    s.add_argument("slug", nargs="+", help="адрес товара: amt-43 для /product/amt-43/")
+    s.set_defaults(func=cmd_wp_product)
+
+    s = sub.add_parser("wp-apply", help="применить подтверждённые правки товаров с копией и проверкой на сайте")
+    s.add_argument("file", help='JSON: [{"slug": "amt-43", "field": "title", "value": "..."}]')
+    s.add_argument("--dry-run", action="store_true", help="показать «было → стало» без записи")
+    s.set_defaults(func=cmd_wp_apply)
 
     a = p.parse_args(argv)
     try:

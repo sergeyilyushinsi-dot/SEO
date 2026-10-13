@@ -1,0 +1,44 @@
+[
+ {
+  "row": 1,
+  "slug": "amt-43",
+  "field": "title",
+  "value": "SLM 3D-принтер AMT-43: 3 лазера, область 320×520×370 мм | AM-Tech"
+ },
+ {
+  "row": 2,
+  "slug": "amt-43",
+  "field": "description",
+  "value": "AMT-43 — промышленный SLM-принтер: 3 лазера по 500 Вт (опция 1000 Вт), область 320×520×370 мм, замкнутый контур порошка. Цена и КП: +7 (495) 109 11 91"
+ },
+ {
+  "row": 3,
+  "slug": "amt-43",
+  "field": "short_description",
+  "value": "AMT-43 — высокопроизводительный SLM-принтер с тремя лазерами и автоматизированным замкнутым контуром работы с порошком"
+ },
+ {
+  "row": 4,
+  "slug": "3d-skaner-trackscan-go-e",
+  "field": "title",
+  "value": "3D-сканер TrackScan GO E: мобильный, точность 0,060 мм | AM-Tech"
+ },
+ {
+  "row": 5,
+  "slug": "3d-skaner-trackscan-go-c",
+  "field": "title",
+  "value": "3D-сканер TrackScan GO C: сканер и трекер, 3 конфигурации | AM-Tech"
+ },
+ {
+  "row": 6,
+  "slug": "3d-skaner-trackscan-go-c",
+  "field": "description",
+  "value": "TrackScan GO C — беспроводная система 3D-сканирования с тремя конфигурациями работы. До 6,5 млн точек/с, объёмная точность 0,064 мм. Демонстрация в AM.TECH."
+ },
+ {
+  "row": 7,
+  "slug": "3d-skaner-trackscan-sharp-z",
+  "field": "title",
+  "value": "3D-сканер TrackScan Sharp Z: автотрекинг до 12 м | AM-Tech"
+ }
+]
