@@ -57,3 +57,9 @@ services,,3d сканирование на заказ,commercial,новая ст
 services,,услуги 3d сканирования,commercial,новая страница,,,,,new,
 services,,реверс инжиниринг на заказ,commercial,новая страница,,,,,new,
 services,,контроль геометрии деталей услуги,commercial,новая страница,,,,,new,
+services,,ebm печать на заказ,commercial,новая страница,,,,,new,EBM-200
+services,,3d печать титаном на заказ,commercial,новая страница,,,,,new,"EBM-200 (Ti6Al4V, γ-TiAl) и SLM"
+services,,3d печать тугоплавкими металлами,commercial,новая страница,,,,,new,"EBM-200: W, Mo, Ta — проверить спрос"
+services,,sla печать на заказ,commercial,новая страница,,,,,new,"SLA-600, 600×600×400 мм"
+services,,3d печать фотополимером на заказ,commercial,новая страница,,,,,new,SLA-600
+services,,печать мастер моделей для литья,commercial,новая страница,,,,,new,SLA-600: выжигаемые и мастер-модели
