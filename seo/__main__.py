@@ -137,20 +137,23 @@ def cmd_wm_diagnostics(a):
                      ensure_ascii=False, indent=2))
 
 
-def _metrika():
+def _metrika(counter: str | None = None):
     from .metrika import Metrika
-    return Metrika(config.optional_env("YANDEX_OAUTH_TOKEN"), config.setting("YANDEX_METRIKA_COUNTER", "metrika_counter"))
+    return Metrika(config.optional_env("YANDEX_OAUTH_TOKEN"),
+                   counter or config.setting("YANDEX_METRIKA_COUNTER", "metrika_counter"))
 
 
 def cmd_metrika(a):
-    mk = _metrika()
+    mk = _metrika(a.counter)
     date1, date2 = _days_range(a.days, lag=1)
     if a.report == "pages":
-        goals = (config.project().get("yandex") or {}).get("metrika_lead_goals") or {}
+        # Цели-лиды настроены для своего счётчика; у чужих счётчиков свои цели
+        goals = {} if a.counter else (config.project().get("yandex") or {}).get("metrika_lead_goals") or {}
         rows = mk.landing_pages(date1, date2, [int(g) for g in goals])
     else:
         rows = mk.search_phrases(date1, date2)
-    out = DATA_DIR / "metrika" / f"{a.report}_{TODAY.isoformat()}.csv"
+    suffix = f"_{a.counter}" if a.counter else ""
+    out = DATA_DIR / "metrika" / f"{a.report}{suffix}_{TODAY.isoformat()}.csv"
     positions.write_csv(out, rows)
     print(f"{len(rows)} строк ({date1} — {date2}) → {out}")
 
@@ -189,6 +192,7 @@ def cmd_serp(a):
     region = a.region or config.project()["regions"]["serp"]
     own = config.own_domain()
     comps = [c["domain"] for c in config.competitors()]
+    group = [g["domain"] for g in config.project().get("group_sites") or []]
     keywords = _load_keywords(Path(a.file))
     if a.limit:
         keywords = keywords[: a.limit]
@@ -208,6 +212,11 @@ def cmd_serp(a):
                 row["note"] = "ранжируется не целевая страница"
             for c in comps:
                 row[c] = position_of(results, c)[0] or ""
+            # Сайты группы: если по запросам в ТОП-10 никогда нет двух сайтов группы сразу — признак аффилиат-фильтра
+            for g in group:
+                row[f"группа:{g}"] = position_of(results, g)[0] or ""
+            row["сайтов_группы_в_топ10"] = sum(1 for d in [own, *group]
+                                               if (position_of(results, d)[0] or 99) <= 10)
             rows.append(row)
             time.sleep(0.3)
 
@@ -220,7 +229,8 @@ def cmd_serp(a):
     print(" | ".join(f"{b}: {dist.get(b, 0)}" for b in positions.BUCKETS))
     print("\nЧаще всего в ТОП-10 (кандидаты в конкуренты):")
     for d, n in top10_domains.most_common(a.domains):
-        mark = " (мы)" if d == own else (" (в списке конкурентов)" if d in comps else "")
+        mark = " (мы)" if d == own else (" (сайт группы)" if d in group else
+                                          " (в списке конкурентов)" if d in comps else "")
         print(f"  {n:>4}  {d}{mark}")
 
 
@@ -309,6 +319,7 @@ def main(argv=None):
     s = sub.add_parser("metrika", help="органика из Яндекс.Метрики")
     s.add_argument("report", choices=["pages", "phrases"])
     s.add_argument("--days", type=int, default=28)
+    s.add_argument("--counter", help="другой счётчик (например, сайта группы); по умолчанию — am-tech.ru")
     s.set_defaults(func=cmd_metrika)
 
     s = sub.add_parser("wordstat", help="частотность и расширение семантики")

@@ -102,6 +102,11 @@ amfastform.ru
 www.amfastform.ru
 3dlam.com
 lider-3d.ru
+i3d.ru
+industry3d.ru
+amsolid.ru
+scantech-3d.ru
+fhzl.ru
 ```
 
 Новых конкурентов добавляйте и в `config/competitors.yaml`, и в разрешённые домены.
