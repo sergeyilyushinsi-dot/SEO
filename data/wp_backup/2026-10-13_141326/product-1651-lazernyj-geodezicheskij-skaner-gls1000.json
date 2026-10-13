@@ -1,0 +1,552 @@
+{
+ "id": 1651,
+ "name": "Лазерный геодезический сканер GLS1000",
+ "slug": "lazernyj-geodezicheskij-skaner-gls1000",
+ "permalink": "https://am-tech.ru/product/lazernyj-geodezicheskij-skaner-gls1000/",
+ "date_created": "2025-08-17T06:56:57",
+ "date_created_gmt": "2025-08-17T03:56:57",
+ "date_modified": "2026-07-29T16:59:47",
+ "date_modified_gmt": "2026-07-29T13:59:47",
+ "type": "simple",
+ "status": "publish",
+ "featured": false,
+ "catalog_visibility": "visible",
+ "description": "<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n<p class=\"\"><span style=\"font-weight: 400;\">3D сканер</span><span style=\"font-weight: 400;\"> am-tech.ru GLS1000 - это профессиональный <a href=\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/geodesicheskie-3d-scaneri/\">наземный лазерный сканер</a>, </span><span style=\"font-weight: 400;\">разработанный специально <a href=\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/geodesicheskie-3d-scaneri/\">для профессиональных геодезических измерений</a></span>. Современная технология производства объединяет в нем мобильность и компактность с высоким качеством собираемых данных. Прибор подходит для решения задач высокоточных измерений и моделирования, создания систем мониторинга и деформационного анализа. Открытая система управления и сбора данных позволяет использовать его в системной интеграции в составе измерительных комплексов.</p>\r\n\r\n<h2 class=\"\"><span style=\"font-weight: 400;\">Основные технические характеристики:</span></h2>\r\n<ul class=\"\">\r\n \t<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Принцип работы: лидарная технология</span></li>\r\n \t<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Безопасный лазер 1 класса</span></li>\r\n \t<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Угол обзора: 100×360°</span></li>\r\n \t<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Точность измерений: до 5 мм</span></li>\r\n \t<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Вес: около 7 кг</span></li>\r\n \t<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Система двухосевой компенсации</span></li>\r\n \t<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Возможность установки на штатив</span></li>\r\n</ul>\r\n<p class=\"\"><span style=\"font-weight: 400;\">Сканер использует передовую лидарную технологию, при которой лазерный датчик измеряет расстояние до объекта и время возврата отраженного сигнала. На основе полученных данных специальные алгоритмы создают точную трехмерную модель объекта. Устройство соответствует международным стандартам безопасности и обеспечивает высокую точность при выполнении геодезических работ различной сложности.</span></p>\r\n\r\n<h2><span style=\"font-weight: 400;\">Сферы применения</span></h2>\r\n<ul>\r\n \t<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Строительство и архитектура</span></li>\r\n \t<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Техническое обследование зданий</span></li>\r\n \t<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Кадастровые работы</span></li>\r\n \t<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Геодезическая съемка</span></li>\r\n \t<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Топографические исследования</span></li>\r\n \t<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Горнодобывающая промышленность</span></li>\r\n</ul>\r\nВсе представленное в нашем каталоге оборудование доступно к приобретению на выгодных условиях <a href=\"https://am-tech.ru/leasing/\">лизинга.</a>\r\n\r\nНаши специалисты помогут подобрать оптимальную схему лизинга под ваши производственные задачи и финансовые возможности, а также окажут содействие в оформлении всей необходимой документации.\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+ "short_description": "",
+ "sku": "",
+ "price": "",
+ "regular_price": "",
+ "sale_price": "",
+ "date_on_sale_from": null,
+ "date_on_sale_from_gmt": null,
+ "date_on_sale_to": null,
+ "date_on_sale_to_gmt": null,
+ "on_sale": false,
+ "purchasable": false,
+ "total_sales": 0,
+ "virtual": false,
+ "downloadable": false,
+ "downloads": [],
+ "download_limit": -1,
+ "download_expiry": -1,
+ "external_url": "",
+ "button_text": "",
+ "tax_status": "taxable",
+ "tax_class": "",
+ "manage_stock": false,
+ "stock_quantity": null,
+ "backorders": "no",
+ "backorders_allowed": false,
+ "backordered": false,
+ "low_stock_amount": null,
+ "sold_individually": false,
+ "weight": "",
+ "dimensions": {
+  "length": "",
+  "width": "",
+  "height": ""
+ },
+ "shipping_required": true,
+ "shipping_taxable": true,
+ "shipping_class": "",
+ "shipping_class_id": 0,
+ "reviews_allowed": true,
+ "average_rating": "0",
+ "rating_count": 0,
+ "upsell_ids": [],
+ "cross_sell_ids": [],
+ "parent_id": 0,
+ "purchase_note": "",
+ "categories": [
+  {
+   "id": 23,
+   "name": "Геодезические 3D-сканеры",
+   "slug": "geodesicheskie-3d-scaneri"
+  }
+ ],
+ "brands": [],
+ "tags": [],
+ "images": [
+  {
+   "id": 1652,
+   "date_created": "2025-08-17T09:56:58",
+   "date_created_gmt": "2025-08-17T03:56:58",
+   "date_modified": "2025-08-17T09:56:58",
+   "date_modified_gmt": "2025-08-17T03:56:58",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/o5b0l13lkewqps98eo66k93qxjxtph63.png",
+   "name": "o5b0l13lkewqps98eo66k93qxjxtph63",
+   "alt": ""
+  },
+  {
+   "id": 1654,
+   "date_created": "2025-08-17T09:57:02",
+   "date_created_gmt": "2025-08-17T03:57:02",
+   "date_modified": "2025-08-17T09:57:02",
+   "date_modified_gmt": "2025-08-17T03:57:02",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/wv51l1lumuzb6lhtk918y12e48yukohe-scaled.png",
+   "name": "wv51l1lumuzb6lhtk918y12e48yukohe",
+   "alt": ""
+  },
+  {
+   "id": 1655,
+   "date_created": "2025-08-17T09:57:16",
+   "date_created_gmt": "2025-08-17T03:57:16",
+   "date_modified": "2025-08-17T09:57:16",
+   "date_modified_gmt": "2025-08-17T03:57:16",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/jnqo6wp8hrmfjsczrzzs7z153uh84ni1-scaled.png",
+   "name": "jnqo6wp8hrmfjsczrzzs7z153uh84ni1",
+   "alt": ""
+  },
+  {
+   "id": 1656,
+   "date_created": "2025-08-17T09:57:39",
+   "date_created_gmt": "2025-08-17T03:57:39",
+   "date_modified": "2025-08-17T09:57:39",
+   "date_modified_gmt": "2025-08-17T03:57:39",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/fr9syhnxi1ouvsdnuevebmrzy4qxxt71-scaled.png",
+   "name": "fr9syhnxi1ouvsdnuevebmrzy4qxxt71",
+   "alt": ""
+  }
+ ],
+ "attributes": [],
+ "default_attributes": [],
+ "variations": [],
+ "grouped_products": [],
+ "menu_order": 999,
+ "price_html": "",
+ "related_ids": [
+  1621,
+  1657,
+  1631
+ ],
+ "meta_data": [
+  {
+   "id": 25010,
+   "key": "bitrix_id",
+   "value": "2238"
+  },
+  {
+   "id": 25011,
+   "key": "Символьный код",
+   "value": "gls1000"
+  },
+  {
+   "id": 25012,
+   "key": "Описание",
+   "value": "<p><span style=\"font-weight: 400;\">3D сканер</span><span style=\"font-weight: 400;\"> am-tech.ru GLS1000 - это профессиональный наземный лазерный сканер, </span><span style=\"font-weight: 400;\">разработанный специально для профессиональных геодезических измерений</span>. Современная технология производства объединяет в нем мобильность и компактность с высоким качеством собираемых данных. Прибор подходит для решения задач высокоточных измерений и моделирования, создания систем мониторинга и деформационного анализа. Открытая система управления и сбора данных позволяет использовать его в системной интеграции в составе измерительных комплексов.</p>\r\n<h2><span style=\"font-weight: 400;\">Основные технические характеристики:</span></h2>\r\n<ul>\r\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Принцип работы: лидарная технология</span></li>\r\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Безопасный лазер 1 класса</span></li>\r\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Угол обзора: 100&times;360&deg;</span></li>\r\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Точность измерений: до 5 мм</span></li>\r\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Вес: около 7 кг</span></li>\r\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Система двухосевой компенсации</span></li>\r\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Возможность установки на штатив</span></li>\r\n</ul>\r\n<p><span style=\"font-weight: 400;\">Сканер использует передовую лидарную технологию, при которой лазерный датчик измеряет расстояние до объекта и время возврата отраженного сигнала. На основе полученных данных специальные алгоритмы создают точную трехмерную модель объекта. Устройство соответствует международным стандартам безопасности и обеспечивает высокую точность при выполнении геодезических работ различной сложности.</span></p>\r\n<h2><span style=\"font-weight: 400;\">Сферы применения</span></h2>\r\n<ul>\r\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Строительство и архитектура</span></li>\r\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Техническое обследование зданий</span></li>\r\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Кадастровые работы</span></li>\r\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Геодезическая съемка</span></li>\r\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Топографические исследования</span></li>\r\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Горнодобывающая промышленность</span></li>\r\n</ul>\r\n<p>Все представленное в нашем каталоге оборудование доступно к приобретению на выгодных условиях <a href=\"https://am-tech.ru/leasing/\">лизинга.</a></p>\r\n<p>Наши специалисты помогут подобрать оптимальную схему лизинга под ваши производственные задачи и финансовые возможности, а также окажут содействие в оформлении всей необходимой документации.</p>"
+  },
+  {
+   "id": 25016,
+   "key": "Габариты, мм",
+   "value": "Ш205хВ192хГ268"
+  },
+  {
+   "id": 25017,
+   "key": "Точность",
+   "value": "5 мм"
+  },
+  {
+   "id": 25018,
+   "key": "Страна производства",
+   "value": "Китай"
+  },
+  {
+   "id": 25019,
+   "key": "Связанные товары по фильтру",
+   "value": "[]"
+  },
+  {
+   "id": 25020,
+   "key": "Материалы",
+   "value": "/pr_new_files/iblock/1e2/xt14waulo3abhhy2sq4q6g3rm354gq3h.pdf"
+  },
+  {
+   "id": 25021,
+   "key": "Картинки галереи",
+   "value": "/pr_new_files/iblock/b2f/wv51l1lumuzb6lhtk918y12e48yukohe.png"
+  },
+  {
+   "id": 25022,
+   "key": "Вес, кг.",
+   "value": "≤7"
+  },
+  {
+   "id": 25023,
+   "key": "Класс лазера (безопасность для глаз)",
+   "value": "1"
+  },
+  {
+   "id": 25024,
+   "key": "Относительная погрешность, в мм",
+   "value": "до 5"
+  },
+  {
+   "id": 25025,
+   "key": "Метод измерения",
+   "value": "Импульсный"
+  },
+  {
+   "id": 25026,
+   "key": "Угол обзора, °",
+   "value": "100х360"
+  },
+  {
+   "id": 25027,
+   "key": "Система компенсации",
+   "value": "двухосевой датчик наклона в диапазоне ±5°"
+  },
+  {
+   "id": 25028,
+   "key": "Средняя потребляемая мощность, ВТ",
+   "value": "&lt;50"
+  },
+  {
+   "id": 25029,
+   "key": "Температура хранения, С°",
+   "value": "от -30 до 65"
+  },
+  {
+   "id": 25030,
+   "key": "Платформа для установки прибора",
+   "value": "Штатив"
+  },
+  {
+   "id": 25031,
+   "key": "Вертикальная скорость сканирования , линий/сек.",
+   "value": "15-120 линий/сек"
+  },
+  {
+   "id": 25032,
+   "key": "Горизонтальная скорость сканирования , С°/сек.",
+   "value": "до 15°С/сек"
+  },
+  {
+   "id": 25033,
+   "key": "Диапазон измерения расстояний, м",
+   "value": "1500 до 1000 при отражающей способности объекта R=20%"
+  },
+  {
+   "id": 25034,
+   "key": "Температура рабочей среды, ℃",
+   "value": "от -20 до 60"
+  },
+  {
+   "id": 25035,
+   "key": "Рекомендуемый размер объекта",
+   "value": "здания и сооружения, объекты инфраструктуры"
+  },
+  {
+   "id": 25036,
+   "key": "Наличие текстур",
+   "value": "да"
+  },
+  {
+   "id": 25037,
+   "key": "Цветное сканирование",
+   "value": "да"
+  },
+  {
+   "id": 25038,
+   "key": "Операционная система",
+   "value": "Windows, Android"
+  },
+  {
+   "id": 25039,
+   "key": "Передача данных",
+   "value": "GigE"
+  },
+  {
+   "id": 25040,
+   "key": "Форматы данных",
+   "value": ".epi"
+  },
+  {
+   "id": 25041,
+   "key": "Выходные форматы",
+   "value": ".las, .pcd, .e57, .pts, .xyz"
+  },
+  {
+   "id": 25042,
+   "key": "Возможности программного обеспечения",
+   "value": "Импорт, конвертация, сшивка, сегментирование, чистка, измерения"
+  },
+  {
+   "id": 25043,
+   "key": "Двухосевой инклинометр",
+   "value": "встроенный"
+  },
+  {
+   "id": 25044,
+   "key": "Пылевлагозащищенность",
+   "value": "IP50"
+  },
+  {
+   "id": 25045,
+   "key": "bitrix_picture",
+   "value": "/pr_new_files/iblock/a9d/krcvsnek9be4vmzgx3uvdxkkmd7vazcj.png"
+  },
+  {
+   "id": 25048,
+   "key": "Документы товара",
+   "value": "1653"
+  },
+  {
+   "id": 30946,
+   "key": "wbcr_wp_old_slug",
+   "value": "%d0%bb%d0%b0%d0%b7%d0%b5%d1%80%d0%bd%d1%8b%d0%b9-%d0%b3%d0%b5%d0%be%d0%b4%d0%b5%d0%b7%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d0%b9-%d1%81%d0%ba%d0%b0%d0%bd%d0%b5%d1%80-gls1000"
+  },
+  {
+   "id": 35730,
+   "key": "_yoast_wpseo_title",
+   "value": "Лазерный геодезический сканер GLS1000 - заказать у производителя с доставкой по России | AM-Tech"
+  },
+  {
+   "id": 35731,
+   "key": "_yoast_wpseo_metadesc",
+   "value": "Заказать геодезический сканер GLS1000 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91"
+  },
+  {
+   "id": 39362,
+   "key": "Код с видео (iframe)",
+   "value": ""
+  },
+  {
+   "id": 39363,
+   "key": "Файл видео",
+   "value": ""
+  },
+  {
+   "id": 39364,
+   "key": "_news_category",
+   "value": "0"
+  },
+  {
+   "id": 39365,
+   "key": "_news_tag",
+   "value": "0"
+  },
+  {
+   "id": 39366,
+   "key": "_custom_advantages",
+   "value": ""
+  },
+  {
+   "id": 39367,
+   "key": "_my_menu_type",
+   "value": "обычное"
+  },
+  {
+   "id": 39368,
+   "key": "_video_block",
+   "value": {
+    "video_title": "",
+    "video_post_id": "",
+    "right_title": "",
+    "subtitle": "",
+    "video_description": "",
+    "button_text": "Смотреть больше видео",
+    "tag_id": ""
+   }
+  },
+  {
+   "id": 39369,
+   "key": "boldgrid_in_page_containers",
+   "value": "1"
+  },
+  {
+   "id": 39370,
+   "key": "_yoast_wpseo_primary_product_brand",
+   "value": ""
+  },
+  {
+   "id": 39371,
+   "key": "_yoast_wpseo_primary_product_cat",
+   "value": "23"
+  },
+  {
+   "id": 39372,
+   "key": "_yoast_wpseo_content_score",
+   "value": "90"
+  },
+  {
+   "id": 39373,
+   "key": "_yoast_wpseo_estimated-reading-time-minutes",
+   "value": "2"
+  }
+ ],
+ "stock_status": "instock",
+ "has_options": false,
+ "post_password": "",
+ "global_unique_id": "",
+ "permalink_template": "https://am-tech.ru/product/%pagename%/",
+ "generated_slug": "lazernyj-geodezicheskij-skaner-gls1000",
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Лазерный геодезический сканер GLS1000 - заказать у производителя с доставкой по России | AM-Tech</title>\n<meta name=\"description\" content=\"Заказать геодезический сканер GLS1000 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/product/lazernyj-geodezicheskij-skaner-gls1000/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Лазерный геодезический сканер GLS1000 - заказать у производителя с доставкой по России | AM-Tech\" />\n<meta property=\"og:description\" content=\"Заказать геодезический сканер GLS1000 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/product/lazernyj-geodezicheskij-skaner-gls1000/\" />\n<meta property=\"og:site_name\" content=\"am-tech.ru\" />\n<meta property=\"article:modified_time\" content=\"2026-07-29T13:59:47+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2025/08/o5b0l13lkewqps98eo66k93qxjxtph63.png\" />\n\t<meta property=\"og:image:width\" content=\"905\" />\n\t<meta property=\"og:image:height\" content=\"1000\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"2 минуты\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/product/lazernyj-geodezicheskij-skaner-gls1000/\",\"url\":\"https://am-tech.ru/product/lazernyj-geodezicheskij-skaner-gls1000/\",\"name\":\"Лазерный геодезический сканер GLS1000 - заказать у производителя с доставкой по России | AM-Tech\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/product/lazernyj-geodezicheskij-skaner-gls1000/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/product/lazernyj-geodezicheskij-skaner-gls1000/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2025/08/o5b0l13lkewqps98eo66k93qxjxtph63.png\",\"datePublished\":\"2025-08-17T03:56:57+00:00\",\"dateModified\":\"2026-07-29T13:59:47+00:00\",\"description\":\"Заказать геодезический сканер GLS1000 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91\",\"breadcrumb\":{\"@id\":\"https://am-tech.ru/product/lazernyj-geodezicheskij-skaner-gls1000/#breadcrumb\"},\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/product/lazernyj-geodezicheskij-skaner-gls1000/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/product/lazernyj-geodezicheskij-skaner-gls1000/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2025/08/o5b0l13lkewqps98eo66k93qxjxtph63.png\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2025/08/o5b0l13lkewqps98eo66k93qxjxtph63.png\",\"width\":905,\"height\":1000},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://am-tech.ru/product/lazernyj-geodezicheskij-skaner-gls1000/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Главная страница\",\"item\":\"https://am-tech.ru/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Промышленные 3D сканеры: оборудование для реверс-инжиниринга и контроля качества\",\"item\":\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Геодезические 3D-сканеры\",\"item\":\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/geodesicheskie-3d-scaneri/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Лазерный геодезический сканер GLS1000\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"am-tech.ru\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"am-tech.ru\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"am-tech.ru\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "Лазерный геодезический сканер GLS1000 - заказать у производителя с доставкой по России | AM-Tech",
+  "description": "Заказать геодезический сканер GLS1000 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/product/lazernyj-geodezicheskij-skaner-gls1000/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "Лазерный геодезический сканер GLS1000 - заказать у производителя с доставкой по России | AM-Tech",
+  "og_description": "Заказать геодезический сканер GLS1000 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91",
+  "og_url": "https://am-tech.ru/product/lazernyj-geodezicheskij-skaner-gls1000/",
+  "og_site_name": "am-tech.ru",
+  "article_modified_time": "2026-07-29T13:59:47+00:00",
+  "og_image": [
+   {
+    "width": 905,
+    "height": 1000,
+    "url": "https://am-tech.ru/wp-content/uploads/2025/08/o5b0l13lkewqps98eo66k93qxjxtph63.png",
+    "type": "image/png"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "2 минуты"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/product/lazernyj-geodezicheskij-skaner-gls1000/",
+     "url": "https://am-tech.ru/product/lazernyj-geodezicheskij-skaner-gls1000/",
+     "name": "Лазерный геодезический сканер GLS1000 - заказать у производителя с доставкой по России | AM-Tech",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/product/lazernyj-geodezicheskij-skaner-gls1000/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/product/lazernyj-geodezicheskij-skaner-gls1000/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2025/08/o5b0l13lkewqps98eo66k93qxjxtph63.png",
+     "datePublished": "2025-08-17T03:56:57+00:00",
+     "dateModified": "2026-07-29T13:59:47+00:00",
+     "description": "Заказать геодезический сканер GLS1000 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91",
+     "breadcrumb": {
+      "@id": "https://am-tech.ru/product/lazernyj-geodezicheskij-skaner-gls1000/#breadcrumb"
+     },
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/product/lazernyj-geodezicheskij-skaner-gls1000/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/product/lazernyj-geodezicheskij-skaner-gls1000/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2025/08/o5b0l13lkewqps98eo66k93qxjxtph63.png",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2025/08/o5b0l13lkewqps98eo66k93qxjxtph63.png",
+     "width": 905,
+     "height": 1000
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://am-tech.ru/product/lazernyj-geodezicheskij-skaner-gls1000/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Главная страница",
+       "item": "https://am-tech.ru/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Промышленные 3D сканеры: оборудование для реверс-инжиниринга и контроля качества",
+       "item": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "Геодезические 3D-сканеры",
+       "item": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/geodesicheskie-3d-scaneri/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 4,
+       "name": "Лазерный геодезический сканер GLS1000"
+      }
+     ]
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "am-tech.ru",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "am-tech.ru",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "am-tech.ru"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wc/v3/products/1651",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wc/v3/products"
+   }
+  ]
+ }
+}
