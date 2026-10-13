@@ -1,0 +1,24 @@
+[
+ {
+  "plan_task": 4,
+  "label": "Ссылка на главной (конструктор Elementor)",
+  "before_text": "/product-category/sla-3d-printery/ (редирект на новость)",
+  "after_text": "https://am-tech.ru/katalog/promyshlennye-3d-printery-po-sla-i-keramike/sla-3d-printery/",
+  "comment": "Правка в данных конструктора главной; перед записью сохраняется копия, после — проверка страницы",
+  "type": "page",
+  "slug": "sample-page",
+  "field": "elementor",
+  "link": true,
+  "old": "/product-category/sla-3d-printery/",
+  "value": "https://am-tech.ru/katalog/promyshlennye-3d-printery-po-sla-i-keramike/sla-3d-printery/",
+  "row": 121,
+  "id": 2,
+  "url": "https://am-tech.ru/",
+  "before": "(данные Elementor)",
+  "after": "(данные Elementor)",
+  "saved": true,
+  "on_page": false,
+  "on_cached_page": false,
+  "status": "применено"
+ }
+]
