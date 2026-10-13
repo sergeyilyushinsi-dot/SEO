@@ -1,0 +1,23 @@
+[
+ {
+  "plan_task": 2,
+  "label": "Индексация (Yoast noindex)",
+  "type": "page",
+  "slug": "o-kompanii",
+  "field": "noindex",
+  "value": "2",
+  "before_text": "noindex, follow — страница закрыта от индекса",
+  "after_text": "index, follow",
+  "comment": "Поля Yoast открыты (задача 41 выполнена 13.10.2026), пробный запуск прошёл. Дубль /o-kompanii-new/ — 301 у разработчика (задача 2)",
+  "page_path": "/o-kompanii/",
+  "row": 123,
+  "id": 1727,
+  "url": "https://am-tech.ru/o-kompanii/",
+  "before": "1",
+  "after": "2",
+  "saved": true,
+  "on_page": true,
+  "on_cached_page": true,
+  "status": "применено"
+ }
+]
