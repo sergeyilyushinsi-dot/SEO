@@ -1,0 +1,23 @@
+[
+ {
+  "plan_task": 24,
+  "label": "Description (Yoast)",
+  "type": "news",
+  "slug": "am-tech-v-reportazhe-rossii-24-kak-3d-pechat-reshaet-zadachi-promyshlennosti",
+  "field": "description",
+  "value": "Репортаж «России 24» с участием AM.TECH: применение промышленной 3D-печати, спрос на отечественное оборудование и российские установки для печати металлом.",
+  "before_text": "(нет)",
+  "after_text": "Репортаж «России 24» с участием AM.TECH: применение промышленной 3D-печати, спрос на отечественное оборудование и российские установки для печати металлом.",
+  "comment": "Поля Yoast открыты (задача 41 выполнена 13.10.2026), пробный запуск прошёл. 155 симв., по тексту страницы",
+  "page_path": "/news/am-tech-v-reportazhe-rossii-24-kak-3d-pechat-reshaet-zadachi-promyshlennosti/",
+  "row": 137,
+  "id": 4327,
+  "url": "https://am-tech.ru/news/am-tech-v-reportazhe-rossii-24-kak-3d-pechat-reshaet-zadachi-promyshlennosti/",
+  "before": "",
+  "after": "Репортаж «России 24» с участием AM.TECH: применение промышленной 3D-печати, спрос на отечественное оборудование и российские установки для печати металлом.",
+  "saved": true,
+  "on_page": true,
+  "on_cached_page": true,
+  "status": "применено"
+ }
+]

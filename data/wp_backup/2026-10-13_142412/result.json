@@ -1,0 +1,23 @@
+[
+ {
+  "plan_task": 16,
+  "label": "Title (Yoast)",
+  "type": "news",
+  "slug": "am-tech-prinyali-uchastie-v-vystavke-rosmould-2025",
+  "field": "title",
+  "value": "AM.TECH приняли участие в выставке Rosmould 2025 | AM-Tech",
+  "before_text": "AM.TECH приняли участие в выставке Rosmould 2025 - заказать у производителя с доставкой по России | AM-Tech",
+  "after_text": "AM.TECH приняли участие в выставке Rosmould 2025 | AM-Tech",
+  "comment": "Поля Yoast открыты (задача 41 выполнена 13.10.2026), пробный запуск прошёл. В title приписка для товаров «заказать у производителя с доставкой»; было 107 симв., стало 58 симв.",
+  "page_path": "/news/am-tech-prinyali-uchastie-v-vystavke-rosmould-2025/",
+  "row": 130,
+  "id": 2147,
+  "url": "https://am-tech.ru/news/am-tech-prinyali-uchastie-v-vystavke-rosmould-2025/",
+  "before": "AM.TECH приняли участие в выставке Rosmould 2025 - заказать у производителя с доставкой по России | AM-Tech",
+  "after": "AM.TECH приняли участие в выставке Rosmould 2025 | AM-Tech",
+  "saved": true,
+  "on_page": true,
+  "on_cached_page": true,
+  "status": "применено"
+ }
+]
