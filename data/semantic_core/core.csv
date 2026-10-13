@@ -31,10 +31,10 @@ geodesy,,наземный лазерный сканер,,https://am-tech.ru/kata
 geodesy,,геодезический 3d сканер,,https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/geodesicheskie-3d-scaneri/,,,,,new,seed из project.yaml
 geodesy,,slam сканер,,https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/geodesicheskie-3d-scaneri/,,,,,new,seed из project.yaml
 geodesy,,мобильный лазерный сканер,,https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/geodesicheskie-3d-scaneri/,,,,,new,seed из project.yaml
-cmm,,координатно измерительная машина,,https://am-tech.ru/katalog/kim-3d/,,,,,new,seed из project.yaml
-cmm,,ким машина,,https://am-tech.ru/katalog/kim-3d/,,,,,new,seed из project.yaml
-cmm,,портальная ким,,https://am-tech.ru/katalog/kim-3d/,,,,,new,seed из project.yaml
-cmm,,купить ким,,https://am-tech.ru/katalog/kim-3d/,,,,,new,seed из project.yaml
+cmm,,координатно измерительная машина,,https://am-tech.ru/katalog/kim-3d/,,,,,rejected,кластер ведёт i3d.ru (решение клиента 13.10.2026)
+cmm,,ким машина,,https://am-tech.ru/katalog/kim-3d/,,,,,rejected,кластер ведёт i3d.ru (решение клиента 13.10.2026)
+cmm,,портальная ким,,https://am-tech.ru/katalog/kim-3d/,,,,,rejected,кластер ведёт i3d.ru (решение клиента 13.10.2026)
+cmm,,купить ким,,https://am-tech.ru/katalog/kim-3d/,,,,,rejected,кластер ведёт i3d.ru (решение клиента 13.10.2026)
 services,,реверс инжиниринг,,новая страница,,,,,new,перенесено из solutions: услуги — отдельное направление
 solutions,,3d контроль качества деталей,,https://am-tech.ru/kompleksnye-reshenija-dlja-promyshlennosti/,,,,,new,seed из project.yaml
 solutions,,аддитивное производство под ключ,,https://am-tech.ru/kompleksnye-reshenija-dlja-promyshlennosti/,,,,,new,seed из project.yaml
