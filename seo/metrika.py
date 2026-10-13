@@ -39,9 +39,13 @@ class Metrika:
                 break
         return rows
 
-    def landing_pages(self, date1: str, date2: str) -> list[dict]:
-        """Страницы входа из органики с разбивкой по поисковой системе."""
-        return self.report(["ym:s:startURL", "ym:s:searchEngineRoot"], date1, date2)
+    def landing_pages(self, date1: str, date2: str, lead_goals: list[int] = ()) -> list[dict]:
+        """Страницы входа из органики с разбивкой по поисковой системе; leads — сумма достижений целей-лидов."""
+        goal_metrics = tuple(f"ym:s:goal{g}reaches" for g in lead_goals)
+        rows = self.report(["ym:s:startURL", "ym:s:searchEngineRoot"], date1, date2, metrics=METRICS + goal_metrics)
+        for row in rows:
+            row["leads"] = sum(row.pop(m.split(":")[-1]) or 0 for m in goal_metrics)
+        return rows
 
     def search_phrases(self, date1: str, date2: str, dimension: str = "ym:s:lastsignSearchPhrase") -> list[dict]:
         """Поисковые фразы, по которым приходили из органики (Яндекс скрывает большую часть фраз)."""

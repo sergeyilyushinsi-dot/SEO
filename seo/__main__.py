@@ -145,7 +145,11 @@ def _metrika():
 def cmd_metrika(a):
     mk = _metrika()
     date1, date2 = _days_range(a.days, lag=1)
-    rows = mk.landing_pages(date1, date2) if a.report == "pages" else mk.search_phrases(date1, date2)
+    if a.report == "pages":
+        goals = (config.project().get("yandex") or {}).get("metrika_lead_goals") or {}
+        rows = mk.landing_pages(date1, date2, [int(g) for g in goals])
+    else:
+        rows = mk.search_phrases(date1, date2)
     out = DATA_DIR / "metrika" / f"{a.report}_{TODAY.isoformat()}.csv"
     positions.write_csv(out, rows)
     print(f"{len(rows)} строк ({date1} — {date2}) → {out}")
