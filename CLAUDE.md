@@ -23,7 +23,7 @@
 | `wordstat ... [--mode exact]` | расширение семантики и точная частота | ключ Cloud (†) + `cloud_folder_id`, или `WORDSTAT_OAUTH_TOKEN` |
 | `serp`, `top "запрос"` | позиции наши и конкурентов, ТОП выдачи | ключ Cloud (†) + `cloud_folder_id` |
 | `cluster` | кластеризация запросов по пересечению ТОП-10 | данные `serp` |
-| `wp-me`, `wp-product SLUG`, `wp-apply FILE [--dry-run]` | доступ к WordPress API, SEO-поля карточек, правки товаров с копией в `data/wp_backup/` и проверкой на странице | пароль приложения (†) |
+| `wp-me`, `wp-product SLUG`, `wp-apply FILE [--dry-run]` | доступ к WordPress API, SEO-поля карточек, правки товаров, категорий, новостей, страниц и кейсов с копией в `data/wp_backup/` и проверкой на странице | пароль приложения (†) |
 
 \* Домен должен быть разрешён в сетевых настройках окружения (список — в README).
 (†) Ключ либо в переменной окружения (`YANDEX_OAUTH_TOKEN`, `YANDEX_CLOUD_API_KEY`, `WP_USER` + `WP_APP_PASSWORD`), либо сетевым секретом окружения —

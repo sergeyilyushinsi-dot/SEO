@@ -97,12 +97,12 @@ Yoast, без прав администратора):
 | Новости (`news`, 114), кейсы (`cases`, 7), страницы (13) | текст; у страниц только через `_elementor_data` (рискованно, через черновик) | title/description/noindex Yoast — откроет код ниже |
 | Записи `post` | title/description Yoast уже открыты | записей этого типа на сайте нет |
 
-Код для разработчика (тема или mu-plugin), открывает поля Yoast у страниц, новостей и кейсов — задача 41 плана:
+Код для разработчика (тема или mu-plugin), открывает поля Yoast у страниц, новостей, кейсов и видеообзоров — задача 41 плана:
 
 ```php
 add_action('init', function () {
     $keys = ['_yoast_wpseo_title', '_yoast_wpseo_metadesc', '_yoast_wpseo_meta-robots-noindex'];
-    foreach (['page', 'news', 'cases'] as $type) {
+    foreach (['page', 'news', 'cases', 'video_reviews'] as $type) {
         foreach ($keys as $key) {
             register_post_meta($type, $key, [
                 'type'          => 'string',
@@ -117,7 +117,7 @@ add_action('init', function () {
 });
 ```
 
-Правки товаров вносит `python -m seo wp-apply data/wp_changes/<пакет>.json` (сначала `--dry-run`): поля `title`, `description`, `noindex`, `short_description`, `name` и фрагменты текста в любом мета-поле (`meta:<ключ>` с `old`). Перед записью полная копия товара сохраняется в `data/wp_backup/<время>/`, после — проверяется страница (в обход кэша и как её видят посетители).
+Правки вносит `python -m seo wp-apply data/wp_changes/<пакет>.json` (сначала `--dry-run`). Формат правки и поля — в начале `seo/wp.py`: товары (`title`, `description`, `noindex`, `name`, `status`, `categories`, `short_description`, `body`, `meta:<ключ>`), категории (`name`, `body`), новости, страницы, кейсы и видеообзоры (`content`, `elementor`, `name`, `status`; Yoast-поля — после задачи 41). Замена ссылки — `"link": true` с `old`: адрес меняется только там, где он стоит целиком. Перед записью полная копия товара сохраняется в `data/wp_backup/<время>/`, после — проверяется страница (в обход кэша и как её видят посетители).
 
 После правки мета-полей проверяй страницу на сайте: Yoast может отдавать старый title из своего кэша (indexables), пока
 запись не пересохранена.

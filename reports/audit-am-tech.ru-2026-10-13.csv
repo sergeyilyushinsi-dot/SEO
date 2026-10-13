@@ -3,17 +3,13 @@ high,HTTP-статус не 200,cases,https://am-tech.ru/cases/,404
 high,битая внутренняя ссылка (301 → 404),product-category,https://am-tech.ru/product-category/lazernye-3d-skanery/kscan-magic/,"→ https://am-tech.ru/katalog/lazernye-3d-skanery/kscan-magic/ ; ссылаются 1 стр., напр. https://am-tech.ru/news/priglashaem-na-mezhdunarodnuyu-vystavku-defektoskopiya-ndt-sankt-peterburg/"
 high,битая внутренняя ссылка (301 → 404),product-category,https://am-tech.ru/product-category/lazernye-3d-skanery/simscan-30/,"→ https://am-tech.ru/katalog/lazernye-3d-skanery/simscan-30/ ; ссылаются 1 стр., напр. https://am-tech.ru/news/priglashaem-na-mezhdunarodnuyu-vystavku-defektoskopiya-ndt-sankt-peterburg/"
 high,битая внутренняя ссылка (301 → 404),product-category,https://am-tech.ru/product-category/slm-3d-printeri-ru/,"→ https://am-tech.ru/katalog/slm-3d-printeri-ru/ ; ссылаются 1 стр., напр. https://am-tech.ru/product/3d-printer-amt-64/"
-high,битая внутренняя ссылка (301 → 404),product,https://am-tech.ru/product/3d-skaner-kscan-e/ https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/,"→ https://am-tech.ru/product/3d-skaner-kscan-e/%20https:/am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/ ; ссылаются 1 стр., напр. https://am-tech.ru/product/3d-skaner-kscan-e/"
 high,битая внутренняя ссылка (404),catalog,https://am-tech.ru/catalog/,"ссылаются 2 стр., напр. https://am-tech.ru/video-obzory/"
 high,битая внутренняя ссылка (404),product,https://am-tech.ru/product/,"ссылаются 1 стр., напр. https://am-tech.ru/news/itogi-vystavki-metalloobrabotka-2024/"
+high,битая внутренняя ссылка (404),product,https://am-tech.ru/product/3d-skaner-kscan-e/ https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/,"ссылаются 1 стр., напр. https://am-tech.ru/product/3d-skaner-kscan-e/"
 high,дубль title,news,https://am-tech.ru/news/metrologicheskie-3d-skanery-dlja-promyshlennosti-kontrol-geometrii-i-tochnost-izmerenij-2/,Метрологические 3D-сканеры для промышленности: контроль геометрии и точность измерений - am-tech.ru
 high,дубль title,news,https://am-tech.ru/news/metrologicheskie-3d-skanery-dlja-promyshlennosti-kontrol-geometrii-i-tochnost-izmerenij/,Метрологические 3D-сканеры для промышленности: контроль геометрии и точность измерений - am-tech.ru
-high,дубль title,product,https://am-tech.ru/product/amt-43/,SLM 3D - принтеры AMT-45 - заказать у производителя с доставкой по России | AM-Tech
-high,дубль title,product,https://am-tech.ru/product/amt-45/,SLM 3D - принтеры AMT-45 - заказать у производителя с доставкой по России | AM-Tech
 high,пустой H1,shop,https://am-tech.ru/shop/,
 high,ссылка недоступна,кейсы,https://am-tech.ru/кейсы/,"TooManyRedirects; ссылаются 1 стр., напр. https://am-tech.ru/"
-medium,дубль description,product,https://am-tech.ru/product/amt-43/,Надежный 3D-принтер AMT-45 для промышленной печати. Высокая точность и скорость создания деталей. Заказать демонстрацию 
-medium,дубль description,product,https://am-tech.ru/product/amt-45/,Надежный 3D-принтер AMT-45 для промышленной печати. Высокая точность и скорость создания деталей. Заказать демонстрацию 
 medium,короткий title,diametr-lazernogo-pjatna,https://am-tech.ru/diametr-lazernogo-pjatna/0-05-0-20/,29 симв.: Архивы 0.05-0.20 - am-tech.ru
 medium,короткий title,diametr-lazernogo-pjatna,https://am-tech.ru/diametr-lazernogo-pjatna/0-08-0-12/,29 симв.: Архивы 0.08-0.12 - am-tech.ru
 medium,короткий title,news,https://am-tech.ru/news/,25 симв.: Новости и события AM-Tech
@@ -119,7 +115,10 @@ medium,нет разметки schema.org/Product,product,https://am-tech.ru/pro
 medium,нет разметки schema.org/Product,product,https://am-tech.ru/product/3d-skaner-simscan-42/,"BreadcrumbList, EntryPoint, ImageObject, ListItem, Organization, PropertyValueSpecification, ReadAction, SearchAction, WebPage, WebSite"
 medium,нет разметки schema.org/Product,product,https://am-tech.ru/product/3d-skaner-simscan-e/,"BreadcrumbList, EntryPoint, ImageObject, ListItem, Organization, PropertyValueSpecification, ReadAction, SearchAction, WebPage, WebSite"
 medium,нет разметки schema.org/Product,product,https://am-tech.ru/product/3d-skaner-simscan-s/,"BreadcrumbList, EntryPoint, ImageObject, ListItem, Organization, PropertyValueSpecification, ReadAction, SearchAction, WebPage, WebSite"
+medium,нет разметки schema.org/Product,product,https://am-tech.ru/product/3d-skaner-trackscan-go-c/,"BreadcrumbList, EntryPoint, ImageObject, ListItem, Organization, PropertyValueSpecification, ReadAction, SearchAction, WebPage, WebSite"
+medium,нет разметки schema.org/Product,product,https://am-tech.ru/product/3d-skaner-trackscan-go-e/,"BreadcrumbList, EntryPoint, ImageObject, ListItem, Organization, PropertyValueSpecification, ReadAction, SearchAction, WebPage, WebSite"
 medium,нет разметки schema.org/Product,product,https://am-tech.ru/product/3d-skaner-trackscan-sharp-e/,"BreadcrumbList, EntryPoint, ImageObject, ListItem, Organization, PropertyValueSpecification, ReadAction, SearchAction, WebPage, WebSite"
+medium,нет разметки schema.org/Product,product,https://am-tech.ru/product/3d-skaner-trackscan-sharp-z/,"BreadcrumbList, EntryPoint, ImageObject, ListItem, Organization, PropertyValueSpecification, ReadAction, SearchAction, WebPage, WebSite"
 medium,нет разметки schema.org/Product,product,https://am-tech.ru/product/am-tech-m-160g/,"BreadcrumbList, EntryPoint, ImageObject, ListItem, Organization, PropertyValueSpecification, ReadAction, SearchAction, WebPage, WebSite"
 medium,нет разметки schema.org/Product,product,https://am-tech.ru/product/am-tech-trackscan-sharp-49/,"BreadcrumbList, EntryPoint, ImageObject, ListItem, Organization, PropertyValueSpecification, ReadAction, SearchAction, WebPage, WebSite"
 medium,нет разметки schema.org/Product,product,https://am-tech.ru/product/am-tech-trackscan-sharp-s/,"BreadcrumbList, EntryPoint, ImageObject, ListItem, Organization, PropertyValueSpecification, ReadAction, SearchAction, WebPage, WebSite"
@@ -321,7 +320,6 @@ low,длинный title,product,https://am-tech.ru/product/am-tech-trackscan-sh
 low,длинный title,product,https://am-tech.ru/product/am-tech-trackscan-sharp-s/,86 симв.: 3D-сканер TrackScan Sharp S - заказать у производителя с доставкой по России | AM-Tech
 low,длинный title,product,https://am-tech.ru/product/am-tech-trackscan-sharp/,84 симв.: 3D-сканер TrackScan Sharp - заказать у производителя с доставкой по России | AM-Tech
 low,длинный title,product,https://am-tech.ru/product/amt-16/,82 симв.: SLM 3D - принтер AMT-16 - заказать у производителя с доставкой по России | AM-Tech
-low,длинный title,product,https://am-tech.ru/product/amt-43/,83 симв.: SLM 3D - принтеры AMT-45 - заказать у производителя с доставкой по России | AM-Tech
 low,длинный title,product,https://am-tech.ru/product/amt-45/,83 симв.: SLM 3D - принтеры AMT-45 - заказать у производителя с доставкой по России | AM-Tech
 low,длинный title,product,https://am-tech.ru/product/c-100/,88 симв.: Керамический 3D-принтер C-100 - заказать у производителя с доставкой по России | AM-Tech
 low,длинный title,product,https://am-tech.ru/product/c-136/,88 симв.: Керамический 3D-принтер C-136 - заказать у производителя с доставкой по России | AM-Tech
@@ -385,8 +383,8 @@ low,изображения без alt,katalog,https://am-tech.ru/katalog/promysh
 low,изображения без alt,katalog,https://am-tech.ru/katalog/promyshlennye-3d-printery-po-sla-i-keramike/,1 из 18
 low,изображения без alt,katalog,https://am-tech.ru/katalog/promyshlennye-3d-printery-po-sla-i-keramike/3d-print-keramika/,1 из 15
 low,изображения без alt,katalog,https://am-tech.ru/katalog/promyshlennye-3d-printery-po-sla-i-keramike/sla-3d-printery/,1 из 18
-low,изображения без alt,katalog,https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/,1 из 33
-low,изображения без alt,katalog,https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/,1 из 34
+low,изображения без alt,katalog,https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/,1 из 36
+low,изображения без alt,katalog,https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/,1 из 37
 low,изображения без alt,katalog,https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/lazernye-3d-skanery/,1 из 15
 low,изображения без alt,katalog,https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/rossijskie-3d-skanery/,1 из 7
 low,изображения без alt,katalog,https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/ruchnye-3d-skanery/,1 из 15
@@ -544,7 +542,10 @@ low,изображения без alt,product,https://am-tech.ru/product/3d-skan
 low,изображения без alt,product,https://am-tech.ru/product/3d-skaner-simscan-42/,4 из 26
 low,изображения без alt,product,https://am-tech.ru/product/3d-skaner-simscan-e/,7 из 41
 low,изображения без alt,product,https://am-tech.ru/product/3d-skaner-simscan-s/,1 из 31
+low,изображения без alt,product,https://am-tech.ru/product/3d-skaner-trackscan-go-c/,2 из 34
+low,изображения без alt,product,https://am-tech.ru/product/3d-skaner-trackscan-go-e/,2 из 34
 low,изображения без alt,product,https://am-tech.ru/product/3d-skaner-trackscan-sharp-e/,1 из 32
+low,изображения без alt,product,https://am-tech.ru/product/3d-skaner-trackscan-sharp-z/,2 из 34
 low,изображения без alt,product,https://am-tech.ru/product/am-tech-m-160g/,5 из 27
 low,изображения без alt,product,https://am-tech.ru/product/am-tech-trackscan-sharp-49/,1 из 36
 low,изображения без alt,product,https://am-tech.ru/product/am-tech-trackscan-sharp-s/,1 из 32
@@ -585,7 +586,7 @@ low,изображения без alt,product,https://am-tech.ru/product/sla-300
 low,изображения без alt,product,https://am-tech.ru/product/sla-400/,8 из 50
 low,изображения без alt,product,https://am-tech.ru/product/sla-600/,8 из 50
 low,изображения без alt,product,https://am-tech.ru/product/smart/,1 из 23
-low,изображения без alt,shop,https://am-tech.ru/shop/,1 из 73
+low,изображения без alt,shop,https://am-tech.ru/shop/,1 из 75
 low,изображения без alt,strana-proizvodstva,https://am-tech.ru/strana-proizvodstva/rossija/,1 из 11
 low,изображения без alt,teknologii,https://am-tech.ru/teknologii/,1 из 17
 low,изображения без alt,video-obzory,https://am-tech.ru/video-obzory/,1 из 5
@@ -646,12 +647,12 @@ low,короткий description,news,https://am-tech.ru/news/kak-rabotaet-3d-sk
 low,короткий description,news,https://am-tech.ru/news/lineyka-amt-nadyezhnost-i-povtoryaemost/,64 симв.
 low,короткий description,news,https://am-tech.ru/news/my-prinyali-uchastie-v-additivnom-kongresse-1/,69 симв.
 low,короткий description,video-obzory,https://am-tech.ru/video-obzory/,33 симв.
-low,страница не в sitemap,case-category,https://am-tech.ru/case-category/3d-pechat-metallami-po-tehnologii-ebm/,"ссылаются 269 стр., напр. https://am-tech.ru/"
-low,страница не в sitemap,case-category,https://am-tech.ru/case-category/3d-pechat-metallami-po-tehnologii-mbj/,"ссылаются 269 стр., напр. https://am-tech.ru/"
-low,страница не в sitemap,case-category,https://am-tech.ru/case-category/3d-pechat-metallami-po-tehnologii-slm/,"ссылаются 269 стр., напр. https://am-tech.ru/"
-low,страница не в sitemap,case-category,https://am-tech.ru/case-category/metallicheskaya-3d-pechat/,"ссылаются 269 стр., напр. https://am-tech.ru/"
-low,страница не в sitemap,case-category,https://am-tech.ru/case-category/tehnologii-3d-skanirovaniya/,"ссылаются 269 стр., напр. https://am-tech.ru/"
-low,страница не в sitemap,case-category,https://am-tech.ru/case-category/tehnologii-sla-cdlp/,"ссылаются 269 стр., напр. https://am-tech.ru/"
+low,страница не в sitemap,case-category,https://am-tech.ru/case-category/3d-pechat-metallami-po-tehnologii-ebm/,"ссылаются 272 стр., напр. https://am-tech.ru/"
+low,страница не в sitemap,case-category,https://am-tech.ru/case-category/3d-pechat-metallami-po-tehnologii-mbj/,"ссылаются 272 стр., напр. https://am-tech.ru/"
+low,страница не в sitemap,case-category,https://am-tech.ru/case-category/3d-pechat-metallami-po-tehnologii-slm/,"ссылаются 272 стр., напр. https://am-tech.ru/"
+low,страница не в sitemap,case-category,https://am-tech.ru/case-category/metallicheskaya-3d-pechat/,"ссылаются 272 стр., напр. https://am-tech.ru/"
+low,страница не в sitemap,case-category,https://am-tech.ru/case-category/tehnologii-3d-skanirovaniya/,"ссылаются 272 стр., напр. https://am-tech.ru/"
+low,страница не в sitemap,case-category,https://am-tech.ru/case-category/tehnologii-sla-cdlp/,"ссылаются 272 стр., напр. https://am-tech.ru/"
 low,страница не в sitemap,case-tag,https://am-tech.ru/case-tag/3d-pechat-keramikoj/,"ссылаются 1 стр., напр. https://am-tech.ru/teknologii/"
 low,страница не в sitemap,case-tag,https://am-tech.ru/case-tag/3d-pechat-metallom-slm/,"ссылаются 1 стр., напр. https://am-tech.ru/teknologii/"
 low,страница не в sitemap,case-tag,https://am-tech.ru/case-tag/amt-16/,"ссылаются 1 стр., напр. https://am-tech.ru/teknologii/"
@@ -693,8 +694,7 @@ low,страница не в sitemap,news-tag,https://am-tech.ru/news-tag/proekt
 low,страница не в sitemap,news-tag,https://am-tech.ru/news-tag/promyshlennaja-pechat/,"ссылаются 1 стр., напр. https://am-tech.ru/news/"
 low,страница не в sitemap,news-tag,https://am-tech.ru/news-tag/razrabotki-am-tech/,"ссылаются 1 стр., напр. https://am-tech.ru/news/"
 low,страница не в sitemap,news-tag,https://am-tech.ru/news-tag/slm/,"ссылаются 1 стр., напр. https://am-tech.ru/news/"
-low,страница не в sitemap,o-kompanii,https://am-tech.ru/o-kompanii/,"ссылаются 270 стр., напр. https://am-tech.ru/"
-low,страница не в sitemap,product,https://am-tech.ru/product/amt-16-kopirovat/,"ссылаются 9 стр., напр. https://am-tech.ru/shop/"
+low,страница не в sitemap,o-kompanii,https://am-tech.ru/o-kompanii/,"ссылаются 273 стр., напр. https://am-tech.ru/"
 low,страница не в sitemap,video-category,https://am-tech.ru/video-category/3d-printery-ru/,"ссылаются 12 стр., напр. https://am-tech.ru/video-obzory/"
 low,страница не в sitemap,video-category,https://am-tech.ru/video-category/3d-skanery-ru/,"ссылаются 17 стр., напр. https://am-tech.ru/video-obzory/"
 low,страница не в sitemap,video-category,https://am-tech.ru/video-category/meroprijatija/,"ссылаются 5 стр., напр. https://am-tech.ru/video-obzory/"

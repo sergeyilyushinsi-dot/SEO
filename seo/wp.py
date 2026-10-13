@@ -1,8 +1,12 @@
-"""Правки карточек товаров am-tech.ru через REST API WooCommerce: резервная копия, запись, проверка на сайте.
+"""Правки am-tech.ru через REST API WordPress/WooCommerce: резервная копия, запись, проверка на сайте.
 
 Авторизация — пароль приложения WordPress пользователя агента: сетевым секретом окружения (заголовок
 Authorization: Basic …, его подставляет прокси) или в WP_USER + WP_APP_PASSWORD. Что можно менять — README,
 раздел «Доступ к сайту». Правки вносятся только после подтверждения во вкладке «Правки на сайте».
+
+Правка — {"type"?, "slug", "field", "value", "old"?}. type: product (по умолчанию), category, news, page, case, video.
+У новостей, страниц, кейсов и видеообзоров поля Yoast (title, description, noindex) пишутся через meta записи —
+это работает после того, как разработчик откроет их для API (задача 41 плана, код в README).
 """
 import html
 import json
@@ -15,15 +19,32 @@ from .config import DATA_DIR
 
 BACKUP_DIR = DATA_DIR / "wp_backup"
 
-# Поле правки → мета-поле Yoast у товара (доступно в meta_data WooCommerce).
+# Тип объекта → коллекция REST API и метод записи.
+TYPES = {
+    "product": ("wc/v3/products", "PUT"),
+    "category": ("wp/v2/product_cat", "POST"),
+    "news": ("wp/v2/news", "POST"),
+    "page": ("wp/v2/pages", "POST"),
+    "case": ("wp/v2/cases", "POST"),
+    "video": ("wp/v2/video_reviews", "POST"),
+}
+POST_TYPES = ("news", "page", "case", "video")
+
+# Товар: поле правки → мета-поле Yoast (доступно в meta_data WooCommerce).
 META = {"title": "_yoast_wpseo_title", "description": "_yoast_wpseo_metadesc",
         "noindex": "_yoast_wpseo_meta-robots-noindex"}
-# В HTML-полях меняется только текст внутри разметки, сама разметка остаётся.
-HTML_FIELDS = ("short_description",)
-PLAIN_FIELDS = ("name",)
-FIELDS = (*META, *HTML_FIELDS, *PLAIN_FIELDS)
+# HTML-поля. Меняется фрагмент: "old" — что заменить (текст или точный кусок HTML), "value" — на что;
+# пустой "value" удаляет фрагмент. В short_description без "old" заменяется весь текст внутри разметки,
+# в body (описание товара или категории) без "old" заменяется весь HTML.
+# У новостей, страниц и кейсов: content — HTML записи, elementor — данные конструктора Elementor (там ищется
+# и обычный, и экранированный вид адреса: "/a/" и "\/a\/").
+HTML_FIELDS = {"short_description": "short_description", "body": "description", "content": "content"}
+PLAIN_FIELDS = ("name", "status")
+# Рубрики товара: "value" — список id категорий WooCommerce, заменяет текущие.
+LIST_FIELDS = ("categories",)
+FIELDS = (*META, *HTML_FIELDS, "elementor", *PLAIN_FIELDS, *LIST_FIELDS)
 # Любое другое мета-поле товара — «meta:<ключ>», например meta:_custom_advantages (блок «Преимущества»).
-# В нём меняется фрагмент текста: "old" — что заменить, "value" — на что.
+# В нём меняется фрагмент, как в HTML-полях.
 META_PREFIX = "meta:"
 
 
@@ -47,61 +68,176 @@ class WordPress:
     def me(self) -> dict:
         return self.api("GET", "wp/v2/users/me", params={"context": "edit"})
 
-    def product(self, slug: str) -> dict:
-        found = self.api("GET", "wc/v3/products", params={"slug": slug, "status": "any"})
+    def find(self, kind: str, slug: str) -> dict:
+        params = {"slug": slug, "context": "edit"}
+        if kind != "category":
+            params["status"] = "any"
+        found = self.api("GET", TYPES[kind][0], params=params)
         if not found:
-            raise http.ApiError(f"WordPress: товар {slug} не найден")
+            raise http.ApiError(f"WordPress: {kind} {slug} не найден")
         return found[0]
 
-    def update_product(self, product_id: int, body: dict) -> dict:
-        return self.api("PUT", f"wc/v3/products/{product_id}", json=body)
+    def product(self, slug: str) -> dict:
+        return self.find("product", slug)
 
-    def resave(self, product_id: int) -> None:
-        """Пересохраняет товар без изменений, как кнопка «Обновить» в админке: срабатывает save_post,
+    def update(self, kind: str, item_id: int, body: dict) -> dict:
+        path, method = TYPES[kind]
+        updated = self.api(method, f"{path}/{item_id}", json=body)
+        # wp/v2 отвечает без raw-полей — перечитываем, чтобы сравнить сохранённое.
+        return updated if kind == "product" else self.api("GET", f"{path}/{item_id}", params={"context": "edit"})
+
+    def resave(self, kind: str, item_id: int) -> None:
+        """Пересохраняет запись без изменений, как кнопка «Обновить» в админке: срабатывает save_post,
         Yoast пересобирает title/description, кэш страницы сбрасывается. WooCommerce при правке одних мета-полей
         запись не пересохраняет."""
-        self.api("POST", f"wp/v2/product/{product_id}", json={})
+        path = "wp/v2/product" if kind == "product" else TYPES[kind][0]
+        self.api("POST", f"{path}/{item_id}", json={})
+
+
+def kind_of(ch: dict) -> str:
+    return ch.get("type", "product")
 
 
 def meta_key(field: str) -> str | None:
     return META.get(field) or (field[len(META_PREFIX):] if field.startswith(META_PREFIX) else None)
 
 
-def get_value(product: dict, field: str) -> str:
+def item_url(item: dict) -> str:
+    return item.get("permalink") or item.get("link") or ""
+
+
+def get_value(item: dict, field: str, kind: str = "product"):
+    if kind in POST_TYPES:
+        if field == "content":
+            return item["content"]["raw"]
+        if field == "elementor":
+            return (item.get("meta") or {}).get("_elementor_data") or ""
+        if field == "name":
+            return item["title"]["raw"]
+        if field in META:
+            return (item.get("meta") or {}).get(META[field], "")
+        return item.get(field) or ""
+    if kind == "category" and field == "body":
+        return item.get("description") or ""
     key = meta_key(field)
     if key:
-        return next((str(m["value"]) for m in product.get("meta_data", []) if m["key"] == key), "")
-    return product.get(field) or ""
+        return next((str(m["value"]) for m in item.get("meta_data", []) if m["key"] == key), "")
+    if field in LIST_FIELDS:
+        return sorted(c["id"] for c in item.get(field) or [])
+    return item.get(HTML_FIELDS.get(field, field)) or ""
 
 
-def _replace_text(product: dict, field: str, raw: str, old: str, value: str) -> str:
+def is_fragment(ch: dict) -> bool:
+    """Правка заменяет кусок поля, а не всё поле."""
+    field = ch["field"]
+    return (field.startswith(META_PREFIX) or field in ("content", "elementor") or
+            (field in HTML_FIELDS and (bool(ch.get("old")) or field == "short_description")))
+
+
+def _replace_text(item: dict, field: str, raw: str, old: str, value: str, escape: bool = True) -> str:
     if not old or old not in raw:  # текст разбит тегами или записан сущностями — вслепую не перезаписываем
-        raise ValueError(f"{product['slug']}: в {field} нет текста «{old[:60]}», правка не применена")
-    return raw.replace(old, html.escape(value, quote=False), 1)
+        raise ValueError(f"{item['slug']}: в {field} нет текста «{old[:60]}», правка не применена")
+    return raw.replace(old, html.escape(value, quote=False) if escape else value, 1)
 
 
-def build_update(product: dict, changes: list[dict]) -> dict:
-    """Тело PUT для одного товара. changes: [{"field", "value", "old"?}]; old — прежний текст HTML-поля,
-    если в поле больше одного фрагмента текста."""
+def _url_forms(url: str) -> list[str]:
+    """Адрес как целое значение атрибута или строки JSON: в кавычках, с обычными и экранированными «/»."""
+    forms = []
+    for u in (url, url.replace("/", "\\/")):
+        forms += [f'"{u}"', f"'{u}'", f'\\"{u}\\"']
+    return forms
+
+
+def replace_link(item: dict, field: str, raw: str, old: str, new: str) -> str:
+    """Меняет адрес ссылки везде, где он стоит целым значением (href="…", "url":"…"), а не частью другого адреса."""
+    count = 0
+    for o, n in zip(_url_forms(old), _url_forms(new)):
+        count += raw.count(o)
+        raw = raw.replace(o, n)
+    if not count:
+        raise ValueError(f"{item['slug']}: в {field} нет ссылки «{old}», правка не применена")
+    return raw
+
+
+def _replace_elementor(item: dict, raw: str, old: str, value: str) -> str:
+    """Заменяет все вхождения фрагмента в JSON Elementor: адреса там бывают и с «\\/», и с «/»."""
+    variants = [(old, value), (old.replace("/", "\\/"), value.replace("/", "\\/"))]
+    found = [(o, v) for o, v in variants if o and o in raw]
+    if not found:
+        raise ValueError(f"{item['slug']}: в данных Elementor нет «{old[:60]}», правка не применена")
+    for o, v in found:
+        raw = raw.replace(o, v)
+    return raw
+
+
+def build_update(item: dict, changes: list[dict], kind: str = "product") -> dict:
+    """Тело запроса на запись для одного объекта. changes: [{"field", "value", "old"?}]."""
     body, meta = {}, []
     for ch in changes:
         field, value = ch["field"], ch["value"]
+        if ch.get("link"):  # замена адреса ссылки в HTML или данных Elementor
+            api_field = {"content": "content", "body": "description", "short_description": "short_description",
+                         "elementor": "_elementor_data"}[field]
+            if field == "elementor":
+                raw = body.get("meta", {}).get(api_field, get_value(item, "elementor", kind))
+                body.setdefault("meta", {})[api_field] = replace_link(item, field, raw, ch["old"], value)
+            else:
+                raw = body.get(api_field, get_value(item, field, kind))
+                body[api_field] = replace_link(item, field, raw, ch["old"], value)
+            continue
+        if kind in POST_TYPES:
+            if field == "content":
+                raw = body.get("content", item["content"]["raw"])
+                body["content"] = _replace_text(item, field, raw, ch.get("old", ""), value, escape=False)
+            elif field == "elementor":
+                raw = body.get("meta", {}).get("_elementor_data", get_value(item, "elementor", kind))
+                body.setdefault("meta", {})["_elementor_data"] = _replace_elementor(item, raw, ch.get("old", ""), value)
+            elif field == "name":
+                body["title"] = value
+            elif field == "status":
+                body["status"] = value
+            elif field in META:
+                if META[field] not in (item.get("meta") or {}):
+                    raise ValueError(f"{item['slug']}: поле Yoast {META[field]} закрыто для API — нужна задача 41")
+                body.setdefault("meta", {})[META[field]] = value
+            else:
+                raise ValueError(f"{kind}: поле {field} не поддерживается (content, elementor, name, status, "
+                                 "title, description, noindex)")
+            continue
+        if kind == "category":
+            if field == "name":
+                body["name"] = value
+            elif field == "body":
+                raw = body.get("description", item.get("description") or "")
+                body["description"] = (_replace_text(item, field, raw, ch["old"], value, escape=False)
+                                       if ch.get("old") else value)
+            else:
+                raise ValueError(f"category: поле {field} не поддерживается (name, body)")
+            continue
         if field in META:
-            item = next((m for m in product.get("meta_data", []) if m["key"] == META[field]), None)
-            meta.append({"id": item["id"], "key": item["key"], "value": value} if item
+            found = next((m for m in item.get("meta_data", []) if m["key"] == META[field]), None)
+            meta.append({"id": found["id"], "key": found["key"], "value": value} if found
                         else {"key": META[field], "value": value})
         elif field.startswith(META_PREFIX):
             key = meta_key(field)
-            item = next((m for m in product.get("meta_data", []) if m["key"] == key), None)
-            if not item or not isinstance(item["value"], str):
-                raise ValueError(f"{product['slug']}: у товара нет текстового поля {key}")
-            meta.append({"id": item["id"], "key": key,
-                         "value": _replace_text(product, field, item["value"], ch.get("old", ""), value)})
+            found = next((m for m in item.get("meta_data", []) if m["key"] == key), None)
+            if not found or not isinstance(found["value"], str):
+                raise ValueError(f"{item['slug']}: у товара нет текстового поля {key}")
+            meta.append({"id": found["id"], "key": key,
+                         "value": _replace_text(item, field, found["value"], ch.get("old", ""), value)})
         elif field in HTML_FIELDS:
-            raw = body.get(field, product.get(field) or "")
-            body[field] = _replace_text(product, field, raw, ch.get("old") or text(raw), value)
+            api_field = HTML_FIELDS[field]
+            raw = body.get(api_field, item.get(api_field) or "")
+            if field == "body" and not ch.get("old"):
+                body[api_field] = value
+            elif field == "body":  # в описании товара меняется кусок HTML: ссылка, правило CSS
+                body[api_field] = _replace_text(item, field, raw, ch["old"], value, escape=False)
+            else:
+                body[api_field] = _replace_text(item, field, raw, ch.get("old") or text(raw), value)
         elif field in PLAIN_FIELDS:
             body[field] = value
+        elif field in LIST_FIELDS:
+            body[field] = [{"id": int(x)} for x in value]
         else:
             raise ValueError(f"поле {field} не поддерживается, доступны: {', '.join(FIELDS)}")
     if meta:
@@ -113,10 +249,32 @@ def fetch_page(url: str, fresh: bool = True) -> dict:
     """SEO-поля страницы. fresh — с параметром в адресе, чтобы получить страницу в обход кэша."""
     params = {"nocache": int(time.time())} if fresh else None
     resp = http.session().get(url, params=params, timeout=90)
-    return crawler.parse_page(url, resp.content)
+    page = crawler.parse_page(url, resp.content)
+    page["http_status"] = resp.status_code
+    page["html"] = resp.text
+    return page
 
 
-def on_page(page: dict, field: str, value: str) -> bool:
+def _href_on_page(url: str, page_html: str) -> bool:
+    return bool(re.search(rf'href=["\']{re.escape(url)}["\']', page_html))
+
+
+def on_page(page: dict, field: str, value, old: str = "", link: bool = False) -> bool | None:
+    """Видна ли правка на странице. None — поле на странице не проверяется (рубрики)."""
+    if field in LIST_FIELDS:
+        return None
+    if link:  # новый адрес стоит в ссылке, старого нет
+        return _href_on_page(value, page["html"]) and not _href_on_page(old, page["html"])
+    if field == "status":  # снятая с публикации запись для посетителей — 404
+        return page["http_status"] == (200 if value == "publish" else 404)
+    if old and not value:  # удаление фрагмента: его больше нет в HTML страницы
+        return text(old) not in text(page["html"])
+    if field in ("content", "elementor") or (field == "body" and old):
+        if value.startswith(("/", "http")):  # замена адреса ссылки: новый есть, старого нет
+            return _href_on_page(value, page["html"]) and not _href_on_page(old, page["html"])
+        return value in page["html"] or text(value) in page["text"]
+    if field == "body":  # новое описание целиком: ищем его начало
+        return " ".join(text(value).split()[:12]) in page["text"]
     if field == "title":
         return text(page["title"]) == text(value)
     if field == "description":
@@ -128,48 +286,74 @@ def on_page(page: dict, field: str, value: str) -> bool:
     return text(value) in page["text"]
 
 
-def backup(product: dict, stamp: str) -> None:
+def backup(kind: str, item: dict, stamp: str) -> None:
     folder = BACKUP_DIR / stamp
     folder.mkdir(parents=True, exist_ok=True)
-    path = folder / f"product-{product['id']}-{product['slug']}.json"
-    path.write_text(json.dumps(product, ensure_ascii=False, indent=1), encoding="utf-8")
+    path = folder / f"{kind}-{item['id']}-{item['slug']}.json"
+    path.write_text(json.dumps(item, ensure_ascii=False, indent=1), encoding="utf-8")
+
+
+def saved_ok(stored, r: dict) -> bool:
+    if r.get("link"):
+        forms_old, forms_new = _url_forms(r["old"]), _url_forms(r["value"])
+        return any(f in str(stored) for f in forms_new) and not any(f in str(stored) for f in forms_old)
+    if r["field"] in LIST_FIELDS:
+        return stored == sorted(int(x) for x in r["value"])
+    if r["field"] == "elementor":
+        flat = str(stored).replace("\\/", "/")
+        return r["value"] in flat and r.get("old", "") not in flat
+    if is_fragment(r) or r.get("old"):
+        if not r["value"]:
+            return text(r["old"]) not in text(stored)
+        return r["value"] in str(stored) or text(r["value"]) in text(stored)
+    return text(stored) == text(r["value"])
 
 
 def apply(changes: list[dict], dry_run: bool = False) -> list[dict]:
-    """Применяет правки [{"slug", "field", "value", "old"?}] и проверяет каждую на сайте.
+    """Применяет правки и проверяет каждую на сайте.
 
-    Перед записью полная копия товара сохраняется в data/wp_backup/<время>/ — из неё можно вернуть прежние значения.
+    Перед записью полная копия объекта сохраняется в data/wp_backup/<время>/ — из неё можно вернуть прежние значения.
     """
     wp = WordPress()
     stamp = datetime.now().strftime("%Y-%m-%d_%H%M%S")
-    by_slug: dict[str, list[dict]] = {}
+    groups: dict[tuple[str, str], list[dict]] = {}
     for ch in changes:
-        by_slug.setdefault(ch["slug"], []).append(ch)
+        groups.setdefault((kind_of(ch), ch["slug"]), []).append(ch)
 
     results = []
-    for slug, items in by_slug.items():
-        product = wp.product(slug)
-        body = build_update(product, items)
-        rows = [{**ch, "id": product["id"], "url": product["permalink"], "before": get_value(product, ch["field"])}
-                for ch in items]
+    for (kind, slug), items in groups.items():
+        try:
+            item = wp.find(kind, slug)
+            body = build_update(item, items, kind)
+        except (ValueError, http.ApiError) as exc:  # одна несработавшая правка не останавливает пакет
+            results += [{**ch, "type": kind, "status": f"ошибка: {exc}", "saved": False, "on_page": None,
+                         "on_cached_page": None, "before": ""} for ch in items]
+            continue
+        url = item_url(item)
+        rows = [{**ch, "type": kind, "id": item["id"], "url": url,
+                 "before": get_value(item, ch["field"], kind)} for ch in items]
         if dry_run:
             results += [{**r, "status": "проверка без записи"} for r in rows]
             continue
-        backup(product, stamp)
-        updated = wp.update_product(product["id"], body)
-        page, cached = fetch_page(product["permalink"]), fetch_page(product["permalink"], fresh=False)
+        backup(kind, item, stamp)
+        updated = wp.update(kind, item["id"], body)
+        page, cached = fetch_page(url), fetch_page(url, fresh=False)
         # Мета-поля пишутся после сохранения записи, и Yoast или кэш могут отдавать старое — тогда пересохраняем.
-        if not all(on_page(pg, r["field"], r["value"]) for r in rows for pg in (page, cached)):
-            wp.resave(product["id"])
-            page, cached = fetch_page(product["permalink"]), fetch_page(product["permalink"], fresh=False)
+        stale = any(on_page(pg, r["field"], r["value"], r.get("old", ""), r.get("link", False)) is False
+                    for r in rows for pg in (page, cached))
+        if stale and kind != "category":
+            wp.resave(kind, item["id"])
+            page, cached = fetch_page(url), fetch_page(url, fresh=False)
         for r in rows:
-            stored = get_value(updated, r["field"])
-            fragment = r["field"] in HTML_FIELDS or r["field"].startswith(META_PREFIX)
-            saved = text(stored) == text(r["value"]) or (fragment and text(r["value"]) in text(stored))
-            results.append({**r, "after": stored, "saved": saved,
-                            "on_page": on_page(page, r["field"], r["value"]),
-                            "on_cached_page": on_page(cached, r["field"], r["value"]),
-                            "status": "применено" if saved else "не сохранилось"})
+            stored = get_value(updated, r["field"], kind)
+            ok = saved_ok(stored, r)
+            hidden = r["field"] == "elementor"  # JSON конструктора в отчёт не пишем — он в копии
+            results.append({**r, "before": "(данные Elementor)" if hidden else r["before"],
+                            "after": "(данные Elementor)" if hidden else stored, "saved": ok,
+                            "on_page": on_page(page, r["field"], r["value"], r.get("old", ""), r.get("link", False)),
+                            "on_cached_page": on_page(cached, r["field"], r["value"], r.get("old", ""),
+                                                      r.get("link", False)),
+                            "status": "применено" if ok else "не сохранилось"})
     if not dry_run and results:
         out = BACKUP_DIR / stamp / "result.json"
         out.write_text(json.dumps(results, ensure_ascii=False, indent=1), encoding="utf-8")

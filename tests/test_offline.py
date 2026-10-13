@@ -87,3 +87,66 @@ def test_wp_meta_fragment():
                                       "value": "SLM-установке AMT-43"}])
     assert body["meta_data"] == [{"id": 8, "key": "_custom_advantages",
                                   "value": "<h2>Материалы</h2>\r\nв SLM-установке AMT-43.\r\n"}]
+
+
+def test_wp_status_on_page():
+    assert wp.on_page({"http_status": 404}, "status", "draft")
+    assert not wp.on_page({"http_status": 200}, "status", "draft")
+    assert wp.build_update(PRODUCT, [{"field": "status", "value": "draft"}]) == {"status": "draft"}
+
+
+def test_wp_body_categories_and_removal():
+    product = {**PRODUCT, "description": "<style>body{margin:0}</p>\n<p>.x{a:b}</style><p>Текст</p>",
+               "categories": [{"id": 15, "name": "default"}]}
+    body = wp.build_update(product, [{"field": "body", "old": "body{margin:0}</p>\n<p>", "value": ""},
+                                     {"field": "categories", "value": [24, 1272]}])
+    assert body["description"] == "<style>.x{a:b}</style><p>Текст</p>"
+    assert body["categories"] == [{"id": 24}, {"id": 1272}]
+    assert wp.build_update(product, [{"field": "body", "value": "<p>Новое</p>"}]) == {"description": "<p>Новое</p>"}
+    assert wp.get_value(product, "categories") == [15]
+    page = {"html": "<style>.x{a:b}</style>", "text": "Новое описание", "h1": []}
+    assert wp.on_page(page, "body", "", old="body{margin:0}")
+    assert wp.on_page(page, "body", "<p>Новое описание</p>")
+    assert wp.on_page(page, "categories", [24]) is None
+
+
+def test_wp_post_types_links():
+    news = {"slug": "n", "content": {"raw": '<a href="/product-category/3d-skanery/">сканеры</a>'},
+            "meta": {"_elementor_data": '[{"url":"https:\\/\\/am-tech.ru\\/product-category\\/sla-3d-printery\\/"}]'},
+            "title": {"raw": "Новость"}}
+    body = wp.build_update(news, [{"field": "content", "old": "/product-category/3d-skanery/", "value": "/katalog/x/"}], "news")
+    assert body == {"content": '<a href="/katalog/x/">сканеры</a>'}
+    body = wp.build_update(news, [{"field": "elementor", "old": "/product-category/sla-3d-printery/",
+                                   "value": "/katalog/sla/"}], "page")
+    assert body["meta"]["_elementor_data"] == '[{"url":"https:\\/\\/am-tech.ru\\/katalog\\/sla\\/"}]'
+    page = {"html": '<a href="/katalog/x/">сканеры</a>', "text": "сканеры"}
+    assert wp.on_page(page, "content", "/katalog/x/", old="/product-category/3d-skanery/")
+    assert not wp.on_page({"html": '<a href="/product-category/3d-skanery/">', "text": ""}, "content",
+                          "/katalog/x/", old="/product-category/3d-skanery/")
+    assert wp.saved_ok('[{"url":"https:\\/\\/am-tech.ru\\/katalog\\/sla\\/"}]',
+                       {"field": "elementor", "old": "/product-category/sla-3d-printery/", "value": "/katalog/sla/"})
+
+
+def test_wp_link_replaces_only_whole_url():
+    news = {"slug": "n", "content": {"raw": '<a href="/product/ ">каталог</a> <a href="https://am-tech.ru/product/amt-16/">AMT</a>'},
+            "meta": {"_elementor_data": '[{"url":"\\/product-category\\/sla-3d-printery\\/"},{"editor":"<a href=\\"\\/product-category\\/sla-3d-printery\\/\\">"}]'}}
+    body = wp.build_update(news, [{"field": "content", "link": True, "old": "/product/ ", "value": "/katalog/"}], "news")
+    assert body["content"] == '<a href="/katalog/">каталог</a> <a href="https://am-tech.ru/product/amt-16/">AMT</a>'
+    body = wp.build_update(news, [{"field": "elementor", "link": True, "old": "/product-category/sla-3d-printery/",
+                                   "value": "/katalog/sla/"}], "page")
+    assert "sla-3d-printery" not in body["meta"]["_elementor_data"]
+    assert body["meta"]["_elementor_data"].count("\\/katalog\\/sla\\/") == 2
+    page = {"html": '<a href="/katalog/">каталог</a> <a href="https://am-tech.ru/product/amt-16/">'}
+    assert wp.on_page(page, "content", "/katalog/", old="/product/ ", link=True)
+
+
+def test_wp_yoast_on_posts_needs_task_41():
+    page = {"slug": "o-kompanii", "meta": {}, "content": {"raw": ""}, "title": {"raw": "О компании"}}
+    try:
+        wp.build_update(page, [{"field": "noindex", "value": "2"}], "page")
+    except ValueError as exc:
+        assert "задача 41" in str(exc)
+    else:
+        raise AssertionError("без открытых полей Yoast правка должна отклоняться")
+    page["meta"]["_yoast_wpseo_meta-robots-noindex"] = "1"
+    assert wp.build_update(page, [{"field": "noindex", "value": "2"}], "page") == {"meta": {"_yoast_wpseo_meta-robots-noindex": "2"}}

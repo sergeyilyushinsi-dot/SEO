@@ -305,12 +305,16 @@ def cmd_wp_apply(a):
     changes = json.loads(Path(a.file).read_text(encoding="utf-8"))
     results = wp.apply(changes, dry_run=a.dry_run)
     for r in results:
-        if a.dry_run:
-            before = r.get("old") or wp.text(r["before"])
-            print(f"{r['slug']} {r['field']}: «{before[:80]}» → «{r['value'][:80]}»")
+        if r["status"].startswith("ошибка"):
+            print(f"{r['slug']} {r['field']}: {r['status']}")
+        elif a.dry_run:
+            before = r.get("old") or (r["before"] if isinstance(r["before"], list) else wp.text(r["before"]))
+            after = r["value"] if isinstance(r["value"], list) else wp.text(r["value"]) or "(удалить)"
+            print(f"{r['slug']} {r['field']}: «{str(before)[:80]}» → «{str(after)[:80]}»")
         else:
-            marks = f"сохранено: {'да' if r['saved'] else 'НЕТ'}, на странице: {'да' if r['on_page'] else 'НЕТ'}, " \
-                    f"в кэше: {'да' if r['on_cached_page'] else 'НЕТ'}"
+            mark = {True: "да", False: "НЕТ", None: "не проверяется"}
+            marks = f"сохранено: {mark[r['saved']]}, на странице: {mark[r['on_page']]}, " \
+                    f"в кэше: {mark[r['on_cached_page']]}"
             print(f"{r['slug']} {r['field']}: {r['status']} ({marks})")
     if not a.dry_run and results:
         print(f"Резервные копии и результат: {wp.BACKUP_DIR}")
