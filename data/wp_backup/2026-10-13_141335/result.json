@@ -1,0 +1,22 @@
+[
+ {
+  "plan_task": 16,
+  "label": "Title (Yoast)",
+  "before_text": "Модуль AirGo Power - заказать у производителя с доставкой по России | AM-Tech",
+  "after_text": "Модуль AirGo Power — купить с доставкой по России | AM-Tech",
+  "comment": "Было 77 симв., стало 59 симв. «У производителя» убрано: в карточке страна производства — Китай",
+  "slug": "modul-airgo-power",
+  "field": "title",
+  "value": "Модуль AirGo Power — купить с доставкой по России | AM-Tech",
+  "row": 52,
+  "type": "product",
+  "id": 1647,
+  "url": "https://am-tech.ru/product/modul-airgo-power/",
+  "before": "Модуль AirGo Power - заказать у производителя с доставкой по России | AM-Tech",
+  "after": "Модуль AirGo Power — купить с доставкой по России | AM-Tech",
+  "saved": true,
+  "on_page": true,
+  "on_cached_page": true,
+  "status": "применено"
+ }
+]
