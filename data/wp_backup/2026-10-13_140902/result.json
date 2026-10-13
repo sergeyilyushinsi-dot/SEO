@@ -1,0 +1,43 @@
+[
+ {
+  "plan_task": 43,
+  "label": "Description (Yoast): телефон",
+  "before_text": "Купить 3D-сканер NimbleTrack E в AM-Tech. Метрологическая точность и эргономика. Звоните +7 (499) 350-50-73.",
+  "after_text": "Купить 3D-сканер NimbleTrack E в AM-Tech. Метрологическая точность и эргономика. Звоните +7 (495) 109 11 91.",
+  "comment": "Меняется только номер",
+  "slug": "3d-skaner-nimbletrack-e",
+  "field": "meta:_yoast_wpseo_metadesc",
+  "old": "+7 (499) 350-50-73",
+  "value": "+7 (495) 109 11 91",
+  "row": 14,
+  "type": "product",
+  "id": 2838,
+  "url": "https://am-tech.ru/product/3d-skaner-nimbletrack-e/",
+  "before": "Купить 3D-сканер NimbleTrack E в AM-Tech. Метрологическая точность и эргономика. Звоните +7 (499) 350-50-73.",
+  "after": "Купить 3D-сканер NimbleTrack E в AM-Tech. Метрологическая точность и эргономика. Звоните +7 (495) 109 11 91.",
+  "saved": true,
+  "on_page": true,
+  "on_cached_page": true,
+  "status": "применено"
+ },
+ {
+  "plan_task": 16,
+  "label": "Title (Yoast)",
+  "before_text": "3D-сканер NimbleTrack E - заказать у производителя с доставкой по России | AM-Tech",
+  "after_text": "3D-сканер NimbleTrack E — купить с доставкой по России | AM-Tech",
+  "comment": "Было 82 симв., стало 64 симв. «У производителя» убрано: в карточке страна производства — Китай",
+  "slug": "3d-skaner-nimbletrack-e",
+  "field": "title",
+  "value": "3D-сканер NimbleTrack E — купить с доставкой по России | AM-Tech",
+  "row": 38,
+  "type": "product",
+  "id": 2838,
+  "url": "https://am-tech.ru/product/3d-skaner-nimbletrack-e/",
+  "before": "3D-сканер NimbleTrack E - заказать у производителя с доставкой по России | AM-Tech",
+  "after": "3D-сканер NimbleTrack E — купить с доставкой по России | AM-Tech",
+  "saved": true,
+  "on_page": true,
+  "on_cached_page": true,
+  "status": "применено"
+ }
+]
