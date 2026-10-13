@@ -22,14 +22,17 @@ def load_env(path: Path = ROOT / ".env") -> None:
         os.environ.setdefault(key.strip(), value.strip().strip('"').strip("'"))
 
 
-def require_env(name: str) -> str:
-    value = os.environ.get(name, "").strip()
+def optional_env(name: str) -> str | None:
+    """Ключ из окружения. Может отсутствовать: при «сетевом секрете» его подставляет прокси окружения."""
+    return os.environ.get(name, "").strip() or None
+
+
+def setting(env_name: str, yaml_key: str) -> str:
+    """Несекретная настройка: переменная окружения, иначе config/project.yaml → yandex.<ключ>."""
+    value = optional_env(env_name) or (project().get("yandex") or {}).get(yaml_key)
     if not value:
-        raise SystemExit(
-            f"Не задана переменная окружения {name}. "
-            "Добавьте её в настройки окружения или в .env (см. README, раздел «Доступы»)."
-        )
-    return value
+        raise SystemExit(f"Не задано {env_name} (или yandex.{yaml_key} в config/project.yaml)")
+    return str(value)
 
 
 def _load_yaml(name: str) -> dict:

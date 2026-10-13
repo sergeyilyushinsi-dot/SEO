@@ -2,7 +2,8 @@
 
 1. Yandex Cloud Search API (рекомендуется — тот же ключ подходит для проверки выдачи):
    POST https://searchapi.api.cloud.yandex.net/v2/wordstat/topRequests
-   Переменные: YANDEX_CLOUD_API_KEY, YANDEX_CLOUD_FOLDER_ID.
+   Каталог: YANDEX_CLOUD_FOLDER_ID или project.yaml → yandex.cloud_folder_id.
+   Ключ: YANDEX_CLOUD_API_KEY или сетевой секрет окружения (Authorization, префикс Api-Key).
 2. API Wordstat (доступ выдаётся через поддержку Яндекс.Директа):
    POST https://api.wordstat.yandex.net/v1/topRequests
    Переменная: WORDSTAT_OAUTH_TOKEN.
@@ -10,7 +11,7 @@
 import os
 import re
 
-from . import http
+from . import config, http
 
 CLOUD_URL = "https://searchapi.api.cloud.yandex.net/v2/wordstat/topRequests"
 DIRECT_URL = "https://api.wordstat.yandex.net/v1/topRequests"
@@ -25,18 +26,19 @@ def exact(phrase: str) -> str:
 class Wordstat:
     def __init__(self):
         self.sess = http.session()
-        if os.environ.get("YANDEX_CLOUD_API_KEY"):
+        folder = config.optional_env("YANDEX_CLOUD_FOLDER_ID") or (config.project().get("yandex") or {}).get("cloud_folder_id")
+        if folder:
             self.backend = "cloud"
-            self.folder = os.environ.get("YANDEX_CLOUD_FOLDER_ID", "")
-            if not self.folder:
-                raise SystemExit("Для Wordstat через Yandex Cloud нужна переменная YANDEX_CLOUD_FOLDER_ID")
-            self.sess.headers["Authorization"] = f"Api-Key {os.environ['YANDEX_CLOUD_API_KEY']}"
+            self.folder = str(folder)
+            key = config.optional_env("YANDEX_CLOUD_API_KEY")
+            if key:
+                self.sess.headers["Authorization"] = f"Api-Key {key}"
         elif os.environ.get("WORDSTAT_OAUTH_TOKEN"):
             self.backend = "direct"
             self.sess.headers["Authorization"] = f"Bearer {os.environ['WORDSTAT_OAUTH_TOKEN']}"
         else:
-            raise SystemExit("Нет доступа к Wordstat: задайте YANDEX_CLOUD_API_KEY + YANDEX_CLOUD_FOLDER_ID "
-                             "или WORDSTAT_OAUTH_TOKEN (см. README)")
+            raise SystemExit("Нет доступа к Wordstat: укажите ID каталога Yandex Cloud (yandex.cloud_folder_id в "
+                             "config/project.yaml) и ключ, либо WORDSTAT_OAUTH_TOKEN (см. README)")
 
     def top_requests(self, phrase: str, regions: list[int] | None = None, limit: int = 200) -> dict:
         """Возвращает {total, top: [(фраза, показы)], associations: [(фраза, показы)]} за последние 30 дней."""

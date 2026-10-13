@@ -1,7 +1,8 @@
 """Клиент Reporting API Яндекс.Метрики: органический трафик по страницам входа и поисковым фразам.
 
 Документация: https://yandex.ru/dev/metrika/ru/stat/
-Авторизация: OAuth-токен с правом metrika:read (YANDEX_OAUTH_TOKEN), номер счётчика — YANDEX_METRIKA_COUNTER.
+Авторизация: OAuth-токен с правом metrika:read — в YANDEX_OAUTH_TOKEN или сетевым секретом окружения
+(заголовок Authorization, префикс OAuth). Номер счётчика — YANDEX_METRIKA_COUNTER или project.yaml.
 """
 from . import http
 
@@ -12,10 +13,11 @@ METRICS = ("ym:s:visits", "ym:s:users", "ym:s:bounceRate", "ym:s:pageDepth",
 
 
 class Metrika:
-    def __init__(self, token: str, counter: str):
+    def __init__(self, token: str | None, counter: str):
         self.counter = counter
         self.sess = http.session()
-        self.sess.headers["Authorization"] = f"OAuth {token}"
+        if token:
+            self.sess.headers["Authorization"] = f"OAuth {token}"
 
     def report(self, dimensions: list[str], date1: str, date2: str, metrics=METRICS,
                filters: str | None = ORGANIC, sort: str = "-ym:s:visits", max_rows: int = 10000) -> list[dict]:

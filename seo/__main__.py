@@ -114,7 +114,7 @@ def cmd_gap(a):
 
 def _webmaster():
     from .webmaster import Webmaster
-    wm = Webmaster(config.require_env("YANDEX_OAUTH_TOKEN"))
+    wm = Webmaster(config.optional_env("YANDEX_OAUTH_TOKEN"))
     return wm, wm.host_id(config.own_domain())
 
 
@@ -139,7 +139,7 @@ def cmd_wm_diagnostics(a):
 
 def _metrika():
     from .metrika import Metrika
-    return Metrika(config.require_env("YANDEX_OAUTH_TOKEN"), config.require_env("YANDEX_METRIKA_COUNTER"))
+    return Metrika(config.optional_env("YANDEX_OAUTH_TOKEN"), config.setting("YANDEX_METRIKA_COUNTER", "metrika_counter"))
 
 
 def cmd_metrika(a):
@@ -344,7 +344,10 @@ def main(argv=None):
     s.set_defaults(func=cmd_cluster)
 
     a = p.parse_args(argv)
-    a.func(a)
+    try:
+        a.func(a)
+    except http.ApiError as exc:
+        sys.exit(f"Ошибка API — {exc}")
 
 
 if __name__ == "__main__":

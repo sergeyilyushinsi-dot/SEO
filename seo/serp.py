@@ -1,13 +1,14 @@
 """Снятие позиций в выдаче Яндекса через Yandex Cloud Search API v2 (бывший Яндекс.XML).
 
 POST https://searchapi.api.cloud.yandex.net/v2/web/search — синхронный режим, ответ XML в base64.
-Переменные: YANDEX_CLOUD_API_KEY, YANDEX_CLOUD_FOLDER_ID. Каждый запрос платный — см. тарифы Search API.
+Ключ: YANDEX_CLOUD_API_KEY или сетевой секрет окружения (заголовок Authorization, префикс Api-Key).
+Каталог: YANDEX_CLOUD_FOLDER_ID или project.yaml → yandex.cloud_folder_id. Каждый запрос платный.
 """
 import base64
 from xml.etree import ElementTree as ET
 
 from . import http
-from .config import require_env
+from .config import optional_env, setting
 from .crawler import host_of
 
 URL = "https://searchapi.api.cloud.yandex.net/v2/web/search"
@@ -15,9 +16,11 @@ URL = "https://searchapi.api.cloud.yandex.net/v2/web/search"
 
 class YandexSerp:
     def __init__(self):
-        self.folder = require_env("YANDEX_CLOUD_FOLDER_ID")
+        self.folder = setting("YANDEX_CLOUD_FOLDER_ID", "cloud_folder_id")
         self.sess = http.session()
-        self.sess.headers["Authorization"] = f"Api-Key {require_env('YANDEX_CLOUD_API_KEY')}"
+        key = optional_env("YANDEX_CLOUD_API_KEY")
+        if key:
+            self.sess.headers["Authorization"] = f"Api-Key {key}"
 
     def search(self, query: str, region: int, depth: int = 100) -> list[dict]:
         """Топ выдачи с группировкой по доменам, как в обычной выдаче: [{pos, url, domain, title}]."""

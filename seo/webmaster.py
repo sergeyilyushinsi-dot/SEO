@@ -1,7 +1,8 @@
 """Клиент API Яндекс.Вебмастера v4: поисковые запросы с позициями, сводка, диагностика.
 
 Документация: https://yandex.ru/dev/webmaster/doc/ru/
-Авторизация: OAuth-токен с правом webmaster:hostinfo (переменная YANDEX_OAUTH_TOKEN).
+Авторизация: OAuth-токен с правом webmaster:hostinfo — в YANDEX_OAUTH_TOKEN или сетевым секретом окружения
+(заголовок Authorization, префикс OAuth), тогда переменная не нужна.
 """
 from urllib.parse import quote, urlparse
 
@@ -12,9 +13,10 @@ INDICATORS = ("TOTAL_SHOWS", "TOTAL_CLICKS", "AVG_SHOW_POSITION", "AVG_CLICK_POS
 
 
 class Webmaster:
-    def __init__(self, token: str):
+    def __init__(self, token: str | None):
         self.sess = http.session()
-        self.sess.headers["Authorization"] = f"OAuth {token}"
+        if token:
+            self.sess.headers["Authorization"] = f"OAuth {token}"
         self._user_id = None
 
     def _get(self, path: str, params=None) -> dict:

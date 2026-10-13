@@ -21,32 +21,69 @@
 ## Доступы
 
 Без доступов работают: краулинг и аудит сайта, разбор страниц конкурентов, gap-анализ.
-Для остального нужны ключи. **Не присылайте токены в чат** — добавьте их как переменные окружения
-в настройках облачного окружения Claude Code (или в файл `.env` при локальном запуске, шаблон — `.env.example`).
+Для остального нужны ключи Яндекса. **Не присылайте токены в чат.**
 
-### 1. Яндекс.Вебмастер и Яндекс.Метрика — `YANDEX_OAUTH_TOKEN`, `YANDEX_METRIKA_COUNTER`
+Несекретные идентификаторы лежат в `config/project.yaml → yandex`: номер счётчика Метрики (`93773111`, он виден
+в коде сайта) и ID каталога Yandex Cloud — его можно прислать в чат или вписать самому.
 
-1. Зайдите на https://oauth.yandex.ru/ под аккаунтом, у которого есть доступ к am-tech.ru в Вебмастере
-   и к счётчику Метрики → «Создать приложение».
-2. Платформа «Веб-сервисы», Redirect URI: `https://oauth.yandex.ru/verification_code`.
-3. Доступы (только чтение): **Яндекс.Вебмастер → «Получение информации о сайтах» (`webmaster:hostinfo`)** и
-   **Яндекс.Метрика → «Получение статистики, чтение параметров своих и доверенных счётчиков» (`metrika:read`)**.
-4. Откройте `https://oauth.yandex.ru/authorize?response_type=token&client_id=<ClientID приложения>` — получите
-   токен (действует около года).
-5. Номер счётчика Метрики — в списке счётчиков (https://metrika.yandex.ru/list).
+### Шаг 1. Получить ключи
 
-### 2. Wordstat и позиции в выдаче — `YANDEX_CLOUD_API_KEY`, `YANDEX_CLOUD_FOLDER_ID`
+**OAuth-токен для Вебмастера и Метрики** (один токен на оба сервиса, только чтение):
+1. https://oauth.yandex.ru/ под аккаунтом, у которого есть доступ к am-tech.ru в Вебмастере и к счётчику Метрики →
+   «Создать приложение» → «Для доступа к API или отладки».
+2. Права: **Яндекс.Вебмастер → «Получение информации о сайтах» (`webmaster:hostinfo`)** и
+   **Яндекс.Метрика → «Получение статистики…» (`metrika:read`)**.
+3. Откройте `https://oauth.yandex.ru/authorize?response_type=token&client_id=<ClientID приложения>` — на странице
+   будет токен (действует около года).
 
-Рекомендуемый вариант — Yandex Cloud Search API: один ключ даёт и Wordstat, и выдачу Яндекса для снятия позиций.
-
+**API-ключ Yandex Cloud для Wordstat и выдачи:**
 1. https://console.yandex.cloud/ → платёжный аккаунт → каталог; скопируйте **ID каталога**.
 2. Сервисный аккаунт с ролью `search-api.webSearch.user` → создайте **API-ключ** (область `yc.search-api.execute`).
-3. Запросы к Search API платные (тарифы — в документации Yandex Cloud); агент предупреждает перед большими прогонами.
+3. Запросы к Search API платные; агент предупреждает перед большими прогонами.
 
-Альтернатива только для Wordstat — API Wordstat (`WORDSTAT_OAUTH_TOKEN`): OAuth-приложение + заявка в
-поддержку Яндекс.Директа на доступ (см. справку Wordstat → API).
+Альтернатива только для Wordstat — API Wordstat (`WORDSTAT_OAUTH_TOKEN`): OAuth-приложение + заявка в поддержку
+Яндекс.Директа.
 
-### 3. Сетевой доступ окружения
+### Шаг 2. Положить ключи в облачное окружение Claude Code
+
+claude.ai/code → меню облачного окружения в заголовке сессии → **Edit**
+([документация](https://code.claude.com/docs/en/cloud-environments)). Изменения подхватит новая сессия.
+
+**Вариант А — сетевые секреты (Network secrets, планы Pro и Max), рекомендуется.** Ключ хранится вне контейнера:
+прокси окружения сам подставляет его в запросы к указанным хостам, агент ключ не видит. **Add secret**, тип Bearer:
+
+| Name | Allowed websites | Custom header: Name / Prefix / Value |
+|---|---|---|
+| Yandex Metrika | `api-metrika.yandex.net` | `Authorization` / `OAuth` / OAuth-токен |
+| Yandex Webmaster | `api.webmaster.yandex.net` | `Authorization` / `OAuth` / тот же OAuth-токен |
+| Yandex Cloud Search API | `searchapi.api.cloud.yandex.net` | `Authorization` / `Api-Key` / API-ключ |
+
+Переменные окружения для ключей при этом не нужны: если `YANDEX_OAUTH_TOKEN` / `YANDEX_CLOUD_API_KEY` не заданы,
+скрипты не ставят заголовок сами, его добавляет прокси.
+
+**Вариант Б — переменные окружения (если раздела Network secrets нет, например на планах Team/Enterprise).**
+В поле Environment variables, формат `.env`:
+
+```
+YANDEX_OAUTH_TOKEN=...
+YANDEX_CLOUD_API_KEY=...
+YANDEX_CLOUD_FOLDER_ID=...
+```
+
+Значения переменных видны всем, кто пользуется этим окружением, и командам внутри сессии.
+
+**Секреты GitHub (Settings → Secrets) сюда не подходят:** они доступны только GitHub Actions, в сессию Claude Code
+не передаются. Использовать их можно, если сбор данных вынести в запланированный workflow GitHub Actions,
+который сам выгружает CSV в репозиторий, — агент тогда только анализирует файлы.
+
+### Известное ограничение: Вебмастер
+
+На 13.10.2026 `api.webmaster.yandex.net` обрывает соединение (reset на этапе TLS) при запросах из облачного
+окружения Claude Code, а `api-metrika.yandex.net` и `searchapi.api.cloud.yandex.net` отвечают нормально. Если после
+добавления токена Вебмастер не заработает: запустите `python -m seo wm-queries` локально (с `.env`) и закоммитьте
+`data/positions/webmaster_*.csv`, либо выгрузите отчёт «Поисковые запросы» из интерфейса Вебмастера в `data/webmaster/`.
+
+### Сетевой доступ окружения
 
 Если окружение Claude Code работает с ограниченным доступом в интернет, добавьте в разрешённые домены
 (настройки окружения → Network access, https://code.claude.com/docs/en/cloud-environments#network-access):
