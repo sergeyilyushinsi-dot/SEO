@@ -2,9 +2,9 @@
 import csv
 import re
 from collections import Counter, defaultdict
-from statistics import median
 from datetime import date
 from pathlib import Path
+from statistics import median
 
 import snowballstemmer
 

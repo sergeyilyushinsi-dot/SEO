@@ -65,6 +65,7 @@ directions:
     seeds: [координатно измерительная машина, ким машина, портальная ким, купить ким]
   solutions:
     name: Комплексные решения и услуги
+    # На 13.10.2026 адрес редиректит на .../kompleksnye-reshenija-dlja-promyshlennosti-2/ с noindex — см. reports/initial-audit-2026-10-13.md
     url: https://am-tech.ru/kompleksnye-reshenija-dlja-promyshlennosti/
     seeds: [реверс инжиниринг, 3d контроль качества деталей, аддитивное производство под ключ, 3d сканирование услуги]
   leasing:

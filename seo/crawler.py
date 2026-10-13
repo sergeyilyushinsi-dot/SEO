@@ -136,6 +136,7 @@ def parse_page(url: str, html: bytes | str) -> dict:
         "h1": [h.get_text(" ", strip=True) for h in soup.find_all("h1")],
         "h2": [h.get_text(" ", strip=True) for h in soup.find_all("h2")],
         "h3": [h.get_text(" ", strip=True) for h in soup.find_all("h3")],
+        "outline": [f"{h.name.upper()}: {h.get_text(' ', strip=True)}" for h in soup.find_all(["h1", "h2", "h3"])],
         "schema": _schema_types(soup),
         "images": len(images),
         "images_no_alt": sum(1 for i in images if not (i.get("alt") or "").strip()),

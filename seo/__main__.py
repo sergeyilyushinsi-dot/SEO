@@ -26,7 +26,8 @@ def _site_url(domain: str | None) -> str:
 
 def _load_keywords(path: Path) -> list[dict]:
     if path.suffix == ".csv":
-        return [r for r in positions.read_csv(path) if r.get("keyword", "").strip()]
+        return [r for r in positions.read_csv(path)
+                if r.get("keyword", "").strip() and r.get("status") != "rejected"]
     lines = path.read_text(encoding="utf-8").splitlines()
     return [{"keyword": l.strip()} for l in lines if l.strip() and not l.startswith("#")]
 
@@ -69,9 +70,8 @@ def cmd_page(a):
         sys.exit(f"Не удалось разобрать страницу: {row}")
     print(f"URL: {a.url}\nСтатус: {row['status']}\nTitle: {row['title']}\nDescription: {row['description']}")
     print(f"Слов: {row['words']}; schema: {', '.join(row['schema']) or '—'}; картинок: {row['images']}")
-    for level in ("h1", "h2", "h3"):
-        for h in row[level]:
-            print(f"{'  ' * (int(level[1]) - 1)}{level.upper()}: {h}")
+    for heading in row["outline"]:
+        print("  " * (int(heading[1]) - 1) + heading)
     if a.text:
         print("\n--- Текст ---\n" + row["text"][: a.text])
 
@@ -145,6 +145,8 @@ def cmd_wordstat(a):
     phrases = list(a.phrases)
     if a.file:
         phrases += [r["keyword"] for r in _load_keywords(Path(a.file))]
+    if not phrases:
+        sys.exit("Укажите фразы аргументами или через --file")
     regions = a.regions or config.project()["regions"]["wordstat"]
     rows = []
     for phrase in phrases:

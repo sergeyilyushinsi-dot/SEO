@@ -5,6 +5,8 @@ from datetime import date
 from pathlib import Path
 from urllib.parse import urlparse
 
+import requests
+
 from . import http
 from .config import REPORTS_DIR
 from .crawler import SKIP_EXT, host_of
@@ -105,23 +107,24 @@ def check_internal_links(rows: list[dict], max_checks: int = 300) -> list[dict]:
     sess = http.session()
     issues = []
     for link, pages in sorted(sources.items(), key=lambda kv: -len(kv[1]))[:max_checks]:
+        refs = f"ссылаются {len(pages)} стр., напр. {pages[0]}"
         try:
-            resp = sess.head(link, timeout=20, allow_redirects=False)
+            resp = sess.head(link, timeout=20, allow_redirects=True)
             if resp.status_code in (405, 403):
-                resp = sess.get(link, timeout=20, allow_redirects=False)
-        except Exception as exc:  # сетевые ошибки фиксируем как проблему ссылки
+                resp = sess.get(link, timeout=20, allow_redirects=True)
+        except requests.RequestException as exc:
             issues.append({"url": link, "section": section(link), "severity": "high", "issue": "ссылка недоступна",
-                           "detail": f"{exc.__class__.__name__}; ссылаются {len(pages)} стр., напр. {pages[0]}"})
+                           "detail": f"{exc.__class__.__name__}; {refs}"})
             continue
-        code = resp.status_code
+        code, chain = resp.status_code, [r.status_code for r in resp.history]
         if code >= 400:
-            sev, name = "high", f"битая внутренняя ссылка ({code})"
-        elif 300 <= code < 400:
-            sev, name = "low", f"внутренняя ссылка на редирект ({code})"
+            sev, name = "high", f"битая внутренняя ссылка ({' → '.join(map(str, chain + [code]))})"
+        elif chain:
+            sev, name = "low", f"внутренняя ссылка на редирект ({chain[0]})"
         else:
             sev, name = "low", "страница не в sitemap"
-        issues.append({"url": link, "section": section(link), "severity": sev, "issue": name,
-                       "detail": f"→ {resp.headers.get('Location', '')} ; ссылаются {len(pages)} стр., напр. {pages[0]}"})
+        target = f"→ {resp.url} ; " if chain else ""
+        issues.append({"url": link, "section": section(link), "severity": sev, "issue": name, "detail": target + refs})
     return issues
 
 
@@ -140,7 +143,7 @@ def write_report(domain: str, rows: list[dict], issues: list[dict]) -> tuple[Pat
     ok = [r for r in rows if r.get("status") == 200 and "words" in r]
     lines = [f"# Аудит {domain} — {stamp}", "", f"Страниц в sitemap: {len(rows)}; успешно разобрано: {len(ok)}", "",
              "## Разделы", ""]
-    lines += [f"- `/{s}/` — {n}" for s, n in by_section.most_common()]
+    lines += [f"- `{'/' if s == '/' else f'/{s}/'}` — {n}" for s, n in by_section.most_common()]
     lines += ["", "## Проблемы (кол-во страниц)", "", "| Важность | Проблема | Страниц |", "|---|---|---|"]
     counts = Counter((i["severity"], i["issue"]) for i in issues)
     for (sev, name), n in sorted(counts.items(), key=lambda kv: ({"high": 0, "medium": 1, "low": 2}[kv[0][0]], -kv[1])):
