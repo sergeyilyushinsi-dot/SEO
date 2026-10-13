@@ -57,6 +57,7 @@ claude.ai/code → меню облачного окружения в загол�
 | Yandex Metrika | `api-metrika.yandex.net` | `Authorization` / `OAuth` / OAuth-токен |
 | Yandex Webmaster | `api.webmaster.yandex.net` | `Authorization` / `OAuth` / тот же OAuth-токен |
 | Yandex Cloud Search API | `searchapi.api.cloud.yandex.net` | `Authorization` / `Api-Key` / API-ключ |
+| WordPress am-tech | `am-tech.ru` | `Authorization` / `Basic` / `btoa("логин:пароль приложения")` — см. ниже |
 
 Переменные окружения для ключей при этом не нужны: если `YANDEX_OAUTH_TOKEN` / `YANDEX_CLOUD_API_KEY` не заданы,
 скрипты не ставят заголовок сами, его добавляет прокси.
@@ -75,6 +76,27 @@ YANDEX_CLOUD_FOLDER_ID=...
 **Секреты GitHub (Settings → Secrets) сюда не подходят:** они доступны только GitHub Actions, в сессию Claude Code
 не передаются. Использовать их можно, если сбор данных вынести в запланированный workflow GitHub Actions,
 который сам выгружает CSV в репозиторий, — агент тогда только анализирует файлы.
+
+### Доступ к сайту (WordPress REST API)
+
+Агент правит сайт через REST API WordPress от отдельного пользователя (роль «Редактор» или «Менеджер магазина»,
+не администратор) с паролем приложения: профиль пользователя → «Пароли приложений» → `claude-seo`. Значение секрета —
+результат `btoa("логин:пароль приложения")` в консоли браузера (F12 → Console). Пароль приложения работает только
+для API, на краулинг сайта не влияет; отозвать — там же в профиле. Секрет подхватывает новая сессия.
+
+Проверка: `curl -s https://am-tech.ru/wp-json/wp/v2/users/me` — 200 с логином; 401 `rest_not_logged_in` значит,
+что секрет не подставлен.
+
+Что можно менять через API (проверено по схеме REST 13.10.2026):
+
+| Объект | Через API | Нет в API |
+|---|---|---|
+| Категории товаров | название, текст (`description` — тут лежит SEO-текст категории) | title/description/noindex Yoast |
+| Товары (WooCommerce) | название (= H1), описание, краткое описание, мета-поля | title/description Yoast — проверить через `meta_data` |
+| Записи (новости, статьи) | текст, заголовок, title и description Yoast (`_yoast_wpseo_title`, `_yoast_wpseo_metadesc`) | noindex |
+| Страницы (Elementor) | только `_elementor_data` — правка рискованная, через черновик | title/description/noindex Yoast |
+
+Редиректы, шаблоны (H1, alt), разметка, robots.txt и настройки Yoast через API не меняются — это задачи разработчику.
 
 ### Известное ограничение: Вебмастер
 
