@@ -1,0 +1,8 @@
+# Конкуренты для сверки позиций, структуры и тем.
+# domain — без https:// и www; directions — ключи из config/project.yaml → directions.
+# Кандидатов можно найти командой `python -m seo serp` (блок «Чаще всего в ТОП-10»).
+competitors: []
+#  - domain: example.ru
+#    name: Название компании
+#    directions: [slm, scanners]
+#    notes: прямой конкурент по SLM, сильный блог

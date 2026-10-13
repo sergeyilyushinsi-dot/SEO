@@ -1,0 +1,73 @@
+# Паспорт проекта для SEO-агента. Агент читает этот файл перед любой задачей.
+site:
+  domain: am-tech.ru
+  url: https://am-tech.ru/
+  brand: AM.TECH (АМ-Тех)
+  cms: WordPress + WooCommerce + Elementor, SEO-плагин Yoast, кэш W3 Total Cache
+  business: >
+    Российский производитель и поставщик оборудования для аддитивного производства и 3D-контроля:
+    SLM/EBM/MBJ 3D-принтеры по металлу, SLA и керамические 3D-принтеры, 3D-сканеры, оптические трекеры,
+    геодезические лазерные сканеры, координатно-измерительные машины (КИМ). B2B, длинный цикл сделки,
+    цена «по запросу», конверсия — заявка/звонок/КП.
+  audience: >
+    Главные технологи, инженеры-конструкторы, отделы ОТК и метрологии, руководители производств
+    (машиностроение, авиастроение, ОПК, энергетика, медицина, вузы и НИИ), отделы закупок и импортозамещения.
+
+regions:
+  # ID регионов Яндекса: 225 — Россия, 213 — Москва, 2 — Санкт-Петербург, 54 — Екатеринбург
+  wordstat: [225]
+  serp: 213
+
+# Целевые зоны позиций, по которым агент строит отчёты и план.
+targets:
+  - ТОП-3   # приоритетные коммерческие кластеры с высоким спросом
+  - ТОП-10  # основная масса коммерческих и информационных кластеров
+  - ТОП-20  # новые направления и длинный хвост — промежуточная цель
+  - ТОП-30  # вход в зону видимости для новых страниц
+
+# Направления бизнеса: целевые страницы и стартовые (seed) запросы для Wordstat.
+directions:
+  slm:
+    name: SLM 3D-принтеры по металлу
+    url: https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/
+    seeds: [slm 3d принтер, 3d принтер по металлу, промышленный 3d принтер по металлу, селективное лазерное плавление, 3d печать металлом оборудование]
+  ebm:
+    name: EBM 3D-принтеры (электронно-лучевая плавка)
+    url: https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/ebm-3d-print/
+    seeds: [ebm 3d принтер, электронно-лучевая плавка, электронно-лучевой 3d принтер]
+  mbj:
+    name: MBJ 3D-принтеры (Binder Jetting по металлу)
+    url: https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/mbj-3d-print/
+    seeds: [binder jetting, mbj 3d принтер, струйная печать связующим металл]
+  ceramic:
+    name: Керамические 3D-принтеры
+    url: https://am-tech.ru/katalog/promyshlennye-3d-printery-po-sla-i-keramike/3d-print-keramika/
+    seeds: [керамический 3d принтер, 3d печать керамикой, 3d принтер для керамики]
+  sla:
+    name: Промышленные SLA 3D-принтеры
+    url: https://am-tech.ru/katalog/promyshlennye-3d-printery-po-sla-i-keramike/sla-3d-printery/
+    seeds: [sla 3d принтер, промышленный sla принтер, стереолитография 3d принтер, 3d принтер большой области печати]
+  scanners:
+    name: 3D-сканеры (ручные, лазерные, беспроводные, российские)
+    url: https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/
+    seeds: [3d сканер, промышленный 3d сканер, ручной 3d сканер, лазерный 3d сканер, российский 3d сканер, 3d сканер для реверс инжиниринга]
+  trackers:
+    name: Оптические и лазерные трекеры, бесконтактные КИМ
+    url: https://am-tech.ru/katalog/besprovodnoj-skaner/
+    seeds: [оптический трекер 3d сканер, лазерный трекер, оптическая кмм, 3d сканер с трекером]
+  geodesy:
+    name: Геодезические лазерные сканеры
+    url: https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/geodesicheskie-3d-scaneri/
+    seeds: [наземный лазерный сканер, геодезический 3d сканер, slam сканер, мобильный лазерный сканер]
+  cmm:
+    name: Координатно-измерительные машины (КИМ)
+    url: https://am-tech.ru/katalog/kim-3d/
+    seeds: [координатно измерительная машина, ким машина, портальная ким, купить ким]
+  solutions:
+    name: Комплексные решения и услуги
+    url: https://am-tech.ru/kompleksnye-reshenija-dlja-promyshlennosti/
+    seeds: [реверс инжиниринг, 3d контроль качества деталей, аддитивное производство под ключ, 3d сканирование услуги]
+  leasing:
+    name: Лизинг оборудования
+    url: https://am-tech.ru/leasing/
+    seeds: [3d принтер в лизинг, лизинг промышленного оборудования 3d]

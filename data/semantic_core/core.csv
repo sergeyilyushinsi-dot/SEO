@@ -1,0 +1,43 @@
+﻿direction,cluster,keyword,intent,target_url,freq_broad,freq_exact,position,priority,status,notes
+slm,,slm 3d принтер,,https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/,,,,,new,seed из project.yaml
+slm,,3d принтер по металлу,,https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/,,,,,new,seed из project.yaml
+slm,,промышленный 3d принтер по металлу,,https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/,,,,,new,seed из project.yaml
+slm,,селективное лазерное плавление,,https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/,,,,,new,seed из project.yaml
+slm,,3d печать металлом оборудование,,https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/,,,,,new,seed из project.yaml
+ebm,,ebm 3d принтер,,https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/ebm-3d-print/,,,,,new,seed из project.yaml
+ebm,,электронно-лучевая плавка,,https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/ebm-3d-print/,,,,,new,seed из project.yaml
+ebm,,электронно-лучевой 3d принтер,,https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/ebm-3d-print/,,,,,new,seed из project.yaml
+mbj,,binder jetting,,https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/mbj-3d-print/,,,,,new,seed из project.yaml
+mbj,,mbj 3d принтер,,https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/mbj-3d-print/,,,,,new,seed из project.yaml
+mbj,,струйная печать связующим металл,,https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/mbj-3d-print/,,,,,new,seed из project.yaml
+ceramic,,керамический 3d принтер,,https://am-tech.ru/katalog/promyshlennye-3d-printery-po-sla-i-keramike/3d-print-keramika/,,,,,new,seed из project.yaml
+ceramic,,3d печать керамикой,,https://am-tech.ru/katalog/promyshlennye-3d-printery-po-sla-i-keramike/3d-print-keramika/,,,,,new,seed из project.yaml
+ceramic,,3d принтер для керамики,,https://am-tech.ru/katalog/promyshlennye-3d-printery-po-sla-i-keramike/3d-print-keramika/,,,,,new,seed из project.yaml
+sla,,sla 3d принтер,,https://am-tech.ru/katalog/promyshlennye-3d-printery-po-sla-i-keramike/sla-3d-printery/,,,,,new,seed из project.yaml
+sla,,промышленный sla принтер,,https://am-tech.ru/katalog/promyshlennye-3d-printery-po-sla-i-keramike/sla-3d-printery/,,,,,new,seed из project.yaml
+sla,,стереолитография 3d принтер,,https://am-tech.ru/katalog/promyshlennye-3d-printery-po-sla-i-keramike/sla-3d-printery/,,,,,new,seed из project.yaml
+sla,,3d принтер большой области печати,,https://am-tech.ru/katalog/promyshlennye-3d-printery-po-sla-i-keramike/sla-3d-printery/,,,,,new,seed из project.yaml
+scanners,,3d сканер,,https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/,,,,,new,seed из project.yaml
+scanners,,промышленный 3d сканер,,https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/,,,,,new,seed из project.yaml
+scanners,,ручной 3d сканер,,https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/,,,,,new,seed из project.yaml
+scanners,,лазерный 3d сканер,,https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/,,,,,new,seed из project.yaml
+scanners,,российский 3d сканер,,https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/,,,,,new,seed из project.yaml
+scanners,,3d сканер для реверс инжиниринга,,https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/,,,,,new,seed из project.yaml
+trackers,,оптический трекер 3d сканер,,https://am-tech.ru/katalog/besprovodnoj-skaner/,,,,,new,seed из project.yaml
+trackers,,лазерный трекер,,https://am-tech.ru/katalog/besprovodnoj-skaner/,,,,,new,seed из project.yaml
+trackers,,оптическая кмм,,https://am-tech.ru/katalog/besprovodnoj-skaner/,,,,,new,seed из project.yaml
+trackers,,3d сканер с трекером,,https://am-tech.ru/katalog/besprovodnoj-skaner/,,,,,new,seed из project.yaml
+geodesy,,наземный лазерный сканер,,https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/geodesicheskie-3d-scaneri/,,,,,new,seed из project.yaml
+geodesy,,геодезический 3d сканер,,https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/geodesicheskie-3d-scaneri/,,,,,new,seed из project.yaml
+geodesy,,slam сканер,,https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/geodesicheskie-3d-scaneri/,,,,,new,seed из project.yaml
+geodesy,,мобильный лазерный сканер,,https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/geodesicheskie-3d-scaneri/,,,,,new,seed из project.yaml
+cmm,,координатно измерительная машина,,https://am-tech.ru/katalog/kim-3d/,,,,,new,seed из project.yaml
+cmm,,ким машина,,https://am-tech.ru/katalog/kim-3d/,,,,,new,seed из project.yaml
+cmm,,портальная ким,,https://am-tech.ru/katalog/kim-3d/,,,,,new,seed из project.yaml
+cmm,,купить ким,,https://am-tech.ru/katalog/kim-3d/,,,,,new,seed из project.yaml
+solutions,,реверс инжиниринг,,https://am-tech.ru/kompleksnye-reshenija-dlja-promyshlennosti/,,,,,new,seed из project.yaml
+solutions,,3d контроль качества деталей,,https://am-tech.ru/kompleksnye-reshenija-dlja-promyshlennosti/,,,,,new,seed из project.yaml
+solutions,,аддитивное производство под ключ,,https://am-tech.ru/kompleksnye-reshenija-dlja-promyshlennosti/,,,,,new,seed из project.yaml
+solutions,,3d сканирование услуги,,https://am-tech.ru/kompleksnye-reshenija-dlja-promyshlennosti/,,,,,new,seed из project.yaml
+leasing,,3d принтер в лизинг,,https://am-tech.ru/leasing/,,,,,new,seed из project.yaml
+leasing,,лизинг промышленного оборудования 3d,,https://am-tech.ru/leasing/,,,,,new,seed из project.yaml
