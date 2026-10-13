@@ -94,10 +94,10 @@ Yoast, без прав администратора):
 |---|---|---|
 | Товары, 71 шт. (`wc/v3/products`) | название (= H1), описание, краткое описание, атрибуты, title/description/noindex Yoast — в `meta_data` (`_yoast_wpseo_title`, `_yoast_wpseo_metadesc`, `_yoast_wpseo_meta-robots-noindex`) | — |
 | Категории товаров (`wc/v3/products/categories`) | название, SEO-текст категории (`description`) | title/description/noindex Yoast: Yoast хранит их в своих настройках, а не в полях категории |
-| Новости (`news`, 114), кейсы (`cases`, 7), страницы (13) | текст; у страниц только через `_elementor_data` (рискованно, через черновик) | title/description/noindex Yoast — откроет код ниже |
+| Новости (`news`, 114), кейсы (`cases`, 7), видеообзоры (`video_reviews`, 44), страницы (13) | текст (у страниц — через `_elementor_data`), title/description/noindex Yoast в `meta` — открыты кодом ниже с 13.10.2026 | — |
 | Записи `post` | title/description Yoast уже открыты | записей этого типа на сайте нет |
 
-Код для разработчика (тема или mu-plugin), открывает поля Yoast у страниц, новостей, кейсов и видеообзоров — задача 41 плана:
+Код, который открывает поля Yoast у страниц, новостей, кейсов и видеообзоров (задача 41 плана). Установлен 13.10.2026 сниппетом WPCode «Поля Yoast для REST API (SEO-агент)», тип PHP, «Запускать везде». Если поля снова пропали из API — проверить, что сниппет активен и «Тестовый режим» WPCode выключен:
 
 ```php
 add_action('init', function () {
