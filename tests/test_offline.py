@@ -161,3 +161,22 @@ def test_counter_pixel_is_not_an_image_without_alt():
     row = crawler.parse_page("https://am-tech.ru/", html)
     assert row["images"] == 2
     assert row["images_no_alt"] == 1
+
+
+def test_wp_merge_duplicate_post():
+    old = {"slug": "a", "content": {"raw": "<p>Старый текст</p>"}, "title": {"raw": "Старое"}, "featured_media": 1,
+           "meta": {"_yoast_wpseo_metadesc": ""}}
+    new_html = "<h2>Принципы</h2><p>Новый текст статьи про неявное моделирование для аддитивного производства и DfAM</p>"
+    body = wp.build_update(old, [{"field": "content", "whole": True, "value": new_html},
+                                 {"field": "featured_media", "value": "4270"},
+                                 {"field": "name", "value": "Новое"}], "news")
+    assert body == {"content": new_html, "featured_media": 4270, "title": "Новое"}
+    # без "whole" пустой фрагмент не заменяет весь текст
+    try:
+        wp.build_update(old, [{"field": "content", "value": new_html}], "news")
+        assert False, "должна быть ошибка"
+    except ValueError:
+        pass
+    page = {"html": "", "text": "Принципы Новый текст статьи про неявное моделирование для аддитивного производства и DfAM"}
+    assert wp.on_page(page, "content", new_html)
+    assert wp.on_page(page, "featured_media", 4270) is None

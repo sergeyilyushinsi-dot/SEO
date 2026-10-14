@@ -37,7 +37,8 @@ META = {"title": "_yoast_wpseo_title", "description": "_yoast_wpseo_metadesc",
 # пустой "value" удаляет фрагмент. В short_description без "old" заменяется весь текст внутри разметки,
 # в body (описание товара или категории) без "old" заменяется весь HTML.
 # У новостей, страниц и кейсов: content — HTML записи, elementor — данные конструктора Elementor (там ищется
-# и обычный, и экранированный вид адреса: "/a/" и "\/a\/").
+# и обычный, и экранированный вид адреса: "/a/" и "\/a\/"). content с "whole": true заменяет весь текст записи,
+# featured_media — id главного изображения.
 HTML_FIELDS = {"short_description": "short_description", "body": "description", "content": "content"}
 PLAIN_FIELDS = ("name", "status")
 # Рубрики товара: "value" — список id категорий WooCommerce, заменяет текущие.
@@ -186,7 +187,9 @@ def build_update(item: dict, changes: list[dict], kind: str = "product") -> dict
                 body[api_field] = replace_link(item, field, raw, ch["old"], value)
             continue
         if kind in POST_TYPES:
-            if field == "content":
+            if field == "content" and ch.get("whole"):  # весь текст записи (склейка дублей)
+                body["content"] = value
+            elif field == "content":
                 raw = body.get("content", item["content"]["raw"])
                 body["content"] = _replace_text(item, field, raw, ch.get("old", ""), value, escape=False)
             elif field == "elementor":
@@ -196,13 +199,15 @@ def build_update(item: dict, changes: list[dict], kind: str = "product") -> dict
                 body["title"] = value
             elif field == "status":
                 body["status"] = value
+            elif field == "featured_media":  # главное изображение записи, id медиафайла
+                body["featured_media"] = int(value)
             elif field in META:
                 if META[field] not in (item.get("meta") or {}):
                     raise ValueError(f"{item['slug']}: поле Yoast {META[field]} закрыто для API — нужна задача 41")
                 body.setdefault("meta", {})[META[field]] = value
             else:
                 raise ValueError(f"{kind}: поле {field} не поддерживается (content, elementor, name, status, "
-                                 "title, description, noindex)")
+                                 "featured_media, title, description, noindex)")
             continue
         if kind == "category":
             if field == "name":
@@ -266,6 +271,10 @@ def on_page(page: dict, field: str, value, old: str = "", link: bool = False) ->
         return None
     if link:  # новый адрес стоит в ссылке, старого нет
         return _href_on_page(value, page["html"]) and not _href_on_page(old, page["html"])
+    if field == "featured_media":
+        return None
+    if field == "content" and not old and value:  # весь текст записи: ищем на странице его начало
+        return " ".join(text(value).split()[:12]) in page["text"]
     if field == "status":  # снятая с публикации запись для посетителей — 404 или 301 на другую страницу
         if value == "publish":
             return page["http_status"] == 200 and not page.get("redirected")
