@@ -92,6 +92,9 @@ def test_wp_meta_fragment():
 def test_wp_status_on_page():
     assert wp.on_page({"http_status": 404}, "status", "draft")
     assert not wp.on_page({"http_status": 200}, "status", "draft")
+    # снятая с публикации страница с 301 на другую (плагин Redirection) — тоже убрана
+    assert wp.on_page({"http_status": 200, "redirected": True}, "status", "draft")
+    assert not wp.on_page({"http_status": 200, "redirected": True}, "status", "publish")
     assert wp.build_update(PRODUCT, [{"field": "status", "value": "draft"}]) == {"status": "draft"}
 
 

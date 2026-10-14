@@ -251,6 +251,7 @@ def fetch_page(url: str, fresh: bool = True) -> dict:
     resp = http.session().get(url, params=params, timeout=90)
     page = crawler.parse_page(url, resp.content)
     page["http_status"] = resp.status_code
+    page["redirected"] = bool(resp.history)
     page["html"] = resp.text
     return page
 
@@ -265,8 +266,10 @@ def on_page(page: dict, field: str, value, old: str = "", link: bool = False) ->
         return None
     if link:  # новый адрес стоит в ссылке, старого нет
         return _href_on_page(value, page["html"]) and not _href_on_page(old, page["html"])
-    if field == "status":  # снятая с публикации запись для посетителей — 404
-        return page["http_status"] == (200 if value == "publish" else 404)
+    if field == "status":  # снятая с публикации запись для посетителей — 404 или 301 на другую страницу
+        if value == "publish":
+            return page["http_status"] == 200 and not page.get("redirected")
+        return page["http_status"] == 404 or bool(page.get("redirected"))
     if old and not value:  # удаление фрагмента: его больше нет в HTML страницы
         return text(old) not in text(page["html"])
     if field in ("content", "elementor") or (field == "body" and old):
