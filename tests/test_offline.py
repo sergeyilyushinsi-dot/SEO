@@ -180,3 +180,16 @@ def test_wp_merge_duplicate_post():
     page = {"html": "", "text": "Принципы Новый текст статьи про неявное моделирование для аддитивного производства и DfAM"}
     assert wp.on_page(page, "content", new_html)
     assert wp.on_page(page, "featured_media", 4270) is None
+
+
+def test_wp_category_yoast_fields():
+    cat = {"slug": "slm-3d-printeri", "description": "", "yoast_seo": {"title": "", "desc": "Старое"}}
+    body = wp.build_update(cat, [{"field": "title", "value": "SLM 3D-принтеры — купить | AM-Tech"},
+                                 {"field": "description", "value": "Новое описание"}], "category")
+    assert body == {"yoast_seo": {"title": "SLM 3D-принтеры — купить | AM-Tech", "desc": "Новое описание"}}
+    assert wp.get_value(cat, "description", "category") == "Старое"
+    try:  # без сниппета поля в ответе API нет
+        wp.build_update({"slug": "x", "description": ""}, [{"field": "title", "value": "T"}], "category")
+        assert False, "должна быть ошибка"
+    except ValueError as exc:
+        assert "сниппет" in str(exc)

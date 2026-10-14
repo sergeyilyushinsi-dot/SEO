@@ -93,7 +93,7 @@ Yoast, без прав администратора):
 | Объект | Через API | Нет в API |
 |---|---|---|
 | Товары, 71 шт. (`wc/v3/products`) | название (= H1), описание, краткое описание, атрибуты, title/description/noindex Yoast — в `meta_data` (`_yoast_wpseo_title`, `_yoast_wpseo_metadesc`, `_yoast_wpseo_meta-robots-noindex`) | — |
-| Категории товаров (`wc/v3/products/categories`) | название, SEO-текст категории (`description`) | title/description/noindex Yoast: Yoast хранит их в своих настройках, а не в полях категории |
+| Категории товаров (`wp/v2/product_cat`) | название, SEO-текст категории (`description`), title/description Yoast — в поле `yoast_seo` после сниппета ниже (задача 49) | noindex Yoast категорий |
 | Новости (`news`, 114), кейсы (`cases`, 7), видеообзоры (`video_reviews`, 44), страницы (13) | текст (у страниц — через `_elementor_data`), title/description/noindex Yoast в `meta` — открыты кодом ниже с 13.10.2026 | — |
 | Записи `post` | title/description Yoast уже открыты | записей этого типа на сайте нет |
 
@@ -117,7 +117,43 @@ add_action('init', function () {
 });
 ```
 
-Правки вносит `python -m seo wp-apply data/wp_changes/<пакет>.json` (сначала `--dry-run`). Формат правки и поля — в начале `seo/wp.py`: товары (`title`, `description`, `noindex`, `name`, `status`, `categories`, `short_description`, `body`, `meta:<ключ>`), категории (`name`, `body`), новости, страницы, кейсы и видеообзоры (`content`, `elementor`, `name`, `status`; Yoast-поля — после задачи 41). Замена ссылки — `"link": true` с `old`: адрес меняется только там, где он стоит целиком. Перед записью полная копия товара сохраняется в `data/wp_backup/<время>/`, после — проверяется страница (в обход кэша и как её видят посетители).
+Код, который открывает title и description Yoast у категорий товаров (задача 49). Yoast хранит их не в полях категории,
+а в своей настройке `wpseo_taxonomy_meta`, поэтому нужен отдельный сниппет WPCode «Поля Yoast категорий для REST API
+(SEO-агент)», тип PHP, «Запускать везде». После записи он пересохраняет категорию, чтобы Yoast обновил данные страницы:
+
+```php
+add_action('rest_api_init', function () {
+    register_rest_field('product_cat', 'yoast_seo', [
+        'get_callback' => function ($term) {
+            if (!class_exists('WPSEO_Taxonomy_Meta')) {
+                return null;
+            }
+            return [
+                'title' => (string) WPSEO_Taxonomy_Meta::get_term_meta($term['id'], 'product_cat', 'title'),
+                'desc'  => (string) WPSEO_Taxonomy_Meta::get_term_meta($term['id'], 'product_cat', 'desc'),
+            ];
+        },
+        'update_callback' => function ($value, $term) {
+            if (!class_exists('WPSEO_Taxonomy_Meta') || !current_user_can('manage_product_terms')) {
+                return new WP_Error('rest_forbidden', 'Нет прав на правку категорий', ['status' => 403]);
+            }
+            $meta = [];
+            if (isset($value['title'])) {
+                $meta['wpseo_title'] = sanitize_text_field($value['title']);
+            }
+            if (isset($value['desc'])) {
+                $meta['wpseo_desc'] = sanitize_text_field($value['desc']);
+            }
+            WPSEO_Taxonomy_Meta::set_values($term->term_id, 'product_cat', $meta);
+            wp_update_term($term->term_id, 'product_cat'); // Yoast пересобирает данные страницы категории
+            return true;
+        },
+        'schema' => ['type' => 'object', 'context' => ['view', 'edit']],
+    ]);
+});
+```
+
+Правки вносит `python -m seo wp-apply data/wp_changes/<пакет>.json` (сначала `--dry-run`). Формат правки и поля — в начале `seo/wp.py`: товары (`title`, `description`, `noindex`, `name`, `status`, `categories`, `short_description`, `body`, `meta:<ключ>`), категории (`name`, `body`, `title`, `description` — после сниппета задачи 49), новости, страницы, кейсы и видеообзоры (`content`, `elementor`, `name`, `status`; Yoast-поля — после задачи 41). Замена ссылки — `"link": true` с `old`: адрес меняется только там, где он стоит целиком. Перед записью полная копия товара сохраняется в `data/wp_backup/<время>/`, после — проверяется страница (в обход кэша и как её видят посетители).
 
 После правки мета-полей проверяй страницу на сайте: Yoast может отдавать старый title из своего кэша (indexables), пока
 запись не пересохранена.

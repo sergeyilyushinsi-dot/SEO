@@ -44,6 +44,9 @@ PLAIN_FIELDS = ("name", "status")
 # Рубрики товара: "value" — список id категорий WooCommerce, заменяет текущие.
 LIST_FIELDS = ("categories",)
 FIELDS = (*META, *HTML_FIELDS, "elementor", *PLAIN_FIELDS, *LIST_FIELDS)
+# Title и description категорий: Yoast хранит их вне категории, в API их открывает сниппет WPCode
+# «Поля Yoast категорий для REST API» — поле yoast_seo {"title", "desc"}.
+CATEGORY_YOAST = {"title": "title", "description": "desc"}
 # Любое другое мета-поле товара — «meta:<ключ>», например meta:_custom_advantages (блок «Преимущества»).
 # В нём меняется фрагмент, как в HTML-полях.
 META_PREFIX = "meta:"
@@ -120,6 +123,8 @@ def get_value(item: dict, field: str, kind: str = "product"):
         return item.get(field) or ""
     if kind == "category" and field == "body":
         return item.get("description") or ""
+    if kind == "category" and field in CATEGORY_YOAST:
+        return (item.get("yoast_seo") or {}).get(CATEGORY_YOAST[field], "")
     key = meta_key(field)
     if key:
         return next((str(m["value"]) for m in item.get("meta_data", []) if m["key"] == key), "")
@@ -210,14 +215,19 @@ def build_update(item: dict, changes: list[dict], kind: str = "product") -> dict
                                  "featured_media, title, description, noindex)")
             continue
         if kind == "category":
-            if field == "name":
+            if field in CATEGORY_YOAST:
+                if item.get("yoast_seo") is None:
+                    raise ValueError(f"{item['slug']}: поля Yoast категорий закрыты для API — нужен сниппет "
+                                     "«Поля Yoast категорий для REST API» (задача 49)")
+                body.setdefault("yoast_seo", {})[CATEGORY_YOAST[field]] = value
+            elif field == "name":
                 body["name"] = value
             elif field == "body":
                 raw = body.get("description", item.get("description") or "")
                 body["description"] = (_replace_text(item, field, raw, ch["old"], value, escape=False)
                                        if ch.get("old") else value)
             else:
-                raise ValueError(f"category: поле {field} не поддерживается (name, body)")
+                raise ValueError(f"category: поле {field} не поддерживается (name, body, title, description)")
             continue
         if field in META:
             found = next((m for m in item.get("meta_data", []) if m["key"] == META[field]), None)
