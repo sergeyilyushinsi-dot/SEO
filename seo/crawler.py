@@ -129,7 +129,8 @@ def parse_page(url: str, html: bytes | str) -> dict:
             continue
         (internal if host_of(absolute) == site else external).add(absolute)
 
-    images = soup.find_all("img")
+    # Пиксели счётчиков в <noscript> (Метрика и т. п.) — не контентные изображения, alt им не нужен.
+    images = [i for i in soup.find_all("img") if not i.find_parent("noscript")]
     row = {
         "title": soup.title.get_text(" ", strip=True) if soup.title else "",
         "description": meta("name", "description"),

@@ -1,5 +1,5 @@
 """Офлайн-тесты разбора данных (без обращений к API)."""
-from seo import cluster, gap, positions, wp
+from seo import cluster, crawler, gap, positions, wp
 from seo.serp import parse_xml, position_of
 from seo.wordstat import exact
 
@@ -150,3 +150,11 @@ def test_wp_yoast_on_posts_needs_task_41():
         raise AssertionError("без открытых полей Yoast правка должна отклоняться")
     page["meta"]["_yoast_wpseo_meta-robots-noindex"] = "1"
     assert wp.build_update(page, [{"field": "noindex", "value": "2"}], "page") == {"meta": {"_yoast_wpseo_meta-robots-noindex": "2"}}
+
+
+def test_counter_pixel_is_not_an_image_without_alt():
+    html = ('<html><body><img src="/a.jpg" alt="Принтер"><img src="/b.jpg">'
+            '<noscript><div><img src="https://mc.yandex.ru/watch/1" style="position:absolute"></div></noscript></body></html>')
+    row = crawler.parse_page("https://am-tech.ru/", html)
+    assert row["images"] == 2
+    assert row["images_no_alt"] == 1
