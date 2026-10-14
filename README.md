@@ -153,6 +153,31 @@ add_action('rest_api_init', function () {
 });
 ```
 
+Title и description архива новостей `/news/` задаются в Yoast (Настройки → Типы контента → Блог → архив), но тема
+перекрывает их своим фильтром («Новости и события AM-Tech»). Сниппет WPCode «Архив новостей: title из Yoast
+(SEO-агент)» возвращает значения из Yoast (если в них нет переменных `%%…%%`):
+
+```php
+add_filter('wpseo_title', function ($title) {
+    if (is_post_type_archive('news') && class_exists('WPSEO_Options')) {
+        $value = (string) WPSEO_Options::get('title-ptarchive-news');
+        if ($value !== '' && strpos($value, '%%') === false) {
+            return $value;
+        }
+    }
+    return $title;
+}, 999);
+add_filter('wpseo_metadesc', function ($desc) {
+    if (is_post_type_archive('news') && class_exists('WPSEO_Options')) {
+        $value = (string) WPSEO_Options::get('metadesc-ptarchive-news');
+        if ($value !== '' && strpos($value, '%%') === false) {
+            return $value;
+        }
+    }
+    return $desc;
+}, 999);
+```
+
 Правки вносит `python -m seo wp-apply data/wp_changes/<пакет>.json` (сначала `--dry-run`). Формат правки и поля — в начале `seo/wp.py`: товары (`title`, `description`, `noindex`, `name`, `status`, `categories`, `short_description`, `body`, `meta:<ключ>`), категории (`name`, `body`, `title`, `description` — после сниппета задачи 49), новости, страницы, кейсы и видеообзоры (`content`, `elementor`, `name`, `status`; Yoast-поля — после задачи 41). Замена ссылки — `"link": true` с `old`: адрес меняется только там, где он стоит целиком. Перед записью полная копия товара сохраняется в `data/wp_backup/<время>/`, после — проверяется страница (в обход кэша и как её видят посетители).
 
 После правки мета-полей проверяй страницу на сайте: Yoast может отдавать старый title из своего кэша (indexables), пока
