@@ -1,0 +1,282 @@
+{
+ "id": 4182,
+ "date": "2026-07-27T12:37:01",
+ "date_gmt": "2026-07-27T09:37:01",
+ "guid": {
+  "rendered": "https://am-tech.ru/?post_type=video_reviews&#038;p=4182",
+  "raw": "https://am-tech.ru/?post_type=video_reviews&#038;p=4182"
+ },
+ "modified": "2026-10-13T17:27:26",
+ "modified_gmt": "2026-10-13T14:27:26",
+ "password": "",
+ "slug": "rossijskoe-po-dlja-3d-pechati-metallom-vozmozhnosti-printmate-dlja-ustanovok-amt",
+ "status": "publish",
+ "type": "video_reviews",
+ "link": "https://am-tech.ru/video-reviews/rossijskoe-po-dlja-3d-pechati-metallom-vozmozhnosti-printmate-dlja-ustanovok-amt/",
+ "title": {
+  "raw": "Российское ПО для 3D-печати металлом: возможности PrintMate для установок AMT",
+  "rendered": "Российское ПО для 3D-печати металлом: возможности PrintMate для установок AMT"
+ },
+ "content": {
+  "raw": "<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n\r\nPrintMate — программное обеспечение собственной разработки AM.TECH для подготовки и управления процессом SLM-печати на промышленных аддитивных установках линейки AMT.\r\n\r\nВ видео демонстрируем основные возможности программного комплекса: подготовку проекта печати, размещение изделий на платформе, назначение технологических параметров, выбор стратегий сканирования и формирование задания для оборудования.\r\n\r\nСобственное отечественное ПО позволяет AM.TECH контролировать развитие программной платформы, адаптировать её под особенности российских промышленных предприятий и обеспечивать независимость от зарубежных программных решений.\r\n\r\nPrintMate применяется совместно с российскими SLM-установками AMT и объединяет технологическую подготовку задания с управлением процессом изготовления металлических изделий.\r\n\r\nВ видео рассмотрим:\r\n<p class=\"\">— интерфейс программного обеспечения;\r\n— подготовку изделий к SLM-печати;\r\n— размещение деталей на платформе построения;\r\n— назначение параметров для контуров, заполнения и поддержек;\r\n— выбор стратегий сканирования;\r\n— формирование и передачу задания на SLM-установку;\r\n— преимущества отечественной программной платформы.</p>\r\nПромышленные SLM-принтеры AMT и программное обеспечение PrintMate разрабатываются компанией AM.TECH / НПО «3Д-Интеграция».\r\n<p class=\"\">Подробнее об оборудовании и технологиях аддитивного производства:\r\nam-tech.ru</p>\r\nТелефон: +7 (495) 109-11-91\r\nЭлектронная почта: office@am-tech.ru\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+  "rendered": "<div class=\"boldgrid-section\">\n<div class=\"container\">\n<div class=\"row\">\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\n<p>PrintMate — программное обеспечение собственной разработки AM.TECH для подготовки и управления процессом SLM-печати на промышленных аддитивных установках линейки AMT.</p>\n<p>В видео демонстрируем основные возможности программного комплекса: подготовку проекта печати, размещение изделий на платформе, назначение технологических параметров, выбор стратегий сканирования и формирование задания для оборудования.</p>\n<p>Собственное отечественное ПО позволяет AM.TECH контролировать развитие программной платформы, адаптировать её под особенности российских промышленных предприятий и обеспечивать независимость от зарубежных программных решений.</p>\n<p>PrintMate применяется совместно с российскими SLM-установками AMT и объединяет технологическую подготовку задания с управлением процессом изготовления металлических изделий.</p>\n<p>В видео рассмотрим:</p>\n<p class=\"\">— интерфейс программного обеспечения;<br />\n— подготовку изделий к SLM-печати;<br />\n— размещение деталей на платформе построения;<br />\n— назначение параметров для контуров, заполнения и поддержек;<br />\n— выбор стратегий сканирования;<br />\n— формирование и передачу задания на SLM-установку;<br />\n— преимущества отечественной программной платформы.</p>\n<p>Промышленные SLM-принтеры AMT и программное обеспечение PrintMate разрабатываются компанией AM.TECH / НПО «3Д-Интеграция».</p>\n<p class=\"\">Подробнее об оборудовании и технологиях аддитивного производства:<br />\nam-tech.ru</p>\n<p>Телефон: +7 (495) 109-11-91<br />\nЭлектронная почта: office@am-tech.ru</p>\n</div>\n</div>\n</div>\n</div>\n",
+  "protected": false,
+  "block_version": 0
+ },
+ "excerpt": {
+  "raw": "",
+  "rendered": "<p>PrintMate — программное обеспечение собственной разработки AM.TECH для подготовки и управления процессом SLM-печати на промышленных аддитивных установках линейки AMT. В видео демонстрируем основные возможности программного комплекса: подготовку проекта печати, размещение изделий на платформе, назначение технологических параметров, выбор стратегий сканирования и формирование задания для оборудования. Собственное отечественное ПО позволяет AM.TECH контролировать развитие программной платформы, адаптировать её [&hellip;]</p>\n",
+  "protected": false
+ },
+ "author": 5,
+ "featured_media": 4183,
+ "comment_status": "open",
+ "ping_status": "closed",
+ "template": "",
+ "meta": {
+  "_acf_changed": false,
+  "_yoast_wpseo_title": "",
+  "_yoast_wpseo_metadesc": "PrintMate — российское ПО собственной разработки AM.TECH для подготовки и управления SLM-печатью на установках AMT. Возможности программы в видеообзоре.",
+  "_yoast_wpseo_meta-robots-noindex": ""
+ },
+ "video_category": [
+  1008
+ ],
+ "video_tag": [
+  1292,
+  1295
+ ],
+ "permalink_template": "https://am-tech.ru/video-reviews/%pagename%/",
+ "generated_slug": "rossijskoe-po-dlja-3d-pechati-metallom-vozmozhnosti-printmate-dlja-ustanovok-amt",
+ "class_list": [
+  "post-4182",
+  "video_reviews",
+  "type-video_reviews",
+  "status-publish",
+  "has-post-thumbnail",
+  "hentry",
+  "video_category-3d-printery-ru",
+  "video_tag-amt-3d-printery",
+  "video_tag-slm"
+ ],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Российское ПО для 3D-печати металлом: возможности PrintMate для установок AMT - am-tech.ru</title>\n<meta name=\"description\" content=\"PrintMate — российское ПО собственной разработки AM.TECH для подготовки и управления SLM-печатью на установках AMT. Возможности программы в видеообзоре.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/video-reviews/rossijskoe-po-dlja-3d-pechati-metallom-vozmozhnosti-printmate-dlja-ustanovok-amt/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Российское ПО для 3D-печати металлом: возможности PrintMate для установок AMT - am-tech.ru\" />\n<meta property=\"og:description\" content=\"PrintMate — российское ПО собственной разработки AM.TECH для подготовки и управления SLM-печатью на установках AMT. Возможности программы в видеообзоре.\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/video-reviews/rossijskoe-po-dlja-3d-pechati-metallom-vozmozhnosti-printmate-dlja-ustanovok-amt/\" />\n<meta property=\"og:site_name\" content=\"am-tech.ru\" />\n<meta property=\"article:modified_time\" content=\"2026-10-13T14:27:26+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2026/07/snimok.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1021\" />\n\t<meta property=\"og:image:height\" content=\"760\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"1 минута\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/video-reviews/rossijskoe-po-dlja-3d-pechati-metallom-vozmozhnosti-printmate-dlja-ustanovok-amt/\",\"url\":\"https://am-tech.ru/video-reviews/rossijskoe-po-dlja-3d-pechati-metallom-vozmozhnosti-printmate-dlja-ustanovok-amt/\",\"name\":\"Российское ПО для 3D-печати металлом: возможности PrintMate для установок AMT - am-tech.ru\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/video-reviews/rossijskoe-po-dlja-3d-pechati-metallom-vozmozhnosti-printmate-dlja-ustanovok-amt/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/video-reviews/rossijskoe-po-dlja-3d-pechati-metallom-vozmozhnosti-printmate-dlja-ustanovok-amt/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2026/07/snimok.jpg\",\"datePublished\":\"2026-07-27T09:37:01+00:00\",\"dateModified\":\"2026-10-13T14:27:26+00:00\",\"description\":\"PrintMate — российское ПО собственной разработки AM.TECH для подготовки и управления SLM-печатью на установках AMT. Возможности программы в видеообзоре.\",\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/video-reviews/rossijskoe-po-dlja-3d-pechati-metallom-vozmozhnosti-printmate-dlja-ustanovok-amt/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/video-reviews/rossijskoe-po-dlja-3d-pechati-metallom-vozmozhnosti-printmate-dlja-ustanovok-amt/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2026/07/snimok.jpg\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2026/07/snimok.jpg\",\"width\":1021,\"height\":760},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"am-tech.ru\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"am-tech.ru\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"am-tech.ru\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "Российское ПО для 3D-печати металлом: возможности PrintMate для установок AMT - am-tech.ru",
+  "description": "PrintMate — российское ПО собственной разработки AM.TECH для подготовки и управления SLM-печатью на установках AMT. Возможности программы в видеообзоре.",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/video-reviews/rossijskoe-po-dlja-3d-pechati-metallom-vozmozhnosti-printmate-dlja-ustanovok-amt/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "Российское ПО для 3D-печати металлом: возможности PrintMate для установок AMT - am-tech.ru",
+  "og_description": "PrintMate — российское ПО собственной разработки AM.TECH для подготовки и управления SLM-печатью на установках AMT. Возможности программы в видеообзоре.",
+  "og_url": "https://am-tech.ru/video-reviews/rossijskoe-po-dlja-3d-pechati-metallom-vozmozhnosti-printmate-dlja-ustanovok-amt/",
+  "og_site_name": "am-tech.ru",
+  "article_modified_time": "2026-10-13T14:27:26+00:00",
+  "og_image": [
+   {
+    "width": 1021,
+    "height": 760,
+    "url": "https://am-tech.ru/wp-content/uploads/2026/07/snimok.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "1 минута"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/video-reviews/rossijskoe-po-dlja-3d-pechati-metallom-vozmozhnosti-printmate-dlja-ustanovok-amt/",
+     "url": "https://am-tech.ru/video-reviews/rossijskoe-po-dlja-3d-pechati-metallom-vozmozhnosti-printmate-dlja-ustanovok-amt/",
+     "name": "Российское ПО для 3D-печати металлом: возможности PrintMate для установок AMT - am-tech.ru",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/video-reviews/rossijskoe-po-dlja-3d-pechati-metallom-vozmozhnosti-printmate-dlja-ustanovok-amt/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/video-reviews/rossijskoe-po-dlja-3d-pechati-metallom-vozmozhnosti-printmate-dlja-ustanovok-amt/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2026/07/snimok.jpg",
+     "datePublished": "2026-07-27T09:37:01+00:00",
+     "dateModified": "2026-10-13T14:27:26+00:00",
+     "description": "PrintMate — российское ПО собственной разработки AM.TECH для подготовки и управления SLM-печатью на установках AMT. Возможности программы в видеообзоре.",
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/video-reviews/rossijskoe-po-dlja-3d-pechati-metallom-vozmozhnosti-printmate-dlja-ustanovok-amt/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/video-reviews/rossijskoe-po-dlja-3d-pechati-metallom-vozmozhnosti-printmate-dlja-ustanovok-amt/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2026/07/snimok.jpg",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2026/07/snimok.jpg",
+     "width": 1021,
+     "height": 760
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "am-tech.ru",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "am-tech.ru",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "am-tech.ru"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/4182",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/types/video_reviews"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/users/5"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/comments?post=4182"
+   }
+  ],
+  "wp:featuredmedia": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/media/4183"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/media?parent=4182"
+   }
+  ],
+  "wp:term": [
+   {
+    "taxonomy": "video_category",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_category?post=4182"
+   },
+   {
+    "taxonomy": "video_tag",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_tag?post=4182"
+   }
+  ],
+  "wp:action-publish": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/4182"
+   }
+  ],
+  "wp:action-unfiltered-html": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/4182"
+   }
+  ],
+  "wp:action-assign-author": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/4182"
+   }
+  ],
+  "wp:action-create-video_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/4182"
+   }
+  ],
+  "wp:action-assign-video_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/4182"
+   }
+  ],
+  "wp:action-create-video_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/4182"
+   }
+  ],
+  "wp:action-assign-video_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/4182"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

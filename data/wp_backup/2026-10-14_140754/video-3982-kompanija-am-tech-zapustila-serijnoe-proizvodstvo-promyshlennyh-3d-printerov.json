@@ -1,0 +1,284 @@
+{
+ "id": 3982,
+ "date": "2026-05-05T11:30:02",
+ "date_gmt": "2026-05-05T08:30:02",
+ "guid": {
+  "rendered": "https://am-tech.ru/?post_type=video_reviews&#038;p=3982",
+  "raw": "https://am-tech.ru/?post_type=video_reviews&#038;p=3982"
+ },
+ "modified": "2026-06-30T15:32:47",
+ "modified_gmt": "2026-06-30T12:32:47",
+ "password": "",
+ "slug": "kompanija-am-tech-zapustila-serijnoe-proizvodstvo-promyshlennyh-3d-printerov",
+ "status": "publish",
+ "type": "video_reviews",
+ "link": "https://am-tech.ru/video-reviews/kompanija-am-tech-zapustila-serijnoe-proizvodstvo-promyshlennyh-3d-printerov/",
+ "title": {
+  "raw": "Компания AM․TECH запустила серийное производство промышленных 3D-принтеров",
+  "rendered": "Компания AM․TECH запустила серийное производство промышленных 3D-принтеров"
+ },
+ "content": {
+  "raw": "<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n<p class=\"\">Компания AM․TECH запустила серийное производство промышленных 3D-принтеров для печати металлом по технологии SLM (селективное лазерное сплавление). Это важный шаг для индустрии аддитивного производства: теперь предприятия смогут получать высокоточные металлические детали сложной геометрии быстрее и с меньшими потерями материала. Решения ориентированы на ключевые отрасли — от авиастроения до медицины.</p>\r\n<p class=\"\">🔧 Что это даёт рынку:\r\n• стабильное качество печати и повторяемость результатов\r\n• работа с широким спектром металлических порошков\r\n• сокращение сроков разработки и производства\r\n• снижение издержек и отходов</p>\r\n📈 Запуск серийного производства означает переход от единичных проектов к масштабируемым поставкам. Это делает технологию более доступной для бизнеса и открывает новые возможности для локализации и импортозамещения.\r\n\r\n💡 Как это было?\r\nНаш завод посетил руководитель Департамента инвестиционной и промышленной политики города Москвы Анатолий Гарбузов. Представляем вашему вниманию отчётный видеоролик об открытии серийного производства.\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+  "rendered": "<div class=\"boldgrid-section\">\n<div class=\"container\">\n<div class=\"row\">\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\n<p class=\"\">Компания AM․TECH запустила серийное производство промышленных 3D-принтеров для печати металлом по технологии SLM (селективное лазерное сплавление). Это важный шаг для индустрии аддитивного производства: теперь предприятия смогут получать высокоточные металлические детали сложной геометрии быстрее и с меньшими потерями материала. Решения ориентированы на ключевые отрасли — от авиастроения до медицины.</p>\n<p class=\"\">🔧 Что это даёт рынку:<br />\n• стабильное качество печати и повторяемость результатов<br />\n• работа с широким спектром металлических порошков<br />\n• сокращение сроков разработки и производства<br />\n• снижение издержек и отходов</p>\n<p>📈 Запуск серийного производства означает переход от единичных проектов к масштабируемым поставкам. Это делает технологию более доступной для бизнеса и открывает новые возможности для локализации и импортозамещения.</p>\n<p>💡 Как это было?<br />\nНаш завод посетил руководитель Департамента инвестиционной и промышленной политики города Москвы Анатолий Гарбузов. Представляем вашему вниманию отчётный видеоролик об открытии серийного производства.</p>\n</div>\n</div>\n</div>\n</div>\n",
+  "protected": false,
+  "block_version": 0
+ },
+ "excerpt": {
+  "raw": "",
+  "rendered": "<p>Компания AM․TECH запустила серийное производство промышленных 3D-принтеров для печати металлом по технологии SLM (селективное лазерное сплавление). Это важный шаг для индустрии аддитивного производства: теперь предприятия смогут получать высокоточные металлические детали сложной геометрии быстрее и с меньшими потерями материала. Решения ориентированы на ключевые отрасли — от авиастроения до медицины. 🔧 Что это даёт рынку: • стабильное [&hellip;]</p>\n",
+  "protected": false
+ },
+ "author": 5,
+ "featured_media": 3985,
+ "comment_status": "open",
+ "ping_status": "closed",
+ "template": "",
+ "meta": {
+  "_acf_changed": false,
+  "_yoast_wpseo_title": "",
+  "_yoast_wpseo_metadesc": "Видео: запуск серийного производства промышленных 3D-принтеров AM.TECH. Экскурсия по производству.",
+  "_yoast_wpseo_meta-robots-noindex": ""
+ },
+ "video_category": [
+  1008,
+  1210,
+  1105
+ ],
+ "video_tag": [
+  1295
+ ],
+ "permalink_template": "https://am-tech.ru/video-reviews/%pagename%/",
+ "generated_slug": "kompanija-am-tech-zapustila-serijnoe-proizvodstvo-promyshlennyh-3d-printerov",
+ "class_list": [
+  "post-3982",
+  "video_reviews",
+  "type-video_reviews",
+  "status-publish",
+  "has-post-thumbnail",
+  "hentry",
+  "video_category-3d-printery-ru",
+  "video_category-novosti-ru",
+  "video_category-meroprijatija",
+  "video_tag-slm"
+ ],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Компания AM․TECH запустила серийное производство промышленных 3D-принтеров - am-tech.ru</title>\n<meta name=\"description\" content=\"Видео: запуск серийного производства промышленных 3D-принтеров AM.TECH. Экскурсия по производству.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/video-reviews/kompanija-am-tech-zapustila-serijnoe-proizvodstvo-promyshlennyh-3d-printerov/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Компания AM․TECH запустила серийное производство промышленных 3D-принтеров - am-tech.ru\" />\n<meta property=\"og:description\" content=\"Видео: запуск серийного производства промышленных 3D-принтеров AM.TECH. Экскурсия по производству.\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/video-reviews/kompanija-am-tech-zapustila-serijnoe-proizvodstvo-promyshlennyh-3d-printerov/\" />\n<meta property=\"og:site_name\" content=\"am-tech.ru\" />\n<meta property=\"article:modified_time\" content=\"2026-06-30T12:32:47+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2026/05/master.00_03_03_36.still001_small.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1090\" />\n\t<meta property=\"og:image:height\" content=\"611\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"1 минута\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/video-reviews/kompanija-am-tech-zapustila-serijnoe-proizvodstvo-promyshlennyh-3d-printerov/\",\"url\":\"https://am-tech.ru/video-reviews/kompanija-am-tech-zapustila-serijnoe-proizvodstvo-promyshlennyh-3d-printerov/\",\"name\":\"Компания AM․TECH запустила серийное производство промышленных 3D-принтеров - am-tech.ru\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/video-reviews/kompanija-am-tech-zapustila-serijnoe-proizvodstvo-promyshlennyh-3d-printerov/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/video-reviews/kompanija-am-tech-zapustila-serijnoe-proizvodstvo-promyshlennyh-3d-printerov/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2026/05/master.00_03_03_36.still001_small.jpg\",\"datePublished\":\"2026-05-05T08:30:02+00:00\",\"dateModified\":\"2026-06-30T12:32:47+00:00\",\"description\":\"Видео: запуск серийного производства промышленных 3D-принтеров AM.TECH. Экскурсия по производству.\",\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/video-reviews/kompanija-am-tech-zapustila-serijnoe-proizvodstvo-promyshlennyh-3d-printerov/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/video-reviews/kompanija-am-tech-zapustila-serijnoe-proizvodstvo-promyshlennyh-3d-printerov/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2026/05/master.00_03_03_36.still001_small.jpg\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2026/05/master.00_03_03_36.still001_small.jpg\",\"width\":1090,\"height\":611},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"am-tech.ru\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"am-tech.ru\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"am-tech.ru\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "Компания AM․TECH запустила серийное производство промышленных 3D-принтеров - am-tech.ru",
+  "description": "Видео: запуск серийного производства промышленных 3D-принтеров AM.TECH. Экскурсия по производству.",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/video-reviews/kompanija-am-tech-zapustila-serijnoe-proizvodstvo-promyshlennyh-3d-printerov/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "Компания AM․TECH запустила серийное производство промышленных 3D-принтеров - am-tech.ru",
+  "og_description": "Видео: запуск серийного производства промышленных 3D-принтеров AM.TECH. Экскурсия по производству.",
+  "og_url": "https://am-tech.ru/video-reviews/kompanija-am-tech-zapustila-serijnoe-proizvodstvo-promyshlennyh-3d-printerov/",
+  "og_site_name": "am-tech.ru",
+  "article_modified_time": "2026-06-30T12:32:47+00:00",
+  "og_image": [
+   {
+    "width": 1090,
+    "height": 611,
+    "url": "https://am-tech.ru/wp-content/uploads/2026/05/master.00_03_03_36.still001_small.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "1 минута"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/video-reviews/kompanija-am-tech-zapustila-serijnoe-proizvodstvo-promyshlennyh-3d-printerov/",
+     "url": "https://am-tech.ru/video-reviews/kompanija-am-tech-zapustila-serijnoe-proizvodstvo-promyshlennyh-3d-printerov/",
+     "name": "Компания AM․TECH запустила серийное производство промышленных 3D-принтеров - am-tech.ru",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/video-reviews/kompanija-am-tech-zapustila-serijnoe-proizvodstvo-promyshlennyh-3d-printerov/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/video-reviews/kompanija-am-tech-zapustila-serijnoe-proizvodstvo-promyshlennyh-3d-printerov/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2026/05/master.00_03_03_36.still001_small.jpg",
+     "datePublished": "2026-05-05T08:30:02+00:00",
+     "dateModified": "2026-06-30T12:32:47+00:00",
+     "description": "Видео: запуск серийного производства промышленных 3D-принтеров AM.TECH. Экскурсия по производству.",
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/video-reviews/kompanija-am-tech-zapustila-serijnoe-proizvodstvo-promyshlennyh-3d-printerov/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/video-reviews/kompanija-am-tech-zapustila-serijnoe-proizvodstvo-promyshlennyh-3d-printerov/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2026/05/master.00_03_03_36.still001_small.jpg",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2026/05/master.00_03_03_36.still001_small.jpg",
+     "width": 1090,
+     "height": 611
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "am-tech.ru",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "am-tech.ru",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "am-tech.ru"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3982",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/types/video_reviews"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/users/5"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/comments?post=3982"
+   }
+  ],
+  "wp:featuredmedia": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/media/3985"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/media?parent=3982"
+   }
+  ],
+  "wp:term": [
+   {
+    "taxonomy": "video_category",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_category?post=3982"
+   },
+   {
+    "taxonomy": "video_tag",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_tag?post=3982"
+   }
+  ],
+  "wp:action-publish": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3982"
+   }
+  ],
+  "wp:action-unfiltered-html": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3982"
+   }
+  ],
+  "wp:action-assign-author": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3982"
+   }
+  ],
+  "wp:action-create-video_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3982"
+   }
+  ],
+  "wp:action-assign-video_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3982"
+   }
+  ],
+  "wp:action-create-video_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3982"
+   }
+  ],
+  "wp:action-assign-video_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3982"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}
