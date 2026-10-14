@@ -1,0 +1,152 @@
+{
+ "id": 1208,
+ "count": 38,
+ "description": "<p class=\"isSelectedEnd\">Промышленное 3D-сканирование применяется для перевода геометрии физического объекта в цифровую форму. Сканер фиксирует поверхность детали и формирует массив пространственных данных, на основе которого можно получить облако точек или полигональную сетку.</p>\r\n<p class=\"isSelectedEnd\">На производстве 3д сканер промышленный используют там, где необходимо сопоставить фактическую геометрию изделия с CAD-моделью, восстановить цифровую документацию по существующей детали или получить данные для метрологического анализа. Такой подход востребован в конструкторских подразделениях и службах контроля качества.</p>\r\n\r\n<h2>Основные задачи промышленного сканирования</h2>\r\n<p class=\"isSelectedEnd\">Профессиональный 3D-сканер позволяет работать не только с отдельными размерами, но и с геометрией поверхности в целом. Полученные данные можно использовать для сравнения с номинальной моделью, построения сечений и анализа отклонений.</p>\r\n\r\n<ul data-spread=\"false\">\r\n \t<li><strong>Реверс-инжиниринг.</strong> Сканирование помогает восстановить геометрию готовой детали и использовать ее как основу для построения CAD-модели и подготовки конструкторской документации.</li>\r\n \t<li><strong>Контроль геометрии и отклонений.</strong> Цифровой результат сканирования можно сопоставить с номинальной CAD-моделью и определить участки, требующие дополнительного анализа.</li>\r\n \t<li><strong>Инспекция литья и штамповки.</strong> Оцифровка поверхности применяется для оценки формы отливок и штампованных изделий, выявления деформаций и сравнения фактической геометрии с проектной.</li>\r\n \t<li><strong>Сканирование крупных сборочных узлов.</strong> Портативные и трекерные системы позволяют выполнять измерения габаритных объектов непосредственно в производственной зоне без обязательного перемещения изделия в лабораторию.</li>\r\n</ul>\r\n<h2>Преимущества оптических и лазерных сканеров</h2>\r\n<p class=\"isSelectedEnd\">Оптические системы выполняют бесконтактное считывание геометрии поверхности. В зависимости от модели оборудование может использовать лазерный источник, структурированный свет, внешний оптический трекер или сочетание нескольких методов. Выбор технологии зависит от размеров объекта, поверхности и требований к измерению.</p>\r\n\r\n<ul data-spread=\"false\">\r\n \t<li><strong>Неразрушающий метод контроля.</strong> Для получения данных не требуется механически воздействовать на деталь, что удобно при работе с готовыми изделиями, формами и ответственными компонентами.</li>\r\n \t<li><strong>Высокая скорость оцифровки по сравнению с последовательными ручными обмерами.</strong> За один сеанс система собирает большой массив данных по поверхности объекта.</li>\r\n \t<li><strong>Работа с деталями сложной геометрической формы.</strong> Сканирование подходит для криволинейных поверхностей, переходов, пазов и других элементов, которые сложно полноценно описать набором отдельных ручных измерений.</li>\r\n \t<li><strong>Интеграция с CAD/CAM-системами.</strong> В представленных AM.TECH решениях результаты могут экспортироваться в распространенные форматы, включая STL, OBJ и PLY, для дальнейшей обработки в инженерном программном обеспечении.</li>\r\n \t<li><strong>Мобильность.</strong> В каталоге представлены ручные, беспроводные и трекерные решения для работы в лаборатории и непосредственно у объекта.</li>\r\n</ul>\r\n<h2>Как купить промышленный 3D сканер</h2>\r\n<p class=\"isSelectedEnd\">Выбор измерительной системы начинается с технической задачи. Универсального сканера для всех типов деталей не существует: оборудование для небольших компонентов и система для крупногабаритных конструкций могут различаться по конфигурации.</p>\r\n<p class=\"isSelectedEnd\">При подборе стоит учитывать:</p>\r\n\r\n<ul data-spread=\"false\">\r\n \t<li><strong>точность и разрешение</strong> — они должны соответствовать допускам изделия и размеру элементов, которые требуется контролировать;</li>\r\n \t<li><strong>объем сканируемой зоны</strong> — важен с учетом габаритов детали или сборочной единицы;</li>\r\n \t<li><strong>портативность</strong> — имеет значение, если измерения выполняются в цехе, на производственной площадке или непосредственно на установленном оборудовании;</li>\r\n \t<li><strong>программное обеспечение</strong> — следует определить, какие операции нужны после сканирования: построение сетки, сравнение с CAD, подготовка отчета или данные для реверс-инжиниринга;</li>\r\n \t<li><strong>комплектацию и сервис</strong> — обучение, гарантия, техническая поддержка, калибровка и доставка по России должны оцениваться вместе с характеристиками системы.</li>\r\n</ul>\r\n<p class=\"isSelectedEnd\">В каталоге AM.TECH представлены ручные лазерные сканеры, оптические трекерные системы и решения для разных производственных сценариев. Специалисты компании могут изучить техническое задание, подобрать подходящую конфигурацию и провести демонстрацию.</p>\r\nАктуальная цена зависит от выбранной системы, комплектации и программного обеспечения. Для подбора оборудования достаточно направить специалистам AM.TECH описание задачи и параметры контролируемых объектов. Это позволяет выбирать решение с учетом конкретного производственного процесса, а не одной паспортной характеристики. Это важно для серийного контроля.",
+ "link": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/",
+ "name": "Промышленные 3D сканеры: оборудование для реверс-инжиниринга и контроля качества",
+ "slug": "vysokotochnye-promyshlennye-3d-skanery",
+ "taxonomy": "product_cat",
+ "parent": 0,
+ "meta": [],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Высокоточные промышленные 3D-сканеры - заказать у производителя | AM-Tech</title>\n<meta name=\"description\" content=\"Высокоточные промышленные 3D-сканеры - демонстрация и консультация наших специалистов. +7 (495) 109 11 91\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Высокоточные промышленные 3D-сканеры - заказать у производителя | AM-Tech\" />\n<meta property=\"og:description\" content=\"Высокоточные промышленные 3D-сканеры - демонстрация и консультация наших специалистов. +7 (495) 109 11 91\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/\" />\n<meta property=\"og:site_name\" content=\"am-tech.ru\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/\",\"url\":\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/\",\"name\":\"Высокоточные промышленные 3D-сканеры - заказать у производителя | AM-Tech\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"description\":\"Высокоточные промышленные 3D-сканеры - демонстрация и консультация наших специалистов. +7 (495) 109 11 91\",\"breadcrumb\":{\"@id\":\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/#breadcrumb\"},\"inLanguage\":\"ru-RU\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Главная страница\",\"item\":\"https://am-tech.ru/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Промышленные 3D сканеры: оборудование для реверс-инжиниринга и контроля качества\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"am-tech.ru\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"am-tech.ru\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"am-tech.ru\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "Высокоточные промышленные 3D-сканеры - заказать у производителя | AM-Tech",
+  "description": "Высокоточные промышленные 3D-сканеры - демонстрация и консультация наших специалистов. +7 (495) 109 11 91",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "Высокоточные промышленные 3D-сканеры - заказать у производителя | AM-Tech",
+  "og_description": "Высокоточные промышленные 3D-сканеры - демонстрация и консультация наших специалистов. +7 (495) 109 11 91",
+  "og_url": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/",
+  "og_site_name": "am-tech.ru",
+  "twitter_card": "summary_large_image",
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "CollectionPage",
+     "@id": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/",
+     "url": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/",
+     "name": "Высокоточные промышленные 3D-сканеры - заказать у производителя | AM-Tech",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "description": "Высокоточные промышленные 3D-сканеры - демонстрация и консультация наших специалистов. +7 (495) 109 11 91",
+     "breadcrumb": {
+      "@id": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/#breadcrumb"
+     },
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Главная страница",
+       "item": "https://am-tech.ru/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Промышленные 3D сканеры: оборудование для реверс-инжиниринга и контроля качества"
+      }
+     ]
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "am-tech.ru",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "am-tech.ru",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "am-tech.ru"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "yoast_seo": {
+  "title": "Высокоточные промышленные 3D-сканеры - заказать у производителя | AM-Tech",
+  "desc": "Высокоточные промышленные 3D-сканеры - демонстрация и консультация наших специалистов. +7 (495) 109 11 91"
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/product_cat/1208",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/product_cat"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/taxonomies/product_cat"
+   }
+  ],
+  "wp:post_type": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/product?product_cat=1208"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}
