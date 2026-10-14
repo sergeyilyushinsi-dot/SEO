@@ -1,0 +1,488 @@
+{
+ "id": 1597,
+ "name": "Лазерный трекер TrackProbe  P",
+ "slug": "lazernyj-treker-trackprobe-p",
+ "permalink": "https://am-tech.ru/product/lazernyj-treker-trackprobe-p/",
+ "date_created": "2025-08-17T06:37:48",
+ "date_created_gmt": "2025-08-17T03:37:48",
+ "date_modified": "2026-10-13T17:09:54",
+ "date_modified_gmt": "2026-10-13T14:09:54",
+ "type": "simple",
+ "status": "publish",
+ "featured": false,
+ "catalog_visibility": "visible",
+ "description": "<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n\r\n<span style=\"font-family: Arial, Helvetica;\"><b>TrackProbe</b> можно использовать по беспроводной сети, без механических ограничений или кабелей. Система позволяет пользователям проводить контактные измерения детали щупом сразу после измерений 3D-сканером. TrackProbe обеспечивает полную свободу движений при измерении крупных деталей со сложными характеристиками.</span>\r\n\r\n<span style=\"font-family: Arial, Helvetica;\"><b>TrackProbe</b> обеспечивает повторяемость в одной точке 0,025 мм и обладает объемной точностью до 0,049 мм. Скорость измерения может достигать 60 измерений в секунду, что позволяет производить эффективные и точные измерения деталей различного типа.</span>\r\n\r\n&nbsp;\r\n\r\n<span style=\"font-family: Arial, Helvetica;\"> Щуп i-Probe изготовлен из углеродного волокна и весит всего 450 г. Его портативность и эргономичность облегчают проведение контактных измерений и позволяют работать с ним в течение длительного времени, не чувствуя усталости. </span>\r\n\r\n&nbsp;\r\n\r\n<span style=\"font-family: Arial, Helvetica;\"> i-Probe поставляется с насадками разной длины, которые можно использовать в сложных цеховых условиях независимо от вибраций. В сочетании с программой Tviewer и программным обеспечением других производителей он позволяет проводить контактные измерения в реальном времени.</span>\r\n\r\n<iframe title=\"YouTube video player\" src=\"https://www.youtube.com/embed/5oLi7xlYQE8?si=Zd6Ysy0WPf-HjPk0\" width=\"853\" height=\"480\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>\r\n\r\nВсе представленное в нашем каталоге оборудование доступно к приобретению на выгодных условиях <a href=\"https://am-tech.ru/leasing/\">лизинга.</a>\r\n\r\nНаши специалисты помогут подобрать оптимальную схему лизинга под ваши производственные задачи и финансовые возможности, а также окажут содействие в оформлении всей необходимой документации.\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+ "short_description": "<b>TrackProbe</b> – это портативная измерительная система, которая состоит из оптической системы слежения (трекера) E-Track с контроллером для подключения и беспроводного измерительного щупа i-Probe и предназначена для измерения эталонных отверстий и скрытых точек. Ее можно широко использовать при измерении крепежных приспособлений, штамповочных деталей и разметки для определения фактического припуска на обработку.",
+ "sku": "",
+ "price": "",
+ "regular_price": "",
+ "sale_price": "",
+ "date_on_sale_from": null,
+ "date_on_sale_from_gmt": null,
+ "date_on_sale_to": null,
+ "date_on_sale_to_gmt": null,
+ "on_sale": false,
+ "purchasable": false,
+ "total_sales": 0,
+ "virtual": false,
+ "downloadable": false,
+ "downloads": [],
+ "download_limit": -1,
+ "download_expiry": -1,
+ "external_url": "",
+ "button_text": "",
+ "tax_status": "taxable",
+ "tax_class": "",
+ "manage_stock": false,
+ "stock_quantity": null,
+ "backorders": "no",
+ "backorders_allowed": false,
+ "backordered": false,
+ "low_stock_amount": null,
+ "sold_individually": false,
+ "weight": "",
+ "dimensions": {
+  "length": "",
+  "width": "",
+  "height": ""
+ },
+ "shipping_required": true,
+ "shipping_taxable": true,
+ "shipping_class": "",
+ "shipping_class_id": 0,
+ "reviews_allowed": true,
+ "average_rating": "0",
+ "rating_count": 0,
+ "upsell_ids": [],
+ "cross_sell_ids": [],
+ "parent_id": 0,
+ "purchase_note": "",
+ "categories": [
+  {
+   "id": 24,
+   "name": "3D-сканеры",
+   "slug": "3d-scan"
+  }
+ ],
+ "brands": [],
+ "tags": [],
+ "images": [
+  {
+   "id": 1598,
+   "date_created": "2025-08-17T09:37:48",
+   "date_created_gmt": "2025-08-17T03:37:48",
+   "date_modified": "2025-08-17T09:37:48",
+   "date_modified_gmt": "2025-08-17T03:37:48",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/4kze4ar3k9zfycqqls6lbxqgsngb131u.png",
+   "name": "4kze4ar3k9zfycqqls6lbxqgsngb131u",
+   "alt": ""
+  },
+  {
+   "id": 1599,
+   "date_created": "2025-08-17T09:37:48",
+   "date_created_gmt": "2025-08-17T03:37:48",
+   "date_modified": "2025-08-17T09:37:48",
+   "date_modified_gmt": "2025-08-17T03:37:48",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/7epbll3wglq7s9ukfniptragpyxkqlqa-3.webp",
+   "name": "7epbll3wglq7s9ukfniptragpyxkqlqa-3",
+   "alt": ""
+  },
+  {
+   "id": 1600,
+   "date_created": "2025-08-17T09:37:50",
+   "date_created_gmt": "2025-08-17T03:37:50",
+   "date_modified": "2025-08-17T09:37:50",
+   "date_modified_gmt": "2025-08-17T03:37:50",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/jm7y9x1pqw8or0522m9okflf32wls50s.webp",
+   "name": "jm7y9x1pqw8or0522m9okflf32wls50s",
+   "alt": ""
+  }
+ ],
+ "attributes": [],
+ "default_attributes": [],
+ "variations": [],
+ "grouped_products": [],
+ "menu_order": 999,
+ "price_html": "",
+ "related_ids": [
+  3811,
+  2838,
+  1671,
+  1665,
+  3786
+ ],
+ "meta_data": [
+  {
+   "id": 24560,
+   "key": "bitrix_id",
+   "value": "2230"
+  },
+  {
+   "id": 24561,
+   "key": "Символьный код",
+   "value": "trackprobe-p"
+  },
+  {
+   "id": 24562,
+   "key": "Анонс",
+   "value": "<p><b>TrackProbe</b> &ndash; это портативная измерительная система, которая состоит из оптической системы слежения (трекера) E-Track с контроллером для подключения и беспроводного измерительного щупа i-Probe и предназначена для измерения эталонных отверстий и скрытых точек. Ее можно широко использовать при измерении крепежных приспособлений, штамповочных деталей и разметки для определения фактического припуска на обработку.</p>"
+  },
+  {
+   "id": 24563,
+   "key": "Описание",
+   "value": "<p><span style=\"font-family: Arial, Helvetica;\"><b>TrackProbe</b> можно использовать по беспроводной сети, без механических ограничений или кабелей. Система позволяет пользователям проводить контактные измерения детали щупом сразу после измерений 3D-сканером. TrackProbe обеспечивает полную свободу движений при измерении крупных деталей со сложными характеристиками.</span></p>\r\n<p><span style=\"font-family: Arial, Helvetica;\"><b>TrackProbe</b> обеспечивает повторяемость в одной точке 0,025 мм и обладает объемной точностью до 0,049 мм. Скорость измерения может достигать 60 измерений в секунду, что позволяет производить эффективные и точные измерения деталей различного типа.</span></p>\r\n<p><span style=\"font-family: Arial, Helvetica;\"> </span></p>\r\n<p><span style=\"font-family: Arial, Helvetica;\"> Щуп i-Probe изготовлен из углеродного волокна и весит всего 450 г. Его портативность и эргономичность облегчают проведение контактных измерений и позволяют работать с ним в течение длительного времени, не чувствуя усталости. </span></p>\r\n<p><span style=\"font-family: Arial, Helvetica;\"> </span></p>\r\n<p><span style=\"font-family: Arial, Helvetica;\"> i-Probe поставляется с насадками разной длины, которые можно использовать в сложных цеховых условиях независимо от вибраций. В сочетании с программой Tviewer и программным обеспечением других производителей он позволяет проводить контактные измерения в реальном времени.</span></p>\r\n<p><iframe title=\"YouTube video player\" src=\"https://www.youtube.com/embed/5oLi7xlYQE8?si=Zd6Ysy0WPf-HjPk0\" width=\"853\" height=\"480\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>\r\n<p>Все представленное в нашем каталоге оборудование доступно к приобретению на выгодных условиях <a href=\"https://am-tech.ru/leasing/\">лизинга.</a></p>\r\n<p>Наши специалисты помогут подобрать оптимальную схему лизинга под ваши производственные задачи и финансовые возможности, а также окажут содействие в оформлении всей необходимой документации.</p>"
+  },
+  {
+   "id": 24567,
+   "key": "Точность, мм",
+   "value": "до 0,03"
+  },
+  {
+   "id": 24568,
+   "key": "Объемная точность, мм/м",
+   "value": "объем 10,4 м³;-0,060 мм &lt;br&gt;объем 18,0 м³;-0,098 мм"
+  },
+  {
+   "id": 24569,
+   "key": "Доверительная вероятность",
+   "value": "0,95"
+  },
+  {
+   "id": 24570,
+   "key": "Возможность работы со щупом",
+   "value": "I-Probe, повторяемость в одной точке 0,03"
+  },
+  {
+   "id": 24571,
+   "key": "Оптимальное расстояние до объекта, мм",
+   "value": "Контактное измерение щупом"
+  },
+  {
+   "id": 24572,
+   "key": "Габариты, мм",
+   "value": "1100х170х180 (трекер) &lt;br&gt; 70х120х360 (щуп)"
+  },
+  {
+   "id": 24573,
+   "key": "Температура окружающей среды, °C",
+   "value": "от -10 до +40"
+  },
+  {
+   "id": 24574,
+   "key": "Наличие в реестре средств измерений",
+   "value": "да"
+  },
+  {
+   "id": 24575,
+   "key": "Страна производства",
+   "value": "Китай"
+  },
+  {
+   "id": 24576,
+   "key": "Связанные товары по фильтру",
+   "value": "[]"
+  },
+  {
+   "id": 24577,
+   "key": "Материалы",
+   "value": "/pr_new_files/iblock/7c4/q9e69xgv97r9q31pck071f2rmfxziaee.pdf"
+  },
+  {
+   "id": 24578,
+   "key": "Картинки галереи",
+   "value": "/pr_new_files/iblock/99f/7epbll3wglq7s9ukfniptragpyxkqlqa.png"
+  },
+  {
+   "id": 24579,
+   "key": "Вес, кг.",
+   "value": "6,95 (трекер) &lt;br&gt; 0,45 (щуп)"
+  },
+  {
+   "id": 24580,
+   "key": "Класс лазера (безопасность для глаз)",
+   "value": "Класс II (безопасно для глаз)"
+  },
+  {
+   "id": 24581,
+   "key": "bitrix_picture",
+   "value": "/pr_new_files/iblock/316/g6nx86g8h67einnk3z8wsza05pxgsy7l.png"
+  },
+  {
+   "id": 24582,
+   "key": "Документы товара",
+   "value": "1563"
+  },
+  {
+   "id": 30938,
+   "key": "wbcr_wp_old_slug",
+   "value": "%d0%bb%d0%b0%d0%b7%d0%b5%d1%80%d0%bd%d1%8b%d0%b9-%d1%82%d1%80%d0%b5%d0%ba%d0%b5%d1%80-trackprobe-p"
+  },
+  {
+   "id": 35606,
+   "key": "Код с видео (iframe)",
+   "value": ""
+  },
+  {
+   "id": 35607,
+   "key": "Файл видео",
+   "value": ""
+  },
+  {
+   "id": 35608,
+   "key": "_news_category",
+   "value": "0"
+  },
+  {
+   "id": 35609,
+   "key": "_news_tag",
+   "value": "0"
+  },
+  {
+   "id": 35610,
+   "key": "_custom_advantages",
+   "value": ""
+  },
+  {
+   "id": 35611,
+   "key": "_my_menu_type",
+   "value": "обычное"
+  },
+  {
+   "id": 35612,
+   "key": "_video_block",
+   "value": {
+    "video_title": "",
+    "video_post_id": "",
+    "right_title": "",
+    "subtitle": "",
+    "video_description": "",
+    "button_text": "Смотреть больше видео",
+    "tag_id": ""
+   }
+  },
+  {
+   "id": 35613,
+   "key": "boldgrid_in_page_containers",
+   "value": "1"
+  },
+  {
+   "id": 35614,
+   "key": "_yoast_wpseo_primary_product_brand",
+   "value": ""
+  },
+  {
+   "id": 35615,
+   "key": "_yoast_wpseo_primary_product_cat",
+   "value": "15"
+  },
+  {
+   "id": 35616,
+   "key": "_yoast_wpseo_content_score",
+   "value": "90"
+  },
+  {
+   "id": 35617,
+   "key": "_yoast_wpseo_estimated-reading-time-minutes",
+   "value": "2"
+  },
+  {
+   "id": 35767,
+   "key": "_yoast_wpseo_title",
+   "value": "Лазерный трекер TrackProbe P — купить с доставкой по России | AM-Tech"
+  },
+  {
+   "id": 35768,
+   "key": "_yoast_wpseo_metadesc",
+   "value": "Лазерный трекер TrackProbe P — надежный инструмент для 3D-измерений. Удобный зонд и высокая производительность при контроле качества. Демонстрация: +7 (495) 109 11 91."
+  },
+  {
+   "id": 36110,
+   "key": "_vcv-sourceChecksum",
+   "value": "e0d540ce157ee2bb31ffebf949679a82"
+  },
+  {
+   "id": 36111,
+   "key": "vcvSourceCssFileUrl",
+   "value": "/assets-bundles/e0d540ce157ee2bb31ffebf949679a82.source.css"
+  },
+  {
+   "id": 36112,
+   "key": "_vcv-globalCssMigrated",
+   "value": "1"
+  },
+  {
+   "id": 52473,
+   "key": "_elementor_page_assets",
+   "value": []
+  }
+ ],
+ "stock_status": "instock",
+ "has_options": false,
+ "post_password": "",
+ "global_unique_id": "",
+ "permalink_template": "https://am-tech.ru/product/%pagename%/",
+ "generated_slug": "lazernyj-treker-trackprobe-p",
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Лазерный трекер TrackProbe P — купить с доставкой по России | AM-Tech</title>\n<meta name=\"description\" content=\"Лазерный трекер TrackProbe P — надежный инструмент для 3D-измерений. Удобный зонд и высокая производительность при контроле качества. Демонстрация: +7 (495) 109 11 91.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/product/lazernyj-treker-trackprobe-p/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Лазерный трекер TrackProbe P — купить с доставкой по России | AM-Tech\" />\n<meta property=\"og:description\" content=\"Лазерный трекер TrackProbe P — надежный инструмент для 3D-измерений. Удобный зонд и высокая производительность при контроле качества. Демонстрация: +7 (495) 109 11 91.\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/product/lazernyj-treker-trackprobe-p/\" />\n<meta property=\"og:site_name\" content=\"am-tech.ru\" />\n<meta property=\"article:modified_time\" content=\"2026-10-13T14:09:54+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2025/08/4kze4ar3k9zfycqqls6lbxqgsngb131u.png\" />\n\t<meta property=\"og:image:width\" content=\"398\" />\n\t<meta property=\"og:image:height\" content=\"300\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"2 минуты\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/product/lazernyj-treker-trackprobe-p/\",\"url\":\"https://am-tech.ru/product/lazernyj-treker-trackprobe-p/\",\"name\":\"Лазерный трекер TrackProbe P — купить с доставкой по России | AM-Tech\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/product/lazernyj-treker-trackprobe-p/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/product/lazernyj-treker-trackprobe-p/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2025/08/4kze4ar3k9zfycqqls6lbxqgsngb131u.png\",\"datePublished\":\"2025-08-17T03:37:48+00:00\",\"dateModified\":\"2026-10-13T14:09:54+00:00\",\"description\":\"Лазерный трекер TrackProbe P — надежный инструмент для 3D-измерений. Удобный зонд и высокая производительность при контроле качества. Демонстрация: +7 (495) 109 11 91.\",\"breadcrumb\":{\"@id\":\"https://am-tech.ru/product/lazernyj-treker-trackprobe-p/#breadcrumb\"},\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/product/lazernyj-treker-trackprobe-p/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/product/lazernyj-treker-trackprobe-p/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2025/08/4kze4ar3k9zfycqqls6lbxqgsngb131u.png\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2025/08/4kze4ar3k9zfycqqls6lbxqgsngb131u.png\",\"width\":398,\"height\":300},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://am-tech.ru/product/lazernyj-treker-trackprobe-p/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Главная страница\",\"item\":\"https://am-tech.ru/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"default\",\"item\":\"https://am-tech.ru/katalog/default/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Лазерный трекер TrackProbe P\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"am-tech.ru\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"am-tech.ru\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"am-tech.ru\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "Лазерный трекер TrackProbe P — купить с доставкой по России | AM-Tech",
+  "description": "Лазерный трекер TrackProbe P — надежный инструмент для 3D-измерений. Удобный зонд и высокая производительность при контроле качества. Демонстрация: +7 (495) 109 11 91.",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/product/lazernyj-treker-trackprobe-p/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "Лазерный трекер TrackProbe P — купить с доставкой по России | AM-Tech",
+  "og_description": "Лазерный трекер TrackProbe P — надежный инструмент для 3D-измерений. Удобный зонд и высокая производительность при контроле качества. Демонстрация: +7 (495) 109 11 91.",
+  "og_url": "https://am-tech.ru/product/lazernyj-treker-trackprobe-p/",
+  "og_site_name": "am-tech.ru",
+  "article_modified_time": "2026-10-13T14:09:54+00:00",
+  "og_image": [
+   {
+    "width": 398,
+    "height": 300,
+    "url": "https://am-tech.ru/wp-content/uploads/2025/08/4kze4ar3k9zfycqqls6lbxqgsngb131u.png",
+    "type": "image/png"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "2 минуты"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/product/lazernyj-treker-trackprobe-p/",
+     "url": "https://am-tech.ru/product/lazernyj-treker-trackprobe-p/",
+     "name": "Лазерный трекер TrackProbe P — купить с доставкой по России | AM-Tech",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/product/lazernyj-treker-trackprobe-p/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/product/lazernyj-treker-trackprobe-p/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2025/08/4kze4ar3k9zfycqqls6lbxqgsngb131u.png",
+     "datePublished": "2025-08-17T03:37:48+00:00",
+     "dateModified": "2026-10-13T14:09:54+00:00",
+     "description": "Лазерный трекер TrackProbe P — надежный инструмент для 3D-измерений. Удобный зонд и высокая производительность при контроле качества. Демонстрация: +7 (495) 109 11 91.",
+     "breadcrumb": {
+      "@id": "https://am-tech.ru/product/lazernyj-treker-trackprobe-p/#breadcrumb"
+     },
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/product/lazernyj-treker-trackprobe-p/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/product/lazernyj-treker-trackprobe-p/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2025/08/4kze4ar3k9zfycqqls6lbxqgsngb131u.png",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2025/08/4kze4ar3k9zfycqqls6lbxqgsngb131u.png",
+     "width": 398,
+     "height": 300
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://am-tech.ru/product/lazernyj-treker-trackprobe-p/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Главная страница",
+       "item": "https://am-tech.ru/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "default",
+       "item": "https://am-tech.ru/katalog/default/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "Лазерный трекер TrackProbe P"
+      }
+     ]
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "am-tech.ru",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "am-tech.ru",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "am-tech.ru"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wc/v3/products/1597",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wc/v3/products"
+   }
+  ]
+ }
+}
