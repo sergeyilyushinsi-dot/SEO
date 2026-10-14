@@ -1,0 +1,277 @@
+{
+ "id": 2150,
+ "date": "2025-07-08T15:21:00",
+ "date_gmt": "2025-07-08T12:21:00",
+ "guid": {
+  "rendered": "http://am-tech.ru/news/sravnenie-sla-dlp-i-lcd-kakaya-tekhnologiya-fotopolimernoy-pechati-podkhodit-imenno-vam/",
+  "raw": "http://am-tech.ru/news/sravnenie-sla-dlp-i-lcd-kakaya-tekhnologiya-fotopolimernoy-pechati-podkhodit-imenno-vam/"
+ },
+ "modified": "2026-02-18T14:08:06",
+ "modified_gmt": "2026-02-18T11:08:06",
+ "password": "",
+ "slug": "sravnenie-sla-dlp-i-lcd-kakaya-tekhnologiya-fotopolimernoy-pechati-podkhodit-imenno-vam",
+ "status": "publish",
+ "type": "news",
+ "link": "https://am-tech.ru/news/sravnenie-sla-dlp-i-lcd-kakaya-tekhnologiya-fotopolimernoy-pechati-podkhodit-imenno-vam/",
+ "title": {
+  "raw": "Сравнение SLA, DLP и LCD: Какая технология фотополимерной печати подходит именно вам?",
+  "rendered": "Сравнение SLA, DLP и LCD: Какая технология фотополимерной печати подходит именно вам?"
+ },
+ "content": {
+  "raw": "<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n\r\nФотополимерная 3D-печать — это передовая технология, которая позволяет создавать высокоточные детали с использованием жидких смол, отверждаемых под воздействием света. Существует три основные технологии фотополимерной печати: SLA (лазерная стереолитография), DLP (засвечивание происходит за счет у/ф проектора) и LCD (печать с использованием жидкокристаллического дисплея). Каждая из них имеет свои преимущества и ограничения, которые определяют их применимость для различных задач.\r\n\r\nВ этой статье мы сравним SLA, LCD и DLP по ключевым параметрам: точность, скорость печати, стоимость оборудования и расходные материалы, чтобы помочь вам выбрать оптимальную для ваших задач технологию.\r\n\r\n<strong>Что такое фотополимерная 3D-печать?</strong>\r\n\r\nФотополимерная печать основана на отверждении жидкой смолы под воздействием света. Все три технологии — SLA, LCD и DLP — используют фотополимеры, но отличаются способом формирования слоев. SLA применяет лазер для точечного отверждения смолы, LCD работает с помощью жидкокристаллического экрана, пропускающего свет для создания изображения слоя, а DLP использует проектор для одновременного засвечивания целого слоя. Эти различия влияют на точность, скорость печати и стоимость.\r\n\r\n&nbsp;\r\n\r\n<em><img src=\"http://am-tech.ru/wp-content/uploads/2025/08/qg40b2d0iyh707cpyg20josbnr49dbzy.png\"></em>\r\n\r\n<em>Процесс 3</em><em>D</em><em>-печати по трем технологиям</em>\r\n\r\nSLA&nbsp;(Stereolithography) — лазерное отверждение слоя за слоем;\r\n\r\nLCD (Masked Stereolithography)&nbsp;— использование ЖК-экрана для маскировки участков облучения;\r\n\r\nDLP (Digital Light Processing)&nbsp;— отверждение сразу целого слоя с помощью цифрового проектора.\r\n\r\n<strong>Точность: Как технологии справляются с деталями?</strong>\r\n\r\nТочность — один из ключевых факторов при выборе 3D-принтера. SLA 3D-принтеры обеспечивают высочайшую точность из трех технологий: при толщине слоя от 25 микрон, лазер формирует детали с разрешением от 50 до 250 микрон. Это делает SLA 3D-принтеры идеальными для задач, требующих высокой детализации, например, в ювелирном деле, стоматологии или прототипировании сложных механизмов.\r\n\r\n<img src=\"http://am-tech.ru/wp-content/uploads/2025/08/hvamqqg4e8ug6lo3xlab69pgrqunn0kp.jpg\">\r\n\r\n<em>Пример применения </em><em>SLA</em><em> 3</em><em>D</em><em>-печати в стоматологии</em>\r\n\r\nDLP-принтеры также предлагают хорошую точность (около 35–50 микрон), но их качество зависит от разрешения проектора. Качество печати LCD-принтеров зависит от разрешения ЖК-Экрана. 3д-принтеры по данной технологии могут оснащаться экранами с высоким разрешением, вплоть до 8K, что позволяет достигать высокой точности.\r\n\r\nSLA выигрывает за счет возможности точной настройки лазера, что особенно важно для профессиональных и промышленных задач, где высока цена ошибки. Например, SLA 3D-принтер при печати деталей с резьбой обеспечивает более гладкую поверхность и точное воспроизведение.\r\n\r\n<em>ВИДЕО С РЕЗЬБОЙ</em>\r\n\r\n<strong>Скорость печати: Какая технология быстрее?</strong>\r\n\r\nСкорость печати зависит от метода отверждения смолы. LCD и DLP имеют преимущество в скорости, так как они засвечивают весь слой одновременно. Это делает их подходящими для быстрого производства крупных объектов или небольших партий деталей. Например, LCD-принтер может напечатать слой за 2–10 секунд, в то время как SLA требует больше времени (до 60 секунд на слой) из-за точечного сканирования лазером.\r\n\r\n&nbsp; <img src=\"http://am-tech.ru/wp-content/uploads/2025/08/zucx712jd3irubdjxh94jbyb6akddxq0.jpg\"><img src=\"http://am-tech.ru/wp-content/uploads/2025/08/0vq2xjgy7o0ykduw6gxiqxaxl8waf3e0.jpg\">\r\n\r\n<em>Примеры 3</em><em>D</em><em>-печати по технологии </em><em>LCD</em>\r\n\r\nОднако SLA 3D-принтеры компенсируют это за счет больших платформ построения, которые позволяют одновременно печатать больше деталей. Это делает их более эффективными для средних и больших партий, где требуется высокая точность. LCD-принтеры, несмотря на их скорость, часто ограничены меньшими платформами, что снижает их производительность для серийной печати.\r\n\r\n<strong>Видео: Процесс SLA-печати (есть рилс) + (есть рилс с серией)</strong>\r\n\r\n<strong>Название:</strong> \"Процесс печати и обработки деталей на SLA-принтере\"\r\n\r\n&nbsp;\r\n\r\n<strong>Стоимость оборудования и расходных материалов</strong>\r\n\r\nСтоимость оборудования — важный фактор при выборе технологии. LCD-принтеры являются самыми доступными, с ценами от $250 до $1500, но их экраны быстро изнашиваются, что увеличивает эксплуатационные расходы. DLP-принтеры стоят дороже (от $1000 до $10000), но проекторы обеспечивают более длительный срок службы. SLA 3D-принтеры находятся в более высоком ценовом сегменте (от $100,00 до $300,00), но их надежность и универсальность оправдывают инвестиции для профессионального и промышленного использования.\r\n\r\nРасходные материалы, такие как фотополимерные смолы, стоят примерно одинаково для всех технологий (от $30 до $250 за литр в зависимости от типа смолы). Однако выбор смол зависит от длины волны излучения, используемой в рассматриваемой технологии. Так, например, в SLA принтерах длина волны лазера обычно составляет 355 нм, а длина волны источника света, которую используют большинство LCD и DLP-принтеров – 405 нм.\r\n\r\n<strong>Преимущества SLA для профессиональных задач</strong>\r\n\r\nЕсли вам нужен 3D-принтер для задач, требующих максимальной точности, универсальности и возможности работы с большими партиями деталей, SLA 3D-принтер — это оптимальный выбор. Благодаря большим платформам построения, SLA позволяет одновременно печатать множество деталей, что идеально подходит для серийного производства. Высокая точность и поддержка широкого спектра смол делают SLA незаменимым для профессионалов в таких отраслях, как прототипирование, стоматология, ювелирное дело и производство сложных деталей.\r\n\r\nDLP и LCD могут быть хороши для хобби или небольших проектов, но их ограничения в размере платформы и долговечности делают их менее подходящими для интенсивного профессионального и промышленного использования. SLA 3D-принтеры в свою очередь обеспечивают баланс между качеством, масштабируемостью и надежностью.\r\n\r\n<em><img src=\"http://am-tech.ru/wp-content/uploads/2025/08/unyro2h2f6ag1yob5uaxfun19dw43msx.jpg\"></em>\r\n\r\n<em>Серийная 3</em><em>D</em><em>-печать на </em><em>SLA</em><em> 3</em><em>D</em><em>-принтере </em><em>AM</em><em>.</em><em>TECH</em>\r\n\r\n&nbsp;\r\n\r\nЛинейка SLA 3D-принтеров от компании AM.TECH включает 6 машин промышленного класса и 2 машины профессионального класса для получения высокоточных изделий. Оборудование AM.TECH обладает открытой архитектурой, что позволяет использовать его как универсальный инструмент, печатая выжигаемые модели для литья, мастер модели, функциональные изделия или осуществлять прототипирование с точностью до 0,05 мм.\r\n\r\n<img src=\"http://am-tech.ru/wp-content/uploads/2025/08/l23k5yq2xl0ptwebdg1nka05lrckmqbn.png\" alt=\"\" width=\"662\" height=\"278\">\r\n\r\n<strong>Заключение</strong>\r\n\r\nВыбор между SLA, DLP и LCD зависит от ваших задач. Если вам нужна высокая точность и возможность печати средних и больших партий деталей, SLA 3D-принтер — это ваш лучший выбор. Его большие платформы построения и высокое качество печати делают его идеальным для профессиональных задач.\r\n\r\n<img src=\"http://am-tech.ru/wp-content/uploads/2025/08/v0c8qaw7ozzqhc8l33abe1l5oelzzry4.jpg\" alt=\"\" width=\"488\" height=\"366\">\r\n\r\n<em>Большая серия деталей, выполненная на </em><em>SLA</em><em> 3</em><em>D</em><em>-принтере </em>\r\n\r\n&nbsp;\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+  "rendered": "<div class=\"boldgrid-section\">\n<div class=\"container\">\n<div class=\"row\">\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\n<p>Фотополимерная 3D-печать — это передовая технология, которая позволяет создавать высокоточные детали с использованием жидких смол, отверждаемых под воздействием света. Существует три основные технологии фотополимерной печати: SLA (лазерная стереолитография), DLP (засвечивание происходит за счет у/ф проектора) и LCD (печать с использованием жидкокристаллического дисплея). Каждая из них имеет свои преимущества и ограничения, которые определяют их применимость для различных задач.</p>\n<p>В этой статье мы сравним SLA, LCD и DLP по ключевым параметрам: точность, скорость печати, стоимость оборудования и расходные материалы, чтобы помочь вам выбрать оптимальную для ваших задач технологию.</p>\n<p><strong>Что такое фотополимерная 3D-печать?</strong></p>\n<p>Фотополимерная печать основана на отверждении жидкой смолы под воздействием света. Все три технологии — SLA, LCD и DLP — используют фотополимеры, но отличаются способом формирования слоев. SLA применяет лазер для точечного отверждения смолы, LCD работает с помощью жидкокристаллического экрана, пропускающего свет для создания изображения слоя, а DLP использует проектор для одновременного засвечивания целого слоя. Эти различия влияют на точность, скорость печати и стоимость.</p>\n<p>&nbsp;</p>\n<p><em><img loading=\"lazy\" decoding=\"async\" alt=\"Сравнение SLA, DLP и LCD: Какая технология фотополимерной печати подходит именно вам? - Технологии SLA и 3D-печать керамикой - AM-Tech\" decoding=\"async\" src=\"https://am-tech.ru/wp-content/uploads/2025/08/qg40b2d0iyh707cpyg20josbnr49dbzy.png\"></em></p>\n<p><em>Процесс 3</em><em>D</em><em>-печати по трем технологиям</em></p>\n<p>SLA&nbsp;(Stereolithography) — лазерное отверждение слоя за слоем;</p>\n<p>LCD (Masked Stereolithography)&nbsp;— использование ЖК-экрана для маскировки участков облучения;</p>\n<p>DLP (Digital Light Processing)&nbsp;— отверждение сразу целого слоя с помощью цифрового проектора.</p>\n<p><strong>Точность: Как технологии справляются с деталями?</strong></p>\n<p>Точность — один из ключевых факторов при выборе 3D-принтера. SLA 3D-принтеры обеспечивают высочайшую точность из трех технологий: при толщине слоя от 25 микрон, лазер формирует детали с разрешением от 50 до 250 микрон. Это делает SLA 3D-принтеры идеальными для задач, требующих высокой детализации, например, в ювелирном деле, стоматологии или прототипировании сложных механизмов.</p>\n<p><img loading=\"lazy\" decoding=\"async\" alt=\"Сравнение SLA, DLP и LCD: Какая технология фотополимерной печати подходит именно вам? - Технологии SLA и 3D-печать керамикой - AM-Tech\" decoding=\"async\" src=\"https://am-tech.ru/wp-content/uploads/2025/08/hvamqqg4e8ug6lo3xlab69pgrqunn0kp.jpg\"></p>\n<p><em>Пример применения </em><em>SLA</em><em> 3</em><em>D</em><em>-печати в стоматологии</em></p>\n<p>DLP-принтеры также предлагают хорошую точность (около 35–50 микрон), но их качество зависит от разрешения проектора. Качество печати LCD-принтеров зависит от разрешения ЖК-Экрана. 3д-принтеры по данной технологии могут оснащаться экранами с высоким разрешением, вплоть до 8K, что позволяет достигать высокой точности.</p>\n<p>SLA выигрывает за счет возможности точной настройки лазера, что особенно важно для профессиональных и промышленных задач, где высока цена ошибки. Например, SLA 3D-принтер при печати деталей с резьбой обеспечивает более гладкую поверхность и точное воспроизведение.</p>\n<p><em>ВИДЕО С РЕЗЬБОЙ</em></p>\n<p><strong>Скорость печати: Какая технология быстрее?</strong></p>\n<p>Скорость печати зависит от метода отверждения смолы. LCD и DLP имеют преимущество в скорости, так как они засвечивают весь слой одновременно. Это делает их подходящими для быстрого производства крупных объектов или небольших партий деталей. Например, LCD-принтер может напечатать слой за 2–10 секунд, в то время как SLA требует больше времени (до 60 секунд на слой) из-за точечного сканирования лазером.</p>\n<p>&nbsp; <img loading=\"lazy\" decoding=\"async\" alt=\"Сравнение SLA, DLP и LCD: Какая технология фотополимерной печати подходит именно вам? - Технологии SLA и 3D-печать керамикой - AM-Tech\" decoding=\"async\" src=\"https://am-tech.ru/wp-content/uploads/2025/08/zucx712jd3irubdjxh94jbyb6akddxq0.jpg\"><img loading=\"lazy\" decoding=\"async\" alt=\"Сравнение SLA, DLP и LCD: Какая технология фотополимерной печати подходит именно вам? - Технологии SLA и 3D-печать керамикой - AM-Tech\" decoding=\"async\" src=\"https://am-tech.ru/wp-content/uploads/2025/08/0vq2xjgy7o0ykduw6gxiqxaxl8waf3e0.jpg\"></p>\n<p><em>Примеры 3</em><em>D</em><em>-печати по технологии </em><em>LCD</em></p>\n<p>Однако SLA 3D-принтеры компенсируют это за счет больших платформ построения, которые позволяют одновременно печатать больше деталей. Это делает их более эффективными для средних и больших партий, где требуется высокая точность. LCD-принтеры, несмотря на их скорость, часто ограничены меньшими платформами, что снижает их производительность для серийной печати.</p>\n<p><strong>Видео: Процесс SLA-печати (есть рилс) + (есть рилс с серией)</strong></p>\n<p><strong>Название:</strong> &#171;Процесс печати и обработки деталей на SLA-принтере&#187;</p>\n<p>&nbsp;</p>\n<p><strong>Стоимость оборудования и расходных материалов</strong></p>\n<p>Стоимость оборудования — важный фактор при выборе технологии. LCD-принтеры являются самыми доступными, с ценами от $250 до $1500, но их экраны быстро изнашиваются, что увеличивает эксплуатационные расходы. DLP-принтеры стоят дороже (от $1000 до $10000), но проекторы обеспечивают более длительный срок службы. SLA 3D-принтеры находятся в более высоком ценовом сегменте (от $100,00 до $300,00), но их надежность и универсальность оправдывают инвестиции для профессионального и промышленного использования.</p>\n<p>Расходные материалы, такие как фотополимерные смолы, стоят примерно одинаково для всех технологий (от $30 до $250 за литр в зависимости от типа смолы). Однако выбор смол зависит от длины волны излучения, используемой в рассматриваемой технологии. Так, например, в SLA принтерах длина волны лазера обычно составляет 355 нм, а длина волны источника света, которую используют большинство LCD и DLP-принтеров – 405 нм.</p>\n<p><strong>Преимущества SLA для профессиональных задач</strong></p>\n<p>Если вам нужен 3D-принтер для задач, требующих максимальной точности, универсальности и возможности работы с большими партиями деталей, SLA 3D-принтер — это оптимальный выбор. Благодаря большим платформам построения, SLA позволяет одновременно печатать множество деталей, что идеально подходит для серийного производства. Высокая точность и поддержка широкого спектра смол делают SLA незаменимым для профессионалов в таких отраслях, как прототипирование, стоматология, ювелирное дело и производство сложных деталей.</p>\n<p>DLP и LCD могут быть хороши для хобби или небольших проектов, но их ограничения в размере платформы и долговечности делают их менее подходящими для интенсивного профессионального и промышленного использования. SLA 3D-принтеры в свою очередь обеспечивают баланс между качеством, масштабируемостью и надежностью.</p>\n<p><em><img loading=\"lazy\" decoding=\"async\" alt=\"Сравнение SLA, DLP и LCD: Какая технология фотополимерной печати подходит именно вам? - Технологии SLA и 3D-печать керамикой - AM-Tech\" decoding=\"async\" src=\"https://am-tech.ru/wp-content/uploads/2025/08/unyro2h2f6ag1yob5uaxfun19dw43msx.jpg\"></em></p>\n<p><em>Серийная 3</em><em>D</em><em>-печать на </em><em>SLA</em><em> 3</em><em>D</em><em>-принтере </em><em>AM</em><em>.</em><em>TECH</em></p>\n<p>&nbsp;</p>\n<p>Линейка SLA 3D-принтеров от компании AM.TECH включает 6 машин промышленного класса и 2 машины профессионального класса для получения высокоточных изделий. Оборудование AM.TECH обладает открытой архитектурой, что позволяет использовать его как универсальный инструмент, печатая выжигаемые модели для литья, мастер модели, функциональные изделия или осуществлять прототипирование с точностью до 0,05 мм.</p>\n<p><img loading=\"lazy\" decoding=\"async\" fetchpriority=\"high\" decoding=\"async\" src=\"https://am-tech.ru/wp-content/uploads/2025/08/l23k5yq2xl0ptwebdg1nka05lrckmqbn.png\" alt=\"Сравнение SLA, DLP и LCD: Какая технология фотополимерной печати подходит именно вам? - Технологии SLA и 3D-печать керамикой - AM-Tech\" width=\"662\" height=\"278\"></p>\n<p><strong>Заключение</strong></p>\n<p>Выбор между SLA, DLP и LCD зависит от ваших задач. Если вам нужна высокая точность и возможность печати средних и больших партий деталей, SLA 3D-принтер — это ваш лучший выбор. Его большие платформы построения и высокое качество печати делают его идеальным для профессиональных задач.</p>\n<p><img loading=\"lazy\" decoding=\"async\" decoding=\"async\" src=\"https://am-tech.ru/wp-content/uploads/2025/08/v0c8qaw7ozzqhc8l33abe1l5oelzzry4.jpg\" alt=\"Сравнение SLA, DLP и LCD: Какая технология фотополимерной печати подходит именно вам? - Технологии SLA и 3D-печать керамикой - AM-Tech\" width=\"488\" height=\"366\"></p>\n<p><em>Большая серия деталей, выполненная на </em><em>SLA</em><em> 3</em><em>D</em><em>-принтере </em></p>\n<p>&nbsp;</p>\n</div>\n</div>\n</div>\n</div>\n",
+  "protected": false,
+  "block_version": 0
+ },
+ "excerpt": {
+  "raw": "",
+  "rendered": "<p>Фотополимерная 3D-печать — это передовая технология, которая позволяет создавать высокоточные детали с использованием жидких смол, отверждаемых под воздействием света. Существует три основные технологии фотополимерной печати: SLA (лазерная стереолитография), DLP (засвечивание происходит за счет у/ф проектора) и LCD (печать с использованием жидкокристаллического дисплея). Каждая из них имеет свои преимущества и ограничения, которые определяют их применимость для [&hellip;]</p>\n",
+  "protected": false
+ },
+ "author": 1,
+ "featured_media": 2101,
+ "comment_status": "open",
+ "ping_status": "open",
+ "template": "",
+ "meta": {
+  "_acf_changed": false,
+  "_yoast_wpseo_title": "Сравнение SLA, DLP и LCD: Какая технология фотополимерной печати подходит именно вам? | AM-Tech",
+  "_yoast_wpseo_metadesc": "Какая технология фотополимерной печати подходит именно вам - новости компании AM-Tech",
+  "_yoast_wpseo_meta-robots-noindex": ""
+ },
+ "news_category": [
+  1216
+ ],
+ "news_tag": [],
+ "permalink_template": "https://am-tech.ru/news/%pagename%/",
+ "generated_slug": "sravnenie-sla-dlp-i-lcd-kakaja-tehnologija-fotopolimernoj-pechati-podhodit-imenno-vam",
+ "class_list": [
+  "post-2150",
+  "news",
+  "type-news",
+  "status-publish",
+  "has-post-thumbnail",
+  "hentry",
+  "news_category-tehnologii-sla-i-3d-pechat-keramikoj"
+ ],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Сравнение SLA, DLP и LCD: Какая технология фотополимерной печати подходит именно вам? | AM-Tech</title>\n<meta name=\"description\" content=\"Какая технология фотополимерной печати подходит именно вам - новости компании AM-Tech\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/news/sravnenie-sla-dlp-i-lcd-kakaya-tekhnologiya-fotopolimernoy-pechati-podkhodit-imenno-vam/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Сравнение SLA, DLP и LCD: Какая технология фотополимерной печати подходит именно вам? | AM-Tech\" />\n<meta property=\"og:description\" content=\"Какая технология фотополимерной печати подходит именно вам - новости компании AM-Tech\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/news/sravnenie-sla-dlp-i-lcd-kakaya-tekhnologiya-fotopolimernoy-pechati-podkhodit-imenno-vam/\" />\n<meta property=\"og:site_name\" content=\"am-tech.ru\" />\n<meta property=\"article:modified_time\" content=\"2026-02-18T11:08:06+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2025/07/am440two7jg0iyo7mhtthrfmxqn1xv40.png\" />\n\t<meta property=\"og:image:width\" content=\"700\" />\n\t<meta property=\"og:image:height\" content=\"355\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"7 минут\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/news/sravnenie-sla-dlp-i-lcd-kakaya-tekhnologiya-fotopolimernoy-pechati-podkhodit-imenno-vam/\",\"url\":\"https://am-tech.ru/news/sravnenie-sla-dlp-i-lcd-kakaya-tekhnologiya-fotopolimernoy-pechati-podkhodit-imenno-vam/\",\"name\":\"Сравнение SLA, DLP и LCD: Какая технология фотополимерной печати подходит именно вам? | AM-Tech\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/news/sravnenie-sla-dlp-i-lcd-kakaya-tekhnologiya-fotopolimernoy-pechati-podkhodit-imenno-vam/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/news/sravnenie-sla-dlp-i-lcd-kakaya-tekhnologiya-fotopolimernoy-pechati-podkhodit-imenno-vam/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2025/07/am440two7jg0iyo7mhtthrfmxqn1xv40.png\",\"datePublished\":\"2025-07-08T12:21:00+00:00\",\"dateModified\":\"2026-02-18T11:08:06+00:00\",\"description\":\"Какая технология фотополимерной печати подходит именно вам - новости компании AM-Tech\",\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/news/sravnenie-sla-dlp-i-lcd-kakaya-tekhnologiya-fotopolimernoy-pechati-podkhodit-imenno-vam/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/news/sravnenie-sla-dlp-i-lcd-kakaya-tekhnologiya-fotopolimernoy-pechati-podkhodit-imenno-vam/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2025/07/am440two7jg0iyo7mhtthrfmxqn1xv40.png\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2025/07/am440two7jg0iyo7mhtthrfmxqn1xv40.png\",\"width\":700,\"height\":355},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"am-tech.ru\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"am-tech.ru\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"am-tech.ru\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "Сравнение SLA, DLP и LCD: Какая технология фотополимерной печати подходит именно вам? | AM-Tech",
+  "description": "Какая технология фотополимерной печати подходит именно вам - новости компании AM-Tech",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/news/sravnenie-sla-dlp-i-lcd-kakaya-tekhnologiya-fotopolimernoy-pechati-podkhodit-imenno-vam/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "Сравнение SLA, DLP и LCD: Какая технология фотополимерной печати подходит именно вам? | AM-Tech",
+  "og_description": "Какая технология фотополимерной печати подходит именно вам - новости компании AM-Tech",
+  "og_url": "https://am-tech.ru/news/sravnenie-sla-dlp-i-lcd-kakaya-tekhnologiya-fotopolimernoy-pechati-podkhodit-imenno-vam/",
+  "og_site_name": "am-tech.ru",
+  "article_modified_time": "2026-02-18T11:08:06+00:00",
+  "og_image": [
+   {
+    "width": 700,
+    "height": 355,
+    "url": "https://am-tech.ru/wp-content/uploads/2025/07/am440two7jg0iyo7mhtthrfmxqn1xv40.png",
+    "type": "image/png"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "7 минут"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/news/sravnenie-sla-dlp-i-lcd-kakaya-tekhnologiya-fotopolimernoy-pechati-podkhodit-imenno-vam/",
+     "url": "https://am-tech.ru/news/sravnenie-sla-dlp-i-lcd-kakaya-tekhnologiya-fotopolimernoy-pechati-podkhodit-imenno-vam/",
+     "name": "Сравнение SLA, DLP и LCD: Какая технология фотополимерной печати подходит именно вам? | AM-Tech",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/news/sravnenie-sla-dlp-i-lcd-kakaya-tekhnologiya-fotopolimernoy-pechati-podkhodit-imenno-vam/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/news/sravnenie-sla-dlp-i-lcd-kakaya-tekhnologiya-fotopolimernoy-pechati-podkhodit-imenno-vam/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2025/07/am440two7jg0iyo7mhtthrfmxqn1xv40.png",
+     "datePublished": "2025-07-08T12:21:00+00:00",
+     "dateModified": "2026-02-18T11:08:06+00:00",
+     "description": "Какая технология фотополимерной печати подходит именно вам - новости компании AM-Tech",
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/news/sravnenie-sla-dlp-i-lcd-kakaya-tekhnologiya-fotopolimernoy-pechati-podkhodit-imenno-vam/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/news/sravnenie-sla-dlp-i-lcd-kakaya-tekhnologiya-fotopolimernoy-pechati-podkhodit-imenno-vam/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2025/07/am440two7jg0iyo7mhtthrfmxqn1xv40.png",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2025/07/am440two7jg0iyo7mhtthrfmxqn1xv40.png",
+     "width": 700,
+     "height": 355
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "am-tech.ru",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "am-tech.ru",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "am-tech.ru"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2150",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/types/news"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/users/1"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/comments?post=2150"
+   }
+  ],
+  "wp:featuredmedia": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/media/2101"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/media?parent=2150"
+   }
+  ],
+  "wp:term": [
+   {
+    "taxonomy": "news_category",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_category?post=2150"
+   },
+   {
+    "taxonomy": "news_tag",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_tag?post=2150"
+   }
+  ],
+  "wp:action-publish": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2150"
+   }
+  ],
+  "wp:action-unfiltered-html": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2150"
+   }
+  ],
+  "wp:action-assign-author": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2150"
+   }
+  ],
+  "wp:action-create-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2150"
+   }
+  ],
+  "wp:action-assign-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2150"
+   }
+  ],
+  "wp:action-create-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2150"
+   }
+  ],
+  "wp:action-assign-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2150"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}
