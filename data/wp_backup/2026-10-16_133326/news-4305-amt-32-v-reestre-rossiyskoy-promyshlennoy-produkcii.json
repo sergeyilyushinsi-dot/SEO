@@ -1,0 +1,281 @@
+{
+ "id": 4305,
+ "date": "2026-08-19T12:57:16",
+ "date_gmt": "2026-08-19T09:57:16",
+ "guid": {
+  "rendered": "https://am-tech.ru/news/amt-32-v-reestre-rossiyskoy-promyshlennoy-produkcii/",
+  "raw": "https://am-tech.ru/news/amt-32-v-reestre-rossiyskoy-promyshlennoy-produkcii/"
+ },
+ "modified": "2026-10-14T17:08:26",
+ "modified_gmt": "2026-10-14T14:08:26",
+ "password": "",
+ "slug": "amt-32-v-reestre-rossiyskoy-promyshlennoy-produkcii",
+ "status": "publish",
+ "type": "news",
+ "link": "https://am-tech.ru/news/amt-32-v-reestre-rossiyskoy-promyshlennoy-produkcii/",
+ "title": {
+  "raw": "AMT-32 включена в Реестр российской промышленной продукции ГИСП",
+  "rendered": "AMT-32 включена в Реестр российской промышленной продукции ГИСП"
+ },
+ "content": {
+  "raw": "<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n\r\nРеестр российской промышленной продукции ГИСП зафиксировал включение промышленной аддитивной установки AMT-32: реестровая запись №10901161 от 18.08.2026, срок действия — до 31.12.2027. Статус записи — «продукция российского происхождения», производство подтверждено в соответствии с требованиями постановления Правительства РФ № 719. Идентификатор карточки в ГИСП — 4963993.\r\n<h2 class=\"\">Что означает запись в Реестре российской промышленной продукции</h2>\r\n<p class=\"\">Включение оборудования в реестр ГИСП подтверждает соответствие заявленных сведений о производстве критериям, установленным правительственным нормативом. Для заказчика это означает, что сведения о происхождении и месте производства внесены в официальный реестр; это также упрощает проверку статуса поставщика при подготовке закупочной документации. Важно: сама запись в реестре не является «сертификатом» и не гарантирует автоматические преимущества во всех видах закупок — такие вопросы решаются в соответствии с конкретными правилами закупочной процедуры.</p>\r\n\r\n<h2 class=\"\">Ключевые технические параметры AMT-32</h2>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<figure>\r\n<p class=\"mod-reset\"><img src=\"https://am-tech.ru/wp-content/uploads/2026/08/amt-32-v-reestre-rossiyskoy-promyshlennoy-produkcii-section-1.jpg\" alt=\"Готовая металлическая деталь после аддитивной печати и измерительные инструменты\"></p>\r\n\r\n<figcaption>Пример детали, типичной для SLM-процесса; оценка геометрии и качества на стадии контроля</figcaption></figure>\r\n<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n<p class=\"\">AMT-32 — промышленная аддитивная установка для изготовления металлических изделий методом послойного селективного лазерного сплавления (SLM). Подтверждённые технические характеристики включают:</p>\r\n\r\n<ul class=\"\">\r\n \t<li>область построения: 320 × 320 × 370 мм;</li>\r\n \t<li>два лазера по 500 Вт;</li>\r\n \t<li>три датчика кислорода в камере печати;</li>\r\n \t<li>максимальная масса изделия: 300 кг.</li>\r\n</ul>\r\nПодробнее о модели можно ознакомиться на странице <a href=\"https://am-tech.ru/product/3d-printer-amt-32/\">AMT-32</a>.\r\n<h2>Применимость технологии SLM на производстве: преимущества и ограничения</h2>\r\nСелективное лазерное сплавление применимо там, где требуется сложная геометрия, интеграция функций в одном узле или сокращение числа сборочных соединений. SLM позволяет получать плотные металлические детали с внутренними каналами и топологически оптимизированными структурами, что актуально для авиации, энергетики, приборостроения и высокотехнологичных узлов машиностроения.\r\n<p class=\"\">При выборе технологии полезно соотнести практические требования к детали с возможностями платформы: объём построения, масса готовой детали, возможности постобработки и требования к атмосфере печати. Для сопоставления SLM с альтернативами по применимости можно обратиться к обзорному материалу <a href=\"https://am-tech.ru/news/slm-ebm-i-mbj-kakuju-tehnologiju-vybrat-dlja-metallicheskih-detalej/\">SLM, EBM и MBJ: какую технологию выбрать</a>, где рассмотрены типичные случаи использования и ограничения каждой технологии.</p>\r\n\r\n<h2 class=\"\">Практические сценарии внедрения и инженерные ограничения</h2>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n<p class=\"\">При подготовке проекта внедрения аддитивного производства учитывайте следующие инженерные аспекты:</p>\r\n\r\n<ul class=\"\">\r\n \t<li>соответствие габаритов изделия области построения 320 × 320 × 370 мм; детали крупнее этой области требуют сегментации или выбора иной платформы;</li>\r\n \t<li>масса готовой детали до 300 кг накладывает требования на оснастку и систему подъёма при постобработке и контрольных операциях;</li>\r\n \t<li>наличие трёх датчиков кислорода указывает на внимание к контролю атмосферы в камере — это важно при работе с материалами, чувствительными к содержанию кислорода;</li>\r\n \t<li>использование двух лазеров по 500 Вт позволяет планировать параллельную обработку зон, однако особенности наладки двухлазерных систем и стратегии сканирования нужно прорабатывать на стадии технологической квалификации;</li>\r\n \t<li>организационные требования: квалификация операторов, отладка процесса и план постобработки (механическая обработка, термообработка, контроль качества) остаются критическими элементами внедрения.</li>\r\n</ul>\r\nДля общего каталога промышленных решений и подбора оборудования можно ориентироваться на <a href=\"https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/\">SLM 3D-принтеры</a> и общий <a href=\"https://am-tech.ru/katalog/\">Каталог AM.TECH</a>.\r\n<h2 class=\"\">Вывод</h2>\r\n<p class=\"\">Включение AMT-32 в Реестр ГИСП фиксирует статус продукции российского происхождения и даёт официальную точку отсчёта для закупочной и проектной документации. Технические параметры установки делают её релевантной для производства сложных металличес деталей в пределах заявленного объёма и массы. Оценка целесообразности внедрения должна основываться на сопоставлении проектных требований к деталям, доступной постобработке и квалификации технологов.</p>\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+  "rendered": "<div class=\"boldgrid-section\">\n<div class=\"container\">\n<div class=\"row\">\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\n<p>Реестр российской промышленной продукции ГИСП зафиксировал включение промышленной аддитивной установки AMT-32: реестровая запись №10901161 от 18.08.2026, срок действия — до 31.12.2027. Статус записи — «продукция российского происхождения», производство подтверждено в соответствии с требованиями постановления Правительства РФ № 719. Идентификатор карточки в ГИСП — 4963993.</p>\n<h2 class=\"\">Что означает запись в Реестре российской промышленной продукции</h2>\n<p class=\"\">Включение оборудования в реестр ГИСП подтверждает соответствие заявленных сведений о производстве критериям, установленным правительственным нормативом. Для заказчика это означает, что сведения о происхождении и месте производства внесены в официальный реестр; это также упрощает проверку статуса поставщика при подготовке закупочной документации. Важно: сама запись в реестре не является «сертификатом» и не гарантирует автоматические преимущества во всех видах закупок — такие вопросы решаются в соответствии с конкретными правилами закупочной процедуры.</p>\n<h2 class=\"\">Ключевые технические параметры AMT-32</h2>\n</div>\n</div>\n</div>\n</div>\n<figure>\n<p class=\"mod-reset\"><img loading=\"lazy\" decoding=\"async\" decoding=\"async\" src=\"https://am-tech.ru/wp-content/uploads/2026/08/amt-32-v-reestre-rossiyskoy-promyshlennoy-produkcii-section-1.jpg\" alt=\"Готовая металлическая деталь после аддитивной печати и измерительные инструменты\"></p><figcaption>Пример детали, типичной для SLM-процесса; оценка геометрии и качества на стадии контроля</figcaption></figure>\n<div class=\"boldgrid-section\">\n<div class=\"container\">\n<div class=\"row\">\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\n<p class=\"\">AMT-32 — промышленная аддитивная установка для изготовления металлических изделий методом послойного селективного лазерного сплавления (SLM). Подтверждённые технические характеристики включают:</p>\n<ul class=\"\">\n<li>область построения: 320 × 320 × 370 мм;</li>\n<li>два лазера по 500 Вт;</li>\n<li>три датчика кислорода в камере печати;</li>\n<li>максимальная масса изделия: 300 кг.</li>\n</ul>\n<p>Подробнее о модели можно ознакомиться на странице <a href=\"https://am-tech.ru/product/3d-printer-amt-32/\">AMT-32</a>.</p>\n<h2>Применимость технологии SLM на производстве: преимущества и ограничения</h2>\n<p>Селективное лазерное сплавление применимо там, где требуется сложная геометрия, интеграция функций в одном узле или сокращение числа сборочных соединений. SLM позволяет получать плотные металлические детали с внутренними каналами и топологически оптимизированными структурами, что актуально для авиации, энергетики, приборостроения и высокотехнологичных узлов машиностроения.</p>\n<p class=\"\">При выборе технологии полезно соотнести практические требования к детали с возможностями платформы: объём построения, масса готовой детали, возможности постобработки и требования к атмосфере печати. Для сопоставления SLM с альтернативами по применимости можно обратиться к обзорному материалу <a href=\"https://am-tech.ru/news/slm-ebm-i-mbj-kakuju-tehnologiju-vybrat-dlja-metallicheskih-detalej/\">SLM, EBM и MBJ: какую технологию выбрать</a>, где рассмотрены типичные случаи использования и ограничения каждой технологии.</p>\n<h2 class=\"\">Практические сценарии внедрения и инженерные ограничения</h2>\n</div>\n</div>\n</div>\n</div>\n<div class=\"boldgrid-section\">\n<div class=\"container\">\n<div class=\"row\">\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\n<p class=\"\">При подготовке проекта внедрения аддитивного производства учитывайте следующие инженерные аспекты:</p>\n<ul class=\"\">\n<li>соответствие габаритов изделия области построения 320 × 320 × 370 мм; детали крупнее этой области требуют сегментации или выбора иной платформы;</li>\n<li>масса готовой детали до 300 кг накладывает требования на оснастку и систему подъёма при постобработке и контрольных операциях;</li>\n<li>наличие трёх датчиков кислорода указывает на внимание к контролю атмосферы в камере — это важно при работе с материалами, чувствительными к содержанию кислорода;</li>\n<li>использование двух лазеров по 500 Вт позволяет планировать параллельную обработку зон, однако особенности наладки двухлазерных систем и стратегии сканирования нужно прорабатывать на стадии технологической квалификации;</li>\n<li>организационные требования: квалификация операторов, отладка процесса и план постобработки (механическая обработка, термообработка, контроль качества) остаются критическими элементами внедрения.</li>\n</ul>\n<p>Для общего каталога промышленных решений и подбора оборудования можно ориентироваться на <a href=\"https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/\">SLM 3D-принтеры</a> и общий <a href=\"https://am-tech.ru/katalog/\">Каталог AM.TECH</a>.</p>\n<h2 class=\"\">Вывод</h2>\n<p class=\"\">Включение AMT-32 в Реестр ГИСП фиксирует статус продукции российского происхождения и даёт официальную точку отсчёта для закупочной и проектной документации. Технические параметры установки делают её релевантной для производства сложных металличес деталей в пределах заявленного объёма и массы. Оценка целесообразности внедрения должна основываться на сопоставлении проектных требований к деталям, доступной постобработке и квалификации технологов.</p>\n</div>\n</div>\n</div>\n</div>\n",
+  "protected": false,
+  "block_version": 0
+ },
+ "excerpt": {
+  "raw": "",
+  "rendered": "<p>Реестр российской промышленной продукции ГИСП зафиксировал включение промышленной аддитивной установки AMT-32: реестровая запись №10901161 от 18.08.2026, срок действия — до 31.12.2027. Статус записи — «продукция российского происхождения», производство подтверждено в соответствии с требованиями постановления Правительства РФ № 719. Идентификатор карточки в ГИСП — 4963993. Что означает запись в Реестре российской промышленной продукции Включение оборудования в [&hellip;]</p>\n",
+  "protected": false
+ },
+ "author": 6,
+ "featured_media": 4308,
+ "comment_status": "open",
+ "ping_status": "closed",
+ "template": "",
+ "meta": {
+  "_acf_changed": false,
+  "_yoast_wpseo_title": "AMT-32 включена в Реестр российской промышленной продукции ГИСП",
+  "_yoast_wpseo_metadesc": "AMT-32 включена в Реестр российской промышленной продукции (запись №10901161). Технические характеристики и значение для промышленного аддитивного производства.",
+  "_yoast_wpseo_meta-robots-noindex": ""
+ },
+ "news_category": [
+  1107,
+  1218,
+  970
+ ],
+ "news_tag": [],
+ "permalink_template": "https://am-tech.ru/news/%pagename%/",
+ "generated_slug": "amt-32-vkljuchena-v-reestr-rossijskoj-promyshlennoj-produkcii-gisp",
+ "class_list": [
+  "post-4305",
+  "news",
+  "type-news",
+  "status-publish",
+  "has-post-thumbnail",
+  "hentry",
+  "news_category-3d-pechat-metallami",
+  "news_category-linejka-3d-printerov-amt",
+  "news_category-novosti"
+ ],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>AMT-32 включена в Реестр российской промышленной продукции ГИСП</title>\n<meta name=\"description\" content=\"AMT-32 включена в Реестр российской промышленной продукции (запись №10901161). Технические характеристики и значение для промышленного аддитивного производства.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/news/amt-32-v-reestre-rossiyskoy-promyshlennoy-produkcii/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"AMT-32 включена в Реестр российской промышленной продукции ГИСП\" />\n<meta property=\"og:description\" content=\"AMT-32 включена в Реестр российской промышленной продукции (запись №10901161). Технические характеристики и значение для промышленного аддитивного производства.\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/news/amt-32-v-reestre-rossiyskoy-promyshlennoy-produkcii/\" />\n<meta property=\"og:site_name\" content=\"am-tech.ru\" />\n<meta property=\"article:modified_time\" content=\"2026-10-14T14:08:26+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2026/08/gisp-amt-1.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1254\" />\n\t<meta property=\"og:image:height\" content=\"1254\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"3 минуты\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/news/amt-32-v-reestre-rossiyskoy-promyshlennoy-produkcii/\",\"url\":\"https://am-tech.ru/news/amt-32-v-reestre-rossiyskoy-promyshlennoy-produkcii/\",\"name\":\"AMT-32 включена в Реестр российской промышленной продукции ГИСП\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/news/amt-32-v-reestre-rossiyskoy-promyshlennoy-produkcii/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/news/amt-32-v-reestre-rossiyskoy-promyshlennoy-produkcii/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2026/08/gisp-amt-1.jpg\",\"datePublished\":\"2026-08-19T09:57:16+00:00\",\"dateModified\":\"2026-10-14T14:08:26+00:00\",\"description\":\"AMT-32 включена в Реестр российской промышленной продукции (запись №10901161). Технические характеристики и значение для промышленного аддитивного производства.\",\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/news/amt-32-v-reestre-rossiyskoy-promyshlennoy-produkcii/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/news/amt-32-v-reestre-rossiyskoy-promyshlennoy-produkcii/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2026/08/gisp-amt-1.jpg\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2026/08/gisp-amt-1.jpg\",\"width\":1254,\"height\":1254},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"am-tech.ru\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"am-tech.ru\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"am-tech.ru\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "AMT-32 включена в Реестр российской промышленной продукции ГИСП",
+  "description": "AMT-32 включена в Реестр российской промышленной продукции (запись №10901161). Технические характеристики и значение для промышленного аддитивного производства.",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/news/amt-32-v-reestre-rossiyskoy-promyshlennoy-produkcii/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "AMT-32 включена в Реестр российской промышленной продукции ГИСП",
+  "og_description": "AMT-32 включена в Реестр российской промышленной продукции (запись №10901161). Технические характеристики и значение для промышленного аддитивного производства.",
+  "og_url": "https://am-tech.ru/news/amt-32-v-reestre-rossiyskoy-promyshlennoy-produkcii/",
+  "og_site_name": "am-tech.ru",
+  "article_modified_time": "2026-10-14T14:08:26+00:00",
+  "og_image": [
+   {
+    "width": 1254,
+    "height": 1254,
+    "url": "https://am-tech.ru/wp-content/uploads/2026/08/gisp-amt-1.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "3 минуты"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/news/amt-32-v-reestre-rossiyskoy-promyshlennoy-produkcii/",
+     "url": "https://am-tech.ru/news/amt-32-v-reestre-rossiyskoy-promyshlennoy-produkcii/",
+     "name": "AMT-32 включена в Реестр российской промышленной продукции ГИСП",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/news/amt-32-v-reestre-rossiyskoy-promyshlennoy-produkcii/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/news/amt-32-v-reestre-rossiyskoy-promyshlennoy-produkcii/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2026/08/gisp-amt-1.jpg",
+     "datePublished": "2026-08-19T09:57:16+00:00",
+     "dateModified": "2026-10-14T14:08:26+00:00",
+     "description": "AMT-32 включена в Реестр российской промышленной продукции (запись №10901161). Технические характеристики и значение для промышленного аддитивного производства.",
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/news/amt-32-v-reestre-rossiyskoy-promyshlennoy-produkcii/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/news/amt-32-v-reestre-rossiyskoy-promyshlennoy-produkcii/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2026/08/gisp-amt-1.jpg",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2026/08/gisp-amt-1.jpg",
+     "width": 1254,
+     "height": 1254
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "am-tech.ru",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "am-tech.ru",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "am-tech.ru"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/4305",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/types/news"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/users/6"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/comments?post=4305"
+   }
+  ],
+  "wp:featuredmedia": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/media/4308"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/media?parent=4305"
+   }
+  ],
+  "wp:term": [
+   {
+    "taxonomy": "news_category",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_category?post=4305"
+   },
+   {
+    "taxonomy": "news_tag",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_tag?post=4305"
+   }
+  ],
+  "wp:action-publish": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/4305"
+   }
+  ],
+  "wp:action-unfiltered-html": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/4305"
+   }
+  ],
+  "wp:action-assign-author": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/4305"
+   }
+  ],
+  "wp:action-create-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/4305"
+   }
+  ],
+  "wp:action-assign-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/4305"
+   }
+  ],
+  "wp:action-create-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/4305"
+   }
+  ],
+  "wp:action-assign-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/4305"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}
