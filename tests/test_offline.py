@@ -188,6 +188,10 @@ def test_wp_category_yoast_fields():
                                  {"field": "description", "value": "Новое описание"}], "category")
     assert body == {"yoast_seo": {"title": "SLM 3D-принтеры — купить | AM-Tech", "desc": "Новое описание"}}
     assert wp.get_value(cat, "description", "category") == "Старое"
+    # Одно поле Yoast — второе передаётся текущим значением, иначе Yoast его сотрёт.
+    body = wp.build_update(cat, [{"field": "title", "value": "SLM | AM.TECH"}], "category")
+    assert body == {"yoast_seo": {"title": "SLM | AM.TECH", "desc": "Старое"}}
+    assert cat["yoast_seo"] == {"title": "", "desc": "Старое"}
     try:  # без сниппета поля в ответе API нет
         wp.build_update({"slug": "x", "description": ""}, [{"field": "title", "value": "T"}], "category")
         assert False, "должна быть ошибка"

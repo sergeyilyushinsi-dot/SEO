@@ -1,0 +1,274 @@
+{
+ "id": 2105,
+ "date": "2022-10-27T15:40:00",
+ "date_gmt": "2022-10-27T12:40:00",
+ "guid": {
+  "rendered": "http://am-tech.ru/news/my-pouchastvovali-v-tekhnoforume-2022/",
+  "raw": "http://am-tech.ru/news/my-pouchastvovali-v-tekhnoforume-2022/"
+ },
+ "modified": "2026-10-13T17:24:58",
+ "modified_gmt": "2026-10-13T14:24:58",
+ "password": "",
+ "slug": "my-pouchastvovali-v-tekhnoforume-2022",
+ "status": "publish",
+ "type": "news",
+ "link": "https://am-tech.ru/news/my-pouchastvovali-v-tekhnoforume-2022/",
+ "title": {
+  "raw": "Мы на Технофоруме 2022",
+  "rendered": "Мы на Технофоруме 2022"
+ },
+ "content": {
+  "raw": "<p>\n\t Наша компания приняла участие в Технофоруме 2022. Мероприятие проходило в Москве. Цель выставки — укрепление партнерских отношений между участниками рынка в России.\n</p>\n<p>\n\t Выставка является эффективной площадкой для экспонентов и посетителей, где демонстрируется новейшее оборудование и промышленные 3D-принтеры для различных секторов машиностроения, станкостроения и разработки конструкционных материалов.\n</p>",
+  "rendered": "<p>\n\t Наша компания приняла участие в Технофоруме 2022. Мероприятие проходило в Москве. Цель выставки — укрепление партнерских отношений между участниками рынка в России.\n</p>\n<p>\n\t Выставка является эффективной площадкой для экспонентов и посетителей, где демонстрируется новейшее оборудование и промышленные 3D-принтеры для различных секторов машиностроения, станкостроения и разработки конструкционных материалов.</p>\n",
+  "protected": false,
+  "block_version": 0
+ },
+ "excerpt": {
+  "raw": "",
+  "rendered": "<p>Наша компания приняла участие в Технофоруме 2022. Мероприятие проходило в Москве. Цель выставки — укрепление партнерских отношений между участниками рынка в России. Выставка является эффективной площадкой для экспонентов и посетителей, где демонстрируется новейшее оборудование и промышленные 3D-принтеры для различных секторов машиностроения, станкостроения и разработки конструкционных материалов.</p>\n",
+  "protected": false
+ },
+ "author": 1,
+ "featured_media": 2027,
+ "comment_status": "open",
+ "ping_status": "open",
+ "template": "",
+ "meta": {
+  "_acf_changed": false,
+  "_yoast_wpseo_title": "Мы на Технофоруме 2022 | AM-Tech",
+  "_yoast_wpseo_metadesc": "Заказать на Технофоруме 2022 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91",
+  "_yoast_wpseo_meta-robots-noindex": ""
+ },
+ "news_category": [
+  970
+ ],
+ "news_tag": [],
+ "permalink_template": "https://am-tech.ru/news/%pagename%/",
+ "generated_slug": "my-na-tehnoforume-2022",
+ "class_list": [
+  "post-2105",
+  "news",
+  "type-news",
+  "status-publish",
+  "has-post-thumbnail",
+  "hentry",
+  "news_category-novosti"
+ ],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Мы на Технофоруме 2022 | AM-Tech</title>\n<meta name=\"description\" content=\"Заказать на Технофоруме 2022 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/news/my-pouchastvovali-v-tekhnoforume-2022/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Мы на Технофоруме 2022 | AM-Tech\" />\n<meta property=\"og:description\" content=\"Заказать на Технофоруме 2022 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/news/my-pouchastvovali-v-tekhnoforume-2022/\" />\n<meta property=\"og:site_name\" content=\"AM.TECH\" />\n<meta property=\"article:modified_time\" content=\"2026-10-13T14:24:58+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2022/10/28w05kg1onxjvvexhar3jm1kmbhp664w.jpg\" />\n\t<meta property=\"og:image:width\" content=\"700\" />\n\t<meta property=\"og:image:height\" content=\"292\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/news/my-pouchastvovali-v-tekhnoforume-2022/\",\"url\":\"https://am-tech.ru/news/my-pouchastvovali-v-tekhnoforume-2022/\",\"name\":\"Мы на Технофоруме 2022 | AM-Tech\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/news/my-pouchastvovali-v-tekhnoforume-2022/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/news/my-pouchastvovali-v-tekhnoforume-2022/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2022/10/28w05kg1onxjvvexhar3jm1kmbhp664w.jpg\",\"datePublished\":\"2022-10-27T12:40:00+00:00\",\"dateModified\":\"2026-10-13T14:24:58+00:00\",\"description\":\"Заказать на Технофоруме 2022 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91\",\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/news/my-pouchastvovali-v-tekhnoforume-2022/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/news/my-pouchastvovali-v-tekhnoforume-2022/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2022/10/28w05kg1onxjvvexhar3jm1kmbhp664w.jpg\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2022/10/28w05kg1onxjvvexhar3jm1kmbhp664w.jpg\",\"width\":700,\"height\":292},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"AM.TECH\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"AM.TECH\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"AM.TECH\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "Мы на Технофоруме 2022 | AM-Tech",
+  "description": "Заказать на Технофоруме 2022 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/news/my-pouchastvovali-v-tekhnoforume-2022/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "Мы на Технофоруме 2022 | AM-Tech",
+  "og_description": "Заказать на Технофоруме 2022 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91",
+  "og_url": "https://am-tech.ru/news/my-pouchastvovali-v-tekhnoforume-2022/",
+  "og_site_name": "AM.TECH",
+  "article_modified_time": "2026-10-13T14:24:58+00:00",
+  "og_image": [
+   {
+    "width": 700,
+    "height": 292,
+    "url": "https://am-tech.ru/wp-content/uploads/2022/10/28w05kg1onxjvvexhar3jm1kmbhp664w.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/news/my-pouchastvovali-v-tekhnoforume-2022/",
+     "url": "https://am-tech.ru/news/my-pouchastvovali-v-tekhnoforume-2022/",
+     "name": "Мы на Технофоруме 2022 | AM-Tech",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/news/my-pouchastvovali-v-tekhnoforume-2022/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/news/my-pouchastvovali-v-tekhnoforume-2022/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2022/10/28w05kg1onxjvvexhar3jm1kmbhp664w.jpg",
+     "datePublished": "2022-10-27T12:40:00+00:00",
+     "dateModified": "2026-10-13T14:24:58+00:00",
+     "description": "Заказать на Технофоруме 2022 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91",
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/news/my-pouchastvovali-v-tekhnoforume-2022/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/news/my-pouchastvovali-v-tekhnoforume-2022/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2022/10/28w05kg1onxjvvexhar3jm1kmbhp664w.jpg",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2022/10/28w05kg1onxjvvexhar3jm1kmbhp664w.jpg",
+     "width": 700,
+     "height": 292
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "AM.TECH",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "AM.TECH",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "AM.TECH"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2105",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/types/news"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/users/1"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/comments?post=2105"
+   }
+  ],
+  "wp:featuredmedia": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/media/2027"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/media?parent=2105"
+   }
+  ],
+  "wp:term": [
+   {
+    "taxonomy": "news_category",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_category?post=2105"
+   },
+   {
+    "taxonomy": "news_tag",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_tag?post=2105"
+   }
+  ],
+  "wp:action-publish": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2105"
+   }
+  ],
+  "wp:action-unfiltered-html": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2105"
+   }
+  ],
+  "wp:action-assign-author": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2105"
+   }
+  ],
+  "wp:action-create-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2105"
+   }
+  ],
+  "wp:action-assign-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2105"
+   }
+  ],
+  "wp:action-create-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2105"
+   }
+  ],
+  "wp:action-assign-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2105"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

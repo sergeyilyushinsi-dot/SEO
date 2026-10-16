@@ -1,0 +1,279 @@
+{
+ "id": 2139,
+ "date": "2025-02-28T00:00:00",
+ "date_gmt": "2025-02-27T21:00:00",
+ "guid": {
+  "rendered": "http://am-tech.ru/news/demo-den-tekhnologii-mbj-na-moskovskom-tsifrovom-zavode-kak-eto-bylo/",
+  "raw": "http://am-tech.ru/news/demo-den-tekhnologii-mbj-na-moskovskom-tsifrovom-zavode-kak-eto-bylo/"
+ },
+ "modified": "2026-10-14T17:12:04",
+ "modified_gmt": "2026-10-14T14:12:04",
+ "password": "",
+ "slug": "demo-den-tekhnologii-mbj-na-moskovskom-tsifrovom-zavode-kak-eto-bylo",
+ "status": "publish",
+ "type": "news",
+ "link": "https://am-tech.ru/news/demo-den-tekhnologii-mbj-na-moskovskom-tsifrovom-zavode-kak-eto-bylo/",
+ "title": {
+  "raw": "Демо-день технологии MBJ на Московском Цифровом Заводе.  Как это было?",
+  "rendered": "Демо-день технологии MBJ на Московском Цифровом Заводе.  Как это было?"
+ },
+ "content": {
+  "raw": "<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n\r\n27 февраля на территории нашего Московского Цифрового Завода прошел первый в этом году демонстрационный день, посвященный технологии печати металлических изделий методом Metal Binder Jetting.\r\n\r\nМы поговорили о рынке и тенденциях, технологии MBJ, ее возможностях, уделили много внимания кейсам и показали наш парк оборудования и различные примеры печати.\r\n\r\nМы благодарим всех участников демо дня и в ближайшее время анонсируем следующее мероприятие, посвященное технологиям SLM и EBM для печати металлом.\r\n\r\nСмотрите видео о мероприятии. В нем поговорили с посетителями, ведущим и показали, как все проходило:\r\n\r\n\r\n\r\nЕсли вам не удалось посетить мероприятие, мы можем организовать для Вас демонстрацию в частном порядке. Для этого отправляйте запрос на нашу почту: office@am.tech или звоните +7 (495) 109-11-91\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+  "rendered": "<div class=\"boldgrid-section\">\n<div class=\"container\">\n<div class=\"row\">\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\n<p>27 февраля на территории нашего Московского Цифрового Завода прошел первый в этом году демонстрационный день, посвященный технологии печати металлических изделий методом Metal Binder Jetting.</p>\n<p>Мы поговорили о рынке и тенденциях, технологии MBJ, ее возможностях, уделили много внимания кейсам и показали наш парк оборудования и различные примеры печати.</p>\n<p>Мы благодарим всех участников демо дня и в ближайшее время анонсируем следующее мероприятие, посвященное технологиям SLM и EBM для печати металлом.</p>\n<p>Смотрите видео о мероприятии. В нем поговорили с посетителями, ведущим и показали, как все проходило:</p>\n<p>Если вам не удалось посетить мероприятие, мы можем организовать для Вас демонстрацию в частном порядке. Для этого отправляйте запрос на нашу почту: office@am.tech или звоните +7 (495) 109-11-91</p>\n</div>\n</div>\n</div>\n</div>\n",
+  "protected": false,
+  "block_version": 0
+ },
+ "excerpt": {
+  "raw": "",
+  "rendered": "<p>27 февраля на территории нашего Московского Цифрового Завода прошел первый в этом году демонстрационный день, посвященный технологии печати металлических изделий методом Metal Binder Jetting. Мы поговорили о рынке и тенденциях, технологии MBJ, ее возможностях, уделили много внимания кейсам и показали наш парк оборудования и различные примеры печати. Мы благодарим всех участников демо дня и в [&hellip;]</p>\n",
+  "protected": false
+ },
+ "author": 1,
+ "featured_media": 2080,
+ "comment_status": "open",
+ "ping_status": "open",
+ "template": "",
+ "meta": {
+  "_acf_changed": false,
+  "_yoast_wpseo_title": "Демо-день MBJ на Московском цифровом заводе: как это было | AM-Tech",
+  "_yoast_wpseo_metadesc": "Заказать технологии MBJ на Московском Цифровом Заводе. Как это было - новости компании AM-Tech",
+  "_yoast_wpseo_meta-robots-noindex": ""
+ },
+ "news_category": [
+  970,
+  1212
+ ],
+ "news_tag": [],
+ "permalink_template": "https://am-tech.ru/news/%pagename%/",
+ "generated_slug": "demo-den-tehnologii-mbj-na-moskovskom-cifrovom-zavode-kak-jeto-bylo",
+ "class_list": [
+  "post-2139",
+  "news",
+  "type-news",
+  "status-publish",
+  "has-post-thumbnail",
+  "hentry",
+  "news_category-novosti",
+  "news_category-sobytija-i-vystavki"
+ ],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Демо-день MBJ на Московском цифровом заводе: как это было | AM-Tech</title>\n<meta name=\"description\" content=\"Заказать технологии MBJ на Московском Цифровом Заводе. Как это было - новости компании AM-Tech\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/news/demo-den-tekhnologii-mbj-na-moskovskom-tsifrovom-zavode-kak-eto-bylo/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Демо-день MBJ на Московском цифровом заводе: как это было | AM-Tech\" />\n<meta property=\"og:description\" content=\"Заказать технологии MBJ на Московском Цифровом Заводе. Как это было - новости компании AM-Tech\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/news/demo-den-tekhnologii-mbj-na-moskovskom-tsifrovom-zavode-kak-eto-bylo/\" />\n<meta property=\"og:site_name\" content=\"AM.TECH\" />\n<meta property=\"article:modified_time\" content=\"2026-10-14T14:12:04+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2025/02/q78iy2je29dn9qviz0pze3kw0gqozfj2.png\" />\n\t<meta property=\"og:image:width\" content=\"700\" />\n\t<meta property=\"og:image:height\" content=\"460\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"1 минута\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/news/demo-den-tekhnologii-mbj-na-moskovskom-tsifrovom-zavode-kak-eto-bylo/\",\"url\":\"https://am-tech.ru/news/demo-den-tekhnologii-mbj-na-moskovskom-tsifrovom-zavode-kak-eto-bylo/\",\"name\":\"Демо-день MBJ на Московском цифровом заводе: как это было | AM-Tech\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/news/demo-den-tekhnologii-mbj-na-moskovskom-tsifrovom-zavode-kak-eto-bylo/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/news/demo-den-tekhnologii-mbj-na-moskovskom-tsifrovom-zavode-kak-eto-bylo/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2025/02/q78iy2je29dn9qviz0pze3kw0gqozfj2.png\",\"datePublished\":\"2025-02-27T21:00:00+00:00\",\"dateModified\":\"2026-10-14T14:12:04+00:00\",\"description\":\"Заказать технологии MBJ на Московском Цифровом Заводе. Как это было - новости компании AM-Tech\",\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/news/demo-den-tekhnologii-mbj-na-moskovskom-tsifrovom-zavode-kak-eto-bylo/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/news/demo-den-tekhnologii-mbj-na-moskovskom-tsifrovom-zavode-kak-eto-bylo/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2025/02/q78iy2je29dn9qviz0pze3kw0gqozfj2.png\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2025/02/q78iy2je29dn9qviz0pze3kw0gqozfj2.png\",\"width\":700,\"height\":460},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"AM.TECH\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"AM.TECH\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"AM.TECH\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "Демо-день MBJ на Московском цифровом заводе: как это было | AM-Tech",
+  "description": "Заказать технологии MBJ на Московском Цифровом Заводе. Как это было - новости компании AM-Tech",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/news/demo-den-tekhnologii-mbj-na-moskovskom-tsifrovom-zavode-kak-eto-bylo/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "Демо-день MBJ на Московском цифровом заводе: как это было | AM-Tech",
+  "og_description": "Заказать технологии MBJ на Московском Цифровом Заводе. Как это было - новости компании AM-Tech",
+  "og_url": "https://am-tech.ru/news/demo-den-tekhnologii-mbj-na-moskovskom-tsifrovom-zavode-kak-eto-bylo/",
+  "og_site_name": "AM.TECH",
+  "article_modified_time": "2026-10-14T14:12:04+00:00",
+  "og_image": [
+   {
+    "width": 700,
+    "height": 460,
+    "url": "https://am-tech.ru/wp-content/uploads/2025/02/q78iy2je29dn9qviz0pze3kw0gqozfj2.png",
+    "type": "image/png"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "1 минута"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/news/demo-den-tekhnologii-mbj-na-moskovskom-tsifrovom-zavode-kak-eto-bylo/",
+     "url": "https://am-tech.ru/news/demo-den-tekhnologii-mbj-na-moskovskom-tsifrovom-zavode-kak-eto-bylo/",
+     "name": "Демо-день MBJ на Московском цифровом заводе: как это было | AM-Tech",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/news/demo-den-tekhnologii-mbj-na-moskovskom-tsifrovom-zavode-kak-eto-bylo/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/news/demo-den-tekhnologii-mbj-na-moskovskom-tsifrovom-zavode-kak-eto-bylo/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2025/02/q78iy2je29dn9qviz0pze3kw0gqozfj2.png",
+     "datePublished": "2025-02-27T21:00:00+00:00",
+     "dateModified": "2026-10-14T14:12:04+00:00",
+     "description": "Заказать технологии MBJ на Московском Цифровом Заводе. Как это было - новости компании AM-Tech",
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/news/demo-den-tekhnologii-mbj-na-moskovskom-tsifrovom-zavode-kak-eto-bylo/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/news/demo-den-tekhnologii-mbj-na-moskovskom-tsifrovom-zavode-kak-eto-bylo/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2025/02/q78iy2je29dn9qviz0pze3kw0gqozfj2.png",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2025/02/q78iy2je29dn9qviz0pze3kw0gqozfj2.png",
+     "width": 700,
+     "height": 460
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "AM.TECH",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "AM.TECH",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "AM.TECH"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2139",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/types/news"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/users/1"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/comments?post=2139"
+   }
+  ],
+  "wp:featuredmedia": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/media/2080"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/media?parent=2139"
+   }
+  ],
+  "wp:term": [
+   {
+    "taxonomy": "news_category",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_category?post=2139"
+   },
+   {
+    "taxonomy": "news_tag",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_tag?post=2139"
+   }
+  ],
+  "wp:action-publish": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2139"
+   }
+  ],
+  "wp:action-unfiltered-html": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2139"
+   }
+  ],
+  "wp:action-assign-author": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2139"
+   }
+  ],
+  "wp:action-create-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2139"
+   }
+  ],
+  "wp:action-assign-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2139"
+   }
+  ],
+  "wp:action-create-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2139"
+   }
+  ],
+  "wp:action-assign-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2139"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

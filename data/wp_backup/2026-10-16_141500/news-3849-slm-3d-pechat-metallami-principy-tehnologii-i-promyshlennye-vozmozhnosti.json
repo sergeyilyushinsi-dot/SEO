@@ -1,0 +1,296 @@
+{
+ "id": 3849,
+ "date": "2026-02-11T10:33:19",
+ "date_gmt": "2026-02-11T07:33:19",
+ "guid": {
+  "rendered": "https://am-tech.ru/?post_type=news&#038;p=3849",
+  "raw": "https://am-tech.ru/?post_type=news&#038;p=3849"
+ },
+ "modified": "2026-10-14T17:09:47",
+ "modified_gmt": "2026-10-14T14:09:47",
+ "password": "",
+ "slug": "slm-3d-pechat-metallami-principy-tehnologii-i-promyshlennye-vozmozhnosti",
+ "status": "publish",
+ "type": "news",
+ "link": "https://am-tech.ru/news/slm-3d-pechat-metallami-principy-tehnologii-i-promyshlennye-vozmozhnosti/",
+ "title": {
+  "raw": "SLM 3D-печать металлами: принципы технологии и промышленные возможности",
+  "rendered": "SLM 3D-печать металлами: принципы технологии и промышленные возможности"
+ },
+ "content": {
+  "raw": "<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\" style=\"padding-bottom: 40px;\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n<p class=\"\"><strong>Итоги вебинара AM.TECH</strong></p>\r\n<p class=\"\" data-start=\"450\" data-end=\"858\">Компания <strong data-start=\"466\" data-end=\"511\">&nbsp;– AM.TECH</strong>&nbsp;провела отраслевой вебинар, посвящённый технологии <strong data-start=\"563\" data-end=\"596\">SLM (Selective Laser Melting)</strong> — селективному лазерному сплавлению металлов. В рамках мероприятия были подробно рассмотрены принципы работы технологии, этапы технологического процесса, постобработка, примеры промышленных деталей и возможности отечественных <a href=\"https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/\">SLM-установок</a> производства AM.TECH.</p>\r\n<p class=\"\" data-start=\"860\" data-end=\"962\">Ниже приводим краткий обзор ключевых тем вебинара. В конце страницы доступна <strong data-start=\"937\" data-end=\"961\">видеозапись вебинара</strong>.</p>\r\n\r\n<h2 class=\"\" data-start=\"860\" data-end=\"962\">Что такое SLM 3D-печать металлами</h2>\r\n<p class=\"\" data-start=\"1007\" data-end=\"1340\"><strong data-start=\"1007\" data-end=\"1048\">SLM (селективное лазерное сплавление)</strong> — это технология аддитивного производства, при которой металлический порошок послойно сплавляется лазерным лучом в защитной газовой среде. В результате формируется деталь с высокой плотностью, точной геометрией и механическими свойствами, сопоставимыми с традиционными методами производства.</p>\r\n<p data-start=\"1342\" data-end=\"1386\">SLM-технология применяется для изготовления:</p>\r\n\r\n<ul class=\"\" data-start=\"1387\" data-end=\"1518\">\r\n \t<li data-start=\"1387\" data-end=\"1412\">\r\n<p data-start=\"1389\" data-end=\"1412\">функциональных деталей,</p>\r\n</li>\r\n \t<li data-start=\"1413\" data-end=\"1442\">\r\n<p data-start=\"1415\" data-end=\"1442\">сложных внутренних каналов,</p>\r\n</li>\r\n \t<li data-start=\"1443\" data-end=\"1488\">\r\n<p data-start=\"1445\" data-end=\"1488\">топологически оптимизированных конструкций,</p>\r\n</li>\r\n \t<li data-start=\"1489\" data-end=\"1518\">\r\n<p data-start=\"1491\" data-end=\"1518\">серийных и опытных изделий.</p>\r\n</li>\r\n</ul>\r\n<h2 class=\"\">Преимущества SLM-технологии</h2>\r\n<p class=\"\" data-start=\"1557\" data-end=\"1686\">В ходе вебинара были подробно разобраны <strong data-start=\"1597\" data-end=\"1636\">ключевые преимущества SLM 3D-печати</strong> по сравнению с другими методами печати металлами:</p>\r\n\r\n<ul class=\"\" data-start=\"1688\" data-end=\"1953\">\r\n \t<li data-start=\"1688\" data-end=\"1723\">\r\n<p data-start=\"1690\" data-end=\"1723\">высокая точность и повторяемость;</p>\r\n</li>\r\n \t<li data-start=\"1724\" data-end=\"1778\">\r\n<p data-start=\"1726\" data-end=\"1778\">возможность создания сложной и внутренней геометрии;</p>\r\n</li>\r\n \t<li data-start=\"1779\" data-end=\"1819\">\r\n<p data-start=\"1781\" data-end=\"1819\">высокая плотность и прочность изделий;</p>\r\n</li>\r\n \t<li data-start=\"1820\" data-end=\"1844\">\r\n<p data-start=\"1822\" data-end=\"1844\">низкая усадка деталей;</p>\r\n</li>\r\n \t<li data-start=\"1845\" data-end=\"1953\">\r\n<p data-start=\"1847\" data-end=\"1953\">широкий выбор металлических порошков (нержавеющие стали, алюминий, титан, никелевые и кобальтовые сплавы).</p>\r\n</li>\r\n</ul>\r\n<p class=\"\" data-start=\"1955\" data-end=\"2108\">Эти характеристики делают SLM оптимальной технологией для <strong data-start=\"2013\" data-end=\"2107\">аэрокосмической отрасли, приборостроения, авиации, медицины и промышленного машиностроения</strong>.</p>\r\n\r\n<h2 class=\"\" data-start=\"1955\" data-end=\"2108\">Технологический процесс SLM-печати</h2>\r\n<p class=\"\" data-start=\"2154\" data-end=\"2220\">На вебинаре был детально показан <strong data-start=\"2187\" data-end=\"2219\">полный цикл SLM-производства</strong>:</p>\r\n\r\n<ol class=\"\" data-start=\"2222\" data-end=\"2536\">\r\n \t<li data-start=\"2222\" data-end=\"2290\">\r\n<p data-start=\"2225\" data-end=\"2290\">Подготовка 3D-модели и проектирование под аддитивные технологии</p>\r\n</li>\r\n \t<li data-start=\"2291\" data-end=\"2326\">\r\n<p data-start=\"2294\" data-end=\"2326\">Печать детали на SLM-установке</p>\r\n</li>\r\n \t<li data-start=\"2327\" data-end=\"2381\">\r\n<p data-start=\"2330\" data-end=\"2381\">Термическая обработка (вакуумная или атмосферная)</p>\r\n</li>\r\n \t<li data-start=\"2382\" data-end=\"2410\">\r\n<p data-start=\"2385\" data-end=\"2410\">Пескоструйная обработка</p>\r\n</li>\r\n \t<li data-start=\"2411\" data-end=\"2489\">\r\n<p data-start=\"2414\" data-end=\"2489\">Удаление поддержек (ЭЭО, ленточнопильное оборудование, ручной инструмент)</p>\r\n</li>\r\n \t<li data-start=\"2490\" data-end=\"2536\">\r\n<p data-start=\"2493\" data-end=\"2536\">Механическая обработка и финишная доводка</p>\r\n</li>\r\n</ol>\r\n<p class=\"\" data-start=\"2538\" data-end=\"2702\">Дополнительно были рассмотрены методы лабораторного контроля: томография, материалография, химический и структурный анализ порошков, испытания механических свойств.</p>\r\n<p class=\"\">&nbsp;</p>\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\" style=\"padding-top: 0px; padding-bottom: 40px;\">\r\n<div class=\"col-lg-6 col-md-6 col-sm-6 col-xs-12\">\r\n<h3 class=\"\">Подготовка 3D-модели/проектирование под АТ</h3>\r\n<p class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/02/podgotovka-3d-modeli-proektirovanie-pod-at.jpg.png\"><img class=\"alignnone size-full wp-image-3864\" src=\"https://am-tech.ru/wp-content/uploads/2026/02/podgotovka-3d-modeli-proektirovanie-pod-at.jpg.png\" alt=\"\" width=\"1430\" height=\"850\"></a></p>\r\n\r\n</div>\r\n<div class=\"col-lg-6 col-md-6 col-sm-6 col-xs-12\">\r\n<h3 class=\"\">Печать</h3>\r\n<p class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/02/pechat-1.png\"><img class=\"alignnone size-full wp-image-3867\" src=\"https://am-tech.ru/wp-content/uploads/2026/02/pechat-1.png\" alt=\"\" width=\"1445\" height=\"853\"></a></p>\r\n\r\n</div>\r\n</div>\r\n<div class=\"row\" style=\"padding-bottom: 40px; padding-top: 10px;\">\r\n<div class=\"col-lg-6 col-md-6 col-sm-6 col-xs-12\">\r\n<h3 class=\"\">Пескоструйная обработка</h3>\r\n<p class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/02/peskostrujnaja-obrabotka.jpg.png\"><img class=\"alignnone size-full wp-image-3866\" src=\"https://am-tech.ru/wp-content/uploads/2026/02/peskostrujnaja-obrabotka.jpg.png\" alt=\"\" width=\"1462\" height=\"856\"></a></p>\r\n\r\n</div>\r\n<div class=\"col-lg-6 col-md-6 col-sm-6 col-xs-12\">\r\n<h3 class=\"\">Термическая обработка</h3>\r\n<p class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/02/termicheskaja-obrabotka.png\"><img class=\"alignnone size-full wp-image-3869\" src=\"https://am-tech.ru/wp-content/uploads/2026/02/termicheskaja-obrabotka.png\" alt=\"\" width=\"1420\" height=\"892\"></a></p>\r\n\r\n</div>\r\n</div>\r\n<div class=\"row\" style=\"padding-bottom: 0px; padding-top: 10px;\">\r\n<div class=\"col-lg-6 col-md-6 col-sm-6 col-xs-12\">\r\n<h3 class=\"\">Спиливание и удаление поддержек</h3>\r\n<p class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/02/spilivanie-i-udalenie-podderzhek.png\"><img class=\"alignnone size-full wp-image-3868\" src=\"https://am-tech.ru/wp-content/uploads/2026/02/spilivanie-i-udalenie-podderzhek.png\" alt=\"\" width=\"1436\" height=\"895\"></a></p>\r\n\r\n</div>\r\n<div class=\"col-lg-6 col-md-6 col-sm-6 col-xs-12\">\r\n<h3 class=\"\">Механическая обработка</h3>\r\n<p class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/02/mehanicheskaja-obrabotka.jpg.png\"><img class=\"alignnone size-full wp-image-3865\" src=\"https://am-tech.ru/wp-content/uploads/2026/02/mehanicheskaja-obrabotka.jpg.png\" alt=\"\" width=\"1453\" height=\"899\"></a></p>\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\" style=\"padding-top: 40px; padding-bottom: 0px;\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n<h2 class=\"\">Промышленные SLM-установки AM.TECH</h2>\r\n<p class=\"\" data-start=\"2748\" data-end=\"2831\">Особое внимание было уделено <a href=\"https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/\"><strong data-start=\"2777\" data-end=\"2830\">отечественным SLM-установкам производства AM.TECH</strong></a>:</p>\r\n\r\n<ul class=\"\" data-start=\"2833\" data-end=\"2871\">\r\n \t<li data-start=\"2833\" data-end=\"2845\">\r\n<p data-start=\"2835\" data-end=\"2845\"><a href=\"https://am-tech.ru/product/amt-16/\"><strong data-start=\"2835\" data-end=\"2845\">AMT-16</strong></a></p>\r\n</li>\r\n \t<li data-start=\"2846\" data-end=\"2858\">\r\n<p data-start=\"2848\" data-end=\"2858\"><a href=\"https://am-tech.ru/product/3d-printer-amt-32/\"><strong data-start=\"2848\" data-end=\"2858\">AMT-32</strong></a></p>\r\n</li>\r\n \t<li data-start=\"2859\" data-end=\"2871\">\r\n<p data-start=\"2861\" data-end=\"2871\"><a href=\"https://am-tech.ru/product/3d-printer-amt-64/\"><strong data-start=\"2861\" data-end=\"2871\">AMT-64</strong></a></p>\r\n</li>\r\n</ul>\r\n<p class=\"\" data-start=\"2873\" data-end=\"2911\">Участникам вебинара были представлены:</p>\r\n\r\n<ul class=\"\" data-start=\"2912\" data-end=\"3183\">\r\n \t<li data-start=\"2912\" data-end=\"2954\">\r\n<p data-start=\"2914\" data-end=\"2954\">конструктивные особенности оборудования;</p>\r\n</li>\r\n \t<li data-start=\"2955\" data-end=\"3014\">\r\n<p data-start=\"2957\" data-end=\"3014\">3-осевая сканирующая система с динамической фокусировкой;</p>\r\n</li>\r\n \t<li data-start=\"3015\" data-end=\"3063\">\r\n<p data-start=\"3017\" data-end=\"3063\">верхняя подача порошка с дозирующим барабаном;</p>\r\n</li>\r\n \t<li data-start=\"3064\" data-end=\"3122\">\r\n<p data-start=\"3066\" data-end=\"3122\">герметичная камера построения и система циркуляции газа;</p>\r\n</li>\r\n \t<li data-start=\"3123\" data-end=\"3183\">\r\n<p data-start=\"3125\" data-end=\"3183\">собственное программное обеспечение <strong data-start=\"3161\" data-end=\"3182\">AM.TECH Printmate</strong>.</p>\r\n</li>\r\n</ul>\r\n<p class=\"\" data-start=\"3185\" data-end=\"3342\">Отдельно рассматривались <strong data-start=\"3210\" data-end=\"3249\">преимущества российских SLM-решений</strong> с точки зрения локализации, сервиса, стоимости владения и независимости от внешних поставок.</p>\r\n\r\n<h2 class=\"\" data-start=\"3185\" data-end=\"3342\">Кейсы применения и примеры печати</h2>\r\n<p class=\"\" data-start=\"3387\" data-end=\"3451\">В рамках вебинара были показаны <strong data-start=\"3419\" data-end=\"3450\">реальные примеры SLM-печати</strong>:</p>\r\n\r\n<ul class=\"\" data-start=\"3452\" data-end=\"3698\">\r\n \t<li data-start=\"3452\" data-end=\"3477\">\r\n<p data-start=\"3454\" data-end=\"3477\">теплообменные аппараты;</p>\r\n</li>\r\n \t<li data-start=\"3478\" data-end=\"3495\">\r\n<p data-start=\"3480\" data-end=\"3495\">трубка Вентури;</p>\r\n</li>\r\n \t<li data-start=\"3496\" data-end=\"3564\">\r\n<p data-start=\"3498\" data-end=\"3564\">вставки для термопластавтоматов с конформными каналами охлаждения;</p>\r\n</li>\r\n \t<li data-start=\"3565\" data-end=\"3626\">\r\n<p data-start=\"3567\" data-end=\"3626\">детали воздуховодов, молдинги, элементы редукторов и муфты;</p>\r\n</li>\r\n \t<li data-start=\"3627\" data-end=\"3698\">\r\n<p data-start=\"3629\" data-end=\"3698\">оснастка и функциональные узлы из нержавеющей стали 316L и 12Х18Н10Т.</p>\r\n</li>\r\n</ul>\r\n<p class=\"\" data-start=\"3700\" data-end=\"3797\">Примеры наглядно демонстрируют возможности технологии для серийного и функционального применения.</p>\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\" style=\"padding-top: 40px; padding-bottom: 50px;\">\r\n<div class=\"col-lg-6 col-md-6 col-sm-6 col-xs-12\">\r\n<h2 class=\"\">Пример печати SLM</h2>\r\n<p class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/02/teploobmennik.jpg\"><img class=\"alignnone size-full wp-image-3856\" src=\"https://am-tech.ru/wp-content/uploads/2026/02/teploobmennik.jpg\" alt=\"\" width=\"1407\" height=\"1548\"></a></p>\r\n\r\n</div>\r\n<div class=\"col-lg-6 col-md-6 col-sm-6 col-xs-12\">\r\n<div class=\"row\" style=\"padding-top: 10px; padding-bottom: 10px;\">\r\n<div class=\"col-lg-12 col-md-12 col-sm-12 col-xs-12\">\r\n<div>\r\n\r\n<b>Изделие напечатано на </b><b>AM.TECH AMT</b><b>-</b><b>16</b>\r\n\r\nНа аддитивном комплексе АМТ-16. Конструкция теплообменного аппарата разработана с учётом технологических особенностей процесса SLM.\r\n\r\nДеталь высотой 200 мм была выращена за 25 часов.\r\nМинимальная толщина стенки: 0,75 мм.\r\nСлой: 50 мкм\r\n\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"row\" style=\"padding-top: 10px; padding-bottom: 10px;\">\r\n<div class=\"col-lg-12 col-md-12 col-sm-12 col-xs-12\">\r\n<div>\r\n<p class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/02/teploobmennik1.jpg\"><img class=\"alignnone size-full wp-image-3857\" src=\"https://am-tech.ru/wp-content/uploads/2026/02/teploobmennik1.jpg\" alt=\"\" width=\"1321\" height=\"727\"></a></p>\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\" style=\"padding-top: 40px; padding-bottom: 10px;\">\r\n<div class=\"col-lg-6 col-md-6 col-sm-6 col-xs-12\">\r\n<h2 class=\"\">Трубка Вентури</h2>\r\n<p class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/02/trubka-venturi.png\"><img class=\"alignnone size-full wp-image-3858\" src=\"https://am-tech.ru/wp-content/uploads/2026/02/trubka-venturi.png\" alt=\"\" width=\"352\" height=\"504\"></a></p>\r\n\r\n</div>\r\n<div class=\"col-lg-6 col-md-6 col-sm-6 col-xs-12\">\r\n<div class=\"row\" style=\"padding-top: 10px; padding-bottom: 10px;\">\r\n<div class=\"col-lg-12 col-md-12 col-sm-12 col-xs-12\">\r\n<div>\r\n\r\n<b>Изделие напечатано на </b><b>AM.TECH AMT</b><b>-</b><b>16</b>\r\n\r\nЭто деталь \"Трубка Вентури\" - элемент системы контроля расход-скоростных характеристик газового потока в установке <a href=\"https://am-tech.ru/product/amt-16/\">АМТ-16</a>\r\n\r\nДеталь высотой 215 мм была выращена за 27 часов.\r\nСлой: 50 мкм\r\nМатериал: 12X18Н10T\r\n\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"row\" style=\"padding-top: 10px; padding-bottom: 10px;\">\r\n<div class=\"col-lg-12 col-md-12 col-sm-12 col-xs-12\">\r\n<div><a href=\"https://am-tech.ru/wp-content/uploads/2026/02/trubka-venturi1.jpg\"><img class=\"alignnone wp-image-3859\" src=\"https://am-tech.ru/wp-content/uploads/2026/02/trubka-venturi1.jpg\" alt=\"\" width=\"227\" height=\"311\"></a></div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\" style=\"padding-top: 40px; padding-bottom: 0px;\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n<h2>Видео запись вебинара</h2>\r\n<p class=\"\">Ниже вы можете посмотреть <strong data-start=\"3856\" data-end=\"3887\">полную видеозапись вебинара</strong> и подробнее ознакомиться с технологией SLM, оборудованием AM.TECH и практическими кейсами.</p>\r\n[playlist type=\"video\" ids=\"3860\"]\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\" style=\"padding-top: 40px; padding-bottom: 0px;\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n<h2 class=\"\">Заключение</h2>\r\n<p class=\"\" data-start=\"4053\" data-end=\"4454\"><a href=\"https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/\">SLM 3D-печать металлами</a> — это зрелая промышленная технология, позволяющая решать сложные инженерные задачи и внедрять аддитивное производство в реальные производственные цепочки.<br data-start=\"4231\" data-end=\"4234\"><a href=\"https://am-tech.ru/\"><strong data-start=\"4234\" data-end=\"4245\">AM.TECH</strong></a>, как российский разработчик и производитель аддитивного оборудования, предлагает не только SLM-установки, но и полный цикл внедрения технологий — от проектирования и тестовой печати до серийного производства.</p>\r\n<p data-start=\"4456\" data-end=\"4588\">Если у вас остались вопросы или вы хотите обсудить применение SLM-технологии для ваших задач — специалисты AM.TECH готовы к диалогу.</p>\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+  "rendered": "<div class=\"boldgrid-section\">\n<div class=\"container\">\n<div class=\"row\" style=\"padding-bottom: 40px;\">\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\n<p class=\"\"><strong>Итоги вебинара AM.TECH</strong></p>\n<p class=\"\" data-start=\"450\" data-end=\"858\">Компания <strong data-start=\"466\" data-end=\"511\">&nbsp;– AM.TECH</strong>&nbsp;провела отраслевой вебинар, посвящённый технологии <strong data-start=\"563\" data-end=\"596\">SLM (Selective Laser Melting)</strong> — селективному лазерному сплавлению металлов. В рамках мероприятия были подробно рассмотрены принципы работы технологии, этапы технологического процесса, постобработка, примеры промышленных деталей и возможности отечественных <a href=\"https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/\">SLM-установок</a> производства AM.TECH.</p>\n<p class=\"\" data-start=\"860\" data-end=\"962\">Ниже приводим краткий обзор ключевых тем вебинара. В конце страницы доступна <strong data-start=\"937\" data-end=\"961\">видеозапись вебинара</strong>.</p>\n<h2 class=\"\" data-start=\"860\" data-end=\"962\">Что такое SLM 3D-печать металлами</h2>\n<p class=\"\" data-start=\"1007\" data-end=\"1340\"><strong data-start=\"1007\" data-end=\"1048\">SLM (селективное лазерное сплавление)</strong> — это технология аддитивного производства, при которой металлический порошок послойно сплавляется лазерным лучом в защитной газовой среде. В результате формируется деталь с высокой плотностью, точной геометрией и механическими свойствами, сопоставимыми с традиционными методами производства.</p>\n<p data-start=\"1342\" data-end=\"1386\">SLM-технология применяется для изготовления:</p>\n<ul class=\"\" data-start=\"1387\" data-end=\"1518\">\n<li data-start=\"1387\" data-end=\"1412\">\n<p data-start=\"1389\" data-end=\"1412\">функциональных деталей,</p>\n</li>\n<li data-start=\"1413\" data-end=\"1442\">\n<p data-start=\"1415\" data-end=\"1442\">сложных внутренних каналов,</p>\n</li>\n<li data-start=\"1443\" data-end=\"1488\">\n<p data-start=\"1445\" data-end=\"1488\">топологически оптимизированных конструкций,</p>\n</li>\n<li data-start=\"1489\" data-end=\"1518\">\n<p data-start=\"1491\" data-end=\"1518\">серийных и опытных изделий.</p>\n</li>\n</ul>\n<h2 class=\"\">Преимущества SLM-технологии</h2>\n<p class=\"\" data-start=\"1557\" data-end=\"1686\">В ходе вебинара были подробно разобраны <strong data-start=\"1597\" data-end=\"1636\">ключевые преимущества SLM 3D-печати</strong> по сравнению с другими методами печати металлами:</p>\n<ul class=\"\" data-start=\"1688\" data-end=\"1953\">\n<li data-start=\"1688\" data-end=\"1723\">\n<p data-start=\"1690\" data-end=\"1723\">высокая точность и повторяемость;</p>\n</li>\n<li data-start=\"1724\" data-end=\"1778\">\n<p data-start=\"1726\" data-end=\"1778\">возможность создания сложной и внутренней геометрии;</p>\n</li>\n<li data-start=\"1779\" data-end=\"1819\">\n<p data-start=\"1781\" data-end=\"1819\">высокая плотность и прочность изделий;</p>\n</li>\n<li data-start=\"1820\" data-end=\"1844\">\n<p data-start=\"1822\" data-end=\"1844\">низкая усадка деталей;</p>\n</li>\n<li data-start=\"1845\" data-end=\"1953\">\n<p data-start=\"1847\" data-end=\"1953\">широкий выбор металлических порошков (нержавеющие стали, алюминий, титан, никелевые и кобальтовые сплавы).</p>\n</li>\n</ul>\n<p class=\"\" data-start=\"1955\" data-end=\"2108\">Эти характеристики делают SLM оптимальной технологией для <strong data-start=\"2013\" data-end=\"2107\">аэрокосмической отрасли, приборостроения, авиации, медицины и промышленного машиностроения</strong>.</p>\n<h2 class=\"\" data-start=\"1955\" data-end=\"2108\">Технологический процесс SLM-печати</h2>\n<p class=\"\" data-start=\"2154\" data-end=\"2220\">На вебинаре был детально показан <strong data-start=\"2187\" data-end=\"2219\">полный цикл SLM-производства</strong>:</p>\n<ol class=\"\" data-start=\"2222\" data-end=\"2536\">\n<li data-start=\"2222\" data-end=\"2290\">\n<p data-start=\"2225\" data-end=\"2290\">Подготовка 3D-модели и проектирование под аддитивные технологии</p>\n</li>\n<li data-start=\"2291\" data-end=\"2326\">\n<p data-start=\"2294\" data-end=\"2326\">Печать детали на SLM-установке</p>\n</li>\n<li data-start=\"2327\" data-end=\"2381\">\n<p data-start=\"2330\" data-end=\"2381\">Термическая обработка (вакуумная или атмосферная)</p>\n</li>\n<li data-start=\"2382\" data-end=\"2410\">\n<p data-start=\"2385\" data-end=\"2410\">Пескоструйная обработка</p>\n</li>\n<li data-start=\"2411\" data-end=\"2489\">\n<p data-start=\"2414\" data-end=\"2489\">Удаление поддержек (ЭЭО, ленточнопильное оборудование, ручной инструмент)</p>\n</li>\n<li data-start=\"2490\" data-end=\"2536\">\n<p data-start=\"2493\" data-end=\"2536\">Механическая обработка и финишная доводка</p>\n</li>\n</ol>\n<p class=\"\" data-start=\"2538\" data-end=\"2702\">Дополнительно были рассмотрены методы лабораторного контроля: томография, материалография, химический и структурный анализ порошков, испытания механических свойств.</p>\n<p class=\"\">&nbsp;</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"boldgrid-section\">\n<div class=\"container\">\n<div class=\"row\" style=\"padding-top: 0px; padding-bottom: 40px;\">\n<div class=\"col-lg-6 col-md-6 col-sm-6 col-xs-12\">\n<h3 class=\"\">Подготовка 3D-модели/проектирование под АТ</h3>\n<p class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/02/podgotovka-3d-modeli-proektirovanie-pod-at.jpg.png\"><img loading=\"lazy\" decoding=\"async\" fetchpriority=\"high\" decoding=\"async\" class=\"alignnone size-full wp-image-3864\" src=\"https://am-tech.ru/wp-content/uploads/2026/02/podgotovka-3d-modeli-proektirovanie-pod-at.jpg.png\" alt=\"SLM 3D-печать металлами: принципы технологии и промышленные возможности - 3D-печать металлами - AM-Tech\" width=\"1430\" height=\"850\" srcset=\"https://am-tech.ru/wp-content/uploads/2026/02/podgotovka-3d-modeli-proektirovanie-pod-at.jpg.png 1430w, https://am-tech.ru/wp-content/uploads/2026/02/podgotovka-3d-modeli-proektirovanie-pod-at.jpg-300x178.png 300w, https://am-tech.ru/wp-content/uploads/2026/02/podgotovka-3d-modeli-proektirovanie-pod-at.jpg-1024x609.png 1024w, https://am-tech.ru/wp-content/uploads/2026/02/podgotovka-3d-modeli-proektirovanie-pod-at.jpg-768x457.png 768w, https://am-tech.ru/wp-content/uploads/2026/02/podgotovka-3d-modeli-proektirovanie-pod-at.jpg-600x357.png 600w\" sizes=\"(max-width: 1430px) 100vw, 1430px\" /></a></p>\n</div>\n<div class=\"col-lg-6 col-md-6 col-sm-6 col-xs-12\">\n<h3 class=\"\">Печать</h3>\n<p class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/02/pechat-1.png\"><img loading=\"lazy\" decoding=\"async\" decoding=\"async\" class=\"alignnone size-full wp-image-3867\" src=\"https://am-tech.ru/wp-content/uploads/2026/02/pechat-1.png\" alt=\"SLM 3D-печать металлами: принципы технологии и промышленные возможности - 3D-печать металлами - AM-Tech\" width=\"1445\" height=\"853\" srcset=\"https://am-tech.ru/wp-content/uploads/2026/02/pechat-1.png 1445w, https://am-tech.ru/wp-content/uploads/2026/02/pechat-1-300x177.png 300w, https://am-tech.ru/wp-content/uploads/2026/02/pechat-1-1024x604.png 1024w, https://am-tech.ru/wp-content/uploads/2026/02/pechat-1-768x453.png 768w, https://am-tech.ru/wp-content/uploads/2026/02/pechat-1-600x354.png 600w\" sizes=\"(max-width: 1445px) 100vw, 1445px\" /></a></p>\n</div>\n</div>\n<div class=\"row\" style=\"padding-bottom: 40px; padding-top: 10px;\">\n<div class=\"col-lg-6 col-md-6 col-sm-6 col-xs-12\">\n<h3 class=\"\">Пескоструйная обработка</h3>\n<p class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/02/peskostrujnaja-obrabotka.jpg.png\"><img loading=\"lazy\" decoding=\"async\" decoding=\"async\" class=\"alignnone size-full wp-image-3866\" src=\"https://am-tech.ru/wp-content/uploads/2026/02/peskostrujnaja-obrabotka.jpg.png\" alt=\"SLM 3D-печать металлами: принципы технологии и промышленные возможности - 3D-печать металлами - AM-Tech\" width=\"1462\" height=\"856\" srcset=\"https://am-tech.ru/wp-content/uploads/2026/02/peskostrujnaja-obrabotka.jpg.png 1462w, https://am-tech.ru/wp-content/uploads/2026/02/peskostrujnaja-obrabotka.jpg-300x176.png 300w, https://am-tech.ru/wp-content/uploads/2026/02/peskostrujnaja-obrabotka.jpg-1024x600.png 1024w, https://am-tech.ru/wp-content/uploads/2026/02/peskostrujnaja-obrabotka.jpg-768x450.png 768w, https://am-tech.ru/wp-content/uploads/2026/02/peskostrujnaja-obrabotka.jpg-600x351.png 600w\" sizes=\"(max-width: 1462px) 100vw, 1462px\" /></a></p>\n</div>\n<div class=\"col-lg-6 col-md-6 col-sm-6 col-xs-12\">\n<h3 class=\"\">Термическая обработка</h3>\n<p class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/02/termicheskaja-obrabotka.png\"><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-full wp-image-3869\" src=\"https://am-tech.ru/wp-content/uploads/2026/02/termicheskaja-obrabotka.png\" alt=\"SLM 3D-печать металлами: принципы технологии и промышленные возможности - 3D-печать металлами - AM-Tech\" width=\"1420\" height=\"892\" srcset=\"https://am-tech.ru/wp-content/uploads/2026/02/termicheskaja-obrabotka.png 1420w, https://am-tech.ru/wp-content/uploads/2026/02/termicheskaja-obrabotka-300x188.png 300w, https://am-tech.ru/wp-content/uploads/2026/02/termicheskaja-obrabotka-1024x643.png 1024w, https://am-tech.ru/wp-content/uploads/2026/02/termicheskaja-obrabotka-768x482.png 768w, https://am-tech.ru/wp-content/uploads/2026/02/termicheskaja-obrabotka-600x377.png 600w\" sizes=\"(max-width: 1420px) 100vw, 1420px\" /></a></p>\n</div>\n</div>\n<div class=\"row\" style=\"padding-bottom: 0px; padding-top: 10px;\">\n<div class=\"col-lg-6 col-md-6 col-sm-6 col-xs-12\">\n<h3 class=\"\">Спиливание и удаление поддержек</h3>\n<p class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/02/spilivanie-i-udalenie-podderzhek.png\"><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-full wp-image-3868\" src=\"https://am-tech.ru/wp-content/uploads/2026/02/spilivanie-i-udalenie-podderzhek.png\" alt=\"SLM 3D-печать металлами: принципы технологии и промышленные возможности - 3D-печать металлами - AM-Tech\" width=\"1436\" height=\"895\" srcset=\"https://am-tech.ru/wp-content/uploads/2026/02/spilivanie-i-udalenie-podderzhek.png 1436w, https://am-tech.ru/wp-content/uploads/2026/02/spilivanie-i-udalenie-podderzhek-300x187.png 300w, https://am-tech.ru/wp-content/uploads/2026/02/spilivanie-i-udalenie-podderzhek-1024x638.png 1024w, https://am-tech.ru/wp-content/uploads/2026/02/spilivanie-i-udalenie-podderzhek-768x479.png 768w, https://am-tech.ru/wp-content/uploads/2026/02/spilivanie-i-udalenie-podderzhek-600x374.png 600w\" sizes=\"(max-width: 1436px) 100vw, 1436px\" /></a></p>\n</div>\n<div class=\"col-lg-6 col-md-6 col-sm-6 col-xs-12\">\n<h3 class=\"\">Механическая обработка</h3>\n<p class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/02/mehanicheskaja-obrabotka.jpg.png\"><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-full wp-image-3865\" src=\"https://am-tech.ru/wp-content/uploads/2026/02/mehanicheskaja-obrabotka.jpg.png\" alt=\"SLM 3D-печать металлами: принципы технологии и промышленные возможности - 3D-печать металлами - AM-Tech\" width=\"1453\" height=\"899\" srcset=\"https://am-tech.ru/wp-content/uploads/2026/02/mehanicheskaja-obrabotka.jpg.png 1453w, https://am-tech.ru/wp-content/uploads/2026/02/mehanicheskaja-obrabotka.jpg-300x186.png 300w, https://am-tech.ru/wp-content/uploads/2026/02/mehanicheskaja-obrabotka.jpg-1024x634.png 1024w, https://am-tech.ru/wp-content/uploads/2026/02/mehanicheskaja-obrabotka.jpg-768x475.png 768w, https://am-tech.ru/wp-content/uploads/2026/02/mehanicheskaja-obrabotka.jpg-600x371.png 600w\" sizes=\"(max-width: 1453px) 100vw, 1453px\" /></a></p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"boldgrid-section\">\n<div class=\"container\">\n<div class=\"row\" style=\"padding-top: 40px; padding-bottom: 0px;\">\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\n<h2 class=\"\">Промышленные SLM-установки AM.TECH</h2>\n<p class=\"\" data-start=\"2748\" data-end=\"2831\">Особое внимание было уделено <a href=\"https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/\"><strong data-start=\"2777\" data-end=\"2830\">отечественным SLM-установкам производства AM.TECH</strong></a>:</p>\n<ul class=\"\" data-start=\"2833\" data-end=\"2871\">\n<li data-start=\"2833\" data-end=\"2845\">\n<p data-start=\"2835\" data-end=\"2845\"><a href=\"https://am-tech.ru/product/amt-16/\"><strong data-start=\"2835\" data-end=\"2845\">AMT-16</strong></a></p>\n</li>\n<li data-start=\"2846\" data-end=\"2858\">\n<p data-start=\"2848\" data-end=\"2858\"><a href=\"https://am-tech.ru/product/3d-printer-amt-32/\"><strong data-start=\"2848\" data-end=\"2858\">AMT-32</strong></a></p>\n</li>\n<li data-start=\"2859\" data-end=\"2871\">\n<p data-start=\"2861\" data-end=\"2871\"><a href=\"https://am-tech.ru/product/3d-printer-amt-64/\"><strong data-start=\"2861\" data-end=\"2871\">AMT-64</strong></a></p>\n</li>\n</ul>\n<p class=\"\" data-start=\"2873\" data-end=\"2911\">Участникам вебинара были представлены:</p>\n<ul class=\"\" data-start=\"2912\" data-end=\"3183\">\n<li data-start=\"2912\" data-end=\"2954\">\n<p data-start=\"2914\" data-end=\"2954\">конструктивные особенности оборудования;</p>\n</li>\n<li data-start=\"2955\" data-end=\"3014\">\n<p data-start=\"2957\" data-end=\"3014\">3-осевая сканирующая система с динамической фокусировкой;</p>\n</li>\n<li data-start=\"3015\" data-end=\"3063\">\n<p data-start=\"3017\" data-end=\"3063\">верхняя подача порошка с дозирующим барабаном;</p>\n</li>\n<li data-start=\"3064\" data-end=\"3122\">\n<p data-start=\"3066\" data-end=\"3122\">герметичная камера построения и система циркуляции газа;</p>\n</li>\n<li data-start=\"3123\" data-end=\"3183\">\n<p data-start=\"3125\" data-end=\"3183\">собственное программное обеспечение <strong data-start=\"3161\" data-end=\"3182\">AM.TECH Printmate</strong>.</p>\n</li>\n</ul>\n<p class=\"\" data-start=\"3185\" data-end=\"3342\">Отдельно рассматривались <strong data-start=\"3210\" data-end=\"3249\">преимущества российских SLM-решений</strong> с точки зрения локализации, сервиса, стоимости владения и независимости от внешних поставок.</p>\n<h2 class=\"\" data-start=\"3185\" data-end=\"3342\">Кейсы применения и примеры печати</h2>\n<p class=\"\" data-start=\"3387\" data-end=\"3451\">В рамках вебинара были показаны <strong data-start=\"3419\" data-end=\"3450\">реальные примеры SLM-печати</strong>:</p>\n<ul class=\"\" data-start=\"3452\" data-end=\"3698\">\n<li data-start=\"3452\" data-end=\"3477\">\n<p data-start=\"3454\" data-end=\"3477\">теплообменные аппараты;</p>\n</li>\n<li data-start=\"3478\" data-end=\"3495\">\n<p data-start=\"3480\" data-end=\"3495\">трубка Вентури;</p>\n</li>\n<li data-start=\"3496\" data-end=\"3564\">\n<p data-start=\"3498\" data-end=\"3564\">вставки для термопластавтоматов с конформными каналами охлаждения;</p>\n</li>\n<li data-start=\"3565\" data-end=\"3626\">\n<p data-start=\"3567\" data-end=\"3626\">детали воздуховодов, молдинги, элементы редукторов и муфты;</p>\n</li>\n<li data-start=\"3627\" data-end=\"3698\">\n<p data-start=\"3629\" data-end=\"3698\">оснастка и функциональные узлы из нержавеющей стали 316L и 12Х18Н10Т.</p>\n</li>\n</ul>\n<p class=\"\" data-start=\"3700\" data-end=\"3797\">Примеры наглядно демонстрируют возможности технологии для серийного и функционального применения.</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"boldgrid-section\">\n<div class=\"container\">\n<div class=\"row\" style=\"padding-top: 40px; padding-bottom: 50px;\">\n<div class=\"col-lg-6 col-md-6 col-sm-6 col-xs-12\">\n<h2 class=\"\">Пример печати SLM</h2>\n<p class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/02/teploobmennik.jpg\"><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-full wp-image-3856\" src=\"https://am-tech.ru/wp-content/uploads/2026/02/teploobmennik.jpg\" alt=\"SLM 3D-печать металлами: принципы технологии и промышленные возможности - 3D-печать металлами - AM-Tech\" width=\"1407\" height=\"1548\" srcset=\"https://am-tech.ru/wp-content/uploads/2026/02/teploobmennik.jpg 1407w, https://am-tech.ru/wp-content/uploads/2026/02/teploobmennik-273x300.jpg 273w, https://am-tech.ru/wp-content/uploads/2026/02/teploobmennik-931x1024.jpg 931w, https://am-tech.ru/wp-content/uploads/2026/02/teploobmennik-768x845.jpg 768w, https://am-tech.ru/wp-content/uploads/2026/02/teploobmennik-1396x1536.jpg 1396w, https://am-tech.ru/wp-content/uploads/2026/02/teploobmennik-600x660.jpg 600w\" sizes=\"(max-width: 1407px) 100vw, 1407px\" /></a></p>\n</div>\n<div class=\"col-lg-6 col-md-6 col-sm-6 col-xs-12\">\n<div class=\"row\" style=\"padding-top: 10px; padding-bottom: 10px;\">\n<div class=\"col-lg-12 col-md-12 col-sm-12 col-xs-12\">\n<div>\n<p><b>Изделие напечатано на </b><b>AM.TECH AMT</b><b>&#8212;</b><b>16</b></p>\n<p>На аддитивном комплексе АМТ-16. Конструкция теплообменного аппарата разработана с учётом технологических особенностей процесса SLM.</p>\n<p>Деталь высотой 200 мм была выращена за 25 часов.<br />\nМинимальная толщина стенки: 0,75 мм.<br />\nСлой: 50 мкм</p>\n</div>\n</div>\n</div>\n<div class=\"row\" style=\"padding-top: 10px; padding-bottom: 10px;\">\n<div class=\"col-lg-12 col-md-12 col-sm-12 col-xs-12\">\n<div>\n<p class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/02/teploobmennik1.jpg\"><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-full wp-image-3857\" src=\"https://am-tech.ru/wp-content/uploads/2026/02/teploobmennik1.jpg\" alt=\"SLM 3D-печать металлами: принципы технологии и промышленные возможности - 3D-печать металлами - AM-Tech\" width=\"1321\" height=\"727\" srcset=\"https://am-tech.ru/wp-content/uploads/2026/02/teploobmennik1.jpg 1321w, https://am-tech.ru/wp-content/uploads/2026/02/teploobmennik1-300x165.jpg 300w, https://am-tech.ru/wp-content/uploads/2026/02/teploobmennik1-1024x564.jpg 1024w, https://am-tech.ru/wp-content/uploads/2026/02/teploobmennik1-768x423.jpg 768w, https://am-tech.ru/wp-content/uploads/2026/02/teploobmennik1-600x330.jpg 600w\" sizes=\"(max-width: 1321px) 100vw, 1321px\" /></a></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"boldgrid-section\">\n<div class=\"container\">\n<div class=\"row\" style=\"padding-top: 40px; padding-bottom: 10px;\">\n<div class=\"col-lg-6 col-md-6 col-sm-6 col-xs-12\">\n<h2 class=\"\">Трубка Вентури</h2>\n<p class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/02/trubka-venturi.png\"><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-full wp-image-3858\" src=\"https://am-tech.ru/wp-content/uploads/2026/02/trubka-venturi.png\" alt=\"SLM 3D-печать металлами: принципы технологии и промышленные возможности - 3D-печать металлами - AM-Tech\" width=\"352\" height=\"504\" srcset=\"https://am-tech.ru/wp-content/uploads/2026/02/trubka-venturi.png 352w, https://am-tech.ru/wp-content/uploads/2026/02/trubka-venturi-210x300.png 210w\" sizes=\"(max-width: 352px) 100vw, 352px\" /></a></p>\n</div>\n<div class=\"col-lg-6 col-md-6 col-sm-6 col-xs-12\">\n<div class=\"row\" style=\"padding-top: 10px; padding-bottom: 10px;\">\n<div class=\"col-lg-12 col-md-12 col-sm-12 col-xs-12\">\n<div>\n<p><b>Изделие напечатано на </b><b>AM.TECH AMT</b><b>&#8212;</b><b>16</b></p>\n<p>Это деталь &#171;Трубка Вентури&#187; &#8212; элемент системы контроля расход-скоростных характеристик газового потока в установке <a href=\"https://am-tech.ru/product/amt-16/\">АМТ-16</a></p>\n<p>Деталь высотой 215 мм была выращена за 27 часов.<br />\nСлой: 50 мкм<br />\nМатериал: 12X18Н10T</p>\n</div>\n</div>\n</div>\n<div class=\"row\" style=\"padding-top: 10px; padding-bottom: 10px;\">\n<div class=\"col-lg-12 col-md-12 col-sm-12 col-xs-12\">\n<div><a href=\"https://am-tech.ru/wp-content/uploads/2026/02/trubka-venturi1.jpg\"><img loading=\"lazy\" decoding=\"async\" class=\"alignnone wp-image-3859\" src=\"https://am-tech.ru/wp-content/uploads/2026/02/trubka-venturi1.jpg\" alt=\"SLM 3D-печать металлами: принципы технологии и промышленные возможности - 3D-печать металлами - AM-Tech\" width=\"227\" height=\"311\"></a></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"boldgrid-section\">\n<div class=\"container\">\n<div class=\"row\" style=\"padding-top: 40px; padding-bottom: 0px;\">\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\n<h2>Видео запись вебинара</h2>\n<p class=\"\">Ниже вы можете посмотреть <strong data-start=\"3856\" data-end=\"3887\">полную видеозапись вебинара</strong> и подробнее ознакомиться с технологией SLM, оборудованием AM.TECH и практическими кейсами.</p>\n<div class=\"wp-playlist wp-video-playlist wp-playlist-light\">\n\t\t<video controls=\"controls\" preload=\"none\" width=\"640\"\n\t\t height=\"360\"\t></video>\n\t<div class=\"wp-playlist-next\"></div>\n\t<div class=\"wp-playlist-prev\"></div>\n\t<noscript>\n\t<ol>\n\t\t<li><a href='https://am-tech.ru/wp-content/uploads/2026/02/zapis-vebinara-slm-3d-pechat-metallami_-principy-tehnologii_light.mp4'>Запись вебинара «SLM 3D-печать металлами принципы технологии»</a></li>\t</ol>\n\t</noscript>\n\t<script type=\"application/json\" class=\"wp-playlist-script\">{\"type\":\"video\",\"tracklist\":true,\"tracknumbers\":true,\"images\":true,\"artists\":true,\"tracks\":[{\"src\":\"https://am-tech.ru/wp-content/uploads/2026/02/zapis-vebinara-slm-3d-pechat-metallami_-principy-tehnologii_light.mp4\",\"type\":\"video/mp4\",\"title\":\"\\u0417\\u0430\\u043f\\u0438\\u0441\\u044c \\u0432\\u0435\\u0431\\u0438\\u043d\\u0430\\u0440\\u0430 \\u00abSLM 3D-\\u043f\\u0435\\u0447\\u0430\\u0442\\u044c \\u043c\\u0435\\u0442\\u0430\\u043b\\u043b\\u0430\\u043c\\u0438 \\u043f\\u0440\\u0438\\u043d\\u0446\\u0438\\u043f\\u044b \\u0442\\u0435\\u0445\\u043d\\u043e\\u043b\\u043e\\u0433\\u0438\\u0438\\u00bb\",\"caption\":\"\",\"description\":\"\",\"meta\":{\"length_formatted\":\"28:58\"},\"dimensions\":{\"original\":{\"width\":1920,\"height\":1080},\"resized\":{\"width\":640,\"height\":360}},\"image\":{\"src\":\"https://am-tech.ru/wp-includes/images/media/video.svg\",\"width\":48,\"height\":64},\"thumb\":{\"src\":\"https://am-tech.ru/wp-includes/images/media/video.svg\",\"width\":48,\"height\":64}}]}</script>\n</div>\n\t\n</div>\n</div>\n</div>\n</div>\n<div class=\"boldgrid-section\">\n<div class=\"container\">\n<div class=\"row\" style=\"padding-top: 40px; padding-bottom: 0px;\">\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\n<h2 class=\"\">Заключение</h2>\n<p class=\"\" data-start=\"4053\" data-end=\"4454\"><a href=\"https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/\">SLM 3D-печать металлами</a> — это зрелая промышленная технология, позволяющая решать сложные инженерные задачи и внедрять аддитивное производство в реальные производственные цепочки.<br data-start=\"4231\" data-end=\"4234\"><a href=\"https://am-tech.ru/\"><strong data-start=\"4234\" data-end=\"4245\">AM.TECH</strong></a>, как российский разработчик и производитель аддитивного оборудования, предлагает не только SLM-установки, но и полный цикл внедрения технологий — от проектирования и тестовой печати до серийного производства.</p>\n<p data-start=\"4456\" data-end=\"4588\">Если у вас остались вопросы или вы хотите обсудить применение SLM-технологии для ваших задач — специалисты AM.TECH готовы к диалогу.</p>\n</div>\n</div>\n</div>\n</div>\n",
+  "protected": false,
+  "block_version": 0
+ },
+ "excerpt": {
+  "raw": "",
+  "rendered": "<p>Итоги вебинара AM.TECH Компания &nbsp;– AM.TECH&nbsp;провела отраслевой вебинар, посвящённый технологии SLM (Selective Laser Melting) — селективному лазерному сплавлению металлов. В рамках мероприятия были подробно рассмотрены принципы работы технологии, этапы технологического процесса, постобработка, примеры промышленных деталей и возможности отечественных SLM-установок производства AM.TECH. Ниже приводим краткий обзор ключевых тем вебинара. В конце страницы доступна видеозапись вебинара. Что [&hellip;]</p>\n",
+  "protected": false
+ },
+ "author": 1,
+ "featured_media": 3943,
+ "comment_status": "open",
+ "ping_status": "closed",
+ "template": "",
+ "meta": {
+  "_acf_changed": false,
+  "_yoast_wpseo_title": "SLM 3D-печать металлами: принципы и промышленные возможности | AM-Tech",
+  "_yoast_wpseo_metadesc": "SLM 3D-печать металлом: принципы технологии, этапы производства и возможности отечественных SLM-установок AM.TECH. Итоги вебинара и примеры применения.",
+  "_yoast_wpseo_meta-robots-noindex": ""
+ },
+ "news_category": [
+  1107,
+  970
+ ],
+ "news_tag": [
+  1228,
+  1232,
+  1220,
+  1230,
+  1256,
+  1252,
+  1226,
+  1234
+ ],
+ "permalink_template": "https://am-tech.ru/news/%pagename%/",
+ "generated_slug": "slm-3d-pechat-metallami-principy-tehnologii-i-promyshlennye-vozmozhnosti",
+ "class_list": [
+  "post-3849",
+  "news",
+  "type-news",
+  "status-publish",
+  "has-post-thumbnail",
+  "hentry",
+  "news_category-3d-pechat-metallami",
+  "news_category-novosti",
+  "news_tag-amt-3d-printery",
+  "news_tag-industrija-additivnyh-tehnologij",
+  "news_tag-slm",
+  "news_tag-otechestvennye-3d-printery",
+  "news_tag-otraslevye-meroprijatija",
+  "news_tag-prezentacii-tehnologij",
+  "news_tag-promyshlennaja-pechat",
+  "news_tag-razrabotki-am-tech"
+ ],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>SLM 3D-печать металлами: принципы и промышленные возможности | AM-Tech</title>\n<meta name=\"description\" content=\"SLM 3D-печать металлом: принципы технологии, этапы производства и возможности отечественных SLM-установок AM.TECH. Итоги вебинара и примеры применения.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/news/slm-3d-pechat-metallami-principy-tehnologii-i-promyshlennye-vozmozhnosti/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"SLM 3D-печать металлами: принципы и промышленные возможности | AM-Tech\" />\n<meta property=\"og:description\" content=\"SLM 3D-печать металлом: принципы технологии, этапы производства и возможности отечественных SLM-установок AM.TECH. Итоги вебинара и примеры применения.\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/news/slm-3d-pechat-metallami-principy-tehnologii-i-promyshlennye-vozmozhnosti/\" />\n<meta property=\"og:site_name\" content=\"AM.TECH\" />\n<meta property=\"article:modified_time\" content=\"2026-10-14T14:09:47+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2026/02/slm-3d-pechat-metallami.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1024\" />\n\t<meta property=\"og:image:height\" content=\"1024\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"6 минут\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/news/slm-3d-pechat-metallami-principy-tehnologii-i-promyshlennye-vozmozhnosti/\",\"url\":\"https://am-tech.ru/news/slm-3d-pechat-metallami-principy-tehnologii-i-promyshlennye-vozmozhnosti/\",\"name\":\"SLM 3D-печать металлами: принципы и промышленные возможности | AM-Tech\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/news/slm-3d-pechat-metallami-principy-tehnologii-i-promyshlennye-vozmozhnosti/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/news/slm-3d-pechat-metallami-principy-tehnologii-i-promyshlennye-vozmozhnosti/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2026/02/slm-3d-pechat-metallami.jpg\",\"datePublished\":\"2026-02-11T07:33:19+00:00\",\"dateModified\":\"2026-10-14T14:09:47+00:00\",\"description\":\"SLM 3D-печать металлом: принципы технологии, этапы производства и возможности отечественных SLM-установок AM.TECH. Итоги вебинара и примеры применения.\",\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/news/slm-3d-pechat-metallami-principy-tehnologii-i-promyshlennye-vozmozhnosti/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/news/slm-3d-pechat-metallami-principy-tehnologii-i-promyshlennye-vozmozhnosti/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2026/02/slm-3d-pechat-metallami.jpg\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2026/02/slm-3d-pechat-metallami.jpg\",\"width\":1024,\"height\":1024},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"AM.TECH\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"AM.TECH\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"AM.TECH\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "SLM 3D-печать металлами: принципы и промышленные возможности | AM-Tech",
+  "description": "SLM 3D-печать металлом: принципы технологии, этапы производства и возможности отечественных SLM-установок AM.TECH. Итоги вебинара и примеры применения.",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/news/slm-3d-pechat-metallami-principy-tehnologii-i-promyshlennye-vozmozhnosti/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "SLM 3D-печать металлами: принципы и промышленные возможности | AM-Tech",
+  "og_description": "SLM 3D-печать металлом: принципы технологии, этапы производства и возможности отечественных SLM-установок AM.TECH. Итоги вебинара и примеры применения.",
+  "og_url": "https://am-tech.ru/news/slm-3d-pechat-metallami-principy-tehnologii-i-promyshlennye-vozmozhnosti/",
+  "og_site_name": "AM.TECH",
+  "article_modified_time": "2026-10-14T14:09:47+00:00",
+  "og_image": [
+   {
+    "width": 1024,
+    "height": 1024,
+    "url": "https://am-tech.ru/wp-content/uploads/2026/02/slm-3d-pechat-metallami.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "6 минут"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/news/slm-3d-pechat-metallami-principy-tehnologii-i-promyshlennye-vozmozhnosti/",
+     "url": "https://am-tech.ru/news/slm-3d-pechat-metallami-principy-tehnologii-i-promyshlennye-vozmozhnosti/",
+     "name": "SLM 3D-печать металлами: принципы и промышленные возможности | AM-Tech",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/news/slm-3d-pechat-metallami-principy-tehnologii-i-promyshlennye-vozmozhnosti/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/news/slm-3d-pechat-metallami-principy-tehnologii-i-promyshlennye-vozmozhnosti/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2026/02/slm-3d-pechat-metallami.jpg",
+     "datePublished": "2026-02-11T07:33:19+00:00",
+     "dateModified": "2026-10-14T14:09:47+00:00",
+     "description": "SLM 3D-печать металлом: принципы технологии, этапы производства и возможности отечественных SLM-установок AM.TECH. Итоги вебинара и примеры применения.",
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/news/slm-3d-pechat-metallami-principy-tehnologii-i-promyshlennye-vozmozhnosti/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/news/slm-3d-pechat-metallami-principy-tehnologii-i-promyshlennye-vozmozhnosti/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2026/02/slm-3d-pechat-metallami.jpg",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2026/02/slm-3d-pechat-metallami.jpg",
+     "width": 1024,
+     "height": 1024
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "AM.TECH",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "AM.TECH",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "AM.TECH"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3849",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/types/news"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/users/1"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/comments?post=3849"
+   }
+  ],
+  "wp:featuredmedia": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/media/3943"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/media?parent=3849"
+   }
+  ],
+  "wp:term": [
+   {
+    "taxonomy": "news_category",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_category?post=3849"
+   },
+   {
+    "taxonomy": "news_tag",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_tag?post=3849"
+   }
+  ],
+  "wp:action-publish": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3849"
+   }
+  ],
+  "wp:action-unfiltered-html": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3849"
+   }
+  ],
+  "wp:action-assign-author": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3849"
+   }
+  ],
+  "wp:action-create-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3849"
+   }
+  ],
+  "wp:action-assign-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3849"
+   }
+  ],
+  "wp:action-create-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3849"
+   }
+  ],
+  "wp:action-assign-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3849"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

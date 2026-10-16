@@ -271,7 +271,10 @@ def build_update(item: dict, changes: list[dict], kind: str = "product") -> dict
                 if item.get("yoast_seo") is None:
                     raise ValueError(f"{item['slug']}: поля Yoast категорий закрыты для API — нужен сниппет "
                                      "«Поля Yoast категорий для REST API» (задача 49)")
-                body.setdefault("yoast_seo", {})[CATEGORY_YOAST[field]] = value
+                # Yoast (WPSEO_Taxonomy_Meta::set_values) сбрасывает непереданные поля в пустые: запись одного
+                # title стёрла description 14 категорий 16.10.2026. Поэтому title и description пишутся всегда вместе.
+                yoast = body.setdefault("yoast_seo", dict(item["yoast_seo"]))
+                yoast[CATEGORY_YOAST[field]] = value
             elif field == "name":
                 body["name"] = value
             elif field == "body":
