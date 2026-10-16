@@ -1,0 +1,726 @@
+{
+ "id": 3786,
+ "name": "3D-сканер NimbleTrack C+",
+ "slug": "3d-skaner-nimbletrack-c",
+ "permalink": "https://am-tech.ru/product/3d-skaner-nimbletrack-c/",
+ "date_created": "2026-01-26T15:54:05",
+ "date_created_gmt": "2026-01-26T12:54:05",
+ "date_modified": "2026-06-30T15:05:14",
+ "date_modified_gmt": "2026-06-30T12:05:14",
+ "type": "simple",
+ "status": "publish",
+ "featured": false,
+ "catalog_visibility": "visible",
+ "description": "<section class=\"nc-premium\">\r\n<p class=\"mod-reset\"><style>\r\n    .nc-premium{background:#fff;color:#111;font-family:Arial,sans-serif}<br />    .nc-premium *{box-sizing:border-box}</p>\r\n<p>    .nc-container{<br />      max-width:1180px;<br />      margin:0 auto;<br />      padding:64px 18px;<br />    }</p>\r\n<p>    .nc-hero{<br />      display:grid;<br />      grid-template-columns:minmax(0,580px) minmax(420px,1fr);<br />      justify-content:space-between;<br />      gap:64px;<br />      align-items:center;<br />      width:100%;<br />    }</p>\r\n<p>    .nc-hero-text{max-width:580px}</p>\r\n<p>    .nc-title{<br />      margin:0 0 22px;<br />      font-size:54px;<br />      line-height:1.04;<br />      font-weight:800;<br />      color:#0d0d0d;<br />    }</p>\r\n<p>    .nc-title strong{color:#ff7a00}</p>\r\n<p>    .nc-lead{<br />      margin:0 0 18px;<br />      font-size:19px;<br />      line-height:1.75;<br />      color:#333;<br />    }</p>\r\n<p>    .nc-orange{color:#ff7a00;font-weight:800}</p>\r\n<p>    .nc-hero-visual{<br />      position:relative;<br />      min-height:540px;<br />      border-radius:36px;<br />      overflow:hidden;<br />      background:<br />        radial-gradient(circle at top right,rgba(255,122,0,.18),transparent 32%),<br />        linear-gradient(145deg,#f8f8f8,#ffffff);<br />      box-shadow:0 24px 70px rgba(0,0,0,.10);<br />      display:flex;<br />      align-items:center;<br />      justify-content:center;<br />    }</p>\r\n<p>    .nc-grid{<br />      position:absolute;<br />      inset:0;<br />      background-image:<br />        linear-gradient(rgba(255,122,0,.05) 1px, transparent 1px),<br />        linear-gradient(90deg, rgba(255,122,0,.05) 1px, transparent 1px);<br />      background-size:42px 42px;<br />    }</p>\r\n<p>    .nc-rings{<br />      position:absolute;<br />      width:440px;<br />      height:440px;<br />      border-radius:50%;<br />      border:1px solid rgba(255,122,0,.12);<br />    }</p>\r\n<p>    .nc-rings:before,<br />    .nc-rings:after{<br />      content:\"\";<br />      position:absolute;<br />      border-radius:50%;<br />      border:1px solid rgba(255,122,0,.10);<br />    }</p>\r\n<p>    .nc-rings:before{inset:42px}<br />    .nc-rings:after{inset:84px}</p>\r\n<p>    .nc-core{<br />      position:relative;<br />      z-index:3;<br />      width:340px;<br />      padding:36px;<br />      border-radius:34px;<br />      background:rgba(18,18,18,.94);<br />      backdrop-filter:blur(14px);<br />      box-shadow:<br />        0 32px 80px rgba(0,0,0,.28),<br />        inset 0 1px 0 rgba(255,255,255,.08);<br />    }</p>\r\n<p>    .nc-core-label{<br />      display:block;<br />      margin-bottom:10px;<br />      font-size:13px;<br />      letter-spacing:.08em;<br />      text-transform:uppercase;<br />      color:#a8a8a8;<br />    }</p>\r\n<p>    .nc-core-value{<br />      display:block;<br />      margin-bottom:26px;<br />      font-size:52px;<br />      line-height:1;<br />      font-weight:800;<br />      color:#fff;<br />    }</p>\r\n<p>    .nc-laser-graph{<br />      position:relative;<br />      height:130px;<br />      margin-bottom:24px;<br />      overflow:hidden;<br />      border-radius:20px;<br />      background:linear-gradient(180deg,rgba(255,255,255,.05),rgba(255,255,255,.01));<br />    }</p>\r\n<p>    .nc-laser-line{<br />      position:absolute;<br />      width:160%;<br />      height:2px;<br />      background:linear-gradient(90deg,transparent,#ff7a00,transparent);<br />      opacity:.9;<br />      transform-origin:center;<br />    }</p>\r\n<p>    .nc-line-1{top:18%;left:-20%;transform:rotate(12deg)}<br />    .nc-line-2{top:34%;left:-10%;transform:rotate(-8deg)}<br />    .nc-line-3{top:52%;left:-15%;transform:rotate(6deg)}<br />    .nc-line-4{top:70%;left:-8%;transform:rotate(-11deg)}<br />    .nc-line-5{top:86%;left:-20%;transform:rotate(10deg)}</p>\r\n<p>    .nc-core-bottom{<br />      font-size:18px;<br />      line-height:1.6;<br />      color:#ececec;<br />    }</p>\r\n<p>    .nc-infographic{<br />      display:grid;<br />      grid-template-columns:repeat(4,1fr);<br />      gap:22px;<br />      margin:58px 0;<br />    }</p>\r\n<p>    .nc-chart{<br />      background:#fff;<br />      border:1px solid #ededed;<br />      border-radius:28px;<br />      padding:28px;<br />      box-shadow:0 18px 45px rgba(0,0,0,.07);<br />      min-height:310px;<br />    }</p>\r\n<p>    .nc-chart h3{<br />      margin:0 0 18px;<br />      font-size:21px;<br />      color:#111;<br />    }</p>\r\n<p>    .nc-chart p{<br />      margin:14px 0 0;<br />      font-size:15px;<br />      line-height:1.6;<br />      color:#444;<br />    }</p>\r\n<p>    .nc-circle{<br />      width:170px;<br />      height:170px;<br />      margin:10px auto 18px;<br />      border-radius:50%;<br />      background:<br />        radial-gradient(circle at center,#fff 58%,transparent 59%),<br />        conic-gradient(#ff7a00 92%,#f0f0f0 0);<br />      display:flex;<br />      align-items:center;<br />      justify-content:center;<br />    }</p>\r\n<p>    .nc-circle span{<br />      font-size:22px;<br />      font-weight:800;<br />      color:#111;<br />    }</p>\r\n<p>    .nc-bar-bg{<br />      height:18px;<br />      margin:24px 0 16px;<br />      border-radius:30px;<br />      overflow:hidden;<br />      background:#f0f0f0;<br />    }</p>\r\n<p>    .nc-bar{<br />      width:100%;<br />      height:100%;<br />      border-radius:30px;<br />      background:linear-gradient(90deg,#ff7a00,#ffb15c);<br />    }</p>\r\n<p>    .nc-value{<br />      font-size:30px;<br />      font-weight:800;<br />      color:#ff7a00;<br />    }</p>\r\n<p>    .nc-columns{<br />      height:210px;<br />      display:flex;<br />      align-items:flex-end;<br />      gap:14px;<br />      border-bottom:1px solid #ddd;<br />      margin-top:22px;<br />    }</p>\r\n<p>    .nc-columns div{<br />      flex:1;<br />      display:flex;<br />      flex-direction:column;<br />      align-items:center;<br />      gap:8px;<br />      text-align:center;<br />      font-size:12px;<br />      color:#555;<br />    }</p>\r\n<p>    .nc-columns i{<br />      width:100%;<br />      max-width:42px;<br />      display:block;<br />      border-radius:12px 12px 0 0;<br />      background:linear-gradient(180deg,#ff7a00,#ffb15c);<br />    }</p>\r\n<p>    .nc-section{margin-top:64px}</p>\r\n<p>    .nc-section h3{<br />      margin:0 0 18px;<br />      font-size:34px;<br />      line-height:1.2;<br />      color:#111;<br />    }</p>\r\n<p>    .nc-cards{<br />      display:grid;<br />      grid-template-columns:repeat(2,1fr);<br />      gap:22px;<br />      margin-top:34px;<br />    }</p>\r\n<p>    .nc-card{<br />      padding:30px;<br />      border-radius:28px;<br />      background:#fafafa;<br />      border:1px solid #ededed;<br />      box-shadow:0 14px 35px rgba(0,0,0,.05);<br />    }</p>\r\n<p>    .nc-card-number{<br />      width:48px;<br />      height:48px;<br />      border-radius:50%;<br />      background:#ff7a00;<br />      color:#fff;<br />      display:flex;<br />      align-items:center;<br />      justify-content:center;<br />      font-weight:800;<br />      margin-bottom:18px;<br />    }</p>\r\n<p>    .nc-card strong{<br />      display:block;<br />      margin-bottom:10px;<br />      font-size:22px;<br />      color:#111;<br />    }</p>\r\n<p>    .nc-card p{<br />      margin:0;<br />      font-size:15px;<br />      line-height:1.7;<br />      color:#444;<br />    }</p>\r\n<p>    .nc-dark{<br />      margin-top:64px;<br />      padding:44px;<br />      border-radius:34px;<br />      background:linear-gradient(135deg,#111,#292929);<br />      box-shadow:0 24px 70px rgba(0,0,0,.18);<br />      color:#fff;<br />    }</p>\r\n<p>    .nc-dark h3{<br />      margin:0 0 18px;<br />      font-size:34px;<br />      color:#fff;<br />    }</p>\r\n<p>    .nc-dark p{<br />      margin:0;<br />      font-size:17px;<br />      line-height:1.8;<br />      color:#ececec;<br />    }</p>\r\n<p>    @media(max-width:980px){<br />      .nc-hero,<br />      .nc-infographic,<br />      .nc-cards{<br />        grid-template-columns:1fr;<br />      }</p>\r\n<p>      .nc-container{padding:42px 16px}<br />      .nc-title{font-size:38px}<br />      .nc-hero-visual{min-height:430px}</p>\r\n<p>      .nc-core{<br />        width:290px;<br />        padding:28px;<br />      }</p>\r\n<p>      .nc-core-value{font-size:42px}</p>\r\n<p>      .nc-rings{<br />        width:320px;<br />        height:320px;<br />      }<br />    }<br />  </style></p>\r\n\r\n<div class=\"nc-container\">\r\n<div class=\"nc-hero\">\r\n<div class=\"nc-hero-text\">\r\n<h2 class=\"nc-title\">NimbleTrack C+ —\r\n<strong>беспроводная система 3D-сканирования нового поколения</strong></h2>\r\n<p class=\"nc-lead\"><strong>NimbleTrack C+</strong> — высокотехнологичная система 3D-сканирования для прецизионных измерений средних и крупногабаритных объектов.</p>\r\n<p class=\"nc-lead\">Система построена на базе проверенной оптической платформы и оснащена инновационной лазерной матрицей, обеспечивающей высокую плотность данных, исключительную скорость сканирования и промышленную точность.</p>\r\n<p class=\"nc-lead\">NimbleTrack C+ устанавливает новый стандарт для метрологических задач в области контроля качества и обратного проектирования.</p>\r\n\r\n</div>\r\n<div class=\"nc-hero-visual\">\r\n<div class=\"nc-grid\"></div>\r\n<div class=\"nc-rings\"></div>\r\n<div class=\"nc-core\"><span class=\"nc-core-label\">Лазерная матрица</span>\r\n<span class=\"nc-core-value\">54 линии</span>\r\n<div class=\"nc-laser-graph\">\r\n<div class=\"nc-laser-line nc-line-1\"></div>\r\n<div class=\"nc-laser-line nc-line-2\"></div>\r\n<div class=\"nc-laser-line nc-line-3\"></div>\r\n<div class=\"nc-laser-line nc-line-4\"></div>\r\n<div class=\"nc-laser-line nc-line-5\"></div>\r\n</div>\r\n<div class=\"nc-core-bottom\">Плотное покрытие поверхности\r\nи высокодетализированное сканирование</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"nc-infographic\">\r\n<div class=\"nc-chart\">\r\n<h3>Скорость сканирования</h3>\r\n<div class=\"nc-bar-bg\">\r\n<div class=\"nc-bar\"></div>\r\n</div>\r\n<div class=\"nc-value\">6 630 000</div>\r\nточек в секунду для ускоренной оцифровки крупных объектов.\r\n\r\n</div>\r\n<div class=\"nc-chart\">\r\n<h3>Лазерная матрица</h3>\r\n<div class=\"nc-circle\">54</div>\r\nсиних пересекающихся лазерных линий для плотного покрытия поверхности.\r\n\r\n</div>\r\n<div class=\"nc-chart\">\r\n<h3>Поле зрения</h3>\r\n<div class=\"nc-columns\">\r\n<div>500 мм<i style=\"height: 84%;\"></i></div>\r\n<div>600 мм<i style=\"height: 100%;\"></i></div>\r\n</div>\r\nУвеличенная зона сканирования для объектов среднего и крупного размера.\r\n\r\n</div>\r\n<div class=\"nc-chart\">\r\n<h3>Объемная точность</h3>\r\n<div class=\"nc-circle\">0,032</div>\r\nВысокая стабильность измерений в соответствии со строгими промышленными требованиями.\r\n\r\n</div>\r\n</div>\r\n<div class=\"nc-section\">\r\n<h3>Ключевые преимущества NimbleTrack C+</h3>\r\n<div class=\"nc-cards\">\r\n<div class=\"nc-card\">\r\n<div class=\"nc-card-number\">01</div>\r\n<strong>Лазерная матрица повышенной плотности</strong>\r\n\r\n54 синих пересекающихся лазерных линии обеспечивают детализированное покрытие поверхности и быстрое захватывание сложной геометрии.\r\n\r\n</div>\r\n<div class=\"nc-card\">\r\n<div class=\"nc-card-number\">02</div>\r\n<strong>Высокая скорость и производительность</strong>\r\n\r\nСкорость до 6 630 000 точек в секунду позволяет значительно сократить время оцифровки крупных объектов.\r\n\r\n</div>\r\n<div class=\"nc-card\">\r\n<div class=\"nc-card-number\">03</div>\r\n<strong>Расширенное поле зрения</strong>\r\n\r\nПоле зрения 500 × 600 мм обеспечивает эффективную работу с крупными деталями без частого перемещения трекера.\r\n\r\n</div>\r\n<div class=\"nc-card\">\r\n<div class=\"nc-card-number\">04</div>\r\n<strong>Промышленная точность</strong>\r\n\r\nСтабильная платформа трекера гарантирует высокую точность измерений для метрологических задач промышленного уровня.\r\n\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"nc-dark\">\r\n<h3>Создан для промышленного контроля и реверс-инжиниринга</h3>\r\nNimbleTrack C+ идеально подходит для задач в автомобилестроении, аэрокосмической отрасли, энергетическом машиностроении и производстве оснастки, где критически важны скорость, детализация и надежность измерений.\r\n\r\n</div>\r\n</div>\r\n</section>",
+ "short_description": "<span style=\"font-family: var(--ui-font-family-primary, var(--ui-font-family-helvetica));\">Система NimbleTrack-C+ обеспечивает высокоточное 3D-сканирование без маркеров. </span>\r\n\r\n<span style=\"font-family: var(--ui-font-family-primary, var(--ui-font-family-helvetica));\">В сочетании с технологией трехмерного лазерного сканирования и высокоточным динамическим отслеживанием с помощью оптического трекера E-Track она обеспечивает быстрый и точный сбор данных.</span>\r\n\r\n&nbsp;\r\n\r\n<span style=\"font-family: var(--ui-font-family-primary, var(--ui-font-family-helvetica));\">Система комплектуется портативной координатно-измерительной машиной i-Probe (беспроводной КИМ) с повторяемостью до 0.025 мм в точке. (Опционально)</span>",
+ "sku": "",
+ "price": "",
+ "regular_price": "",
+ "sale_price": "",
+ "date_on_sale_from": null,
+ "date_on_sale_from_gmt": null,
+ "date_on_sale_to": null,
+ "date_on_sale_to_gmt": null,
+ "on_sale": false,
+ "purchasable": false,
+ "total_sales": 0,
+ "virtual": false,
+ "downloadable": false,
+ "downloads": [],
+ "download_limit": -1,
+ "download_expiry": -1,
+ "external_url": "",
+ "button_text": "",
+ "tax_status": "taxable",
+ "tax_class": "",
+ "manage_stock": false,
+ "stock_quantity": null,
+ "backorders": "no",
+ "backorders_allowed": false,
+ "backordered": false,
+ "low_stock_amount": null,
+ "sold_individually": false,
+ "weight": "",
+ "dimensions": {
+  "length": "",
+  "width": "",
+  "height": ""
+ },
+ "shipping_required": true,
+ "shipping_taxable": true,
+ "shipping_class": "",
+ "shipping_class_id": 0,
+ "reviews_allowed": true,
+ "average_rating": "0",
+ "rating_count": 0,
+ "upsell_ids": [],
+ "cross_sell_ids": [],
+ "parent_id": 0,
+ "purchase_note": "",
+ "categories": [
+  {
+   "id": 24,
+   "name": "3D-сканеры",
+   "slug": "3d-scan"
+  }
+ ],
+ "brands": [],
+ "tags": [],
+ "images": [
+  {
+   "id": 3787,
+   "date_created": "2026-01-26T19:28:47",
+   "date_created_gmt": "2026-01-26T13:28:47",
+   "date_modified": "2026-01-26T19:28:47",
+   "date_modified_gmt": "2026-01-26T13:28:47",
+   "src": "https://am-tech.ru/wp-content/uploads/2026/01/nimbletrack-s-i-e.png",
+   "name": "NimbleTrack С+ и Е",
+   "alt": ""
+  },
+  {
+   "id": 3788,
+   "date_created": "2026-01-26T19:29:08",
+   "date_created_gmt": "2026-01-26T13:29:08",
+   "date_modified": "2026-01-26T19:29:08",
+   "date_modified_gmt": "2026-01-26T13:29:08",
+   "src": "https://am-tech.ru/wp-content/uploads/2026/01/nimbletrack-gen2-5.jpg",
+   "name": "NimbleTrack Gen2 (5)",
+   "alt": ""
+  },
+  {
+   "id": 3789,
+   "date_created": "2026-01-26T19:29:17",
+   "date_created_gmt": "2026-01-26T13:29:17",
+   "date_modified": "2026-01-26T19:29:17",
+   "date_modified_gmt": "2026-01-26T13:29:17",
+   "src": "https://am-tech.ru/wp-content/uploads/2026/01/nimbletrack-gen2-3.jpg",
+   "name": "NimbleTrack Gen2 (3)",
+   "alt": ""
+  },
+  {
+   "id": 3790,
+   "date_created": "2026-01-26T19:29:23",
+   "date_created_gmt": "2026-01-26T13:29:23",
+   "date_modified": "2026-01-26T19:29:23",
+   "date_modified_gmt": "2026-01-26T13:29:23",
+   "src": "https://am-tech.ru/wp-content/uploads/2026/01/nimbletrack-gen2-11.jpg",
+   "name": "NimbleTrack Gen2 (11)",
+   "alt": ""
+  },
+  {
+   "id": 3791,
+   "date_created": "2026-01-26T19:29:28",
+   "date_created_gmt": "2026-01-26T13:29:28",
+   "date_modified": "2026-01-26T19:29:28",
+   "date_modified_gmt": "2026-01-26T13:29:28",
+   "src": "https://am-tech.ru/wp-content/uploads/2026/01/nimbletrack-gen2-1.jpg",
+   "name": "NimbleTrack Gen2 (1)",
+   "alt": ""
+  }
+ ],
+ "attributes": [
+  {
+   "id": 3524,
+   "name": "Точность, мм, до",
+   "slug": "pa_tochnost-mm-do",
+   "position": 0,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "0,025 0,020 (в режиме только сканер)"
+   ]
+  },
+  {
+   "id": 3525,
+   "name": "Объемная точность, мм",
+   "slug": "pa_obemnaja-tochnost-mm",
+   "position": 1,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "0,05"
+   ]
+  },
+  {
+   "id": 3528,
+   "name": "Объемная точность с фотограмметрией MSCAN L15, мм",
+   "slug": "pa_obemnaja-tochnost-s",
+   "position": 2,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "0,032 + 0,012∗L"
+   ]
+  },
+  {
+   "id": 3530,
+   "name": "Возможность работы со щупом",
+   "slug": "pa_vozmozhnost-shhupo",
+   "position": 3,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "i-Probe 500, повторяемость в одной точке 0,025 мм"
+   ]
+  },
+  {
+   "id": 3529,
+   "name": "Доверительная вероятность",
+   "slug": "pa_doveritelnaja-verojatnost",
+   "position": 4,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "0,95"
+   ]
+  },
+  {
+   "id": 3531,
+   "name": "Разрешение, мм, до",
+   "slug": "pa_razreshenie-mm-do",
+   "position": 5,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "0,02"
+   ]
+  },
+  {
+   "id": 3532,
+   "name": "Скорость измерений, точек/сек, до",
+   "slug": "pa_skorost-izmerenij",
+   "position": 6,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "6 300 000"
+   ]
+  },
+  {
+   "id": 3533,
+   "name": "Область сканирования (поле зрения), мм, до",
+   "slug": "pa_oblast-pole-zr",
+   "position": 7,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "500 х 600"
+   ]
+  },
+  {
+   "id": 3534,
+   "name": "Оптимальное расстояние до объекта, мм",
+   "slug": "pa_optimalnoe-rasstojanie",
+   "position": 8,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "300"
+   ]
+  },
+  {
+   "id": 3535,
+   "name": "Источник излучения",
+   "slug": "pa_istochnik-izluchenija",
+   "position": 9,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "Сверхбыстрое сканирование: 54 синие пересекающиеся лазерные линии Сканирование в высоком разрешении: 17 синих параллельных линий канирование глубоких отверстий: 1 синяя линия"
+   ]
+  },
+  {
+   "id": 3536,
+   "name": "Глубина резкости, мм",
+   "slug": "pa_glubina-rezkosti-mm",
+   "position": 10,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "400"
+   ]
+  },
+  {
+   "id": 3537,
+   "name": "Размеры измеряемого объекта, м",
+   "slug": "pa_razmery-izmerjaemogo",
+   "position": 11,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "0,1-4"
+   ]
+  },
+  {
+   "id": 3538,
+   "name": "Габариты сканера, мм",
+   "slug": "pa_gabarity-skanera-mm",
+   "position": 12,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "570×87×94 (трекер) 252×195×260 (сканер)"
+   ]
+  },
+  {
+   "id": 3539,
+   "name": "Вес сканера, кг",
+   "slug": "pa_ves-skanera-kg",
+   "position": 13,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "2,2 (трекер) 1,3 (сканер)"
+   ]
+  },
+  {
+   "id": 3540,
+   "name": "Температура окружающей среды при эксплуатации, °С",
+   "slug": "pa_temperatura",
+   "position": 14,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "от -10 до +40"
+   ]
+  },
+  {
+   "id": 3541,
+   "name": "Наличие в реестре средств измерений",
+   "slug": "pa_nalichie-v-reestre",
+   "position": 15,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "Внесен"
+   ]
+  }
+ ],
+ "default_attributes": [],
+ "variations": [],
+ "grouped_products": [],
+ "menu_order": 7,
+ "price_html": "",
+ "related_ids": [
+  1647,
+  2838,
+  1662,
+  1699,
+  1575
+ ],
+ "meta_data": [
+  {
+   "id": 41405,
+   "key": "bitrix_id",
+   "value": "2406"
+  },
+  {
+   "id": 41406,
+   "key": "Символьный код",
+   "value": "nimbletrack-c"
+  },
+  {
+   "id": 41407,
+   "key": "Анонс",
+   "value": "<p><span style=\"font-family: var(--ui-font-family-primary, var(--ui-font-family-helvetica));\">Система NimbleTrack-C обеспечивает высокоточное 3D-сканирование без маркеров.&nbsp;</span></p>\r\n<p><span style=\"font-family: var(--ui-font-family-primary, var(--ui-font-family-helvetica));\">В сочетании с технологией трехмерного лазерного сканирования и высокоточным динамическим отслеживанием с помощью оптического трекера E-Track она обеспечивает быстрый и точный сбор данных.</span></p>\r\n<p>&nbsp;</p>\r\n<p><span style=\"font-family: var(--ui-font-family-primary, var(--ui-font-family-helvetica));\">Система комплектуется портативной координатно-измерительной машиной T-Probe (беспроводной КИМ) с повторяемостью до 0.030 мм в точке. (Опционально)</span></p>"
+  },
+  {
+   "id": 41408,
+   "key": "Описание",
+   "value": "<h2>Невероятная компактность и беспроводное подключение</h2>\r\n<table style=\"border-collapse: collapse; width: 98.5735%; height: 100%; border-style: hidden;\" border=\"0\">\r\n<tbody>\r\n<tr>\r\n<td style=\"width: 49.7467%;\">\r\n<p>Легкий и компактный NimbleTrack устанавливает новый стандарт для оптической системы 3D-сканирования, имея длину 57 см и общий вес 2,2 кг. Его легкая конструкция позволяет пользователям измерять детали в любом месте.&nbsp;</p>\r\n<p>Инженеры и профессионалы могут использовать 3D-сканер весом всего 1,3 кг в течение длительного времени, не чувствуя усталости.</p>\r\n<p>В комплект поставки входит небольшой стандартный защитный кейс, в который можно поместить все инструменты для гибкого и удобного использования.</p>\r\n</td>\r\n<td style=\"width: 49.7467%;\"><img src=\"/upload/editor_images/1720102917-mceu_9895695711720102912519.png\" height=\"400\" /></td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p><font size=\"4\"><b>Дизайн CFFIM</b></font><br /><font size=\"4\">В 3D-сканере NimbleTrack применена инновационная технология Carbon Fiber Frame Integrated Molding (CFFIM), обеспечивающая легкость конструкции и высокую прочность. Устройство работает в диапазоне температур от -10 до +40&deg;C, что делает его подходящим для использования в различных условиях.</font></p>\r\n<p><font size=\"4\"><b>Стабильная производительность</b></font></p>\r\n<p><span style=\"font-weight: 400;\">Удобное программное обеспечение позволяет </span><span style=\"font-weight: 400;\">преодолевать ограничения, накладываемые традиционными сборными конструкциями. Он очень стабилен, поскольку его структура устойчива и практически не подвержена температурным колебаниям.</span><span style=\"font-weight: 400;\"> Система достигает точности до 0,025 мм и максимальной объемной точности 0,052 мм во всем диапазоне сканирования</span></p>\r\n<p><font size=\"4\"><b>Одна калибровка для длительного использования</b></font><br /><font size=\"4\">Однократная калибровка обеспечивает стабильную работу в течение длительного периода.</font></p>\r\n<p>Все представленное в нашем каталоге оборудование доступно к приобретению на выгодных условиях <a href=\"https://am-tech.ru/leasing/\">лизинга.</a></p>\r\n<p>Наши специалисты помогут подобрать оптимальную схему лизинга под ваши производственные задачи и финансовые возможности, а также окажут содействие в оформлении всей необходимой документации.</p>"
+  },
+  {
+   "id": 41409,
+   "key": "Точность, мм",
+   "value": "до 0,025 до 0,020   (в режиме только сканер)"
+  },
+  {
+   "id": 41410,
+   "key": "Объемная точность, мм/м",
+   "value": "0,052"
+  },
+  {
+   "id": 41411,
+   "key": "Объемная точность с фотограмметрией MSCAN L15, мм/м",
+   "value": "0,044 + 0,012∗L"
+  },
+  {
+   "id": 41412,
+   "key": "Доверительная вероятность",
+   "value": "0,95"
+  },
+  {
+   "id": 41413,
+   "key": "Возможность работы со щупом",
+   "value": "i-Probe 500, повторяемость в одной точке 0,025 мм"
+  },
+  {
+   "id": 41414,
+   "key": "Разрешение, мм",
+   "value": "0,020"
+  },
+  {
+   "id": 41415,
+   "key": "Скорость измерений, точек/сек",
+   "value": "4 900 000"
+  },
+  {
+   "id": 41416,
+   "key": "Область сканирования (поле зрения), мм",
+   "value": "500х600"
+  },
+  {
+   "id": 41417,
+   "key": "Оптимальное расстояние до объекта, мм",
+   "value": "300"
+  },
+  {
+   "id": 41418,
+   "key": "Источник излучения",
+   "value": "Сверхбыстрое сканирование: 17 синих лазерных крестов (34 линии)  Сканирование в высоком разрешении: 7 синих параллельных линий  Сканирование глубоких отверстий: 1 синяя линия"
+  },
+  {
+   "id": 41419,
+   "key": "Глубина резкости, мм",
+   "value": "400"
+  },
+  {
+   "id": 41420,
+   "key": "Размеры измеряемого объекта, м",
+   "value": "0,1-4"
+  },
+  {
+   "id": 41421,
+   "key": "Габариты, мм",
+   "value": "570×87×94 (трекер) 238×203×230 (сканер)"
+  },
+  {
+   "id": 41422,
+   "key": "Вес, кг",
+   "value": "2,2 (трекер) 1,3 (сканер)"
+  },
+  {
+   "id": 41423,
+   "key": "Температура окружающей среды, °C",
+   "value": "от -10 до +40"
+  },
+  {
+   "id": 41424,
+   "key": "Наличие в реестре средств измерений",
+   "value": "Внесен"
+  },
+  {
+   "id": 41425,
+   "key": "Страна производства",
+   "value": "Китай"
+  },
+  {
+   "id": 41426,
+   "key": "Связанные товары по фильтру",
+   "value": "[]"
+  },
+  {
+   "id": 41427,
+   "key": "Вес, кг.",
+   "value": "1,35"
+  },
+  {
+   "id": 41428,
+   "key": "Внешние габариты, мм",
+   "value": "570 х 87 х 94"
+  },
+  {
+   "id": 41429,
+   "key": "Класс лазера (безопасность для глаз)",
+   "value": "Класс II (безопасно для глаз)"
+  },
+  {
+   "id": 41430,
+   "key": "bitrix_picture",
+   "value": "/pr_new_files/iblock/8ec/rlr0m8dcah4baj19q7fpt7cu2q5vxeyn.png"
+  },
+  {
+   "id": 41431,
+   "key": "wbcr_wp_old_slug",
+   "value": "%d0%bb%d0%b0%d0%b7%d0%b5%d1%80%d0%bd%d1%8b%d0%b9-3d-%d1%81%d0%ba%d0%b0%d0%bd%d0%b5%d1%80-nimbletrack-c"
+  },
+  {
+   "id": 41432,
+   "key": "Документы товара",
+   "value": ""
+  },
+  {
+   "id": 41433,
+   "key": "Код с видео (iframe)",
+   "value": ""
+  },
+  {
+   "id": 41434,
+   "key": "Файл видео",
+   "value": ""
+  },
+  {
+   "id": 41435,
+   "key": "_news_category",
+   "value": "0"
+  },
+  {
+   "id": 41436,
+   "key": "_news_tag",
+   "value": "0"
+  },
+  {
+   "id": 41437,
+   "key": "_my_menu_type",
+   "value": "обычное"
+  },
+  {
+   "id": 41438,
+   "key": "_video_block",
+   "value": {
+    "video_title": "",
+    "video_post_id": "",
+    "right_title": "",
+    "subtitle": "",
+    "video_description": "",
+    "button_text": "Смотреть больше видео",
+    "tag_id": ""
+   }
+  },
+  {
+   "id": 41439,
+   "key": "boldgrid_in_page_containers",
+   "value": "1"
+  },
+  {
+   "id": 41440,
+   "key": "_yoast_wpseo_primary_product_brand",
+   "value": ""
+  },
+  {
+   "id": 41441,
+   "key": "_yoast_wpseo_primary_product_cat",
+   "value": ""
+  },
+  {
+   "id": 41442,
+   "key": "_yoast_wpseo_content_score",
+   "value": "90"
+  },
+  {
+   "id": 41443,
+   "key": "_yoast_wpseo_estimated-reading-time-minutes",
+   "value": "2"
+  },
+  {
+   "id": 41444,
+   "key": "_yoast_wpseo_metadesc",
+   "value": "3D-сканер NimbleTrack C+ — расширенный функционал и точность. Закажите демонстрацию на сайте AM-Tech."
+  },
+  {
+   "id": 41445,
+   "key": "_custom_advantages",
+   "value": ""
+  },
+  {
+   "id": 41446,
+   "key": "_yoast_wpseo_title",
+   "value": "3D-сканер NimbleTrack C+ — заказать у производителя | AM-Tech"
+  },
+  {
+   "id": 41447,
+   "key": "_vcv-sourceChecksum",
+   "value": "e0d540ce157ee2bb31ffebf949679a82"
+  },
+  {
+   "id": 41448,
+   "key": "vcvSourceCssFileUrl",
+   "value": "/assets-bundles/e0d540ce157ee2bb31ffebf949679a82.source.css"
+  },
+  {
+   "id": 41449,
+   "key": "_vcv-globalCssMigrated",
+   "value": "1"
+  },
+  {
+   "id": 52855,
+   "key": "_elementor_page_assets",
+   "value": []
+  }
+ ],
+ "stock_status": "instock",
+ "has_options": false,
+ "post_password": "",
+ "global_unique_id": "",
+ "permalink_template": "https://am-tech.ru/product/%pagename%/",
+ "generated_slug": "3d-skaner-nimbletrack-c",
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>3D-сканер NimbleTrack C+ — заказать у производителя | AM-Tech</title>\n<meta name=\"description\" content=\"3D-сканер NimbleTrack C+ — расширенный функционал и точность. Закажите демонстрацию на сайте AM-Tech.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/product/3d-skaner-nimbletrack-c/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"3D-сканер NimbleTrack C+ — заказать у производителя | AM-Tech\" />\n<meta property=\"og:description\" content=\"3D-сканер NimbleTrack C+ — расширенный функционал и точность. Закажите демонстрацию на сайте AM-Tech.\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/product/3d-skaner-nimbletrack-c/\" />\n<meta property=\"og:site_name\" content=\"AM.TECH\" />\n<meta property=\"article:modified_time\" content=\"2026-06-30T12:05:14+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2026/01/nimbletrack-s-i-e.png\" />\n\t<meta property=\"og:image:width\" content=\"1131\" />\n\t<meta property=\"og:image:height\" content=\"1619\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"2 минуты\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/product/3d-skaner-nimbletrack-c/\",\"url\":\"https://am-tech.ru/product/3d-skaner-nimbletrack-c/\",\"name\":\"3D-сканер NimbleTrack C+ — заказать у производителя | AM-Tech\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/product/3d-skaner-nimbletrack-c/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/product/3d-skaner-nimbletrack-c/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2026/01/nimbletrack-s-i-e.png\",\"datePublished\":\"2026-01-26T12:54:05+00:00\",\"dateModified\":\"2026-06-30T12:05:14+00:00\",\"description\":\"3D-сканер NimbleTrack C+ — расширенный функционал и точность. Закажите демонстрацию на сайте AM-Tech.\",\"breadcrumb\":{\"@id\":\"https://am-tech.ru/product/3d-skaner-nimbletrack-c/#breadcrumb\"},\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/product/3d-skaner-nimbletrack-c/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/product/3d-skaner-nimbletrack-c/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2026/01/nimbletrack-s-i-e.png\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2026/01/nimbletrack-s-i-e.png\",\"width\":1131,\"height\":1619},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://am-tech.ru/product/3d-skaner-nimbletrack-c/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Главная страница\",\"item\":\"https://am-tech.ru/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Промышленные 3D сканеры: оборудование для реверс-инжиниринга и контроля качества\",\"item\":\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"3D-сканеры\",\"item\":\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"3D-сканер NimbleTrack C+\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"AM.TECH\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"AM.TECH\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"AM.TECH\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "3D-сканер NimbleTrack C+ — заказать у производителя | AM-Tech",
+  "description": "3D-сканер NimbleTrack C+ — расширенный функционал и точность. Закажите демонстрацию на сайте AM-Tech.",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/product/3d-skaner-nimbletrack-c/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "3D-сканер NimbleTrack C+ — заказать у производителя | AM-Tech",
+  "og_description": "3D-сканер NimbleTrack C+ — расширенный функционал и точность. Закажите демонстрацию на сайте AM-Tech.",
+  "og_url": "https://am-tech.ru/product/3d-skaner-nimbletrack-c/",
+  "og_site_name": "AM.TECH",
+  "article_modified_time": "2026-06-30T12:05:14+00:00",
+  "og_image": [
+   {
+    "width": 1131,
+    "height": 1619,
+    "url": "https://am-tech.ru/wp-content/uploads/2026/01/nimbletrack-s-i-e.png",
+    "type": "image/png"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "2 минуты"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/product/3d-skaner-nimbletrack-c/",
+     "url": "https://am-tech.ru/product/3d-skaner-nimbletrack-c/",
+     "name": "3D-сканер NimbleTrack C+ — заказать у производителя | AM-Tech",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/product/3d-skaner-nimbletrack-c/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/product/3d-skaner-nimbletrack-c/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2026/01/nimbletrack-s-i-e.png",
+     "datePublished": "2026-01-26T12:54:05+00:00",
+     "dateModified": "2026-06-30T12:05:14+00:00",
+     "description": "3D-сканер NimbleTrack C+ — расширенный функционал и точность. Закажите демонстрацию на сайте AM-Tech.",
+     "breadcrumb": {
+      "@id": "https://am-tech.ru/product/3d-skaner-nimbletrack-c/#breadcrumb"
+     },
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/product/3d-skaner-nimbletrack-c/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/product/3d-skaner-nimbletrack-c/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2026/01/nimbletrack-s-i-e.png",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2026/01/nimbletrack-s-i-e.png",
+     "width": 1131,
+     "height": 1619
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://am-tech.ru/product/3d-skaner-nimbletrack-c/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Главная страница",
+       "item": "https://am-tech.ru/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Промышленные 3D сканеры: оборудование для реверс-инжиниринга и контроля качества",
+       "item": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "3D-сканеры",
+       "item": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 4,
+       "name": "3D-сканер NimbleTrack C+"
+      }
+     ]
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "AM.TECH",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "AM.TECH",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "AM.TECH"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wc/v3/products/3786",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wc/v3/products"
+   }
+  ]
+ }
+}
