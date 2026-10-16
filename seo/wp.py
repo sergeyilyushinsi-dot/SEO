@@ -293,6 +293,8 @@ def build_update(item: dict, changes: list[dict], kind: str = "product") -> dict
             found = next((m for m in item.get("meta_data", []) if m["key"] == key), None)
             if not found or not isinstance(found["value"], str):
                 raise ValueError(f"{item['slug']}: у товара нет текстового поля {key}")
+            if any(c in value for c in "<>&"):  # новый текст экранируется — теги и &nbsp; стали бы видимым текстом
+                raise ValueError(f"{item['slug']}: в {field} заменяется только текст, без тегов и сущностей: «{value[:60]}»")
             # Несколько правок одного поля накапливаются: каждая следующая меняет уже исправленный текст.
             prev = next((m for m in meta if m["key"] == key), None)
             raw = prev["value"] if prev else found["value"]

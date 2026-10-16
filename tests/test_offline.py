@@ -92,6 +92,12 @@ def test_wp_meta_fragment():
                                      {"field": "meta:_custom_advantages", "old": "AMT-45", "value": "AMT-43"}])
     assert body["meta_data"] == [{"id": 8, "key": "_custom_advantages",
                                   "value": "<h2>Порошки</h2>\r\nв SLM-установке AMT-43.\r\n"}]
+    try:  # фрагмент с тегом записался бы как &lt;/h2&gt;
+        wp.build_update(PRODUCT, [{"field": "meta:_custom_advantages", "old": "Материалы</h2>", "value": "Порошки</h2>"}])
+    except ValueError:
+        pass
+    else:
+        raise AssertionError("фрагмент мета-поля с тегами должен отклоняться")
 
 
 def test_wp_status_on_page():
