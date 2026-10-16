@@ -87,6 +87,11 @@ def test_wp_meta_fragment():
                                       "value": "SLM-установке AMT-43"}])
     assert body["meta_data"] == [{"id": 8, "key": "_custom_advantages",
                                   "value": "<h2>Материалы</h2>\r\nв SLM-установке AMT-43.\r\n"}]
+    # Две правки одного поля: вторая не затирает первую (16.10.2026 так потерялись 4 правки)
+    body = wp.build_update(PRODUCT, [{"field": "meta:_custom_advantages", "old": "Материалы", "value": "Порошки"},
+                                     {"field": "meta:_custom_advantages", "old": "AMT-45", "value": "AMT-43"}])
+    assert body["meta_data"] == [{"id": 8, "key": "_custom_advantages",
+                                  "value": "<h2>Порошки</h2>\r\nв SLM-установке AMT-43.\r\n"}]
 
 
 def test_wp_status_on_page():

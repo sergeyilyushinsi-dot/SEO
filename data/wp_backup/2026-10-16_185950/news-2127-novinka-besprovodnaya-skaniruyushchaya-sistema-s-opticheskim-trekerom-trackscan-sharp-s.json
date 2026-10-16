@@ -1,0 +1,274 @@
+{
+ "id": 2127,
+ "date": "2024-09-23T00:00:00",
+ "date_gmt": "2024-09-22T21:00:00",
+ "guid": {
+  "rendered": "http://am-tech.ru/news/novinka-besprovodnaya-skaniruyushchaya-sistema-s-opticheskim-trekerom-trackscan-sharp-s/",
+  "raw": "http://am-tech.ru/news/novinka-besprovodnaya-skaniruyushchaya-sistema-s-opticheskim-trekerom-trackscan-sharp-s/"
+ },
+ "modified": "2026-10-14T17:12:22",
+ "modified_gmt": "2026-10-14T14:12:22",
+ "password": "",
+ "slug": "novinka-besprovodnaya-skaniruyushchaya-sistema-s-opticheskim-trekerom-trackscan-sharp-s",
+ "status": "publish",
+ "type": "news",
+ "link": "https://am-tech.ru/news/novinka-besprovodnaya-skaniruyushchaya-sistema-s-opticheskim-trekerom-trackscan-sharp-s/",
+ "title": {
+  "raw": "Новинка: Беспроводная сканирующая система с оптическим трекером TrackScan Sharp S",
+  "rendered": "Новинка: Беспроводная сканирующая система с оптическим трекером TrackScan Sharp S"
+ },
+ "content": {
+  "raw": "<h3>Мы рады представить нашу новинку - беспроводную оптическую систему TrackScan Sharp S!</h3>\n<p>Среди ключевых особенностей, отличающих новый TrackScan Sharp S:</p>\n<ul>\n<li>Беспроводная система, обеспечивающая мобильность и удобство в использовании</li>\n<li>Высокоточный диапазон измерений 135 м&sup3; и это рекорд среди всех подобных систем на рынке</li>\n<li>Максимальное расстояние между трекером и сканером при сканировании - 8,5 метров</li>\n<li>Увеличенная область сканирования 800x700 мм</li>\n<li>Новый дизайн сканера</li>\n<li>81 перекрестная линия (новая технология перекрестий трех линий) и 17 параллельных</li>\n<li>Скорость сканирования 4,86 миллионов точек в секунду, что на 2 млн точек в секунду больше, чем у прошлой модификации, и это рекорд среди всех подобных сканеров на рынке</li>\n</ul>\n<p>Благодаря инновационным алгоритмам и встроенным процессорам, наш сканер готов к работе в любых условиях, от аэрокосмической до тяжелой промышленности. Он идеально подходит для задач по обратному проектированию, контролю геометрии и разработке новых продуктов.</p>\n<p>Не упустите возможность познакомиться с TrackScan Sharp S! Подробности о продукте можно найти <a href=\"https://am.tech/product/trekers/am-tech-trackscan-sharp-s/\">в нашем каталоге.</a></p>",
+  "rendered": "<h3>Мы рады представить нашу новинку &#8212; беспроводную оптическую систему TrackScan Sharp S!</h3>\n<p>Среди ключевых особенностей, отличающих новый TrackScan Sharp S:</p>\n<ul>\n<li>Беспроводная система, обеспечивающая мобильность и удобство в использовании</li>\n<li>Высокоточный диапазон измерений 135 м&sup3; и это рекорд среди всех подобных систем на рынке</li>\n<li>Максимальное расстояние между трекером и сканером при сканировании &#8212; 8,5 метров</li>\n<li>Увеличенная область сканирования 800&#215;700 мм</li>\n<li>Новый дизайн сканера</li>\n<li>81 перекрестная линия (новая технология перекрестий трех линий) и 17 параллельных</li>\n<li>Скорость сканирования 4,86 миллионов точек в секунду, что на 2 млн точек в секунду больше, чем у прошлой модификации, и это рекорд среди всех подобных сканеров на рынке</li>\n</ul>\n<p>Благодаря инновационным алгоритмам и встроенным процессорам, наш сканер готов к работе в любых условиях, от аэрокосмической до тяжелой промышленности. Он идеально подходит для задач по обратному проектированию, контролю геометрии и разработке новых продуктов.</p>\n<p>Не упустите возможность познакомиться с TrackScan Sharp S! Подробности о продукте можно найти <a href=\"https://am.tech/product/trekers/am-tech-trackscan-sharp-s/\">в нашем каталоге.</a></p>\n",
+  "protected": false,
+  "block_version": 0
+ },
+ "excerpt": {
+  "raw": "",
+  "rendered": "<p>Мы рады представить нашу новинку &#8212; беспроводную оптическую систему TrackScan Sharp S! Среди ключевых особенностей, отличающих новый TrackScan Sharp S: Беспроводная система, обеспечивающая мобильность и удобство в использовании Высокоточный диапазон измерений 135 м&sup3; и это рекорд среди всех подобных систем на рынке Максимальное расстояние между трекером и сканером при сканировании &#8212; 8,5 метров Увеличенная область [&hellip;]</p>\n",
+  "protected": false
+ },
+ "author": 1,
+ "featured_media": 2062,
+ "comment_status": "open",
+ "ping_status": "open",
+ "template": "",
+ "meta": {
+  "_acf_changed": false,
+  "_yoast_wpseo_title": "TrackScan Sharp S: беспроводная система с оптическим трекером",
+  "_yoast_wpseo_metadesc": "Новинка: Беспроводная сканирующая система с оптическим трекером TrackScan Sharp S новости компании AM Tech",
+  "_yoast_wpseo_meta-robots-noindex": ""
+ },
+ "news_category": [
+  970
+ ],
+ "news_tag": [],
+ "permalink_template": "https://am-tech.ru/news/%pagename%/",
+ "generated_slug": "novinka-besprovodnaja-skanirujushhaja-sistema-s-opticheskim-trekerom-trackscan-sharp-s",
+ "class_list": [
+  "post-2127",
+  "news",
+  "type-news",
+  "status-publish",
+  "has-post-thumbnail",
+  "hentry",
+  "news_category-novosti"
+ ],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>TrackScan Sharp S: беспроводная система с оптическим трекером</title>\n<meta name=\"description\" content=\"Новинка: Беспроводная сканирующая система с оптическим трекером TrackScan Sharp S новости компании AM Tech\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/news/novinka-besprovodnaya-skaniruyushchaya-sistema-s-opticheskim-trekerom-trackscan-sharp-s/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"TrackScan Sharp S: беспроводная система с оптическим трекером\" />\n<meta property=\"og:description\" content=\"Новинка: Беспроводная сканирующая система с оптическим трекером TrackScan Sharp S новости компании AM Tech\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/news/novinka-besprovodnaya-skaniruyushchaya-sistema-s-opticheskim-trekerom-trackscan-sharp-s/\" />\n<meta property=\"og:site_name\" content=\"AM.TECH\" />\n<meta property=\"article:modified_time\" content=\"2026-10-14T14:12:22+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2024/09/9b4epond0goazyvbwi59a2o5y7a3kz0f.png\" />\n\t<meta property=\"og:image:width\" content=\"700\" />\n\t<meta property=\"og:image:height\" content=\"466\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/news/novinka-besprovodnaya-skaniruyushchaya-sistema-s-opticheskim-trekerom-trackscan-sharp-s/\",\"url\":\"https://am-tech.ru/news/novinka-besprovodnaya-skaniruyushchaya-sistema-s-opticheskim-trekerom-trackscan-sharp-s/\",\"name\":\"TrackScan Sharp S: беспроводная система с оптическим трекером\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/news/novinka-besprovodnaya-skaniruyushchaya-sistema-s-opticheskim-trekerom-trackscan-sharp-s/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/news/novinka-besprovodnaya-skaniruyushchaya-sistema-s-opticheskim-trekerom-trackscan-sharp-s/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2024/09/9b4epond0goazyvbwi59a2o5y7a3kz0f.png\",\"datePublished\":\"2024-09-22T21:00:00+00:00\",\"dateModified\":\"2026-10-14T14:12:22+00:00\",\"description\":\"Новинка: Беспроводная сканирующая система с оптическим трекером TrackScan Sharp S новости компании AM Tech\",\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/news/novinka-besprovodnaya-skaniruyushchaya-sistema-s-opticheskim-trekerom-trackscan-sharp-s/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/news/novinka-besprovodnaya-skaniruyushchaya-sistema-s-opticheskim-trekerom-trackscan-sharp-s/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2024/09/9b4epond0goazyvbwi59a2o5y7a3kz0f.png\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2024/09/9b4epond0goazyvbwi59a2o5y7a3kz0f.png\",\"width\":700,\"height\":466},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"AM.TECH\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"AM.TECH\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"AM.TECH\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "TrackScan Sharp S: беспроводная система с оптическим трекером",
+  "description": "Новинка: Беспроводная сканирующая система с оптическим трекером TrackScan Sharp S новости компании AM Tech",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/news/novinka-besprovodnaya-skaniruyushchaya-sistema-s-opticheskim-trekerom-trackscan-sharp-s/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "TrackScan Sharp S: беспроводная система с оптическим трекером",
+  "og_description": "Новинка: Беспроводная сканирующая система с оптическим трекером TrackScan Sharp S новости компании AM Tech",
+  "og_url": "https://am-tech.ru/news/novinka-besprovodnaya-skaniruyushchaya-sistema-s-opticheskim-trekerom-trackscan-sharp-s/",
+  "og_site_name": "AM.TECH",
+  "article_modified_time": "2026-10-14T14:12:22+00:00",
+  "og_image": [
+   {
+    "width": 700,
+    "height": 466,
+    "url": "https://am-tech.ru/wp-content/uploads/2024/09/9b4epond0goazyvbwi59a2o5y7a3kz0f.png",
+    "type": "image/png"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/news/novinka-besprovodnaya-skaniruyushchaya-sistema-s-opticheskim-trekerom-trackscan-sharp-s/",
+     "url": "https://am-tech.ru/news/novinka-besprovodnaya-skaniruyushchaya-sistema-s-opticheskim-trekerom-trackscan-sharp-s/",
+     "name": "TrackScan Sharp S: беспроводная система с оптическим трекером",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/news/novinka-besprovodnaya-skaniruyushchaya-sistema-s-opticheskim-trekerom-trackscan-sharp-s/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/news/novinka-besprovodnaya-skaniruyushchaya-sistema-s-opticheskim-trekerom-trackscan-sharp-s/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2024/09/9b4epond0goazyvbwi59a2o5y7a3kz0f.png",
+     "datePublished": "2024-09-22T21:00:00+00:00",
+     "dateModified": "2026-10-14T14:12:22+00:00",
+     "description": "Новинка: Беспроводная сканирующая система с оптическим трекером TrackScan Sharp S новости компании AM Tech",
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/news/novinka-besprovodnaya-skaniruyushchaya-sistema-s-opticheskim-trekerom-trackscan-sharp-s/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/news/novinka-besprovodnaya-skaniruyushchaya-sistema-s-opticheskim-trekerom-trackscan-sharp-s/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2024/09/9b4epond0goazyvbwi59a2o5y7a3kz0f.png",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2024/09/9b4epond0goazyvbwi59a2o5y7a3kz0f.png",
+     "width": 700,
+     "height": 466
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "AM.TECH",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "AM.TECH",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "AM.TECH"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2127",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/types/news"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/users/1"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/comments?post=2127"
+   }
+  ],
+  "wp:featuredmedia": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/media/2062"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/media?parent=2127"
+   }
+  ],
+  "wp:term": [
+   {
+    "taxonomy": "news_category",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_category?post=2127"
+   },
+   {
+    "taxonomy": "news_tag",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_tag?post=2127"
+   }
+  ],
+  "wp:action-publish": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2127"
+   }
+  ],
+  "wp:action-unfiltered-html": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2127"
+   }
+  ],
+  "wp:action-assign-author": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2127"
+   }
+  ],
+  "wp:action-create-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2127"
+   }
+  ],
+  "wp:action-assign-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2127"
+   }
+  ],
+  "wp:action-create-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2127"
+   }
+  ],
+  "wp:action-assign-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2127"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

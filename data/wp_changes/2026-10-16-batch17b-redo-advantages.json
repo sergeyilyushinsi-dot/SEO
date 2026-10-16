@@ -1,0 +1,54 @@
+[
+ {
+  "type": "product",
+  "slug": "amt-43",
+  "path": "/product/amt-43/",
+  "field": "meta:_custom_advantages",
+  "old": "ое обеспечение АМ.ТЕСН PrintMate с от",
+  "value": "ое обеспечение AM.TECH PrintMate с от",
+  "before_text": "ое обеспечение АМ.ТЕСН PrintMate с от",
+  "after_text": "ое обеспечение AM.TECH PrintMate с от",
+  "label": "Блок «Преимущества» товара",
+  "row": 553,
+  "plan_task": 61
+ },
+ {
+  "type": "product",
+  "slug": "amt-45",
+  "path": "/product/amt-45/",
+  "field": "meta:_custom_advantages",
+  "old": "ое обеспечение АМ.ТЕСН PrintMate с от",
+  "value": "ое обеспечение AM.TECH PrintMate с от",
+  "before_text": "ое обеспечение АМ.ТЕСН PrintMate с от",
+  "after_text": "ое обеспечение AM.TECH PrintMate с от",
+  "label": "Блок «Преимущества» товара",
+  "row": 555,
+  "plan_task": 61
+ },
+ {
+  "type": "product",
+  "slug": "3d-printer-amt-32",
+  "path": "/product/3d-printer-amt-32/",
+  "field": "meta:_custom_advantages",
+  "old": "ое обеспечение АМ.ТЕСН PrintMate с от",
+  "value": "ое обеспечение AM.TECH PrintMate с от",
+  "before_text": "ое обеспечение АМ.ТЕСН PrintMate с от",
+  "after_text": "ое обеспечение AM.TECH PrintMate с от",
+  "label": "Блок «Преимущества» товара",
+  "row": 558,
+  "plan_task": 61
+ },
+ {
+  "type": "product",
+  "slug": "amt-16",
+  "path": "/product/amt-16/",
+  "field": "meta:_custom_advantages",
+  "old": "ое обеспечение АМ.ТЕСН PrintMate с от",
+  "value": "ое обеспечение AM.TECH PrintMate с от",
+  "before_text": "ое обеспечение АМ.ТЕСН PrintMate с от",
+  "after_text": "ое обеспечение AM.TECH PrintMate с от",
+  "label": "Блок «Преимущества» товара",
+  "row": 561,
+  "plan_task": 61
+ }
+]

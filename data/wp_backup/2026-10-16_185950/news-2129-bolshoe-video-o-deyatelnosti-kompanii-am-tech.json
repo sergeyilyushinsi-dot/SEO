@@ -1,0 +1,274 @@
+{
+ "id": 2129,
+ "date": "2024-10-05T00:00:00",
+ "date_gmt": "2024-10-04T21:00:00",
+ "guid": {
+  "rendered": "http://am-tech.ru/news/bolshoe-video-o-deyatelnosti-kompanii-am-tech/",
+  "raw": "http://am-tech.ru/news/bolshoe-video-o-deyatelnosti-kompanii-am-tech/"
+ },
+ "modified": "2026-10-16T17:22:32",
+ "modified_gmt": "2026-10-16T14:22:32",
+ "password": "",
+ "slug": "bolshoe-video-o-deyatelnosti-kompanii-am-tech",
+ "status": "publish",
+ "type": "news",
+ "link": "https://am-tech.ru/news/bolshoe-video-o-deyatelnosti-kompanii-am-tech/",
+ "title": {
+  "raw": "Большое видео о деятельности компании AM.TECH",
+  "rendered": "Большое видео о деятельности компании AM.TECH"
+ },
+ "content": {
+  "raw": "<h3>Смотрите новое видео о компании AM.ТECH: история развития компании, передовые решения для промышленности, планы на будущее.</h3>\n<p>AM.ТECH &mdash; первая российская компания, производящая серию промышленных 3D-принтеров и метрологических систем сразу шести технологий: SLM, SLA, MBJ, EBM, 3D-печать керамикой и 3D-сканирование.&nbsp;</p>\n<p>Об этих уникальных решениях для различных отраслей промышленности, истории развития компании, амбициозных целях AM.ТЕСН смотрите в нашем видео:</p>\n<p><iframe src=\"https://rutube.ru/play/embed/da2f97914475befe90671785b16459dc/\" width=\"720\" height=\"405\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+  "rendered": "<h3>Смотрите новое видео о компании AM.ТECH: история развития компании, передовые решения для промышленности, планы на будущее.</h3>\n<p>AM.ТECH &mdash; первая российская компания, производящая серию промышленных 3D-принтеров и метрологических систем сразу шести технологий: SLM, SLA, MBJ, EBM, 3D-печать керамикой и 3D-сканирование.&nbsp;</p>\n<p>Об этих уникальных решениях для различных отраслей промышленности, истории развития компании, амбициозных целях AM.ТЕСН смотрите в нашем видео:</p>\n<p><iframe src=\"https://rutube.ru/play/embed/da2f97914475befe90671785b16459dc/\" width=\"720\" height=\"405\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n",
+  "protected": false,
+  "block_version": 0
+ },
+ "excerpt": {
+  "raw": "",
+  "rendered": "<p>Смотрите новое видео о компании AM.ТECH: история развития компании, передовые решения для промышленности, планы на будущее. AM.ТECH &mdash; первая российская компания, производящая серию промышленных 3D-принтеров и метрологических систем сразу шести технологий: SLM, SLA, MBJ, EBM, 3D-печать керамикой и 3D-сканирование.&nbsp; Об этих уникальных решениях для различных отраслей промышленности, истории развития компании, амбициозных целях AM.ТЕСН смотрите в [&hellip;]</p>\n",
+  "protected": false
+ },
+ "author": 1,
+ "featured_media": 2065,
+ "comment_status": "open",
+ "ping_status": "open",
+ "template": "",
+ "meta": {
+  "_acf_changed": false,
+  "_yoast_wpseo_title": "Большое видео о деятельности компании AM.TECH | AM.TECH",
+  "_yoast_wpseo_metadesc": "Большое видео о деятельности компании AM.TECH новости компании AM Tech",
+  "_yoast_wpseo_meta-robots-noindex": ""
+ },
+ "news_category": [
+  970
+ ],
+ "news_tag": [],
+ "permalink_template": "https://am-tech.ru/news/%pagename%/",
+ "generated_slug": "bolshoe-video-o-dejatelnosti-kompanii-am-tech",
+ "class_list": [
+  "post-2129",
+  "news",
+  "type-news",
+  "status-publish",
+  "has-post-thumbnail",
+  "hentry",
+  "news_category-novosti"
+ ],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Большое видео о деятельности компании AM.TECH | AM.TECH</title>\n<meta name=\"description\" content=\"Большое видео о деятельности компании AM.TECH новости компании AM Tech\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/news/bolshoe-video-o-deyatelnosti-kompanii-am-tech/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Большое видео о деятельности компании AM.TECH | AM.TECH\" />\n<meta property=\"og:description\" content=\"Большое видео о деятельности компании AM.TECH новости компании AM Tech\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/news/bolshoe-video-o-deyatelnosti-kompanii-am-tech/\" />\n<meta property=\"og:site_name\" content=\"AM.TECH\" />\n<meta property=\"article:modified_time\" content=\"2026-10-16T14:22:32+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2024/10/opcsoyft7bev7cbvy3psye6kkff790tq.png\" />\n\t<meta property=\"og:image:width\" content=\"700\" />\n\t<meta property=\"og:image:height\" content=\"466\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/news/bolshoe-video-o-deyatelnosti-kompanii-am-tech/\",\"url\":\"https://am-tech.ru/news/bolshoe-video-o-deyatelnosti-kompanii-am-tech/\",\"name\":\"Большое видео о деятельности компании AM.TECH | AM.TECH\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/news/bolshoe-video-o-deyatelnosti-kompanii-am-tech/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/news/bolshoe-video-o-deyatelnosti-kompanii-am-tech/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2024/10/opcsoyft7bev7cbvy3psye6kkff790tq.png\",\"datePublished\":\"2024-10-04T21:00:00+00:00\",\"dateModified\":\"2026-10-16T14:22:32+00:00\",\"description\":\"Большое видео о деятельности компании AM.TECH новости компании AM Tech\",\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/news/bolshoe-video-o-deyatelnosti-kompanii-am-tech/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/news/bolshoe-video-o-deyatelnosti-kompanii-am-tech/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2024/10/opcsoyft7bev7cbvy3psye6kkff790tq.png\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2024/10/opcsoyft7bev7cbvy3psye6kkff790tq.png\",\"width\":700,\"height\":466},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"AM.TECH\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"AM.TECH\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"AM.TECH\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "Большое видео о деятельности компании AM.TECH | AM.TECH",
+  "description": "Большое видео о деятельности компании AM.TECH новости компании AM Tech",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/news/bolshoe-video-o-deyatelnosti-kompanii-am-tech/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "Большое видео о деятельности компании AM.TECH | AM.TECH",
+  "og_description": "Большое видео о деятельности компании AM.TECH новости компании AM Tech",
+  "og_url": "https://am-tech.ru/news/bolshoe-video-o-deyatelnosti-kompanii-am-tech/",
+  "og_site_name": "AM.TECH",
+  "article_modified_time": "2026-10-16T14:22:32+00:00",
+  "og_image": [
+   {
+    "width": 700,
+    "height": 466,
+    "url": "https://am-tech.ru/wp-content/uploads/2024/10/opcsoyft7bev7cbvy3psye6kkff790tq.png",
+    "type": "image/png"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/news/bolshoe-video-o-deyatelnosti-kompanii-am-tech/",
+     "url": "https://am-tech.ru/news/bolshoe-video-o-deyatelnosti-kompanii-am-tech/",
+     "name": "Большое видео о деятельности компании AM.TECH | AM.TECH",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/news/bolshoe-video-o-deyatelnosti-kompanii-am-tech/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/news/bolshoe-video-o-deyatelnosti-kompanii-am-tech/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2024/10/opcsoyft7bev7cbvy3psye6kkff790tq.png",
+     "datePublished": "2024-10-04T21:00:00+00:00",
+     "dateModified": "2026-10-16T14:22:32+00:00",
+     "description": "Большое видео о деятельности компании AM.TECH новости компании AM Tech",
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/news/bolshoe-video-o-deyatelnosti-kompanii-am-tech/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/news/bolshoe-video-o-deyatelnosti-kompanii-am-tech/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2024/10/opcsoyft7bev7cbvy3psye6kkff790tq.png",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2024/10/opcsoyft7bev7cbvy3psye6kkff790tq.png",
+     "width": 700,
+     "height": 466
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "AM.TECH",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "AM.TECH",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "AM.TECH"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2129",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/types/news"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/users/1"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/comments?post=2129"
+   }
+  ],
+  "wp:featuredmedia": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/media/2065"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/media?parent=2129"
+   }
+  ],
+  "wp:term": [
+   {
+    "taxonomy": "news_category",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_category?post=2129"
+   },
+   {
+    "taxonomy": "news_tag",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_tag?post=2129"
+   }
+  ],
+  "wp:action-publish": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2129"
+   }
+  ],
+  "wp:action-unfiltered-html": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2129"
+   }
+  ],
+  "wp:action-assign-author": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2129"
+   }
+  ],
+  "wp:action-create-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2129"
+   }
+  ],
+  "wp:action-assign-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2129"
+   }
+  ],
+  "wp:action-create-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2129"
+   }
+  ],
+  "wp:action-assign-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2129"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

@@ -1,0 +1,274 @@
+{
+ "id": 2106,
+ "date": "2023-10-11T16:06:00",
+ "date_gmt": "2023-10-11T13:06:00",
+ "guid": {
+  "rendered": "http://am-tech.ru/news/tech_bmj/",
+  "raw": "http://am-tech.ru/news/tech_bmj/"
+ },
+ "modified": "2026-10-14T17:13:10",
+ "modified_gmt": "2026-10-14T14:13:10",
+ "password": "",
+ "slug": "tech_bmj",
+ "status": "publish",
+ "type": "news",
+ "link": "https://am-tech.ru/news/tech_bmj/",
+ "title": {
+  "raw": "Рассказываем про технологию 3D-печати MBJ (Metal Binder Jetting), что это и какие преимущества",
+  "rendered": "Рассказываем про технологию 3D-печати MBJ (Metal Binder Jetting), что это и какие преимущества"
+ },
+ "content": {
+  "raw": "<p>\n\t В этом ролике мы ответим на главные вопросы о технологии Metal Binder Jetting. Что такое промышленные 3D-принтеры MBJ, в чём главные преимущества данной технологии, где она применяется, сравнение с другими технологиями.<br>\n</p>\n\n\n",
+  "rendered": "<p>\n\t В этом ролике мы ответим на главные вопросы о технологии Metal Binder Jetting. Что такое промышленные 3D-принтеры MBJ, в чём главные преимущества данной технологии, где она применяется, сравнение с другими технологиями.</p>\n",
+  "protected": false,
+  "block_version": 0
+ },
+ "excerpt": {
+  "raw": "",
+  "rendered": "<p>В этом ролике мы ответим на главные вопросы о технологии Metal Binder Jetting. Что такое промышленные 3D-принтеры MBJ, в чём главные преимущества данной технологии, где она применяется, сравнение с другими технологиями.</p>\n",
+  "protected": false
+ },
+ "author": 1,
+ "featured_media": 2028,
+ "comment_status": "open",
+ "ping_status": "open",
+ "template": "",
+ "meta": {
+  "_acf_changed": false,
+  "_yoast_wpseo_title": "Технология MBJ (Metal Binder Jetting): что это и преимущества",
+  "_yoast_wpseo_metadesc": "Рассказываем про технологию 3D-печати MBJ (Metal Binder Jetting), что это и какие преимущества новости компании AM Tech",
+  "_yoast_wpseo_meta-robots-noindex": ""
+ },
+ "news_category": [
+  970
+ ],
+ "news_tag": [],
+ "permalink_template": "https://am-tech.ru/news/%pagename%/",
+ "generated_slug": "rasskazyvaem-pro-tehnologiju-3d-pechati-mbj-metal-binder-jetting-chto-jeto-i-kakie-preimushhestva",
+ "class_list": [
+  "post-2106",
+  "news",
+  "type-news",
+  "status-publish",
+  "has-post-thumbnail",
+  "hentry",
+  "news_category-novosti"
+ ],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Технология MBJ (Metal Binder Jetting): что это и преимущества</title>\n<meta name=\"description\" content=\"Рассказываем про технологию 3D-печати MBJ (Metal Binder Jetting), что это и какие преимущества новости компании AM Tech\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/news/tech_bmj/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Технология MBJ (Metal Binder Jetting): что это и преимущества\" />\n<meta property=\"og:description\" content=\"Рассказываем про технологию 3D-печати MBJ (Metal Binder Jetting), что это и какие преимущества новости компании AM Tech\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/news/tech_bmj/\" />\n<meta property=\"og:site_name\" content=\"AM.TECH\" />\n<meta property=\"article:modified_time\" content=\"2026-10-14T14:13:10+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2023/10/yix3vo3h39ssh5yw84gtc3ur48xju2hw.jpg\" />\n\t<meta property=\"og:image:width\" content=\"700\" />\n\t<meta property=\"og:image:height\" content=\"432\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/news/tech_bmj/\",\"url\":\"https://am-tech.ru/news/tech_bmj/\",\"name\":\"Технология MBJ (Metal Binder Jetting): что это и преимущества\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/news/tech_bmj/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/news/tech_bmj/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2023/10/yix3vo3h39ssh5yw84gtc3ur48xju2hw.jpg\",\"datePublished\":\"2023-10-11T13:06:00+00:00\",\"dateModified\":\"2026-10-14T14:13:10+00:00\",\"description\":\"Рассказываем про технологию 3D-печати MBJ (Metal Binder Jetting), что это и какие преимущества новости компании AM Tech\",\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/news/tech_bmj/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/news/tech_bmj/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2023/10/yix3vo3h39ssh5yw84gtc3ur48xju2hw.jpg\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2023/10/yix3vo3h39ssh5yw84gtc3ur48xju2hw.jpg\",\"width\":700,\"height\":432},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"AM.TECH\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"AM.TECH\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"AM.TECH\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "Технология MBJ (Metal Binder Jetting): что это и преимущества",
+  "description": "Рассказываем про технологию 3D-печати MBJ (Metal Binder Jetting), что это и какие преимущества новости компании AM Tech",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/news/tech_bmj/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "Технология MBJ (Metal Binder Jetting): что это и преимущества",
+  "og_description": "Рассказываем про технологию 3D-печати MBJ (Metal Binder Jetting), что это и какие преимущества новости компании AM Tech",
+  "og_url": "https://am-tech.ru/news/tech_bmj/",
+  "og_site_name": "AM.TECH",
+  "article_modified_time": "2026-10-14T14:13:10+00:00",
+  "og_image": [
+   {
+    "width": 700,
+    "height": 432,
+    "url": "https://am-tech.ru/wp-content/uploads/2023/10/yix3vo3h39ssh5yw84gtc3ur48xju2hw.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/news/tech_bmj/",
+     "url": "https://am-tech.ru/news/tech_bmj/",
+     "name": "Технология MBJ (Metal Binder Jetting): что это и преимущества",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/news/tech_bmj/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/news/tech_bmj/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2023/10/yix3vo3h39ssh5yw84gtc3ur48xju2hw.jpg",
+     "datePublished": "2023-10-11T13:06:00+00:00",
+     "dateModified": "2026-10-14T14:13:10+00:00",
+     "description": "Рассказываем про технологию 3D-печати MBJ (Metal Binder Jetting), что это и какие преимущества новости компании AM Tech",
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/news/tech_bmj/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/news/tech_bmj/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2023/10/yix3vo3h39ssh5yw84gtc3ur48xju2hw.jpg",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2023/10/yix3vo3h39ssh5yw84gtc3ur48xju2hw.jpg",
+     "width": 700,
+     "height": 432
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "AM.TECH",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "AM.TECH",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "AM.TECH"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2106",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/types/news"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/users/1"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/comments?post=2106"
+   }
+  ],
+  "wp:featuredmedia": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/media/2028"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/media?parent=2106"
+   }
+  ],
+  "wp:term": [
+   {
+    "taxonomy": "news_category",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_category?post=2106"
+   },
+   {
+    "taxonomy": "news_tag",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_tag?post=2106"
+   }
+  ],
+  "wp:action-publish": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2106"
+   }
+  ],
+  "wp:action-unfiltered-html": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2106"
+   }
+  ],
+  "wp:action-assign-author": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2106"
+   }
+  ],
+  "wp:action-create-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2106"
+   }
+  ],
+  "wp:action-assign-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2106"
+   }
+  ],
+  "wp:action-create-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2106"
+   }
+  ],
+  "wp:action-assign-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2106"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

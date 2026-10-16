@@ -293,8 +293,14 @@ def build_update(item: dict, changes: list[dict], kind: str = "product") -> dict
             found = next((m for m in item.get("meta_data", []) if m["key"] == key), None)
             if not found or not isinstance(found["value"], str):
                 raise ValueError(f"{item['slug']}: у товара нет текстового поля {key}")
-            meta.append({"id": found["id"], "key": key,
-                         "value": _replace_text(item, field, found["value"], ch.get("old", ""), value)})
+            # Несколько правок одного поля накапливаются: каждая следующая меняет уже исправленный текст.
+            prev = next((m for m in meta if m["key"] == key), None)
+            raw = prev["value"] if prev else found["value"]
+            new = _replace_text(item, field, raw, ch.get("old", ""), value)
+            if prev:
+                prev["value"] = new
+            else:
+                meta.append({"id": found["id"], "key": key, "value": new})
         elif field in HTML_FIELDS:
             api_field = HTML_FIELDS[field]
             raw = body.get(api_field, item.get(api_field) or "")
