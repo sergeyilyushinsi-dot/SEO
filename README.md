@@ -178,6 +178,42 @@ add_filter('wpseo_metadesc', function ($desc) {
 }, 999);
 ```
 
+**Описания категорий с разметкой.** WordPress пропускает описание категории через `wp_filter_kses` при *любой* записи
+через API: смена имени, полей Yoast (сниппет выше пересохраняет категорию), текста. От разметки остаются только ссылки
+и `<strong>`, а заголовки, абзацы, списки и таблицы пропадают. Так 13–14.10.2026 потеряли разметку 7 категорий
+(задача 56). Сниппет WPCode «Описания категорий: HTML (SEO-агент)» (тип PHP, «Запускать везде») для REST-запросов от
+пользователей, которым разрешено управлять категориями товаров, применяет вместо этого `wp_filter_post_kses`. Это те же
+правила, что для текста записей: `<script>`, `<style>` и `<iframe>` по-прежнему вырезаются. Ещё сниппет отдаёт в API
+поле `html_description`: без него `wp-apply` не пишет в категорию, где есть разметка.
+
+```php
+add_filter('pre_term_description', function ($value) {
+    $GLOBALS['amt_term_description_raw'] = $value;
+    return $value;
+}, 1);
+add_filter('pre_term_description', function ($value) {
+    $raw = $GLOBALS['amt_term_description_raw'] ?? null;
+    unset($GLOBALS['amt_term_description_raw']);
+    if ($raw === null || $value === $raw || !(defined('REST_REQUEST') && REST_REQUEST)
+        || !current_user_can('manage_product_terms')) {
+        return $value;
+    }
+    return wp_filter_post_kses($raw);
+}, 99);
+add_action('rest_api_init', function () {
+    register_rest_field('product_cat', 'html_description', [
+        'get_callback' => function () { return true; },
+        'schema' => ['type' => 'boolean', 'context' => ['view', 'edit'], 'readonly' => true],
+    ]);
+});
+```
+
+**Описания товаров** WooCommerce API пропускает через `wp_filter_post_kses`: из него пропадают `<style>`, `<svg>` и
+`<iframe>`. Так 13.10.2026 сломались три карточки (правки 85–87): CSS стал виден посетителям как текст. Поэтому `wp-apply`
+пишет описание и краткое описание товара через API записей WordPress (`wp/v2/product`), где они сохраняются как есть.
+После каждой записи `wp-apply` сравнивает теги «до» и «после». Если что-то вырезано, правка получает статус
+«РАЗМЕТКА ВЫРЕЗАНА», и описание нужно вернуть из копии.
+
 Сниппеты WPCode на сайте (все — тип PHP, «Запускать везде»; если правка «пропала», первым делом проверить, что
 сниппет активен):
 
@@ -189,6 +225,7 @@ add_filter('wpseo_metadesc', function ($desc) {
 | Поля Yoast категорий для REST API (SEO-агент) | 49 | title/description Yoast категорий — в API (код выше) | 14.10.2026 |
 | Архив новостей: title из Yoast (SEO-агент) | 49 | title и description `/news/` берутся из Yoast, а не из темы (код выше) | 14.10.2026 |
 | Видеообзоры: один H1 (SEO-агент) | 18 | второй H1 (скрытый `vp-title`) на видеообзорах → `div` (шаг 8) | 14.10.2026 |
+| Описания категорий: HTML (SEO-агент) | 56 | разметка описаний категорий не вырезается при записи через API (код выше) | — (предложен 16.10.2026) |
 
 Правки вносит `python -m seo wp-apply data/wp_changes/<пакет>.json` (сначала `--dry-run`). Формат правки и поля — в начале `seo/wp.py`: товары (`title`, `description`, `noindex`, `name`, `status`, `categories`, `short_description`, `body`, `meta:<ключ>`), категории (`name`, `body`, `title`, `description` — после сниппета задачи 49), новости, страницы, кейсы и видеообзоры (`content`, `elementor`, `name`, `status`; Yoast-поля — после задачи 41). Замена ссылки — `"link": true` с `old`: адрес меняется только там, где он стоит целиком. Перед записью полная копия товара сохраняется в `data/wp_backup/<время>/`, после — проверяется страница (в обход кэша и как её видят посетители).
 

@@ -1,0 +1,218 @@
+<div class="boldgrid-section">
+<div class="container">
+<div class="row">
+<div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+
+<style>
+<p></p>
+<p>/* WRAPPER */<br />
+.amt-wrapper{<br />
+    max-width:1320px;<br />
+    margin:0 auto;<br />
+    padding:70px 20px;<br />
+}</p>
+<p>/* TITLES */<br />
+.section-title{<br />
+    font-size:44px;<br />
+    font-weight:700;<br />
+    margin-bottom:10px;<br />
+}</p>
+<p>.section-subtitle{<br />
+    font-size:17px;<br />
+    color:#666;<br />
+    max-width:900px;<br />
+    margin-bottom:40px;<br />
+}</p>
+<p>/* GRID */<br />
+.amt-grid{<br />
+    display:grid;<br />
+    grid-template-columns:repeat(2,1fr);<br />
+    gap:22px;<br />
+}</p>
+<p>/* CARD */<br />
+.amt-card{<br />
+    background:#fff;<br />
+    border-radius:24px;<br />
+    padding:34px;<br />
+    border:1px solid #eee;<br />
+    box-shadow:0 4px 18px rgba(0,0,0,0.05);<br />
+    transition:0.25s ease;<br />
+}</p>
+<p>.amt-card:hover{<br />
+    transform:translateY(-4px);<br />
+    box-shadow:0 10px 30px rgba(0,0,0,0.08);<br />
+}</p>
+<p>.amt-card.large{<br />
+    grid-column:span 2;<br />
+}</p>
+<p>/* TEXT */<br />
+.amt-card h2{<br />
+    font-size:30px;<br />
+    margin-bottom:16px;<br />
+}</p>
+<p>.amt-card h3{<br />
+    font-size:22px;<br />
+    margin-bottom:12px;<br />
+}</p>
+<p>.amt-card p{<br />
+    font-size:15.5px;<br />
+    color:#555;<br />
+    margin-bottom:12px;<br />
+}</p>
+<p>.highlight{<br />
+    color:#ff6b00;<br />
+    font-weight:600;<br />
+}</p>
+<p>/* IMAGES — ВАЖНО: НЕ ТРОГАЛ */<br />
+.amt-card img{<br />
+    width:100%;<br />
+    border-radius:16px;<br />
+    margin:16px 0;<br />
+    display:block;<br />
+}</p>
+<p>/* INFOGRAPHIC */<br />
+.infogrid{<br />
+    display:grid;<br />
+    grid-template-columns:repeat(2,1fr);<br />
+    gap:12px;<br />
+    margin-top:12px;<br />
+}</p>
+<p>.info{<br />
+    background:#fafafa;<br />
+    border:1px solid #eee;<br />
+    border-radius:14px;<br />
+    padding:16px;<br />
+    text-align:center;<br />
+}</p>
+<p>/* ОРАНЖЕВЫЙ ГРАДИЕНТ ТОЛЬКО ДЛЯ ЦИФР */<br />
+.big-number{<br />
+    font-size:42px;<br />
+    font-weight:800;<br />
+    background:linear-gradient(90deg,#ff6b00,#ffb36b);<br />
+    -webkit-background-clip:text;<br />
+    -webkit-text-fill-color:transparent;<br />
+    display:block;<br />
+    margin-bottom:6px;<br />
+}</p>
+<p>/* LIST */<br />
+ul{<br />
+    padding-left:18px;<br />
+}</p>
+<p>li{<br />
+    margin-bottom:10px;<br />
+    color:#555;<br />
+}</p>
+<p>/* RESPONSIVE */<br />
+@media(max-width:992px){<br />
+    .amt-grid{grid-template-columns:1fr;}<br />
+    .amt-card.large{grid-column:span 1;}<br />
+}</p>
+<p>@media(max-width:768px){<br />
+    .section-title{font-size:32px;}<br />
+    .amt-card{padding:24px;}<br />
+}</p>
+</style>
+
+</div>
+</div>
+</div>
+</div>
+<div class="amt-wrapper">
+<h1 class="section-title">NimbleTrack</h1>
+<p class="section-subtitle">Беспроводная система 3D-сканирования нового поколения с полной автономностью и промышленной точностью.</p>
+
+<div class="amt-grid">
+
+<!-- INTRO -->
+<div class="amt-card large">
+<h2>Беспроводная система 3D-сканирования</h2>
+<span class="highlight">NimbleTrack</span> — компактная и высокоточная
+система для сканирования малых и средних деталей.
+
+Сканер и трекер работают полностью автономно,
+обеспечивая свободу перемещения и стабильность измерений.
+
+</div>
+<!-- WIRELESS -->
+<div class="amt-card">
+<h3>Полная беспроводная свобода</h3>
+Отсутствие кабелей питания и передачи данных.
+<div class="infogrid">
+<div class="info"><span class="big-number">100%</span>
+Мобильность</div>
+<div class="info"><span class="big-number">0</span>
+Кабелей</div>
+</div>
+</div>
+<!-- BATTERY -->
+<div class="amt-card">
+<h3>Автономная работа</h3>
+Встроенные аккумуляторы обеспечивают длительное сканирование.
+<div class="infogrid">
+<div class="info"><span class="big-number">24/7</span>
+Работа</div>
+<div class="info"><span class="big-number">MAX</span>
+Время сессии</div>
+</div>
+</div>
+<!-- SPEED (IMAGE PRESERVED) -->
+<div class="amt-card">
+<h3>Мощные вычисления</h3>
+Высокая скорость обработки без задержек.
+<p class=""><img src="https://am-tech.ru/wp-content/uploads/2025/08/nimble-c3.webp" alt=""></p>
+
+<div class="infogrid">
+<div class="info"><span class="big-number">120</span>
+FPS</div>
+<div class="info"><span class="big-number">В реальном</span>
+Времени</div>
+</div>
+</div>
+<!-- MARKERLESS (IMAGE PRESERVED) -->
+<div class="amt-card">
+<h3>Сканирование без меток</h3>
+Ускорение процесса без подготовки поверхности.
+
+<img src="https://am-tech.ru/wp-content/uploads/2025/08/nimble-c4.webp" alt="">
+<div class="infogrid">
+<div class="info"><span class="big-number">-70%</span>
+Время подготовки</div>
+<div class="info"><span class="big-number">Быстрый</span>
+Старт</div>
+</div>
+</div>
+<!-- WEIGHT (IMAGE PRESERVED) -->
+<div class="amt-card">
+<h3>Компактность</h3>
+Лёгкая система для работы одной рукой.
+<p class=""><img src="https://am-tech.ru/wp-content/uploads/2025/08/nimble-c11.png" alt=""></p>
+
+<div class="infogrid">
+<div class="info"><span class="big-number">1.3</span>
+кг</div>
+<div class="info"><span class="big-number">CASE</span>
+Кейс</div>
+</div>
+</div>
+<!-- ACCURACY (IMAGE PRESERVED) -->
+<div class="amt-card">
+<h3>Индустриальная точность</h3>
+Метрологический уровень измерений.
+<p class=""><img src="https://am-tech.ru/wp-content/uploads/2025/08/nimble-c9.webp" alt=""></p>
+
+<div class="infogrid">
+<div class="info"><span class="big-number">0.020</span>
+мм</div>
+<div class="info"><span class="big-number">0.064</span>
+мм³</div>
+</div>
+</div>
+<!-- FINAL -->
+<div class="amt-card large">
+<h2>Промышленное решение нового поколения</h2>
+<span class="highlight">NimbleTrack</span> объединяет автономность,
+точность и мобильность в одном устройстве.
+
+</div>
+</div>
+</div>

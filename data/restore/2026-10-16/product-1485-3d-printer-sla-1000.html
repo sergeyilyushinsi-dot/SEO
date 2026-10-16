@@ -1,0 +1,936 @@
+<style>
+:root{
+  --amt-orange:#e86f1c;
+  --amt-orange-soft:#f3a45f;
+  --amt-dark:#121419;
+  --amt-text:#1b1f25;
+  --amt-muted:#636b75;
+  --amt-line:#e9e9e9;
+  --amt-soft:#f7f7f7;
+  --amt-shadow:0 14px 45px rgba(0,0,0,.06);
+  --amt-icon:#3a3f46;
+  --amt-card-radius:22px;
+}
+
+@media (prefers-reduced-motion:no-preference){
+  @property --amt-radial-fill{
+    syntax:"<percentage>";
+    inherits:false;
+    initial-value:0%;
+  }
+}
+
+
+
+.amt-wrapper{
+  max-width:1340px;
+  margin:0 auto;
+  padding:90px 20px;
+}
+
+/* HERO */
+
+.amt-hero{
+  display:grid;
+  grid-template-columns:minmax(0,620px) minmax(420px,1fr);
+  gap:70px;
+  align-items:center;
+  margin-bottom:90px;
+}
+
+.amt-title{
+  margin:0 0 26px;
+  font-size:72px;
+  line-height:.96;
+  font-weight:800;
+  letter-spacing:-3px;
+  color:#111;
+}
+
+.amt-title span{
+  color:var(--amt-orange);
+}
+
+.amt-lead{
+  margin:0 0 20px;
+  font-size:19px;
+  line-height:1.9;
+  color:#474f5a;
+}
+
+.amt-highlight{
+  color:var(--amt-orange);
+  font-weight:800;
+}
+
+.amt-hero-panel{
+  position:relative;
+  min-height:620px;
+  border-radius:30px;
+  overflow:hidden;
+  background:
+    radial-gradient(circle at top right,rgba(232,111,28,.12),transparent 28%),
+    linear-gradient(145deg,#f8f8f8,#ffffff);
+  border:1px solid var(--amt-line);
+  box-shadow:0 30px 90px rgba(0,0,0,.08);
+  display:flex;
+  align-items:center;
+  justify-content:center;
+}
+
+.amt-grid-bg{
+  position:absolute;
+  inset:0;
+  background-image:
+    linear-gradient(rgba(0,0,0,.035) 1px,transparent 1px),
+    linear-gradient(90deg,rgba(0,0,0,.035) 1px,transparent 1px);
+  background-size:48px 48px;
+}
+
+.amt-core{
+  position:relative;
+  z-index:2;
+  width:390px;
+  padding:40px;
+  border-radius:28px;
+  background:#14161b;
+  box-shadow:0 30px 80px rgba(0,0,0,.22);
+}
+
+.amt-core-label{
+  display:block;
+  margin-bottom:12px;
+  font-size:13px;
+  letter-spacing:.08em;
+  text-transform:uppercase;
+  color:#9ba1ab;
+}
+
+.amt-core-value{
+  display:block;
+  margin-bottom:26px;
+  font-size:64px;
+  line-height:1;
+  font-weight:800;
+  color:#fff;
+}
+
+.amt-core-chart{
+  height:150px;
+  display:flex;
+  align-items:flex-end;
+  gap:14px;
+  padding:18px;
+  border-radius:18px;
+  background:rgba(255,255,255,.04);
+  margin-bottom:24px;
+}
+
+.amt-core-chart i{
+  flex:1;
+  display:block;
+  border-radius:12px 12px 0 0;
+  background:linear-gradient(180deg,var(--amt-orange),var(--amt-orange-soft));
+  box-shadow:0 0 18px rgba(232,111,28,.18);
+}
+
+.amt-core-bottom{
+  font-size:18px;
+  line-height:1.7;
+  color:#e7e7e7;
+}
+
+/* GRAPHICS */
+
+.amt-graph-grid{
+  display:grid;
+  grid-template-columns:repeat(4,1fr);
+  gap:20px;
+  margin:70px 0 90px;
+}
+
+.amt-graph-card{
+  padding:30px;
+  border-radius:var(--amt-card-radius);
+  background:#fff;
+  border:1px solid var(--amt-line);
+  box-shadow:var(--amt-shadow);
+  transition:transform .35s ease,box-shadow .35s ease,border-color .35s ease;
+}
+
+.amt-graph-card:hover{
+  transform:translateY(-5px);
+  border-color:rgba(232,111,28,.28);
+  box-shadow:0 22px 60px rgba(0,0,0,.09);
+}
+
+.amt-graph-card h3{
+  margin:0 0 22px;
+  font-size:20px;
+  color:#111;
+}
+
+.amt-card-title{
+  display:flex;
+  align-items:center;
+  gap:12px;
+}
+
+.amt-icon{
+  width:38px;
+  height:38px;
+  flex:0 0 38px;
+  border-radius:12px;
+  background:#f2f3f4;
+  color:var(--amt-icon);
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+}
+
+.amt-icon svg{
+  width:21px;
+  height:21px;
+  stroke:currentColor;
+  stroke-width:2;
+  fill:none;
+  stroke-linecap:round;
+  stroke-linejoin:round;
+}
+
+.amt-radial{
+  --amt-radial-value:100%;
+  --amt-radial-fill:0%;
+  width:150px;
+  height:150px;
+  margin:0 auto 18px;
+  border-radius:50%;
+  background:
+    radial-gradient(circle at center,#fff 58%,transparent 59%),
+    conic-gradient(var(--amt-orange) var(--amt-radial-fill),#eeeeee 0);
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  animation:amtRadialGrow 1.25s cubic-bezier(.2,.75,.2,1) both;
+}
+
+.amt-radial span{
+  font-size:34px;
+  font-weight:800;
+  color:#111;
+  animation:amtFadeUp .75s ease both;
+  animation-delay:.28s;
+}
+
+.amt-progress{
+  height:14px;
+  border-radius:30px;
+  overflow:hidden;
+  background:#efefef;
+}
+
+.amt-progress span{
+  display:block;
+  height:100%;
+  border-radius:30px;
+  background:linear-gradient(90deg,var(--amt-orange),var(--amt-orange-soft));
+  transform-origin:left;
+  animation:amtProgressGrow 1.15s cubic-bezier(.2,.75,.2,1) both;
+}
+
+.amt-bars{
+  height:160px;
+  display:flex;
+  align-items:flex-end;
+  gap:12px;
+  border-bottom:1px solid var(--amt-line);
+}
+
+.amt-bars i{
+  flex:1;
+  display:block;
+  border-radius:12px 12px 0 0;
+  background:linear-gradient(180deg,var(--amt-orange),var(--amt-orange-soft));
+}
+
+.amt-core-chart i,
+.amt-bars i{
+  transform-origin:bottom;
+  animation:amtBarGrow 1.05s cubic-bezier(.2,.75,.2,1) both;
+}
+
+.amt-core-chart i:nth-child(2),
+.amt-bars i:nth-child(2){animation-delay:.08s}
+
+.amt-core-chart i:nth-child(3),
+.amt-bars i:nth-child(3){animation-delay:.16s}
+
+.amt-core-chart i:nth-child(4),
+.amt-bars i:nth-child(4){animation-delay:.24s}
+
+.amt-core-chart i:nth-child(5),
+.amt-bars i:nth-child(5){animation-delay:.32s}
+
+.amt-graph-value{
+  font-size:42px;
+  line-height:1;
+  font-weight:800;
+  color:var(--amt-orange);
+  margin:16px 0 10px;
+  animation:amtFadeUp .75s ease both;
+  animation-delay:.28s;
+}
+
+.amt-graph-card p{
+  margin:14px 0 0;
+  font-size:14px;
+  line-height:1.7;
+  color:var(--amt-muted);
+}
+
+/* SECTION */
+
+.amt-section{
+  margin-top:90px;
+}
+
+.amt-section-title{
+  margin:0 0 18px;
+  font-size:48px;
+  line-height:1.08;
+  font-weight:800;
+  letter-spacing:-1px;
+  color:#111;
+}
+
+.amt-divider{
+  width:72px;
+  height:4px;
+  border-radius:10px;
+  background:var(--amt-orange);
+  margin-bottom:26px;
+}
+
+.amt-section-text{
+  max-width:1100px;
+  margin:0;
+  font-size:18px;
+  line-height:1.95;
+  color:#525a66;
+}
+
+/* PROCESS */
+
+.amt-process{
+  display:grid;
+  grid-template-columns:repeat(4,1fr);
+  gap:24px;
+  margin-top:44px;
+}
+
+.amt-process-card{
+  position:relative;
+  padding:34px;
+  border-radius:var(--amt-card-radius);
+  background:#fff;
+  border:1px solid var(--amt-line);
+  box-shadow:var(--amt-shadow);
+  transition:transform .35s ease,box-shadow .35s ease,border-color .35s ease;
+}
+
+.amt-process-card:hover{
+  transform:translateY(-5px);
+  border-color:rgba(232,111,28,.28);
+  box-shadow:0 22px 60px rgba(0,0,0,.09);
+}
+
+.amt-process-number{
+  width:54px;
+  height:54px;
+  border-radius:50%;
+  background:#2f343b;
+  color:#fff;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  font-weight:800;
+  margin-bottom:22px;
+  box-shadow:inset 0 -3px 0 rgba(232,111,28,.45);
+}
+
+.amt-process-card h3{
+  margin:0 0 16px;
+  font-size:24px;
+  line-height:1.2;
+}
+
+.amt-process-card p{
+  margin:0;
+  font-size:15px;
+  line-height:1.8;
+  color:#5b6370;
+}
+
+/* APPLICATIONS */
+
+.amt-app-grid{
+  display:grid;
+  grid-template-columns:repeat(2,1fr);
+  gap:22px;
+  margin-top:40px;
+}
+
+.amt-app{
+  padding:32px;
+  border-radius:var(--amt-card-radius);
+  background:#fff;
+  border:1px solid var(--amt-line);
+  box-shadow:var(--amt-shadow);
+  transition:transform .35s ease,box-shadow .35s ease,border-color .35s ease;
+}
+
+.amt-app:hover{
+  transform:translateY(-5px);
+  border-color:rgba(232,111,28,.28);
+  box-shadow:0 22px 60px rgba(0,0,0,.09);
+}
+
+.amt-app h3{
+  margin:0 0 16px;
+  font-size:28px;
+  line-height:1.2;
+}
+
+.amt-app p{
+  margin:0;
+  font-size:16px;
+  line-height:1.85;
+  color:#59606d;
+}
+
+/* IMAGE GRID */
+
+.amt-image-grid{
+  display:grid;
+  grid-template-columns:repeat(5,1fr);
+  gap:18px;
+  margin-top:44px;
+}
+
+.amt-image-card{
+  background:#fff;
+  border:1px solid var(--amt-line);
+  border-radius:var(--amt-card-radius);
+  overflow:hidden;
+  box-shadow:var(--amt-shadow);
+  transition:transform .35s ease,box-shadow .35s ease,border-color .35s ease;
+}
+
+.amt-image-card:hover{
+  transform:translateY(-5px);
+  border-color:rgba(232,111,28,.28);
+  box-shadow:0 22px 60px rgba(0,0,0,.09);
+}
+
+.amt-image-card img{
+  width:100%;
+  height:180px;
+  object-fit:cover;
+  display:block;
+  transition:transform .45s ease;
+}
+
+.amt-image-card:hover img{
+  transform:scale(1.04);
+}
+
+.amt-image-card p{
+  margin:0;
+  padding:18px;
+  font-size:14px;
+  line-height:1.6;
+  color:#444;
+}
+
+/* FEATURES */
+
+.amt-feature-grid{
+  display:grid;
+  grid-template-columns:repeat(2,1fr);
+  gap:22px;
+  margin-top:42px;
+}
+
+.amt-feature{
+  padding:30px;
+  border-radius:var(--amt-card-radius);
+  background:#fff;
+  border:1px solid var(--amt-line);
+  box-shadow:var(--amt-shadow);
+  transition:transform .35s ease,box-shadow .35s ease,border-color .35s ease;
+}
+
+.amt-feature:hover{
+  transform:translateY(-5px);
+  border-color:rgba(232,111,28,.28);
+  box-shadow:0 22px 60px rgba(0,0,0,.09);
+}
+
+.amt-feature h3{
+  margin:0 0 14px;
+  font-size:24px;
+}
+
+.amt-feature p{
+  margin:0;
+  font-size:15px;
+  line-height:1.8;
+  color:#5b6370;
+}
+
+/* EXAMPLES */
+
+.amt-example-grid{
+  display:grid;
+  grid-template-columns:repeat(2,1fr);
+  gap:26px;
+  margin-top:44px;
+}
+
+.amt-example{
+  overflow:hidden;
+  border-radius:var(--amt-card-radius);
+  background:#fff;
+  border:1px solid var(--amt-line);
+  box-shadow:var(--amt-shadow);
+  transition:transform .35s ease,box-shadow .35s ease,border-color .35s ease;
+}
+
+.amt-example:hover{
+  transform:translateY(-5px);
+  border-color:rgba(232,111,28,.28);
+  box-shadow:0 22px 60px rgba(0,0,0,.09);
+}
+
+.amt-example img{
+  width:100%;
+  display:block;
+  transition:transform .45s ease;
+}
+
+.amt-example:hover img{
+  transform:scale(1.035);
+}
+
+.amt-example-body{
+  padding:28px;
+}
+
+.amt-example-body h3{
+  margin:0 0 12px;
+  font-size:28px;
+}
+
+.amt-example-body p{
+  margin:0;
+  font-size:16px;
+  line-height:1.8;
+  color:#59606d;
+}
+
+/* DARK BLOCK */
+
+.amt-dark{
+  margin-top:90px;
+  padding:56px;
+  border-radius:30px;
+  background:#121419;
+  color:#fff;
+  box-shadow:0 26px 70px rgba(0,0,0,.15);
+}
+
+.amt-dark h2{
+  margin:0 0 22px;
+  font-size:48px;
+  line-height:1.08;
+  font-weight:800;
+}
+
+.amt-dark p{
+  margin:0;
+  max-width:1100px;
+  font-size:18px;
+  line-height:1.95;
+  color:#d7d9dd;
+}
+
+.amt-dark a{
+  color:#ffb06d;
+  text-decoration:none;
+  font-weight:700;
+}
+
+/* ANIMATION */
+
+@keyframes amtBarGrow{
+  from{transform:scaleY(0);opacity:.35}
+  to{transform:scaleY(1);opacity:1}
+}
+
+@keyframes amtProgressGrow{
+  from{transform:scaleX(0)}
+  to{transform:scaleX(1)}
+}
+
+@keyframes amtRadialGrow{
+  from{--amt-radial-fill:0%}
+  to{--amt-radial-fill:var(--amt-radial-value)}
+}
+
+@keyframes amtFadeUp{
+  from{opacity:0;transform:translateY(8px)}
+  to{opacity:1;transform:translateY(0)}
+}
+
+/* RESPONSIVE */
+
+@media(max-width:1200px){
+  .amt-graph-grid,
+  .amt-process,
+  .amt-image-grid{
+    grid-template-columns:repeat(2,1fr);
+  }
+}
+
+@media(max-width:1100px){
+  .amt-hero,
+  .amt-app-grid,
+  .amt-feature-grid,
+  .amt-example-grid{
+    grid-template-columns:1fr;
+  }
+
+  .amt-title{
+    font-size:50px;
+  }
+
+  .amt-hero-panel{
+    min-height:480px;
+  }
+}
+
+@media(max-width:768px){
+  .amt-wrapper{
+    padding:54px 16px;
+  }
+
+  .amt-title{
+    font-size:40px;
+    letter-spacing:-1.4px;
+  }
+
+  .amt-section-title,
+  .amt-dark h2{
+    font-size:34px;
+  }
+
+  .amt-graph-grid,
+  .amt-process,
+  .amt-image-grid{
+    grid-template-columns:1fr;
+  }
+
+  .amt-dark{
+    padding:34px 28px;
+  }
+
+  .amt-core{
+    width:300px;
+    padding:30px;
+  }
+
+  .amt-core-value{
+    font-size:46px;
+  }
+}
+</style>
+
+<div class="amt-wrapper">
+
+  <div class="amt-hero">
+    <div>
+      <h1 class="amt-title">
+        SLA-принтер <span>SLA-1000</span>
+      </h1>
+
+      <p class="amt-lead">
+        <strong>Промышленный SLA 3D-принтер</strong> для высокоточного аддитивного производства, быстрого прототипирования и выпуска изделий со сложной геометрией и высокой детализацией поверхности.
+      </p>
+
+      <p class="amt-lead">
+        <span class="amt-highlight">Технология стереолитографии SLA</span> обеспечивает исключительное качество поверхности, точность построения и стабильность печати для промышленного применения.
+      </p>
+
+      <p class="amt-lead">
+        SLA-1000 применяется в машиностроении, медицине, стоматологии, ювелирной промышленности, промышленном дизайне, аэрокосмической отрасли и серийном производстве.
+      </p>
+    </div>
+
+    <div class="amt-hero-panel">
+      <div class="amt-grid-bg"></div>
+
+      <div class="amt-core">
+        <span class="amt-core-label">Технология построения</span>
+        <span class="amt-core-value">SLA</span>
+
+        <div class="amt-core-chart">
+          <i style="height:42%"></i>
+          <i style="height:56%"></i>
+          <i style="height:72%"></i>
+          <i style="height:88%"></i>
+          <i style="height:100%"></i>
+        </div>
+
+        <div class="amt-core-bottom">
+          Высокоточная стереолитография<br>
+          для промышленного производства
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="amt-graph-grid">
+
+    <div class="amt-graph-card">
+      <h3 class="amt-card-title">
+        <span class="amt-icon">
+          <svg viewBox="0 0 24 24"><path d="M4 14h4v6H4z"/><path d="M10 9h4v11h-4z"/><path d="M16 4h4v16h-4z"/></svg>
+        </span>
+        Автоматизация
+      </h3>
+
+      <div class="amt-radial" style="--amt-radial-value:100%">
+        <span>100%</span>
+      </div>
+
+      <p>
+        Полностью автоматизированный процесс печати снижает участие оператора и повышает стабильность производства.
+      </p>
+    </div>
+
+    <div class="amt-graph-card">
+      <h3 class="amt-card-title">
+        <span class="amt-icon">
+          <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M3 12h3"/><path d="M18 12h3"/><path d="M12 3v3"/><path d="M12 18v3"/><path d="m5.6 5.6 2.1 2.1"/><path d="m16.3 16.3 2.1 2.1"/></svg>
+        </span>
+        Контроль оптики
+      </h3>
+
+      <div class="amt-progress">
+        <span style="width:92%"></span>
+      </div>
+
+      <div class="amt-graph-value">SLA</div>
+
+      <p>
+        Закрытая оптическая система минимизирует влияние внешних загрязнений и повышает качество печати.
+      </p>
+    </div>
+
+    <div class="amt-graph-card">
+      <h3 class="amt-card-title">
+        <span class="amt-icon">
+          <svg viewBox="0 0 24 24"><path d="M12 2v4"/><path d="M12 18v4"/><path d="M4.9 4.9l2.8 2.8"/><path d="M16.3 16.3l2.8 2.8"/><path d="M2 12h4"/><path d="M18 12h4"/><circle cx="12" cy="12" r="4"/></svg>
+        </span>
+        Интеллектуальное ПО
+      </h3>
+
+      <div class="amt-bars">
+        <i style="height:38%"></i>
+        <i style="height:56%"></i>
+        <i style="height:72%"></i>
+        <i style="height:88%"></i>
+        <i style="height:100%"></i>
+      </div>
+
+      <div class="amt-graph-value">AI</div>
+
+      <p>
+        Интеллектуальная подготовка файлов и автоматическая генерация поддержек для SLA-печати.
+      </p>
+    </div>
+
+    <div class="amt-graph-card">
+      <h3 class="amt-card-title">
+        <span class="amt-icon">
+          <svg viewBox="0 0 24 24"><path d="M12 3v18"/><path d="M5 8h14"/><path d="M7 16h10"/><path d="M9 12h6"/></svg>
+        </span>
+        Постобработка
+      </h3>
+
+      <div class="amt-progress">
+        <span style="width:84%"></span>
+      </div>
+
+      <div class="amt-graph-value">UV</div>
+
+      <p>
+        Финальное УФ-отверждение обеспечивает высокую стабильность и прочность готовых изделий.
+      </p>
+    </div>
+
+  </div>
+
+  <div class="amt-section">
+    <h2 class="amt-section-title">Принцип работы SLA-1000</h2>
+    <div class="amt-divider"></div>
+
+    <div class="amt-process">
+      <div class="amt-process-card">
+        <div class="amt-process-number">01</div>
+        <h3>Подготовка модели</h3>
+        <p>3D-модель автоматически разделяется на тонкие слои с использованием специализированного программного обеспечения.</p>
+      </div>
+
+      <div class="amt-process-card">
+        <div class="amt-process-number">02</div>
+        <h3>Лазерное отверждение</h3>
+        <p>Ультрафиолетовый лазер формирует каждый слой изделия путем локального отверждения фотополимера.</p>
+      </div>
+
+      <div class="amt-process-card">
+        <div class="amt-process-number">03</div>
+        <h3>Послойное построение</h3>
+        <p>Платформа последовательно опускается, обеспечивая формирование сложной геометрии изделия с высокой точностью.</p>
+      </div>
+
+      <div class="amt-process-card">
+        <div class="amt-process-number">04</div>
+        <h3>Постобработка</h3>
+        <p>Готовая модель очищается и проходит дополнительное УФ-отверждение для достижения финальных характеристик.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="amt-section">
+    <h2 class="amt-section-title">Области применения SLA-принтера</h2>
+    <div class="amt-divider"></div>
+
+    <div class="amt-app-grid">
+      <div class="amt-app">
+        <h3>Проектирование и прототипирование</h3>
+        <p>Быстрая разработка и тестирование новых изделий с сокращением времени вывода продукции на рынок.</p>
+      </div>
+
+      <div class="amt-app">
+        <h3>Медицина и стоматология</h3>
+        <p>Изготовление высокоточных медицинских моделей, хирургических шаблонов и стоматологических изделий.</p>
+      </div>
+
+      <div class="amt-app">
+        <h3>Ювелирная промышленность</h3>
+        <p>Производство мастер-моделей и высокодетализированных изделий для последующего литья.</p>
+      </div>
+
+      <div class="amt-app">
+        <h3>Промышленный дизайн</h3>
+        <p>Создание сложных концептов и реалистичных прототипов с высоким качеством поверхности.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="amt-section">
+    <h2 class="amt-section-title">Конструктивные особенности SLA-1000</h2>
+    <div class="amt-divider"></div>
+
+    <div class="amt-image-grid">
+      <div class="amt-image-card">
+        <img src="/upload/editor_images/1722257106-1.jpg" alt="">
+        <p>Изменяемое пятно лазера</p>
+      </div>
+
+      <div class="amt-image-card">
+        <img src="/upload/editor_images/1722257117-2.jpg" alt="">
+        <p>Настраиваемая консоль управления</p>
+      </div>
+
+      <div class="amt-image-card">
+        <img src="/upload/editor_images/1722257151-3.jpg" alt="">
+        <p>19-дюймовый промышленный экран</p>
+      </div>
+
+      <div class="amt-image-card">
+        <img src="/upload/editor_images/1722257197-4.jpg" alt="">
+        <p>Сетчатая платформа для легкого отделения моделей</p>
+      </div>
+
+      <div class="amt-image-card">
+        <img src="/upload/editor_images/1722257654-imagetools0.jpg" alt="">
+        <p>Вакуумный ракель</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="amt-section">
+    <h2 class="amt-section-title">Интеллектуальные возможности системы</h2>
+    <div class="amt-divider"></div>
+
+    <div class="amt-feature-grid">
+      <div class="amt-feature">
+        <h3>Автоматическое восстановление файлов</h3>
+        <p>Система помогает выявлять ошибки моделей и автоматически исправлять их перед печатью.</p>
+      </div>
+
+      <div class="amt-feature">
+        <h3>Интеллектуальный нестинг</h3>
+        <p>Автоматическое размещение и оптимизация положения моделей внутри рабочей зоны построения.</p>
+      </div>
+
+      <div class="amt-feature">
+        <h3>Генерация поддержек</h3>
+        <p>Автоматическое построение поддержек для технологий SLA, DLP и SLM с несколькими типами структур.</p>
+      </div>
+
+      <div class="amt-feature">
+        <h3>Сотовые структуры</h3>
+        <p>Возможность создания облегченных пустотелых моделей с внутренней сотовой геометрией.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="amt-section">
+    <h2 class="amt-section-title">Примеры изделий, созданных по технологии SLA</h2>
+    <div class="amt-divider"></div>
+
+    <div class="amt-example-grid">
+      <div class="amt-example">
+        <img src="/upload/editor_images/1722258856-RRR_7629.jpg" alt="">
+
+        <div class="amt-example-body">
+          <h3>Высокодетализированные модели</h3>
+          <p>SLA-печать обеспечивает исключительное качество поверхности и точную передачу сложной геометрии изделия.</p>
+        </div>
+      </div>
+
+      <div class="amt-example">
+        <img src="/upload/editor_images/1722258983-RRR_7627.jpg" alt="">
+
+        <div class="amt-example-body">
+          <h3>Функциональные промышленные изделия</h3>
+          <p>Технология SLA подходит для быстрого производства прототипов, мастер-моделей и функциональных компонентов.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="amt-dark">
+    <h2>Гибкие условия поставки и лизинга</h2>
+
+    <p>
+      Все оборудование, представленное в каталоге AM.TECH, доступно к приобретению на выгодных условиях
+      <a href="https://am-tech.ru/leasing/">лизинга</a>.
+      Специалисты компании помогут подобрать оптимальную финансовую схему, обеспечат сопровождение внедрения и поддержку производственного запуска оборудования.
+    </p>
+  </div>
+
+</div>

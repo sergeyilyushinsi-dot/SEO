@@ -193,3 +193,63 @@ def test_wp_category_yoast_fields():
         assert False, "должна быть ошибка"
     except ValueError as exc:
         assert "сниппет" in str(exc)
+
+
+def test_wp_markup_guard_for_categories():
+    html = "<h2>Как работает</h2><p>Текст <strong>важно</strong></p><ul><li>пункт</li></ul>"
+    cat = {"slug": "slm-3d-printeri", "description": html}
+    # Без сниппета «Описания категорий: HTML» любая запись категории вырезает заголовки, абзацы и списки.
+    assert wp.markup_risk("category", cat, {"name": "SLM 3D-принтеры"}) == ["h2", "li", "p", "ul"]
+    assert wp.markup_risk("category", {**cat, "html_description": True}, {"name": "SLM"}) == []
+    assert wp.markup_risk("category", {**cat, "html_description": True},
+                          {"description": "<style>a{}</style><p>x</p>"}) == ["style"]
+    assert wp.markup_risk("category", {"slug": "x", "description": "Текст без разметки"}, {"name": "X"}) == []
+    assert wp.markup_risk("product", {"description": "<style>a{}</style>"}, {}) == []
+    assert wp.markup_lost({"description": "<style>a{}</style><p>1</p><p>2</p>"},
+                          {"description": "a{}<p>1</p>"}) == {"style": 1, "p": 1}
+    assert wp.markup_lost({"content": "<p>1</p>"}, {"content": "<p>1</p>"}) == {}
+
+
+def test_wp_product_description_goes_through_posts_api(monkeypatch, tmp_path):
+    """Описание товара пишется через wp/v2/product: WooCommerce API вырезал бы <style> и <svg>."""
+    styled = "<style>.amt-wrapper{max-width:1320px}</style><div class=\"amt-wrapper\"><p>Описание</p></div>"
+    product = {"id": 1671, "slug": "am-tech-trackscan-sharp-49", "permalink": "https://am-tech.ru/product/x/",
+               "description": "", "short_description": "", "meta_data": []}
+    calls = []
+
+    class FakeWP:
+        def find(self, kind, slug):
+            return dict(product)
+
+        def api(self, method, path, **kw):
+            calls.append((method, path, kw.get("json")))
+            if method == "POST" and path == "wp/v2/product/1671":
+                product["description"] = kw["json"]["content"]
+            return dict(product)
+
+        def update(self, kind, item_id, body):
+            calls.append(("PUT", "wc/v3/products", body))
+            return dict(product)
+
+        def resave(self, kind, item_id):
+            pass
+
+    monkeypatch.setattr(wp, "WordPress", FakeWP)
+    monkeypatch.setattr(wp, "BACKUP_DIR", tmp_path)
+    monkeypatch.setattr(wp, "fetch_page", lambda url, fresh=True: {
+        "html": styled, "text": "Описание", "title": "", "description": "", "meta_robots": "", "h1": [],
+        "http_status": 200})
+    res = wp.apply([{"slug": "am-tech-trackscan-sharp-49", "field": "body", "value": styled}])
+    assert ("POST", "wp/v2/product/1671", {"content": styled}) in calls
+    assert not any(c[0] == "PUT" for c in calls)  # WooCommerce API описание не получает
+    assert res[0]["status"] == "применено" and res[0]["saved"]
+
+    # Если WordPress всё же вырезал разметку — правка не считается сохранённой.
+    def stripping_api(method, path, **kw):
+        if method == "POST":
+            product["description"] = kw["json"]["content"].replace("<style>", "").replace("</style>", "")
+        return dict(product)
+
+    monkeypatch.setattr(FakeWP, "api", lambda self, method, path, **kw: stripping_api(method, path, **kw))
+    res = wp.apply([{"slug": "am-tech-trackscan-sharp-49", "field": "body", "value": styled}])
+    assert res[0]["status"].startswith("РАЗМЕТКА ВЫРЕЗАНА: <style>×1") and not res[0]["saved"]

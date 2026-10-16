@@ -98,6 +98,55 @@ class WordPress:
         self.api("POST", f"{path}/{item_id}", json={})
 
 
+# Разметка, которую WordPress вырезает при записи через API (проверено 16.10.2026 по копиям из data/wp_backup):
+# - описание категории на любой записи (имя, Yoast, текст) проходит через wp_filter_kses — остаются только ссылки и
+#   <strong>, пропадают заголовки, абзацы, списки. Сниппет «Описания категорий: HTML» (README) заменяет его на
+#   wp_filter_post_kses и отдаёт в API поле html_description;
+# - WooCommerce API пропускает описание товара через wp_filter_post_kses — пропадают <style>, <svg>, <iframe>,
+#   поэтому описание товара пишется через API записей WordPress (wp/v2/product), там оно сохраняется как есть.
+STRIPPED_IN_POSTS = {"style", "script", "svg", "iframe", "form", "input", "button", "select", "textarea",
+                     "object", "embed", "noscript", "link", "meta", "canvas"}
+TERM_KSES_ALLOWED = {"a", "abbr", "acronym", "b", "blockquote", "cite", "code", "del", "em", "i", "q", "s",
+                     "strike", "strong"}
+
+
+def tag_counts(html_text: str) -> dict[str, int]:
+    counts: dict[str, int] = {}
+    for tag in re.findall(r"<([a-zA-Z][a-zA-Z0-9]*)\b", html_text or ""):
+        counts[tag.lower()] = counts.get(tag.lower(), 0) + 1
+    return counts
+
+
+def html_fields(kind: str, item: dict) -> dict[str, str]:
+    """HTML объекта, который WordPress заново пропускает через фильтры при записи."""
+    if kind == "product":
+        return {"description": item.get("description") or "", "short_description": item.get("short_description") or ""}
+    if kind == "category":
+        return {"description": item.get("description") or ""}
+    return {"content": (item.get("content") or {}).get("raw", "")}
+
+
+def markup_risk(kind: str, item: dict, body: dict) -> list[str]:
+    """Теги, которые пропадут из описания категории при записи. Пусто — писать можно."""
+    if kind != "category":
+        return []
+    tags = tag_counts(body.get("description", item.get("description") or ""))
+    if item.get("html_description"):
+        return sorted(t for t in tags if t in STRIPPED_IN_POSTS)
+    return sorted(t for t in tags if t not in TERM_KSES_ALLOWED)
+
+
+def markup_lost(expected: dict[str, str], stored: dict[str, str]) -> dict[str, int]:
+    """Сколько тегов каждого вида пропало после записи."""
+    lost: dict[str, int] = {}
+    for field, html_text in expected.items():
+        now = tag_counts(stored.get(field, ""))
+        for tag, n in tag_counts(html_text).items():
+            if n > now.get(tag, 0):
+                lost[tag] = lost.get(tag, 0) + n - now.get(tag, 0)
+    return lost
+
+
 def kind_of(ch: dict) -> str:
     return ch.get("type", "product")
 
@@ -354,11 +403,28 @@ def apply(changes: list[dict], dry_run: bool = False) -> list[dict]:
         url = item_url(item)
         rows = [{**ch, "type": kind, "id": item["id"], "url": url,
                  "before": get_value(item, ch["field"], kind)} for ch in items]
+        risk = markup_risk(kind, item, body)
+        if risk:
+            tags = ", ".join(f"<{t}>" for t in risk)
+            results += [{**r, "status": f"ошибка: при записи WordPress вырежет из описания категории {tags} — "
+                                        "нужен сниппет «Описания категорий: HTML» (README)",
+                         "saved": False, "on_page": None, "on_cached_page": None} for r in rows]
+            continue
         if dry_run:
             results += [{**r, "status": "проверка без записи"} for r in rows]
             continue
         backup(kind, item, stamp)
-        updated = wp.update(kind, item["id"], body)
+        current = html_fields(kind, item)
+        expected = {f: body.get(f, current[f]) for f in current}
+        if kind == "product":  # описание — через API записей, чтобы WooCommerce не вырезал <style> и <svg>
+            post = {new: body.pop(old) for old, new in (("description", "content"), ("short_description", "excerpt"))
+                    if old in body}
+            if post:
+                wp.api("POST", f"wp/v2/product/{item['id']}", json=post)
+        if body or kind != "product":
+            updated = wp.update(kind, item["id"], body)
+        else:
+            updated = wp.api("GET", f"{TYPES[kind][0]}/{item['id']}", params={"context": "edit"})
         page, cached = fetch_page(url), fetch_page(url, fresh=False)
         # Мета-поля пишутся после сохранения записи, и Yoast или кэш могут отдавать старое — тогда пересохраняем.
         stale = any(on_page(pg, r["field"], r["value"], r.get("old", ""), r.get("link", False)) is False
@@ -366,16 +432,24 @@ def apply(changes: list[dict], dry_run: bool = False) -> list[dict]:
         if stale and kind != "category":
             wp.resave(kind, item["id"])
             page, cached = fetch_page(url), fetch_page(url, fresh=False)
+        final = wp.api("GET", f"{TYPES[kind][0]}/{item['id']}", params={"context": "edit"})
+        lost = markup_lost(expected, html_fields(kind, final))
+        if kind == "product" and expected != current:
+            updated = final  # ответ WooCommerce на запись не содержит описания, записанного через wp/v2
         for r in rows:
             stored = get_value(updated, r["field"], kind)
-            ok = saved_ok(stored, r)
+            ok = saved_ok(stored, r) and not lost
+            if lost:
+                r = {**r, "markup_lost": lost}
             hidden = r["field"] == "elementor"  # JSON конструктора в отчёт не пишем — он в копии
             results.append({**r, "before": "(данные Elementor)" if hidden else r["before"],
                             "after": "(данные Elementor)" if hidden else stored, "saved": ok,
                             "on_page": on_page(page, r["field"], r["value"], r.get("old", ""), r.get("link", False)),
                             "on_cached_page": on_page(cached, r["field"], r["value"], r.get("old", ""),
                                                       r.get("link", False)),
-                            "status": "применено" if ok else "не сохранилось"})
+                            "status": ("РАЗМЕТКА ВЫРЕЗАНА: " + ", ".join(f"<{t}>×{n}" for t, n in lost.items()) +
+                                       " — вернуть из копии в data/wp_backup/" + stamp) if lost else
+                                      ("применено" if ok else "не сохранилось")})
     if not dry_run and results:
         out = BACKUP_DIR / stamp / "result.json"
         out.write_text(json.dumps(results, ensure_ascii=False, indent=1), encoding="utf-8")
