@@ -53,8 +53,9 @@ META_PREFIX = "meta:"
 
 
 def text(value) -> str:
-    """Видимый текст: без тегов, с раскрытыми сущностями и схлопнутыми пробелами."""
-    return " ".join(html.unescape(re.sub(r"<[^>]+>", " ", str(value or ""))).split())
+    """Видимый текст: без тегов, стилей и скриптов, с раскрытыми сущностями и схлопнутыми пробелами."""
+    visible = re.sub(r"<(style|script)\b.*?</\1\s*>", " ", str(value or ""), flags=re.S | re.I)
+    return " ".join(html.unescape(re.sub(r"<[^>]+>", " ", visible)).split())
 
 
 class WordPress:

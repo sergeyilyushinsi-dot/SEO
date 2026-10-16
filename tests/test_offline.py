@@ -253,3 +253,9 @@ def test_wp_product_description_goes_through_posts_api(monkeypatch, tmp_path):
     monkeypatch.setattr(FakeWP, "api", lambda self, method, path, **kw: stripping_api(method, path, **kw))
     res = wp.apply([{"slug": "am-tech-trackscan-sharp-49", "field": "body", "value": styled}])
     assert res[0]["status"].startswith("РАЗМЕТКА ВЫРЕЗАНА: <style>×1") and not res[0]["saved"]
+
+
+def test_wp_visible_text_skips_styles():
+    html = "<style>.amt-wrapper{max-width:1320px}</style><div class=\"amt-wrapper\"><p>Описание &amp; ТТХ</p></div>"
+    assert wp.text(html) == "Описание & ТТХ"
+    assert wp.on_page({"text": "Купить Описание & ТТХ Заказать"}, "body", html)
