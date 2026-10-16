@@ -1,0 +1,689 @@
+{
+ "id": 1565,
+ "name": "3D-сканер SIMSCAN 30",
+ "slug": "3d-skaner-simscan-30",
+ "permalink": "https://am-tech.ru/product/3d-skaner-simscan-30/",
+ "date_created": "2025-08-17T06:35:34",
+ "date_created_gmt": "2025-08-17T03:35:34",
+ "date_modified": "2026-10-16T22:03:49",
+ "date_modified_gmt": "2026-10-16T19:03:49",
+ "type": "simple",
+ "status": "publish",
+ "featured": false,
+ "catalog_visibility": "visible",
+ "description": "<style>\r\n\r\n/* =========================\r\n   BASE\r\n========================= */\r\n\r\nbody{\r\n    margin:0;\r\n    padding:0;\r\n    background:#ffffff;\r\n    font-family:Inter, Arial, sans-serif;\r\n    color:#1a1a1a;\r\n}\r\n\r\n/* WRAPPER */\r\n.sim30{\r\n    max-width:1320px;\r\n    margin:0 auto;\r\n    padding:80px 20px;\r\n}\r\n\r\n/* GRID */\r\n.sim30-grid{\r\n    display:grid;\r\n    grid-template-columns:repeat(2,1fr);\r\n    gap:26px;\r\n}\r\n\r\n/* CARD */\r\n.sim30-card{\r\n    background:#ffffff;\r\n    border:1px solid #eee;\r\n    border-radius:28px;\r\n    padding:42px;\r\n    box-shadow:0 10px 28px rgba(0,0,0,0.05);\r\n    transition:0.35s ease;\r\n}\r\n\r\n.sim30-card:hover{\r\n    transform:translateY(-6px);\r\n    box-shadow:0 18px 45px rgba(0,0,0,0.10);\r\n}\r\n\r\n.sim30-card.large{\r\n    grid-column:span 2;\r\n}\r\n\r\n/* TITLES */\r\n.sim30-card h2{\r\n    font-size:34px;\r\n    margin:0 0 14px 0;\r\n    color:#111;\r\n}\r\n\r\n.sim30-card h3{\r\n    font-size:24px;\r\n    margin:0 0 14px 0;\r\n    color:#111;\r\n}\r\n\r\n/* TEXT */\r\n.sim30-card p{\r\n    font-size:16px;\r\n    color:#555;\r\n    line-height:1.75;\r\n}\r\n\r\n/* =========================\r\n   ACCENT LINE (ONLY ORANGE)\r\n========================= */\r\n\r\n.line{\r\n    width:64px;\r\n    height:4px;\r\n    border-radius:20px;\r\n    margin:10px 0 18px;\r\n\r\n    background:linear-gradient(90deg,#ff6a00,#ff8c1a,#ff6a00);\r\n}\r\n\r\n/* =========================\r\n   IMAGES\r\n========================= */\r\n\r\n.sim30-card img{\r\n    width:100%;\r\n    border-radius:18px;\r\n    margin:16px 0;\r\n    border:1px solid #eee;\r\n    box-shadow:0 8px 20px rgba(0,0,0,0.06);\r\n}\r\n\r\n/* =========================\r\n   INFOGRAPHICS\r\n========================= */\r\n\r\n.infogrid{\r\n    display:grid;\r\n    grid-template-columns:repeat(3,1fr);\r\n    gap:16px;\r\n    margin-top:22px;\r\n}\r\n\r\n/* KPI BLOCK */\r\n.kpi{\r\n    background:#fafafa;\r\n    border:1px solid #eee;\r\n    border-radius:20px;\r\n    padding:22px;\r\n    text-align:center;\r\n}\r\n\r\n/* BIG ORANGE NUMBERS */\r\n.kpi-num{\r\n    font-size:56px;\r\n    font-weight:900;\r\n    letter-spacing:-1px;\r\n\r\n    background:linear-gradient(90deg,#ff6a00,#ff8c1a,#ffb347);\r\n    background-size:200% auto;\r\n\r\n    -webkit-background-clip:text;\r\n    -webkit-text-fill-color:transparent;\r\n\r\n    animation:flow 5s linear infinite;\r\n}\r\n\r\n.kpi-label{\r\n    font-size:12px;\r\n    color:#777;\r\n    text-transform:uppercase;\r\n    letter-spacing:1px;\r\n    margin-top:6px;\r\n}\r\n\r\n/* ANIMATION (ORANGE SHIFT) */\r\n@keyframes flow{\r\n    0%{background-position:0% 50%;}\r\n    100%{background-position:200% 50%;}\r\n}\r\n\r\n/* =========================\r\n   LIST\r\n========================= */\r\n\r\n.sim30-card ul{\r\n    margin:14px 0 0 0;\r\n    padding-left:18px;\r\n}\r\n\r\n.sim30-card li{\r\n    margin-bottom:10px;\r\n    color:#444;\r\n}\r\n\r\n/* =========================\r\n   RESPONSIVE\r\n========================= */\r\n\r\n@media(max-width:992px){\r\n    .sim30-grid{grid-template-columns:1fr;}\r\n    .sim30-card.large{grid-column:span 1;}\r\n    .infogrid{grid-template-columns:1fr;}\r\n}\r\n\r\n@media(max-width:768px){\r\n    .sim30{padding:50px 16px;}\r\n    .sim30-card{padding:26px;}\r\n    .sim30-card h2{font-size:28px;}\r\n}\r\n\r\n</style>\r\n\r\n<div class=\"sim30\">\r\n\r\n    <div class=\"sim30-grid\">\r\n\r\n        <!-- INTRO -->\r\n        <div class=\"sim30-card large\">\r\n\r\n            <h2>SIMSCAN 30 — промышленный ручной 3D-сканер</h2>\r\n            <div class=\"line\"></div>\r\n\r\n            <p>\r\n                SIMSCAN 30 от компании AM.TECH — промышленный ручной 3D-сканер\r\n                для высокоточной цифровизации объектов любой сложности.\r\n            </p>\r\n\r\n            <div class=\"infogrid\">\r\n\r\n                <div class=\"kpi\">\r\n                    <div class=\"kpi-num\">0.02</div>\r\n                    <div class=\"kpi-label\">Точность (мм)</div>\r\n                </div>\r\n\r\n                <div class=\"kpi\">\r\n                    <div class=\"kpi-num\">22</div>\r\n                    <div class=\"kpi-label\">Лазерных линии</div>\r\n                </div>\r\n\r\n                <div class=\"kpi\">\r\n                    <div class=\"kpi-num\">FAST</div>\r\n                    <div class=\"kpi-label\">Режим работы</div>\r\n                </div>\r\n\r\n            </div>\r\n\r\n        </div>\r\n\r\n        <!-- PRECISION -->\r\n        <div class=\"sim30-card\">\r\n\r\n            <h3>Микронная точность</h3>\r\n            <img src=\"https://am-tech.ru/wp-content/uploads/2025/08/3d-skaner-simscan22_6.webp\">\r\n            <p>\r\n                Высокоточные данные для контроля качества,\r\n                реверс-инжиниринга и метрологии.\r\n            </p>\r\n\r\n        </div>\r\n\r\n        <!-- ERGONOMICS -->\r\n        <div class=\"sim30-card\">\r\n\r\n            <h3>Компактность и эргономика</h3>\r\n            <img src=\"https://am-tech.ru/wp-content/uploads/2025/08/3d-skaner-simscan22_7.webp\">\r\n            <p>\r\n                Лёгкий корпус и балансировка позволяют работать одной рукой без усталости.\r\n            </p>\r\n\r\n        </div>\r\n\r\n        <!-- LASER MODES -->\r\n        <div class=\"sim30-card large\">\r\n\r\n            <h3>Режимы лазерного сканирования</h3>\r\n            <img src=\"https://am-tech.ru/wp-content/uploads/2025/08/3d-skaner-simscan22_5.webp\">\r\n\r\n            <ul>\r\n                <li>11 лазерных крестов (22 линии) — быстрый захват геометрии</li>\r\n                <li>7 линий — точная детализация поверхности</li>\r\n                <li>1 линия — сложные и труднодоступные зоны</li>\r\n            </ul>\r\n\r\n        </div>\r\n\r\n        <!-- UNIVERSAL -->\r\n        <div class=\"sim30-card\">\r\n\r\n            <h3>Универсальность</h3>\r\n            <img src=\"https://am-tech.ru/wp-content/uploads/2025/08/3d-skaner-simscan22.webp\">\r\n            <p>\r\n                Эффективен для крупных деталей и работы в ограниченных пространствах.\r\n            </p>\r\n\r\n        </div>\r\n\r\n        <!-- SOFTWARE -->\r\n        <div class=\"sim30-card large\">\r\n\r\n            <h3>Программное обеспечение ScanTech</h3>\r\n            <div class=\"line\"></div>\r\n\r\n            <ul>\r\n                <li>Построение полигональных моделей</li>\r\n                <li>Сравнение с CAD</li>\r\n                <li>Метрологический анализ</li>\r\n                <li>Сшивка облаков точек</li>\r\n                <li>Экспорт в CAD/CAM</li>\r\n            </ul>\r\n\r\n            <p>\r\n                Русифицированное ПО с регулярными обновлениями.\r\n            </p>\r\n\r\n        </div>\r\n\r\n        <!-- APPLICATION -->\r\n        <div class=\"sim30-card large\">\r\n\r\n            <h3>Области применения</h3>\r\n\r\n            <div class=\"infogrid\">\r\n\r\n                <div class=\"kpi\">\r\n                    <div class=\"kpi-num\">QC</div>\r\n                    <div class=\"kpi-label\">Контроль качества</div>\r\n                </div>\r\n\r\n                <div class=\"kpi\">\r\n                    <div class=\"kpi-num\">RE</div>\r\n                    <div class=\"kpi-label\">Реверс-инжиниринг</div>\r\n                </div>\r\n\r\n                <div class=\"kpi\">\r\n                    <div class=\"kpi-num\">IND</div>\r\n                    <div class=\"kpi-label\">Промышленность</div>\r\n                </div>\r\n\r\n            </div>\r\n\r\n        </div>\r\n\r\n    </div>\r\n\r\n</div>\r\n",
+ "short_description": "SIMSCAN, самый компактный на рынке ручной лазерный 3D-сканер, представляет собой инновационную разработку в ряду традиционных 3D-сканеров и революционный продукт в отрасли оптических 3D-измерений.\r\n\r\n&nbsp;\r\n\r\nБудучи помещенным в ограниченное пространство или работая вблизи крупногабаритных объектов, SIMSCAN, тем не менее, производит высококачественные 3D-измерения без каких-либо ограничений из-за рабочей среды. Система измерения помогает с метрологической точностью зафиксировать каждую деталь и в кратчайшие сроки построить 3D-модель. Минималистический дизайн металлического корпуса обеспечивает SIMSCAN баланс между весом и производительностью.",
+ "sku": "",
+ "price": "",
+ "regular_price": "",
+ "sale_price": "",
+ "date_on_sale_from": null,
+ "date_on_sale_from_gmt": null,
+ "date_on_sale_to": null,
+ "date_on_sale_to_gmt": null,
+ "on_sale": false,
+ "purchasable": false,
+ "total_sales": 0,
+ "virtual": false,
+ "downloadable": false,
+ "downloads": [],
+ "download_limit": -1,
+ "download_expiry": -1,
+ "external_url": "",
+ "button_text": "",
+ "tax_status": "taxable",
+ "tax_class": "",
+ "manage_stock": false,
+ "stock_quantity": null,
+ "backorders": "no",
+ "backorders_allowed": false,
+ "backordered": false,
+ "low_stock_amount": null,
+ "sold_individually": false,
+ "weight": "",
+ "dimensions": {
+  "length": "",
+  "width": "",
+  "height": ""
+ },
+ "shipping_required": true,
+ "shipping_taxable": true,
+ "shipping_class": "",
+ "shipping_class_id": 0,
+ "reviews_allowed": true,
+ "average_rating": "0",
+ "rating_count": 0,
+ "upsell_ids": [],
+ "cross_sell_ids": [],
+ "parent_id": 0,
+ "purchase_note": "",
+ "categories": [
+  {
+   "id": 24,
+   "name": "3D-сканеры",
+   "slug": "3d-scan"
+  },
+  {
+   "id": 1273,
+   "name": "Лазерные 3d сканеры",
+   "slug": "lazernye-3d-skanery"
+  },
+  {
+   "id": 1272,
+   "name": "Ручные 3d сканеры",
+   "slug": "ruchnye-3d-skanery"
+  }
+ ],
+ "brands": [],
+ "tags": [],
+ "images": [
+  {
+   "id": 1566,
+   "date_created": "2025-08-17T09:35:35",
+   "date_created_gmt": "2025-08-17T03:35:35",
+   "date_modified": "2025-08-17T09:35:35",
+   "date_modified_gmt": "2025-08-17T03:35:35",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/g5vdtouam4ifx39miw8m0i2p4hl6bh33-1.png",
+   "name": "g5vdtouam4ifx39miw8m0i2p4hl6bh33-1",
+   "alt": ""
+  },
+  {
+   "id": 1567,
+   "date_created": "2025-08-17T09:35:36",
+   "date_created_gmt": "2025-08-17T03:35:36",
+   "date_modified": "2025-08-17T09:35:36",
+   "date_modified_gmt": "2025-08-17T03:35:36",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/4bnzhz3qpgd3zukym9kbcbd4e9phi632-1.webp",
+   "name": "4bnzhz3qpgd3zukym9kbcbd4e9phi632-1",
+   "alt": ""
+  }
+ ],
+ "attributes": [
+  {
+   "id": 3524,
+   "name": "Точность, мм, до",
+   "slug": "pa_tochnost-mm-do",
+   "position": 1,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "0,02"
+   ]
+  },
+  {
+   "id": 3525,
+   "name": "Объемная точность, мм",
+   "slug": "pa_obemnaja-tochnost-mm",
+   "position": 2,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "0,015+0,030∗L"
+   ]
+  },
+  {
+   "id": 3528,
+   "name": "Объемная точность с фотограмметрией MSCAN L15, мм",
+   "slug": "pa_obemnaja-tochnost-s",
+   "position": 4,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "0,015 + 0,012∗L"
+   ]
+  },
+  {
+   "id": 3529,
+   "name": "Доверительная вероятность",
+   "slug": "pa_doveritelnaja-verojatnost",
+   "position": 7,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "0,95"
+   ]
+  },
+  {
+   "id": 3531,
+   "name": "Разрешение, мм, до",
+   "slug": "pa_razreshenie-mm-do",
+   "position": 8,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "0,02"
+   ]
+  },
+  {
+   "id": 3532,
+   "name": "Скорость измерений, точек/сек, до",
+   "slug": "pa_skorost-izmerenij",
+   "position": 9,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "4 580 000/5 800 000"
+   ]
+  },
+  {
+   "id": 3533,
+   "name": "Область сканирования (поле зрения), мм, до",
+   "slug": "pa_oblast-pole-zr",
+   "position": 10,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "700 × 600"
+   ]
+  },
+  {
+   "id": 3534,
+   "name": "Оптимальное расстояние до объекта, мм",
+   "slug": "pa_optimalnoe-rasstojanie",
+   "position": 11,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "300"
+   ]
+  },
+  {
+   "id": 3535,
+   "name": "Источник излучения",
+   "slug": "pa_istochnik-izluchenija",
+   "position": 12,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "- Сверхбыстрое сканирование: 17 синих лазерных крестов (34 линии) / 27 синих лазерных крестов (54 линии) - Сканирование в высоком разрешении: 17 синих параллельных линий"
+   ]
+  },
+  {
+   "id": 3536,
+   "name": "Глубина резкости, мм",
+   "slug": "pa_glubina-rezkosti-mm",
+   "position": 13,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "550"
+   ]
+  },
+  {
+   "id": 3537,
+   "name": "Размеры измеряемого объекта, м",
+   "slug": "pa_razmery-izmerjaemogo",
+   "position": 14,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "0,1-5"
+   ]
+  },
+  {
+   "id": 3539,
+   "name": "Вес сканера, кг",
+   "slug": "pa_ves-skanera-kg",
+   "position": 16,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "0,57"
+   ]
+  },
+  {
+   "id": 3540,
+   "name": "Температура окружающей среды при эксплуатации, °С",
+   "slug": "pa_temperatura",
+   "position": 17,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "от -10 до +40"
+   ]
+  },
+  {
+   "id": 3541,
+   "name": "Наличие в реестре средств измерений",
+   "slug": "pa_nalichie-v-reestre",
+   "position": 18,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "Внесен"
+   ]
+  }
+ ],
+ "default_attributes": [],
+ "variations": [],
+ "grouped_products": [],
+ "menu_order": 999,
+ "price_html": "",
+ "related_ids": [
+  1590,
+  1647,
+  1668,
+  3773,
+  2838
+ ],
+ "meta_data": [
+  {
+   "id": 24182,
+   "key": "bitrix_id",
+   "value": "2222"
+  },
+  {
+   "id": 24183,
+   "key": "Символьный код",
+   "value": "simscan-30"
+  },
+  {
+   "id": 24184,
+   "key": "Анонс",
+   "value": "<p>SIMSCAN, самый компактный на рынке ручной лазерный 3D-сканер, представляет собой инновационную разработку в ряду традиционных 3D-сканеров и революционный продукт в отрасли оптических 3D-измерений.</p>\r\n<p>&nbsp;</p>\r\n<p>Будучи помещенным в ограниченное пространство или работая вблизи крупногабаритных объектов, SIMSCAN, тем не менее, производит высококачественные 3D-измерения без каких-либо ограничений из-за рабочей среды. Система измерения помогает с метрологической точностью зафиксировать каждую деталь и в кратчайшие сроки построить 3D-модель. Минималистический дизайн металлического корпуса обеспечивает SIMSCAN баланс между весом и производительностью.</p>"
+  },
+  {
+   "id": 24185,
+   "key": "Описание",
+   "value": "<p>SIMSCAN 30 производства AMTECH соответствует последним достижениям в сфере оптических измерений и по праву считается незаменимым инструментом для специалистов различных отраслей.</p>\r\n<p>Он способен решать широкий спектр задач в промышленности, науке и искусстве. Благодаря уникальным характеристикам, он открывает новые горизонты для работы с трехмерными моделями и цифровыми копиями объектов.</p>\r\n<h2>Принцип работы</h2>\r\n<p>В основе функционирования устройства лежит передовая лазерная технология, обеспечивающая исключительную точность измерений. Прибор использует комбинацию различных источников излучения для максимально эффективного сканирования объектов любой сложности.</p>\r\n<p>Сканер оснащен тремя типами лазерных источников:</p>\r\n<ol>\r\n<li>Для сверхбыстрого охвата используются 11 синих лазерных крестов, образующих 22 линии. Это позволяет оперативно получить общую форму объекта.</li>\r\n<li>Детальное сканирование обеспечивается 7 синими параллельными линиями. Такая конфигурация идеальна для фиксации мельчайших элементов и текстур поверхности.</li>\r\n<li>Для труднодоступных мест применяется 1 синяя лазерная линия, способная проникать в глубокие отверстия и фиксировать их геометрию.</li>\r\n</ol>\r\n<p>Устройство способно адаптироваться к различным типам поверхностей и форм, гарантируя максимальную точность при создании трехмерных моделей.</p>\r\n<p>Процесс работы интуитивно понятен. Оператор перемещает прибор вокруг объекта, а встроенные датчики и камеры фиксируют отраженный свет, преобразуя его в облако точек. Обработка данных происходит на мощном компьютере в онлайн режиме, где специальное программное обеспечение формирует детальную трехмерную модель.</p>\r\n<p>Сканер может использоваться без специальных защитных средств, повышая эффективность и удобство для оператора. Это возможно благодаря принадлежности SIMSCAN 30 к приборам II класса, гарантирующим безопасность и комфорт .</p>\r\n<p>Система измерения разработана с учетом требований метрологической точности. Это означает, что каждый элемент объекта фиксируется с микронной точностью, обеспечивая создание максимально достоверной модели. Такой уровень качества критически важен для многих промышленных и научных применений, где даже минимальные отклонения могут иметь серьезные последствия.</p>\r\n<p>Металлический корпус с минималистичным дизайном обеспечивает функциональность и защиту. Цельнометаллическая конструкция предотвращает механические повреждения внутренних компонентов и защищает от внешних воздействий. Использование высокопрочных материалов повышает долговечность устройства при эксплуатации в производственных условиях.</p>\r\n<p>Эргономика устройства оптимизирована для повышения эффективности работы. Сбалансированные вес и размеры позволяют осуществлять длительное одноручное использование без утомления оператора. Это способствует увеличению производительности труда и улучшению условий работы пользователя.</p>\r\n<h2>Программное обеспечение и обработка данных</h2>\r\n<p>Ключевым достоинством сканера SIMSCAN 30 выступает интегрированный программный комплекс, входящий в комплект поставки. Это уникальное ПО, разработанное специально для устройств ScanTech, обеспечивает беспрецедентную эффективность в обработке сканированных данных.</p>\r\n<p>Функциональность программного обеспечения впечатляет своей многогранностью:</p>\r\n<ul>\r\n<li>Генерация высококачественных полигональных моделей на основе собранных 3D-данных;</li>\r\n<li>Интуитивно понятный интерфейс на русском языке, работающий автономно без подключения к сети;</li>\r\n<li>Гибкая настройка разрешения в рамках одного проекта, оптимизирующая рабочий процесс;</li>\r\n<li>Передовые алгоритмы объединения сканов с использованием геометрических особенностей или специальных маркеров;</li>\r\n<li>Профессиональный инструментарий для проведения измерений;</li>\r\n<li>Инструменты сопоставления результатов с CAD-моделями;</li>\r\n<li>Сбор и анализ данных с метрологической точностью;</li>\r\n<li>Расширенные возможности для проверки и оценки отсканированных объектов;</li>\r\n<li>Широкие возможности экспорта для дальнейшей обработки в системах CAD/CAM.</li>\r\n</ul>\r\n<p>Программное обеспечение активно развивается, постоянно оптимизируется и улучшается, что гарантирует пользователям доступ к самым современным инструментам обработки данных.</p>\r\n<p>Все представленное в нашем каталоге оборудование доступно к приобретению на выгодных условиях <a href=\"https://am-tech.ru/leasing/\">лизинга.</a></p>\r\n<p>Наши специалисты помогут подобрать оптимальную схему лизинга под ваши производственные задачи и финансовые возможности, а также окажут содействие в оформлении всей необходимой документации.</p>"
+  },
+  {
+   "id": 24189,
+   "key": "Точность, мм",
+   "value": "до 0,02"
+  },
+  {
+   "id": 24190,
+   "key": "Объемная точность, мм/м",
+   "value": "0,015+0,030∗L"
+  },
+  {
+   "id": 24191,
+   "key": "Объемная точность с фотограмметрией MSCAN L15, мм/м",
+   "value": "0,015 + 0,012∗L"
+  },
+  {
+   "id": 24192,
+   "key": "Доверительная вероятность",
+   "value": "0,95"
+  },
+  {
+   "id": 24193,
+   "key": "Возможность работы со щупом",
+   "value": "нет"
+  },
+  {
+   "id": 24194,
+   "key": "Разрешение, мм",
+   "value": "до 0,02"
+  },
+  {
+   "id": 24195,
+   "key": "Скорость измерений, точек/сек",
+   "value": "2 020 000"
+  },
+  {
+   "id": 24196,
+   "key": "Область сканирования (поле зрения), мм",
+   "value": "650х550"
+  },
+  {
+   "id": 24197,
+   "key": "Оптимальное расстояние до объекта, мм",
+   "value": "300"
+  },
+  {
+   "id": 24198,
+   "key": "Источник излучения",
+   "value": "Сверхбыстрое сканирование: 11 синих лазерных крестов (22 линии)  Сканирование в высоком разрешении: 7 синих параллельных линий  Сканирование глубоких отверстий: 1 синяя линия"
+  },
+  {
+   "id": 24199,
+   "key": "Глубина резкости, мм",
+   "value": "550"
+  },
+  {
+   "id": 24200,
+   "key": "Размеры измеряемого объекта, м",
+   "value": "0,01-5"
+  },
+  {
+   "id": 24201,
+   "key": "Габариты, мм",
+   "value": "203х80х44"
+  },
+  {
+   "id": 24202,
+   "key": "Вес, кг",
+   "value": "0,57"
+  },
+  {
+   "id": 24203,
+   "key": "Температура окружающей среды, °C",
+   "value": "от -10 до +40"
+  },
+  {
+   "id": 24204,
+   "key": "Наличие в реестре средств измерений",
+   "value": "да"
+  },
+  {
+   "id": 24205,
+   "key": "Страна производства",
+   "value": "Китай"
+  },
+  {
+   "id": 24206,
+   "key": "Код с видео (iframe)",
+   "value": "https://www.youtube.com/embed/VzV6MLtmNsk?feature=oembed"
+  },
+  {
+   "id": 24207,
+   "key": "Связанные товары по фильтру",
+   "value": "[]"
+  },
+  {
+   "id": 24208,
+   "key": "Материалы",
+   "value": "/pr_new_files/iblock/549/0lsu0xx4qo9qf0p33l51alldbyg5lz4w.pdf"
+  },
+  {
+   "id": 24209,
+   "key": "Картинки галереи",
+   "value": "/pr_new_files/iblock/d3b/4bnzhz3qpgd3zukym9kbcbd4e9phi632.png"
+  },
+  {
+   "id": 24210,
+   "key": "Вес, кг.",
+   "value": "0,57"
+  },
+  {
+   "id": 24211,
+   "key": "Класс лазера (безопасность для глаз)",
+   "value": "Класс II (безопасно для глаз)"
+  },
+  {
+   "id": 24212,
+   "key": "bitrix_picture",
+   "value": "/pr_new_files/iblock/403/f0exhwodiz21aynfu7e14dl4ndgqvstp.png"
+  },
+  {
+   "id": 24213,
+   "key": "Документы товара",
+   "value": "1563"
+  },
+  {
+   "id": 30931,
+   "key": "wbcr_wp_old_slug",
+   "value": "3d-%d1%81%d0%ba%d0%b0%d0%bd%d0%b5%d1%80-simscan-30"
+  },
+  {
+   "id": 33269,
+   "key": "Файл видео",
+   "value": ""
+  },
+  {
+   "id": 33270,
+   "key": "_news_category",
+   "value": "0"
+  },
+  {
+   "id": 33271,
+   "key": "_news_tag",
+   "value": "0"
+  },
+  {
+   "id": 33272,
+   "key": "_my_menu_type",
+   "value": "обычное"
+  },
+  {
+   "id": 33273,
+   "key": "_video_block",
+   "value": {
+    "video_title": "",
+    "video_post_id": "3185",
+    "right_title": "",
+    "subtitle": "",
+    "video_description": "",
+    "button_text": "Смотреть больше видео",
+    "tag_id": ""
+   }
+  },
+  {
+   "id": 33274,
+   "key": "boldgrid_in_page_containers",
+   "value": "1"
+  },
+  {
+   "id": 33275,
+   "key": "_yoast_wpseo_primary_product_brand",
+   "value": ""
+  },
+  {
+   "id": 33276,
+   "key": "_yoast_wpseo_primary_product_cat",
+   "value": "24"
+  },
+  {
+   "id": 33277,
+   "key": "_yoast_wpseo_content_score",
+   "value": "90"
+  },
+  {
+   "id": 33278,
+   "key": "_yoast_wpseo_estimated-reading-time-minutes",
+   "value": "2"
+  },
+  {
+   "id": 33281,
+   "key": "_yoast_wpseo_metadesc",
+   "value": "Заказать 3D-сканер SIMSCAN 30 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91"
+  },
+  {
+   "id": 35676,
+   "key": "_custom_advantages",
+   "value": ""
+  },
+  {
+   "id": 35772,
+   "key": "_yoast_wpseo_title",
+   "value": "3D-сканер SIMSCAN 30 — купить с доставкой по России | AM.TECH"
+  },
+  {
+   "id": 36104,
+   "key": "_vcv-sourceChecksum",
+   "value": "e0d540ce157ee2bb31ffebf949679a82"
+  },
+  {
+   "id": 36105,
+   "key": "vcvSourceCssFileUrl",
+   "value": "/assets-bundles/e0d540ce157ee2bb31ffebf949679a82.source.css"
+  },
+  {
+   "id": 36106,
+   "key": "_vcv-globalCssMigrated",
+   "value": "1"
+  },
+  {
+   "id": 52807,
+   "key": "_elementor_page_assets",
+   "value": []
+  }
+ ],
+ "stock_status": "instock",
+ "has_options": false,
+ "post_password": "",
+ "global_unique_id": "",
+ "permalink_template": "https://am-tech.ru/product/%pagename%/",
+ "generated_slug": "3d-skaner-simscan-30",
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>3D-сканер SIMSCAN 30 — купить с доставкой по России | AM.TECH</title>\n<meta name=\"description\" content=\"Заказать 3D-сканер SIMSCAN 30 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/product/3d-skaner-simscan-30/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"3D-сканер SIMSCAN 30 — купить с доставкой по России | AM.TECH\" />\n<meta property=\"og:description\" content=\"Заказать 3D-сканер SIMSCAN 30 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/product/3d-skaner-simscan-30/\" />\n<meta property=\"og:site_name\" content=\"AM.TECH\" />\n<meta property=\"article:modified_time\" content=\"2026-10-16T19:03:49+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2025/08/g5vdtouam4ifx39miw8m0i2p4hl6bh33-1.png\" />\n\t<meta property=\"og:image:width\" content=\"476\" />\n\t<meta property=\"og:image:height\" content=\"1000\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"2 минуты\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/product/3d-skaner-simscan-30/\",\"url\":\"https://am-tech.ru/product/3d-skaner-simscan-30/\",\"name\":\"3D-сканер SIMSCAN 30 — купить с доставкой по России | AM.TECH\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/product/3d-skaner-simscan-30/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/product/3d-skaner-simscan-30/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2025/08/g5vdtouam4ifx39miw8m0i2p4hl6bh33-1.png\",\"datePublished\":\"2025-08-17T03:35:34+00:00\",\"dateModified\":\"2026-10-16T19:03:49+00:00\",\"description\":\"Заказать 3D-сканер SIMSCAN 30 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91\",\"breadcrumb\":{\"@id\":\"https://am-tech.ru/product/3d-skaner-simscan-30/#breadcrumb\"},\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/product/3d-skaner-simscan-30/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/product/3d-skaner-simscan-30/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2025/08/g5vdtouam4ifx39miw8m0i2p4hl6bh33-1.png\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2025/08/g5vdtouam4ifx39miw8m0i2p4hl6bh33-1.png\",\"width\":476,\"height\":1000},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://am-tech.ru/product/3d-skaner-simscan-30/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Главная страница\",\"item\":\"https://am-tech.ru/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Промышленные 3D сканеры: оборудование для реверс-инжиниринга и контроля качества\",\"item\":\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"3D-сканеры\",\"item\":\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"3D-сканер SIMSCAN 30\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"AM.TECH\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"AM.TECH\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"AM.TECH\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "3D-сканер SIMSCAN 30 — купить с доставкой по России | AM.TECH",
+  "description": "Заказать 3D-сканер SIMSCAN 30 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/product/3d-skaner-simscan-30/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "3D-сканер SIMSCAN 30 — купить с доставкой по России | AM.TECH",
+  "og_description": "Заказать 3D-сканер SIMSCAN 30 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91",
+  "og_url": "https://am-tech.ru/product/3d-skaner-simscan-30/",
+  "og_site_name": "AM.TECH",
+  "article_modified_time": "2026-10-16T19:03:49+00:00",
+  "og_image": [
+   {
+    "width": 476,
+    "height": 1000,
+    "url": "https://am-tech.ru/wp-content/uploads/2025/08/g5vdtouam4ifx39miw8m0i2p4hl6bh33-1.png",
+    "type": "image/png"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "2 минуты"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/product/3d-skaner-simscan-30/",
+     "url": "https://am-tech.ru/product/3d-skaner-simscan-30/",
+     "name": "3D-сканер SIMSCAN 30 — купить с доставкой по России | AM.TECH",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/product/3d-skaner-simscan-30/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/product/3d-skaner-simscan-30/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2025/08/g5vdtouam4ifx39miw8m0i2p4hl6bh33-1.png",
+     "datePublished": "2025-08-17T03:35:34+00:00",
+     "dateModified": "2026-10-16T19:03:49+00:00",
+     "description": "Заказать 3D-сканер SIMSCAN 30 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91",
+     "breadcrumb": {
+      "@id": "https://am-tech.ru/product/3d-skaner-simscan-30/#breadcrumb"
+     },
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/product/3d-skaner-simscan-30/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/product/3d-skaner-simscan-30/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2025/08/g5vdtouam4ifx39miw8m0i2p4hl6bh33-1.png",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2025/08/g5vdtouam4ifx39miw8m0i2p4hl6bh33-1.png",
+     "width": 476,
+     "height": 1000
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://am-tech.ru/product/3d-skaner-simscan-30/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Главная страница",
+       "item": "https://am-tech.ru/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Промышленные 3D сканеры: оборудование для реверс-инжиниринга и контроля качества",
+       "item": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "3D-сканеры",
+       "item": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 4,
+       "name": "3D-сканер SIMSCAN 30"
+      }
+     ]
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "AM.TECH",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "AM.TECH",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "AM.TECH"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wc/v3/products/1565",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wc/v3/products"
+   }
+  ]
+ }
+}
