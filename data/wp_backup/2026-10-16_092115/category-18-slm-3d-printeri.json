@@ -1,0 +1,159 @@
+{
+ "id": 18,
+ "count": 5,
+ "description": "SLM 3D-принтеры: промышленное оборудование для селективного лазерного плавления\r\nSLM 3D - принтеры применяются для изготовления функциональных компонентов, прототипов, оснастки и малых серий в машиностроении, авиации, энергетике, медицине и научных центрах. Технология востребована для сложной геометрии, снижения массы изделий и сокращения сроков подготовки производства.\r\n\r\nКак работает SLM 3D-принтер\r\nВ основе процесса лежит послойное формирование изделия из металлического порошка. Установка работает в герметичной камере с контролируемой атмосферой, а CAD-модель предварительно разбивается программным обеспечением на тонкие слои.\r\n\r\n\r\n \tна рабочую платформу распределяется равномерный слой порошка;\r\n \tфокусированный лазер по заданной траектории выборочно расплавляет материал;\r\n \tоптика управляет положением и параметрами лазерного пятна;\r\n \tпосле завершения прохода слой остывает, а платформа опускается на заданную величину;\r\n \tнаносится новая порция порошка, и цикл повторяется до завершения построения;\r\n \tготовая деталь отделяется от платформы и при необходимости проходит термообработку, фрезерование и другую постобработку.\r\n\r\nТакое лазерное плавление позволяет создавать монолитные изделия со сложными внутренними каналами, полостями, решётчатыми структурами и топологически оптимизированной геометрией.\r\n\r\nПреимущества SLM-технологии для бизнеса\r\nТехнология подходит предприятиям, которым необходимо производить сложные компоненты без длительного изготовления специальной оснастки. При корректно подобранных режимах можно объединять несколько элементов сборки в одну деталь и сокращать число промежуточных операций.\r\n\r\n\r\n \tизготовление геометрии, которую сложно или экономически нецелесообразно получать традиционным фрезерованием;\r\n \tпроизводство внутренних каналов охлаждения и облегчённых конструкций;\r\n \tснижение объёма механической обработки по сравнению с полностью субтрактивным производством;\r\n \tработа с нержавеющими и инструментальными сталями, алюминиевыми, титановыми, никелевыми и другими совместимыми сплавами;\r\n \tвыпуск единичных изделий и малых серий без дорогостоящей специализированной оснастки;\r\n \tповторяемость результата при использовании отработанных режимов и контролируемого качества порошка.\r\n\r\nВыбор оборудования: на что обратить внимание\r\nКонфигурацию необходимо подбирать под размеры изделий, материал, серийность и требуемую производительность. Оценивать важно всю технологическую цепочку.\r\n\r\n\r\n \tколичество и мощность лазеров: однолазерные системы подходят для исследовательских и части производственных задач, многолазерные — для повышения производительности;\r\n \tразмер рабочей камеры должен соответствовать габаритам деталей и компоновке партий;\r\n \tоткрытость системы позволяет настраивать режимы и использовать порошки сторонних производителей;\r\n \tгазовая циркуляция и фильтрация поддерживают стабильную защитную среду;\r\n \tконструкция рекоутера и контроль слоя влияют на стабильность построения;\r\n \tпрограммное обеспечение должно поддерживать подготовку заданий, мониторинг и сохранение технологических данных.\r\n\r\nЛазерное плавление следует рассматривать как комплексный процесс, где результат зависит от оборудования, материала, цифровой подготовки, настроек и последующей обработки.\r\n\r\nКупить SLM-оборудование от AM-Tech\r\nAM-Tech поставляет системы для промышленного аддитивного производства и помогает сформировать технологическую цепочку под задачи предприятия. Перед поставкой специалисты анализируют номенклатуру изделий, планируемые материалы, производительность и условия размещения.\r\nПроект внедрения может включать:\r\n\r\n\r\n \tподбор модели и конфигурации лазеров;\r\n \tпоставку металлических порошков;\r\n \tоборудование для просеивания, хранения и безопасного обращения с материалом;\r\n \tинтеграцию в производственную площадку и пусконаладочные работы;\r\n \tтестовые построения и настройку технологических режимов;\r\n \tобучение технологов и операторов;\r\n \tподбор решений для термообработки и другой постобработки;\r\n \tсервисное и технологическое сопровождение.\r\n\r\nПокупка бывшей в эксплуатации или несертифицированной установки связана с дополнительными рисками: неизвестным состоянием лазерной системы и оптики, износом механики, отсутствием актуального ПО, запасных частей и квалифицированного сервиса. Для производства важно заранее оценить происхождение оборудования, состояние ключевых узлов и возможность поддерживать стабильность процесса.\r\nAM-Tech помогает подобрать 3D-принтер и сопутствующее оснащение как единую производственную систему — от подготовки порошка и цифровой модели до выпуска готовой детали.",
+ "link": "https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/",
+ "name": "SLM 3D-принтеры",
+ "slug": "slm-3d-printeri",
+ "taxonomy": "product_cat",
+ "parent": 1204,
+ "meta": [],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>SLM 3D-принтеры по металлу — купить, цена от производителя | AM-Tech</title>\n<meta name=\"description\" content=\"SLM 3D-принтеры по металлу от российского производителя AM.TECH: 5 моделей AMT, от 1 до 4 лазеров по 500 Вт. Цена по запросу, демонстрация, лизинг.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"SLM 3D-принтеры по металлу — купить, цена от производителя | AM-Tech\" />\n<meta property=\"og:description\" content=\"SLM 3D-принтеры по металлу от российского производителя AM.TECH: 5 моделей AMT, от 1 до 4 лазеров по 500 Вт. Цена по запросу, демонстрация, лизинг.\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/\" />\n<meta property=\"og:site_name\" content=\"am-tech.ru\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/\",\"url\":\"https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/\",\"name\":\"SLM 3D-принтеры по металлу — купить, цена от производителя | AM-Tech\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"description\":\"SLM 3D-принтеры по металлу от российского производителя AM.TECH: 5 моделей AMT, от 1 до 4 лазеров по 500 Вт. Цена по запросу, демонстрация, лизинг.\",\"breadcrumb\":{\"@id\":\"https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/#breadcrumb\"},\"inLanguage\":\"ru-RU\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Главная страница\",\"item\":\"https://am-tech.ru/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"SLM 3D-принтеры\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"am-tech.ru\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"am-tech.ru\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"am-tech.ru\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "SLM 3D-принтеры по металлу — купить, цена от производителя | AM-Tech",
+  "description": "SLM 3D-принтеры по металлу от российского производителя AM.TECH: 5 моделей AMT, от 1 до 4 лазеров по 500 Вт. Цена по запросу, демонстрация, лизинг.",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "SLM 3D-принтеры по металлу — купить, цена от производителя | AM-Tech",
+  "og_description": "SLM 3D-принтеры по металлу от российского производителя AM.TECH: 5 моделей AMT, от 1 до 4 лазеров по 500 Вт. Цена по запросу, демонстрация, лизинг.",
+  "og_url": "https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/",
+  "og_site_name": "am-tech.ru",
+  "twitter_card": "summary_large_image",
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "CollectionPage",
+     "@id": "https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/",
+     "url": "https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/",
+     "name": "SLM 3D-принтеры по металлу — купить, цена от производителя | AM-Tech",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "description": "SLM 3D-принтеры по металлу от российского производителя AM.TECH: 5 моделей AMT, от 1 до 4 лазеров по 500 Вт. Цена по запросу, демонстрация, лизинг.",
+     "breadcrumb": {
+      "@id": "https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/#breadcrumb"
+     },
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Главная страница",
+       "item": "https://am-tech.ru/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "SLM 3D-принтеры"
+      }
+     ]
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "am-tech.ru",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "am-tech.ru",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "am-tech.ru"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "html_description": true,
+ "yoast_seo": {
+  "title": "SLM 3D-принтеры по металлу — купить, цена от производителя | AM-Tech",
+  "desc": "SLM 3D-принтеры по металлу от российского производителя AM.TECH: 5 моделей AMT, от 1 до 4 лазеров по 500 Вт. Цена по запросу, демонстрация, лизинг."
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/product_cat/18",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/product_cat"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/taxonomies/product_cat"
+   }
+  ],
+  "up": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/product_cat/1204"
+   }
+  ],
+  "wp:post_type": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/product?product_cat=18"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

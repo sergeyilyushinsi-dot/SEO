@@ -334,7 +334,7 @@ def on_page(page: dict, field: str, value, old: str = "", link: bool = False) ->
     if field == "featured_media":
         return None
     if field == "content" and not old and value:  # весь текст записи: ищем на странице его начало
-        return " ".join(text(value).split()[:12]) in page["text"]
+        return _typo(" ".join(text(value).split()[:12])) in _typo(page["text"])
     if field == "status":  # снятая с публикации запись для посетителей — 404 или 301 на другую страницу
         if value == "publish":
             return page["http_status"] == 200 and not page.get("redirected")
@@ -344,9 +344,9 @@ def on_page(page: dict, field: str, value, old: str = "", link: bool = False) ->
     if field in ("content", "elementor") or (field == "body" and old):
         if value.startswith(("/", "http")):  # замена адреса ссылки: новый есть, старого нет
             return _href_on_page(value, page["html"]) and not _href_on_page(old, page["html"])
-        return value in page["html"] or text(value) in page["text"]
+        return value in page["html"] or _typo(text(value)) in _typo(page["text"])
     if field == "body":  # новое описание целиком: ищем его начало
-        return " ".join(text(value).split()[:12]) in page["text"]
+        return _typo(" ".join(text(value).split()[:12])) in _typo(page["text"])
     if field == "title":
         return text(page["title"]) == text(value)
     if field == "description":
@@ -355,7 +355,14 @@ def on_page(page: dict, field: str, value, old: str = "", link: bool = False) ->
         return ("noindex" in page["meta_robots"]) == (value == "1")
     if field == "name":
         return text(value) in [text(h) for h in page["h1"]]
-    return text(value) in page["text"]
+    return _typo(text(value)) in _typo(page["text"])
+
+
+def _typo(value: str) -> str:
+    """WordPress при выводе меняет « - » на тире и прямые кавычки на типографские (wptexturize) — для сравнения
+    приводим к одному виду."""
+    return value.translate(str.maketrans({"–": "-", "—": "-", "«": '"', "»": '"', "“": '"', "”": '"', "„": '"',
+                                          "‘": "'", "’": "'"})).replace("…", "...")
 
 
 def backup(kind: str, item: dict, stamp: str) -> None:

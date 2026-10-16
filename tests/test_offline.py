@@ -259,3 +259,8 @@ def test_wp_visible_text_skips_styles():
     html = "<style>.amt-wrapper{max-width:1320px}</style><div class=\"amt-wrapper\"><p>Описание &amp; ТТХ</p></div>"
     assert wp.text(html) == "Описание & ТТХ"
     assert wp.on_page({"text": "Купить Описание & ТТХ Заказать"}, "body", html)
+
+
+def test_wp_on_page_ignores_wptexturize():
+    assert wp.on_page({"text": "Каталог SLM 3D — принтеры применяются «в авиации»…"}, "body",
+                      "<p>SLM 3D - принтеры применяются \"в авиации\"...</p>")

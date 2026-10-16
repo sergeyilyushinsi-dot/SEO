@@ -1,0 +1,159 @@
+{
+ "id": 20,
+ "count": 3,
+ "description": "Электронно-лучевая плавка — технология аддитивного производства металлических деталей в вакуумной среде. Она востребована для работы с реакционноспособными сплавами и сложной геометрией. Промышленный 3D-принтер такого класса подходит для опытного и серийного выпуска изделий из титана и других совместимых материалов.\r\n\r\nЧто такое EBM технология (Electron Beam Melting)\r\nEBM относится к технологиям порошкового сплавления металлов. Слой металлического порошка распределяется по рабочей платформе, после чего электронный луч выборочно расплавляет материал по данным цифровой модели. Процесс проходит в вакууме, а порошковый слой предварительно нагревается, что снижает температурные градиенты и помогает уменьшать остаточные напряжения.\r\n\r\n\r\n \tисточником энергии служит электронный луч, формируемый электронной пушкой и катодом;\r\n \tметалл расплавляется послойно по заданной стратегии построения;\r\n \tвакуум ограничивает контакт расплава с газовой средой, что особенно важно для титана;\r\n \tэлектромагнитное отклонение пучка обеспечивает быстрое перемещение зоны воздействия;\r\n \tпредварительный нагрев стабилизирует порошковый слой и тепловой режим процесса.\r\n\r\nВ отличие от SLM, где используется лазер и защитная атмосфера инертного газа, электронно-лучевая плавка требует вакуумной камеры. Фактическая производительность зависит от сплава, геометрии детали, толщины слоя и параметров установки.\r\n\r\nПреимущества EBM 3D-принтеров\r\nСочетание вакуума, высокой температуры и управляемой плавки особенно важно для титановых сплавов. Печать позволяет получать функциональные изделия сложной формы и управлять внутренней архитектурой детали.\r\n\r\n\r\n \tвысокая скорость перемещения пучка по рабочему полю;\r\n \tснижение риска окисления и загрязнения чувствительных сплавов;\r\n \tсравнительно низкий уровень остаточных напряжений благодаря предварительному нагреву;\r\n \tработа с Ti-6Al-4V и другими материалами, поддерживаемыми конкретной системой;\r\n \tсоздание контролируемых пористых и решётчатых структур;\r\n \tсокращение потребности в сложной традиционной оснастке при выпуске малых и средних серий.\r\n\r\nДля медицинских изделий пористая структура может быть заложена прямо в цифровую модель импланта, что позволяет управлять геометрией и архитектурой поверхности.\r\n\r\nСферы применения EBM-печати\r\nАддитивная печать применяется в отраслях, где ценность детали определяется сложностью формы, характеристиками сплава и возможностью выпускать специализированные изделия без длительной подготовки оснастки.\r\n\r\n\r\n \tмедицина — ортопедические импланты, компоненты эндопротезов и конструкции с заданной пористостью;\r\n \tаэрокосмическая отрасль — элементы турбин, авиационных систем и детали из титановых или интерметаллидных сплавов;\r\n \tпромышленность — функциональные компоненты сложной формы и облегчённые конструкции;\r\n \tнаучно-исследовательские институты — разработка режимов плавки и исследование новых материалов;\r\n \tлаборатории и центры аддитивных технологий — тестирование порошков, цифровых моделей и параметров процесса.\r\n\r\nЭто особенно актуально там, где титан и сложная геометрия делают традиционные методы производства трудоёмкими.\r\n\r\nЗаказать EBM 3D-принтер у производителя\r\nВнедрение электронно-лучевой плавки требует инженерной подготовки площадки. Необходимо учитывать параметры вакуумной системы, электропитание, размещение оборудования, обращение с металлическим порошком, нормы промышленной безопасности и подготовку операторов. Поэтому 3D-принтер целесообразно рассматривать как часть комплексного производственного проекта.\r\nВ каталоге AM-Tech можно <strong>заказать у производителя с доставкой по России</strong> оборудование для электронно-лучевого аддитивного производства с подбором конфигурации под задачи предприятия. Проект внедрения может включать:\r\n\r\n\r\n \tаудит площадки и требований к размещению оборудования;\r\n \tподбор установки под материал, размеры деталей и плановую загрузку;\r\n \tдоставку, монтаж и интеграцию в производственную инфраструктуру;\r\n \tнастройку вакуумных систем и инженерных коммуникаций;\r\n \tпусконаладочные работы и тестовые построения;\r\n \tобучение операторов работе с оборудованием, порошками и программным обеспечением;\r\n \tсервисное и технологическое сопровождение после запуска.\r\n\r\nСпециалисты AM-Tech помогают определить требования к площадке, состав комплекса и последовательность ввода оборудования в эксплуатацию. Такой подход связывает возможности системы с реальной производственной задачей — материалом, геометрией, серийностью и требованиями к качеству — и помогает перейти от выбора оборудования к его промышленному использованию.",
+ "link": "https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/ebm-3d-print/",
+ "name": "EBM 3D-принтеры",
+ "slug": "ebm-3d-print",
+ "taxonomy": "product_cat",
+ "parent": 1204,
+ "meta": [],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>EBM 3D-принтеры: электронно-лучевая плавка металла — цена | AM-Tech</title>\n<meta name=\"description\" content=\"EBM 3D-принтеры AM.TECH: EBM-150, EBM-200 и EBM-400 для печати титановыми сплавами, медью, вольфрамом, молибденом и танталом. Цена по запросу, демонстрация.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/ebm-3d-print/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"EBM 3D-принтеры: электронно-лучевая плавка металла — цена | AM-Tech\" />\n<meta property=\"og:description\" content=\"EBM 3D-принтеры AM.TECH: EBM-150, EBM-200 и EBM-400 для печати титановыми сплавами, медью, вольфрамом, молибденом и танталом. Цена по запросу, демонстрация.\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/ebm-3d-print/\" />\n<meta property=\"og:site_name\" content=\"am-tech.ru\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/ebm-3d-print/\",\"url\":\"https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/ebm-3d-print/\",\"name\":\"EBM 3D-принтеры: электронно-лучевая плавка металла — цена | AM-Tech\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"description\":\"EBM 3D-принтеры AM.TECH: EBM-150, EBM-200 и EBM-400 для печати титановыми сплавами, медью, вольфрамом, молибденом и танталом. Цена по запросу, демонстрация.\",\"breadcrumb\":{\"@id\":\"https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/ebm-3d-print/#breadcrumb\"},\"inLanguage\":\"ru-RU\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/ebm-3d-print/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Главная страница\",\"item\":\"https://am-tech.ru/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"EBM 3D-принтеры\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"am-tech.ru\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"am-tech.ru\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"am-tech.ru\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "EBM 3D-принтеры: электронно-лучевая плавка металла — цена | AM-Tech",
+  "description": "EBM 3D-принтеры AM.TECH: EBM-150, EBM-200 и EBM-400 для печати титановыми сплавами, медью, вольфрамом, молибденом и танталом. Цена по запросу, демонстрация.",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/ebm-3d-print/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "EBM 3D-принтеры: электронно-лучевая плавка металла — цена | AM-Tech",
+  "og_description": "EBM 3D-принтеры AM.TECH: EBM-150, EBM-200 и EBM-400 для печати титановыми сплавами, медью, вольфрамом, молибденом и танталом. Цена по запросу, демонстрация.",
+  "og_url": "https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/ebm-3d-print/",
+  "og_site_name": "am-tech.ru",
+  "twitter_card": "summary_large_image",
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "CollectionPage",
+     "@id": "https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/ebm-3d-print/",
+     "url": "https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/ebm-3d-print/",
+     "name": "EBM 3D-принтеры: электронно-лучевая плавка металла — цена | AM-Tech",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "description": "EBM 3D-принтеры AM.TECH: EBM-150, EBM-200 и EBM-400 для печати титановыми сплавами, медью, вольфрамом, молибденом и танталом. Цена по запросу, демонстрация.",
+     "breadcrumb": {
+      "@id": "https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/ebm-3d-print/#breadcrumb"
+     },
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/ebm-3d-print/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Главная страница",
+       "item": "https://am-tech.ru/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "EBM 3D-принтеры"
+      }
+     ]
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "am-tech.ru",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "am-tech.ru",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "am-tech.ru"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "html_description": true,
+ "yoast_seo": {
+  "title": "EBM 3D-принтеры: электронно-лучевая плавка металла — цена | AM-Tech",
+  "desc": "EBM 3D-принтеры AM.TECH: EBM-150, EBM-200 и EBM-400 для печати титановыми сплавами, медью, вольфрамом, молибденом и танталом. Цена по запросу, демонстрация."
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/product_cat/20",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/product_cat"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/taxonomies/product_cat"
+   }
+  ],
+  "up": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/product_cat/1204"
+   }
+  ],
+  "wp:post_type": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/product?product_cat=20"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}
