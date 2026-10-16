@@ -308,8 +308,12 @@ def cmd_wp_apply(a):
         if r["status"].startswith("ошибка"):
             print(f"{r['slug']} {r['field']}: {r['status']}")
         elif a.dry_run:
-            before = r.get("old") or (r["before"] if isinstance(r["before"], list) else wp.text(r["before"]))
-            after = r["value"] if isinstance(r["value"], list) else wp.text(r["value"]) or r["value"] or "(удалить)"
+            if r["field"] == "attribute":
+                before = f"{r['old']}: {', '.join(r['before'].get(r['old'], []))}"
+                after = f"{r['value']['name']}: {', '.join(r['value']['options'])}"
+            else:
+                before = r.get("old") or (r["before"] if isinstance(r["before"], list) else wp.text(r["before"]))
+                after = r["value"] if isinstance(r["value"], list) else wp.text(r["value"]) or r["value"] or "(удалить)"
             print(f"{r['slug']} {r['field']}: «{str(before)[:80]}» → «{str(after)[:80]}»")
         else:
             mark = {True: "да", False: "НЕТ", None: "не проверяется"}

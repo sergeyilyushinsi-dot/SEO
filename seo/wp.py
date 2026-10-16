@@ -43,7 +43,7 @@ HTML_FIELDS = {"short_description": "short_description", "body": "description", 
 PLAIN_FIELDS = ("name", "status")
 # Рубрики товара: "value" — список id категорий WooCommerce, заменяет текущие.
 LIST_FIELDS = ("categories",)
-FIELDS = (*META, *HTML_FIELDS, "elementor", *PLAIN_FIELDS, *LIST_FIELDS)
+FIELDS = (*META, *HTML_FIELDS, "elementor", *PLAIN_FIELDS, *LIST_FIELDS, "attribute")
 # Title и description категорий: Yoast хранит их вне категории, в API их открывает сниппет WPCode
 # «Поля Yoast категорий для REST API» — поле yoast_seo {"title", "desc"}.
 CATEGORY_YOAST = {"title": "title", "description": "desc"}
@@ -175,6 +175,8 @@ def get_value(item: dict, field: str, kind: str = "product"):
         return item.get("description") or ""
     if kind == "category" and field in CATEGORY_YOAST:
         return (item.get("yoast_seo") or {}).get(CATEGORY_YOAST[field], "")
+    if field == "attribute":
+        return {a["name"]: a["options"] for a in item.get("attributes", [])}
     key = meta_key(field)
     if key:
         return next((str(m["value"]) for m in item.get("meta_data", []) if m["key"] == key), "")
@@ -297,8 +299,21 @@ def build_update(item: dict, changes: list[dict], kind: str = "product") -> dict
                 body[api_field] = value
             elif field == "body":  # в описании товара меняется кусок HTML: ссылка, правило CSS
                 body[api_field] = _replace_text(item, field, raw, ch["old"], value, escape=False)
+            elif not ch.get("old") and not text(raw):  # пустое краткое описание заполняется HTML целиком
+                body[api_field] = value
             else:
                 body[api_field] = _replace_text(item, field, raw, ch.get("old") or text(raw), value)
+        elif field == "attribute":  # характеристика: "old" — её название, "value" — {"name", "options", "id"?}
+            attrs = body.get("attributes") or [dict(a) for a in item.get("attributes", [])]
+            found = next((a for a in attrs if a["name"] == ch["old"]), None)
+            if not found:
+                raise ValueError(f"{item['slug']}: у товара нет характеристики «{ch['old']}»")
+            new = {"name": value["name"], "options": list(value["options"]), "visible": found.get("visible", True),
+                   "variation": found.get("variation", False), "position": found.get("position", 0)}
+            if value.get("id"):  # глобальный атрибут WooCommerce; без id — свой атрибут товара
+                new["id"] = int(value["id"])
+            attrs[attrs.index(found)] = new
+            body["attributes"] = attrs
         elif field in PLAIN_FIELDS:
             body[field] = value
         elif field in LIST_FIELDS:
@@ -333,6 +348,8 @@ def on_page(page: dict, field: str, value, old: str = "", link: bool = False) ->
         return _href_on_page(value, page["html"]) and not _href_on_page(old, page["html"])
     if field == "featured_media":
         return None
+    if field == "attribute":  # название характеристики и её значения есть в тексте карточки
+        return all(_typo(x) in _typo(page["text"]) for x in (value["name"], *value["options"]))
     if field == "content" and not old and value:  # весь текст записи: ищем на странице его начало
         return _typo(" ".join(text(value).split()[:12])) in _typo(page["text"])
     if field == "status":  # снятая с публикации запись для посетителей — 404 или 301 на другую страницу
@@ -378,6 +395,9 @@ def saved_ok(stored, r: dict) -> bool:
         return any(f in str(stored) for f in forms_new) and not any(f in str(stored) for f in forms_old)
     if r["field"] in LIST_FIELDS:
         return stored == sorted(int(x) for x in r["value"])
+    if r["field"] == "attribute":
+        return (stored.get(r["value"]["name"]) == list(r["value"]["options"]) and
+                (r["old"] == r["value"]["name"] or r["old"] not in stored))
     if r["field"] == "elementor":
         flat = str(stored).replace("\\/", "/")
         return r["value"] in flat and r.get("old", "") not in flat

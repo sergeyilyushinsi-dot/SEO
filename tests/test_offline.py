@@ -264,3 +264,26 @@ def test_wp_visible_text_skips_styles():
 def test_wp_on_page_ignores_wptexturize():
     assert wp.on_page({"text": "Каталог SLM 3D — принтеры применяются «в авиации»…"}, "body",
                       "<p>SLM 3D - принтеры применяются \"в авиации\"...</p>")
+
+
+def test_wp_attribute_replace_and_empty_short_description():
+    product = {"slug": "amt-43", "short_description": "", "meta_data": [], "attributes": [
+        {"id": 3542, "name": "Габариты области построения ШхГхВ (мм)", "position": 0, "visible": True,
+         "variation": False, "options": ["320х520х370"]},
+        {"id": 3543, "name": "Максимальная масса изделия (кг)", "position": 3, "visible": True,
+         "variation": False, "options": ["715"]}]}
+    new = {"name": "Объём камеры построения, л", "options": ["61,6"]}
+    body = wp.build_update(product, [{"field": "attribute", "old": "Максимальная масса изделия (кг)", "value": new}])
+    assert body["attributes"][0]["id"] == 3542  # остальные характеристики уходят как были
+    assert body["attributes"][1] == {"name": "Объём камеры построения, л", "options": ["61,6"], "visible": True,
+                                     "variation": False, "position": 3}
+    stored = wp.get_value({"attributes": body["attributes"]}, "attribute")
+    assert wp.saved_ok(stored, {"field": "attribute", "old": "Максимальная масса изделия (кг)", "value": new})
+    assert wp.on_page({"text": "Объём камеры построения, л 61,6"}, "attribute", new)
+    try:
+        wp.build_update(product, [{"field": "attribute", "old": "Нет такой", "value": new}])
+        assert False, "должна быть ошибка"
+    except ValueError:
+        pass
+    html = "<p>Установка внесена в <strong>Реестр российской промышленной продукции</strong>.</p>"
+    assert wp.build_update(product, [{"field": "short_description", "value": html}]) == {"short_description": html}
