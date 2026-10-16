@@ -1,0 +1,16 @@
+[
+ {
+  "plan_task": 10,
+  "label": "Описание категории (HTML): ширина таблицы на телефоне",
+  "before_text": "<div class=\"table-responsive\">",
+  "after_text": "<div class=\"table-responsive\" style=\"width:0;min-width:100%\">",
+  "comment": "После правки 342 таблица растягивала блок «О разделе» на телефоне до 832 px — текст обрезался справа. Проверено в браузере на живой странице: с этим стилем блок 360 px, таблица прокручивается вбок, на компьютере без изменений",
+  "type": "category",
+  "slug": "slm-3d-printeri",
+  "field": "body",
+  "old": "<div class=\"table-responsive\">",
+  "value": "<div class=\"table-responsive\" style=\"width:0;min-width:100%\">",
+  "row": 343,
+  "path": "/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/"
+ }
+]
