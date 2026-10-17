@@ -164,20 +164,6 @@
  {
   "plan_task": 63,
   "type": "news",
-  "slug": "demo-den-mbj-na-moskovskom-tsifrovom-zavode-kak-eto-bylo",
-  "path": "/news/demo-den-mbj-na-moskovskom-tsifrovom-zavode-kak-eto-bylo/",
-  "field": "content",
-  "label": "Отдельное решение (не домен): телефон для запроса демонстрации +7 (499) 281-68-92 → +7 (495) 109-11-91",
-  "old": "звоните +7 (499) 281-68-92",
-  "value": "звоните +7 (495) 109-11-91",
-  "before_text": "«…на нашу почту: office@am-tech.ru или звоните +7 (499) 281-68-92»",
-  "after_text": "«…на нашу почту: office@am-tech.ru или звоните +7 (495) 109-11-91»",
-  "comment": "Номер +7 (499) 281-68-92 есть только в этой записи: на /kontakty/ его нет (там +7 (495) 109-11-91 и +7 (499) 350-50-73), а в двух таких же новостях (demo-den-tekhnologii-mbj-…, demo-dni-zapuska-ebm-…) в этой фразе стоит +7 (495) 109-11-91 — телефон компании со страницы /kontakty/. Применять, только если клиент подтвердит, что номер (499) 281-68-92 больше не используется; иначе отклонить — на остальные правки пакета это не влияет. Применяется после правки почты в этой же записи, фрагменты не пересекаются.",
-  "row": 646
- },
- {
-  "plan_task": 63,
-  "type": "news",
   "slug": "demo-dni-zapuska-ebm-na-moskovskom-tsifrovom-zavode-kak-eto-bylo",
   "path": "/news/demo-dni-zapuska-ebm-na-moskovskom-tsifrovom-zavode-kak-eto-bylo/",
   "field": "content",

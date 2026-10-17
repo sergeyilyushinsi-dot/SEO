@@ -1,0 +1,248 @@
+{
+ "id": 4060,
+ "date": "2026-06-02T19:43:40",
+ "date_gmt": "2026-06-02T16:43:40",
+ "guid": {
+  "rendered": "https://am-tech.ru/leasing/",
+  "raw": "https://am-tech.ru/leasing/"
+ },
+ "modified": "2026-06-30T15:34:53",
+ "modified_gmt": "2026-06-30T12:34:53",
+ "password": "",
+ "slug": "leasing",
+ "status": "publish",
+ "type": "page",
+ "link": "https://am-tech.ru/leasing/",
+ "title": {
+  "raw": "Лизинг промышленного оборудования AM.TECH",
+  "rendered": "Лизинг промышленного оборудования AM.TECH"
+ },
+ "content": {
+  "raw": "<section class=\"leasing-page\">\r\n<div class=\"leasing-container\">\r\n<div class=\"leasing-intro\">\r\n<h1>Лизинг промышленного оборудования <span class=\"leasing-brand\">AM.TECH</span></h1>\r\nПриобретайте промышленные 3D-принтеры, 3D-сканеры и производственное оборудование AM.TECH в лизинг без крупной единовременной нагрузки на бюджет компании.\r\n\r\nСовместно с партнёром <strong>ВЕЛКОР</strong> мы помогаем подобрать финансовое решение для модернизации производства, запуска новых технологических участков и расширения производственных мощностей.\r\n\r\nЛизинг позволяет сохранить оборотный капитал, распределить платежи на длительный срок и быстрее внедрить оборудование в производственный процесс.\r\n\r\n</div>\r\n<div class=\"leasing-card-grid\">\r\n<div class=\"leasing-card\">\r\n<div class=\"leasing-icon\"></div>\r\n<h3>Сохранение капитала</h3>\r\nКомпания не замораживает значительные средства в единовременной покупке оборудования и может направить капитал на операционное развитие.\r\n\r\n</div>\r\n<div class=\"leasing-card\">\r\n<div class=\"leasing-icon\"></div>\r\n<h3>Предсказуемые платежи</h3>\r\nФинансовая нагрузка распределяется по сроку договора, что упрощает планирование бюджета и окупаемости проекта.\r\n\r\n</div>\r\n<div class=\"leasing-card\">\r\n<div class=\"leasing-icon\"></div>\r\n<h3>Быстрая модернизация</h3>\r\nЛизинг помогает быстрее внедрить SLM-принтеры, SLA-системы, 3D-сканеры и другое оборудование без длительного накопления бюджета.\r\n\r\n</div>\r\n</div>\r\n<div class=\"leasing-dark\">\r\n<h2>Оборудование AM.TECH, доступное в лизинг</h2>\r\nВ лизинг можно приобрести промышленные 3D-принтеры по металлу, SLM-установки, SLA-оборудование, 3D-сканеры, метрологические системы и другие технологические решения AM.TECH для промышленного производства, контроля качества и реверс-инжиниринга.\r\n\r\n</div>\r\n<div class=\"leasing-section\">\r\n<h2 class=\"leasing-section-title\">Как проходит оформление</h2>\r\n<div class=\"leasing-divider\"></div>\r\n<div class=\"leasing-steps\">\r\n<div class=\"leasing-step\">\r\n<div class=\"leasing-step-num\">01</div>\r\n<h3>Подбор оборудования</h3>\r\nСпециалисты AM.TECH помогают определить оптимальную модель под производственную задачу.\r\n\r\n</div>\r\n<div class=\"leasing-step\">\r\n<div class=\"leasing-step-num\">02</div>\r\n<h3>Расчёт условий</h3>\r\nПартнёр по лизингу готовит предварительные условия финансирования и график платежей.\r\n\r\n</div>\r\n<div class=\"leasing-step\">\r\n<div class=\"leasing-step-num\">03</div>\r\n<h3>Согласование сделки</h3>\r\nФормируется пакет документов, согласуются условия договора и поставки оборудования.\r\n\r\n</div>\r\n<div class=\"leasing-step\">\r\n<div class=\"leasing-step-num\">04</div>\r\n<h3>Поставка и запуск</h3>\r\nОборудование поставляется, вводится в эксплуатацию и передаётся в производственный процесс.\r\n\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"leasing-cta\">\r\n<div class=\"leasing-cta-text\">\r\n<h2>Получите расчёт лизинга для оборудования AM.TECH</h2>\r\nОставьте заявку, и мы подготовим предложение по оборудованию, условиям поставки и возможной лизинговой схеме для вашего предприятия.\r\n\r\n</div>\r\n<a class=\"leasing-button\" href=\"#leasing-form\">Оставить заявку</a>\r\n\r\n</div>\r\n</div>\r\n</section>\r\n<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n\r\n[am_leasing_extras]\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+  "rendered": "<section class=\"leasing-page\">\n<div class=\"leasing-container\">\n<div class=\"leasing-intro\">\n<h1>Лизинг промышленного оборудования <span class=\"leasing-brand\">AM.TECH</span></h1>\n<p>Приобретайте промышленные 3D-принтеры, 3D-сканеры и производственное оборудование AM.TECH в лизинг без крупной единовременной нагрузки на бюджет компании.</p>\n<p>Совместно с партнёром <strong>ВЕЛКОР</strong> мы помогаем подобрать финансовое решение для модернизации производства, запуска новых технологических участков и расширения производственных мощностей.</p>\n<p>Лизинг позволяет сохранить оборотный капитал, распределить платежи на длительный срок и быстрее внедрить оборудование в производственный процесс.</p>\n</div>\n<div class=\"leasing-card-grid\">\n<div class=\"leasing-card\">\n<div class=\"leasing-icon\"></div>\n<h3>Сохранение капитала</h3>\n<p>Компания не замораживает значительные средства в единовременной покупке оборудования и может направить капитал на операционное развитие.</p>\n</div>\n<div class=\"leasing-card\">\n<div class=\"leasing-icon\"></div>\n<h3>Предсказуемые платежи</h3>\n<p>Финансовая нагрузка распределяется по сроку договора, что упрощает планирование бюджета и окупаемости проекта.</p>\n</div>\n<div class=\"leasing-card\">\n<div class=\"leasing-icon\"></div>\n<h3>Быстрая модернизация</h3>\n<p>Лизинг помогает быстрее внедрить SLM-принтеры, SLA-системы, 3D-сканеры и другое оборудование без длительного накопления бюджета.</p>\n</div>\n</div>\n<div class=\"leasing-dark\">\n<h2>Оборудование AM.TECH, доступное в лизинг</h2>\n<p>В лизинг можно приобрести промышленные 3D-принтеры по металлу, SLM-установки, SLA-оборудование, 3D-сканеры, метрологические системы и другие технологические решения AM.TECH для промышленного производства, контроля качества и реверс-инжиниринга.</p>\n</div>\n<div class=\"leasing-section\">\n<h2 class=\"leasing-section-title\">Как проходит оформление</h2>\n<div class=\"leasing-divider\"></div>\n<div class=\"leasing-steps\">\n<div class=\"leasing-step\">\n<div class=\"leasing-step-num\">01</div>\n<h3>Подбор оборудования</h3>\n<p>Специалисты AM.TECH помогают определить оптимальную модель под производственную задачу.</p>\n</div>\n<div class=\"leasing-step\">\n<div class=\"leasing-step-num\">02</div>\n<h3>Расчёт условий</h3>\n<p>Партнёр по лизингу готовит предварительные условия финансирования и график платежей.</p>\n</div>\n<div class=\"leasing-step\">\n<div class=\"leasing-step-num\">03</div>\n<h3>Согласование сделки</h3>\n<p>Формируется пакет документов, согласуются условия договора и поставки оборудования.</p>\n</div>\n<div class=\"leasing-step\">\n<div class=\"leasing-step-num\">04</div>\n<h3>Поставка и запуск</h3>\n<p>Оборудование поставляется, вводится в эксплуатацию и передаётся в производственный процесс.</p>\n</div>\n</div>\n</div>\n<div class=\"leasing-cta\">\n<div class=\"leasing-cta-text\">\n<h2>Получите расчёт лизинга для оборудования AM.TECH</h2>\n<p>Оставьте заявку, и мы подготовим предложение по оборудованию, условиям поставки и возможной лизинговой схеме для вашего предприятия.</p>\n</div>\n<p><a class=\"leasing-button\" href=\"#leasing-form\">Оставить заявку</a></p>\n</div>\n</div>\n</section>\n<div class=\"boldgrid-section\">\n<div class=\"container\">\n<div class=\"row\">\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\n        <div class=\"leasing-extras\" id=\"leasing-extras\">\n\n            <!-- Bitrix24 встроенная форма -->\n            <section class=\"leasing-form-section\" id=\"leasing-form\">\n                <div class=\"leasing-form-head\">\n                    <h2 class=\"leasing-form-title\">Оставьте заявку на лизинг</h2>\n                    <p class=\"leasing-form-sub\">Мы подготовим расчёт условий и график платежей под ваше оборудование.</p>\n                </div>\n                <div class=\"leasing-form-frame\">\n                    <script data-b24-form=\"inline/198/40pt8s\" data-skip-moving=\"true\">\n                    (function(w,d,u){\n                        var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/180000|0);\n                        var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);\n                    })(window,document,'https://cdn-ru.bitrix24.ru/b29360544/crm/form/loader_198.js');\n                    </script>\n                </div>\n            </section>\n\n            <!-- Каталог оборудования -->\n                            <section class=\"leasing-bottom-section\">\n                    <div class=\"leasing-bottom-head\">\n                        <h2 class=\"leasing-bottom-title\">Каталог оборудования</h2>\n                        <a class=\"leasing-bottom-link\" href=\"https://am-tech.ru/shop/\">Весь каталог →</a>\n                    </div>\n                    <div class=\"leasing-bottom-grid leasing-products-grid\">\n                                                    <a href=\"https://am-tech.ru/product/3d-skaner-axe-b11/\" class=\"leasing-pcard\">\n                                <div class=\"leasing-pcard-thumb\">\n                                    <img decoding=\"async\" src=\"https://am-tech.ru/wp-content/uploads/2025/08/3f1sgo6ji0jiiwfpdgdyymxfrmcjpjj2.png\" alt=\"3D-сканер AXE B11\" loading=\"lazy\">\n                                </div>\n                                <h3 class=\"leasing-pcard-title\">3D-сканер AXE B11</h3>\n                            </a>\n                                                    <a href=\"https://am-tech.ru/product/lazernyj-3d-skaner-nimbletrack-c/\" class=\"leasing-pcard\">\n                                <div class=\"leasing-pcard-thumb\">\n                                    <img decoding=\"async\" src=\"https://am-tech.ru/wp-content/uploads/2025/08/u02qtx8jti80uarem9r1visolf4vt6yw-768x544.png\" alt=\"3D-сканер NimbleTrack C\" loading=\"lazy\">\n                                </div>\n                                <h3 class=\"leasing-pcard-title\">3D-сканер NimbleTrack C</h3>\n                            </a>\n                                                    <a href=\"https://am-tech.ru/product/3d-skaner-trackscan-go-e/\" class=\"leasing-pcard\">\n                                <div class=\"leasing-pcard-thumb\">\n                                    <img decoding=\"async\" src=\"https://am-tech.ru/wp-content/uploads/2026/10/trackscan-go-5-768x787.png\" alt=\"3D-сканер TrackScan GO E\" loading=\"lazy\">\n                                </div>\n                                <h3 class=\"leasing-pcard-title\">3D-сканер TrackScan GO E</h3>\n                            </a>\n                                                    <a href=\"https://am-tech.ru/product/3d-skaner-simscan-30/\" class=\"leasing-pcard\">\n                                <div class=\"leasing-pcard-thumb\">\n                                    <img decoding=\"async\" src=\"https://am-tech.ru/wp-content/uploads/2025/08/g5vdtouam4ifx39miw8m0i2p4hl6bh33-1.png\" alt=\"3D-сканер SIMSCAN 30\" loading=\"lazy\">\n                                </div>\n                                <h3 class=\"leasing-pcard-title\">3D-сканер SIMSCAN 30</h3>\n                            </a>\n                                            </div>\n                </section>\n            \n            <!-- Новости -->\n                            <section class=\"leasing-bottom-section\">\n                    <div class=\"leasing-bottom-head\">\n                        <h2 class=\"leasing-bottom-title\">Новости</h2>\n                        <a class=\"leasing-bottom-link\" href=\"https://am-tech.ru/blog/\">Все новости →</a>\n                    </div>\n                    <div class=\"leasing-bottom-grid leasing-news-grid\">\n                                                    <a href=\"https://am-tech.ru/news/zavod-am-tech-v-reportazhe-rossii-24-o-moskovskoj-promyshlennosti/\" class=\"leasing-ncard\">\n                                <div class=\"leasing-ncard-thumb\">\n                                    <img decoding=\"async\" src=\"https://am-tech.ru/wp-content/uploads/2026/10/tim_6566-768x512.jpg\" alt=\"Завод AM.TECH в репортаже «России 24» о московской промышленности\" loading=\"lazy\">\n                                </div>\n                                <div class=\"leasing-ncard-body\">\n                                    <span class=\"leasing-ncard-date\">07 октября 2026</span>\n                                    <h3 class=\"leasing-ncard-title\">Завод AM.TECH в репортаже «России 24» о московской промышленности</h3>\n                                                                            <p class=\"leasing-ncard-excerpt\">В рамках Месяца московской промышленности на телеканале «Россия 24» вышел репортаж о предприятиях столицы.…</p>\n                                                                    </div>\n                            </a>\n                                                    <a href=\"https://am-tech.ru/news/am-tech-na-atlas-forume-ot-3d-skanirovanija-do-serijnogo-proizvodstva/\" class=\"leasing-ncard\">\n                                <div class=\"leasing-ncard-thumb\">\n                                    <img decoding=\"async\" src=\"https://am-tech.ru/wp-content/uploads/2026/10/img_20261007_140934-768x576.jpg\" alt=\"AM.TECH на АТЛаС Форуме: от 3D-сканирования до серийного производства\" loading=\"lazy\">\n                                </div>\n                                <div class=\"leasing-ncard-body\">\n                                    <span class=\"leasing-ncard-date\">07 октября 2026</span>\n                                    <h3 class=\"leasing-ncard-title\">AM.TECH на АТЛаС Форуме: от 3D-сканирования до серийного производства</h3>\n                                                                            <p class=\"leasing-ncard-excerpt\">30 сентября и 1 октября в Конгресс-центре МГТУ им. Н. Э. Баумана прошёл АТЛаС…</p>\n                                                                    </div>\n                            </a>\n                                                    <a href=\"https://am-tech.ru/news/ot-jeksperimentov-k-serijnomu-proizvodstvu-novoe-intervju-s-mihailom-rodinym/\" class=\"leasing-ncard\">\n                                <div class=\"leasing-ncard-thumb\">\n                                    <img decoding=\"async\" src=\"https://am-tech.ru/wp-content/uploads/2026/09/izobrazhenie-chatgpt-29-sent.-2026-g.-12_08_36-768x432.jpg\" alt=\"От экспериментов — к серийному производству: новое интервью с Михаилом Родиным\" loading=\"lazy\">\n                                </div>\n                                <div class=\"leasing-ncard-body\">\n                                    <span class=\"leasing-ncard-date\">29 сентября 2026</span>\n                                    <h3 class=\"leasing-ncard-title\">От экспериментов — к серийному производству: новое интервью с Михаилом Родиным</h3>\n                                                                            <p class=\"leasing-ncard-excerpt\">На площадке РИА «Стандарты и качество» в рамках проекта «Люди делают» вышло интервью с…</p>\n                                                                    </div>\n                            </a>\n                                            </div>\n                </section>\n            \n        </div>\n\n        <script>\n            (function () {\n                document.addEventListener('click', function (e) {\n                    var a = e.target.closest('a[href=\"#leasing-form\"]');\n                    if (!a) return;\n                    var t = document.getElementById('leasing-form');\n                    if (!t) return;\n                    e.preventDefault();\n                    var top = t.getBoundingClientRect().top + window.pageYOffset - 80;\n                    window.scrollTo({ top: top, behavior: 'smooth' });\n                    if (history.replaceState) history.replaceState(null, '', '#leasing-form');\n                });\n            })();\n        </script>\n        \n</div>\n</div>\n</div>\n</div>\n",
+  "protected": false,
+  "block_version": 0
+ },
+ "excerpt": {
+  "raw": "",
+  "rendered": "<p>Лизинг промышленного оборудования AM.TECH Приобретайте промышленные 3D-принтеры, 3D-сканеры и производственное оборудование AM.TECH в лизинг без крупной единовременной нагрузки на бюджет компании. Совместно с партнёром ВЕЛКОР мы помогаем подобрать финансовое решение для модернизации производства, запуска новых технологических участков и расширения производственных мощностей. Лизинг позволяет сохранить оборотный капитал, распределить платежи на длительный срок и быстрее внедрить оборудование [&hellip;]</p>\n",
+  "protected": false
+ },
+ "author": 7,
+ "featured_media": 0,
+ "parent": 0,
+ "menu_order": 0,
+ "comment_status": "closed",
+ "ping_status": "closed",
+ "template": "",
+ "meta": {
+  "_acf_changed": false,
+  "_yoast_wpseo_title": "",
+  "_yoast_wpseo_metadesc": "Лизинг промышленного 3D-оборудования AM.TECH на выгодных условиях. Обновите производство без лишних затрат.",
+  "_yoast_wpseo_meta-robots-noindex": "",
+  "footnotes": "",
+  "_elementor_edit_mode": "",
+  "_elementor_template_type": "",
+  "_elementor_data": "",
+  "_elementor_page_settings": null
+ },
+ "permalink_template": "https://am-tech.ru/%pagename%/",
+ "generated_slug": "lizing-promyshlennogo-oborudovanija-am-tech",
+ "class_list": [
+  "post-4060",
+  "page",
+  "type-page",
+  "status-publish",
+  "hentry"
+ ],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Лизинг промышленного оборудования AM.TECH | AM.TECH</title>\n<meta name=\"description\" content=\"Лизинг промышленного 3D-оборудования AM.TECH на выгодных условиях. Обновите производство без лишних затрат.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/leasing/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Лизинг промышленного оборудования AM.TECH | AM.TECH\" />\n<meta property=\"og:description\" content=\"Лизинг промышленного 3D-оборудования AM.TECH на выгодных условиях. Обновите производство без лишних затрат.\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/leasing/\" />\n<meta property=\"og:site_name\" content=\"AM.TECH\" />\n<meta property=\"article:modified_time\" content=\"2026-06-30T12:34:53+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"2 минуты\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/leasing/\",\"url\":\"https://am-tech.ru/leasing/\",\"name\":\"Лизинг промышленного оборудования AM.TECH | AM.TECH\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"datePublished\":\"2026-06-02T16:43:40+00:00\",\"dateModified\":\"2026-06-30T12:34:53+00:00\",\"description\":\"Лизинг промышленного 3D-оборудования AM.TECH на выгодных условиях. Обновите производство без лишних затрат.\",\"breadcrumb\":{\"@id\":\"https://am-tech.ru/leasing/#breadcrumb\"},\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/leasing/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://am-tech.ru/leasing/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Главная страница\",\"item\":\"https://am-tech.ru/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Лизинг промышленного оборудования AM.TECH\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"AM.TECH\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"AM.TECH\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"AM.TECH\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "Лизинг промышленного оборудования AM.TECH | AM.TECH",
+  "description": "Лизинг промышленного 3D-оборудования AM.TECH на выгодных условиях. Обновите производство без лишних затрат.",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/leasing/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "Лизинг промышленного оборудования AM.TECH | AM.TECH",
+  "og_description": "Лизинг промышленного 3D-оборудования AM.TECH на выгодных условиях. Обновите производство без лишних затрат.",
+  "og_url": "https://am-tech.ru/leasing/",
+  "og_site_name": "AM.TECH",
+  "article_modified_time": "2026-06-30T12:34:53+00:00",
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "2 минуты"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/leasing/",
+     "url": "https://am-tech.ru/leasing/",
+     "name": "Лизинг промышленного оборудования AM.TECH | AM.TECH",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "datePublished": "2026-06-02T16:43:40+00:00",
+     "dateModified": "2026-06-30T12:34:53+00:00",
+     "description": "Лизинг промышленного 3D-оборудования AM.TECH на выгодных условиях. Обновите производство без лишних затрат.",
+     "breadcrumb": {
+      "@id": "https://am-tech.ru/leasing/#breadcrumb"
+     },
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/leasing/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://am-tech.ru/leasing/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Главная страница",
+       "item": "https://am-tech.ru/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Лизинг промышленного оборудования AM.TECH"
+      }
+     ]
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "AM.TECH",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "AM.TECH",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "AM.TECH"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/pages/4060",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/pages"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/types/page"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/users/7"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/comments?post=4060"
+   }
+  ],
+  "version-history": [
+   {
+    "count": 1,
+    "href": "https://am-tech.ru/wp-json/wp/v2/pages/4060/revisions"
+   }
+  ],
+  "predecessor-version": [
+   {
+    "id": 4128,
+    "href": "https://am-tech.ru/wp-json/wp/v2/pages/4060/revisions/4128"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/media?parent=4060"
+   }
+  ],
+  "wp:action-publish": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/pages/4060"
+   }
+  ],
+  "wp:action-unfiltered-html": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/pages/4060"
+   }
+  ],
+  "wp:action-assign-author": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/pages/4060"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

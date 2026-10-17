@@ -1,0 +1,284 @@
+{
+ "id": 4112,
+ "date": "2026-06-29T15:46:02",
+ "date_gmt": "2026-06-29T12:46:02",
+ "guid": {
+  "rendered": "https://am-tech.ru/?post_type=video_reviews&#038;p=4112",
+  "raw": "https://am-tech.ru/?post_type=video_reviews&#038;p=4112"
+ },
+ "modified": "2026-07-02T10:39:52",
+ "modified_gmt": "2026-07-02T07:39:52",
+ "password": "",
+ "slug": "stazhirovka-v-kompanii-am-tech",
+ "status": "publish",
+ "type": "video_reviews",
+ "link": "https://am-tech.ru/video-reviews/stazhirovka-v-kompanii-am-tech/",
+ "title": {
+  "raw": "Стажировка в компании AM.TECH",
+  "rendered": "Стажировка в компании AM.TECH"
+ },
+ "content": {
+  "raw": "<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n<p class=\"\">Стажировки студентов колледжей в компании AM.TECH — это возможность по-настоящему «потрогать руками» аддитивные технологии. Мы сотрудничаем с разными учебными заведениями и регулярно принимаем ребят, которые обучаются по этому направлению. В рамках стажировки студенты успевают поработать с такими технологиями 3D-печати, как SLM, EBM, SLA, FDM, DLP. Для нас это всегда живой обмен: студенты приходят с базовыми знаниями и свежим взглядом, а уходят с реальным опытом работы на промышленном оборудовании. Мы очень ценим их вовлечённость — часто именно стажёры задают правильные вопросы и помогают посмотреть на процессы по-новому.</p>\r\nВ этом видео вопросы задаём мы сами 🌸 Отвечает — студентка Колледжа современных технологий Мария Добромыслова.\r\n\r\n&nbsp;\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+  "rendered": "<div class=\"boldgrid-section\">\n<div class=\"container\">\n<div class=\"row\">\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\n<p class=\"\">Стажировки студентов колледжей в компании AM.TECH — это возможность по-настоящему «потрогать руками» аддитивные технологии. Мы сотрудничаем с разными учебными заведениями и регулярно принимаем ребят, которые обучаются по этому направлению. В рамках стажировки студенты успевают поработать с такими технологиями 3D-печати, как SLM, EBM, SLA, FDM, DLP. Для нас это всегда живой обмен: студенты приходят с базовыми знаниями и свежим взглядом, а уходят с реальным опытом работы на промышленном оборудовании. Мы очень ценим их вовлечённость — часто именно стажёры задают правильные вопросы и помогают посмотреть на процессы по-новому.</p>\n<p>В этом видео вопросы задаём мы сами 🌸 Отвечает — студентка Колледжа современных технологий Мария Добромыслова.</p>\n<p>&nbsp;</p>\n</div>\n</div>\n</div>\n</div>\n",
+  "protected": false,
+  "block_version": 0
+ },
+ "excerpt": {
+  "raw": "",
+  "rendered": "<p>Стажировки студентов колледжей в компании AM.TECH — это возможность по-настоящему «потрогать руками» аддитивные технологии. Мы сотрудничаем с разными учебными заведениями и регулярно принимаем ребят, которые обучаются по этому направлению. В рамках стажировки студенты успевают поработать с такими технологиями 3D-печати, как SLM, EBM, SLA, FDM, DLP. Для нас это всегда живой обмен: студенты приходят с базовыми [&hellip;]</p>\n",
+  "protected": false
+ },
+ "author": 5,
+ "featured_media": 4114,
+ "comment_status": "open",
+ "ping_status": "closed",
+ "template": "",
+ "meta": {
+  "_acf_changed": false,
+  "_yoast_wpseo_title": "",
+  "_yoast_wpseo_metadesc": "Узнайте всё о стажировке в компании AM.TECH: как начать карьеру в 3D-сканировании, условия и этапы отбора. Смотрите видеоотзыв и подавайте заявку!",
+  "_yoast_wpseo_meta-robots-noindex": ""
+ },
+ "video_category": [
+  1210,
+  1105
+ ],
+ "video_tag": [
+  1292,
+  1296
+ ],
+ "permalink_template": "https://am-tech.ru/video-reviews/%pagename%/",
+ "generated_slug": "stazhirovka-v-kompanii-am-tech",
+ "class_list": [
+  "post-4112",
+  "video_reviews",
+  "type-video_reviews",
+  "status-publish",
+  "has-post-thumbnail",
+  "hentry",
+  "video_category-novosti-ru",
+  "video_category-meroprijatija",
+  "video_tag-amt-3d-printery",
+  "video_tag-demonstracii-oborudovanija"
+ ],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Стажировка в компании AM.TECH | AM.TECH</title>\n<meta name=\"description\" content=\"Узнайте всё о стажировке в компании AM.TECH: как начать карьеру в 3D-сканировании, условия и этапы отбора. Смотрите видеоотзыв и подавайте заявку!\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/video-reviews/stazhirovka-v-kompanii-am-tech/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Стажировка в компании AM.TECH | AM.TECH\" />\n<meta property=\"og:description\" content=\"Узнайте всё о стажировке в компании AM.TECH: как начать карьеру в 3D-сканировании, условия и этапы отбора. Смотрите видеоотзыв и подавайте заявку!\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/video-reviews/stazhirovka-v-kompanii-am-tech/\" />\n<meta property=\"og:site_name\" content=\"AM.TECH\" />\n<meta property=\"article:modified_time\" content=\"2026-07-02T07:39:52+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2026/06/snimok1.jpg\" />\n\t<meta property=\"og:image:width\" content=\"683\" />\n\t<meta property=\"og:image:height\" content=\"737\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"1 минута\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/video-reviews/stazhirovka-v-kompanii-am-tech/\",\"url\":\"https://am-tech.ru/video-reviews/stazhirovka-v-kompanii-am-tech/\",\"name\":\"Стажировка в компании AM.TECH | AM.TECH\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/video-reviews/stazhirovka-v-kompanii-am-tech/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/video-reviews/stazhirovka-v-kompanii-am-tech/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2026/06/snimok1.jpg\",\"datePublished\":\"2026-06-29T12:46:02+00:00\",\"dateModified\":\"2026-07-02T07:39:52+00:00\",\"description\":\"Узнайте всё о стажировке в компании AM.TECH: как начать карьеру в 3D-сканировании, условия и этапы отбора. Смотрите видеоотзыв и подавайте заявку!\",\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/video-reviews/stazhirovka-v-kompanii-am-tech/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/video-reviews/stazhirovka-v-kompanii-am-tech/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2026/06/snimok1.jpg\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2026/06/snimok1.jpg\",\"width\":683,\"height\":737},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"AM.TECH\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"AM.TECH\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"AM.TECH\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "Стажировка в компании AM.TECH | AM.TECH",
+  "description": "Узнайте всё о стажировке в компании AM.TECH: как начать карьеру в 3D-сканировании, условия и этапы отбора. Смотрите видеоотзыв и подавайте заявку!",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/video-reviews/stazhirovka-v-kompanii-am-tech/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "Стажировка в компании AM.TECH | AM.TECH",
+  "og_description": "Узнайте всё о стажировке в компании AM.TECH: как начать карьеру в 3D-сканировании, условия и этапы отбора. Смотрите видеоотзыв и подавайте заявку!",
+  "og_url": "https://am-tech.ru/video-reviews/stazhirovka-v-kompanii-am-tech/",
+  "og_site_name": "AM.TECH",
+  "article_modified_time": "2026-07-02T07:39:52+00:00",
+  "og_image": [
+   {
+    "width": 683,
+    "height": 737,
+    "url": "https://am-tech.ru/wp-content/uploads/2026/06/snimok1.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "1 минута"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/video-reviews/stazhirovka-v-kompanii-am-tech/",
+     "url": "https://am-tech.ru/video-reviews/stazhirovka-v-kompanii-am-tech/",
+     "name": "Стажировка в компании AM.TECH | AM.TECH",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/video-reviews/stazhirovka-v-kompanii-am-tech/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/video-reviews/stazhirovka-v-kompanii-am-tech/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2026/06/snimok1.jpg",
+     "datePublished": "2026-06-29T12:46:02+00:00",
+     "dateModified": "2026-07-02T07:39:52+00:00",
+     "description": "Узнайте всё о стажировке в компании AM.TECH: как начать карьеру в 3D-сканировании, условия и этапы отбора. Смотрите видеоотзыв и подавайте заявку!",
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/video-reviews/stazhirovka-v-kompanii-am-tech/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/video-reviews/stazhirovka-v-kompanii-am-tech/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2026/06/snimok1.jpg",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2026/06/snimok1.jpg",
+     "width": 683,
+     "height": 737
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "AM.TECH",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "AM.TECH",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "AM.TECH"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/4112",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/types/video_reviews"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/users/5"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/comments?post=4112"
+   }
+  ],
+  "wp:featuredmedia": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/media/4114"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/media?parent=4112"
+   }
+  ],
+  "wp:term": [
+   {
+    "taxonomy": "video_category",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_category?post=4112"
+   },
+   {
+    "taxonomy": "video_tag",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_tag?post=4112"
+   }
+  ],
+  "wp:action-publish": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/4112"
+   }
+  ],
+  "wp:action-unfiltered-html": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/4112"
+   }
+  ],
+  "wp:action-assign-author": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/4112"
+   }
+  ],
+  "wp:action-create-video_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/4112"
+   }
+  ],
+  "wp:action-assign-video_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/4112"
+   }
+  ],
+  "wp:action-create-video_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/4112"
+   }
+  ],
+  "wp:action-assign-video_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/4112"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}
