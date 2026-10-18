@@ -137,6 +137,15 @@ def markup_risk(kind: str, item: dict, body: dict) -> list[str]:
     return sorted(t for t in tags if t not in TERM_KSES_ALLOWED)
 
 
+def layout_risk(kind: str, item: dict, body: dict) -> bool:
+    """Правка добавляет обёртку class="table-responsive": тема на экранах до 768 px ставит ей overflow:hidden!important,
+    широкая таблица растягивает колонку и обрезает текст справа (проверка 18.10.2026). Нужна
+    <div style="overflow:auto;width:0;min-width:100%">."""
+    current = html_fields(kind, item)
+    before = sum(v.count("table-responsive") for v in current.values())
+    return sum(body.get(f, v).count("table-responsive") for f, v in current.items()) > before
+
+
 def markup_lost(expected: dict[str, str], stored: dict[str, str]) -> dict[str, int]:
     """Сколько тегов каждого вида пропало после записи."""
     lost: dict[str, int] = {}
@@ -447,6 +456,11 @@ def apply(changes: list[dict], dry_run: bool = False) -> list[dict]:
             tags = ", ".join(f"<{t}>" for t in risk)
             results += [{**r, "status": f"ошибка: при записи WordPress вырежет из описания категории {tags} — "
                                         "нужен сниппет «Описания категорий: HTML» (README)",
+                         "saved": False, "on_page": None, "on_cached_page": None} for r in rows]
+            continue
+        if layout_risk(kind, item, body):
+            results += [{**r, "status": "ошибка: обёртка class=\"table-responsive\" на телефоне обрезает текст — нужна "
+                                        "<div style=\"overflow:auto;width:0;min-width:100%\">",
                          "saved": False, "on_page": None, "on_cached_page": None} for r in rows]
             continue
         if dry_run:

@@ -225,6 +225,17 @@ def test_wp_markup_guard_for_categories():
     assert wp.markup_lost({"content": "<p>1</p>"}, {"content": "<p>1</p>"}) == {}
 
 
+def test_wp_layout_guard_for_table_wrapper():
+    """Новая обёртка class="table-responsive" на телефоне обрезает текст — такую правку не пишем."""
+    old = '<div class="table-responsive"><table></table></div>'
+    fixed = '<div style="overflow:auto;width:0;min-width:100%"><table></table></div>'
+    assert wp.layout_risk("category", {"description": "<p>x</p>"}, {"description": old})
+    assert wp.layout_risk("news", {"content": {"raw": ""}}, {"content": old})
+    assert not wp.layout_risk("category", {"description": old}, {"description": old + "<p>y</p>"})  # уже была
+    assert not wp.layout_risk("category", {"description": old}, {"description": fixed})
+    assert not wp.layout_risk("product", {"description": old, "short_description": ""}, {"name": "X"})
+
+
 def test_wp_product_description_goes_through_posts_api(monkeypatch, tmp_path):
     """Описание товара пишется через wp/v2/product: WooCommerce API вырезал бы <style> и <svg>."""
     styled = "<style>.amt-wrapper{max-width:1320px}</style><div class=\"amt-wrapper\"><p>Описание</p></div>"
