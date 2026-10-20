@@ -1,0 +1,42 @@
+[
+ {
+  "plan_task": 15,
+  "label": "Название товара (H1)",
+  "before_text": "3D - принтер MBJ-400 PRO",
+  "after_text": "3D-принтер MBJ-400 PRO",
+  "comment": "Дефис с пробелами «3D - принтер». Название меняется и в карточках каталога, хлебных крошках и форме КП",
+  "slug": "mbj-400",
+  "field": "name",
+  "value": "3D-принтер MBJ-400 PRO",
+  "row": 27,
+  "type": "product",
+  "id": 1366,
+  "url": "https://am-tech.ru/product/mbj-400/",
+  "before": "3D - принтер MBJ-400 PRO",
+  "after": "3D-принтер MBJ-400 PRO",
+  "saved": true,
+  "on_page": true,
+  "on_cached_page": true,
+  "status": "применено"
+ },
+ {
+  "plan_task": 16,
+  "label": "Title (Yoast)",
+  "before_text": "3D - принтер MBJ-400 PRO - заказать у производителя с доставкой по России | AM-Tech",
+  "after_text": "3D-принтер MBJ-400 PRO — купить с доставкой по России | AM-Tech",
+  "comment": "Было 83 симв., стало 63 симв. «У производителя» убрано: в карточке страна производства — Китай",
+  "slug": "mbj-400",
+  "field": "title",
+  "value": "3D-принтер MBJ-400 PRO — купить с доставкой по России | AM-Tech",
+  "row": 83,
+  "type": "product",
+  "id": 1366,
+  "url": "https://am-tech.ru/product/mbj-400/",
+  "before": "3D - принтер MBJ-400 PRO - заказать у производителя с доставкой по России | AM-Tech",
+  "after": "3D-принтер MBJ-400 PRO — купить с доставкой по России | AM-Tech",
+  "saved": true,
+  "on_page": true,
+  "on_cached_page": true,
+  "status": "применено"
+ }
+]

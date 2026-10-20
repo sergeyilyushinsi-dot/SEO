@@ -1,0 +1,523 @@
+{
+ "id": 1578,
+ "name": "Лазерный трекер TrackScan P42",
+ "slug": "lazernyj-treker-trackscan-p42",
+ "permalink": "https://am-tech.ru/product/lazernyj-treker-trackscan-p42/",
+ "date_created": "2025-08-17T06:36:19",
+ "date_created_gmt": "2025-08-17T03:36:19",
+ "date_modified": "2025-11-06T13:02:11",
+ "date_modified_gmt": "2025-11-06T10:02:11",
+ "type": "simple",
+ "status": "publish",
+ "featured": false,
+ "catalog_visibility": "visible",
+ "description": "<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n\r\n&nbsp;\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+ "short_description": "С<span style=\"font-family: var(--ui-font-family-primary, var(--ui-font-family-helvetica));\">истема TrackScan P42 обеспечивает высокоточное <b>3D-сканирование без маркеров</b>. В сочетании с технологией трехмерного лазерного сканирования и высокоточным динамическим отслеживанием с помощью оптического трекера E-Track она обеспечивает быстрый и точный сбор данных.</span>\r\n\r\n&nbsp;\r\n\r\n<span style=\"font-family: var(--ui-font-family-primary, var(--ui-font-family-helvetica));\">Система комплектуется портативной координатно-измерительной машиной I-Probe (беспроводной КИМ) с повторяемостью до 0.030 мм в точке. (Опционально)</span>\r\n\r\n&nbsp;\r\n\r\nTrackScan P42 может работать в сочетании роботами манипуляторами (Robot-Arm) для автоматизированных измерений и контроля, что позволяет использовать его для потоковых измерений на конвейерах.",
+ "sku": "",
+ "price": "",
+ "regular_price": "",
+ "sale_price": "",
+ "date_on_sale_from": null,
+ "date_on_sale_from_gmt": null,
+ "date_on_sale_to": null,
+ "date_on_sale_to_gmt": null,
+ "on_sale": false,
+ "purchasable": false,
+ "total_sales": 0,
+ "virtual": false,
+ "downloadable": false,
+ "downloads": [],
+ "download_limit": -1,
+ "download_expiry": -1,
+ "external_url": "",
+ "button_text": "",
+ "tax_status": "taxable",
+ "tax_class": "",
+ "manage_stock": false,
+ "stock_quantity": null,
+ "backorders": "no",
+ "backorders_allowed": false,
+ "backordered": false,
+ "low_stock_amount": null,
+ "sold_individually": false,
+ "weight": "",
+ "dimensions": {
+  "length": "",
+  "width": "",
+  "height": ""
+ },
+ "shipping_required": true,
+ "shipping_taxable": true,
+ "shipping_class": "",
+ "shipping_class_id": 0,
+ "reviews_allowed": true,
+ "average_rating": "0",
+ "rating_count": 0,
+ "upsell_ids": [],
+ "cross_sell_ids": [],
+ "parent_id": 0,
+ "purchase_note": "",
+ "categories": [
+  {
+   "id": 15,
+   "name": "default",
+   "slug": "default"
+  }
+ ],
+ "brands": [],
+ "tags": [],
+ "images": [
+  {
+   "id": 1579,
+   "date_created": "2025-08-17T09:36:19",
+   "date_created_gmt": "2025-08-17T03:36:19",
+   "date_modified": "2025-08-17T09:36:19",
+   "date_modified_gmt": "2025-08-17T03:36:19",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/dn4j51uxj42bp3356s7rhq73klg1bv7z.png",
+   "name": "dn4j51uxj42bp3356s7rhq73klg1bv7z",
+   "alt": ""
+  },
+  {
+   "id": 1580,
+   "date_created": "2025-08-17T09:36:20",
+   "date_created_gmt": "2025-08-17T03:36:20",
+   "date_modified": "2025-08-17T09:36:20",
+   "date_modified_gmt": "2025-08-17T03:36:20",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/7epbll3wglq7s9ukfniptragpyxkqlqa.webp",
+   "name": "7epbll3wglq7s9ukfniptragpyxkqlqa",
+   "alt": ""
+  },
+  {
+   "id": 1581,
+   "date_created": "2025-08-17T09:36:21",
+   "date_created_gmt": "2025-08-17T03:36:21",
+   "date_modified": "2025-08-17T09:36:21",
+   "date_modified_gmt": "2025-08-17T03:36:21",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/4b7d2hlw13e0losw1f734x02lqg67omm.webp",
+   "name": "4b7d2hlw13e0losw1f734x02lqg67omm",
+   "alt": ""
+  },
+  {
+   "id": 1582,
+   "date_created": "2025-08-17T09:36:22",
+   "date_created_gmt": "2025-08-17T03:36:22",
+   "date_modified": "2025-08-17T09:36:22",
+   "date_modified_gmt": "2025-08-17T03:36:22",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/1dtcrxzdlweqkqqmsxl27pm9brlt7gje-scaled.jpg",
+   "name": "1dtcrxzdlweqkqqmsxl27pm9brlt7gje",
+   "alt": ""
+  }
+ ],
+ "attributes": [],
+ "default_attributes": [],
+ "variations": [],
+ "grouped_products": [],
+ "menu_order": 999,
+ "price_html": "",
+ "related_ids": [
+  1613,
+  1597,
+  1590,
+  1601,
+  1709
+ ],
+ "meta_data": [
+  {
+   "id": 24389,
+   "key": "bitrix_id",
+   "value": "2226"
+  },
+  {
+   "id": 24390,
+   "key": "Символьный код",
+   "value": "trackscan-p42"
+  },
+  {
+   "id": 24391,
+   "key": "Анонс",
+   "value": "<p>С<span style=\"font-family: var(--ui-font-family-primary, var(--ui-font-family-helvetica));\">истема TrackScan P42 обеспечивает высокоточное <b>3D-сканирование&nbsp;без маркеров</b>. В сочетании с технологией трехмерного лазерного сканирования и высокоточным динамическим отслеживанием с помощью оптического трекера E-Track она обеспечивает быстрый и точный сбор данных.</span></p>\r\n<p>&nbsp;</p>\r\n<p><span style=\"font-family: var(--ui-font-family-primary, var(--ui-font-family-helvetica));\">Система комплектуется портативной координатно-измерительной машиной I-Probe (беспроводной КИМ) с повторяемостью до 0.030 мм в точке. (Опционально)</span></p>\r\n<p>&nbsp;</p>\r\n<p>TrackScan P42 может работать в сочетании роботами манипуляторами (Robot-Arm) для автоматизированных измерений и контроля, что позволяет использовать его для потоковых измерений на конвейерах.</p>"
+  },
+  {
+   "id": 24395,
+   "key": "Точность, мм",
+   "value": "до 0,025"
+  },
+  {
+   "id": 24396,
+   "key": "Объемная точность, мм/м",
+   "value": "объем 10,4 м&lt;sup&gt;3&lt;/sup&gt;-0,064 мм &lt;br&gt;объем 18,0 м&lt;sup&gt;3&lt;/sup&gt;-0,078 мм"
+  },
+  {
+   "id": 24397,
+   "key": "Объемная точность с фотограмметрией MSCAN L15, мм/м",
+   "value": "0,044 + 0,015"
+  },
+  {
+   "id": 24398,
+   "key": "Доверительная вероятность",
+   "value": "0,95"
+  },
+  {
+   "id": 24399,
+   "key": "Возможность работы со щупом",
+   "value": "I-Probe, повторяемость в одной точке 0,03"
+  },
+  {
+   "id": 24400,
+   "key": "Разрешение, мм",
+   "value": "0,020"
+  },
+  {
+   "id": 24401,
+   "key": "Скорость измерений, точек/сек",
+   "value": "1 900 000"
+  },
+  {
+   "id": 24402,
+   "key": "Область сканирования (поле зрения), мм",
+   "value": "500х600"
+  },
+  {
+   "id": 24403,
+   "key": "Оптимальное расстояние до объекта, мм",
+   "value": "300"
+  },
+  {
+   "id": 24404,
+   "key": "Источник излучения",
+   "value": "сверхбыстрое сканирование: 17 синих лазерных крестов (34 линии)&lt;br&gt;сканирование глубоких отверстий: 1 синяя линяя&lt;br&gt;сканирование в высоком разрешении: 7 синих параллельных линий"
+  },
+  {
+   "id": 24405,
+   "key": "Глубина резкости, мм",
+   "value": "400"
+  },
+  {
+   "id": 24406,
+   "key": "Размеры измеряемого объекта, м",
+   "value": "0,2-6 (рекомендуемый)"
+  },
+  {
+   "id": 24407,
+   "key": "Габариты, мм",
+   "value": "1100х170х180 (трекер) &lt;br&gt;298х287х230 (сканер)"
+  },
+  {
+   "id": 24408,
+   "key": "Температура окружающей среды, °C",
+   "value": "от -10 до +40"
+  },
+  {
+   "id": 24409,
+   "key": "Наличие в реестре средств измерений",
+   "value": "да"
+  },
+  {
+   "id": 24410,
+   "key": "Страна производства",
+   "value": "Китай"
+  },
+  {
+   "id": 24411,
+   "key": "Код с видео (iframe)",
+   "value": "https://www.youtube.com/embed/PoZQeG4jgsU?feature=oembed"
+  },
+  {
+   "id": 24412,
+   "key": "Связанные товары по фильтру",
+   "value": "[]"
+  },
+  {
+   "id": 24413,
+   "key": "Материалы",
+   "value": "/pr_new_files/iblock/549/0lsu0xx4qo9qf0p33l51alldbyg5lz4w.pdf"
+  },
+  {
+   "id": 24414,
+   "key": "Картинки галереи",
+   "value": "/pr_new_files/iblock/99f/7epbll3wglq7s9ukfniptragpyxkqlqa.png"
+  },
+  {
+   "id": 24415,
+   "key": "Вес, кг.",
+   "value": "6,95 (трекер) &lt;br&gt; 1,7 (сканер)"
+  },
+  {
+   "id": 24416,
+   "key": "Класс лазера (безопасность для глаз)",
+   "value": "Класс II (безопасно для глаз)"
+  },
+  {
+   "id": 24417,
+   "key": "bitrix_picture",
+   "value": "/pr_new_files/iblock/a76/06etlg14bkzm9i1lczwzvykrrjv2g3f9.png"
+  },
+  {
+   "id": 24418,
+   "key": "Документы товара",
+   "value": "1563"
+  },
+  {
+   "id": 30935,
+   "key": "wbcr_wp_old_slug",
+   "value": "%d0%bb%d0%b0%d0%b7%d0%b5%d1%80%d0%bd%d1%8b%d0%b9-%d1%82%d1%80%d0%b5%d0%ba%d0%b5%d1%80-trackscan-p42"
+  },
+  {
+   "id": 35640,
+   "key": "Файл видео",
+   "value": ""
+  },
+  {
+   "id": 35641,
+   "key": "_news_category",
+   "value": "0"
+  },
+  {
+   "id": 35642,
+   "key": "_news_tag",
+   "value": "0"
+  },
+  {
+   "id": 35643,
+   "key": "_custom_advantages",
+   "value": ""
+  },
+  {
+   "id": 35644,
+   "key": "_my_menu_type",
+   "value": "обычное"
+  },
+  {
+   "id": 35645,
+   "key": "_video_block",
+   "value": {
+    "video_title": "",
+    "video_post_id": "",
+    "right_title": "",
+    "subtitle": "",
+    "video_description": "",
+    "button_text": "Смотреть больше видео",
+    "tag_id": ""
+   }
+  },
+  {
+   "id": 35646,
+   "key": "boldgrid_in_page_containers",
+   "value": "1"
+  },
+  {
+   "id": 35647,
+   "key": "_yoast_wpseo_primary_product_brand",
+   "value": ""
+  },
+  {
+   "id": 35648,
+   "key": "_yoast_wpseo_primary_product_cat",
+   "value": ""
+  },
+  {
+   "id": 35649,
+   "key": "_yoast_wpseo_content_score",
+   "value": "90"
+  },
+  {
+   "id": 35650,
+   "key": "_yoast_wpseo_estimated-reading-time-minutes",
+   "value": "1"
+  },
+  {
+   "id": 35724,
+   "key": "_yoast_wpseo_title",
+   "value": "Лазерный трекер TrackScan P42 - заказать у производителя с доставкой по России | AM-Tech"
+  },
+  {
+   "id": 35725,
+   "key": "_yoast_wpseo_metadesc",
+   "value": "Заказать Лазерный трекер TrackScan P42 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91"
+  },
+  {
+   "id": 36113,
+   "key": "_vcv-sourceChecksum",
+   "value": "e0d540ce157ee2bb31ffebf949679a82"
+  },
+  {
+   "id": 36114,
+   "key": "vcvSourceCssFileUrl",
+   "value": "/assets-bundles/e0d540ce157ee2bb31ffebf949679a82.source.css"
+  },
+  {
+   "id": 36115,
+   "key": "_vcv-globalCssMigrated",
+   "value": "1"
+  }
+ ],
+ "stock_status": "instock",
+ "has_options": false,
+ "post_password": "",
+ "global_unique_id": "",
+ "permalink_template": "https://am-tech.ru/product/%pagename%/",
+ "generated_slug": "lazernyj-treker-trackscan-p42",
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Лазерный трекер TrackScan P42 - заказать у производителя с доставкой по России | AM-Tech</title>\n<meta name=\"description\" content=\"Заказать Лазерный трекер TrackScan P42 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/product/lazernyj-treker-trackscan-p42/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Лазерный трекер TrackScan P42 - заказать у производителя с доставкой по России | AM-Tech\" />\n<meta property=\"og:description\" content=\"Заказать Лазерный трекер TrackScan P42 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/product/lazernyj-treker-trackscan-p42/\" />\n<meta property=\"og:site_name\" content=\"am-tech.ru\" />\n<meta property=\"article:modified_time\" content=\"2025-11-06T10:02:11+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2025/08/dn4j51uxj42bp3356s7rhq73klg1bv7z.png\" />\n\t<meta property=\"og:image:width\" content=\"359\" />\n\t<meta property=\"og:image:height\" content=\"300\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"1 минута\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/product/lazernyj-treker-trackscan-p42/\",\"url\":\"https://am-tech.ru/product/lazernyj-treker-trackscan-p42/\",\"name\":\"Лазерный трекер TrackScan P42 - заказать у производителя с доставкой по России | AM-Tech\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/product/lazernyj-treker-trackscan-p42/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/product/lazernyj-treker-trackscan-p42/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2025/08/dn4j51uxj42bp3356s7rhq73klg1bv7z.png\",\"datePublished\":\"2025-08-17T03:36:19+00:00\",\"dateModified\":\"2025-11-06T10:02:11+00:00\",\"description\":\"Заказать Лазерный трекер TrackScan P42 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91\",\"breadcrumb\":{\"@id\":\"https://am-tech.ru/product/lazernyj-treker-trackscan-p42/#breadcrumb\"},\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/product/lazernyj-treker-trackscan-p42/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/product/lazernyj-treker-trackscan-p42/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2025/08/dn4j51uxj42bp3356s7rhq73klg1bv7z.png\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2025/08/dn4j51uxj42bp3356s7rhq73klg1bv7z.png\",\"width\":359,\"height\":300},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://am-tech.ru/product/lazernyj-treker-trackscan-p42/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Главная страница\",\"item\":\"https://am-tech.ru/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"default\",\"item\":\"https://am-tech.ru/katalog/default/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Лазерный трекер TrackScan P42\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"am-tech.ru\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"am-tech.ru\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"am-tech.ru\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "Лазерный трекер TrackScan P42 - заказать у производителя с доставкой по России | AM-Tech",
+  "description": "Заказать Лазерный трекер TrackScan P42 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/product/lazernyj-treker-trackscan-p42/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "Лазерный трекер TrackScan P42 - заказать у производителя с доставкой по России | AM-Tech",
+  "og_description": "Заказать Лазерный трекер TrackScan P42 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91",
+  "og_url": "https://am-tech.ru/product/lazernyj-treker-trackscan-p42/",
+  "og_site_name": "am-tech.ru",
+  "article_modified_time": "2025-11-06T10:02:11+00:00",
+  "og_image": [
+   {
+    "width": 359,
+    "height": 300,
+    "url": "https://am-tech.ru/wp-content/uploads/2025/08/dn4j51uxj42bp3356s7rhq73klg1bv7z.png",
+    "type": "image/png"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "1 минута"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/product/lazernyj-treker-trackscan-p42/",
+     "url": "https://am-tech.ru/product/lazernyj-treker-trackscan-p42/",
+     "name": "Лазерный трекер TrackScan P42 - заказать у производителя с доставкой по России | AM-Tech",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/product/lazernyj-treker-trackscan-p42/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/product/lazernyj-treker-trackscan-p42/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2025/08/dn4j51uxj42bp3356s7rhq73klg1bv7z.png",
+     "datePublished": "2025-08-17T03:36:19+00:00",
+     "dateModified": "2025-11-06T10:02:11+00:00",
+     "description": "Заказать Лазерный трекер TrackScan P42 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91",
+     "breadcrumb": {
+      "@id": "https://am-tech.ru/product/lazernyj-treker-trackscan-p42/#breadcrumb"
+     },
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/product/lazernyj-treker-trackscan-p42/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/product/lazernyj-treker-trackscan-p42/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2025/08/dn4j51uxj42bp3356s7rhq73klg1bv7z.png",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2025/08/dn4j51uxj42bp3356s7rhq73klg1bv7z.png",
+     "width": 359,
+     "height": 300
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://am-tech.ru/product/lazernyj-treker-trackscan-p42/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Главная страница",
+       "item": "https://am-tech.ru/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "default",
+       "item": "https://am-tech.ru/katalog/default/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "Лазерный трекер TrackScan P42"
+      }
+     ]
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "am-tech.ru",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "am-tech.ru",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "am-tech.ru"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wc/v3/products/1578",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wc/v3/products"
+   }
+  ]
+ }
+}

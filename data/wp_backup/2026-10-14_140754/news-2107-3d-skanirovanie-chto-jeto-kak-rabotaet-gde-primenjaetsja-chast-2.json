@@ -1,0 +1,277 @@
+{
+ "id": 2107,
+ "date": "2023-09-01T12:41:00",
+ "date_gmt": "2023-09-01T09:41:00",
+ "guid": {
+  "rendered": "http://am-tech.ru/news/3d_lesson2/",
+  "raw": "http://am-tech.ru/news/3d_lesson2/"
+ },
+ "modified": "2026-10-13T17:22:50",
+ "modified_gmt": "2026-10-13T14:22:50",
+ "password": "",
+ "slug": "3d-skanirovanie-chto-jeto-kak-rabotaet-gde-primenjaetsja-chast-2",
+ "status": "publish",
+ "type": "news",
+ "link": "https://am-tech.ru/news/3d-skanirovanie-chto-jeto-kak-rabotaet-gde-primenjaetsja-chast-2/",
+ "title": {
+  "raw": "3D-сканирование: что это, как работает, где применяется (часть 2)",
+  "rendered": "3D-сканирование: что это, как работает, где применяется (часть 2)"
+ },
+ "content": {
+  "raw": "<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n\r\nВ первой&nbsp;статье мы объяснили, как портативные 3D-сканеры фиксируют геометрию и размеры физических объектов и как они могут повысить качество, эффективность и инновации производственных процессов.\r\n\r\nВ этой -&nbsp;рассмотрим области применения различных мобильных 3D-сканеров и то, какие преимущества они предоставляют дизайнерам, производителям и профессионалам с точки зрения точности, стоимости и времени.\r\n<h2>Применение портативных 3D-лазерных сканеров</h2>\r\nПортативные <a href=\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/\">лазерные 3д сканеры</a> чаще всего используются для контроля качества продукции, например, определения размеров или сравнения изделия с номинальной моделью САПР, а также для разработки продукта, то есть обновления фактической детали в цифровом виде.\r\n\r\nБлагодаря своей мобильности, универсальности, податливости и точности мобильные 3D-лазерные сканеры позволяют выполнять измерения в любой области бизнеса и промышленности. Они находят широкое применение в таких отраслях, как автомобилестроение, тяжелая промышленность, транспорт, энергетика, аэрокосмическая промышленность, медицина или производство потребительских товаров.\r\n\r\n<img style=\"width: 1084px;\" title=\"The-process-of-shaft-preparation-for-measurement.jpeg\" src=\"https://am.tech/upload/medialibrary/dc4/l2xv8r1yn25q68gug4ektlenoawvqlrt/The-process-of-shaft-preparation-for-measurement.jpeg\" alt=\"The-process-of-shaft-preparation-for-measurement.jpeg\" width=\"700\" height=\"263\">\r\n\r\nПроцесс подготовки вала к измерению, результат 3D-сканирования, общее биение и сборка с подшипниками.\r\n\r\n&nbsp;\r\n\r\nНиже мы приводим примеры использования возможностей портативных 3D-лазерных сканеров:\r\n\r\n&nbsp;\r\n<ul>\r\n \t<li>отливки, поковки, формы, инструменты, песчаные и восковые стержни;</li>\r\n \t<li>штампы для литья деталей под давлением, детали из пластика, углеродного волокна и композитных материалов;</li>\r\n \t<li>детали из листового металла, инструменты для штамповки, детали из листового металла и сварные детали;</li>\r\n \t<li>автомобильные детали, детали кузова автомобиля, интерьеры и комплектные автомобили;</li>\r\n \t<li>Корпуса лодок, каюты яхт, моторные лодки и гидроциклы;</li>\r\n \t<li>мотоциклы, байки, рамы мотоциклов и велосипедов;</li>\r\n \t<li>имплантаты, протезы, ортезы, конечности и весь человек;</li>\r\n \t<li>полуприцепы, прицепы, сельскохозяйственная техника и инструменты;</li>\r\n \t<li>стальные конструкции, сварные конструкции и крупногабаритные отливки;</li>\r\n \t<li>турбины, ступицы, валы, роторы и лопасти;</li>\r\n \t<li>стекла, трафареты и приспособления;</li>\r\n \t<li>результаты 3D-печати, токарной, фрезерной и механической обработки с ЧПУ;</li>\r\n \t<li>памятники, антиквариат, скульптуры, произведения искусства и археологические раскопки;</li>\r\n \t<li>для обратного проектирования и контроля качества.</li>\r\n</ul>\r\n<h2>Контроль качества</h2>\r\n3D-лазерные сканеры могут проверять размеры, форму, качество поверхности и дефекты изделий или деталей на соответствие проектным спецификациям или стандартам. Они также могут сравнивать различные партии или образцы продуктов или деталей, чтобы обнаружить какие-либо отклонения.\r\n\r\nРазработка продукта:\r\n\r\n3D-сканеры могут помочь в разработке новых продуктов или деталей путем создания прототипов, тестирования концепций, проверки конструкций или оптимизации производительности.\r\n\r\n<img style=\"width: 1084px;\" title=\"Product-development.jpg\" src=\"https://am.tech/upload/medialibrary/9ec/64qvtfjfqzmthgxhzqbxnhbmm8awoie4/Product-development.jpg\" alt=\"Product-development.jpg\" width=\"666\" height=\"500\">\r\n<h3>Контроль</h3>\r\nПортативные 3D-лазерные сканеры позволяют проверять сложные или недоступные участки изделий или деталей, которые выходят за рамки других методов измерения. Они также позволяют оценивать большие или тяжелые объекты, которые создают проблемы при перемещении или транспортировке.\r\n\r\n&nbsp;<img style=\"width: 1084px;\" title=\"Inspection.jpg\" src=\"https://am.tech/upload/medialibrary/4f4/hmkpyfjk81trx3e5kh79gvkkij3dzrjy/Inspection.jpg\" alt=\"Inspection.jpg\" width=\"666\" height=\"500\">\r\n<h2>Техническое обслуживание</h2>\r\nС помощью 3D-сканеров вы можете отслеживать состояние изделий или деталей с течением времени и выявлять любые признаки износа, повреждения или изношенности. Вы также можете использовать их для ремонта или замены неисправных или изношенных деталей, создавая точные модели для изготовления.\r\n<h2>Оцифровка</h2>\r\n3D-сканеры могут преобразовывать физические объекты в цифровые модели, которые можно хранить, совместно использовать, редактировать или воспроизводить с помощью программных или аппаратных средств. Они также могут создавать впечатления от виртуальной реальности (VR) или дополненной реальности (AR) с использованием цифровых моделей.\r\n\r\nРучные 3D-сканеры серии KSCAN - средство контроля качества сварных деталей.\r\n\r\nРучные сканеры являются одними из наиболее адаптируемых и универсальных измерительных решений, доступных на рынке. Примером этого является AM.TECH KSCAN-Magic, который оснащен тремя встроенными измерительными зонами разных размеров, которые можно переключать простым нажатием кнопки без изменения оптики.\r\n\r\nКроме того, этот сканер оснащен уникальной запатентованной встроенной системой фотограмметрии, которая позволяет проводить измерения большого размера с высокой точностью и стабильностью. Таким образом, мы можем выполнять 3D-измерение деталей размером от нескольких десятков миллиметров до нескольких метров.\r\n\r\n<img style=\"width: 1084px;\" title=\"MAIN.00_01_16_09.Still002.png\" src=\"https://am.tech/upload/medialibrary/562/pzjonnpl79hppgeei0zkx4mtnskeni51/MAIN.00_01_16_09.Still002.png\" alt=\"MAIN.00_01_16_09.Still002.png\" width=\"700\" height=\"394\">\r\n<h2>Тематические исследования инструментов 3D-сканирования</h2>\r\nКонтроль качества важен для обработанных и сваренных деталей, таких как муфты для тракторов. Эти детали необходимо точно и эффективно измерять, чтобы убедиться, что они соответствуют оригинальному дизайну и спецификациям.\r\n\r\n<img style=\"width: 1084px;\" title=\"Case-Studies-of-3D-Scanning-Tools.jpg\" src=\"https://am.tech/upload/medialibrary/51f/0pu6x8qp8to4xnm8g46mdcl3i34f5hk8/Case-Studies-of-3D-Scanning-Tools.jpg\" alt=\"Case-Studies-of-3D-Scanning-Tools.jpg\" width=\"700\" height=\"236\">\r\n\r\nВ этом случае заказчик использовал для сканирования детали ручной 3D-сканер KSCAN-Magic, который имеет большое поле сканирования, чтобы ускорить процесс измерения.\r\n\r\nИнженер получил полные данные сканирования детали и сравнил их с моделью САПР для выявления отклонений. Он легкий, компактный и простой в использовании.\r\n\r\n&nbsp;\r\n<h2>Отслеживающая 3D-система TrackScan для проверки пресс-форм для литья под давлением</h2>\r\n3D-система оптического отслеживания использует оптический трекер и 3D-сканер для измерения формы, размера и положения объектов в трех измерениях.\r\n\r\n&nbsp;<img style=\"width: 1084px;\" title=\"TrackScan-Sharp трекер.png\" src=\"https://am.tech/upload/medialibrary/db5/n6s8fz0z0cgn0uihawcb7uuyfc1dlh0c/TrackScan-Sharp%20%D1%82%D1%80%D0%B5%D0%BA%D0%B5%D1%80.png\" alt=\"TrackScan-Sharp трекер.png\" width=\"700\" height=\"342\">\r\n\r\nИх преимущество&nbsp;заключается в том, что они могут измерять большие и сложные&nbsp;объекты с высокой точностью и скоростью, без необходимости фиксировать или перемещать объекты или использовать сложные приспособления или специальные инструменты.\r\n\r\nОптическая 3D-измерительная система AM.TECH серии TrackScan идеально подходит для измерения деталей средних и больших размеров. Он&nbsp;обеспечивает скорость измерений 2 600 000 измерений в секунду и достигает точности 0,025 мм.\r\n\r\nTrackScan-Sharp выводит оптические измерения на новый уровень с расстоянием отслеживания до 6 метров, диапазоном измерения объема 49 м3&nbsp;и точностью измерения объема до 0,049 мм (10,4 м3).\r\n\r\n&nbsp;\r\n<h2>Проверка пресс-форм для литья под давлением</h2>\r\nФормы для литья под давлением часто используются для изготовления сложных и крупных деталей, таких как блоки цилиндров двигателя и корпуса. Однако проверка пресс-форм для литья под давлением может быть сложной задачей из-за их размера и формы. Некоторые формы имеют отражающие поверхности, которые могут повлиять на точность измерения.\r\n\r\n<img style=\"width: 1084px;\" title=\"Inspecting-Die-Casting-Molds.jpg\" src=\"https://am.tech/upload/medialibrary/5d1/ru5q0mp8d2dntcujbl9sn56bgrkbq4wz/Inspecting-Die-Casting-Molds.jpg\" alt=\"Inspecting-Die-Casting-Molds.jpg\" width=\"700\" height=\"201\">\r\n\r\nКроме того, некоторые формы слишком большие и требуют разборки и транспортировки в измерительную лабораторию. Оптический 3D-сканер&nbsp; может быстро и точно измерять большие и сложные объекты, не прикасаясь к ним и не повреждая их.\r\n\r\nИспользуя 3D-сканирование, производители литья под давлением могут воспользоваться более быстрыми и эффективными процессами контроля, а также улучшенным контролем качества.\r\n\r\n3D-сканирование может помочь обнаружить дефекты, такие как трещины или усадка, путем сравнения данных сканирования с моделями CAD. Кроме того, 3D-сканирование может помочь оптимизировать формы или детали, создавая точные 3D-модели, которые можно модифицировать или анализировать с помощью различного программного обеспечения.\r\n<h2>Автоматизированные 3D-системы для штамповки деталей</h2>\r\nАвтоматизированная система 3D-сканирования - это способ использования роботов с 3D-сканерами для быстрого, точного и бесконтактного измерения формы и размера объектов. Эта система может использоваться для различных целей, таких как проверка качества продукции или создание цифровых моделей.\r\n\r\nРабочий процесс автоматизированной системы 3D-сканирования обычно включает следующие этапы: планирование процесса сканирования, сканирование объектов, обработка данных и анализ результатов.\r\n\r\n<img style=\"width: 1084px;\" title=\"Automated-3D-Systems-for-Stamping-Parts.jpg\" src=\"https://am.tech/upload/medialibrary/cbf/rb8r1ytc2evmzckagyhucdu4xp7eiz4e/Automated-3D-Systems-for-Stamping-Parts.jpg\" alt=\"Automated-3D-Systems-for-Stamping-Parts.jpg\" width=\"700\" height=\"394\">\r\n\r\nAM-DESK - это универсальная оптическая автоматизированная 3D-измерительная система, предназначенная для измерения деталей среднего размера. Ее модульная конструкция обеспечивает гибкую компоновку и быструю сборку. Оно предлагает автоматизированное измерительное решение для контроля качества на протяжении всего жизненного цикла.&nbsp;\r\n\r\n3D-сканеры являются незаменимыми инструментами для многих отраслей промышленности по всему миру, поскольку они обеспечивают высокую точность, мобильность и универсальность. Они генерируют большой объем данных, которые выявляют качество и потенциальные дефекты продукта, даже в неожиданных областях.\r\n\r\nОни также позволяют воссоздавать и оптимизировать детали без документации или моделей CAD, что может значительно сократить время проектирования новых деталей.\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+  "rendered": "<div class=\"boldgrid-section\">\n<div class=\"container\">\n<div class=\"row\">\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\n<p>В первой&nbsp;статье мы объяснили, как портативные 3D-сканеры фиксируют геометрию и размеры физических объектов и как они могут повысить качество, эффективность и инновации производственных процессов.</p>\n<p>В этой &#8212;&nbsp;рассмотрим области применения различных мобильных 3D-сканеров и то, какие преимущества они предоставляют дизайнерам, производителям и профессионалам с точки зрения точности, стоимости и времени.</p>\n<h2>Применение портативных 3D-лазерных сканеров</h2>\n<p>Портативные <a href=\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/\">лазерные 3д сканеры</a> чаще всего используются для контроля качества продукции, например, определения размеров или сравнения изделия с номинальной моделью САПР, а также для разработки продукта, то есть обновления фактической детали в цифровом виде.</p>\n<p>Благодаря своей мобильности, универсальности, податливости и точности мобильные 3D-лазерные сканеры позволяют выполнять измерения в любой области бизнеса и промышленности. Они находят широкое применение в таких отраслях, как автомобилестроение, тяжелая промышленность, транспорт, энергетика, аэрокосмическая промышленность, медицина или производство потребительских товаров.</p>\n<p><img loading=\"lazy\" decoding=\"async\" fetchpriority=\"high\" decoding=\"async\" style=\"width: 1084px;\" title=\"The-process-of-shaft-preparation-for-measurement.jpeg\" src=\"https://am.tech/upload/medialibrary/dc4/l2xv8r1yn25q68gug4ektlenoawvqlrt/The-process-of-shaft-preparation-for-measurement.jpeg\" alt=\"The-process-of-shaft-preparation-for-measurement.jpeg\" width=\"700\" height=\"263\"></p>\n<p>Процесс подготовки вала к измерению, результат 3D-сканирования, общее биение и сборка с подшипниками.</p>\n<p>&nbsp;</p>\n<p>Ниже мы приводим примеры использования возможностей портативных 3D-лазерных сканеров:</p>\n<p>&nbsp;</p>\n<ul>\n<li>отливки, поковки, формы, инструменты, песчаные и восковые стержни;</li>\n<li>штампы для литья деталей под давлением, детали из пластика, углеродного волокна и композитных материалов;</li>\n<li>детали из листового металла, инструменты для штамповки, детали из листового металла и сварные детали;</li>\n<li>автомобильные детали, детали кузова автомобиля, интерьеры и комплектные автомобили;</li>\n<li>Корпуса лодок, каюты яхт, моторные лодки и гидроциклы;</li>\n<li>мотоциклы, байки, рамы мотоциклов и велосипедов;</li>\n<li>имплантаты, протезы, ортезы, конечности и весь человек;</li>\n<li>полуприцепы, прицепы, сельскохозяйственная техника и инструменты;</li>\n<li>стальные конструкции, сварные конструкции и крупногабаритные отливки;</li>\n<li>турбины, ступицы, валы, роторы и лопасти;</li>\n<li>стекла, трафареты и приспособления;</li>\n<li>результаты 3D-печати, токарной, фрезерной и механической обработки с ЧПУ;</li>\n<li>памятники, антиквариат, скульптуры, произведения искусства и археологические раскопки;</li>\n<li>для обратного проектирования и контроля качества.</li>\n</ul>\n<h2>Контроль качества</h2>\n<p>3D-лазерные сканеры могут проверять размеры, форму, качество поверхности и дефекты изделий или деталей на соответствие проектным спецификациям или стандартам. Они также могут сравнивать различные партии или образцы продуктов или деталей, чтобы обнаружить какие-либо отклонения.</p>\n<p>Разработка продукта:</p>\n<p>3D-сканеры могут помочь в разработке новых продуктов или деталей путем создания прототипов, тестирования концепций, проверки конструкций или оптимизации производительности.</p>\n<p><img loading=\"lazy\" decoding=\"async\" decoding=\"async\" style=\"width: 1084px;\" title=\"Product-development.jpg\" src=\"https://am.tech/upload/medialibrary/9ec/64qvtfjfqzmthgxhzqbxnhbmm8awoie4/Product-development.jpg\" alt=\"Product-development.jpg\" width=\"666\" height=\"500\"></p>\n<h3>Контроль</h3>\n<p>Портативные 3D-лазерные сканеры позволяют проверять сложные или недоступные участки изделий или деталей, которые выходят за рамки других методов измерения. Они также позволяют оценивать большие или тяжелые объекты, которые создают проблемы при перемещении или транспортировке.</p>\n<p>&nbsp;<img loading=\"lazy\" decoding=\"async\" decoding=\"async\" style=\"width: 1084px;\" title=\"Inspection.jpg\" src=\"https://am.tech/upload/medialibrary/4f4/hmkpyfjk81trx3e5kh79gvkkij3dzrjy/Inspection.jpg\" alt=\"Inspection.jpg\" width=\"666\" height=\"500\"></p>\n<h2>Техническое обслуживание</h2>\n<p>С помощью 3D-сканеров вы можете отслеживать состояние изделий или деталей с течением времени и выявлять любые признаки износа, повреждения или изношенности. Вы также можете использовать их для ремонта или замены неисправных или изношенных деталей, создавая точные модели для изготовления.</p>\n<h2>Оцифровка</h2>\n<p>3D-сканеры могут преобразовывать физические объекты в цифровые модели, которые можно хранить, совместно использовать, редактировать или воспроизводить с помощью программных или аппаратных средств. Они также могут создавать впечатления от виртуальной реальности (VR) или дополненной реальности (AR) с использованием цифровых моделей.</p>\n<p>Ручные 3D-сканеры серии KSCAN &#8212; средство контроля качества сварных деталей.</p>\n<p>Ручные сканеры являются одними из наиболее адаптируемых и универсальных измерительных решений, доступных на рынке. Примером этого является AM.TECH KSCAN-Magic, который оснащен тремя встроенными измерительными зонами разных размеров, которые можно переключать простым нажатием кнопки без изменения оптики.</p>\n<p>Кроме того, этот сканер оснащен уникальной запатентованной встроенной системой фотограмметрии, которая позволяет проводить измерения большого размера с высокой точностью и стабильностью. Таким образом, мы можем выполнять 3D-измерение деталей размером от нескольких десятков миллиметров до нескольких метров.</p>\n<p><img loading=\"lazy\" decoding=\"async\" style=\"width: 1084px;\" title=\"MAIN.00_01_16_09.Still002.png\" src=\"https://am.tech/upload/medialibrary/562/pzjonnpl79hppgeei0zkx4mtnskeni51/MAIN.00_01_16_09.Still002.png\" alt=\"MAIN.00_01_16_09.Still002.png\" width=\"700\" height=\"394\"></p>\n<h2>Тематические исследования инструментов 3D-сканирования</h2>\n<p>Контроль качества важен для обработанных и сваренных деталей, таких как муфты для тракторов. Эти детали необходимо точно и эффективно измерять, чтобы убедиться, что они соответствуют оригинальному дизайну и спецификациям.</p>\n<p><img loading=\"lazy\" decoding=\"async\" style=\"width: 1084px;\" title=\"Case-Studies-of-3D-Scanning-Tools.jpg\" src=\"https://am.tech/upload/medialibrary/51f/0pu6x8qp8to4xnm8g46mdcl3i34f5hk8/Case-Studies-of-3D-Scanning-Tools.jpg\" alt=\"Case-Studies-of-3D-Scanning-Tools.jpg\" width=\"700\" height=\"236\"></p>\n<p>В этом случае заказчик использовал для сканирования детали ручной 3D-сканер KSCAN-Magic, который имеет большое поле сканирования, чтобы ускорить процесс измерения.</p>\n<p>Инженер получил полные данные сканирования детали и сравнил их с моделью САПР для выявления отклонений. Он легкий, компактный и простой в использовании.</p>\n<p>&nbsp;</p>\n<h2>Отслеживающая 3D-система TrackScan для проверки пресс-форм для литья под давлением</h2>\n<p>3D-система оптического отслеживания использует оптический трекер и 3D-сканер для измерения формы, размера и положения объектов в трех измерениях.</p>\n<p>&nbsp;<img loading=\"lazy\" decoding=\"async\" style=\"width: 1084px;\" title=\"TrackScan-Sharp трекер.png\" src=\"https://am.tech/upload/medialibrary/db5/n6s8fz0z0cgn0uihawcb7uuyfc1dlh0c/TrackScan-Sharp%20%D1%82%D1%80%D0%B5%D0%BA%D0%B5%D1%80.png\" alt=\"TrackScan-Sharp трекер.png\" width=\"700\" height=\"342\"></p>\n<p>Их преимущество&nbsp;заключается в том, что они могут измерять большие и сложные&nbsp;объекты с высокой точностью и скоростью, без необходимости фиксировать или перемещать объекты или использовать сложные приспособления или специальные инструменты.</p>\n<p>Оптическая 3D-измерительная система AM.TECH серии TrackScan идеально подходит для измерения деталей средних и больших размеров. Он&nbsp;обеспечивает скорость измерений 2 600 000 измерений в секунду и достигает точности 0,025 мм.</p>\n<p>TrackScan-Sharp выводит оптические измерения на новый уровень с расстоянием отслеживания до 6 метров, диапазоном измерения объема 49 м3&nbsp;и точностью измерения объема до 0,049 мм (10,4 м3).</p>\n<p>&nbsp;</p>\n<h2>Проверка пресс-форм для литья под давлением</h2>\n<p>Формы для литья под давлением часто используются для изготовления сложных и крупных деталей, таких как блоки цилиндров двигателя и корпуса. Однако проверка пресс-форм для литья под давлением может быть сложной задачей из-за их размера и формы. Некоторые формы имеют отражающие поверхности, которые могут повлиять на точность измерения.</p>\n<p><img loading=\"lazy\" decoding=\"async\" style=\"width: 1084px;\" title=\"Inspecting-Die-Casting-Molds.jpg\" src=\"https://am.tech/upload/medialibrary/5d1/ru5q0mp8d2dntcujbl9sn56bgrkbq4wz/Inspecting-Die-Casting-Molds.jpg\" alt=\"Inspecting-Die-Casting-Molds.jpg\" width=\"700\" height=\"201\"></p>\n<p>Кроме того, некоторые формы слишком большие и требуют разборки и транспортировки в измерительную лабораторию. Оптический 3D-сканер&nbsp; может быстро и точно измерять большие и сложные объекты, не прикасаясь к ним и не повреждая их.</p>\n<p>Используя 3D-сканирование, производители литья под давлением могут воспользоваться более быстрыми и эффективными процессами контроля, а также улучшенным контролем качества.</p>\n<p>3D-сканирование может помочь обнаружить дефекты, такие как трещины или усадка, путем сравнения данных сканирования с моделями CAD. Кроме того, 3D-сканирование может помочь оптимизировать формы или детали, создавая точные 3D-модели, которые можно модифицировать или анализировать с помощью различного программного обеспечения.</p>\n<h2>Автоматизированные 3D-системы для штамповки деталей</h2>\n<p>Автоматизированная система 3D-сканирования &#8212; это способ использования роботов с 3D-сканерами для быстрого, точного и бесконтактного измерения формы и размера объектов. Эта система может использоваться для различных целей, таких как проверка качества продукции или создание цифровых моделей.</p>\n<p>Рабочий процесс автоматизированной системы 3D-сканирования обычно включает следующие этапы: планирование процесса сканирования, сканирование объектов, обработка данных и анализ результатов.</p>\n<p><img loading=\"lazy\" decoding=\"async\" style=\"width: 1084px;\" title=\"Automated-3D-Systems-for-Stamping-Parts.jpg\" src=\"https://am.tech/upload/medialibrary/cbf/rb8r1ytc2evmzckagyhucdu4xp7eiz4e/Automated-3D-Systems-for-Stamping-Parts.jpg\" alt=\"Automated-3D-Systems-for-Stamping-Parts.jpg\" width=\"700\" height=\"394\"></p>\n<p>AM-DESK &#8212; это универсальная оптическая автоматизированная 3D-измерительная система, предназначенная для измерения деталей среднего размера. Ее модульная конструкция обеспечивает гибкую компоновку и быструю сборку. Оно предлагает автоматизированное измерительное решение для контроля качества на протяжении всего жизненного цикла.&nbsp;</p>\n<p>3D-сканеры являются незаменимыми инструментами для многих отраслей промышленности по всему миру, поскольку они обеспечивают высокую точность, мобильность и универсальность. Они генерируют большой объем данных, которые выявляют качество и потенциальные дефекты продукта, даже в неожиданных областях.</p>\n<p>Они также позволяют воссоздавать и оптимизировать детали без документации или моделей CAD, что может значительно сократить время проектирования новых деталей.</p>\n</div>\n</div>\n</div>\n</div>\n",
+  "protected": false,
+  "block_version": 0
+ },
+ "excerpt": {
+  "raw": "",
+  "rendered": "<p>В первой&nbsp;статье мы объяснили, как портативные 3D-сканеры фиксируют геометрию и размеры физических объектов и как они могут повысить качество, эффективность и инновации производственных процессов. В этой &#8212;&nbsp;рассмотрим области применения различных мобильных 3D-сканеров и то, какие преимущества они предоставляют дизайнерам, производителям и профессионалам с точки зрения точности, стоимости и времени. Применение портативных 3D-лазерных сканеров Портативные лазерные [&hellip;]</p>\n",
+  "protected": false
+ },
+ "author": 1,
+ "featured_media": 2029,
+ "comment_status": "open",
+ "ping_status": "open",
+ "template": "",
+ "meta": {
+  "_acf_changed": false,
+  "_yoast_wpseo_title": "3D-сканирование: что это, как работает, где применяется (часть 2) | AM-Tech",
+  "_yoast_wpseo_metadesc": "3D-сканирование: что это, как работает, где применяется (часть 2) новости компании AM Tech",
+  "_yoast_wpseo_meta-robots-noindex": ""
+ },
+ "news_category": [
+  970
+ ],
+ "news_tag": [],
+ "permalink_template": "https://am-tech.ru/news/%pagename%/",
+ "generated_slug": "3d-skanirovanie-chto-jeto-kak-rabotaet-gde-primenjaetsja-chast-2",
+ "class_list": [
+  "post-2107",
+  "news",
+  "type-news",
+  "status-publish",
+  "has-post-thumbnail",
+  "hentry",
+  "news_category-novosti"
+ ],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>3D-сканирование: что это, как работает, где применяется (часть 2) | AM-Tech</title>\n<meta name=\"description\" content=\"3D-сканирование: что это, как работает, где применяется (часть 2) новости компании AM Tech\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/news/3d-skanirovanie-chto-jeto-kak-rabotaet-gde-primenjaetsja-chast-2/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"3D-сканирование: что это, как работает, где применяется (часть 2) | AM-Tech\" />\n<meta property=\"og:description\" content=\"3D-сканирование: что это, как работает, где применяется (часть 2) новости компании AM Tech\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/news/3d-skanirovanie-chto-jeto-kak-rabotaet-gde-primenjaetsja-chast-2/\" />\n<meta property=\"og:site_name\" content=\"am-tech.ru\" />\n<meta property=\"article:modified_time\" content=\"2026-10-13T14:22:50+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2023/09/0kb1d45xdztupaw1k1ykfc536fn6zjev.png\" />\n\t<meta property=\"og:image:width\" content=\"700\" />\n\t<meta property=\"og:image:height\" content=\"393\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"8 минут\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/news/3d-skanirovanie-chto-jeto-kak-rabotaet-gde-primenjaetsja-chast-2/\",\"url\":\"https://am-tech.ru/news/3d-skanirovanie-chto-jeto-kak-rabotaet-gde-primenjaetsja-chast-2/\",\"name\":\"3D-сканирование: что это, как работает, где применяется (часть 2) | AM-Tech\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/news/3d-skanirovanie-chto-jeto-kak-rabotaet-gde-primenjaetsja-chast-2/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/news/3d-skanirovanie-chto-jeto-kak-rabotaet-gde-primenjaetsja-chast-2/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2023/09/0kb1d45xdztupaw1k1ykfc536fn6zjev.png\",\"datePublished\":\"2023-09-01T09:41:00+00:00\",\"dateModified\":\"2026-10-13T14:22:50+00:00\",\"description\":\"3D-сканирование: что это, как работает, где применяется (часть 2) новости компании AM Tech\",\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/news/3d-skanirovanie-chto-jeto-kak-rabotaet-gde-primenjaetsja-chast-2/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/news/3d-skanirovanie-chto-jeto-kak-rabotaet-gde-primenjaetsja-chast-2/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2023/09/0kb1d45xdztupaw1k1ykfc536fn6zjev.png\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2023/09/0kb1d45xdztupaw1k1ykfc536fn6zjev.png\",\"width\":700,\"height\":393},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"am-tech.ru\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"am-tech.ru\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"am-tech.ru\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "3D-сканирование: что это, как работает, где применяется (часть 2) | AM-Tech",
+  "description": "3D-сканирование: что это, как работает, где применяется (часть 2) новости компании AM Tech",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/news/3d-skanirovanie-chto-jeto-kak-rabotaet-gde-primenjaetsja-chast-2/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "3D-сканирование: что это, как работает, где применяется (часть 2) | AM-Tech",
+  "og_description": "3D-сканирование: что это, как работает, где применяется (часть 2) новости компании AM Tech",
+  "og_url": "https://am-tech.ru/news/3d-skanirovanie-chto-jeto-kak-rabotaet-gde-primenjaetsja-chast-2/",
+  "og_site_name": "am-tech.ru",
+  "article_modified_time": "2026-10-13T14:22:50+00:00",
+  "og_image": [
+   {
+    "width": 700,
+    "height": 393,
+    "url": "https://am-tech.ru/wp-content/uploads/2023/09/0kb1d45xdztupaw1k1ykfc536fn6zjev.png",
+    "type": "image/png"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "8 минут"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/news/3d-skanirovanie-chto-jeto-kak-rabotaet-gde-primenjaetsja-chast-2/",
+     "url": "https://am-tech.ru/news/3d-skanirovanie-chto-jeto-kak-rabotaet-gde-primenjaetsja-chast-2/",
+     "name": "3D-сканирование: что это, как работает, где применяется (часть 2) | AM-Tech",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/news/3d-skanirovanie-chto-jeto-kak-rabotaet-gde-primenjaetsja-chast-2/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/news/3d-skanirovanie-chto-jeto-kak-rabotaet-gde-primenjaetsja-chast-2/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2023/09/0kb1d45xdztupaw1k1ykfc536fn6zjev.png",
+     "datePublished": "2023-09-01T09:41:00+00:00",
+     "dateModified": "2026-10-13T14:22:50+00:00",
+     "description": "3D-сканирование: что это, как работает, где применяется (часть 2) новости компании AM Tech",
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/news/3d-skanirovanie-chto-jeto-kak-rabotaet-gde-primenjaetsja-chast-2/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/news/3d-skanirovanie-chto-jeto-kak-rabotaet-gde-primenjaetsja-chast-2/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2023/09/0kb1d45xdztupaw1k1ykfc536fn6zjev.png",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2023/09/0kb1d45xdztupaw1k1ykfc536fn6zjev.png",
+     "width": 700,
+     "height": 393
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "am-tech.ru",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "am-tech.ru",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "am-tech.ru"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2107",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/types/news"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/users/1"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/comments?post=2107"
+   }
+  ],
+  "wp:featuredmedia": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/media/2029"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/media?parent=2107"
+   }
+  ],
+  "wp:term": [
+   {
+    "taxonomy": "news_category",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_category?post=2107"
+   },
+   {
+    "taxonomy": "news_tag",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_tag?post=2107"
+   }
+  ],
+  "wp:action-publish": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2107"
+   }
+  ],
+  "wp:action-unfiltered-html": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2107"
+   }
+  ],
+  "wp:action-assign-author": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2107"
+   }
+  ],
+  "wp:action-create-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2107"
+   }
+  ],
+  "wp:action-assign-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2107"
+   }
+  ],
+  "wp:action-create-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2107"
+   }
+  ],
+  "wp:action-assign-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2107"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

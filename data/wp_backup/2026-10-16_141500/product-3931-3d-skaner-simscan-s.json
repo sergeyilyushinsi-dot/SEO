@@ -1,0 +1,719 @@
+{
+ "id": 3931,
+ "name": "3D-сканер SIMSCAN S",
+ "slug": "3d-skaner-simscan-s",
+ "permalink": "https://am-tech.ru/product/3d-skaner-simscan-s/",
+ "date_created": "2026-03-23T11:25:04",
+ "date_created_gmt": "2026-03-23T08:25:04",
+ "date_modified": "2026-06-30T15:07:26",
+ "date_modified_gmt": "2026-06-30T12:07:26",
+ "type": "simple",
+ "status": "publish",
+ "featured": false,
+ "catalog_visibility": "visible",
+ "description": "<section class=\"sim-premium\">\r\n<p class=\"mod-reset\"><style>\r\n    .sim-premium{background:#fff;color:#111;font-family:Arial,sans-serif}<br />    .sim-premium *{box-sizing:border-box}<br />    .sim-container{max-width:1280px;margin:0 auto;padding:70px 20px}</p>\r\n<p>    .sim-hero{<br />      display:grid;<br />      grid-template-columns:minmax(0,580px) minmax(420px,1fr);<br />      justify-content:space-between;<br />      gap:64px;<br />      align-items:center;<br />      width:100%;<br />      margin-bottom:46px;<br />    }</p>\r\n<p>    .sim-hero-text{max-width:580px}<br />    .sim-title{margin:0 0 22px;font-size:56px;line-height:1.04;font-weight:800;color:#0d0d0d;letter-spacing:-1px}<br />    .sim-orange{color:#ff7a00;font-weight:800}<br />    .sim-lead{margin:0 0 18px;font-size:19px;line-height:1.8;color:#333}</p>\r\n<p>    .sim-visual{<br />      position:relative;<br />      min-height:560px;<br />      border-radius:36px;<br />      overflow:hidden;<br />      background:<br />        radial-gradient(circle at top right,rgba(255,122,0,.18),transparent 30%),<br />        linear-gradient(145deg,#f8f8f8,#ffffff);<br />      box-shadow:0 24px 70px rgba(0,0,0,.10);<br />      display:flex;<br />      align-items:center;<br />      justify-content:center;<br />    }</p>\r\n<p>    .sim-grid{<br />      position:absolute;<br />      inset:0;<br />      background-image:<br />        linear-gradient(rgba(255,122,0,.05) 1px,transparent 1px),<br />        linear-gradient(90deg,rgba(255,122,0,.05) 1px,transparent 1px);<br />      background-size:42px 42px;<br />    }</p>\r\n<p>    .sim-rings{<br />      position:absolute;<br />      width:460px;<br />      height:460px;<br />      border-radius:50%;<br />      border:1px solid rgba(255,122,0,.12);<br />    }</p>\r\n<p>    .sim-rings:before,<br />    .sim-rings:after{<br />      content:\"\";<br />      position:absolute;<br />      border-radius:50%;<br />      border:1px solid rgba(255,122,0,.10);<br />    }</p>\r\n<p>    .sim-rings:before{inset:42px}<br />    .sim-rings:after{inset:92px}</p>\r\n<p>    .sim-core{<br />      position:relative;<br />      z-index:3;<br />      width:360px;<br />      padding:36px;<br />      border-radius:34px;<br />      background:rgba(18,18,18,.94);<br />      box-shadow:0 32px 80px rgba(0,0,0,.28),inset 0 1px 0 rgba(255,255,255,.08);<br />    }</p>\r\n<p>    .sim-core-label{display:block;margin-bottom:10px;font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:#aaa}<br />    .sim-core-value{display:block;margin-bottom:24px;font-size:54px;line-height:1;font-weight:800;color:#fff}</p>\r\n<p>    .sim-core-chart{<br />      position:relative;<br />      height:140px;<br />      margin-bottom:24px;<br />      overflow:hidden;<br />      border-radius:22px;<br />      background:linear-gradient(180deg,rgba(255,255,255,.06),rgba(255,255,255,.015));<br />    }</p>\r\n<p>    .sim-laser{<br />      position:absolute;<br />      width:160%;<br />      height:2px;<br />      background:linear-gradient(90deg,transparent,#ff7a00,transparent);<br />      transform-origin:center;<br />      opacity:.95;<br />    }</p>\r\n<p>    .sim-l1{top:18%;left:-20%;transform:rotate(10deg)}<br />    .sim-l2{top:34%;left:-12%;transform:rotate(-8deg)}<br />    .sim-l3{top:52%;left:-16%;transform:rotate(6deg)}<br />    .sim-l4{top:70%;left:-10%;transform:rotate(-11deg)}<br />    .sim-l5{top:86%;left:-20%;transform:rotate(9deg)}</p>\r\n<p>    .sim-core-bottom{font-size:18px;line-height:1.6;color:#ececec}</p>\r\n<p>    .sim-image-card{<br />      margin-bottom:34px;<br />      padding:24px;<br />      border-radius:32px;<br />      background:#fff;<br />      border:1px solid rgba(0,0,0,.06);<br />      box-shadow:0 16px 40px rgba(0,0,0,.07);<br />    }</p>\r\n<p>    .sim-image-card img{width:100%;height:auto;border-radius:24px;display:block}</p>\r\n<p>    .sim-metrics{<br />      margin-top:68px;<br />      padding:44px;<br />      border-radius:36px;<br />      background:linear-gradient(135deg,#111,#292929);<br />      color:#fff;<br />      box-shadow:0 28px 80px rgba(0,0,0,.20);<br />    }</p>\r\n<p>    .sim-metrics h3{margin:0 0 12px;font-size:36px;color:#fff}<br />    .sim-metrics p{margin:0 0 34px;font-size:17px;line-height:1.7;color:#e8e8e8}</p>\r\n<p>    .sim-chart-grid{<br />      display:grid;<br />      grid-template-columns:repeat(3,1fr);<br />      gap:22px;<br />    }</p>\r\n<p>    .sim-chart-card{<br />      padding:28px;<br />      border-radius:28px;<br />      background:rgba(255,255,255,.08);<br />      border:1px solid rgba(255,255,255,.14);<br />      backdrop-filter:blur(8px);<br />    }</p>\r\n<p>    .sim-chart-card h4{margin:0 0 22px;font-size:21px;color:#fff}<br />    .sim-big{font-size:44px;line-height:1;font-weight:800;color:#ff9a32;margin-bottom:12px}<br />    .sim-chart-card p{margin:12px 0 0;font-size:15px;line-height:1.6;color:#eee}</p>\r\n<p>    .sim-radial{<br />      width:170px;<br />      height:170px;<br />      margin:0 auto 18px;<br />      border-radius:50%;<br />      background:<br />        radial-gradient(circle at center,#222 57%,transparent 58%),<br />        conic-gradient(#ff7a00 92%,rgba(255,255,255,.16) 0);<br />      display:flex;<br />      align-items:center;<br />      justify-content:center;<br />    }</p>\r\n<p>    .sim-radial span{font-size:28px;font-weight:800;color:#fff}</p>\r\n<p>    .sim-bars{<br />      height:190px;<br />      display:flex;<br />      align-items:flex-end;<br />      gap:16px;<br />      border-bottom:1px solid rgba(255,255,255,.18);<br />      padding-top:12px;<br />    }</p>\r\n<p>    .sim-bars div{<br />      flex:1;<br />      display:flex;<br />      flex-direction:column;<br />      justify-content:flex-end;<br />      align-items:center;<br />      gap:8px;<br />      color:#eee;<br />      font-size:13px;<br />      text-align:center;<br />    }</p>\r\n<p>    .sim-bars i{<br />      width:100%;<br />      max-width:48px;<br />      display:block;<br />      border-radius:14px 14px 0 0;<br />      background:linear-gradient(180deg,#ff7a00,#ffbd7a);<br />      box-shadow:0 0 18px rgba(255,122,0,.25);<br />    }</p>\r\n<p>    .sim-progress{<br />      height:18px;<br />      border-radius:30px;<br />      background:rgba(255,255,255,.14);<br />      overflow:hidden;<br />      margin:22px 0 16px;<br />    }</p>\r\n<p>    .sim-progress span{<br />      display:block;<br />      height:100%;<br />      border-radius:30px;<br />      background:linear-gradient(90deg,#ff7a00,#ffbd7a);<br />      box-shadow:0 0 18px rgba(255,122,0,.25);<br />    }</p>\r\n<p>    .sim-section{margin-top:68px}<br />    .sim-section-title{margin:0 0 18px;font-size:36px;line-height:1.2;font-weight:800;color:#111}<br />    .sim-section-text{margin:0 0 16px;font-size:17px;line-height:1.8;color:#444}</p>\r\n<p>    .sim-cards{<br />      display:grid;<br />      grid-template-columns:repeat(3,1fr);<br />      gap:22px;<br />      margin-top:34px;<br />    }</p>\r\n<p>    .sim-card{<br />      padding:30px;<br />      border-radius:28px;<br />      background:#fff;<br />      border:1px solid #ededed;<br />      box-shadow:0 14px 35px rgba(0,0,0,.05);<br />    }</p>\r\n<p>    .sim-card-number{<br />      width:50px;<br />      height:50px;<br />      border-radius:50%;<br />      background:#ff7a00;<br />      color:#fff;<br />      display:flex;<br />      align-items:center;<br />      justify-content:center;<br />      font-weight:800;<br />      margin-bottom:18px;<br />    }</p>\r\n<p>    .sim-card strong{display:block;margin-bottom:10px;font-size:22px;color:#111}<br />    .sim-card p{margin:0;font-size:15px;line-height:1.7;color:#555}</p>\r\n<p>    .sim-scan-modes{<br />      display:grid;<br />      grid-template-columns:repeat(2,1fr);<br />      gap:22px;<br />      margin-top:36px;<br />    }</p>\r\n<p>    .sim-mode-card{<br />      padding:30px;<br />      border-radius:30px;<br />      background:#fff;<br />      border:1px solid #ededed;<br />      box-shadow:0 16px 40px rgba(0,0,0,.06);<br />    }</p>\r\n<p>    .sim-mode-card h4{margin:0 0 22px;font-size:22px;color:#111}<br />    .sim-mode-card p{margin:18px 0 0;font-size:15px;line-height:1.7;color:#555}</p>\r\n<p>    .sim-mode-dark{<br />      background:linear-gradient(135deg,#111,#292929);<br />      color:#fff;<br />      border:none;<br />      box-shadow:0 24px 70px rgba(0,0,0,.18);<br />    }</p>\r\n<p>    .sim-mode-dark p{color:#eee}</p>\r\n<p>    .sim-mode-top{<br />      display:flex;<br />      align-items:flex-end;<br />      justify-content:space-between;<br />      gap:18px;<br />      margin-bottom:24px;<br />    }</p>\r\n<p>    .sim-mode-label{<br />      font-size:18px;<br />      line-height:1.35;<br />      font-weight:700;<br />      color:#fff;<br />    }</p>\r\n<p>    .sim-mode-value{<br />      font-size:52px;<br />      font-weight:800;<br />      color:#ff7a00;<br />      line-height:1;<br />    }</p>\r\n<p>    .sim-laser-graph{<br />      position:relative;<br />      height:180px;<br />      border-radius:22px;<br />      overflow:hidden;<br />      margin-bottom:22px;<br />      background:linear-gradient(180deg,rgba(255,255,255,.06),rgba(255,255,255,.02));<br />    }</p>\r\n<p>    .sim-laser-line{<br />      position:absolute;<br />      width:160%;<br />      height:2px;<br />      background:linear-gradient(90deg,transparent,#ff7a00,transparent);<br />      opacity:.95;<br />    }</p>\r\n<p>    .l1{top:12%;left:-20%;transform:rotate(7deg)}<br />    .l2{top:24%;left:-14%;transform:rotate(-6deg)}<br />    .l3{top:36%;left:-22%;transform:rotate(5deg)}<br />    .l4{top:48%;left:-10%;transform:rotate(-8deg)}<br />    .l5{top:60%;left:-18%;transform:rotate(6deg)}<br />    .l6{top:72%;left:-8%;transform:rotate(-7deg)}<br />    .l7{top:84%;left:-16%;transform:rotate(8deg)}<br />    .l8{top:94%;left:-12%;transform:rotate(-6deg)}</p>\r\n<p>    .sim-vertical-bars{<br />      height:180px;<br />      display:flex;<br />      align-items:flex-end;<br />      justify-content:center;<br />      gap:28px;<br />      margin-bottom:22px;<br />      border-bottom:1px solid #ededed;<br />    }</p>\r\n<p>    .sim-vertical-bars div{<br />      display:flex;<br />      flex-direction:column;<br />      align-items:center;<br />      gap:10px;<br />      height:100%;<br />      justify-content:flex-end;<br />      font-size:14px;<br />      color:#555;<br />    }</p>\r\n<p>    .sim-vertical-bars i{<br />      width:54px;<br />      display:block;<br />      border-radius:16px 16px 0 0;<br />      background:linear-gradient(180deg,#ff7a00,#ffbd7a);<br />      box-shadow:0 0 18px rgba(255,122,0,.22);<br />    }</p>\r\n<p>    .sim-single-beam{<br />      position:relative;<br />      height:180px;<br />      border-radius:22px;<br />      margin-bottom:22px;<br />      background:#111;<br />      overflow:hidden;<br />    }</p>\r\n<p>    .sim-beam-core{<br />      position:absolute;<br />      top:50%;<br />      left:50%;<br />      width:2px;<br />      height:180%;<br />      background:linear-gradient(180deg,transparent,#ff7a00,transparent);<br />      transform:translate(-50%,-50%);<br />      box-shadow:0 0 24px rgba(255,122,0,.9);<br />    }</p>\r\n<p>    .sim-progress-wrap{margin:30px 0 24px}</p>\r\n<p>    .sim-progress-title{<br />      margin-bottom:14px;<br />      font-size:15px;<br />      font-weight:700;<br />      color:#444;<br />    }</p>\r\n<p>    .sim-dark{<br />      margin-top:68px;<br />      padding:44px;<br />      border-radius:34px;<br />      background:#fff;<br />      border:1px solid #ededed;<br />      box-shadow:0 20px 55px rgba(0,0,0,.08);<br />    }</p>\r\n<p>    .sim-dark h3{margin:0 0 18px;font-size:34px;color:#111}<br />    .sim-dark p{margin:0;font-size:17px;line-height:1.8;color:#444}</p>\r\n<p>    @media(max-width:980px){<br />      .sim-hero,<br />      .sim-chart-grid,<br />      .sim-cards,<br />      .sim-scan-modes{<br />        grid-template-columns:1fr;<br />      }</p>\r\n<p>      .sim-container{padding:42px 16px}<br />      .sim-title{font-size:38px}<br />      .sim-visual{min-height:420px}<br />      .sim-core{width:290px;padding:28px}<br />      .sim-core-value{font-size:42px}<br />      .sim-rings{width:320px;height:320px}<br />      .sim-metrics,.sim-dark{padding:28px}<br />    }<br />  </style></p>\r\n\r\n<div class=\"sim-container\">\r\n<div class=\"sim-hero\">\r\n<div class=\"sim-hero-text\">\r\n<h2 class=\"sim-title\">SIMSCAN S</h2>\r\n<p class=\"sim-lead\"><span class=\"sim-orange\">SIMSCAN S</span> — компактный 3D-сканер, созданный для высокоточного контроля и реверс-инжиниринга.</p>\r\n<p class=\"sim-lead\">Устройство сочетает рекордную скорость сканирования, беспроводную конструкцию и эргономичный дизайн, обеспечивая максимальную мобильность и комфорт работы даже в сложных производственных условиях.</p>\r\n<p class=\"sim-lead\">Интеллектуальное программное обеспечение и инновационная лазерная система делают SIMSCAN S эффективным инструментом для промышленной метрологии нового поколения.</p>\r\n\r\n</div>\r\n<div class=\"sim-visual\">\r\n<div class=\"sim-grid\"></div>\r\n<div class=\"sim-rings\"></div>\r\n<div class=\"sim-core\"><span class=\"sim-core-label\">Производительность сканирования</span>\r\n<span class=\"sim-core-value\">180 FPS</span>\r\n<div class=\"sim-core-chart\">\r\n<div class=\"sim-laser sim-l1\"></div>\r\n<div class=\"sim-laser sim-l2\"></div>\r\n<div class=\"sim-laser sim-l3\"></div>\r\n<div class=\"sim-laser sim-l4\"></div>\r\n<div class=\"sim-laser sim-l5\"></div>\r\n</div>\r\n<div class=\"sim-core-bottom\">Высокая частота кадров\r\nи стабильное сканирование сложных поверхностей</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"sim-image-card\">\r\n<p class=\"mod-reset\"><img src=\"https://am-tech.ru/wp-content/uploads/2026/03/simscan-s-gen2-7.jpg\" alt=\"SIMSCAN S\"></p>\r\n\r\n</div>\r\n<div class=\"sim-metrics\">\r\n<h3>Ключевые параметры системы</h3>\r\nВысокая производительность, интеллектуальная лазерная технология и адаптивная фотограмметрия для профессионального промышленного контроля.\r\n<div class=\"sim-chart-grid\">\r\n<div class=\"sim-chart-card\">\r\n<h4>Частота кадров</h4>\r\n<div class=\"sim-radial\">180 FPS</div>\r\nВысокая скорость обработки данных для стабильного сканирования объектов любой сложности.\r\n\r\n</div>\r\n<div class=\"sim-chart-card\">\r\n<h4>Лазерные режимы</h4>\r\n<div class=\"sim-bars\">\r\n<div>Сверхбыстрый<i style=\"height: 100%;\"></i><b>108</b></div>\r\n<div>Высокое разрешение<i style=\"height: 62%;\"></i><b>17</b></div>\r\n<div>Отверстия<i style=\"height: 24%;\"></i><b>1</b></div>\r\n</div>\r\nНесколько лазерных режимов для разных типов объектов и геометрий.\r\n\r\n</div>\r\n<div class=\"sim-chart-card\">\r\n<h4>Беспроводная работа</h4>\r\n<div class=\"sim-progress\"></div>\r\n<div class=\"sim-big\">Свобода</div>\r\nПолная свобода перемещения вокруг объекта без ограничений кабельной инфраструктуры.\r\n\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"sim-image-card\">\r\n<p class=\"mod-reset\"><img src=\"https://am-tech.ru/wp-content/uploads/2026/03/92ec0c1abefcad74e7c775ee3c7eb620.webp\" alt=\"SIMSCAN S\"></p>\r\n\r\n</div>\r\n<div class=\"sim-section\">\r\n<h3 class=\"sim-section-title\">Ключевые особенности SIMSCAN S</h3>\r\n<div class=\"sim-cards\">\r\n<div class=\"sim-card\">\r\n<div class=\"sim-card-number\">01</div>\r\n<strong>Эргономичный дизайн</strong>\r\n\r\nПродуманная форма и небольшой вес снижают утомляемость оператора при длительной работе.\r\n\r\n</div>\r\n<div class=\"sim-card\">\r\n<div class=\"sim-card-number\">02</div>\r\n<strong>Беспроводная свобода</strong>\r\n\r\nВысокоскоростные измерения без проводов упрощают перемещение вокруг объекта.\r\n\r\n</div>\r\n<div class=\"sim-card\">\r\n<div class=\"sim-card-number\">03</div>\r\n<strong>Инновационная лазерная технология</strong>\r\n\r\nЧетыре перекрестия синего лазера обеспечивают высокую детализацию и производительность.\r\n\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"sim-section\">\r\n<h3 class=\"sim-section-title\">Режимы работы</h3>\r\n<p class=\"sim-section-text\">SIMSCAN S поддерживает несколько интеллектуальных режимов сканирования, позволяющих адаптировать процесс под различные производственные задачи — от сверхбыстрой оцифровки до высокоточного сканирования сложных геометрий.</p>\r\n\r\n<div class=\"sim-scan-modes\">\r\n<div class=\"sim-mode-card sim-mode-dark\">\r\n<div class=\"sim-mode-top\"><span class=\"sim-mode-label\">Сверхбыстрое сканирование</span>\r\n<span class=\"sim-mode-value\">108</span></div>\r\n<div class=\"sim-laser-graph\">\r\n<div class=\"sim-laser-line l1\"></div>\r\n<div class=\"sim-laser-line l2\"></div>\r\n<div class=\"sim-laser-line l3\"></div>\r\n<div class=\"sim-laser-line l4\"></div>\r\n<div class=\"sim-laser-line l5\"></div>\r\n<div class=\"sim-laser-line l6\"></div>\r\n<div class=\"sim-laser-line l7\"></div>\r\n<div class=\"sim-laser-line l8\"></div>\r\n</div>\r\n108 синих пересекающихся лазерных линий для максимальной скорости сканирования крупных поверхностей.\r\n\r\n</div>\r\n<div class=\"sim-mode-card\">\r\n<h4>Высокое разрешение</h4>\r\n<div class=\"sim-vertical-bars\">\r\n<div><i style=\"height: 100%;\"></i>\r\n17</div>\r\n<div><i style=\"height: 92%;\"></i>\r\nлиний</div>\r\n</div>\r\n17 параллельных лазерных линий обеспечивают детальную передачу сложных геометрий и мелких элементов.\r\n\r\n</div>\r\n<div class=\"sim-mode-card\">\r\n<h4>Глубокие отверстия</h4>\r\n<div class=\"sim-single-beam\">\r\n<div class=\"sim-beam-core\"></div>\r\n</div>\r\nОдна высокоточная синяя лазерная линия для труднодоступных зон и глубоких полостей.\r\n\r\n</div>\r\n<div class=\"sim-mode-card\">\r\n<h4>Фотограмметрия</h4>\r\n<div class=\"sim-progress-wrap\">\r\n<div class=\"sim-progress-title\">Повышение объемной точности</div>\r\n<div class=\"sim-progress\"></div>\r\n</div>\r\nАдаптивный режим фотограмметрии повышает стабильность измерений на крупных объектах.\r\n\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"sim-dark\">\r\n<h3>Интеллектуальная фотограмметрия и адаптивное ПО</h3>\r\nУсовершенствованная фотограмметрия и интеллектуальное программное обеспечение позволяют повысить объемную точность измерений, упростить процесс сканирования и сократить время обучения оператора. SIMSCAN S сочетает мобильность, производительность и промышленную точность в ультракомпактном корпусе.\r\n\r\n</div>\r\n</div>\r\n</section>",
+ "short_description": "<strong>SIMSCAN S</strong> — это компактный 3D-сканер, созданный для высокоточного контроля и реверс инжиниринга. Устройство сочетает рекордную в своем сегменте скорость сканирования с эргономичностью и простотой использования. Беспроводная конструкция и интуитивно понятный интерфейс обеспечивают комфортную работу даже в сложных условиях.",
+ "sku": "",
+ "price": "",
+ "regular_price": "",
+ "sale_price": "",
+ "date_on_sale_from": null,
+ "date_on_sale_from_gmt": null,
+ "date_on_sale_to": null,
+ "date_on_sale_to_gmt": null,
+ "on_sale": false,
+ "purchasable": false,
+ "total_sales": 0,
+ "virtual": false,
+ "downloadable": false,
+ "downloads": [],
+ "download_limit": -1,
+ "download_expiry": -1,
+ "external_url": "",
+ "button_text": "",
+ "tax_status": "taxable",
+ "tax_class": "",
+ "manage_stock": false,
+ "stock_quantity": null,
+ "backorders": "no",
+ "backorders_allowed": false,
+ "backordered": false,
+ "low_stock_amount": null,
+ "sold_individually": false,
+ "weight": "",
+ "dimensions": {
+  "length": "",
+  "width": "",
+  "height": ""
+ },
+ "shipping_required": true,
+ "shipping_taxable": true,
+ "shipping_class": "",
+ "shipping_class_id": 0,
+ "reviews_allowed": true,
+ "average_rating": "0",
+ "rating_count": 0,
+ "upsell_ids": [],
+ "cross_sell_ids": [],
+ "parent_id": 0,
+ "purchase_note": "",
+ "categories": [
+  {
+   "id": 24,
+   "name": "3D-сканеры",
+   "slug": "3d-scan"
+  },
+  {
+   "id": 1288,
+   "name": "Беспроводной сканер",
+   "slug": "besprovodnoj-skaner"
+  },
+  {
+   "id": 1273,
+   "name": "Лазерные 3d сканеры",
+   "slug": "lazernye-3d-skanery"
+  },
+  {
+   "id": 1272,
+   "name": "Ручные 3d сканеры",
+   "slug": "ruchnye-3d-skanery"
+  }
+ ],
+ "brands": [],
+ "tags": [],
+ "images": [
+  {
+   "id": 3932,
+   "date_created": "2026-03-23T14:27:05",
+   "date_created_gmt": "2026-03-23T08:27:05",
+   "date_modified": "2026-03-23T14:27:05",
+   "date_modified_gmt": "2026-03-23T08:27:05",
+   "src": "https://am-tech.ru/wp-content/uploads/2026/03/1.png",
+   "name": "1",
+   "alt": ""
+  },
+  {
+   "id": 3933,
+   "date_created": "2026-03-23T14:27:24",
+   "date_created_gmt": "2026-03-23T08:27:24",
+   "date_modified": "2026-03-23T14:27:24",
+   "date_modified_gmt": "2026-03-23T08:27:24",
+   "src": "https://am-tech.ru/wp-content/uploads/2026/03/2.png",
+   "name": "2",
+   "alt": ""
+  },
+  {
+   "id": 3934,
+   "date_created": "2026-03-23T14:27:36",
+   "date_created_gmt": "2026-03-23T08:27:36",
+   "date_modified": "2026-03-23T14:27:36",
+   "date_modified_gmt": "2026-03-23T08:27:36",
+   "src": "https://am-tech.ru/wp-content/uploads/2026/03/3.png",
+   "name": "3",
+   "alt": ""
+  },
+  {
+   "id": 3935,
+   "date_created": "2026-03-23T14:27:45",
+   "date_created_gmt": "2026-03-23T08:27:45",
+   "date_modified": "2026-03-23T14:27:45",
+   "date_modified_gmt": "2026-03-23T08:27:45",
+   "src": "https://am-tech.ru/wp-content/uploads/2026/03/4.png",
+   "name": "4",
+   "alt": ""
+  },
+  {
+   "id": 3936,
+   "date_created": "2026-03-23T14:27:56",
+   "date_created_gmt": "2026-03-23T08:27:56",
+   "date_modified": "2026-03-23T14:27:56",
+   "date_modified_gmt": "2026-03-23T08:27:56",
+   "src": "https://am-tech.ru/wp-content/uploads/2026/03/5.png",
+   "name": "5",
+   "alt": ""
+  }
+ ],
+ "attributes": [
+  {
+   "id": 3524,
+   "name": "Точность, мм, до",
+   "slug": "pa_tochnost-mm-do",
+   "position": 0,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "0,015"
+   ]
+  },
+  {
+   "id": 3525,
+   "name": "Объемная точность, мм",
+   "slug": "pa_obemnaja-tochnost-mm",
+   "position": 1,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "0,014+0,025∗L"
+   ]
+  },
+  {
+   "id": 3529,
+   "name": "Доверительная вероятность",
+   "slug": "pa_doveritelnaja-verojatnost",
+   "position": 2,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "0,95"
+   ]
+  },
+  {
+   "id": 3531,
+   "name": "Разрешение, мм, до",
+   "slug": "pa_razreshenie-mm-do",
+   "position": 3,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "0,02"
+   ]
+  },
+  {
+   "id": 3532,
+   "name": "Скорость измерений, точек/сек, до",
+   "slug": "pa_skorost-izmerenij",
+   "position": 4,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "8100000"
+   ]
+  },
+  {
+   "id": 3533,
+   "name": "Область сканирования (поле зрения), мм, до",
+   "slug": "pa_oblast-pole-zr",
+   "position": 5,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "700 × 600"
+   ]
+  },
+  {
+   "id": 3534,
+   "name": "Оптимальное расстояние до объекта, мм",
+   "slug": "pa_optimalnoe-rasstojanie",
+   "position": 6,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "300"
+   ]
+  },
+  {
+   "id": 3535,
+   "name": "Источник излучения",
+   "slug": "pa_istochnik-izluchenija",
+   "position": 7,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "Сверхбыстрое сканирование: 108 синих пересекающихся лазерных линий Сканирование в высоком разрешении: 17 синих параллельных лазерных линий Сканирование глубоких отверстий: 1 синяя линия"
+   ]
+  },
+  {
+   "id": 3536,
+   "name": "Глубина резкости, мм",
+   "slug": "pa_glubina-rezkosti-mm",
+   "position": 8,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "550"
+   ]
+  },
+  {
+   "id": 3537,
+   "name": "Размеры измеряемого объекта, м",
+   "slug": "pa_razmery-izmerjaemogo",
+   "position": 9,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "0,1-10"
+   ]
+  },
+  {
+   "id": 3538,
+   "name": "Габариты сканера, мм",
+   "slug": "pa_gabarity-skanera-mm",
+   "position": 10,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "203×80×44"
+   ]
+  },
+  {
+   "id": 3539,
+   "name": "Вес сканера, кг",
+   "slug": "pa_ves-skanera-kg",
+   "position": 11,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "0,56"
+   ]
+  },
+  {
+   "id": 3540,
+   "name": "Температура окружающей среды при эксплуатации, °С",
+   "slug": "pa_temperatura",
+   "position": 12,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "от -10 до +40"
+   ]
+  },
+  {
+   "id": 3541,
+   "name": "Наличие в реестре средств измерений",
+   "slug": "pa_nalichie-v-reestre",
+   "position": 13,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "Внесен"
+   ]
+  }
+ ],
+ "default_attributes": [],
+ "variations": [],
+ "grouped_products": [],
+ "menu_order": 3,
+ "price_html": "",
+ "related_ids": [
+  1597,
+  1665,
+  1647,
+  1613,
+  1680
+ ],
+ "meta_data": [
+  {
+   "id": 43606,
+   "key": "bitrix_id",
+   "value": "4928"
+  },
+  {
+   "id": 43607,
+   "key": "Символьный код",
+   "value": "lazernyy-3d-skaner-simscan-e2039"
+  },
+  {
+   "id": 43608,
+   "key": "Анонс",
+   "value": "<p>SIMSCAN, самый компактный на рынке ручной лазерный 3D-сканер, представляет собой инновационную разработку в ряду традиционных 3D-сканеров и революционный продукт в отрасли оптических 3D-измерений.</p>\r\n<p>&nbsp;</p>\r\n<p>Будучи помещенным в ограниченное пространство или работая вблизи крупногабаритных объектов, SIMSCAN, тем не менее, производит высококачественные 3D-измерения без каких-либо ограничений из-за рабочей среды. Система измерения помогает с метрологической точностью зафиксировать каждую деталь и в кратчайшие сроки построить 3D-модель. Минималистический дизайн металлического корпуса обеспечивает SIMSCAN баланс между весом и производительностью.</p>"
+  },
+  {
+   "id": 43609,
+   "key": "Описание",
+   "value": "<h2>SIMSCAN-E: первый беспроводной ручной 3D-сканер с рекордной для своего сегмента скоростью сканирования</h2>\r\n<p align=\"center\"><img src=\"/upload/editor_images/1724743358-mceu_812893611724743355125.png\" height=\"500\" /></p>\r\n<ul>\r\n<li>\r\n<p><b><font size=\"3\">Никаких проводов при сканировании</font></b></p>\r\n</li>\r\n</ul>\r\n<p style=\"padding-left: 40px;\"><font size=\"3\">Беспроводной 3D-сканер SIMSCAN E обеспечивает мобильность сканирования независимо от того, где вы выполняете работы &ndash; в цеху или на открытом воздухе без доступа к электричеству.</font></p>\r\n<ul>\r\n<li style=\"line-height: 1;\"><font size=\"3\"><b>Рекордная скорость сканирования</b></font></li>\r\n</ul>\r\n<p style=\"padding-left: 40px;\"><font size=\"3\">Благодаря усовершенствованному алгоритму SIMSCAN E обеспечивает рекордную для рынка скорость сканирования в 6,3млн точек/сек.</font></p>\r\n<ul>\r\n<li><font size=\"3\"><b>Непрерывный процесс сканирования</b></font></li>\r\n</ul>\r\n<p style=\"padding-left: 40px;\"><font size=\"3\">SIMSCAN E оснащен двумя сменными батареями большой емкости, обеспечивающими длительное время работы без необходимости прерывания процесса сканирования на зарядку устройства. Интеллектуальный индикатор уровня заряда батареи, а также съемная зарядная база позволяют переключаться между беспроводным и проводным режимом работы, адаптируясь к различным сценариям и потребностям.</font></p>\r\n<ul>\r\n<li><font size=\"3\"><b>Исключительная точность сканирования</b></font></li>\r\n</ul>\r\n<p style=\"padding-left: 40px;\"><font size=\"3\">Благодаря промышленным камерам и инновационным алгоритмам улучшения изображения, точность сканирования составляет 0,020 мм, что более чем отвечает требованиям промышленного высокоточного 3D-сканирования и измерений.</font></p>\r\n<ul>\r\n<li><b>Отлично подходит для узких пространств</b></li>\r\n</ul>\r\n<p style=\"padding-left: 40px;\"><font size=\"3\">Компактные размеры SIMSCAN E и уникальная конструкция его камер делают возможным сканирование труднодоступных участков объектов, таких как зазоры, щели, глубокие отверстия и каналы.</font></p>\r\n<p style=\"line-height: 1;\"><img src=\"/upload/editor_images/1724746513-mceu_786999611724746509411.png\" height=\"400\" /></p>\r\n<p align=\"center\"><img src=\"/upload/editor_images/1724746625-mceu_39600569621724746620975.png\" height=\"455\" /></p>\r\n<p>Все представленное в нашем каталоге оборудование доступно к приобретению на выгодных условиях <a href=\"https://am-tech.ru/leasing/\">лизинга.</a></p>\r\n<p>Наши специалисты помогут подобрать оптимальную схему лизинга под ваши производственные задачи и финансовые возможности, а также окажут содействие в оформлении всей необходимой документации.</p>"
+  },
+  {
+   "id": 43610,
+   "key": "Точность, мм",
+   "value": "до 0,02"
+  },
+  {
+   "id": 43611,
+   "key": "Объемная точность, мм/м",
+   "value": "0,015+0,030∗L"
+  },
+  {
+   "id": 43612,
+   "key": "Объемная точность с фотограмметрией MSCAN L15, мм/м",
+   "value": "0,015 + 0,012∗L"
+  },
+  {
+   "id": 43613,
+   "key": "Доверительная вероятность",
+   "value": "0,95"
+  },
+  {
+   "id": 43614,
+   "key": "Возможность работы со щупом",
+   "value": "нет"
+  },
+  {
+   "id": 43615,
+   "key": "Разрешение, мм",
+   "value": "до 0,02"
+  },
+  {
+   "id": 43616,
+   "key": "Скорость измерений, точек/сек",
+   "value": "6 300 000"
+  },
+  {
+   "id": 43617,
+   "key": "Область сканирования (поле зрения), мм",
+   "value": "700х600"
+  },
+  {
+   "id": 43618,
+   "key": "Оптимальное расстояние до объекта, мм",
+   "value": "300"
+  },
+  {
+   "id": 43619,
+   "key": "Источник излучения",
+   "value": "Сверхбыстрое сканирование: 63 синих пересекающихся лазерных линии  Сканирование в высоком разрешении: 17 синих параллельных линий  Сканирование глубоких отверстий: 1 синяя линия"
+  },
+  {
+   "id": 43620,
+   "key": "Глубина резкости, мм",
+   "value": "550"
+  },
+  {
+   "id": 43621,
+   "key": "Размеры измеряемого объекта, м",
+   "value": "0,01-5"
+  },
+  {
+   "id": 43622,
+   "key": "Габариты, мм",
+   "value": "203х80х44"
+  },
+  {
+   "id": 43623,
+   "key": "Вес, кг",
+   "value": "0,6"
+  },
+  {
+   "id": 43624,
+   "key": "Температура окружающей среды, °C",
+   "value": "от -10 до +40"
+  },
+  {
+   "id": 43625,
+   "key": "Наличие в реестре средств измерений",
+   "value": "да"
+  },
+  {
+   "id": 43626,
+   "key": "Страна производства",
+   "value": "Китай"
+  },
+  {
+   "id": 43627,
+   "key": "Хит продаж",
+   "value": "NEW"
+  },
+  {
+   "id": 43628,
+   "key": "Код с видео (iframe)",
+   "value": ""
+  },
+  {
+   "id": 43629,
+   "key": "Связанные товары по фильтру",
+   "value": "[]"
+  },
+  {
+   "id": 43630,
+   "key": "Вес, кг.",
+   "value": "0,60"
+  },
+  {
+   "id": 43631,
+   "key": "Класс лазера (безопасность для глаз)",
+   "value": "Класс II (безопасно для глаз)"
+  },
+  {
+   "id": 43632,
+   "key": "bitrix_picture",
+   "value": "/pr_new_files/iblock/5c4/vk5ae8c1xoqsll35lpzap7cf5gmw3ryd.png"
+  },
+  {
+   "id": 43633,
+   "key": "wbcr_wp_old_slug",
+   "value": "3d-%d1%81%d0%ba%d0%b0%d0%bd%d0%b5%d1%80-simscan-e"
+  },
+  {
+   "id": 43634,
+   "key": "Документы товара",
+   "value": ""
+  },
+  {
+   "id": 43635,
+   "key": "Файл видео",
+   "value": ""
+  },
+  {
+   "id": 43636,
+   "key": "_news_category",
+   "value": "0"
+  },
+  {
+   "id": 43637,
+   "key": "_news_tag",
+   "value": "0"
+  },
+  {
+   "id": 43638,
+   "key": "_my_menu_type",
+   "value": "обычное"
+  },
+  {
+   "id": 43639,
+   "key": "_video_block",
+   "value": {
+    "video_title": "",
+    "video_post_id": "",
+    "right_title": "",
+    "subtitle": "",
+    "video_description": "",
+    "button_text": "",
+    "tag_id": ""
+   }
+  },
+  {
+   "id": 43640,
+   "key": "boldgrid_in_page_containers",
+   "value": "1"
+  },
+  {
+   "id": 43641,
+   "key": "_yoast_wpseo_primary_product_brand",
+   "value": ""
+  },
+  {
+   "id": 43642,
+   "key": "_yoast_wpseo_primary_product_cat",
+   "value": "24"
+  },
+  {
+   "id": 43643,
+   "key": "_yoast_wpseo_content_score",
+   "value": "90"
+  },
+  {
+   "id": 43644,
+   "key": "_yoast_wpseo_estimated-reading-time-minutes",
+   "value": "3"
+  },
+  {
+   "id": 43645,
+   "key": "_custom_advantages",
+   "value": ""
+  },
+  {
+   "id": 43646,
+   "key": "_yoast_wpseo_title",
+   "value": "3D-сканер SIMSCAN S — карманный метрологический | AM-Tech"
+  },
+  {
+   "id": 43647,
+   "key": "_yoast_wpseo_metadesc",
+   "value": "Заказать 3D-сканер SIMSCAN S. Компактный и мощный инструмент для измерений. Официальная гарантия."
+  },
+  {
+   "id": 43648,
+   "key": "_vcv-sourceChecksum",
+   "value": "e0d540ce157ee2bb31ffebf949679a82"
+  },
+  {
+   "id": 43649,
+   "key": "vcvSourceCssFileUrl",
+   "value": "/assets-bundles/e0d540ce157ee2bb31ffebf949679a82.source.css"
+  },
+  {
+   "id": 43650,
+   "key": "_vcv-globalCssMigrated",
+   "value": "1"
+  },
+  {
+   "id": 52848,
+   "key": "_elementor_page_assets",
+   "value": []
+  }
+ ],
+ "stock_status": "instock",
+ "has_options": false,
+ "post_password": "",
+ "global_unique_id": "",
+ "permalink_template": "https://am-tech.ru/product/%pagename%/",
+ "generated_slug": "3d-skaner-simscan-s",
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>3D-сканер SIMSCAN S — карманный метрологический | AM-Tech</title>\n<meta name=\"description\" content=\"Заказать 3D-сканер SIMSCAN S. Компактный и мощный инструмент для измерений. Официальная гарантия.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/product/3d-skaner-simscan-s/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"3D-сканер SIMSCAN S — карманный метрологический | AM-Tech\" />\n<meta property=\"og:description\" content=\"Заказать 3D-сканер SIMSCAN S. Компактный и мощный инструмент для измерений. Официальная гарантия.\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/product/3d-skaner-simscan-s/\" />\n<meta property=\"og:site_name\" content=\"AM.TECH\" />\n<meta property=\"article:modified_time\" content=\"2026-06-30T12:07:26+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2026/03/1.png\" />\n\t<meta property=\"og:image:width\" content=\"396\" />\n\t<meta property=\"og:image:height\" content=\"867\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"3 минуты\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/product/3d-skaner-simscan-s/\",\"url\":\"https://am-tech.ru/product/3d-skaner-simscan-s/\",\"name\":\"3D-сканер SIMSCAN S — карманный метрологический | AM-Tech\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/product/3d-skaner-simscan-s/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/product/3d-skaner-simscan-s/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2026/03/1.png\",\"datePublished\":\"2026-03-23T08:25:04+00:00\",\"dateModified\":\"2026-06-30T12:07:26+00:00\",\"description\":\"Заказать 3D-сканер SIMSCAN S. Компактный и мощный инструмент для измерений. Официальная гарантия.\",\"breadcrumb\":{\"@id\":\"https://am-tech.ru/product/3d-skaner-simscan-s/#breadcrumb\"},\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/product/3d-skaner-simscan-s/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/product/3d-skaner-simscan-s/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2026/03/1.png\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2026/03/1.png\",\"width\":396,\"height\":867},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://am-tech.ru/product/3d-skaner-simscan-s/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Главная страница\",\"item\":\"https://am-tech.ru/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Промышленные 3D сканеры: оборудование для реверс-инжиниринга и контроля качества\",\"item\":\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"3D-сканеры\",\"item\":\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"3D-сканер SIMSCAN S\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"AM.TECH\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"AM.TECH\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"AM.TECH\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "3D-сканер SIMSCAN S — карманный метрологический | AM-Tech",
+  "description": "Заказать 3D-сканер SIMSCAN S. Компактный и мощный инструмент для измерений. Официальная гарантия.",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/product/3d-skaner-simscan-s/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "3D-сканер SIMSCAN S — карманный метрологический | AM-Tech",
+  "og_description": "Заказать 3D-сканер SIMSCAN S. Компактный и мощный инструмент для измерений. Официальная гарантия.",
+  "og_url": "https://am-tech.ru/product/3d-skaner-simscan-s/",
+  "og_site_name": "AM.TECH",
+  "article_modified_time": "2026-06-30T12:07:26+00:00",
+  "og_image": [
+   {
+    "width": 396,
+    "height": 867,
+    "url": "https://am-tech.ru/wp-content/uploads/2026/03/1.png",
+    "type": "image/png"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "3 минуты"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/product/3d-skaner-simscan-s/",
+     "url": "https://am-tech.ru/product/3d-skaner-simscan-s/",
+     "name": "3D-сканер SIMSCAN S — карманный метрологический | AM-Tech",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/product/3d-skaner-simscan-s/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/product/3d-skaner-simscan-s/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2026/03/1.png",
+     "datePublished": "2026-03-23T08:25:04+00:00",
+     "dateModified": "2026-06-30T12:07:26+00:00",
+     "description": "Заказать 3D-сканер SIMSCAN S. Компактный и мощный инструмент для измерений. Официальная гарантия.",
+     "breadcrumb": {
+      "@id": "https://am-tech.ru/product/3d-skaner-simscan-s/#breadcrumb"
+     },
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/product/3d-skaner-simscan-s/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/product/3d-skaner-simscan-s/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2026/03/1.png",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2026/03/1.png",
+     "width": 396,
+     "height": 867
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://am-tech.ru/product/3d-skaner-simscan-s/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Главная страница",
+       "item": "https://am-tech.ru/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Промышленные 3D сканеры: оборудование для реверс-инжиниринга и контроля качества",
+       "item": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "3D-сканеры",
+       "item": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 4,
+       "name": "3D-сканер SIMSCAN S"
+      }
+     ]
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "AM.TECH",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "AM.TECH",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "AM.TECH"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wc/v3/products/3931",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wc/v3/products"
+   }
+  ]
+ }
+}

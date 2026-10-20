@@ -1,0 +1,277 @@
+{
+ "id": 4107,
+ "date": "2026-06-26T13:08:10",
+ "date_gmt": "2026-06-26T10:08:10",
+ "guid": {
+  "rendered": "https://am-tech.ru/?post_type=news&#038;p=4107",
+  "raw": "https://am-tech.ru/?post_type=news&#038;p=4107"
+ },
+ "modified": "2026-10-14T17:08:59",
+ "modified_gmt": "2026-10-14T14:08:59",
+ "password": "",
+ "slug": "3d-skaner-3devok-mt-polnyj-obzor-gibridnoj-sistemy-dlja-professionalnoj-3d-ocifrovki",
+ "status": "publish",
+ "type": "news",
+ "link": "https://am-tech.ru/news/3d-skaner-3devok-mt-polnyj-obzor-gibridnoj-sistemy-dlja-professionalnoj-3d-ocifrovki/",
+ "title": {
+  "raw": "3D-сканер 3DeVOK MT: полный обзор гибридной системы для профессиональной 3D-оцифровки",
+  "rendered": "3D-сканер 3DeVOK MT: полный обзор гибридной системы для профессиональной 3D-оцифровки"
+ },
+ "content": {
+  "raw": "<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n<p class=\"\"><span style=\"font-weight: 400;\">Подготовили большой видеообзор и статью о гибридном 3D-сканере 3DeVOK MT — устройстве, которое объединяет в одном корпусе три режима сканирования.</span></p>\r\n[video width=\"1920\" height=\"1080\" mp4=\"https://am-tech.ru/wp-content/uploads/2026/06/3devok_large_review_for_site_10.06_light.mp4\"][/video]\r\n<p class=\"\"><span style=\"font-weight: 400;\">В этом обзоре мы детально разберём технические особенности 3DeVOK MT, включая его характеристики и программное обеспечение, а также рассмотрим практические варианты его применения в промышленности, искусстве, образовании и других сферах.</span></p>\r\n<p class=\"\"><b>Сканер имеет следующие технические характеристики:</b></p>\r\n\r\n<ul class=\"\">\r\n \t<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Точность, мм, до: 0,04</span></li>\r\n \t<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Объемная точность, мм: 0,04 + 0,035 × L</span></li>\r\n \t<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Разрешение, мм, до: 0,05</span></li>\r\n \t<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Скорость измерения 4 500 000 точек в секунду</span></li>\r\n \t<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Вес сканера составляет всего 640 грамм</span></li>\r\n</ul>\r\n<p class=\"\"><span style=\"font-weight: 400;\">3D— сканер 3DeVOK MT внесен в </span><span style=\"font-weight: 400;\">в реестре средств измерений</span><span style=\"font-weight: 400;\"> РФ. </span><span style=\"font-weight: 400;\">Вес сканера составляет всего 640 г, а габариты — 215×73×53 мм . Для удобства управления на корпусе устройства расположен сенсорный экран: с его помощью можно запускать и останавливать сканирование, регулировать параметры и отслеживать статус системы без необходимости постоянно возвращаться к компьютеру</span><span style=\"font-weight: 400;\">&nbsp;</span></p>\r\n\r\n<h2 class=\"\"><b>Три источника света — три режима работы промышленного 3D-сканера</b></h2>\r\n<p class=\"\"><span style=\"font-weight: 400;\">Главная особенность 3DeVOK MT — </span><span style=\"font-weight: 400;\">это гибридная оптическая система с тремя независимыми источниками излучения</span><span style=\"font-weight: 400;\">&nbsp;</span></p>\r\n\r\n<h3 class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/06/img_9192.jpg\"><img class=\"alignnone size-full wp-image-4108\" src=\"https://am-tech.ru/wp-content/uploads/2026/06/img_9192.jpg\" alt=\"\" width=\"1600\" height=\"1200\"></a></h3>\r\n<h3 class=\"\"><b>1. Синий лазер (34 линии, 17 крестов)</b></h3>\r\n<span style=\"font-weight: 400;\">Этот режим предназначен для задач, требующих максимальной точности и детализации.</span>\r\n<ul class=\"\">\r\n \t<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Технические параметры: 34 синих лазерных линии образуют 17 перекрестий. Объемная точность </span><span style=\"font-weight: 400;\">0,04+0,035∗L</span><span style=\"font-weight: 400;\">, разрешение до 0.05 мм, скорость до 4.5 млн точек/сек .</span></li>\r\n \t<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Особенности применения: 3D-сканер для обратного проектирования и контроля качества. Хорошо справляется с блестящими металлическими поверхностями (например, алюминий, нержавейка) и сложной геометрией.&nbsp;</span></li>\r\n</ul>\r\n<h3><b>2. Инфракрасный лазер (22 линии)</b></h3>\r\n<span style=\"font-weight: 400;\">Главное предназначение: сканирование крупногабаритных объектов .</span>\r\n\r\n<span style=\"font-weight: 400;\">Этот режим создан для работы с объектами, которые требуют большой области захвата и высокой скорости, но при этом не нуждаются в максимальной детализации, которую даёт синий лазер</span>\r\n<h3 class=\"\"><b>3. Инфракрасный структурированный свет (VCSEL)</b></h3>\r\n<span style=\"font-weight: 400;\">Источник излучения: инфракрасный структурированный свет VCSEL, белый</span>\r\n<ul class=\"\">\r\n \t<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Технические параметры: Белая структурированная подсветка VCSEL.&nbsp;</span></li>\r\n \t<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Особенности применения: Оптимален для сканирования человеческого тела (поза, голова для шлема или ортеза) или цветных предметов (скульптуры и тд), 3D-модель в итоге будет также цветной. Работает без маркеров, распознавая геометрию поверхности.</span></li>\r\n</ul>\r\n<span style=\"font-weight: 400;\">Режим применяется для решения следующих задач:&nbsp;</span>\r\n<ul>\r\n \t<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Ортопедия и протезирование (ортезы, корсеты, протезы)&nbsp;</span></li>\r\n \t<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Эргономика (сиденья, спинки под конкретного человека)&nbsp;</span></li>\r\n \t<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Медицина (послеоперационный контроль, оценка отёков)</span></li>\r\n \t<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Искусство (</span><span style=\"font-weight: 400;\">оцифровка скульптур, барельефов, артефактов, экспонатов с сохранением цвета</span><span style=\"font-weight: 400;\">)</span></li>\r\n \t<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Создание цифровых копий для реставрации и архивации</span><span style=\"font-weight: 400;\">&nbsp;</span></li>\r\n</ul>\r\n<h2 class=\"\"><b>Программное обеспечение 3DeVOK Studio: от скана к модели</b></h2>\r\n<p class=\"\"><span style=\"font-weight: 400;\">3DeVOK Studio — это ПО для 3D-сканеров 3DeVOK, обеспечивающее полный цикл работы от захвата данных до экспорта полигональной модели. Интерфейс интуитивно понятен, обучение не требует специальной подготовки.</span></p>\r\n\r\n<h3><b>Ключевые возможности</b></h3>\r\n<p class=\"\"><b>С чего начинается работа.</b><span style=\"font-weight: 400;\"> Перед сканированием программа автоматически проверяет конфигурацию ПК (процессор, видеокарту, драйверы, память) и подключение сканера. Ошибки подсвечиваются — вы сразу видите, что нужно исправить.</span></p>\r\n<b>Настройка сканирования.</b><span style=\"font-weight: 400;\"> Есть готовые шаблоны для типовых задач. Для опытных пользователей — ручная настройка, создание собственных пресетов, импорт/экспорт конфигураций.</span>\r\n<p class=\"\"><b>Процесс сканирования.</b><span style=\"font-weight: 400;\"> ПО поддерживает все три режима 3DeVOK MT. Алгоритмы выравнивают кадры по геометрии, текстуре и маркерам одновременно (по отдельности тоже можно) — это обеспечивает стабильное отслеживание даже на сложных поверхностях.</span></p>\r\n<b>Управление процессом.</b><span style=\"font-weight: 400;\"> Можно отменить неудачный кадр в реальном времени — не нужно перезапускать всё сканирование. Переключение между модулями (облако точек, сетка, текстура) происходит мгновенно с возможностью досъёма.</span>\r\n\r\n<b>Обработка данных</b>\r\n<ul class=\"\">\r\n \t<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Обрезка лишнего, удаление шума, устранение артефактов</span></li>\r\n \t<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Сглаживание, заполнение отверстий, упрощение сетки и повышение резкости для улучшения качества модели&nbsp;</span></li>\r\n \t<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Контроль текстуры в реальном времени через цветовую карту</span></li>\r\n</ul>\r\n<h3 class=\"\"><b>Интеграция с другими программами.</b></h3>\r\n<b> </b><span style=\"font-weight: 400;\">Данные легко экспортируются в DefinSight Model, Rhino, PolyWorks для обратного инжиниринга, построения чертежей и контроля качества.</span>\r\n<h2 class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/06/img_9189.jpg\"><img class=\"alignnone size-full wp-image-4109\" src=\"https://am-tech.ru/wp-content/uploads/2026/06/img_9189.jpg\" alt=\"\" width=\"1600\" height=\"1200\"></a></h2>\r\n<h2 class=\"\"><b>Итог по 3D-сканеру 3DeVOK MT</b></h2>\r\n<span style=\"font-weight: 400;\">3D-сканер 3DeVOK MT — это профессиональный гибридный инструмент, объединяющий три технологии в одном корпусе. Оборудование демонстрирует промышленную точность (до 0.04 мм) и высокую скорость (до 4.5 млн точек/сек) .</span>\r\n<p class=\"\"><span style=\"font-weight: 400;\">Основные преимущества модели:</span></p>\r\n\r\n<ul>\r\n \t<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Три источника света — работа с любыми поверхностями: от мелких металлических деталей до крупногабаритных предметов и людей.</span></li>\r\n \t<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Беспроводное сканирование без маркеров — экономия времени во всех режимах.</span></li>\r\n \t<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Простота использования — интуитивное ПО 3DeVOK Studio и гибридные алгоритмы совмещения .</span></li>\r\n \t<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Безопасность — ИК-режимы безопасны для глаз, что критично при сканировании людей .</span></li>\r\n</ul>\r\n<span style=\"font-weight: 400;\">3DeVOK MT закрывает практически все потребности в 3D-оцифровке: от контроля качества в аэрокосмической отрасли до создания цифровых двойников в креативных индустриях.</span>\r\n\r\n<span style=\"font-weight: 400;\">Вы можете заказать демонстрацию 3D-сканера у нас на заводе (Москва, м.Тимирязевская) или на вашем объекте. Для этого свяжитесь с нами по почте office</span><span style=\"font-weight: 400;\">@am-tech.ru</span>\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+  "rendered": "<div class=\"boldgrid-section\">\n<div class=\"container\">\n<div class=\"row\">\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\n<p class=\"\"><span style=\"font-weight: 400;\">Подготовили большой видеообзор и статью о гибридном 3D-сканере 3DeVOK MT — устройстве, которое объединяет в одном корпусе три режима сканирования.</span></p>\n<div style=\"width: 1920px;\" class=\"wp-video\"><video class=\"wp-video-shortcode\" id=\"video-4107-1\" width=\"1920\" height=\"1080\" preload=\"metadata\" controls=\"controls\"><source type=\"video/mp4\" src=\"https://am-tech.ru/wp-content/uploads/2026/06/3devok_large_review_for_site_10.06_light.mp4?_=1\" /><a href=\"https://am-tech.ru/wp-content/uploads/2026/06/3devok_large_review_for_site_10.06_light.mp4\">https://am-tech.ru/wp-content/uploads/2026/06/3devok_large_review_for_site_10.06_light.mp4</a></video></div>\n<p class=\"\"><span style=\"font-weight: 400;\">В этом обзоре мы детально разберём технические особенности 3DeVOK MT, включая его характеристики и программное обеспечение, а также рассмотрим практические варианты его применения в промышленности, искусстве, образовании и других сферах.</span></p>\n<p class=\"\"><b>Сканер имеет следующие технические характеристики:</b></p>\n<ul class=\"\">\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Точность, мм, до: 0,04</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Объемная точность, мм: 0,04 + 0,035 × L</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Разрешение, мм, до: 0,05</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Скорость измерения 4 500 000 точек в секунду</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Вес сканера составляет всего 640 грамм</span></li>\n</ul>\n<p class=\"\"><span style=\"font-weight: 400;\">3D— сканер 3DeVOK MT внесен в </span><span style=\"font-weight: 400;\">в реестре средств измерений</span><span style=\"font-weight: 400;\"> РФ. </span><span style=\"font-weight: 400;\">Вес сканера составляет всего 640 г, а габариты — 215×73×53 мм . Для удобства управления на корпусе устройства расположен сенсорный экран: с его помощью можно запускать и останавливать сканирование, регулировать параметры и отслеживать статус системы без необходимости постоянно возвращаться к компьютеру</span><span style=\"font-weight: 400;\">&nbsp;</span></p>\n<h2 class=\"\"><b>Три источника света — три режима работы промышленного 3D-сканера</b></h2>\n<p class=\"\"><span style=\"font-weight: 400;\">Главная особенность 3DeVOK MT — </span><span style=\"font-weight: 400;\">это гибридная оптическая система с тремя независимыми источниками излучения</span><span style=\"font-weight: 400;\">&nbsp;</span></p>\n<h3 class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/06/img_9192.jpg\"><img loading=\"lazy\" decoding=\"async\" fetchpriority=\"high\" decoding=\"async\" class=\"alignnone size-full wp-image-4108\" src=\"https://am-tech.ru/wp-content/uploads/2026/06/img_9192.jpg\" alt=\"3D-сканер 3DeVOK MT: полный обзор гибридной системы для профессиональной 3D-оцифровки - Обратное проектирование и 3D-сканирование - AM-Tech\" width=\"1600\" height=\"1200\" srcset=\"https://am-tech.ru/wp-content/uploads/2026/06/img_9192.jpg 1600w, https://am-tech.ru/wp-content/uploads/2026/06/img_9192-300x225.jpg 300w, https://am-tech.ru/wp-content/uploads/2026/06/img_9192-1024x768.jpg 1024w, https://am-tech.ru/wp-content/uploads/2026/06/img_9192-768x576.jpg 768w, https://am-tech.ru/wp-content/uploads/2026/06/img_9192-1536x1152.jpg 1536w, https://am-tech.ru/wp-content/uploads/2026/06/img_9192-600x450.jpg 600w\" sizes=\"(max-width: 1600px) 100vw, 1600px\" /></a></h3>\n<h3 class=\"\"><b>1. Синий лазер (34 линии, 17 крестов)</b></h3>\n<p><span style=\"font-weight: 400;\">Этот режим предназначен для задач, требующих максимальной точности и детализации.</span></p>\n<ul class=\"\">\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Технические параметры: 34 синих лазерных линии образуют 17 перекрестий. Объемная точность </span><span style=\"font-weight: 400;\">0,04+0,035∗L</span><span style=\"font-weight: 400;\">, разрешение до 0.05 мм, скорость до 4.5 млн точек/сек .</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Особенности применения: 3D-сканер для обратного проектирования и контроля качества. Хорошо справляется с блестящими металлическими поверхностями (например, алюминий, нержавейка) и сложной геометрией.&nbsp;</span></li>\n</ul>\n<h3><b>2. Инфракрасный лазер (22 линии)</b></h3>\n<p><span style=\"font-weight: 400;\">Главное предназначение: сканирование крупногабаритных объектов .</span></p>\n<p><span style=\"font-weight: 400;\">Этот режим создан для работы с объектами, которые требуют большой области захвата и высокой скорости, но при этом не нуждаются в максимальной детализации, которую даёт синий лазер</span></p>\n<h3 class=\"\"><b>3. Инфракрасный структурированный свет (VCSEL)</b></h3>\n<p><span style=\"font-weight: 400;\">Источник излучения: инфракрасный структурированный свет VCSEL, белый</span></p>\n<ul class=\"\">\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Технические параметры: Белая структурированная подсветка VCSEL.&nbsp;</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Особенности применения: Оптимален для сканирования человеческого тела (поза, голова для шлема или ортеза) или цветных предметов (скульптуры и тд), 3D-модель в итоге будет также цветной. Работает без маркеров, распознавая геометрию поверхности.</span></li>\n</ul>\n<p><span style=\"font-weight: 400;\">Режим применяется для решения следующих задач:&nbsp;</span></p>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Ортопедия и протезирование (ортезы, корсеты, протезы)&nbsp;</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Эргономика (сиденья, спинки под конкретного человека)&nbsp;</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Медицина (послеоперационный контроль, оценка отёков)</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Искусство (</span><span style=\"font-weight: 400;\">оцифровка скульптур, барельефов, артефактов, экспонатов с сохранением цвета</span><span style=\"font-weight: 400;\">)</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Создание цифровых копий для реставрации и архивации</span><span style=\"font-weight: 400;\">&nbsp;</span></li>\n</ul>\n<h2 class=\"\"><b>Программное обеспечение 3DeVOK Studio: от скана к модели</b></h2>\n<p class=\"\"><span style=\"font-weight: 400;\">3DeVOK Studio — это ПО для 3D-сканеров 3DeVOK, обеспечивающее полный цикл работы от захвата данных до экспорта полигональной модели. Интерфейс интуитивно понятен, обучение не требует специальной подготовки.</span></p>\n<h3><b>Ключевые возможности</b></h3>\n<p class=\"\"><b>С чего начинается работа.</b><span style=\"font-weight: 400;\"> Перед сканированием программа автоматически проверяет конфигурацию ПК (процессор, видеокарту, драйверы, память) и подключение сканера. Ошибки подсвечиваются — вы сразу видите, что нужно исправить.</span></p>\n<p><b>Настройка сканирования.</b><span style=\"font-weight: 400;\"> Есть готовые шаблоны для типовых задач. Для опытных пользователей — ручная настройка, создание собственных пресетов, импорт/экспорт конфигураций.</span></p>\n<p class=\"\"><b>Процесс сканирования.</b><span style=\"font-weight: 400;\"> ПО поддерживает все три режима 3DeVOK MT. Алгоритмы выравнивают кадры по геометрии, текстуре и маркерам одновременно (по отдельности тоже можно) — это обеспечивает стабильное отслеживание даже на сложных поверхностях.</span></p>\n<p><b>Управление процессом.</b><span style=\"font-weight: 400;\"> Можно отменить неудачный кадр в реальном времени — не нужно перезапускать всё сканирование. Переключение между модулями (облако точек, сетка, текстура) происходит мгновенно с возможностью досъёма.</span></p>\n<p><b>Обработка данных</b></p>\n<ul class=\"\">\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Обрезка лишнего, удаление шума, устранение артефактов</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Сглаживание, заполнение отверстий, упрощение сетки и повышение резкости для улучшения качества модели&nbsp;</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Контроль текстуры в реальном времени через цветовую карту</span></li>\n</ul>\n<h3 class=\"\"><b>Интеграция с другими программами.</b></h3>\n<p><b> </b><span style=\"font-weight: 400;\">Данные легко экспортируются в DefinSight Model, Rhino, PolyWorks для обратного инжиниринга, построения чертежей и контроля качества.</span></p>\n<h2 class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/06/img_9189.jpg\"><img loading=\"lazy\" decoding=\"async\" decoding=\"async\" class=\"alignnone size-full wp-image-4109\" src=\"https://am-tech.ru/wp-content/uploads/2026/06/img_9189.jpg\" alt=\"3D-сканер 3DeVOK MT: полный обзор гибридной системы для профессиональной 3D-оцифровки - Обратное проектирование и 3D-сканирование - AM-Tech\" width=\"1600\" height=\"1200\" srcset=\"https://am-tech.ru/wp-content/uploads/2026/06/img_9189.jpg 1600w, https://am-tech.ru/wp-content/uploads/2026/06/img_9189-300x225.jpg 300w, https://am-tech.ru/wp-content/uploads/2026/06/img_9189-1024x768.jpg 1024w, https://am-tech.ru/wp-content/uploads/2026/06/img_9189-768x576.jpg 768w, https://am-tech.ru/wp-content/uploads/2026/06/img_9189-1536x1152.jpg 1536w, https://am-tech.ru/wp-content/uploads/2026/06/img_9189-600x450.jpg 600w\" sizes=\"(max-width: 1600px) 100vw, 1600px\" /></a></h2>\n<h2 class=\"\"><b>Итог по 3D-сканеру 3DeVOK MT</b></h2>\n<p><span style=\"font-weight: 400;\">3D-сканер 3DeVOK MT — это профессиональный гибридный инструмент, объединяющий три технологии в одном корпусе. Оборудование демонстрирует промышленную точность (до 0.04 мм) и высокую скорость (до 4.5 млн точек/сек) .</span></p>\n<p class=\"\"><span style=\"font-weight: 400;\">Основные преимущества модели:</span></p>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Три источника света — работа с любыми поверхностями: от мелких металлических деталей до крупногабаритных предметов и людей.</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Беспроводное сканирование без маркеров — экономия времени во всех режимах.</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Простота использования — интуитивное ПО 3DeVOK Studio и гибридные алгоритмы совмещения .</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Безопасность — ИК-режимы безопасны для глаз, что критично при сканировании людей .</span></li>\n</ul>\n<p><span style=\"font-weight: 400;\">3DeVOK MT закрывает практически все потребности в 3D-оцифровке: от контроля качества в аэрокосмической отрасли до создания цифровых двойников в креативных индустриях.</span></p>\n<p><span style=\"font-weight: 400;\">Вы можете заказать демонстрацию 3D-сканера у нас на заводе (Москва, м.Тимирязевская) или на вашем объекте. Для этого свяжитесь с нами по почте office</span><span style=\"font-weight: 400;\">@am-tech.ru</span></p>\n</div>\n</div>\n</div>\n</div>\n",
+  "protected": false,
+  "block_version": 0
+ },
+ "excerpt": {
+  "raw": "",
+  "rendered": "<p>Подготовили большой видеообзор и статью о гибридном 3D-сканере 3DeVOK MT — устройстве, которое объединяет в одном корпусе три режима сканирования. В этом обзоре мы детально разберём технические особенности 3DeVOK MT, включая его характеристики и программное обеспечение, а также рассмотрим практические варианты его применения в промышленности, искусстве, образовании и других сферах. Сканер имеет следующие технические характеристики: [&hellip;]</p>\n",
+  "protected": false
+ },
+ "author": 1,
+ "featured_media": 4108,
+ "comment_status": "open",
+ "ping_status": "closed",
+ "template": "",
+ "meta": {
+  "_acf_changed": false,
+  "_yoast_wpseo_title": "3D-сканер 3DeVOK MT: обзор гибридной системы 3D-оцифровки | AM-Tech",
+  "_yoast_wpseo_metadesc": "3DeVOK MT: синий лазер, ИК-лазер и VCSEL-подсветка в одном корпусе, точность до 0,04 мм без маркеров, в реестре средств измерений РФ. Обзор и характеристики.",
+  "_yoast_wpseo_meta-robots-noindex": ""
+ },
+ "news_category": [
+  971
+ ],
+ "news_tag": [],
+ "permalink_template": "https://am-tech.ru/news/%pagename%/",
+ "generated_slug": "3d-skaner-3devok-mt-polnyj-obzor-gibridnoj-sistemy-dlja-professionalnoj-3d-ocifrovki",
+ "class_list": [
+  "post-4107",
+  "news",
+  "type-news",
+  "status-publish",
+  "has-post-thumbnail",
+  "hentry",
+  "news_category-obratnoe-proektirovanie-i-3d-skanirovanie"
+ ],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>3D-сканер 3DeVOK MT: обзор гибридной системы 3D-оцифровки | AM-Tech</title>\n<meta name=\"description\" content=\"3DeVOK MT: синий лазер, ИК-лазер и VCSEL-подсветка в одном корпусе, точность до 0,04 мм без маркеров, в реестре средств измерений РФ. Обзор и характеристики.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/news/3d-skaner-3devok-mt-polnyj-obzor-gibridnoj-sistemy-dlja-professionalnoj-3d-ocifrovki/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"3D-сканер 3DeVOK MT: обзор гибридной системы 3D-оцифровки | AM-Tech\" />\n<meta property=\"og:description\" content=\"3DeVOK MT: синий лазер, ИК-лазер и VCSEL-подсветка в одном корпусе, точность до 0,04 мм без маркеров, в реестре средств измерений РФ. Обзор и характеристики.\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/news/3d-skaner-3devok-mt-polnyj-obzor-gibridnoj-sistemy-dlja-professionalnoj-3d-ocifrovki/\" />\n<meta property=\"og:site_name\" content=\"AM.TECH\" />\n<meta property=\"article:modified_time\" content=\"2026-10-14T14:08:59+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2026/06/img_9192.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1600\" />\n\t<meta property=\"og:image:height\" content=\"1200\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"5 минут\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/news/3d-skaner-3devok-mt-polnyj-obzor-gibridnoj-sistemy-dlja-professionalnoj-3d-ocifrovki/\",\"url\":\"https://am-tech.ru/news/3d-skaner-3devok-mt-polnyj-obzor-gibridnoj-sistemy-dlja-professionalnoj-3d-ocifrovki/\",\"name\":\"3D-сканер 3DeVOK MT: обзор гибридной системы 3D-оцифровки | AM-Tech\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/news/3d-skaner-3devok-mt-polnyj-obzor-gibridnoj-sistemy-dlja-professionalnoj-3d-ocifrovki/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/news/3d-skaner-3devok-mt-polnyj-obzor-gibridnoj-sistemy-dlja-professionalnoj-3d-ocifrovki/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2026/06/img_9192.jpg\",\"datePublished\":\"2026-06-26T10:08:10+00:00\",\"dateModified\":\"2026-10-14T14:08:59+00:00\",\"description\":\"3DeVOK MT: синий лазер, ИК-лазер и VCSEL-подсветка в одном корпусе, точность до 0,04 мм без маркеров, в реестре средств измерений РФ. Обзор и характеристики.\",\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/news/3d-skaner-3devok-mt-polnyj-obzor-gibridnoj-sistemy-dlja-professionalnoj-3d-ocifrovki/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/news/3d-skaner-3devok-mt-polnyj-obzor-gibridnoj-sistemy-dlja-professionalnoj-3d-ocifrovki/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2026/06/img_9192.jpg\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2026/06/img_9192.jpg\",\"width\":1600,\"height\":1200},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"AM.TECH\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"AM.TECH\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"AM.TECH\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "3D-сканер 3DeVOK MT: обзор гибридной системы 3D-оцифровки | AM-Tech",
+  "description": "3DeVOK MT: синий лазер, ИК-лазер и VCSEL-подсветка в одном корпусе, точность до 0,04 мм без маркеров, в реестре средств измерений РФ. Обзор и характеристики.",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/news/3d-skaner-3devok-mt-polnyj-obzor-gibridnoj-sistemy-dlja-professionalnoj-3d-ocifrovki/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "3D-сканер 3DeVOK MT: обзор гибридной системы 3D-оцифровки | AM-Tech",
+  "og_description": "3DeVOK MT: синий лазер, ИК-лазер и VCSEL-подсветка в одном корпусе, точность до 0,04 мм без маркеров, в реестре средств измерений РФ. Обзор и характеристики.",
+  "og_url": "https://am-tech.ru/news/3d-skaner-3devok-mt-polnyj-obzor-gibridnoj-sistemy-dlja-professionalnoj-3d-ocifrovki/",
+  "og_site_name": "AM.TECH",
+  "article_modified_time": "2026-10-14T14:08:59+00:00",
+  "og_image": [
+   {
+    "width": 1600,
+    "height": 1200,
+    "url": "https://am-tech.ru/wp-content/uploads/2026/06/img_9192.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "5 минут"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/news/3d-skaner-3devok-mt-polnyj-obzor-gibridnoj-sistemy-dlja-professionalnoj-3d-ocifrovki/",
+     "url": "https://am-tech.ru/news/3d-skaner-3devok-mt-polnyj-obzor-gibridnoj-sistemy-dlja-professionalnoj-3d-ocifrovki/",
+     "name": "3D-сканер 3DeVOK MT: обзор гибридной системы 3D-оцифровки | AM-Tech",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/news/3d-skaner-3devok-mt-polnyj-obzor-gibridnoj-sistemy-dlja-professionalnoj-3d-ocifrovki/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/news/3d-skaner-3devok-mt-polnyj-obzor-gibridnoj-sistemy-dlja-professionalnoj-3d-ocifrovki/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2026/06/img_9192.jpg",
+     "datePublished": "2026-06-26T10:08:10+00:00",
+     "dateModified": "2026-10-14T14:08:59+00:00",
+     "description": "3DeVOK MT: синий лазер, ИК-лазер и VCSEL-подсветка в одном корпусе, точность до 0,04 мм без маркеров, в реестре средств измерений РФ. Обзор и характеристики.",
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/news/3d-skaner-3devok-mt-polnyj-obzor-gibridnoj-sistemy-dlja-professionalnoj-3d-ocifrovki/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/news/3d-skaner-3devok-mt-polnyj-obzor-gibridnoj-sistemy-dlja-professionalnoj-3d-ocifrovki/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2026/06/img_9192.jpg",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2026/06/img_9192.jpg",
+     "width": 1600,
+     "height": 1200
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "AM.TECH",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "AM.TECH",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "AM.TECH"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/4107",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/types/news"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/users/1"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/comments?post=4107"
+   }
+  ],
+  "wp:featuredmedia": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/media/4108"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/media?parent=4107"
+   }
+  ],
+  "wp:term": [
+   {
+    "taxonomy": "news_category",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_category?post=4107"
+   },
+   {
+    "taxonomy": "news_tag",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_tag?post=4107"
+   }
+  ],
+  "wp:action-publish": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/4107"
+   }
+  ],
+  "wp:action-unfiltered-html": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/4107"
+   }
+  ],
+  "wp:action-assign-author": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/4107"
+   }
+  ],
+  "wp:action-create-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/4107"
+   }
+  ],
+  "wp:action-assign-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/4107"
+   }
+  ],
+  "wp:action-create-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/4107"
+   }
+  ],
+  "wp:action-assign-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/4107"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

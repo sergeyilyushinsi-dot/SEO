@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+# Сырые выгрузки краулинга и API — объёмные, пересобираются командами
+data/crawl/
+data/serp/

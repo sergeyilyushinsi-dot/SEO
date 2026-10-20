@@ -1,0 +1,23 @@
+[
+ {
+  "plan_task": 24,
+  "label": "Description (Yoast)",
+  "type": "news",
+  "slug": "am-tech-na-vystavke-metall-ekspo-2024",
+  "field": "description",
+  "value": "AM.TECH на выставке «Металл-Экспо 2024» в Экспоцентре: SLM-принтер AMT-16 и 3D-сканеры NimbleTrack C, SIMSCAN 30 и KSCAN MAGIC на стенде i3D.",
+  "before_text": "AM.TECH на выставке «Металл-Экспо 2024» - новости компании AM-Tech",
+  "after_text": "AM.TECH на выставке «Металл-Экспо 2024» в Экспоцентре: SLM-принтер AMT-16 и 3D-сканеры NimbleTrack C, SIMSCAN 30 и KSCAN MAGIC на стенде i3D.",
+  "comment": "Поля Yoast открыты (задача 41 выполнена 13.10.2026), пробный запуск прошёл. 141 симв., по тексту страницы",
+  "page_path": "/news/am-tech-na-vystavke-metall-ekspo-2024/",
+  "row": 151,
+  "id": 2134,
+  "url": "https://am-tech.ru/news/am-tech-na-vystavke-metall-ekspo-2024/",
+  "before": "AM.TECH на выставке «Металл-Экспо 2024» - новости компании AM-Tech",
+  "after": "AM.TECH на выставке «Металл-Экспо 2024» в Экспоцентре: SLM-принтер AMT-16 и 3D-сканеры NimbleTrack C, SIMSCAN 30 и KSCAN MAGIC на стенде i3D.",
+  "saved": true,
+  "on_page": true,
+  "on_cached_page": true,
+  "status": "применено"
+ }
+]

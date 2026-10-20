@@ -1,0 +1,290 @@
+{
+ "id": 4039,
+ "date": "2026-05-27T15:02:15",
+ "date_gmt": "2026-05-27T12:02:15",
+ "guid": {
+  "rendered": "https://am-tech.ru/?post_type=news&#038;p=4039",
+  "raw": "https://am-tech.ru/?post_type=news&#038;p=4039"
+ },
+ "modified": "2026-07-02T10:15:55",
+ "modified_gmt": "2026-07-02T07:15:55",
+ "password": "",
+ "slug": "kak-vybrat-promyshlennyj-3d-skaner-pod-zadachi-kontrolja-kachestva",
+ "status": "publish",
+ "type": "news",
+ "link": "https://am-tech.ru/news/kak-vybrat-promyshlennyj-3d-skaner-pod-zadachi-kontrolja-kachestva/",
+ "title": {
+  "raw": "Как выбрать промышленный 3D-сканер под задачи контроля качества",
+  "rendered": "Как выбрать промышленный 3D-сканер под задачи контроля качества"
+ },
+ "content": {
+  "raw": "<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n<p class=\"\">Еще несколько лет назад большинство производственных предприятий использовали классические методы контроля: штангенциркули, шаблоны, координатно-измерительные машины и ручные замеры. Такой подход остается рабочим для простой геометрии, но при переходе к сложным изделиям — особенно после внедрения аддитивного производства — его возможностей уже недостаточно.</p>\r\n<p class=\"\">Современные детали становятся легче, сложнее и технологичнее. Внутренние каналы охлаждения, облегченные решетчатые структуры, тонкие стенки и свободные формы практически невозможно быстро проверить традиционными средствами.</p>\r\n<p class=\"\">Именно поэтому промышленное 3D-сканирование становится не просто дополнительным инструментом, а частью цифрового контура контроля качества.</p>\r\nСегодня 3D-сканеры активно используются в авиастроении, энергетике, машиностроении, автомобильной промышленности и аддитивном производстве. Основная задача — быстро сравнить реальную деталь с CAD-моделью и выявить отклонения еще до сборки изделия.\r\n<h2>Главная ошибка при выборе 3D-сканера</h2>\r\nОдна из самых частых ошибок — выбор оборудования «по характеристикам из каталога».\r\n\r\nНа практике одинаковая заявленная точность не гарантирует одинаковый результат в производстве.\r\n\r\nНапример:\r\n<ul>\r\n \t<li>один сканер отлично работает по матовым пластиковым деталям;</li>\r\n \t<li>другой стабильно сканирует после мехобработки;</li>\r\n \t<li>третий рассчитан на крупногабаритные сварные конструкции.</li>\r\n</ul>\r\nПоэтому выбирать промышленный 3D-сканер необходимо не по цифрам в таблице, а исходя из конкретного производственного сценария.\r\n<h2>Какие задачи чаще всего решает 3D-сканирование</h2>\r\n<h3>Контроль геометрии после производства</h3>\r\nСамый распространенный сценарий — инспекция готовой детали.\r\n\r\nСканер создает цифровую копию изделия, после чего ПО автоматически сравнивает ее с CAD-моделью и формирует карту отклонений.\r\n\r\nЭто особенно эффективно для:\r\n<ul class=\"\">\r\n \t<li>литых деталей;</li>\r\n \t<li>изделий после мехобработки;</li>\r\n \t<li>сварных конструкций;</li>\r\n \t<li>SLM-компонентов;</li>\r\n \t<li>пресс-форм;</li>\r\n \t<li>оснастки.</li>\r\n</ul>\r\n<a href=\"https://am-tech.ru/wp-content/uploads/2026/05/skan-kovshaa.jpg\">\r\n<img class=\"alignnone wp-image-4040\" src=\"https://am-tech.ru/wp-content/uploads/2026/05/skan-kovshaa.jpg\" alt=\"3D-сканирование крупной промышленной детали и контроль геометрии\" width=\"531\" height=\"425\">\r\n</a>\r\n\r\nСовременные системы позволяют находить коробление, смещение отверстий, локальные деформации и отклонения сложной поверхности за считанные минуты.\r\n<h3>Контроль деталей после SLM-печати</h3>\r\nАддитивное производство стало одним из драйверов развития промышленного сканирования.\r\n\r\nПосле SLM-печати геометрия детали может изменяться из-за:\r\n<ul>\r\n \t<li>остаточных напряжений;</li>\r\n \t<li>усадки;</li>\r\n \t<li>перегрева;</li>\r\n \t<li>неправильной ориентации модели;</li>\r\n \t<li>недостаточного количества поддержек.</li>\r\n</ul>\r\nДаже небольшое отклонение иногда делает изделие непригодным для сборки.\r\n\r\nВ производстве это выглядит так:\r\n\r\nинженер получает деталь после печати → выполняет 3D-сканирование → автоматически сравнивает результат с CAD → получает цветовую карту отклонений → принимает решение по постобработке или корректировке параметров печати.\r\n\r\n<a href=\"https://am-tech.ru/wp-content/uploads/2026/05/karta-otklonenij.jpg\">\r\n<img class=\"alignnone wp-image-4041\" src=\"https://am-tech.ru/wp-content/uploads/2026/05/karta-otklonenij.jpg\" alt=\"Карта отклонений детали после 3D-сканирования и сравнения с CAD-моделью\" width=\"746\" height=\"746\">\r\n</a>\r\n\r\nТакой подход значительно быстрее классической метрологии и особенно эффективен при сложной геометрии.\r\n<h2>Реальный кейс: как 3D-сканирование сократило время контроля</h2>\r\nВ одном из кейсов промышленного машиностроения, описанном в отраслевых материалах по 3D-контролю, предприятие столкнулось с проблемой проверки сложной сварной конструкции.\r\n\r\nКлассический контроль занимал несколько часов:\r\n<ul>\r\n \t<li>ручные замеры;</li>\r\n \t<li>контроль шаблонами;</li>\r\n \t<li>повторная проверка после сварки;</li>\r\n \t<li>дополнительная подгонка.</li>\r\n</ul>\r\nПосле внедрения 3D-сканирования процесс изменился:\r\n<ul>\r\n \t<li>конструкция сканировалась целиком;</li>\r\n \t<li>ПО автоматически выявляло деформации;</li>\r\n \t<li>инженер видел карту отклонений относительно CAD;</li>\r\n \t<li>время контроля сократилось в несколько раз.</li>\r\n</ul>\r\n<a href=\"https://am-tech.ru/wp-content/uploads/2026/05/kontrol.jpg\">\r\n<img class=\"alignnone wp-image-4043\" src=\"https://am-tech.ru/wp-content/uploads/2026/05/kontrol.jpg\" alt=\"3D-контроль сварной конструкции и выявление локального коробления\" width=\"620\" height=\"349\">\r\n</a>\r\n\r\nОсобенно важным оказалось обнаружение локального коробления еще до этапа сборки.\r\n<h2>Какие параметры действительно важны</h2>\r\n<h3>Точность</h3>\r\nДля метрологических задач важна не только абсолютная точность, но и повторяемость измерений.\r\n\r\nЕсли предприятие работает с:\r\n<ul>\r\n \t<li>авиационными компонентами;</li>\r\n \t<li>турбинными лопатками;</li>\r\n \t<li>пресс-формами;</li>\r\n \t<li>медицинскими изделиями,</li>\r\n</ul>\r\nто даже отклонения в несколько сотых миллиметра могут быть критичны.\r\n\r\nДля большинства промышленных задач используются системы с точностью 0,02–0,05 мм.\r\n<h3>Скорость сканирования</h3>\r\nПри единичном производстве скорость может быть второстепенной.\r\n\r\nНо в серийном производстве это напрямую влияет на экономику.\r\n\r\nНапример:\r\n\r\nесли контроль одной детали занимает 40 минут вместо 5, предприятие быстро сталкивается с узким местом в производстве.\r\n\r\nСовременные системы способны фиксировать миллионы точек в секунду, что позволяет выполнять полный контроль крупной детали за несколько минут.\r\n<h3>Работа с поверхностями</h3>\r\nЭто один из самых недооцененных параметров.\r\n\r\nМеталлические детали после мехобработки, полированные поверхности или изделия после SLM-печати часто создают проблемы для дешевых сканеров.\r\n\r\nХорошая промышленная система должна стабильно работать по:\r\n<ul>\r\n \t<li>темным поверхностям;</li>\r\n \t<li>отражающим металлам;</li>\r\n \t<li>сложной геометрии;</li>\r\n \t<li>ребристым структурам;</li>\r\n \t<li>сварным соединениям.</li>\r\n</ul>\r\n<h3>ПО и сравнение с CAD</h3>\r\nНа практике ценность дает не сам сканер, а связка:\r\n\r\n3D-сканер + программное обеспечение + автоматизация анализа.\r\n\r\nСовременное ПО позволяет:\r\n<ul>\r\n \t<li>автоматически сравнивать с CAD;</li>\r\n \t<li>строить карты отклонений;</li>\r\n \t<li>выполнять GD&amp;T-анализ;</li>\r\n \t<li>создавать отчеты;</li>\r\n \t<li>экспортировать результаты в PLM и ERP.</li>\r\n</ul>\r\nСегодня это уже обязательный стандарт промышленного контроля.\r\n<h2>Когда 3D-сканирование особенно выгодно</h2>\r\nНаиболее заметный эффект предприятия получают в четырех случаях:\r\n<h3>1. Сложная геометрия</h3>\r\nЧем сложнее форма детали, тем выше эффективность 3D-контроля.\r\n\r\nЭталонные данные модели:\r\n<p class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/05/jetalon-chashechki1.png\">\r\n<img class=\"alignnone size-full wp-image-4044\" src=\"https://am-tech.ru/wp-content/uploads/2026/05/jetalon-chashechki1.png\" alt=\"Эталонная CAD-модель детали для промышленного 3D-контроля\" width=\"678\" height=\"459\">\r\n</a>\r\n<a href=\"https://am-tech.ru/wp-content/uploads/2026/05/jetalon-chashechki2.png\">\r\n<img class=\"alignnone size-full wp-image-4045\" src=\"https://am-tech.ru/wp-content/uploads/2026/05/jetalon-chashechki2.png\" alt=\"Эталонные данные модели для сравнения с результатами 3D-сканирования\" width=\"627\" height=\"503\">\r\n</a></p>\r\nДанные полученные с напечатанной модели\r\n<p class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/05/skan-chashechki1.jpg\">\r\n<img class=\"alignnone size-full wp-image-4047\" src=\"https://am-tech.ru/wp-content/uploads/2026/05/skan-chashechki1.jpg\" alt=\"Данные 3D-сканирования напечатанной модели\" width=\"626\" height=\"387\">\r\n</a>\r\n<a href=\"https://am-tech.ru/wp-content/uploads/2026/05/skan-chashechki2.jpg\">\r\n<img class=\"alignnone size-full wp-image-4046\" src=\"https://am-tech.ru/wp-content/uploads/2026/05/skan-chashechki2.jpg\" alt=\"Результат 3D-сканирования детали со сложной геометрией\" width=\"617\" height=\"441\">\r\n</a></p>\r\n\r\n<h3>2. Крупногабаритные изделия</h3>\r\nКонтроль рам, корпусов, сварных конструкций и литых элементов значительно ускоряется.\r\n<h3>3. Аддитивное производство</h3>\r\nSLM-печать практически всегда требует цифрового контроля.\r\n<h3>4. Серийное производство</h3>\r\nСнижается человеческий фактор и ускоряется инспекция.\r\n<p class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/05/skan-detali.jpg\">\r\n<img class=\"alignnone wp-image-4048\" src=\"https://am-tech.ru/wp-content/uploads/2026/05/skan-detali.jpg\" alt=\"Промышленное 3D-сканирование детали со сложной геометрией\" width=\"696\" height=\"464\">\r\n</a></p>\r\n\r\n<h2>Что важно предусмотреть до покупки</h2>\r\nПеред внедрением важно ответить на несколько вопросов:\r\n<ul>\r\n \t<li>Какие детали будут проверяться чаще всего?</li>\r\n \t<li>Какие допуски действительно критичны?</li>\r\n \t<li>Нужен ли мобильный контроль?</li>\r\n \t<li>Планируется ли роботизация?</li>\r\n \t<li>Требуется ли интеграция с CAD/CAM?</li>\r\n</ul>\r\nОчень часто предприятия покупают «максимально универсальный» сканер, но позже оказывается, что половина функций не используется, а ключевых возможностей для производства не хватает.\r\n<h2>Итоги</h2>\r\n<a href=\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/\">Промышленный 3D-сканер</a> сегодня — это не просто оборудование для измерений, а инструмент цифрового контроля качества.\r\n\r\nПри правильном внедрении предприятие получает:\r\n<ul>\r\n \t<li>сокращение времени инспекции;</li>\r\n \t<li>снижение брака;</li>\r\n \t<li>ускорение запуска изделий;</li>\r\n \t<li>уменьшение количества переделок;</li>\r\n \t<li>повышение стабильности производства.</li>\r\n</ul>\r\nОсобенно заметен эффект в аддитивном производстве, где классические методы контроля уже не справляются со сложной геометрией современных деталей.\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+  "rendered": "<div class=\"boldgrid-section\">\n<div class=\"container\">\n<div class=\"row\">\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\n<p class=\"\">Еще несколько лет назад большинство производственных предприятий использовали классические методы контроля: штангенциркули, шаблоны, координатно-измерительные машины и ручные замеры. Такой подход остается рабочим для простой геометрии, но при переходе к сложным изделиям — особенно после внедрения аддитивного производства — его возможностей уже недостаточно.</p>\n<p class=\"\">Современные детали становятся легче, сложнее и технологичнее. Внутренние каналы охлаждения, облегченные решетчатые структуры, тонкие стенки и свободные формы практически невозможно быстро проверить традиционными средствами.</p>\n<p class=\"\">Именно поэтому промышленное 3D-сканирование становится не просто дополнительным инструментом, а частью цифрового контура контроля качества.</p>\n<p>Сегодня 3D-сканеры активно используются в авиастроении, энергетике, машиностроении, автомобильной промышленности и аддитивном производстве. Основная задача — быстро сравнить реальную деталь с CAD-моделью и выявить отклонения еще до сборки изделия.</p>\n<h2>Главная ошибка при выборе 3D-сканера</h2>\n<p>Одна из самых частых ошибок — выбор оборудования «по характеристикам из каталога».</p>\n<p>На практике одинаковая заявленная точность не гарантирует одинаковый результат в производстве.</p>\n<p>Например:</p>\n<ul>\n<li>один сканер отлично работает по матовым пластиковым деталям;</li>\n<li>другой стабильно сканирует после мехобработки;</li>\n<li>третий рассчитан на крупногабаритные сварные конструкции.</li>\n</ul>\n<p>Поэтому выбирать промышленный 3D-сканер необходимо не по цифрам в таблице, а исходя из конкретного производственного сценария.</p>\n<h2>Какие задачи чаще всего решает 3D-сканирование</h2>\n<h3>Контроль геометрии после производства</h3>\n<p>Самый распространенный сценарий — инспекция готовой детали.</p>\n<p>Сканер создает цифровую копию изделия, после чего ПО автоматически сравнивает ее с CAD-моделью и формирует карту отклонений.</p>\n<p>Это особенно эффективно для:</p>\n<ul class=\"\">\n<li>литых деталей;</li>\n<li>изделий после мехобработки;</li>\n<li>сварных конструкций;</li>\n<li>SLM-компонентов;</li>\n<li>пресс-форм;</li>\n<li>оснастки.</li>\n</ul>\n<p><a href=\"https://am-tech.ru/wp-content/uploads/2026/05/skan-kovshaa.jpg\"><br />\n<img loading=\"lazy\" decoding=\"async\" fetchpriority=\"high\" decoding=\"async\" class=\"alignnone wp-image-4040\" src=\"https://am-tech.ru/wp-content/uploads/2026/05/skan-kovshaa.jpg\" alt=\"3D-сканирование крупной промышленной детали и контроль геометрии\" width=\"531\" height=\"425\" srcset=\"https://am-tech.ru/wp-content/uploads/2026/05/skan-kovshaa.jpg 1402w, https://am-tech.ru/wp-content/uploads/2026/05/skan-kovshaa-300x240.jpg 300w, https://am-tech.ru/wp-content/uploads/2026/05/skan-kovshaa-1024x819.jpg 1024w, https://am-tech.ru/wp-content/uploads/2026/05/skan-kovshaa-768x615.jpg 768w, https://am-tech.ru/wp-content/uploads/2026/05/skan-kovshaa-600x480.jpg 600w\" sizes=\"(max-width: 531px) 100vw, 531px\" /><br />\n</a></p>\n<p>Современные системы позволяют находить коробление, смещение отверстий, локальные деформации и отклонения сложной поверхности за считанные минуты.</p>\n<h3>Контроль деталей после SLM-печати</h3>\n<p>Аддитивное производство стало одним из драйверов развития промышленного сканирования.</p>\n<p>После SLM-печати геометрия детали может изменяться из-за:</p>\n<ul>\n<li>остаточных напряжений;</li>\n<li>усадки;</li>\n<li>перегрева;</li>\n<li>неправильной ориентации модели;</li>\n<li>недостаточного количества поддержек.</li>\n</ul>\n<p>Даже небольшое отклонение иногда делает изделие непригодным для сборки.</p>\n<p>В производстве это выглядит так:</p>\n<p>инженер получает деталь после печати → выполняет 3D-сканирование → автоматически сравнивает результат с CAD → получает цветовую карту отклонений → принимает решение по постобработке или корректировке параметров печати.</p>\n<p><a href=\"https://am-tech.ru/wp-content/uploads/2026/05/karta-otklonenij.jpg\"><br />\n<img loading=\"lazy\" decoding=\"async\" decoding=\"async\" class=\"alignnone wp-image-4041\" src=\"https://am-tech.ru/wp-content/uploads/2026/05/karta-otklonenij.jpg\" alt=\"Карта отклонений детали после 3D-сканирования и сравнения с CAD-моделью\" width=\"746\" height=\"746\" srcset=\"https://am-tech.ru/wp-content/uploads/2026/05/karta-otklonenij.jpg 1254w, https://am-tech.ru/wp-content/uploads/2026/05/karta-otklonenij-300x300.jpg 300w, https://am-tech.ru/wp-content/uploads/2026/05/karta-otklonenij-1024x1024.jpg 1024w, https://am-tech.ru/wp-content/uploads/2026/05/karta-otklonenij-150x150.jpg 150w, https://am-tech.ru/wp-content/uploads/2026/05/karta-otklonenij-768x768.jpg 768w, https://am-tech.ru/wp-content/uploads/2026/05/karta-otklonenij-600x600.jpg 600w, https://am-tech.ru/wp-content/uploads/2026/05/karta-otklonenij-100x100.jpg 100w\" sizes=\"(max-width: 746px) 100vw, 746px\" /><br />\n</a></p>\n<p>Такой подход значительно быстрее классической метрологии и особенно эффективен при сложной геометрии.</p>\n<h2>Реальный кейс: как 3D-сканирование сократило время контроля</h2>\n<p>В одном из кейсов промышленного машиностроения, описанном в отраслевых материалах по 3D-контролю, предприятие столкнулось с проблемой проверки сложной сварной конструкции.</p>\n<p>Классический контроль занимал несколько часов:</p>\n<ul>\n<li>ручные замеры;</li>\n<li>контроль шаблонами;</li>\n<li>повторная проверка после сварки;</li>\n<li>дополнительная подгонка.</li>\n</ul>\n<p>После внедрения 3D-сканирования процесс изменился:</p>\n<ul>\n<li>конструкция сканировалась целиком;</li>\n<li>ПО автоматически выявляло деформации;</li>\n<li>инженер видел карту отклонений относительно CAD;</li>\n<li>время контроля сократилось в несколько раз.</li>\n</ul>\n<p><a href=\"https://am-tech.ru/wp-content/uploads/2026/05/kontrol.jpg\"><br />\n<img loading=\"lazy\" decoding=\"async\" decoding=\"async\" class=\"alignnone wp-image-4043\" src=\"https://am-tech.ru/wp-content/uploads/2026/05/kontrol.jpg\" alt=\"3D-контроль сварной конструкции и выявление локального коробления\" width=\"620\" height=\"349\" srcset=\"https://am-tech.ru/wp-content/uploads/2026/05/kontrol.jpg 1672w, https://am-tech.ru/wp-content/uploads/2026/05/kontrol-300x169.jpg 300w, https://am-tech.ru/wp-content/uploads/2026/05/kontrol-1024x576.jpg 1024w, https://am-tech.ru/wp-content/uploads/2026/05/kontrol-768x432.jpg 768w, https://am-tech.ru/wp-content/uploads/2026/05/kontrol-1536x864.jpg 1536w, https://am-tech.ru/wp-content/uploads/2026/05/kontrol-800x450.jpg 800w, https://am-tech.ru/wp-content/uploads/2026/05/kontrol-600x338.jpg 600w\" sizes=\"(max-width: 620px) 100vw, 620px\" /><br />\n</a></p>\n<p>Особенно важным оказалось обнаружение локального коробления еще до этапа сборки.</p>\n<h2>Какие параметры действительно важны</h2>\n<h3>Точность</h3>\n<p>Для метрологических задач важна не только абсолютная точность, но и повторяемость измерений.</p>\n<p>Если предприятие работает с:</p>\n<ul>\n<li>авиационными компонентами;</li>\n<li>турбинными лопатками;</li>\n<li>пресс-формами;</li>\n<li>медицинскими изделиями,</li>\n</ul>\n<p>то даже отклонения в несколько сотых миллиметра могут быть критичны.</p>\n<p>Для большинства промышленных задач используются системы с точностью 0,02–0,05 мм.</p>\n<h3>Скорость сканирования</h3>\n<p>При единичном производстве скорость может быть второстепенной.</p>\n<p>Но в серийном производстве это напрямую влияет на экономику.</p>\n<p>Например:</p>\n<p>если контроль одной детали занимает 40 минут вместо 5, предприятие быстро сталкивается с узким местом в производстве.</p>\n<p>Современные системы способны фиксировать миллионы точек в секунду, что позволяет выполнять полный контроль крупной детали за несколько минут.</p>\n<h3>Работа с поверхностями</h3>\n<p>Это один из самых недооцененных параметров.</p>\n<p>Металлические детали после мехобработки, полированные поверхности или изделия после SLM-печати часто создают проблемы для дешевых сканеров.</p>\n<p>Хорошая промышленная система должна стабильно работать по:</p>\n<ul>\n<li>темным поверхностям;</li>\n<li>отражающим металлам;</li>\n<li>сложной геометрии;</li>\n<li>ребристым структурам;</li>\n<li>сварным соединениям.</li>\n</ul>\n<h3>ПО и сравнение с CAD</h3>\n<p>На практике ценность дает не сам сканер, а связка:</p>\n<p>3D-сканер + программное обеспечение + автоматизация анализа.</p>\n<p>Современное ПО позволяет:</p>\n<ul>\n<li>автоматически сравнивать с CAD;</li>\n<li>строить карты отклонений;</li>\n<li>выполнять GD&amp;T-анализ;</li>\n<li>создавать отчеты;</li>\n<li>экспортировать результаты в PLM и ERP.</li>\n</ul>\n<p>Сегодня это уже обязательный стандарт промышленного контроля.</p>\n<h2>Когда 3D-сканирование особенно выгодно</h2>\n<p>Наиболее заметный эффект предприятия получают в четырех случаях:</p>\n<h3>1. Сложная геометрия</h3>\n<p>Чем сложнее форма детали, тем выше эффективность 3D-контроля.</p>\n<p>Эталонные данные модели:</p>\n<p class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/05/jetalon-chashechki1.png\"><br />\n<img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-full wp-image-4044\" src=\"https://am-tech.ru/wp-content/uploads/2026/05/jetalon-chashechki1.png\" alt=\"Эталонная CAD-модель детали для промышленного 3D-контроля\" width=\"678\" height=\"459\" srcset=\"https://am-tech.ru/wp-content/uploads/2026/05/jetalon-chashechki1.png 678w, https://am-tech.ru/wp-content/uploads/2026/05/jetalon-chashechki1-300x203.png 300w, https://am-tech.ru/wp-content/uploads/2026/05/jetalon-chashechki1-600x406.png 600w\" sizes=\"(max-width: 678px) 100vw, 678px\" /><br />\n</a><br />\n<a href=\"https://am-tech.ru/wp-content/uploads/2026/05/jetalon-chashechki2.png\"><br />\n<img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-full wp-image-4045\" src=\"https://am-tech.ru/wp-content/uploads/2026/05/jetalon-chashechki2.png\" alt=\"Эталонные данные модели для сравнения с результатами 3D-сканирования\" width=\"627\" height=\"503\" srcset=\"https://am-tech.ru/wp-content/uploads/2026/05/jetalon-chashechki2.png 627w, https://am-tech.ru/wp-content/uploads/2026/05/jetalon-chashechki2-300x241.png 300w, https://am-tech.ru/wp-content/uploads/2026/05/jetalon-chashechki2-600x481.png 600w\" sizes=\"(max-width: 627px) 100vw, 627px\" /><br />\n</a></p>\n<p>Данные полученные с напечатанной модели</p>\n<p class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/05/skan-chashechki1.jpg\"><br />\n<img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-full wp-image-4047\" src=\"https://am-tech.ru/wp-content/uploads/2026/05/skan-chashechki1.jpg\" alt=\"Данные 3D-сканирования напечатанной модели\" width=\"626\" height=\"387\" srcset=\"https://am-tech.ru/wp-content/uploads/2026/05/skan-chashechki1.jpg 626w, https://am-tech.ru/wp-content/uploads/2026/05/skan-chashechki1-300x185.jpg 300w, https://am-tech.ru/wp-content/uploads/2026/05/skan-chashechki1-600x371.jpg 600w\" sizes=\"(max-width: 626px) 100vw, 626px\" /><br />\n</a><br />\n<a href=\"https://am-tech.ru/wp-content/uploads/2026/05/skan-chashechki2.jpg\"><br />\n<img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-full wp-image-4046\" src=\"https://am-tech.ru/wp-content/uploads/2026/05/skan-chashechki2.jpg\" alt=\"Результат 3D-сканирования детали со сложной геометрией\" width=\"617\" height=\"441\" srcset=\"https://am-tech.ru/wp-content/uploads/2026/05/skan-chashechki2.jpg 617w, https://am-tech.ru/wp-content/uploads/2026/05/skan-chashechki2-300x214.jpg 300w, https://am-tech.ru/wp-content/uploads/2026/05/skan-chashechki2-600x429.jpg 600w\" sizes=\"(max-width: 617px) 100vw, 617px\" /><br />\n</a></p>\n<h3>2. Крупногабаритные изделия</h3>\n<p>Контроль рам, корпусов, сварных конструкций и литых элементов значительно ускоряется.</p>\n<h3>3. Аддитивное производство</h3>\n<p>SLM-печать практически всегда требует цифрового контроля.</p>\n<h3>4. Серийное производство</h3>\n<p>Снижается человеческий фактор и ускоряется инспекция.</p>\n<p class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/05/skan-detali.jpg\"><br />\n<img loading=\"lazy\" decoding=\"async\" class=\"alignnone wp-image-4048\" src=\"https://am-tech.ru/wp-content/uploads/2026/05/skan-detali.jpg\" alt=\"Промышленное 3D-сканирование детали со сложной геометрией\" width=\"696\" height=\"464\" srcset=\"https://am-tech.ru/wp-content/uploads/2026/05/skan-detali.jpg 1536w, https://am-tech.ru/wp-content/uploads/2026/05/skan-detali-300x200.jpg 300w, https://am-tech.ru/wp-content/uploads/2026/05/skan-detali-1024x683.jpg 1024w, https://am-tech.ru/wp-content/uploads/2026/05/skan-detali-768x512.jpg 768w, https://am-tech.ru/wp-content/uploads/2026/05/skan-detali-600x400.jpg 600w\" sizes=\"(max-width: 696px) 100vw, 696px\" /><br />\n</a></p>\n<h2>Что важно предусмотреть до покупки</h2>\n<p>Перед внедрением важно ответить на несколько вопросов:</p>\n<ul>\n<li>Какие детали будут проверяться чаще всего?</li>\n<li>Какие допуски действительно критичны?</li>\n<li>Нужен ли мобильный контроль?</li>\n<li>Планируется ли роботизация?</li>\n<li>Требуется ли интеграция с CAD/CAM?</li>\n</ul>\n<p>Очень часто предприятия покупают «максимально универсальный» сканер, но позже оказывается, что половина функций не используется, а ключевых возможностей для производства не хватает.</p>\n<h2>Итоги</h2>\n<p><a href=\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/\">Промышленный 3D-сканер</a> сегодня — это не просто оборудование для измерений, а инструмент цифрового контроля качества.</p>\n<p>При правильном внедрении предприятие получает:</p>\n<ul>\n<li>сокращение времени инспекции;</li>\n<li>снижение брака;</li>\n<li>ускорение запуска изделий;</li>\n<li>уменьшение количества переделок;</li>\n<li>повышение стабильности производства.</li>\n</ul>\n<p>Особенно заметен эффект в аддитивном производстве, где классические методы контроля уже не справляются со сложной геометрией современных деталей.</p>\n</div>\n</div>\n</div>\n</div>\n",
+  "protected": false,
+  "block_version": 0
+ },
+ "excerpt": {
+  "raw": "",
+  "rendered": "<p>Еще несколько лет назад большинство производственных предприятий использовали классические методы контроля: штангенциркули, шаблоны, координатно-измерительные машины и ручные замеры. Такой подход остается рабочим для простой геометрии, но при переходе к сложным изделиям — особенно после внедрения аддитивного производства — его возможностей уже недостаточно. Современные детали становятся легче, сложнее и технологичнее. Внутренние каналы охлаждения, облегченные решетчатые структуры, [&hellip;]</p>\n",
+  "protected": false
+ },
+ "author": 1,
+ "featured_media": 4050,
+ "comment_status": "open",
+ "ping_status": "closed",
+ "template": "",
+ "meta": {
+  "_acf_changed": false,
+  "_yoast_wpseo_title": "",
+  "_yoast_wpseo_metadesc": "Промышленный 3D-сканер помогает сократить время контроля, выявлять деформации и сравнивать детали с CAD-моделью. Разбираем, как выбрать систему для производства.",
+  "_yoast_wpseo_meta-robots-noindex": ""
+ },
+ "news_category": [
+  1107,
+  970,
+  971
+ ],
+ "news_tag": [
+  1242,
+  1254,
+  1232,
+  1220
+ ],
+ "permalink_template": "https://am-tech.ru/news/%pagename%/",
+ "generated_slug": "kak-vybrat-promyshlennyj-3d-skaner-pod-zadachi-kontrolja-kachestva",
+ "class_list": [
+  "post-4039",
+  "news",
+  "type-news",
+  "status-publish",
+  "has-post-thumbnail",
+  "hentry",
+  "news_category-3d-pechat-metallami",
+  "news_category-novosti",
+  "news_category-obratnoe-proektirovanie-i-3d-skanirovanie",
+  "news_tag-3d-skanery-am-tech",
+  "news_tag-demonstracii-oborudovanija",
+  "news_tag-industrija-additivnyh-tehnologij",
+  "news_tag-slm"
+ ],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Как выбрать промышленный 3D-сканер под задачи контроля качества - am-tech.ru</title>\n<meta name=\"description\" content=\"Промышленный 3D-сканер помогает сократить время контроля, выявлять деформации и сравнивать детали с CAD-моделью. Разбираем, как выбрать систему для производства.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/news/kak-vybrat-promyshlennyj-3d-skaner-pod-zadachi-kontrolja-kachestva/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Как выбрать промышленный 3D-сканер под задачи контроля качества - am-tech.ru\" />\n<meta property=\"og:description\" content=\"Промышленный 3D-сканер помогает сократить время контроля, выявлять деформации и сравнивать детали с CAD-моделью. Разбираем, как выбрать систему для производства.\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/news/kak-vybrat-promyshlennyj-3d-skaner-pod-zadachi-kontrolja-kachestva/\" />\n<meta property=\"og:site_name\" content=\"am-tech.ru\" />\n<meta property=\"article:modified_time\" content=\"2026-07-02T07:15:55+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2026/05/promyshlennoe-3d-skanirovae.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1672\" />\n\t<meta property=\"og:image:height\" content=\"941\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"6 минут\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/news/kak-vybrat-promyshlennyj-3d-skaner-pod-zadachi-kontrolja-kachestva/\",\"url\":\"https://am-tech.ru/news/kak-vybrat-promyshlennyj-3d-skaner-pod-zadachi-kontrolja-kachestva/\",\"name\":\"Как выбрать промышленный 3D-сканер под задачи контроля качества - am-tech.ru\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/news/kak-vybrat-promyshlennyj-3d-skaner-pod-zadachi-kontrolja-kachestva/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/news/kak-vybrat-promyshlennyj-3d-skaner-pod-zadachi-kontrolja-kachestva/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2026/05/promyshlennoe-3d-skanirovae.jpg\",\"datePublished\":\"2026-05-27T12:02:15+00:00\",\"dateModified\":\"2026-07-02T07:15:55+00:00\",\"description\":\"Промышленный 3D-сканер помогает сократить время контроля, выявлять деформации и сравнивать детали с CAD-моделью. Разбираем, как выбрать систему для производства.\",\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/news/kak-vybrat-promyshlennyj-3d-skaner-pod-zadachi-kontrolja-kachestva/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/news/kak-vybrat-promyshlennyj-3d-skaner-pod-zadachi-kontrolja-kachestva/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2026/05/promyshlennoe-3d-skanirovae.jpg\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2026/05/promyshlennoe-3d-skanirovae.jpg\",\"width\":1672,\"height\":941},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"am-tech.ru\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"am-tech.ru\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"am-tech.ru\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "Как выбрать промышленный 3D-сканер под задачи контроля качества - am-tech.ru",
+  "description": "Промышленный 3D-сканер помогает сократить время контроля, выявлять деформации и сравнивать детали с CAD-моделью. Разбираем, как выбрать систему для производства.",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/news/kak-vybrat-promyshlennyj-3d-skaner-pod-zadachi-kontrolja-kachestva/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "Как выбрать промышленный 3D-сканер под задачи контроля качества - am-tech.ru",
+  "og_description": "Промышленный 3D-сканер помогает сократить время контроля, выявлять деформации и сравнивать детали с CAD-моделью. Разбираем, как выбрать систему для производства.",
+  "og_url": "https://am-tech.ru/news/kak-vybrat-promyshlennyj-3d-skaner-pod-zadachi-kontrolja-kachestva/",
+  "og_site_name": "am-tech.ru",
+  "article_modified_time": "2026-07-02T07:15:55+00:00",
+  "og_image": [
+   {
+    "width": 1672,
+    "height": 941,
+    "url": "https://am-tech.ru/wp-content/uploads/2026/05/promyshlennoe-3d-skanirovae.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "6 минут"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/news/kak-vybrat-promyshlennyj-3d-skaner-pod-zadachi-kontrolja-kachestva/",
+     "url": "https://am-tech.ru/news/kak-vybrat-promyshlennyj-3d-skaner-pod-zadachi-kontrolja-kachestva/",
+     "name": "Как выбрать промышленный 3D-сканер под задачи контроля качества - am-tech.ru",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/news/kak-vybrat-promyshlennyj-3d-skaner-pod-zadachi-kontrolja-kachestva/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/news/kak-vybrat-promyshlennyj-3d-skaner-pod-zadachi-kontrolja-kachestva/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2026/05/promyshlennoe-3d-skanirovae.jpg",
+     "datePublished": "2026-05-27T12:02:15+00:00",
+     "dateModified": "2026-07-02T07:15:55+00:00",
+     "description": "Промышленный 3D-сканер помогает сократить время контроля, выявлять деформации и сравнивать детали с CAD-моделью. Разбираем, как выбрать систему для производства.",
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/news/kak-vybrat-promyshlennyj-3d-skaner-pod-zadachi-kontrolja-kachestva/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/news/kak-vybrat-promyshlennyj-3d-skaner-pod-zadachi-kontrolja-kachestva/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2026/05/promyshlennoe-3d-skanirovae.jpg",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2026/05/promyshlennoe-3d-skanirovae.jpg",
+     "width": 1672,
+     "height": 941
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "am-tech.ru",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "am-tech.ru",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "am-tech.ru"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/4039",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/types/news"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/users/1"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/comments?post=4039"
+   }
+  ],
+  "wp:featuredmedia": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/media/4050"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/media?parent=4039"
+   }
+  ],
+  "wp:term": [
+   {
+    "taxonomy": "news_category",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_category?post=4039"
+   },
+   {
+    "taxonomy": "news_tag",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_tag?post=4039"
+   }
+  ],
+  "wp:action-publish": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/4039"
+   }
+  ],
+  "wp:action-unfiltered-html": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/4039"
+   }
+  ],
+  "wp:action-assign-author": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/4039"
+   }
+  ],
+  "wp:action-create-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/4039"
+   }
+  ],
+  "wp:action-assign-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/4039"
+   }
+  ],
+  "wp:action-create-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/4039"
+   }
+  ],
+  "wp:action-assign-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/4039"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

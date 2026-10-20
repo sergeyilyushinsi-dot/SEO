@@ -1,0 +1,284 @@
+{
+ "id": 2155,
+ "date": "2021-07-13T00:00:00",
+ "date_gmt": "2021-07-12T21:00:00",
+ "guid": {
+  "rendered": "http://am-tech.ru/cases/komplektuyushchie-dlya-sistem-khraneniya/",
+  "raw": "http://am-tech.ru/cases/komplektuyushchie-dlya-sistem-khraneniya/"
+ },
+ "modified": "2026-01-23T16:56:00",
+ "modified_gmt": "2026-01-23T13:56:00",
+ "password": "",
+ "slug": "komplektuyushchie-dlya-sistem-khraneniya",
+ "status": "publish",
+ "type": "cases",
+ "link": "https://am-tech.ru/cases/komplektuyushchie-dlya-sistem-khraneniya/",
+ "title": {
+  "raw": "Печать комплектующих для систем хранения из полимера",
+  "rendered": "Печать комплектующих для систем хранения из полимера"
+ },
+ "content": {
+  "raw": "<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n\r\nПечать комплектующих на оборудовании AM.TECH SLA-600.\r\n\r\nТехнология 3D‑печати SLA (лазерная стереолитография). Название полимера SLA Standard Resin - SUPER MAKER WH01.\r\n\r\nДетали напечатаны из ABS-подобного пластика, позволяющего получать модели с гладкой поверхностью, высокой точностью, низкой усадкой и устойчивостью к пожелтению.\r\n<h2 class=\"\"><img title=\"Оборудование.jpg\" src=\"/upload/medialibrary/c54/x83h8xh0q03mxivocs6ywotykwk0tv39.jpg\" alt=\"Оборудование.jpg\" width=\"723\" height=\"1024\"></h2>\r\n<h2>Напечатанные образцы</h2>\r\n<p class=\"\"><img title=\"Напечатанные образцы.jpg\" src=\"/upload/medialibrary/012/bntvxx7u9n167nsbivncto47scvye9eh.jpg\" alt=\"Напечатанные образцы.jpg\" width=\"724\" height=\"1024\"></p>\r\n\r\n<h2>Готовые изделия после постобработки</h2>\r\n<img title=\"Готовые изделия.jpg\" src=\"/upload/medialibrary/50c/94mhqqq5kxcdrh7xhkmpi3tzrcc0ed6p.jpg\" alt=\"Готовые изделия.jpg\" width=\"1024\" height=\"634\">\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+  "rendered": "<div class=\"boldgrid-section\">\n<div class=\"container\">\n<div class=\"row\">\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\n<p>Печать комплектующих на оборудовании AM.TECH SLA-600.</p>\n<p>Технология 3D‑печати SLA (лазерная стереолитография). Название полимера SLA Standard Resin &#8212; SUPER MAKER WH01.</p>\n<p>Детали напечатаны из ABS-подобного пластика, позволяющего получать модели с гладкой поверхностью, высокой точностью, низкой усадкой и устойчивостью к пожелтению.</p>\n<h2 class=\"\"><img loading=\"lazy\" decoding=\"async\" fetchpriority=\"high\" decoding=\"async\" title=\"Оборудование.jpg\" src=\"/upload/medialibrary/c54/x83h8xh0q03mxivocs6ywotykwk0tv39.jpg\" alt=\"Оборудование.jpg\" width=\"723\" height=\"1024\"></h2>\n<h2>Напечатанные образцы</h2>\n<p class=\"\"><img loading=\"lazy\" decoding=\"async\" decoding=\"async\" title=\"Напечатанные образцы.jpg\" src=\"/upload/medialibrary/012/bntvxx7u9n167nsbivncto47scvye9eh.jpg\" alt=\"Напечатанные образцы.jpg\" width=\"724\" height=\"1024\"></p>\n<h2>Готовые изделия после постобработки</h2>\n<p><img loading=\"lazy\" decoding=\"async\" decoding=\"async\" title=\"Готовые изделия.jpg\" src=\"/upload/medialibrary/50c/94mhqqq5kxcdrh7xhkmpi3tzrcc0ed6p.jpg\" alt=\"Готовые изделия.jpg\" width=\"1024\" height=\"634\"></p>\n</div>\n</div>\n</div>\n</div>\n",
+  "protected": false,
+  "block_version": 0
+ },
+ "excerpt": {
+  "raw": "",
+  "rendered": "<p>Печать комплектующих на оборудовании AM.TECH SLA-600. Технология 3D‑печати SLA (лазерная стереолитография). Название полимера SLA Standard Resin &#8212; SUPER MAKER WH01. Детали напечатаны из ABS-подобного пластика, позволяющего получать модели с гладкой поверхностью, высокой точностью, низкой усадкой и устойчивостью к пожелтению. Напечатанные образцы Готовые изделия после постобработки</p>\n",
+  "protected": false
+ },
+ "author": 1,
+ "featured_media": 2156,
+ "comment_status": "open",
+ "ping_status": "open",
+ "template": "",
+ "meta": {
+  "_acf_changed": false,
+  "_yoast_wpseo_title": "Печать комплектующих для систем хранения из полимера - кейс | AM-Tech",
+  "_yoast_wpseo_metadesc": "Печать комплектующих для систем хранения из полимера - кейс компании AM-Tech",
+  "_yoast_wpseo_meta-robots-noindex": ""
+ },
+ "case_category": [
+  1214
+ ],
+ "case_tag": [
+  1318,
+  1326,
+  1319
+ ],
+ "permalink_template": "https://am-tech.ru/cases/%pagename%/",
+ "generated_slug": "pechat-komplektujushhih-dlja-sistem-hranenija-iz-polimera",
+ "class_list": [
+  "post-2155",
+  "cases",
+  "type-cases",
+  "status-publish",
+  "has-post-thumbnail",
+  "hentry",
+  "case_category-tehnologii-sla-cdlp",
+  "case_tag-sla",
+  "case_tag-tehnologii-3d-pechati",
+  "case_tag-fotopolimernaja-3d-pechat"
+ ],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Печать комплектующих для систем хранения из полимера - кейс | AM-Tech</title>\n<meta name=\"description\" content=\"Печать комплектующих для систем хранения из полимера - кейс компании AM-Tech\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/cases/komplektuyushchie-dlya-sistem-khraneniya/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Печать комплектующих для систем хранения из полимера - кейс | AM-Tech\" />\n<meta property=\"og:description\" content=\"Печать комплектующих для систем хранения из полимера - кейс компании AM-Tech\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/cases/komplektuyushchie-dlya-sistem-khraneniya/\" />\n<meta property=\"og:site_name\" content=\"AM.TECH\" />\n<meta property=\"article:modified_time\" content=\"2026-01-23T13:56:00+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2021/07/3hs90dxr2lsv0herh6f17jwi90wvhc1l.jpg\" />\n\t<meta property=\"og:image:width\" content=\"2500\" />\n\t<meta property=\"og:image:height\" content=\"1547\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"2 минуты\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/cases/komplektuyushchie-dlya-sistem-khraneniya/\",\"url\":\"https://am-tech.ru/cases/komplektuyushchie-dlya-sistem-khraneniya/\",\"name\":\"Печать комплектующих для систем хранения из полимера - кейс | AM-Tech\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/cases/komplektuyushchie-dlya-sistem-khraneniya/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/cases/komplektuyushchie-dlya-sistem-khraneniya/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2021/07/3hs90dxr2lsv0herh6f17jwi90wvhc1l.jpg\",\"datePublished\":\"2021-07-12T21:00:00+00:00\",\"dateModified\":\"2026-01-23T13:56:00+00:00\",\"description\":\"Печать комплектующих для систем хранения из полимера - кейс компании AM-Tech\",\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/cases/komplektuyushchie-dlya-sistem-khraneniya/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/cases/komplektuyushchie-dlya-sistem-khraneniya/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2021/07/3hs90dxr2lsv0herh6f17jwi90wvhc1l.jpg\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2021/07/3hs90dxr2lsv0herh6f17jwi90wvhc1l.jpg\",\"width\":2500,\"height\":1547},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"AM.TECH\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"AM.TECH\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"AM.TECH\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "Печать комплектующих для систем хранения из полимера - кейс | AM-Tech",
+  "description": "Печать комплектующих для систем хранения из полимера - кейс компании AM-Tech",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/cases/komplektuyushchie-dlya-sistem-khraneniya/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "Печать комплектующих для систем хранения из полимера - кейс | AM-Tech",
+  "og_description": "Печать комплектующих для систем хранения из полимера - кейс компании AM-Tech",
+  "og_url": "https://am-tech.ru/cases/komplektuyushchie-dlya-sistem-khraneniya/",
+  "og_site_name": "AM.TECH",
+  "article_modified_time": "2026-01-23T13:56:00+00:00",
+  "og_image": [
+   {
+    "width": 2500,
+    "height": 1547,
+    "url": "https://am-tech.ru/wp-content/uploads/2021/07/3hs90dxr2lsv0herh6f17jwi90wvhc1l.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "2 минуты"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/cases/komplektuyushchie-dlya-sistem-khraneniya/",
+     "url": "https://am-tech.ru/cases/komplektuyushchie-dlya-sistem-khraneniya/",
+     "name": "Печать комплектующих для систем хранения из полимера - кейс | AM-Tech",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/cases/komplektuyushchie-dlya-sistem-khraneniya/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/cases/komplektuyushchie-dlya-sistem-khraneniya/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2021/07/3hs90dxr2lsv0herh6f17jwi90wvhc1l.jpg",
+     "datePublished": "2021-07-12T21:00:00+00:00",
+     "dateModified": "2026-01-23T13:56:00+00:00",
+     "description": "Печать комплектующих для систем хранения из полимера - кейс компании AM-Tech",
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/cases/komplektuyushchie-dlya-sistem-khraneniya/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/cases/komplektuyushchie-dlya-sistem-khraneniya/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2021/07/3hs90dxr2lsv0herh6f17jwi90wvhc1l.jpg",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2021/07/3hs90dxr2lsv0herh6f17jwi90wvhc1l.jpg",
+     "width": 2500,
+     "height": 1547
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "AM.TECH",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "AM.TECH",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "AM.TECH"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/cases/2155",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/cases"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/types/cases"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/users/1"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/comments?post=2155"
+   }
+  ],
+  "wp:featuredmedia": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/media/2156"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/media?parent=2155"
+   }
+  ],
+  "wp:term": [
+   {
+    "taxonomy": "case_category",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/case_category?post=2155"
+   },
+   {
+    "taxonomy": "case_tag",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/case_tag?post=2155"
+   }
+  ],
+  "wp:action-publish": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/cases/2155"
+   }
+  ],
+  "wp:action-unfiltered-html": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/cases/2155"
+   }
+  ],
+  "wp:action-assign-author": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/cases/2155"
+   }
+  ],
+  "wp:action-create-case_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/cases/2155"
+   }
+  ],
+  "wp:action-assign-case_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/cases/2155"
+   }
+  ],
+  "wp:action-create-case_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/cases/2155"
+   }
+  ],
+  "wp:action-assign-case_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/cases/2155"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

@@ -1,0 +1,281 @@
+{
+ "id": 3910,
+ "date": "2026-02-28T12:46:59",
+ "date_gmt": "2026-02-28T09:46:59",
+ "guid": {
+  "rendered": "https://am-tech.ru/?post_type=news&#038;p=3910",
+  "raw": "https://am-tech.ru/?post_type=news&#038;p=3910"
+ },
+ "modified": "2026-07-02T10:21:02",
+ "modified_gmt": "2026-07-02T07:21:02",
+ "password": "",
+ "slug": "slm-printer-tehnologija-selektivnogo-lazernogo-plavlenija-metallov-ot-poroshka-do-gotovoj-detali",
+ "status": "publish",
+ "type": "news",
+ "link": "https://am-tech.ru/news/slm-printer-tehnologija-selektivnogo-lazernogo-plavlenija-metallov-ot-poroshka-do-gotovoj-detali/",
+ "title": {
+  "raw": "SLM-принтер: технология селективного лазерного плавления металлов — от порошка до готовой детали",
+  "rendered": "SLM-принтер: технология селективного лазерного плавления металлов — от порошка до готовой детали"
+ },
+ "content": {
+  "raw": "<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n<p class=\"\"><style>\r\n<p>.article-container{<br />max-width:900px;<br />margin:0 auto;<br />line-height:1.7;<br />font-size:18px;<br />color:#222;<br />}</p>\r\n<p>.article-container h1{<br />font-size:36px;<br />margin:40px 0 20px;<br />}</p>\r\n<p>.article-container h2{<br />font-size:28px;<br />margin:50px 0 20px;<br />}</p>\r\n<p>.article-container h3{<br />font-size:22px;<br />margin:35px 0 15px;<br />}</p>\r\n<p>.article-container p{<br />margin-bottom:20px;<br />}</p>\r\n<p>.article-image{<br />margin:40px 0;<br />text-align:center;<br />}</p>\r\n<p>.article-image img{<br />max-width:100%;<br />height:auto;<br />border-radius:6px;<br />}</p>\r\n<p>.image-grid{<br />display:grid;<br />grid-template-columns:repeat(auto-fit,minmax(260px,1fr));<br />gap:30px;<br />margin:40px 0;<br />}</p>\r\n<p>.image-item{<br />text-align:center;<br />}</p>\r\n<p>.image-item img{<br />width:100%;<br />height:auto;<br />border-radius:6px;<br />}</p>\r\n<p>.image-caption{<br />font-size:14px;<br />color:#666;<br />margin-top:10px;<br />}</p>\r\n<p>.article-container ul{<br />margin:20px 0 20px 20px;<br />}</p>\r\n</style></p>\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"article-container\">\r\n<p class=\"\">Многие, не сталкивавшиеся с аддитивным производством, представляют металлическую 3D-печать как простой процесс: загрузить модель, нажать кнопку и получить готовое изделие. На практике технология селективного лазерного плавления (SLM) представляет собой сложную совокупность взаимосвязанных этапов.</p>\r\n<p class=\"\">Каждый шаг — от качества металлического порошка до параметров постобработки — напрямую влияет на свойства конечной детали. Чтобы понять возможности и ограничения технологии, проследим полный путь металла: от поступления порошка на производство до получения функционального изделия.</p>\r\n\r\n<h2>Что такое SLM-печать и как работает SLM-принтер</h2>\r\n<p class=\"\">SLM (Selective Laser Melting) — это технология аддитивного производства, при которой металлический порошок полностью расплавляется лазерным излучением и формирует плотную монолитную структуру.</p>\r\n\r\n<h3 class=\"\">Принцип послойного формирования</h3>\r\n<p class=\"\">Процесс печати в <a href=\"https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/\">SLM-принтере</a> включает повторяющиеся циклы:</p>\r\n\r\n<ul class=\"\">\r\n \t<li>нанесение тонкого слоя порошка толщиной 50–100 мкм;</li>\r\n \t<li>селективное плавление лазером по цифровой модели;</li>\r\n \t<li>опускание платформы на толщину слоя;</li>\r\n \t<li>нанесение нового слоя порошка.</li>\r\n</ul>\r\nЭти циклы повторяются до полного формирования изделия.\r\n<h3>Физика процесса селективного лазерного плавления</h3>\r\nЗа внешней простотой скрываются экстремальные условия: скорости нагрева и охлаждения достигают сотен тысяч градусов в секунду, а температурные градиенты — десятков тысяч градусов на миллиметр.\r\n\r\nИменно эти параметры формируют уникальную микроструктуру материала и определяют свойства готовой детали.\r\n<h2>Металлические порошки для SLM-печати</h2>\r\nКачество порошка — один из ключевых факторов стабильности процесса и повторяемости характеристик изделий.\r\n<h3>Подходящие сплавы для SLM</h3>\r\n<ul>\r\n \t<li>нержавеющие стали (316L, 17-4PH)</li>\r\n \t<li>титановые сплавы (Ti-6Al-4V)</li>\r\n \t<li>жаропрочные никелевые сплавы (Inconel)</li>\r\n \t<li>кобальт-хром</li>\r\n \t<li>алюминиевые сплавы (AlSi10Mg)</li>\r\n</ul>\r\nНекоторые материалы требуют специальных условий печати: например, медь плохо поглощает инфракрасное лазерное излучение.\r\n<div class=\"article-image\">\r\n\r\n<img src=\"https://am-tech.ru/wp-content/uploads/2026/02/risunok1-1.jpg\" alt=\"Гранулометрические характеристики порошка SLM\">\r\n<div class=\"image-caption\">Гранулометрические характеристики металлического порошка для SLM-печати</div>\r\n</div>\r\n<h3>Гранулометрические характеристики порошка</h3>\r\nДля SLM-печати используются порошки с размером частиц обычно в диапазоне 15–63 мкм. Оптимальной считается узкая фракция со сферической формой частиц.\r\n<h2>Защитная газовая среда в SLM-принтерах</h2>\r\nОсновные враги металлического порошка — кислород и влага. Поэтому процесс печати проходит в защитной атмосфере.\r\n<ul>\r\n \t<li>азот — для железных сплавов</li>\r\n \t<li>аргон — для титана и алюминия</li>\r\n</ul>\r\nПеред началом печати камера принтера продувается до содержания кислорода не более 0,1–0,2%.\r\n<div class=\"image-grid\">\r\n<div class=\"image-item\">\r\n<p class=\"mod-reset\"><img src=\"https://am-tech.ru/wp-content/uploads/2026/02/risunok2.png\"></p>\r\n\r\n<div class=\"image-caption\">Перепускная рампа для подключения баллонов</div>\r\n</div>\r\n<div class=\"image-item\">\r\n<p class=\"mod-reset\"><img src=\"https://am-tech.ru/wp-content/uploads/2026/02/risunok3.png\"></p>\r\n\r\n<div class=\"image-caption\">Адсорбционный генератор азота</div>\r\n</div>\r\n</div>\r\n<h2>Требования безопасности при работе с SLM-оборудованием</h2>\r\n<ul>\r\n \t<li>использование защитной одежды и респираторов</li>\r\n \t<li>контроль электростатических разрядов</li>\r\n \t<li>наличие специальных огнетушителей</li>\r\n \t<li>обучение персонала работе с порошками</li>\r\n</ul>\r\n<div class=\"article-image\">\r\n<p class=\"\"><img src=\"https://am-tech.ru/wp-content/uploads/2026/02/risunok4-1.jpg\"></p>\r\n\r\n</div>\r\n<h2>Подготовка порошка к SLM-печати</h2>\r\n<h3>Поставка и хранение</h3>\r\nПорошки поставляются в герметичных контейнерах объёмом 1–5 литров. Для титана и алюминия тара заполняется защитным газом.\r\n<h3>Сушка и просеивание</h3>\r\n<ul>\r\n \t<li>сушка в вакуумной печи</li>\r\n \t<li>просеивание для удаления агломератов</li>\r\n</ul>\r\n<div class=\"image-grid\">\r\n<div class=\"image-item\">\r\n<p class=\"mod-reset\"><img src=\"https://am-tech.ru/wp-content/uploads/2026/02/risunok5-1.jpg\"></p>\r\n\r\n<div class=\"image-caption\">Анализатор текучести порошка</div>\r\n</div>\r\n<div class=\"image-item\">\r\n<p class=\"mod-reset\"><img src=\"https://am-tech.ru/wp-content/uploads/2026/02/risunok6-1.png\"></p>\r\n\r\n<div class=\"image-caption\">Вакуумная сушильная печь</div>\r\n</div>\r\n</div>\r\n<h2>Подготовка 3D-модели к печати</h2>\r\n<ul>\r\n \t<li>импорт STL-файлов</li>\r\n \t<li>ориентация деталей</li>\r\n \t<li>генерация поддержек</li>\r\n \t<li>настройка параметров печати</li>\r\n</ul>\r\n<div class=\"article-image\">\r\n\r\n<img src=\"https://am-tech.ru/wp-content/uploads/2026/02/risunok7-1.jpg\">\r\n<div class=\"image-caption\">Шесть теплообменников на плите построения в программе PrintMate</div>\r\n</div>\r\n<h2>Процесс селективного лазерного плавления</h2>\r\nПосле запуска печати процесс протекает автоматически: лазер расплавляет порошок слой за слоем, формируя изделие.\r\n<div class=\"image-grid\">\r\n<div class=\"image-item\">\r\n<p class=\"mod-reset\"><img src=\"https://am-tech.ru/wp-content/uploads/2026/02/risunok8-1.png\"></p>\r\n\r\n</div>\r\n<div class=\"image-item\">\r\n<p class=\"mod-reset\"><img src=\"https://am-tech.ru/wp-content/uploads/2026/02/risunok9-1.png\"></p>\r\n\r\n</div>\r\n<div class=\"image-item\">\r\n<p class=\"mod-reset\"><img src=\"https://am-tech.ru/wp-content/uploads/2026/02/risunok10.png\"></p>\r\n\r\n</div>\r\n</div>\r\n<div class=\"image-caption\">Настройка параметров печати в программном обеспечении PrintMate</div>\r\n<h2>Извлечение изделий после печати</h2>\r\n<div class=\"article-image\">\r\n<p class=\"mod-reset\"><img src=\"https://am-tech.ru/wp-content/uploads/2026/02/risunok11-1.jpg\"></p>\r\n\r\n</div>\r\n<div class=\"article-image\">\r\n<p class=\"mod-reset\"><img src=\"https://am-tech.ru/wp-content/uploads/2026/02/risunok12-1.png\"></p>\r\n\r\n</div>\r\n<h2>Послепечатная обработка SLM-деталей</h2>\r\n<h3>Удаление порошка</h3>\r\nОчистка внутренних полостей осуществляется сжатым воздухом или в автоматических камерах очистки.\r\n<h3>Термообработка</h3>\r\n<ul class=\"\">\r\n \t<li>снятие остаточных напряжений</li>\r\n \t<li>закалка</li>\r\n \t<li>старение</li>\r\n \t<li>горячее изостатическое прессование</li>\r\n</ul>\r\n<div class=\"article-image\">\r\n<p class=\"\"><img src=\"https://am-tech.ru/wp-content/uploads/2026/02/risunok13-1.jpg\"></p>\r\n\r\n<div class=\"image-caption\">Станция очистки изделий TOP TCB-100</div>\r\n</div>\r\n<h2>Отделение от платформы и механическая обработка</h2>\r\nИзделия отделяются от платформы электроэрозионной обработкой или ленточной пилой.\r\n<div class=\"article-image\">\r\n<p class=\"\"><img src=\"https://am-tech.ru/wp-content/uploads/2026/02/risunok14.png\"></p>\r\n\r\n<div class=\"image-caption\">Электроэрозионный станок Kingred Electrical DK 7732</div>\r\n</div>\r\n<h2>Контроль качества изделий</h2>\r\nКонтроль включает измерение геометрии, неразрушающие методы контроля и анализ образцов-свидетелей.\r\n<h2 class=\"\">Рециркуляция порошка</h2>\r\nНесплавленный порошок повторно используется после просеивания и сушки.\r\n<h2>Заключение</h2>\r\nSLM-печать металлом является зрелой промышленной технологией, позволяющей производить сложные металлические детали с высокой точностью и плотностью материала.\r\n\r\n</div>",
+  "rendered": "<div class=\"boldgrid-section\">\n<div class=\"container\">\n<div class=\"row\">\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\n<p class=\"\">\n<style>\n<p>.article-container{<br />max-width:900px;<br />margin:0 auto;<br />line-height:1.7;<br />font-size:18px;<br />color:#222;<br />}</p>\n<p>.article-container h1{<br />font-size:36px;<br />margin:40px 0 20px;<br />}</p>\n<p>.article-container h2{<br />font-size:28px;<br />margin:50px 0 20px;<br />}</p>\n<p>.article-container h3{<br />font-size:22px;<br />margin:35px 0 15px;<br />}</p>\n<p>.article-container p{<br />margin-bottom:20px;<br />}</p>\n<p>.article-image{<br />margin:40px 0;<br />text-align:center;<br />}</p>\n<p>.article-image img{<br />max-width:100%;<br />height:auto;<br />border-radius:6px;<br />}</p>\n<p>.image-grid{<br />display:grid;<br />grid-template-columns:repeat(auto-fit,minmax(260px,1fr));<br />gap:30px;<br />margin:40px 0;<br />}</p>\n<p>.image-item{<br />text-align:center;<br />}</p>\n<p>.image-item img{<br />width:100%;<br />height:auto;<br />border-radius:6px;<br />}</p>\n<p>.image-caption{<br />font-size:14px;<br />color:#666;<br />margin-top:10px;<br />}</p>\n<p>.article-container ul{<br />margin:20px 0 20px 20px;<br />}</p>\n</style>\n</div>\n</div>\n</div>\n</div>\n<div class=\"article-container\">\n<p class=\"\">Многие, не сталкивавшиеся с аддитивным производством, представляют металлическую 3D-печать как простой процесс: загрузить модель, нажать кнопку и получить готовое изделие. На практике технология селективного лазерного плавления (SLM) представляет собой сложную совокупность взаимосвязанных этапов.</p>\n<p class=\"\">Каждый шаг — от качества металлического порошка до параметров постобработки — напрямую влияет на свойства конечной детали. Чтобы понять возможности и ограничения технологии, проследим полный путь металла: от поступления порошка на производство до получения функционального изделия.</p>\n<h2>Что такое SLM-печать и как работает SLM-принтер</h2>\n<p class=\"\">SLM (Selective Laser Melting) — это технология аддитивного производства, при которой металлический порошок полностью расплавляется лазерным излучением и формирует плотную монолитную структуру.</p>\n<h3 class=\"\">Принцип послойного формирования</h3>\n<p class=\"\">Процесс печати в <a href=\"https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/\">SLM-принтере</a> включает повторяющиеся циклы:</p>\n<ul class=\"\">\n<li>нанесение тонкого слоя порошка толщиной 50–100 мкм;</li>\n<li>селективное плавление лазером по цифровой модели;</li>\n<li>опускание платформы на толщину слоя;</li>\n<li>нанесение нового слоя порошка.</li>\n</ul>\n<p>Эти циклы повторяются до полного формирования изделия.</p>\n<h3>Физика процесса селективного лазерного плавления</h3>\n<p>За внешней простотой скрываются экстремальные условия: скорости нагрева и охлаждения достигают сотен тысяч градусов в секунду, а температурные градиенты — десятков тысяч градусов на миллиметр.</p>\n<p>Именно эти параметры формируют уникальную микроструктуру материала и определяют свойства готовой детали.</p>\n<h2>Металлические порошки для SLM-печати</h2>\n<p>Качество порошка — один из ключевых факторов стабильности процесса и повторяемости характеристик изделий.</p>\n<h3>Подходящие сплавы для SLM</h3>\n<ul>\n<li>нержавеющие стали (316L, 17-4PH)</li>\n<li>титановые сплавы (Ti-6Al-4V)</li>\n<li>жаропрочные никелевые сплавы (Inconel)</li>\n<li>кобальт-хром</li>\n<li>алюминиевые сплавы (AlSi10Mg)</li>\n</ul>\n<p>Некоторые материалы требуют специальных условий печати: например, медь плохо поглощает инфракрасное лазерное излучение.</p>\n<div class=\"article-image\">\n<p><img loading=\"lazy\" decoding=\"async\" decoding=\"async\" src=\"https://am-tech.ru/wp-content/uploads/2026/02/risunok1-1.jpg\" alt=\"Гранулометрические характеристики порошка SLM\"></p>\n<div class=\"image-caption\">Гранулометрические характеристики металлического порошка для SLM-печати</div>\n</div>\n<h3>Гранулометрические характеристики порошка</h3>\n<p>Для SLM-печати используются порошки с размером частиц обычно в диапазоне 15–63 мкм. Оптимальной считается узкая фракция со сферической формой частиц.</p>\n<h2>Защитная газовая среда в SLM-принтерах</h2>\n<p>Основные враги металлического порошка — кислород и влага. Поэтому процесс печати проходит в защитной атмосфере.</p>\n<ul>\n<li>азот — для железных сплавов</li>\n<li>аргон — для титана и алюминия</li>\n</ul>\n<p>Перед началом печати камера принтера продувается до содержания кислорода не более 0,1–0,2%.</p>\n<div class=\"image-grid\">\n<div class=\"image-item\">\n<p class=\"mod-reset\"><img loading=\"lazy\" decoding=\"async\" alt=\"SLM-принтер: технология селективного лазерного плавления металлов — от порошка до готовой детали - 3D-печать металлами - AM-Tech\" decoding=\"async\" src=\"https://am-tech.ru/wp-content/uploads/2026/02/risunok2.png\"></p>\n<div class=\"image-caption\">Перепускная рампа для подключения баллонов</div>\n</div>\n<div class=\"image-item\">\n<p class=\"mod-reset\"><img loading=\"lazy\" decoding=\"async\" alt=\"SLM-принтер: технология селективного лазерного плавления металлов — от порошка до готовой детали - 3D-печать металлами - AM-Tech\" decoding=\"async\" src=\"https://am-tech.ru/wp-content/uploads/2026/02/risunok3.png\"></p>\n<div class=\"image-caption\">Адсорбционный генератор азота</div>\n</div>\n</div>\n<h2>Требования безопасности при работе с SLM-оборудованием</h2>\n<ul>\n<li>использование защитной одежды и респираторов</li>\n<li>контроль электростатических разрядов</li>\n<li>наличие специальных огнетушителей</li>\n<li>обучение персонала работе с порошками</li>\n</ul>\n<div class=\"article-image\">\n<p class=\"\"><img loading=\"lazy\" decoding=\"async\" alt=\"SLM-принтер: технология селективного лазерного плавления металлов — от порошка до готовой детали - 3D-печать металлами - AM-Tech\" decoding=\"async\" src=\"https://am-tech.ru/wp-content/uploads/2026/02/risunok4-1.jpg\"></p>\n</div>\n<h2>Подготовка порошка к SLM-печати</h2>\n<h3>Поставка и хранение</h3>\n<p>Порошки поставляются в герметичных контейнерах объёмом 1–5 литров. Для титана и алюминия тара заполняется защитным газом.</p>\n<h3>Сушка и просеивание</h3>\n<ul>\n<li>сушка в вакуумной печи</li>\n<li>просеивание для удаления агломератов</li>\n</ul>\n<div class=\"image-grid\">\n<div class=\"image-item\">\n<p class=\"mod-reset\"><img loading=\"lazy\" decoding=\"async\" alt=\"SLM-принтер: технология селективного лазерного плавления металлов — от порошка до готовой детали - 3D-печать металлами - AM-Tech\" decoding=\"async\" src=\"https://am-tech.ru/wp-content/uploads/2026/02/risunok5-1.jpg\"></p>\n<div class=\"image-caption\">Анализатор текучести порошка</div>\n</div>\n<div class=\"image-item\">\n<p class=\"mod-reset\"><img loading=\"lazy\" decoding=\"async\" alt=\"SLM-принтер: технология селективного лазерного плавления металлов — от порошка до готовой детали - 3D-печать металлами - AM-Tech\" decoding=\"async\" src=\"https://am-tech.ru/wp-content/uploads/2026/02/risunok6-1.png\"></p>\n<div class=\"image-caption\">Вакуумная сушильная печь</div>\n</div>\n</div>\n<h2>Подготовка 3D-модели к печати</h2>\n<ul>\n<li>импорт STL-файлов</li>\n<li>ориентация деталей</li>\n<li>генерация поддержек</li>\n<li>настройка параметров печати</li>\n</ul>\n<div class=\"article-image\">\n<p><img loading=\"lazy\" decoding=\"async\" alt=\"SLM-принтер: технология селективного лазерного плавления металлов — от порошка до готовой детали - 3D-печать металлами - AM-Tech\" decoding=\"async\" src=\"https://am-tech.ru/wp-content/uploads/2026/02/risunok7-1.jpg\"></p>\n<div class=\"image-caption\">Шесть теплообменников на плите построения в программе PrintMate</div>\n</div>\n<h2>Процесс селективного лазерного плавления</h2>\n<p>После запуска печати процесс протекает автоматически: лазер расплавляет порошок слой за слоем, формируя изделие.</p>\n<div class=\"image-grid\">\n<div class=\"image-item\">\n<p class=\"mod-reset\"><img loading=\"lazy\" decoding=\"async\" alt=\"SLM-принтер: технология селективного лазерного плавления металлов — от порошка до готовой детали - 3D-печать металлами - AM-Tech\" decoding=\"async\" src=\"https://am-tech.ru/wp-content/uploads/2026/02/risunok8-1.png\"></p>\n</div>\n<div class=\"image-item\">\n<p class=\"mod-reset\"><img loading=\"lazy\" decoding=\"async\" alt=\"SLM-принтер: технология селективного лазерного плавления металлов — от порошка до готовой детали - 3D-печать металлами - AM-Tech\" decoding=\"async\" src=\"https://am-tech.ru/wp-content/uploads/2026/02/risunok9-1.png\"></p>\n</div>\n<div class=\"image-item\">\n<p class=\"mod-reset\"><img loading=\"lazy\" decoding=\"async\" alt=\"SLM-принтер: технология селективного лазерного плавления металлов — от порошка до готовой детали - 3D-печать металлами - AM-Tech\" decoding=\"async\" src=\"https://am-tech.ru/wp-content/uploads/2026/02/risunok10.png\"></p>\n</div>\n</div>\n<div class=\"image-caption\">Настройка параметров печати в программном обеспечении PrintMate</div>\n<h2>Извлечение изделий после печати</h2>\n<div class=\"article-image\">\n<p class=\"mod-reset\"><img loading=\"lazy\" decoding=\"async\" alt=\"SLM-принтер: технология селективного лазерного плавления металлов — от порошка до готовой детали - 3D-печать металлами - AM-Tech\" decoding=\"async\" src=\"https://am-tech.ru/wp-content/uploads/2026/02/risunok11-1.jpg\"></p>\n</div>\n<div class=\"article-image\">\n<p class=\"mod-reset\"><img loading=\"lazy\" decoding=\"async\" alt=\"SLM-принтер: технология селективного лазерного плавления металлов — от порошка до готовой детали - 3D-печать металлами - AM-Tech\" decoding=\"async\" src=\"https://am-tech.ru/wp-content/uploads/2026/02/risunok12-1.png\"></p>\n</div>\n<h2>Послепечатная обработка SLM-деталей</h2>\n<h3>Удаление порошка</h3>\n<p>Очистка внутренних полостей осуществляется сжатым воздухом или в автоматических камерах очистки.</p>\n<h3>Термообработка</h3>\n<ul class=\"\">\n<li>снятие остаточных напряжений</li>\n<li>закалка</li>\n<li>старение</li>\n<li>горячее изостатическое прессование</li>\n</ul>\n<div class=\"article-image\">\n<p class=\"\"><img loading=\"lazy\" decoding=\"async\" alt=\"SLM-принтер: технология селективного лазерного плавления металлов — от порошка до готовой детали - 3D-печать металлами - AM-Tech\" decoding=\"async\" src=\"https://am-tech.ru/wp-content/uploads/2026/02/risunok13-1.jpg\"></p>\n<div class=\"image-caption\">Станция очистки изделий TOP TCB-100</div>\n</div>\n<h2>Отделение от платформы и механическая обработка</h2>\n<p>Изделия отделяются от платформы электроэрозионной обработкой или ленточной пилой.</p>\n<div class=\"article-image\">\n<p class=\"\"><img loading=\"lazy\" decoding=\"async\" alt=\"SLM-принтер: технология селективного лазерного плавления металлов — от порошка до готовой детали - 3D-печать металлами - AM-Tech\" decoding=\"async\" src=\"https://am-tech.ru/wp-content/uploads/2026/02/risunok14.png\"></p>\n<div class=\"image-caption\">Электроэрозионный станок Kingred Electrical DK 7732</div>\n</div>\n<h2>Контроль качества изделий</h2>\n<p>Контроль включает измерение геометрии, неразрушающие методы контроля и анализ образцов-свидетелей.</p>\n<h2 class=\"\">Рециркуляция порошка</h2>\n<p>Несплавленный порошок повторно используется после просеивания и сушки.</p>\n<h2>Заключение</h2>\n<p>SLM-печать металлом является зрелой промышленной технологией, позволяющей производить сложные металлические детали с высокой точностью и плотностью материала.</p>\n</div>\n",
+  "protected": false,
+  "block_version": 0
+ },
+ "excerpt": {
+  "raw": "",
+  "rendered": "<p>Многие, не сталкивавшиеся с аддитивным производством, представляют металлическую 3D-печать как простой процесс: загрузить модель, нажать кнопку и получить готовое изделие. На практике технология селективного лазерного плавления (SLM) представляет собой сложную совокупность взаимосвязанных этапов. Каждый шаг — от качества металлического порошка до параметров постобработки — напрямую влияет на свойства конечной детали. Чтобы понять возможности и ограничения [&hellip;]</p>\n",
+  "protected": false
+ },
+ "author": 2,
+ "featured_media": 3928,
+ "comment_status": "open",
+ "ping_status": "closed",
+ "template": "",
+ "meta": {
+  "_acf_changed": false,
+  "_yoast_wpseo_title": "",
+  "_yoast_wpseo_metadesc": "Многие, не сталкивавшиеся с аддитивным производством, представляют металлическую 3D-печать как простой процесс: загрузить модель, нажать кнопку и получить готовое изделие",
+  "_yoast_wpseo_meta-robots-noindex": ""
+ },
+ "news_category": [
+  1107
+ ],
+ "news_tag": [
+  1220
+ ],
+ "permalink_template": "https://am-tech.ru/news/%pagename%/",
+ "generated_slug": "slm-printer-tehnologija-selektivnogo-lazernogo-plavlenija-metallov-ot-poroshka-do-gotovoj-detali",
+ "class_list": [
+  "post-3910",
+  "news",
+  "type-news",
+  "status-publish",
+  "has-post-thumbnail",
+  "hentry",
+  "news_category-3d-pechat-metallami",
+  "news_tag-slm"
+ ],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>SLM-принтер: технология селективного лазерного плавления металлов — от порошка до готовой детали - am-tech.ru</title>\n<meta name=\"description\" content=\"Многие, не сталкивавшиеся с аддитивным производством, представляют металлическую 3D-печать как простой процесс: загрузить модель, нажать кнопку и получить готовое изделие\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/news/slm-printer-tehnologija-selektivnogo-lazernogo-plavlenija-metallov-ot-poroshka-do-gotovoj-detali/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"SLM-принтер: технология селективного лазерного плавления металлов — от порошка до готовой детали - am-tech.ru\" />\n<meta property=\"og:description\" content=\"Многие, не сталкивавшиеся с аддитивным производством, представляют металлическую 3D-печать как простой процесс: загрузить модель, нажать кнопку и получить готовое изделие\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/news/slm-printer-tehnologija-selektivnogo-lazernogo-plavlenija-metallov-ot-poroshka-do-gotovoj-detali/\" />\n<meta property=\"og:site_name\" content=\"am-tech.ru\" />\n<meta property=\"article:modified_time\" content=\"2026-07-02T07:21:02+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2026/02/chatgpt-image-10-mar.-2026-g.-09_35_45.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1536\" />\n\t<meta property=\"og:image:height\" content=\"1024\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"6 минут\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/news/slm-printer-tehnologija-selektivnogo-lazernogo-plavlenija-metallov-ot-poroshka-do-gotovoj-detali/\",\"url\":\"https://am-tech.ru/news/slm-printer-tehnologija-selektivnogo-lazernogo-plavlenija-metallov-ot-poroshka-do-gotovoj-detali/\",\"name\":\"SLM-принтер: технология селективного лазерного плавления металлов — от порошка до готовой детали - am-tech.ru\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/news/slm-printer-tehnologija-selektivnogo-lazernogo-plavlenija-metallov-ot-poroshka-do-gotovoj-detali/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/news/slm-printer-tehnologija-selektivnogo-lazernogo-plavlenija-metallov-ot-poroshka-do-gotovoj-detali/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2026/02/chatgpt-image-10-mar.-2026-g.-09_35_45.jpg\",\"datePublished\":\"2026-02-28T09:46:59+00:00\",\"dateModified\":\"2026-07-02T07:21:02+00:00\",\"description\":\"Многие, не сталкивавшиеся с аддитивным производством, представляют металлическую 3D-печать как простой процесс: загрузить модель, нажать кнопку и получить готовое изделие\",\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/news/slm-printer-tehnologija-selektivnogo-lazernogo-plavlenija-metallov-ot-poroshka-do-gotovoj-detali/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/news/slm-printer-tehnologija-selektivnogo-lazernogo-plavlenija-metallov-ot-poroshka-do-gotovoj-detali/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2026/02/chatgpt-image-10-mar.-2026-g.-09_35_45.jpg\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2026/02/chatgpt-image-10-mar.-2026-g.-09_35_45.jpg\",\"width\":1536,\"height\":1024,\"caption\":\"SLM принтер\"},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"am-tech.ru\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"am-tech.ru\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"am-tech.ru\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "SLM-принтер: технология селективного лазерного плавления металлов — от порошка до готовой детали - am-tech.ru",
+  "description": "Многие, не сталкивавшиеся с аддитивным производством, представляют металлическую 3D-печать как простой процесс: загрузить модель, нажать кнопку и получить готовое изделие",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/news/slm-printer-tehnologija-selektivnogo-lazernogo-plavlenija-metallov-ot-poroshka-do-gotovoj-detali/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "SLM-принтер: технология селективного лазерного плавления металлов — от порошка до готовой детали - am-tech.ru",
+  "og_description": "Многие, не сталкивавшиеся с аддитивным производством, представляют металлическую 3D-печать как простой процесс: загрузить модель, нажать кнопку и получить готовое изделие",
+  "og_url": "https://am-tech.ru/news/slm-printer-tehnologija-selektivnogo-lazernogo-plavlenija-metallov-ot-poroshka-do-gotovoj-detali/",
+  "og_site_name": "am-tech.ru",
+  "article_modified_time": "2026-07-02T07:21:02+00:00",
+  "og_image": [
+   {
+    "width": 1536,
+    "height": 1024,
+    "url": "https://am-tech.ru/wp-content/uploads/2026/02/chatgpt-image-10-mar.-2026-g.-09_35_45.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "6 минут"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/news/slm-printer-tehnologija-selektivnogo-lazernogo-plavlenija-metallov-ot-poroshka-do-gotovoj-detali/",
+     "url": "https://am-tech.ru/news/slm-printer-tehnologija-selektivnogo-lazernogo-plavlenija-metallov-ot-poroshka-do-gotovoj-detali/",
+     "name": "SLM-принтер: технология селективного лазерного плавления металлов — от порошка до готовой детали - am-tech.ru",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/news/slm-printer-tehnologija-selektivnogo-lazernogo-plavlenija-metallov-ot-poroshka-do-gotovoj-detali/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/news/slm-printer-tehnologija-selektivnogo-lazernogo-plavlenija-metallov-ot-poroshka-do-gotovoj-detali/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2026/02/chatgpt-image-10-mar.-2026-g.-09_35_45.jpg",
+     "datePublished": "2026-02-28T09:46:59+00:00",
+     "dateModified": "2026-07-02T07:21:02+00:00",
+     "description": "Многие, не сталкивавшиеся с аддитивным производством, представляют металлическую 3D-печать как простой процесс: загрузить модель, нажать кнопку и получить готовое изделие",
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/news/slm-printer-tehnologija-selektivnogo-lazernogo-plavlenija-metallov-ot-poroshka-do-gotovoj-detali/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/news/slm-printer-tehnologija-selektivnogo-lazernogo-plavlenija-metallov-ot-poroshka-do-gotovoj-detali/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2026/02/chatgpt-image-10-mar.-2026-g.-09_35_45.jpg",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2026/02/chatgpt-image-10-mar.-2026-g.-09_35_45.jpg",
+     "width": 1536,
+     "height": 1024,
+     "caption": "SLM принтер"
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "am-tech.ru",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "am-tech.ru",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "am-tech.ru"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3910",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/types/news"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/users/2"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/comments?post=3910"
+   }
+  ],
+  "wp:featuredmedia": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/media/3928"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/media?parent=3910"
+   }
+  ],
+  "wp:term": [
+   {
+    "taxonomy": "news_category",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_category?post=3910"
+   },
+   {
+    "taxonomy": "news_tag",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_tag?post=3910"
+   }
+  ],
+  "wp:action-publish": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3910"
+   }
+  ],
+  "wp:action-unfiltered-html": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3910"
+   }
+  ],
+  "wp:action-assign-author": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3910"
+   }
+  ],
+  "wp:action-create-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3910"
+   }
+  ],
+  "wp:action-assign-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3910"
+   }
+  ],
+  "wp:action-create-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3910"
+   }
+  ],
+  "wp:action-assign-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3910"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

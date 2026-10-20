@@ -1,0 +1,153 @@
+{
+ "id": 1208,
+ "count": 38,
+ "description": "Промышленное 3D-сканирование применяется для перевода геометрии физического объекта в цифровую форму. Сканер фиксирует поверхность детали и формирует массив пространственных данных, на основе которого можно получить облако точек или полигональную сетку.\r\nНа производстве 3д сканер промышленный используют там, где необходимо сопоставить фактическую геометрию изделия с CAD-моделью, восстановить цифровую документацию по существующей детали или получить данные для метрологического анализа. Такой подход востребован в конструкторских подразделениях и службах контроля качества.\r\n\r\nОсновные задачи промышленного сканирования\r\nПрофессиональный 3D-сканер позволяет работать не только с отдельными размерами, но и с геометрией поверхности в целом. Полученные данные можно использовать для сравнения с номинальной моделью, построения сечений и анализа отклонений.\r\n\r\n\r\n \t<strong>Реверс-инжиниринг.</strong> Сканирование помогает восстановить геометрию готовой детали и использовать ее как основу для построения CAD-модели и подготовки конструкторской документации.\r\n \t<strong>Контроль геометрии и отклонений.</strong> Цифровой результат сканирования можно сопоставить с номинальной CAD-моделью и определить участки, требующие дополнительного анализа.\r\n \t<strong>Инспекция литья и штамповки.</strong> Оцифровка поверхности применяется для оценки формы отливок и штампованных изделий, выявления деформаций и сравнения фактической геометрии с проектной.\r\n \t<strong>Сканирование крупных сборочных узлов.</strong> Портативные и трекерные системы позволяют выполнять измерения габаритных объектов непосредственно в производственной зоне без обязательного перемещения изделия в лабораторию.\r\n\r\nПреимущества оптических и лазерных сканеров\r\nОптические системы выполняют бесконтактное считывание геометрии поверхности. В зависимости от модели оборудование может использовать лазерный источник, структурированный свет, внешний оптический трекер или сочетание нескольких методов. Выбор технологии зависит от размеров объекта, поверхности и требований к измерению.\r\n\r\n\r\n \t<strong>Неразрушающий метод контроля.</strong> Для получения данных не требуется механически воздействовать на деталь, что удобно при работе с готовыми изделиями, формами и ответственными компонентами.\r\n \t<strong>Высокая скорость оцифровки по сравнению с последовательными ручными обмерами.</strong> За один сеанс система собирает большой массив данных по поверхности объекта.\r\n \t<strong>Работа с деталями сложной геометрической формы.</strong> Сканирование подходит для криволинейных поверхностей, переходов, пазов и других элементов, которые сложно полноценно описать набором отдельных ручных измерений.\r\n \t<strong>Интеграция с CAD/CAM-системами.</strong> В представленных AM.TECH решениях результаты могут экспортироваться в распространенные форматы, включая STL, OBJ и PLY, для дальнейшей обработки в инженерном программном обеспечении.\r\n \t<strong>Мобильность.</strong> В каталоге представлены ручные, беспроводные и трекерные решения для работы в лаборатории и непосредственно у объекта.\r\n\r\nКак купить промышленный 3D сканер\r\nВыбор измерительной системы начинается с технической задачи. Универсального сканера для всех типов деталей не существует: оборудование для небольших компонентов и система для крупногабаритных конструкций могут различаться по конфигурации.\r\nПри подборе стоит учитывать:\r\n\r\n\r\n \t<strong>точность и разрешение</strong> — они должны соответствовать допускам изделия и размеру элементов, которые требуется контролировать;\r\n \t<strong>объем сканируемой зоны</strong> — важен с учетом габаритов детали или сборочной единицы;\r\n \t<strong>портативность</strong> — имеет значение, если измерения выполняются в цехе, на производственной площадке или непосредственно на установленном оборудовании;\r\n \t<strong>программное обеспечение</strong> — следует определить, какие операции нужны после сканирования: построение сетки, сравнение с CAD, подготовка отчета или данные для реверс-инжиниринга;\r\n \t<strong>комплектацию и сервис</strong> — обучение, гарантия, техническая поддержка, калибровка и доставка по России должны оцениваться вместе с характеристиками системы.\r\n\r\nВ каталоге AM.TECH представлены ручные лазерные сканеры, оптические трекерные системы и решения для разных производственных сценариев. Специалисты компании могут изучить техническое задание, подобрать подходящую конфигурацию и провести демонстрацию.\r\nАктуальная цена зависит от выбранной системы, комплектации и программного обеспечения. Для подбора оборудования достаточно направить специалистам AM.TECH описание задачи и параметры контролируемых объектов. Это позволяет выбирать решение с учетом конкретного производственного процесса, а не одной паспортной характеристики. Это важно для серийного контроля.",
+ "link": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/",
+ "name": "Промышленные 3D сканеры: оборудование для реверс-инжиниринга и контроля качества",
+ "slug": "vysokotochnye-promyshlennye-3d-skanery",
+ "taxonomy": "product_cat",
+ "parent": 0,
+ "meta": [],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Промышленные 3D-сканеры для контроля качества — купить | AM-Tech</title>\n<meta name=\"description\" content=\"Промышленные 3D-сканеры для контроля качества и реверс-инжиниринга: ручные, лазерные, с оптическим трекером и геодезические. Цена по запросу, демонстрация.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Промышленные 3D-сканеры для контроля качества — купить | AM-Tech\" />\n<meta property=\"og:description\" content=\"Промышленные 3D-сканеры для контроля качества и реверс-инжиниринга: ручные, лазерные, с оптическим трекером и геодезические. Цена по запросу, демонстрация.\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/\" />\n<meta property=\"og:site_name\" content=\"am-tech.ru\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/\",\"url\":\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/\",\"name\":\"Промышленные 3D-сканеры для контроля качества — купить | AM-Tech\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"description\":\"Промышленные 3D-сканеры для контроля качества и реверс-инжиниринга: ручные, лазерные, с оптическим трекером и геодезические. Цена по запросу, демонстрация.\",\"breadcrumb\":{\"@id\":\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/#breadcrumb\"},\"inLanguage\":\"ru-RU\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Главная страница\",\"item\":\"https://am-tech.ru/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Промышленные 3D сканеры: оборудование для реверс-инжиниринга и контроля качества\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"am-tech.ru\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"am-tech.ru\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"am-tech.ru\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "Промышленные 3D-сканеры для контроля качества — купить | AM-Tech",
+  "description": "Промышленные 3D-сканеры для контроля качества и реверс-инжиниринга: ручные, лазерные, с оптическим трекером и геодезические. Цена по запросу, демонстрация.",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "Промышленные 3D-сканеры для контроля качества — купить | AM-Tech",
+  "og_description": "Промышленные 3D-сканеры для контроля качества и реверс-инжиниринга: ручные, лазерные, с оптическим трекером и геодезические. Цена по запросу, демонстрация.",
+  "og_url": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/",
+  "og_site_name": "am-tech.ru",
+  "twitter_card": "summary_large_image",
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "CollectionPage",
+     "@id": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/",
+     "url": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/",
+     "name": "Промышленные 3D-сканеры для контроля качества — купить | AM-Tech",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "description": "Промышленные 3D-сканеры для контроля качества и реверс-инжиниринга: ручные, лазерные, с оптическим трекером и геодезические. Цена по запросу, демонстрация.",
+     "breadcrumb": {
+      "@id": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/#breadcrumb"
+     },
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Главная страница",
+       "item": "https://am-tech.ru/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Промышленные 3D сканеры: оборудование для реверс-инжиниринга и контроля качества"
+      }
+     ]
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "am-tech.ru",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "am-tech.ru",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "am-tech.ru"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "html_description": true,
+ "yoast_seo": {
+  "title": "Промышленные 3D-сканеры для контроля качества — купить | AM-Tech",
+  "desc": "Промышленные 3D-сканеры для контроля качества и реверс-инжиниринга: ручные, лазерные, с оптическим трекером и геодезические. Цена по запросу, демонстрация."
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/product_cat/1208",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/product_cat"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/taxonomies/product_cat"
+   }
+  ],
+  "wp:post_type": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/product?product_cat=1208"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

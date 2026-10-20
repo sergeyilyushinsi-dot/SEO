@@ -1,0 +1,558 @@
+{
+ "id": 1613,
+ "name": "3D-сканер iReal M3",
+ "slug": "3d-skaner-ireal-m3",
+ "permalink": "https://am-tech.ru/product/3d-skaner-ireal-m3/",
+ "date_created": "2025-08-17T06:48:08",
+ "date_created_gmt": "2025-08-17T03:48:08",
+ "date_modified": "2026-10-13T17:11:24",
+ "date_modified_gmt": "2026-10-13T14:11:24",
+ "type": "simple",
+ "status": "publish",
+ "featured": false,
+ "catalog_visibility": "visible",
+ "description": "<p>В основе функционирования сканера лежит прогрессивная технология структурированного инфракрасного света VCSEL. Эта методика гарантирует не только высочайшую точность измерений, но и полную безопасность для зрения оператора и окружающих, что существенно повышает комфорт и продуктивность процесса сканирования.</p>\n<p>Производительность устройства поражает воображение: оно способно осуществлять до 1,5 миллиона замеров в секунду, охватывая зону 580 на 550 миллиметров. Такая скорость обеспечивает молниеносное и детальное сканирование даже масштабных объектов. При этом достигается впечатляющая точность - до 0,1 мм, с объемной погрешностью не более 0,3 мм на метр, что позволяет зафиксировать мельчайшие нюансы поверхности.</p>\n<p>Отличительной чертой сканера является его способность функционировать без использования маркеров. Это значительно ускоряет процесс и делает его более удобным. Система задействует передовые алгоритмы для прецизионного позиционирования и объединения отдельных сканов, гарантируя высочайшую точность итоговой 3D-модели.</p>\n<p>Оптимальное расстояние работы прибора составляет 350-650 мм от объекта, обеспечивая комфортные условия для оператора. При этом сканер эффективно справляется с объектами размером от 0,5 до 4 метров, демонстрируя исключительную универсальность.</p>\n<p>Особого внимания заслуживает способность устройства к высококачественному захвату текстур. Система не только воссоздает геометрию объекта, но и фиксирует его цвет и текстуру в сверхвысоком разрешении. Это критически важно при сканировании произведений искусства, человеческого тела или предметов, где внешний вид играет ключевую роль.</p>\n<p>Все представленное в нашем каталоге оборудование доступно к приобретению на выгодных условиях <a href=\"https://am-tech.ru/leasing/\">лизинга.</a></p>\n<p>Наши специалисты помогут подобрать оптимальную схему лизинга под ваши производственные задачи и финансовые возможности, а также окажут содействие в оформлении всей необходимой документации.</p>",
+ "short_description": "Цветной 3D-сканер <b>am-tech.ru</b> <b>iReal M3</b> – это совершенно новый профессиональный 3D-сканер. Режимы инфракрасного лазера и структурированного света обеспечивают плавный сбор 3D-данных в различных областях применения, будь то сканирование людей или объектов.",
+ "sku": "",
+ "price": "",
+ "regular_price": "",
+ "sale_price": "",
+ "date_on_sale_from": null,
+ "date_on_sale_from_gmt": null,
+ "date_on_sale_to": null,
+ "date_on_sale_to_gmt": null,
+ "on_sale": false,
+ "purchasable": false,
+ "total_sales": 0,
+ "virtual": false,
+ "downloadable": false,
+ "downloads": [],
+ "download_limit": -1,
+ "download_expiry": -1,
+ "external_url": "",
+ "button_text": "",
+ "tax_status": "taxable",
+ "tax_class": "",
+ "manage_stock": false,
+ "stock_quantity": null,
+ "backorders": "no",
+ "backorders_allowed": false,
+ "backordered": false,
+ "low_stock_amount": null,
+ "sold_individually": false,
+ "weight": "",
+ "dimensions": {
+  "length": "",
+  "width": "",
+  "height": ""
+ },
+ "shipping_required": true,
+ "shipping_taxable": true,
+ "shipping_class": "",
+ "shipping_class_id": 0,
+ "reviews_allowed": true,
+ "average_rating": "0",
+ "rating_count": 0,
+ "upsell_ids": [],
+ "cross_sell_ids": [],
+ "parent_id": 0,
+ "purchase_note": "",
+ "categories": [
+  {
+   "id": 24,
+   "name": "3D-сканеры",
+   "slug": "3d-scan"
+  },
+  {
+   "id": 1273,
+   "name": "Лазерные 3d сканеры",
+   "slug": "lazernye-3d-skanery"
+  },
+  {
+   "id": 1272,
+   "name": "Ручные 3d сканеры",
+   "slug": "ruchnye-3d-skanery"
+  }
+ ],
+ "brands": [],
+ "tags": [],
+ "images": [
+  {
+   "id": 1614,
+   "date_created": "2025-08-17T09:48:08",
+   "date_created_gmt": "2025-08-17T03:48:08",
+   "date_modified": "2025-08-17T09:48:08",
+   "date_modified_gmt": "2025-08-17T03:48:08",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/0w69baumnojlwsxc2unl0ot921rflgkz.png",
+   "name": "0w69baumnojlwsxc2unl0ot921rflgkz",
+   "alt": ""
+  },
+  {
+   "id": 1616,
+   "date_created": "2025-08-17T09:48:48",
+   "date_created_gmt": "2025-08-17T03:48:48",
+   "date_modified": "2025-08-17T09:48:48",
+   "date_modified_gmt": "2025-08-17T03:48:48",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/ohs1zqj5zqx68xh6d4aktw6ceoj4ffp5-scaled.png",
+   "name": "ohs1zqj5zqx68xh6d4aktw6ceoj4ffp5",
+   "alt": ""
+  },
+  {
+   "id": 1617,
+   "date_created": "2025-08-17T09:49:04",
+   "date_created_gmt": "2025-08-17T03:49:04",
+   "date_modified": "2025-08-17T09:49:04",
+   "date_modified_gmt": "2025-08-17T03:49:04",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/f1cxiiwtnrg1sppfczvpvr6ap51rrt13-scaled.png",
+   "name": "f1cxiiwtnrg1sppfczvpvr6ap51rrt13",
+   "alt": ""
+  },
+  {
+   "id": 1618,
+   "date_created": "2025-08-17T09:49:25",
+   "date_created_gmt": "2025-08-17T03:49:25",
+   "date_modified": "2025-08-17T09:49:25",
+   "date_modified_gmt": "2025-08-17T03:49:25",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/h1bzm4qx1yhqhdztojqgpm8frmd7r3kv-scaled.png",
+   "name": "h1bzm4qx1yhqhdztojqgpm8frmd7r3kv",
+   "alt": ""
+  },
+  {
+   "id": 1619,
+   "date_created": "2025-08-17T09:49:38",
+   "date_created_gmt": "2025-08-17T03:49:38",
+   "date_modified": "2025-08-17T09:49:38",
+   "date_modified_gmt": "2025-08-17T03:49:38",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/hoqrdxjrue5vajwbit2pbklhwpe607ut-scaled.png",
+   "name": "hoqrdxjrue5vajwbit2pbklhwpe607ut",
+   "alt": ""
+  },
+  {
+   "id": 1620,
+   "date_created": "2025-08-17T09:49:51",
+   "date_created_gmt": "2025-08-17T03:49:51",
+   "date_modified": "2025-08-17T09:49:51",
+   "date_modified_gmt": "2025-08-17T03:49:51",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/8mmrm0e46eb46ea6qu00c2dyfreaftha-scaled.png",
+   "name": "8mmrm0e46eb46ea6qu00c2dyfreaftha",
+   "alt": ""
+  }
+ ],
+ "attributes": [],
+ "default_attributes": [],
+ "variations": [],
+ "grouped_products": [],
+ "menu_order": 999,
+ "price_html": "",
+ "related_ids": [
+  1683,
+  1680,
+  2939,
+  1668,
+  1583
+ ],
+ "meta_data": [
+  {
+   "id": 24741,
+   "key": "bitrix_id",
+   "value": "2234"
+  },
+  {
+   "id": 24742,
+   "key": "Символьный код",
+   "value": "ireal-m3"
+  },
+  {
+   "id": 24743,
+   "key": "Анонс",
+   "value": "<p>Цветной 3D-сканер <b>am-tech.ru</b>&nbsp;<b>iReal M3</b> &ndash; это совершенно новый профессиональный 3D-сканер. Режимы инфракрасного лазера и структурированного света обеспечивают плавный сбор 3D-данных в различных областях применения, будь то сканирование людей или объектов.</p>"
+  },
+  {
+   "id": 24744,
+   "key": "Описание",
+   "value": "<p>В основе функционирования сканера лежит прогрессивная технология структурированного инфракрасного света VCSEL. Эта методика гарантирует не только высочайшую точность измерений, но и полную безопасность для зрения оператора и окружающих, что существенно повышает комфорт и продуктивность процесса сканирования.</p>\r\n<p>Цветной 3D-сканер iReal M3 проецирует сложный паттерн синего света на объект сканирования, используя светодиодный источник. Высокоразрешающие камеры фиксируют деформации этого паттерна, позволяя системе с исключительной точностью реконструировать трехмерную геометрию объекта.</p>\r\n<p>Производительность устройства поражает воображение: оно способно осуществлять до 1,5 миллиона замеров в секунду, охватывая зону 580 на 550 миллиметров. Такая скорость обеспечивает молниеносное и детальное сканирование даже масштабных объектов. При этом достигается впечатляющая точность - до 0,1 мм, с объемной погрешностью не более 0,3 мм на метр, что позволяет зафиксировать мельчайшие нюансы поверхности.</p>\r\n<p>Отличительной чертой сканера является его способность функционировать без использования маркеров. Это значительно ускоряет процесс и делает его более удобным. Система задействует передовые алгоритмы для прецизионного позиционирования и объединения отдельных сканов, гарантируя высочайшую точность итоговой 3D-модели.</p>\r\n<p>Оптимальное расстояние работы прибора составляет 350-650 мм от объекта, обеспечивая комфортные условия для оператора. При этом сканер эффективно справляется с объектами размером от 0,5 до 4 метров, демонстрируя исключительную универсальность.</p>\r\n<p>Особого внимания заслуживает способность устройства к высококачественному захвату текстур. Система не только воссоздает геометрию объекта, но и фиксирует его цвет и текстуру в сверхвысоком разрешении. Это критически важно при сканировании произведений искусства, человеческого тела или предметов, где внешний вид играет ключевую роль.</p>\r\n<p>Все представленное в нашем каталоге оборудование доступно к приобретению на выгодных условиях <a href=\"https://am-tech.ru/leasing/\">лизинга.</a></p>\r\n<p>Наши специалисты помогут подобрать оптимальную схему лизинга под ваши производственные задачи и финансовые возможности, а также окажут содействие в оформлении всей необходимой документации.</p>"
+  },
+  {
+   "id": 24748,
+   "key": "Точность, мм",
+   "value": "до 0,1"
+  },
+  {
+   "id": 24749,
+   "key": "Объемная точность, мм/м",
+   "value": "до 0,25"
+  },
+  {
+   "id": 24750,
+   "key": "Доверительная вероятность",
+   "value": "0,95"
+  },
+  {
+   "id": 24751,
+   "key": "Возможность работы со щупом",
+   "value": "нет"
+  },
+  {
+   "id": 24752,
+   "key": "Разрешение, мм",
+   "value": "до 0,1"
+  },
+  {
+   "id": 24753,
+   "key": "Скорость измерений, точек/сек",
+   "value": "до 60"
+  },
+  {
+   "id": 24754,
+   "key": "Область сканирования (поле зрения), мм",
+   "value": "до 580 x 550"
+  },
+  {
+   "id": 24755,
+   "key": "Оптимальное расстояние до объекта, мм",
+   "value": "400"
+  },
+  {
+   "id": 24756,
+   "key": "Источник излучения",
+   "value": "Инфракрасные параллельные лазерные линии: 7 линий Инфракрасный структурированный свет VCSEL: белый структурированный подсвет"
+  },
+  {
+   "id": 24757,
+   "key": "Размеры измеряемого объекта, м",
+   "value": "0,05-4 (режим ИК паралл. лаз. линий) 0,3-4 (режим ИК структ. света VCSEL)"
+  },
+  {
+   "id": 24758,
+   "key": "Габариты, мм",
+   "value": "140×94×258"
+  },
+  {
+   "id": 24759,
+   "key": "Вес, кг",
+   "value": "0,856"
+  },
+  {
+   "id": 24760,
+   "key": "Температура окружающей среды, °C",
+   "value": "от -10 до +40"
+  },
+  {
+   "id": 24761,
+   "key": "Наличие в реестре средств измерений",
+   "value": "нет"
+  },
+  {
+   "id": 24762,
+   "key": "Страна производства",
+   "value": "Китай"
+  },
+  {
+   "id": 24763,
+   "key": "Связанные товары по фильтру",
+   "value": "[]"
+  },
+  {
+   "id": 24764,
+   "key": "Материалы",
+   "value": "/pr_new_files/iblock/7c4/q9e69xgv97r9q31pck071f2rmfxziaee.pdf"
+  },
+  {
+   "id": 24765,
+   "key": "Картинки галереи",
+   "value": "/pr_new_files/iblock/ce8/ohs1zqj5zqx68xh6d4aktw6ceoj4ffp5.png"
+  },
+  {
+   "id": 24766,
+   "key": "Вес, кг.",
+   "value": "0,856"
+  },
+  {
+   "id": 24767,
+   "key": "Класс лазера (безопасность для глаз)",
+   "value": "Сертификат EN 60825 класса I (безопасность для глаз)&lt;br&gt;Сертификат фотобиологической безопасности EN 62471"
+  },
+  {
+   "id": 24768,
+   "key": "bitrix_picture",
+   "value": "/pr_new_files/iblock/94e/sifmalj82zsitchsixfpgy90utl8cxa0.png"
+  },
+  {
+   "id": 24771,
+   "key": "Документы товара",
+   "value": "1615"
+  },
+  {
+   "id": 30942,
+   "key": "wbcr_wp_old_slug",
+   "value": "3d-%d1%81%d0%ba%d0%b0%d0%bd%d0%b5%d1%80-ireal-m3"
+  },
+  {
+   "id": 35582,
+   "key": "Код с видео (iframe)",
+   "value": ""
+  },
+  {
+   "id": 35583,
+   "key": "Файл видео",
+   "value": ""
+  },
+  {
+   "id": 35584,
+   "key": "_news_category",
+   "value": "0"
+  },
+  {
+   "id": 35585,
+   "key": "_news_tag",
+   "value": "0"
+  },
+  {
+   "id": 35586,
+   "key": "_custom_advantages",
+   "value": ""
+  },
+  {
+   "id": 35587,
+   "key": "_my_menu_type",
+   "value": "обычное"
+  },
+  {
+   "id": 35588,
+   "key": "_video_block",
+   "value": {
+    "video_title": "",
+    "video_post_id": "",
+    "right_title": "",
+    "subtitle": "",
+    "video_description": "",
+    "button_text": "Смотреть больше видео",
+    "tag_id": ""
+   }
+  },
+  {
+   "id": 35589,
+   "key": "boldgrid_in_page_containers",
+   "value": "1"
+  },
+  {
+   "id": 35590,
+   "key": "_yoast_wpseo_primary_product_brand",
+   "value": ""
+  },
+  {
+   "id": 35591,
+   "key": "_yoast_wpseo_primary_product_cat",
+   "value": ""
+  },
+  {
+   "id": 35592,
+   "key": "_yoast_wpseo_content_score",
+   "value": "90"
+  },
+  {
+   "id": 35593,
+   "key": "_yoast_wpseo_estimated-reading-time-minutes",
+   "value": "2"
+  },
+  {
+   "id": 35769,
+   "key": "_yoast_wpseo_title",
+   "value": "3D-сканер iReal M3 — купить с доставкой по России | AM-Tech"
+  },
+  {
+   "id": 35770,
+   "key": "_yoast_wpseo_metadesc",
+   "value": "Заказать 3D-сканер iReal M3 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91"
+  },
+  {
+   "id": 36095,
+   "key": "_vcv-sourceChecksum",
+   "value": "e0d540ce157ee2bb31ffebf949679a82"
+  },
+  {
+   "id": 36096,
+   "key": "vcvSourceCssFileUrl",
+   "value": "/assets-bundles/e0d540ce157ee2bb31ffebf949679a82.source.css"
+  },
+  {
+   "id": 36097,
+   "key": "_vcv-globalCssMigrated",
+   "value": "1"
+  },
+  {
+   "id": 52859,
+   "key": "_elementor_page_assets",
+   "value": []
+  }
+ ],
+ "stock_status": "instock",
+ "has_options": false,
+ "post_password": "",
+ "global_unique_id": "",
+ "permalink_template": "https://am-tech.ru/product/%pagename%/",
+ "generated_slug": "3d-skaner-ireal-m3",
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>3D-сканер iReal M3 — купить с доставкой по России | AM-Tech</title>\n<meta name=\"description\" content=\"Заказать 3D-сканер iReal M3 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/product/3d-skaner-ireal-m3/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"3D-сканер iReal M3 — купить с доставкой по России | AM-Tech\" />\n<meta property=\"og:description\" content=\"Заказать 3D-сканер iReal M3 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/product/3d-skaner-ireal-m3/\" />\n<meta property=\"og:site_name\" content=\"AM.TECH\" />\n<meta property=\"article:modified_time\" content=\"2026-10-13T14:11:24+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2025/08/0w69baumnojlwsxc2unl0ot921rflgkz.png\" />\n\t<meta property=\"og:image:width\" content=\"621\" />\n\t<meta property=\"og:image:height\" content=\"1000\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"2 минуты\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/product/3d-skaner-ireal-m3/\",\"url\":\"https://am-tech.ru/product/3d-skaner-ireal-m3/\",\"name\":\"3D-сканер iReal M3 — купить с доставкой по России | AM-Tech\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/product/3d-skaner-ireal-m3/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/product/3d-skaner-ireal-m3/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2025/08/0w69baumnojlwsxc2unl0ot921rflgkz.png\",\"datePublished\":\"2025-08-17T03:48:08+00:00\",\"dateModified\":\"2026-10-13T14:11:24+00:00\",\"description\":\"Заказать 3D-сканер iReal M3 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91\",\"breadcrumb\":{\"@id\":\"https://am-tech.ru/product/3d-skaner-ireal-m3/#breadcrumb\"},\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/product/3d-skaner-ireal-m3/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/product/3d-skaner-ireal-m3/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2025/08/0w69baumnojlwsxc2unl0ot921rflgkz.png\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2025/08/0w69baumnojlwsxc2unl0ot921rflgkz.png\",\"width\":621,\"height\":1000},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://am-tech.ru/product/3d-skaner-ireal-m3/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Главная страница\",\"item\":\"https://am-tech.ru/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"default\",\"item\":\"https://am-tech.ru/katalog/default/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"3D-сканер iReal M3\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"AM.TECH\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"AM.TECH\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"AM.TECH\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "3D-сканер iReal M3 — купить с доставкой по России | AM-Tech",
+  "description": "Заказать 3D-сканер iReal M3 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/product/3d-skaner-ireal-m3/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "3D-сканер iReal M3 — купить с доставкой по России | AM-Tech",
+  "og_description": "Заказать 3D-сканер iReal M3 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91",
+  "og_url": "https://am-tech.ru/product/3d-skaner-ireal-m3/",
+  "og_site_name": "AM.TECH",
+  "article_modified_time": "2026-10-13T14:11:24+00:00",
+  "og_image": [
+   {
+    "width": 621,
+    "height": 1000,
+    "url": "https://am-tech.ru/wp-content/uploads/2025/08/0w69baumnojlwsxc2unl0ot921rflgkz.png",
+    "type": "image/png"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "2 минуты"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/product/3d-skaner-ireal-m3/",
+     "url": "https://am-tech.ru/product/3d-skaner-ireal-m3/",
+     "name": "3D-сканер iReal M3 — купить с доставкой по России | AM-Tech",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/product/3d-skaner-ireal-m3/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/product/3d-skaner-ireal-m3/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2025/08/0w69baumnojlwsxc2unl0ot921rflgkz.png",
+     "datePublished": "2025-08-17T03:48:08+00:00",
+     "dateModified": "2026-10-13T14:11:24+00:00",
+     "description": "Заказать 3D-сканер iReal M3 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91",
+     "breadcrumb": {
+      "@id": "https://am-tech.ru/product/3d-skaner-ireal-m3/#breadcrumb"
+     },
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/product/3d-skaner-ireal-m3/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/product/3d-skaner-ireal-m3/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2025/08/0w69baumnojlwsxc2unl0ot921rflgkz.png",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2025/08/0w69baumnojlwsxc2unl0ot921rflgkz.png",
+     "width": 621,
+     "height": 1000
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://am-tech.ru/product/3d-skaner-ireal-m3/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Главная страница",
+       "item": "https://am-tech.ru/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "default",
+       "item": "https://am-tech.ru/katalog/default/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "3D-сканер iReal M3"
+      }
+     ]
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "AM.TECH",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "AM.TECH",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "AM.TECH"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wc/v3/products/1613",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wc/v3/products"
+   }
+  ]
+ }
+}

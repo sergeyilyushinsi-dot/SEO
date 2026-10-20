@@ -1,0 +1,620 @@
+{
+ "id": 1430,
+ "name": "3D-принтер SLA-400",
+ "slug": "sla-400",
+ "permalink": "https://am-tech.ru/product/sla-400/",
+ "date_created": "2025-08-17T00:46:19",
+ "date_created_gmt": "2025-08-16T21:46:19",
+ "date_modified": "2026-09-23T15:43:32",
+ "date_modified_gmt": "2026-09-23T12:43:32",
+ "type": "simple",
+ "status": "publish",
+ "featured": false,
+ "catalog_visibility": "visible",
+ "description": "<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n<h2>3D-принтер SLA-400: промышленное решение для высокоточной стереолитографической печати</h2>\r\nSLA-400 - это передовой промышленный 3D-принтер, использующий технологию стереолитографии (SLA) для создания высокоточных изделий из фотополимерных смол.&nbsp;\r\n<h2>Преимущества</h2>\r\n<ol class=\"\">\r\n \t<li>Большие размеры рабочей области (400 x 400 x 350 мм) позволяют создавать крупногабаритные изделия или множество мелких деталей одновременно, значительно повышая производительность.</li>\r\n \t<li>Высокая точность печати (до 25 микрон) обеспечивает создание изделий с минимальными допусками, что критически важно в медицине, ювелирном деле и промышленном дизайне.</li>\r\n \t<li>Гладкая поверхность готовых изделий минимизирует необходимость постобработки, сокращая время и затраты на производство.</li>\r\n \t<li>Высокая скорость печати (до 25 мм в час по вертикали) в сочетании с возможностью одновременного изготовления нескольких деталей значительно ускоряет процесс прототипирования и мелкосерийного производства.</li>\r\n \t<li>Широкий спектр применения делает SLA-400 универсальным инструментом для различных отраслей, от проектирования продукции до образования и научных исследований.</li>\r\n</ol>\r\n<h2>Принцип работы</h2>\r\nSLA 3D-принтер SLA-400 использует технологию стереолитографии для создания объектов. Процесс печати можно разделить на несколько этапов:\r\n<ol class=\"\">\r\n \t<li>Подготовка модели: 3D-модель объекта загружается в специализированное программное обеспечение, которое разбивает ее на тонкие слои, подготавливая к печати.</li>\r\n \t<li>Печать: Процесс начинается с подъема платформы до верхнего уровня жидкого фотополимера. Мощный ультрафиолетовый лазер точечно облучает поверхность жидкости в соответствии с контуром первого слоя модели, вызывая затвердевание фотополимера.</li>\r\n \t<li>Послойное формирование: После завершения каждого слоя платформа опускается на толщину следующего слоя, и процесс повторяется. Это продолжается до полного формирования модели.</li>\r\n \t<li>Послепечатная обработка: Готовая модель извлекается из бака с фотополимером и проходит несколько этапов обработки, включая удаление неотвердевших остатков материала и финальное отверждение под УФ-светом.</li>\r\n</ol>\r\nЭтот процесс обеспечивает высокую точность и детализацию, делая SLA-400 идеальным выбором для создания объектов с высокими требованиями к качеству поверхности и детализации.\r\n<h2>Область применения</h2>\r\nSLA-400 успешно применяют во многих отраслях промышленности:\r\n<ol>\r\n \t<li>Проектирование продукции: SLA-400 ускоряет цикл разработки, предоставляя возможность быстрого создания сложных прототипов для всесторонней оценки и оптимизации дизайна.</li>\r\n \t<li>Производство: Принтер становится ключевым элементом современного производства, обеспечивая оперативное изготовление специализированных инструментов и форм, что существенно сокращает производственные циклы.</li>\r\n \t<li>Стоматология и медицина: SLA-400 значительно улучшает персонализированную медицину, позволяя создавать высокоточные анатомические модели, хирургические гиды и индивидуальные протезы с непревзойденной точностью.</li>\r\n \t<li>Ювелирное дело: Принтер открывает новую главу в ювелирном искусстве, обеспечивая возможность создания уникальных, сложных дизайнов с микронной точностью, недоступной традиционным методам.</li>\r\n \t<li>Промышленный дизайн: SLA-400 становится источником вдохновения для дизайнеров, позволяя воплощать самые авангардные и футуристические концепции в осязаемые, высокодетализированные модели.</li>\r\n \t<li>Образование и наука: В академических кругах SLA-400 становится мощным инструментом для расширения границ знаний, позволяя визуализировать сложные научные концепции и проводить передовые исследования.</li>\r\n</ol>\r\n<h2>Технические характеристики</h2>\r\n<ul class=\"\">\r\n \t<li>Технология печати: SLA (стереолитография)</li>\r\n \t<li>Рабочая область: 400 x 400 x 400 мм</li>\r\n \t<li>Толщина слоя: от 50 микрон</li>\r\n \t<li>Скорость печати: до 25 мм в час по вертикали</li>\r\n \t<li>Точность: ±0.025 мм</li>\r\n \t<li>Совместимые материалы: широкий спектр фотополимерных смол</li>\r\n \t<li>Программное обеспечение: собственное ПО с открытыми настройками</li>\r\n \t<li>Подключение: USB, Ethernet, Wi-Fi</li>\r\n</ul>\r\n<h2>Почему выбирают SLA-400</h2>\r\n<ol>\r\n \t<li>Эталон точности: SLA-400 устанавливает новые стандарты в 3D-печати, обеспечивая исключительную детализацию и безупречное качество поверхности, что критически важно для создания сложных прототипов и функциональных моделей.</li>\r\n \t<li>Адаптивность к задачам: Этот принтер демонстрирует выдающуюся гибкость, легко переключаясь между созданием концептуальных моделей и выпуском малых серий готовой продукции, удовлетворяя потребности различных индустрий.</li>\r\n \t<li>Финансовая эффективность: Несмотря на первоначальные вложения, SLA-400 обеспечивает значительную экономию в долгосрочной перспективе, оптимизируя затраты на разработку и минимизируя необходимость в традиционных производственных инструментах.</li>\r\n \t<li>Оптимизация рабочего процесса: Высокая производительность и возможность параллельной печати нескольких объектов существенно ускоряют циклы разработки и производства, давая вашему бизнесу конкурентное преимущество.</li>\r\n \t<li>Материальное разнообразие: Совместимость с широким ассортиментом фотополимерных смол позволяет подобрать идеальный материал для каждого конкретного применения, от создания гибких прототипов до производства термостойких деталей.</li>\r\n</ol>\r\nСтереолитографический принтер SLA-400 - это идеальный синтез качества, скорости и универсальности. Будь то небольшое предприятие или крупное производство, SLA-400 способен превзойти самые высокие ожидания в сфере 3D-печати.\r\n\r\nЦена SLA принтера SLA-400 может варьироваться в зависимости от комплектации и дополнительных опций. Для получения актуальной информации о стоимости и возможности купить 3D-принтер SLA, свяжитесь с нашими специалистами.\r\n<table style=\"border-collapse: collapse; width: 98.6395%;\" border=\"0\">\r\n<tbody>\r\n<tr style=\"height: 215px;\">\r\n<td style=\"width: 15.5627%; height: 150px;\" align=\"center\"><img src=\"/upload/editor_images/1722257106-1.jpg\" alt=\"\" width=\"200\" height=\"141\"></td>\r\n<td style=\"width: 15.7963%; height: 150px;\" align=\"center\"><img src=\"/upload/editor_images/1722257117-2.jpg\" alt=\"\" width=\"200\" height=\"141\"></td>\r\n<td style=\"width: 15.9362%;\" align=\"center\"><img src=\"/upload/editor_images/1722257151-3.jpg\" alt=\"\" width=\"200\" height=\"140\"></td>\r\n<td style=\"width: 16.5344%; height: 150px;\" align=\"center\"><img src=\"/upload/editor_images/1722257197-4.jpg\" alt=\"\" width=\"200\" height=\"140\"></td>\r\n<td style=\"width: 16.3247%; height: 150px;\" align=\"center\"><img src=\"/upload/editor_images/1722257654-imagetools0.jpg\" alt=\"\" width=\"198\" height=\"141\"></td>\r\n</tr>\r\n<tr>\r\n<td style=\"width: 15.5627%; vertical-align: middle; line-height: 1.2;\" scope=\"rowgroup\" align=\"center\">Встроенная камера</td>\r\n<td style=\"width: 15.7963%; vertical-align: middle; line-height: 1.2;\" align=\"center\">Легко заменяемый резервуар\r\nдля смолы</td>\r\n<td style=\"width: 15.9362%; vertical-align: middle; line-height: 1.2;\">\r\n<p align=\"center\">Большой экран</p>\r\n</td>\r\n<td style=\"width: 16.5344%; vertical-align: middle; line-height: 1.2;\" align=\"center\">Съемная платформа\r\nдля более удобной чистки</td>\r\n<td style=\"width: 16.3247%; vertical-align: middle; line-height: 1.2;\" align=\"center\">Постоянная внутренняя температура и влажность</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<h3>Примеры изделий, созданных по технологии SLA:</h3>\r\n<table style=\"border-collapse: collapse; width: 98.6395%;\" border=\"0\">\r\n<tbody>\r\n<tr>\r\n<td style=\"width: 49.7586%;\" align=\"center\"><img src=\"/upload/editor_images/1722258856-RRR_7629.jpg\" alt=\"\" width=\"400\" height=\"252\"></td>\r\n<td style=\"width: 49.7586%;\" align=\"center\"><img src=\"/upload/editor_images/1722258983-RRR_7627.jpg\" alt=\"\" width=\"400\" height=\"252\"></td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n&nbsp;\r\n\r\nВсе представленное в нашем каталоге оборудование доступно к приобретению на выгодных условиях <a href=\"https://am-tech.ru/leasing/\">лизинга.</a>\r\n\r\nНаши специалисты помогут подобрать оптимальную схему лизинга под ваши производственные задачи и финансовые возможности, а также окажут содействие в оформлении всей необходимой документации.\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+ "short_description": "<span style=\"font-family: var(--ui-font-family-primary, var(--ui-font-family-helvetica));\">Машина профессионального класса для получения высокоточных изделий. Установка обладает открытой архитектурой, что позволяет использовать ее, как универсальный инструмент, печатая выжигаемые модели для литья, мастер модели, функциональные изделия или осуществлять прототипирование с точностью 0,01 мм.</span>",
+ "sku": "",
+ "price": "",
+ "regular_price": "",
+ "sale_price": "",
+ "date_on_sale_from": null,
+ "date_on_sale_from_gmt": null,
+ "date_on_sale_to": null,
+ "date_on_sale_to_gmt": null,
+ "on_sale": false,
+ "purchasable": false,
+ "total_sales": 0,
+ "virtual": false,
+ "downloadable": false,
+ "downloads": [],
+ "download_limit": -1,
+ "download_expiry": -1,
+ "external_url": "",
+ "button_text": "",
+ "tax_status": "taxable",
+ "tax_class": "",
+ "manage_stock": false,
+ "stock_quantity": null,
+ "backorders": "no",
+ "backorders_allowed": false,
+ "backordered": false,
+ "low_stock_amount": null,
+ "sold_individually": false,
+ "weight": "",
+ "dimensions": {
+  "length": "",
+  "width": "",
+  "height": ""
+ },
+ "shipping_required": true,
+ "shipping_taxable": true,
+ "shipping_class": "",
+ "shipping_class_id": 0,
+ "reviews_allowed": true,
+ "average_rating": "0",
+ "rating_count": 0,
+ "upsell_ids": [],
+ "cross_sell_ids": [],
+ "parent_id": 0,
+ "purchase_note": "",
+ "categories": [
+  {
+   "id": 1022,
+   "name": "SLA 3D-принтеры",
+   "slug": "sla-3d-printery"
+  }
+ ],
+ "brands": [],
+ "tags": [],
+ "images": [
+  {
+   "id": 1431,
+   "date_created": "2025-08-17T03:46:19",
+   "date_created_gmt": "2025-08-16T21:46:19",
+   "date_modified": "2025-08-17T03:46:19",
+   "date_modified_gmt": "2025-08-16T21:46:19",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/c6ib5g0qiflob21qm9a3nu0ppm9vbvcn.webp",
+   "name": "c6ib5g0qiflob21qm9a3nu0ppm9vbvcn",
+   "alt": ""
+  },
+  {
+   "id": 1432,
+   "date_created": "2025-08-17T03:46:20",
+   "date_created_gmt": "2025-08-16T21:46:20",
+   "date_modified": "2025-08-17T03:46:20",
+   "date_modified_gmt": "2025-08-16T21:46:20",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/3fbammmncmuovicmnipl2gky53vgpb88.png",
+   "name": "3fbammmncmuovicmnipl2gky53vgpb88",
+   "alt": ""
+  },
+  {
+   "id": 1433,
+   "date_created": "2025-08-17T04:00:19",
+   "date_created_gmt": "2025-08-16T22:00:19",
+   "date_modified": "2025-08-17T04:00:19",
+   "date_modified_gmt": "2025-08-16T22:00:19",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/zgn4thrz01zpsa43xf18q0sw7915ub4e.jpg",
+   "name": "zgn4thrz01zpsa43xf18q0sw7915ub4e",
+   "alt": ""
+  },
+  {
+   "id": 1434,
+   "date_created": "2025-08-17T04:00:23",
+   "date_created_gmt": "2025-08-16T22:00:23",
+   "date_modified": "2025-08-17T04:00:23",
+   "date_modified_gmt": "2025-08-16T22:00:23",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/cqqwptuj54vmj6c4pfopuhkz6dr3l7x6-1.jpg",
+   "name": "cqqwptuj54vmj6c4pfopuhkz6dr3l7x6-1",
+   "alt": ""
+  },
+  {
+   "id": 1435,
+   "date_created": "2025-08-17T04:00:24",
+   "date_created_gmt": "2025-08-16T22:00:24",
+   "date_modified": "2025-08-17T04:00:24",
+   "date_modified_gmt": "2025-08-16T22:00:24",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/kti5n22mwsgfo7taloei35aia7f64iea-scaled.png",
+   "name": "kti5n22mwsgfo7taloei35aia7f64iea",
+   "alt": ""
+  },
+  {
+   "id": 1436,
+   "date_created": "2025-08-17T04:38:27",
+   "date_created_gmt": "2025-08-16T22:38:27",
+   "date_modified": "2025-08-17T04:38:27",
+   "date_modified_gmt": "2025-08-16T22:38:27",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/7lv6wndjqdpyg0e6kixs8xcougwl5n0w.png",
+   "name": "7lv6wndjqdpyg0e6kixs8xcougwl5n0w",
+   "alt": ""
+  },
+  {
+   "id": 1437,
+   "date_created": "2025-08-17T04:39:36",
+   "date_created_gmt": "2025-08-16T22:39:36",
+   "date_modified": "2025-08-17T04:39:36",
+   "date_modified_gmt": "2025-08-16T22:39:36",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/2bs440k680hmujhqzpfb8hnp9elcy67m-1.jpg",
+   "name": "2bs440k680hmujhqzpfb8hnp9elcy67m-1",
+   "alt": ""
+  },
+  {
+   "id": 1438,
+   "date_created": "2025-08-17T04:39:37",
+   "date_created_gmt": "2025-08-16T22:39:37",
+   "date_modified": "2025-08-17T04:39:37",
+   "date_modified_gmt": "2025-08-16T22:39:37",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/dhozowhtk6bd8fkq60nf1krblafju1pv-1.jpg",
+   "name": "dhozowhtk6bd8fkq60nf1krblafju1pv-1",
+   "alt": ""
+  },
+  {
+   "id": 1439,
+   "date_created": "2025-08-17T04:39:37",
+   "date_created_gmt": "2025-08-16T22:39:37",
+   "date_modified": "2025-08-17T04:39:37",
+   "date_modified_gmt": "2025-08-16T22:39:37",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/kvxnmebq09yj3gdkjp2x3x134xg4a9ez-1.jpg",
+   "name": "kvxnmebq09yj3gdkjp2x3x134xg4a9ez-1",
+   "alt": ""
+  },
+  {
+   "id": 1440,
+   "date_created": "2025-08-17T04:39:38",
+   "date_created_gmt": "2025-08-16T22:39:38",
+   "date_modified": "2025-08-17T04:39:38",
+   "date_modified_gmt": "2025-08-16T22:39:38",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/jv7akcn1uqc1436o1zyi319srqbkxvdt.jpg",
+   "name": "jv7akcn1uqc1436o1zyi319srqbkxvdt",
+   "alt": ""
+  },
+  {
+   "id": 1441,
+   "date_created": "2025-08-17T04:39:39",
+   "date_created_gmt": "2025-08-16T22:39:39",
+   "date_modified": "2025-08-17T04:39:39",
+   "date_modified_gmt": "2025-08-16T22:39:39",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/inqauvbfr1sd3wgn3wl0ydmwp16g092n.png",
+   "name": "inqauvbfr1sd3wgn3wl0ydmwp16g092n",
+   "alt": ""
+  },
+  {
+   "id": 1442,
+   "date_created": "2025-08-17T04:39:40",
+   "date_created_gmt": "2025-08-16T22:39:40",
+   "date_modified": "2025-08-17T04:39:40",
+   "date_modified_gmt": "2025-08-16T22:39:40",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/pi6mol8er67c77dlwh08zftz4gll3b9k.png",
+   "name": "pi6mol8er67c77dlwh08zftz4gll3b9k",
+   "alt": ""
+  }
+ ],
+ "attributes": [
+  {
+   "id": 3489,
+   "name": "Диаметр лазерного пятна",
+   "slug": "pa_diametr-lazernogo-pjatna",
+   "position": 1,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "0.08-0.12"
+   ]
+  },
+  {
+   "id": 3485,
+   "name": "Количество лазеров, шт",
+   "slug": "pa_kolichestvo-lazerov-sht",
+   "position": 2,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "1"
+   ]
+  },
+  {
+   "id": 3487,
+   "name": "Материалы печати",
+   "slug": "pa_materialy-pechati",
+   "position": 3,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "жидкая фотополимерная смола"
+   ]
+  },
+  {
+   "id": 3511,
+   "name": "Размер области построения, мм",
+   "slug": "pa_oblasti-postroenija-mm",
+   "position": 4,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "400 x 400 x350"
+   ]
+  },
+  {
+   "id": 3483,
+   "name": "Страна производства",
+   "slug": "pa_strana-proizvodstva",
+   "position": 5,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "Россия"
+   ]
+  },
+  {
+   "id": 3501,
+   "name": "Вид лазера",
+   "slug": "pa_vid-lazera",
+   "position": 6,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "Твердотельный диодный UV"
+   ]
+  }
+ ],
+ "default_attributes": [],
+ "variations": [],
+ "grouped_products": [],
+ "menu_order": 0,
+ "price_html": "",
+ "related_ids": [
+  1387,
+  1465,
+  1505,
+  1443,
+  1485
+ ],
+ "meta_data": [
+  {
+   "id": 23378,
+   "key": "Анонс",
+   "value": "<p><span style=\"font-family: var(--ui-font-family-primary, var(--ui-font-family-helvetica));\">Машина профессионального класса для получения высокоточных изделий. Установка обладает открытой архитектурой, что позволяет использовать ее, как универсальный инструмент, печатая выжигаемые модели для литья, мастер модели, функциональные изделия или осуществлять прототипирование с точностью 0,01 мм.</span></p>"
+  },
+  {
+   "id": 23379,
+   "key": "Описание",
+   "value": "<h2>3D-принтер SLA-400: промышленное решение для высокоточной стереолитографической печати</h2>\r\n<p>SLA-400 - это передовой промышленный 3D-принтер, использующий технологию стереолитографии (SLA) для создания высокоточных изделий из фотополимерных смол.&nbsp;</p>\r\n<h2>Преимущества</h2>\r\n<ol>\r\n<li>Большие размеры рабочей области (400 x 400 x 350 мм) позволяют создавать крупногабаритные изделия или множество мелких деталей одновременно, значительно повышая производительность.</li>\r\n<li>Высокая точность печати (до 25 микрон) обеспечивает создание изделий с минимальными допусками, что критически важно в медицине, ювелирном деле и промышленном дизайне.</li>\r\n<li>Гладкая поверхность готовых изделий минимизирует необходимость постобработки, сокращая время и затраты на производство.</li>\r\n<li>Высокая скорость печати (до 25 мм в час по вертикали) в сочетании с возможностью одновременного изготовления нескольких деталей значительно ускоряет процесс прототипирования и мелкосерийного производства.</li>\r\n<li>Широкий спектр применения делает SLA-400 универсальным инструментом для различных отраслей, от проектирования продукции до образования и научных исследований.</li>\r\n</ol>\r\n<h2>Принцип работы</h2>\r\n<p>SLA 3D-принтер SLA-400 использует технологию стереолитографии для создания объектов. Процесс печати можно разделить на несколько этапов:</p>\r\n<ol>\r\n<li>Подготовка модели: 3D-модель объекта загружается в специализированное программное обеспечение, которое разбивает ее на тонкие слои, подготавливая к печати.</li>\r\n<li>Печать: Процесс начинается с подъема платформы до верхнего уровня жидкого фотополимера. Мощный ультрафиолетовый лазер точечно облучает поверхность жидкости в соответствии с контуром первого слоя модели, вызывая затвердевание фотополимера.</li>\r\n<li>Послойное формирование: После завершения каждого слоя платформа опускается на толщину следующего слоя, и процесс повторяется. Это продолжается до полного формирования модели.</li>\r\n<li>Послепечатная обработка: Готовая модель извлекается из бака с фотополимером и проходит несколько этапов обработки, включая удаление неотвердевших остатков материала и финальное отверждение под УФ-светом.</li>\r\n</ol>\r\n<p>Этот процесс обеспечивает высокую точность и детализацию, делая SLA-400 идеальным выбором для создания объектов с высокими требованиями к качеству поверхности и детализации.</p>\r\n<h2>Область применения</h2>\r\n<p>SLA-400 успешно применяют во многих отраслях промышленности:</p>\r\n<ol>\r\n<li>Проектирование продукции: SLA-400 ускоряет цикл разработки, предоставляя возможность быстрого создания сложных прототипов для всесторонней оценки и оптимизации дизайна.</li>\r\n<li>Производство: Принтер становится ключевым элементом современного производства, обеспечивая оперативное изготовление специализированных инструментов и форм, что существенно сокращает производственные циклы.</li>\r\n<li>Стоматология и медицина: SLA-400 значительно улучшает персонализированную медицину, позволяя создавать высокоточные анатомические модели, хирургические гиды и индивидуальные протезы с непревзойденной точностью.</li>\r\n<li>Ювелирное дело: Принтер открывает новую главу в ювелирном искусстве, обеспечивая возможность создания уникальных, сложных дизайнов с микронной точностью, недоступной традиционным методам.</li>\r\n<li>Промышленный дизайн: SLA-400 становится источником вдохновения для дизайнеров, позволяя воплощать самые авангардные и футуристические концепции в осязаемые, высокодетализированные модели.</li>\r\n<li>Образование и наука: В академических кругах SLA-400 становится мощным инструментом для расширения границ знаний, позволяя визуализировать сложные научные концепции и проводить передовые исследования.</li>\r\n</ol>\r\n<h2>Технические характеристики</h2>\r\n<ul>\r\n<li>Технология печати: SLA (стереолитография)</li>\r\n<li>Рабочая область: 400 x 400 x 400 мм</li>\r\n<li>Толщина слоя: от 50 микрон</li>\r\n<li>Скорость печати: до 25 мм в час по вертикали</li>\r\n<li>Точность: &plusmn;0.025 мм</li>\r\n<li>Совместимые материалы: широкий спектр фотополимерных смол</li>\r\n<li>Программное обеспечение: собственное ПО с открытыми настройками</li>\r\n<li>Подключение: USB, Ethernet, Wi-Fi</li>\r\n</ul>\r\n<h2>Почему выбирают SLA-400</h2>\r\n<ol>\r\n<li>Эталон точности: SLA-400 устанавливает новые стандарты в 3D-печати, обеспечивая исключительную детализацию и безупречное качество поверхности, что критически важно для создания сложных прототипов и функциональных моделей.</li>\r\n<li>Адаптивность к задачам: Этот принтер демонстрирует выдающуюся гибкость, легко переключаясь между созданием концептуальных моделей и выпуском малых серий готовой продукции, удовлетворяя потребности различных индустрий.</li>\r\n<li>Финансовая эффективность: Несмотря на первоначальные вложения, SLA-400 обеспечивает значительную экономию в долгосрочной перспективе, оптимизируя затраты на разработку и минимизируя необходимость в традиционных производственных инструментах.</li>\r\n<li>Оптимизация рабочего процесса: Высокая производительность и возможность параллельной печати нескольких объектов существенно ускоряют циклы разработки и производства, давая вашему бизнесу конкурентное преимущество.</li>\r\n<li>Материальное разнообразие: Совместимость с широким ассортиментом фотополимерных смол позволяет подобрать идеальный материал для каждого конкретного применения, от создания гибких прототипов до производства термостойких деталей.</li>\r\n</ol>\r\n<p>Стереолитографический принтер SLA-400 - это идеальный синтез качества, скорости и универсальности. Будь то небольшое предприятие или крупное производство, SLA-400 способен превзойти самые высокие ожидания в сфере 3D-печати.</p>\r\n<p>Цена SLA принтера SLA-400 может варьироваться в зависимости от комплектации и дополнительных опций. Для получения актуальной информации о стоимости и возможности купить 3D-принтер SLA, свяжитесь с нашими специалистами.</p>\r\n<table style=\"border-collapse: collapse; width: 98.6395%;\" border=\"0\">\r\n<tbody>\r\n<tr style=\"height: 215px;\">\r\n<td style=\"width: 15.5627%; height: 150px;\" align=\"center\"><img src=\"/upload/editor_images/1722257106-1.jpg\" alt=\"\" width=\"200\" height=\"141\" /></td>\r\n<td style=\"width: 15.7963%; height: 150px;\" align=\"center\"><img src=\"/upload/editor_images/1722257117-2.jpg\" alt=\"\" width=\"200\" height=\"141\" /></td>\r\n<td style=\"width: 15.9362%;\" align=\"center\"><img src=\"/upload/editor_images/1722257151-3.jpg\" alt=\"\" width=\"200\" height=\"140\" /></td>\r\n<td style=\"width: 16.5344%; height: 150px;\" align=\"center\"><img src=\"/upload/editor_images/1722257197-4.jpg\" alt=\"\" width=\"200\" height=\"140\" /></td>\r\n<td style=\"width: 16.3247%; height: 150px;\" align=\"center\"><img src=\"/upload/editor_images/1722257654-imagetools0.jpg\" alt=\"\" width=\"198\" height=\"141\" /></td>\r\n</tr>\r\n<tr>\r\n<td style=\"width: 15.5627%; vertical-align: middle; line-height: 1.2;\" scope=\"rowgroup\" align=\"center\">\r\n<p>Встроенная камера</p>\r\n</td>\r\n<td style=\"width: 15.7963%; vertical-align: middle; line-height: 1.2;\" align=\"center\">\r\n<p>Легко заменяемый резервуар <br />для смолы</p>\r\n</td>\r\n<td style=\"width: 15.9362%; vertical-align: middle; line-height: 1.2;\">\r\n<p align=\"center\">Большой экран</p>\r\n</td>\r\n<td style=\"width: 16.5344%; vertical-align: middle; line-height: 1.2;\" align=\"center\">\r\n<p>Съемная платформа <br />для более удобной чистки</p>\r\n</td>\r\n<td style=\"width: 16.3247%; vertical-align: middle; line-height: 1.2;\" align=\"center\">\r\n<p>Постоянная внутренняя температура и влажность</p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<h3>Примеры изделий, созданных по технологии SLA:</h3>\r\n<table style=\"border-collapse: collapse; width: 98.6395%;\" border=\"0\">\r\n<tbody>\r\n<tr>\r\n<td style=\"width: 49.7586%;\" align=\"center\"><img src=\"/upload/editor_images/1722258856-RRR_7629.jpg\" alt=\"\" width=\"400\" height=\"252\" /></td>\r\n<td style=\"width: 49.7586%;\" align=\"center\"><img src=\"/upload/editor_images/1722258983-RRR_7627.jpg\" alt=\"\" width=\"400\" height=\"252\" /></td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p>&nbsp;</p>\r\n<p>Все представленное в нашем каталоге оборудование доступно к приобретению на выгодных условиях <a href=\"https://am-tech.ru/leasing/\">лизинга.</a></p>\r\n<p>Наши специалисты помогут подобрать оптимальную схему лизинга под ваши производственные задачи и финансовые возможности, а также окажут содействие в оформлении всей необходимой документации.</p>"
+  },
+  {
+   "id": 23383,
+   "key": "Страна производства",
+   "value": "Китай"
+  },
+  {
+   "id": 23384,
+   "key": "Связанные товары по фильтру",
+   "value": "[]"
+  },
+  {
+   "id": 23385,
+   "key": "Материалы",
+   "value": "/pr_new_files/iblock/fd9/w06ddqtkk46nhkslvc0k369c2f2c2tqi.pdf"
+  },
+  {
+   "id": 23386,
+   "key": "Картинки галереи",
+   "value": "/pr_new_files/iblock/64c/3fbammmncmuovicmnipl2gky53vgpb88.png"
+  },
+  {
+   "id": 23387,
+   "key": "Вес, кг.",
+   "value": "280 (без материала)"
+  },
+  {
+   "id": 23388,
+   "key": "Толщина слоя, мм",
+   "value": "0,05-0,15"
+  },
+  {
+   "id": 23389,
+   "key": "Размер области построения, мм",
+   "value": "400х400х350"
+  },
+  {
+   "id": 23390,
+   "key": "Тип материала",
+   "value": "фотополимерные смолы, чувствительные к длине волны 335-380 нм"
+  },
+  {
+   "id": 23391,
+   "key": "Вид лазера",
+   "value": "твердотельный диодный UV"
+  },
+  {
+   "id": 23392,
+   "key": "Размер пятна лазера, мм",
+   "value": "0,08-0,12"
+  },
+  {
+   "id": 23393,
+   "key": "Скорость сканирования, мм/с",
+   "value": "10000"
+  },
+  {
+   "id": 23394,
+   "key": "Точность печати, мм",
+   "value": "&lt;100мм: ±0,1мм; ≥100мм: ±0,1%"
+  },
+  {
+   "id": 23395,
+   "key": "Внешние габариты, мм",
+   "value": "750х840х1770"
+  },
+  {
+   "id": 23396,
+   "key": "bitrix_picture",
+   "value": "/pr_new_files/iblock/93c/c6ib5g0qiflob21qm9a3nu0ppm9vbvcn.png"
+  },
+  {
+   "id": 23397,
+   "key": "Документы товара",
+   "value": "1389"
+  },
+  {
+   "id": 35064,
+   "key": "Код с видео (iframe)",
+   "value": ""
+  },
+  {
+   "id": 35065,
+   "key": "Файл видео",
+   "value": ""
+  },
+  {
+   "id": 35066,
+   "key": "_news_category",
+   "value": "0"
+  },
+  {
+   "id": 35067,
+   "key": "_news_tag",
+   "value": "0"
+  },
+  {
+   "id": 35068,
+   "key": "_custom_advantages",
+   "value": ""
+  },
+  {
+   "id": 35069,
+   "key": "_my_menu_type",
+   "value": "обычное"
+  },
+  {
+   "id": 35070,
+   "key": "_video_block",
+   "value": {
+    "video_title": "",
+    "video_post_id": "",
+    "right_title": "",
+    "subtitle": "",
+    "video_description": "",
+    "button_text": "Смотреть больше видео",
+    "tag_id": ""
+   }
+  },
+  {
+   "id": 35071,
+   "key": "boldgrid_in_page_containers",
+   "value": "1"
+  },
+  {
+   "id": 35072,
+   "key": "_yoast_wpseo_primary_product_brand",
+   "value": ""
+  },
+  {
+   "id": 35073,
+   "key": "_yoast_wpseo_primary_product_cat",
+   "value": "1022"
+  },
+  {
+   "id": 35074,
+   "key": "_yoast_wpseo_content_score",
+   "value": "60"
+  },
+  {
+   "id": 35075,
+   "key": "_yoast_wpseo_estimated-reading-time-minutes",
+   "value": "6"
+  },
+  {
+   "id": 35706,
+   "key": "_yoast_wpseo_title",
+   "value": "3D-принтер SLA-400: стереолитографическая установка"
+  },
+  {
+   "id": 35707,
+   "key": "_yoast_wpseo_metadesc",
+   "value": "3D-принтер SLA-400 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91"
+  },
+  {
+   "id": 51363,
+   "key": "_yoast_wpseo_focuskw",
+   "value": "3D-принтеры SLA"
+  },
+  {
+   "id": 51364,
+   "key": "_yoast_wpseo_linkdex",
+   "value": "65"
+  },
+  {
+   "id": 52810,
+   "key": "_elementor_page_assets",
+   "value": []
+  }
+ ],
+ "stock_status": "instock",
+ "has_options": false,
+ "post_password": "",
+ "global_unique_id": "",
+ "permalink_template": "https://am-tech.ru/product/%pagename%/",
+ "generated_slug": "3d-printer-sla-400",
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>3D-принтер SLA-400: стереолитографическая установка</title>\n<meta name=\"description\" content=\"3D-принтер SLA-400 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/product/sla-400/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"3D-принтер SLA-400: стереолитографическая установка\" />\n<meta property=\"og:description\" content=\"3D-принтер SLA-400 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/product/sla-400/\" />\n<meta property=\"og:site_name\" content=\"AM.TECH\" />\n<meta property=\"article:modified_time\" content=\"2026-09-23T12:43:32+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2025/08/c6ib5g0qiflob21qm9a3nu0ppm9vbvcn.webp\" />\n\t<meta property=\"og:image:width\" content=\"956\" />\n\t<meta property=\"og:image:height\" content=\"956\" />\n\t<meta property=\"og:image:type\" content=\"image/webp\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"6 минут\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/product/sla-400/\",\"url\":\"https://am-tech.ru/product/sla-400/\",\"name\":\"3D-принтер SLA-400: стереолитографическая установка\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/product/sla-400/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/product/sla-400/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2025/08/c6ib5g0qiflob21qm9a3nu0ppm9vbvcn.webp\",\"datePublished\":\"2025-08-16T21:46:19+00:00\",\"dateModified\":\"2026-09-23T12:43:32+00:00\",\"description\":\"3D-принтер SLA-400 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91\",\"breadcrumb\":{\"@id\":\"https://am-tech.ru/product/sla-400/#breadcrumb\"},\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/product/sla-400/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/product/sla-400/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2025/08/c6ib5g0qiflob21qm9a3nu0ppm9vbvcn.webp\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2025/08/c6ib5g0qiflob21qm9a3nu0ppm9vbvcn.webp\",\"width\":956,\"height\":956},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://am-tech.ru/product/sla-400/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Главная страница\",\"item\":\"https://am-tech.ru/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"SLA 3D-принтеры\",\"item\":\"https://am-tech.ru/katalog/promyshlennye-3d-printery-po-sla-i-keramike/sla-3d-printery/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"3D-принтер SLA-400\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"AM.TECH\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"AM.TECH\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"AM.TECH\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "3D-принтер SLA-400: стереолитографическая установка",
+  "description": "3D-принтер SLA-400 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/product/sla-400/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "3D-принтер SLA-400: стереолитографическая установка",
+  "og_description": "3D-принтер SLA-400 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91",
+  "og_url": "https://am-tech.ru/product/sla-400/",
+  "og_site_name": "AM.TECH",
+  "article_modified_time": "2026-09-23T12:43:32+00:00",
+  "og_image": [
+   {
+    "width": 956,
+    "height": 956,
+    "url": "https://am-tech.ru/wp-content/uploads/2025/08/c6ib5g0qiflob21qm9a3nu0ppm9vbvcn.webp",
+    "type": "image/webp"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "6 минут"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/product/sla-400/",
+     "url": "https://am-tech.ru/product/sla-400/",
+     "name": "3D-принтер SLA-400: стереолитографическая установка",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/product/sla-400/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/product/sla-400/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2025/08/c6ib5g0qiflob21qm9a3nu0ppm9vbvcn.webp",
+     "datePublished": "2025-08-16T21:46:19+00:00",
+     "dateModified": "2026-09-23T12:43:32+00:00",
+     "description": "3D-принтер SLA-400 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91",
+     "breadcrumb": {
+      "@id": "https://am-tech.ru/product/sla-400/#breadcrumb"
+     },
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/product/sla-400/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/product/sla-400/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2025/08/c6ib5g0qiflob21qm9a3nu0ppm9vbvcn.webp",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2025/08/c6ib5g0qiflob21qm9a3nu0ppm9vbvcn.webp",
+     "width": 956,
+     "height": 956
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://am-tech.ru/product/sla-400/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Главная страница",
+       "item": "https://am-tech.ru/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "SLA 3D-принтеры",
+       "item": "https://am-tech.ru/katalog/promyshlennye-3d-printery-po-sla-i-keramike/sla-3d-printery/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "3D-принтер SLA-400"
+      }
+     ]
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "AM.TECH",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "AM.TECH",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "AM.TECH"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wc/v3/products/1430",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wc/v3/products"
+   }
+  ]
+ }
+}

@@ -1,0 +1,158 @@
+{
+ "id": 20,
+ "count": 3,
+ "description": "<p class=\"isSelectedEnd\">Электронно-лучевая плавка — технология аддитивного производства металлических деталей в вакуумной среде. Она востребована для работы с реакционноспособными сплавами и сложной геометрией. Промышленный 3D-принтер такого класса подходит для опытного и серийного выпуска изделий из титана и других совместимых материалов.</p>\r\n\r\n<h2>Что такое EBM технология (Electron Beam Melting)</h2>\r\n<p class=\"isSelectedEnd\">EBM относится к технологиям порошкового сплавления металлов. Слой металлического порошка распределяется по рабочей платформе, после чего электронный луч выборочно расплавляет материал по данным цифровой модели. Процесс проходит в вакууме, а порошковый слой предварительно нагревается, что снижает температурные градиенты и помогает уменьшать остаточные напряжения.</p>\r\n\r\n<ul data-spread=\"false\">\r\n \t<li>источником энергии служит электронный луч, формируемый электронной пушкой и катодом;</li>\r\n \t<li>металл расплавляется послойно по заданной стратегии построения;</li>\r\n \t<li>вакуум ограничивает контакт расплава с газовой средой, что особенно важно для титана;</li>\r\n \t<li>электромагнитное отклонение пучка обеспечивает быстрое перемещение зоны воздействия;</li>\r\n \t<li>предварительный нагрев стабилизирует порошковый слой и тепловой режим процесса.</li>\r\n</ul>\r\n<p class=\"isSelectedEnd\">В отличие от SLM, где используется лазер и защитная атмосфера инертного газа, электронно-лучевая плавка требует вакуумной камеры. Фактическая производительность зависит от сплава, геометрии детали, толщины слоя и параметров установки.</p>\r\n\r\n<h2>Преимущества EBM 3D-принтеров</h2>\r\n<p class=\"isSelectedEnd\">Сочетание вакуума, высокой температуры и управляемой плавки особенно важно для титановых сплавов. Печать позволяет получать функциональные изделия сложной формы и управлять внутренней архитектурой детали.</p>\r\n\r\n<ul data-spread=\"false\">\r\n \t<li>высокая скорость перемещения пучка по рабочему полю;</li>\r\n \t<li>снижение риска окисления и загрязнения чувствительных сплавов;</li>\r\n \t<li>сравнительно низкий уровень остаточных напряжений благодаря предварительному нагреву;</li>\r\n \t<li>работа с Ti-6Al-4V и другими материалами, поддерживаемыми конкретной системой;</li>\r\n \t<li>создание контролируемых пористых и решётчатых структур;</li>\r\n \t<li>сокращение потребности в сложной традиционной оснастке при выпуске малых и средних серий.</li>\r\n</ul>\r\n<p class=\"isSelectedEnd\">Для медицинских изделий пористая структура может быть заложена прямо в цифровую модель импланта, что позволяет управлять геометрией и архитектурой поверхности.</p>\r\n\r\n<h2>Сферы применения EBM-печати</h2>\r\n<p class=\"isSelectedEnd\">Аддитивная печать применяется в отраслях, где ценность детали определяется сложностью формы, характеристиками сплава и возможностью выпускать специализированные изделия без длительной подготовки оснастки.</p>\r\n\r\n<ul data-spread=\"false\">\r\n \t<li>медицина — ортопедические импланты, компоненты эндопротезов и конструкции с заданной пористостью;</li>\r\n \t<li>аэрокосмическая отрасль — элементы турбин, авиационных систем и детали из титановых или интерметаллидных сплавов;</li>\r\n \t<li>промышленность — функциональные компоненты сложной формы и облегчённые конструкции;</li>\r\n \t<li>научно-исследовательские институты — разработка режимов плавки и исследование новых материалов;</li>\r\n \t<li>лаборатории и центры аддитивных технологий — тестирование порошков, цифровых моделей и параметров процесса.</li>\r\n</ul>\r\n<p class=\"isSelectedEnd\">Это особенно актуально там, где титан и сложная геометрия делают традиционные методы производства трудоёмкими.</p>\r\n\r\n<h2>Заказать EBM 3D-принтер у производителя</h2>\r\n<p class=\"isSelectedEnd\">Внедрение электронно-лучевой плавки требует инженерной подготовки площадки. Необходимо учитывать параметры вакуумной системы, электропитание, размещение оборудования, обращение с металлическим порошком, нормы промышленной безопасности и подготовку операторов. Поэтому 3D-принтер целесообразно рассматривать как часть комплексного производственного проекта.</p>\r\n<p class=\"isSelectedEnd\">В каталоге AM-Tech можно <strong>заказать у производителя с доставкой по России</strong> оборудование для электронно-лучевого аддитивного производства с подбором конфигурации под задачи предприятия. Проект внедрения может включать:</p>\r\n\r\n<ul data-spread=\"false\">\r\n \t<li>аудит площадки и требований к размещению оборудования;</li>\r\n \t<li>подбор установки под материал, размеры деталей и плановую загрузку;</li>\r\n \t<li>доставку, монтаж и интеграцию в производственную инфраструктуру;</li>\r\n \t<li>настройку вакуумных систем и инженерных коммуникаций;</li>\r\n \t<li>пусконаладочные работы и тестовые построения;</li>\r\n \t<li>обучение операторов работе с оборудованием, порошками и программным обеспечением;</li>\r\n \t<li>сервисное и технологическое сопровождение после запуска.</li>\r\n</ul>\r\nСпециалисты AM-Tech помогают определить требования к площадке, состав комплекса и последовательность ввода оборудования в эксплуатацию. Такой подход связывает возможности системы с реальной производственной задачей — материалом, геометрией, серийностью и требованиями к качеству — и помогает перейти от выбора оборудования к его промышленному использованию.",
+ "link": "https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/ebm-3d-print/",
+ "name": "EBM 3D-принтеры",
+ "slug": "ebm-3d-print",
+ "taxonomy": "product_cat",
+ "parent": 1204,
+ "meta": [],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>EBM 3D-принтеры - заказать у производителя с доставкой по России | AM-Tech</title>\n<meta name=\"description\" content=\"Заказать EBM 3D-принтеры - демонстрация и консультация наших специалистов. +7 (495) 109 11 91\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/ebm-3d-print/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"EBM 3D-принтеры - заказать у производителя с доставкой по России | AM-Tech\" />\n<meta property=\"og:description\" content=\"Заказать EBM 3D-принтеры - демонстрация и консультация наших специалистов. +7 (495) 109 11 91\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/ebm-3d-print/\" />\n<meta property=\"og:site_name\" content=\"am-tech.ru\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/ebm-3d-print/\",\"url\":\"https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/ebm-3d-print/\",\"name\":\"EBM 3D-принтеры - заказать у производителя с доставкой по России | AM-Tech\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"description\":\"Заказать EBM 3D-принтеры - демонстрация и консультация наших специалистов. +7 (495) 109 11 91\",\"breadcrumb\":{\"@id\":\"https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/ebm-3d-print/#breadcrumb\"},\"inLanguage\":\"ru-RU\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/ebm-3d-print/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Главная страница\",\"item\":\"https://am-tech.ru/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"EBM 3D-принтеры\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"am-tech.ru\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"am-tech.ru\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"am-tech.ru\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "EBM 3D-принтеры - заказать у производителя с доставкой по России | AM-Tech",
+  "description": "Заказать EBM 3D-принтеры - демонстрация и консультация наших специалистов. +7 (495) 109 11 91",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/ebm-3d-print/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "EBM 3D-принтеры - заказать у производителя с доставкой по России | AM-Tech",
+  "og_description": "Заказать EBM 3D-принтеры - демонстрация и консультация наших специалистов. +7 (495) 109 11 91",
+  "og_url": "https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/ebm-3d-print/",
+  "og_site_name": "am-tech.ru",
+  "twitter_card": "summary_large_image",
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "CollectionPage",
+     "@id": "https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/ebm-3d-print/",
+     "url": "https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/ebm-3d-print/",
+     "name": "EBM 3D-принтеры - заказать у производителя с доставкой по России | AM-Tech",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "description": "Заказать EBM 3D-принтеры - демонстрация и консультация наших специалистов. +7 (495) 109 11 91",
+     "breadcrumb": {
+      "@id": "https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/ebm-3d-print/#breadcrumb"
+     },
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/ebm-3d-print/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Главная страница",
+       "item": "https://am-tech.ru/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "EBM 3D-принтеры"
+      }
+     ]
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "am-tech.ru",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "am-tech.ru",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "am-tech.ru"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "yoast_seo": {
+  "title": "EBM 3D-принтеры - заказать у производителя с доставкой по России | AM-Tech",
+  "desc": "Заказать EBM 3D-принтеры - демонстрация и консультация наших специалистов. +7 (495) 109 11 91"
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/product_cat/20",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/product_cat"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/taxonomies/product_cat"
+   }
+  ],
+  "up": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/product_cat/1204"
+   }
+  ],
+  "wp:post_type": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/product?product_cat=20"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

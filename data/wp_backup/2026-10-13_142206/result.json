@@ -1,0 +1,24 @@
+[
+ {
+  "plan_task": 7,
+  "label": "Ссылка в тексте новости",
+  "before_text": "/product-category/lazernye-3d-skanery/",
+  "after_text": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/lazernye-3d-skanery/",
+  "comment": "Старый адрес, редирект",
+  "type": "news",
+  "slug": "litmash-ekb-12-15-03-24",
+  "field": "content",
+  "link": true,
+  "old": "/product-category/lazernye-3d-skanery/",
+  "value": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/lazernye-3d-skanery/",
+  "row": 116,
+  "id": 2108,
+  "url": "https://am-tech.ru/news/litmash-ekb-12-15-03-24/",
+  "before": "На стенде А11 мы представляем метрологическое оборудованием AM.TECH. Среди экспонатов - высокоточный 3D-сканер TrackScan Sharp-49 для сканирования без маркеров; <a href=\"/product-category/lazernye-3d-skanery/\"> компактный ручной лазерный 3D-сканер</a> SIMSCAN 30, который является инновационной разработкой, а также - 3D-сканер KSCAN Magic.<br>\n <br>\n Ждем вас на экспозиции AM.TECH. Если вам нужна помощь с регистрацией и пропуском, пожалуйста, звоните&nbsp; &nbsp;<br>\n +7 (495) 108 60 68<br>",
+  "after": "На стенде А11 мы представляем метрологическое оборудованием AM.TECH. Среди экспонатов - высокоточный 3D-сканер TrackScan Sharp-49 для сканирования без маркеров; <a href=\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/lazernye-3d-skanery/\"> компактный ручной лазерный 3D-сканер</a> SIMSCAN 30, который является инновационной разработкой, а также - 3D-сканер KSCAN Magic.<br>\n <br>\n Ждем вас на экспозиции AM.TECH. Если вам нужна помощь с регистрацией и пропуском, пожалуйста, звоните&nbsp; &nbsp;<br>\n +7 (495) 108 60 68<br>",
+  "saved": true,
+  "on_page": true,
+  "on_cached_page": true,
+  "status": "применено"
+ }
+]

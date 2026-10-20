@@ -1,0 +1,286 @@
+{
+ "id": 3239,
+ "date": "2025-10-16T15:56:03",
+ "date_gmt": "2025-10-16T12:56:03",
+ "guid": {
+  "rendered": "https://am-tech.ru/?post_type=video_reviews&#038;p=3239",
+  "raw": "https://am-tech.ru/?post_type=video_reviews&#038;p=3239"
+ },
+ "modified": "2026-01-22T16:24:50",
+ "modified_gmt": "2026-01-22T13:24:50",
+ "password": "",
+ "slug": "keramika-3d-pechat-vs-litjo",
+ "status": "publish",
+ "type": "video_reviews",
+ "link": "https://am-tech.ru/video-reviews/keramika-3d-pechat-vs-litjo/",
+ "title": {
+  "raw": "Керамика: 3D-печать VS литьё",
+  "rendered": "Керамика: 3D-печать VS литьё"
+ },
+ "content": {
+  "raw": "<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n<p class=\"\">В производстве керамики помимо гончарного круга столетиями используется шликерное литьё, или формование жидкой глиняной массы. Но около 40 лет назад появилась 3D-печать, которая сделала возможным выращивание изделий из множества разных материалов, в том числе керамических. В чём разница между шликерным литьём и 3D-печатью керамикой? И в каких случаях сегодня оправдано применение традиционной технологии, а в каких себя лучше зарекомендовала 3D-печать?</p>\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+  "rendered": "<div class=\"boldgrid-section\">\n<div class=\"container\">\n<div class=\"row\">\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\n<p class=\"\">В производстве керамики помимо гончарного круга столетиями используется шликерное литьё, или формование жидкой глиняной массы. Но около 40 лет назад появилась 3D-печать, которая сделала возможным выращивание изделий из множества разных материалов, в том числе керамических. В чём разница между шликерным литьём и 3D-печатью керамикой? И в каких случаях сегодня оправдано применение традиционной технологии, а в каких себя лучше зарекомендовала 3D-печать?</p>\n</div>\n</div>\n</div>\n</div>\n",
+  "protected": false,
+  "block_version": 0
+ },
+ "excerpt": {
+  "raw": "",
+  "rendered": "<p>В производстве керамики помимо гончарного круга столетиями используется шликерное литьё, или формование жидкой глиняной массы. Но около 40 лет назад появилась 3D-печать, которая сделала возможным выращивание изделий из множества разных материалов, в том числе керамических. В чём разница между шликерным литьём и 3D-печатью керамикой? И в каких случаях сегодня оправдано применение традиционной технологии, а в [&hellip;]</p>\n",
+  "protected": false
+ },
+ "author": 6,
+ "featured_media": 3241,
+ "comment_status": "open",
+ "ping_status": "closed",
+ "template": "",
+ "meta": {
+  "_acf_changed": false,
+  "_yoast_wpseo_title": "",
+  "_yoast_wpseo_metadesc": "3D-печать керамикой открыла новые возможности по сравнению с традиционным шликерным литьём. Узнайте, в чём различие между этими технологиями, их преимущества и где сегодня эффективнее применять аддитивное производство керамических изделий.",
+  "_yoast_wpseo_meta-robots-noindex": ""
+ },
+ "video_category": [
+  1308
+ ],
+ "video_tag": [
+  1296,
+  1297,
+  1298,
+  1299
+ ],
+ "permalink_template": "https://am-tech.ru/video-reviews/%pagename%/",
+ "generated_slug": "keramika-3d-pechat-vs-litjo",
+ "class_list": [
+  "post-3239",
+  "video_reviews",
+  "type-video_reviews",
+  "status-publish",
+  "has-post-thumbnail",
+  "hentry",
+  "video_category-tehnologii-sla-i-3d-pechat-keramikoj",
+  "video_tag-demonstracii-oborudovanija",
+  "video_tag-industrija-additivnyh-tehnologij",
+  "video_tag-innovacii",
+  "video_tag-issledovanija-i-razrabotki"
+ ],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Керамика: 3D-печать VS литьё - am-tech.ru</title>\n<meta name=\"description\" content=\"3D-печать керамикой открыла новые возможности по сравнению с традиционным шликерным литьём. Узнайте, в чём различие между этими технологиями, их преимущества и где сегодня эффективнее применять аддитивное производство керамических изделий.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/video-reviews/keramika-3d-pechat-vs-litjo/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Керамика: 3D-печать VS литьё - am-tech.ru\" />\n<meta property=\"og:description\" content=\"3D-печать керамикой открыла новые возможности по сравнению с традиционным шликерным литьём. Узнайте, в чём различие между этими технологиями, их преимущества и где сегодня эффективнее применять аддитивное производство керамических изделий.\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/video-reviews/keramika-3d-pechat-vs-litjo/\" />\n<meta property=\"og:site_name\" content=\"am-tech.ru\" />\n<meta property=\"article:modified_time\" content=\"2026-01-22T13:24:50+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2025/10/snimok-9.png\" />\n\t<meta property=\"og:image:width\" content=\"1288\" />\n\t<meta property=\"og:image:height\" content=\"723\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"1 минута\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/video-reviews/keramika-3d-pechat-vs-litjo/\",\"url\":\"https://am-tech.ru/video-reviews/keramika-3d-pechat-vs-litjo/\",\"name\":\"Керамика: 3D-печать VS литьё - am-tech.ru\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/video-reviews/keramika-3d-pechat-vs-litjo/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/video-reviews/keramika-3d-pechat-vs-litjo/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2025/10/snimok-9.png\",\"datePublished\":\"2025-10-16T12:56:03+00:00\",\"dateModified\":\"2026-01-22T13:24:50+00:00\",\"description\":\"3D-печать керамикой открыла новые возможности по сравнению с традиционным шликерным литьём. Узнайте, в чём различие между этими технологиями, их преимущества и где сегодня эффективнее применять аддитивное производство керамических изделий.\",\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/video-reviews/keramika-3d-pechat-vs-litjo/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/video-reviews/keramika-3d-pechat-vs-litjo/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2025/10/snimok-9.png\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2025/10/snimok-9.png\",\"width\":1288,\"height\":723},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"am-tech.ru\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"am-tech.ru\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"am-tech.ru\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "Керамика: 3D-печать VS литьё - am-tech.ru",
+  "description": "3D-печать керамикой открыла новые возможности по сравнению с традиционным шликерным литьём. Узнайте, в чём различие между этими технологиями, их преимущества и где сегодня эффективнее применять аддитивное производство керамических изделий.",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/video-reviews/keramika-3d-pechat-vs-litjo/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "Керамика: 3D-печать VS литьё - am-tech.ru",
+  "og_description": "3D-печать керамикой открыла новые возможности по сравнению с традиционным шликерным литьём. Узнайте, в чём различие между этими технологиями, их преимущества и где сегодня эффективнее применять аддитивное производство керамических изделий.",
+  "og_url": "https://am-tech.ru/video-reviews/keramika-3d-pechat-vs-litjo/",
+  "og_site_name": "am-tech.ru",
+  "article_modified_time": "2026-01-22T13:24:50+00:00",
+  "og_image": [
+   {
+    "width": 1288,
+    "height": 723,
+    "url": "https://am-tech.ru/wp-content/uploads/2025/10/snimok-9.png",
+    "type": "image/png"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "1 минута"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/video-reviews/keramika-3d-pechat-vs-litjo/",
+     "url": "https://am-tech.ru/video-reviews/keramika-3d-pechat-vs-litjo/",
+     "name": "Керамика: 3D-печать VS литьё - am-tech.ru",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/video-reviews/keramika-3d-pechat-vs-litjo/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/video-reviews/keramika-3d-pechat-vs-litjo/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2025/10/snimok-9.png",
+     "datePublished": "2025-10-16T12:56:03+00:00",
+     "dateModified": "2026-01-22T13:24:50+00:00",
+     "description": "3D-печать керамикой открыла новые возможности по сравнению с традиционным шликерным литьём. Узнайте, в чём различие между этими технологиями, их преимущества и где сегодня эффективнее применять аддитивное производство керамических изделий.",
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/video-reviews/keramika-3d-pechat-vs-litjo/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/video-reviews/keramika-3d-pechat-vs-litjo/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2025/10/snimok-9.png",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2025/10/snimok-9.png",
+     "width": 1288,
+     "height": 723
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "am-tech.ru",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "am-tech.ru",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "am-tech.ru"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3239",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/types/video_reviews"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/users/6"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/comments?post=3239"
+   }
+  ],
+  "wp:featuredmedia": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/media/3241"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/media?parent=3239"
+   }
+  ],
+  "wp:term": [
+   {
+    "taxonomy": "video_category",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_category?post=3239"
+   },
+   {
+    "taxonomy": "video_tag",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_tag?post=3239"
+   }
+  ],
+  "wp:action-publish": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3239"
+   }
+  ],
+  "wp:action-unfiltered-html": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3239"
+   }
+  ],
+  "wp:action-assign-author": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3239"
+   }
+  ],
+  "wp:action-create-video_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3239"
+   }
+  ],
+  "wp:action-assign-video_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3239"
+   }
+  ],
+  "wp:action-create-video_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3239"
+   }
+  ],
+  "wp:action-assign-video_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3239"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

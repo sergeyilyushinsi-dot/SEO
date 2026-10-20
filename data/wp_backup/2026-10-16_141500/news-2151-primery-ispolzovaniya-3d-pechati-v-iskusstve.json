@@ -1,0 +1,277 @@
+{
+ "id": 2151,
+ "date": "2025-07-22T15:52:00",
+ "date_gmt": "2025-07-22T12:52:00",
+ "guid": {
+  "rendered": "http://am-tech.ru/news/primery-ispolzovaniya-3d-pechati-v-iskusstve/",
+  "raw": "http://am-tech.ru/news/primery-ispolzovaniya-3d-pechati-v-iskusstve/"
+ },
+ "modified": "2026-10-13T17:24:46",
+ "modified_gmt": "2026-10-13T14:24:46",
+ "password": "",
+ "slug": "primery-ispolzovaniya-3d-pechati-v-iskusstve",
+ "status": "publish",
+ "type": "news",
+ "link": "https://am-tech.ru/news/primery-ispolzovaniya-3d-pechati-v-iskusstve/",
+ "title": {
+  "raw": "Примеры использования 3D-печати в искусстве",
+  "rendered": "Примеры использования 3D-печати в искусстве"
+ },
+ "content": {
+  "raw": "<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n<h4>Примеры использования 3D-печати в искусстве: новые горизонты творчества</h4>\r\n3D-печать становится мощным инструментом для художников, дизайнеров и музеев, позволяя решать задачи, которые раньше казались недостижимыми. Эта технология открывает двери для восстановления культурного наследия, создания уникальных инсталляций и экспериментов с формами, переосмысливая традиционные подходы к искусству. В этой статье мы рассмотрим, как 3D-печать помогает преодолевать творческие и практические вызовы, опираясь на реальные кейсы и примеры из мировой практики, включая использование линейки SLA 3D-принтеров AM.TECH, керамических 3D-принтеров AM.TECH и FDM 3D-принтеров.\r\n<h4>Восстановление культурного наследия: кувшин постуральтской культуры</h4>\r\nОдна из ключевых задач 3D-печати в искусстве — сохранение и восстановление артефактов. Например, музей столкнулся с необходимостью реконструировать кувшин постуральтской культуры по осколкам. Сканирование заняло всего 15 минут, а недостающие части были смоделированы специалистами. Готовый макет, напечатанный на линейке SLA 3D-принтеров AM.TECH с высокой детализацией, стал тактильным экспонатом, доступным для изучения посетителями.\r\n\r\n<img src=\"/upload/editor_images/1754485291-mceu_42099616881754485276570.jpg\">\r\n\r\n<em><video style=\"width: 600px; height: 300px;\" controls=\"controls\" width=\"600\" height=\"300\">\r\n<source src=\"https://am.tech/upload/medialibrary/1cb/c6punlmnzv6xa58tq46aw6jwohpbvwor.mp4\" type=\"video/mp4\"></video></em>\r\n\r\nЭтот пример показывает, как 3D-печать позволяет сохранять хрупкие объекты и популяризировать культурное наследие без риска повреждения оригиналов.\r\n\r\n&nbsp;\r\n<h4>Реставрация архитектурных шедевров: мастер-модель для ВДНХ</h4>\r\nРеставрация исторических сооружений — ещё одна важная задача, где 3D-печать играет ключевую роль. Для одного из павильонов ВДНХ была создана мастер-модель архитектурного элемента, напечатанная на SLA 3D-принтере AM.TECH. Эта модель стала основой для точного восстановления, сохраняя дух оригинала и экономя время на традиционные методы.\r\n\r\n<img src=\"/upload/editor_images/1754485104-mceu_92615518471754485089721.jpg\" width=\"928\" height=\"697\">\r\n\r\n<video style=\"width: 600px; height: 300px;\" controls=\"controls\" width=\"932\" height=\"466\">\r\n<source src=\"https://am.tech/upload/medialibrary/56e/2y0nzyfbvndi065n0ew3sjxnc7c3vahi.mp4\" type=\"video/mp4\"></video>\r\n\r\nТакой подход решает проблему создания прототипов, делая реставрацию более доступной и эффективной.\r\n<h4>Глобальные примеры использования 3D-печати в искусстве</h4>\r\n3D-печать выходит за рамки локальных кейсов, решая задачи по всему миру. Например, дизайнеры создают ювелирные изделия с использованием керамических 3D-принтеров, где текстура кораллов воплощается в износостойкие украшения.\r\n\r\n<img src=\"/upload/editor_images/1754485073-mceu_92237480261754485059104.jpg\">\r\n\r\n&nbsp;\r\n\r\nМузеи, такие как Лувр, используют 3D-печать для реплик статуй, делая искусство доступным для тактильного восприятия слепыми посетителями.\r\n<h4>Создание уникальных арт-объектов: FDM</h4>\r\nИнсталляция была создана на FDM 3Д принтерах. Конструкция основана на исследовании компанией LCD пространственной формы коконов, в результате чего на многих панелях появились тонкие нити, пересекающиеся крест-накрест.\r\n\r\n<img src=\"/upload/editor_images/1754484852-mceu_27448180311754484837917.jpg\" width=\"509\" height=\"339\"> <img src=\"/upload/editor_images/1754484859-mceu_15335963521754484845103.jpg\" width=\"510\" height=\"340\">\r\n\r\n<img src=\"/upload/editor_images/1754484876-mceu_17053129151754484861927.png\" width=\"1028\" height=\"514\">\r\n\r\n<iframe title=\"vimeo-player\" src=\"https://player.vimeo.com/video/142488780?h=4fc1b7d96e\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>\r\n<h4>Задачи и возможности 3D-печати в искусстве</h4>\r\n3D-печать решает ключевые вызовы в этой сфере:\r\n<ul>\r\n \t<li><strong>Воссоздание утраченного</strong>: Реконструкция артефактов, как кувшин, сохраняет культурную ценность.</li>\r\n \t<li><strong>Доступность искусства</strong>: Реплики шедевров делают искусство тактильным.</li>\r\n \t<li><strong>Эксперименты с формами</strong>: Сложные геометрии, как в ювелирке или вазы, недоступны традиционным методам.</li>\r\n \t<li><strong>Интерактивность</strong>: Инсталляции вовлекают аудиторию.</li>\r\n</ul>\r\n<h4>Заключение</h4>\r\n3D-печать в искусстве — это способ решать творческие задачи, от восстановления наследия до создания интерактивных шедевров. Линейка SLA 3D-принтеров AM.TECH, керамические 3D-принтеры AM.TECH и FDM 3D-принтеры расширяют горизонты искусства. Впереди нас ждёт ещё больше инноваций, которые продолжат менять этот мир.\r\n\r\n&nbsp;\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+  "rendered": "<div class=\"boldgrid-section\">\n<div class=\"container\">\n<div class=\"row\">\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\n<h4>Примеры использования 3D-печати в искусстве: новые горизонты творчества</h4>\n<p>3D-печать становится мощным инструментом для художников, дизайнеров и музеев, позволяя решать задачи, которые раньше казались недостижимыми. Эта технология открывает двери для восстановления культурного наследия, создания уникальных инсталляций и экспериментов с формами, переосмысливая традиционные подходы к искусству. В этой статье мы рассмотрим, как 3D-печать помогает преодолевать творческие и практические вызовы, опираясь на реальные кейсы и примеры из мировой практики, включая использование линейки SLA 3D-принтеров AM.TECH, керамических 3D-принтеров AM.TECH и FDM 3D-принтеров.</p>\n<h4>Восстановление культурного наследия: кувшин постуральтской культуры</h4>\n<p>Одна из ключевых задач 3D-печати в искусстве — сохранение и восстановление артефактов. Например, музей столкнулся с необходимостью реконструировать кувшин постуральтской культуры по осколкам. Сканирование заняло всего 15 минут, а недостающие части были смоделированы специалистами. Готовый макет, напечатанный на линейке SLA 3D-принтеров AM.TECH с высокой детализацией, стал тактильным экспонатом, доступным для изучения посетителями.</p>\n<p><img loading=\"lazy\" decoding=\"async\" alt=\"Примеры использования 3D-печати в искусстве - Технологии SLA и 3D-печать керамикой - AM-Tech\" decoding=\"async\" src=\"/upload/editor_images/1754485291-mceu_42099616881754485276570.jpg\"></p>\n<p><em><video style=\"width: 600px; height: 300px;\" controls=\"controls\" width=\"600\" height=\"300\"><source src=\"https://am.tech/upload/medialibrary/1cb/c6punlmnzv6xa58tq46aw6jwohpbvwor.mp4\" type=\"video/mp4\"></video></em></p>\n<p>Этот пример показывает, как 3D-печать позволяет сохранять хрупкие объекты и популяризировать культурное наследие без риска повреждения оригиналов.</p>\n<p>&nbsp;</p>\n<h4>Реставрация архитектурных шедевров: мастер-модель для ВДНХ</h4>\n<p>Реставрация исторических сооружений — ещё одна важная задача, где 3D-печать играет ключевую роль. Для одного из павильонов ВДНХ была создана мастер-модель архитектурного элемента, напечатанная на SLA 3D-принтере AM.TECH. Эта модель стала основой для точного восстановления, сохраняя дух оригинала и экономя время на традиционные методы.</p>\n<p><img loading=\"lazy\" decoding=\"async\" alt=\"Примеры использования 3D-печати в искусстве - Технологии SLA и 3D-печать керамикой - AM-Tech\" fetchpriority=\"high\" decoding=\"async\" src=\"/upload/editor_images/1754485104-mceu_92615518471754485089721.jpg\" width=\"928\" height=\"697\"></p>\n<p><video style=\"width: 600px; height: 300px;\" controls=\"controls\" width=\"932\" height=\"466\"><source src=\"https://am.tech/upload/medialibrary/56e/2y0nzyfbvndi065n0ew3sjxnc7c3vahi.mp4\" type=\"video/mp4\"></video></p>\n<p>Такой подход решает проблему создания прототипов, делая реставрацию более доступной и эффективной.</p>\n<h4>Глобальные примеры использования 3D-печати в искусстве</h4>\n<p>3D-печать выходит за рамки локальных кейсов, решая задачи по всему миру. Например, дизайнеры создают ювелирные изделия с использованием керамических 3D-принтеров, где текстура кораллов воплощается в износостойкие украшения.</p>\n<p><img loading=\"lazy\" decoding=\"async\" alt=\"Примеры использования 3D-печати в искусстве - Технологии SLA и 3D-печать керамикой - AM-Tech\" decoding=\"async\" src=\"/upload/editor_images/1754485073-mceu_92237480261754485059104.jpg\"></p>\n<p>&nbsp;</p>\n<p>Музеи, такие как Лувр, используют 3D-печать для реплик статуй, делая искусство доступным для тактильного восприятия слепыми посетителями.</p>\n<h4>Создание уникальных арт-объектов: FDM</h4>\n<p>Инсталляция была создана на FDM 3Д принтерах. Конструкция основана на исследовании компанией LCD пространственной формы коконов, в результате чего на многих панелях появились тонкие нити, пересекающиеся крест-накрест.</p>\n<p><img loading=\"lazy\" decoding=\"async\" alt=\"Примеры использования 3D-печати в искусстве - Технологии SLA и 3D-печать керамикой - AM-Tech\" decoding=\"async\" src=\"/upload/editor_images/1754484852-mceu_27448180311754484837917.jpg\" width=\"509\" height=\"339\"> <img loading=\"lazy\" decoding=\"async\" alt=\"Примеры использования 3D-печати в искусстве - Технологии SLA и 3D-печать керамикой - AM-Tech\" decoding=\"async\" src=\"/upload/editor_images/1754484859-mceu_15335963521754484845103.jpg\" width=\"510\" height=\"340\"></p>\n<p><img alt=\"Примеры использования 3D-печати в искусстве - Технологии SLA и 3D-печать керамикой - AM-Tech\" loading=\"lazy\" decoding=\"async\" src=\"/upload/editor_images/1754484876-mceu_17053129151754484861927.png\" width=\"1028\" height=\"514\"></p>\n<p><iframe title=\"vimeo-player\" src=\"https://player.vimeo.com/video/142488780?h=4fc1b7d96e\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<h4>Задачи и возможности 3D-печати в искусстве</h4>\n<p>3D-печать решает ключевые вызовы в этой сфере:</p>\n<ul>\n<li><strong>Воссоздание утраченного</strong>: Реконструкция артефактов, как кувшин, сохраняет культурную ценность.</li>\n<li><strong>Доступность искусства</strong>: Реплики шедевров делают искусство тактильным.</li>\n<li><strong>Эксперименты с формами</strong>: Сложные геометрии, как в ювелирке или вазы, недоступны традиционным методам.</li>\n<li><strong>Интерактивность</strong>: Инсталляции вовлекают аудиторию.</li>\n</ul>\n<h4>Заключение</h4>\n<p>3D-печать в искусстве — это способ решать творческие задачи, от восстановления наследия до создания интерактивных шедевров. Линейка SLA 3D-принтеров AM.TECH, керамические 3D-принтеры AM.TECH и FDM 3D-принтеры расширяют горизонты искусства. Впереди нас ждёт ещё больше инноваций, которые продолжат менять этот мир.</p>\n<p>&nbsp;</p>\n</div>\n</div>\n</div>\n</div>\n",
+  "protected": false,
+  "block_version": 0
+ },
+ "excerpt": {
+  "raw": "",
+  "rendered": "<p>Примеры использования 3D-печати в искусстве: новые горизонты творчества 3D-печать становится мощным инструментом для художников, дизайнеров и музеев, позволяя решать задачи, которые раньше казались недостижимыми. Эта технология открывает двери для восстановления культурного наследия, создания уникальных инсталляций и экспериментов с формами, переосмысливая традиционные подходы к искусству. В этой статье мы рассмотрим, как 3D-печать помогает преодолевать творческие и [&hellip;]</p>\n",
+  "protected": false
+ },
+ "author": 1,
+ "featured_media": 2102,
+ "comment_status": "open",
+ "ping_status": "open",
+ "template": "",
+ "meta": {
+  "_acf_changed": false,
+  "_yoast_wpseo_title": "Примеры использования 3D-печати в искусстве | AM-Tech",
+  "_yoast_wpseo_metadesc": "Примеры использования 3D-печати в искусстве - новости компании AM-Tech",
+  "_yoast_wpseo_meta-robots-noindex": ""
+ },
+ "news_category": [
+  1216
+ ],
+ "news_tag": [],
+ "permalink_template": "https://am-tech.ru/news/%pagename%/",
+ "generated_slug": "primery-ispolzovanija-3d-pechati-v-iskusstve",
+ "class_list": [
+  "post-2151",
+  "news",
+  "type-news",
+  "status-publish",
+  "has-post-thumbnail",
+  "hentry",
+  "news_category-tehnologii-sla-i-3d-pechat-keramikoj"
+ ],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Примеры использования 3D-печати в искусстве | AM-Tech</title>\n<meta name=\"description\" content=\"Примеры использования 3D-печати в искусстве - новости компании AM-Tech\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/news/primery-ispolzovaniya-3d-pechati-v-iskusstve/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Примеры использования 3D-печати в искусстве | AM-Tech\" />\n<meta property=\"og:description\" content=\"Примеры использования 3D-печати в искусстве - новости компании AM-Tech\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/news/primery-ispolzovaniya-3d-pechati-v-iskusstve/\" />\n<meta property=\"og:site_name\" content=\"AM.TECH\" />\n<meta property=\"article:modified_time\" content=\"2026-10-13T14:24:46+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2025/07/n0s0zvrfo3ah3t3rvuooccf3h1mhr7hk.jpg\" />\n\t<meta property=\"og:image:width\" content=\"700\" />\n\t<meta property=\"og:image:height\" content=\"466\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"4 минуты\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/news/primery-ispolzovaniya-3d-pechati-v-iskusstve/\",\"url\":\"https://am-tech.ru/news/primery-ispolzovaniya-3d-pechati-v-iskusstve/\",\"name\":\"Примеры использования 3D-печати в искусстве | AM-Tech\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/news/primery-ispolzovaniya-3d-pechati-v-iskusstve/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/news/primery-ispolzovaniya-3d-pechati-v-iskusstve/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2025/07/n0s0zvrfo3ah3t3rvuooccf3h1mhr7hk.jpg\",\"datePublished\":\"2025-07-22T12:52:00+00:00\",\"dateModified\":\"2026-10-13T14:24:46+00:00\",\"description\":\"Примеры использования 3D-печати в искусстве - новости компании AM-Tech\",\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/news/primery-ispolzovaniya-3d-pechati-v-iskusstve/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/news/primery-ispolzovaniya-3d-pechati-v-iskusstve/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2025/07/n0s0zvrfo3ah3t3rvuooccf3h1mhr7hk.jpg\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2025/07/n0s0zvrfo3ah3t3rvuooccf3h1mhr7hk.jpg\",\"width\":700,\"height\":466},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"AM.TECH\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"AM.TECH\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"AM.TECH\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "Примеры использования 3D-печати в искусстве | AM-Tech",
+  "description": "Примеры использования 3D-печати в искусстве - новости компании AM-Tech",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/news/primery-ispolzovaniya-3d-pechati-v-iskusstve/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "Примеры использования 3D-печати в искусстве | AM-Tech",
+  "og_description": "Примеры использования 3D-печати в искусстве - новости компании AM-Tech",
+  "og_url": "https://am-tech.ru/news/primery-ispolzovaniya-3d-pechati-v-iskusstve/",
+  "og_site_name": "AM.TECH",
+  "article_modified_time": "2026-10-13T14:24:46+00:00",
+  "og_image": [
+   {
+    "width": 700,
+    "height": 466,
+    "url": "https://am-tech.ru/wp-content/uploads/2025/07/n0s0zvrfo3ah3t3rvuooccf3h1mhr7hk.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "4 минуты"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/news/primery-ispolzovaniya-3d-pechati-v-iskusstve/",
+     "url": "https://am-tech.ru/news/primery-ispolzovaniya-3d-pechati-v-iskusstve/",
+     "name": "Примеры использования 3D-печати в искусстве | AM-Tech",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/news/primery-ispolzovaniya-3d-pechati-v-iskusstve/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/news/primery-ispolzovaniya-3d-pechati-v-iskusstve/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2025/07/n0s0zvrfo3ah3t3rvuooccf3h1mhr7hk.jpg",
+     "datePublished": "2025-07-22T12:52:00+00:00",
+     "dateModified": "2026-10-13T14:24:46+00:00",
+     "description": "Примеры использования 3D-печати в искусстве - новости компании AM-Tech",
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/news/primery-ispolzovaniya-3d-pechati-v-iskusstve/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/news/primery-ispolzovaniya-3d-pechati-v-iskusstve/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2025/07/n0s0zvrfo3ah3t3rvuooccf3h1mhr7hk.jpg",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2025/07/n0s0zvrfo3ah3t3rvuooccf3h1mhr7hk.jpg",
+     "width": 700,
+     "height": 466
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "AM.TECH",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "AM.TECH",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "AM.TECH"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2151",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/types/news"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/users/1"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/comments?post=2151"
+   }
+  ],
+  "wp:featuredmedia": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/media/2102"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/media?parent=2151"
+   }
+  ],
+  "wp:term": [
+   {
+    "taxonomy": "news_category",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_category?post=2151"
+   },
+   {
+    "taxonomy": "news_tag",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_tag?post=2151"
+   }
+  ],
+  "wp:action-publish": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2151"
+   }
+  ],
+  "wp:action-unfiltered-html": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2151"
+   }
+  ],
+  "wp:action-assign-author": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2151"
+   }
+  ],
+  "wp:action-create-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2151"
+   }
+  ],
+  "wp:action-assign-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2151"
+   }
+  ],
+  "wp:action-create-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2151"
+   }
+  ],
+  "wp:action-assign-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2151"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

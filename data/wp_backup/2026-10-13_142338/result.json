@@ -1,0 +1,23 @@
+[
+ {
+  "plan_task": 16,
+  "label": "Title (Yoast)",
+  "type": "news",
+  "slug": "razvitie-otechestvennoy-additivnoy-otrasli-v-intervyu-mikhaila-rodina-generalnogo-direktora-npo-3d-i",
+  "field": "title",
+  "value": "Интервью «Коммерсанту» о развитии отечественной аддитивной отрасли",
+  "before_text": "Развитие отечественной аддитивной отрасли в нашем интервью для издания «Коммерсантъ» - заказать у производителя с доставкой по России | AM-Tech",
+  "after_text": "Интервью «Коммерсанту» о развитии отечественной аддитивной отрасли",
+  "comment": "Поля Yoast открыты (задача 41 выполнена 13.10.2026), пробный запуск прошёл. В title приписка для товаров «заказать у производителя с доставкой»; было 143 симв., стало 66 симв.",
+  "page_path": "/news/razvitie-otechestvennoy-additivnoy-otrasli-v-intervyu-mikhaila-rodina-generalnogo-direktora-npo-3d-i/",
+  "row": 125,
+  "id": 2121,
+  "url": "https://am-tech.ru/news/razvitie-otechestvennoy-additivnoy-otrasli-v-intervyu-mikhaila-rodina-generalnogo-direktora-npo-3d-i/",
+  "before": "Развитие отечественной аддитивной отрасли в нашем интервью для издания «Коммерсантъ» - заказать у производителя с доставкой по России | AM-Tech",
+  "after": "Интервью «Коммерсанту» о развитии отечественной аддитивной отрасли",
+  "saved": true,
+  "on_page": true,
+  "on_cached_page": true,
+  "status": "применено"
+ }
+]

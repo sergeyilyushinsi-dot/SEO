@@ -1,0 +1,470 @@
+{
+ "id": 1371,
+ "name": "3D - принтер MBJ-550 PRO",
+ "slug": "mbj-550-pro",
+ "permalink": "https://am-tech.ru/product/mbj-550-pro/",
+ "date_created": "2025-08-17T00:30:59",
+ "date_created_gmt": "2025-08-16T21:30:59",
+ "date_modified": "2026-01-21T12:16:37",
+ "date_modified_gmt": "2026-01-21T09:16:37",
+ "type": "simple",
+ "status": "publish",
+ "featured": false,
+ "catalog_visibility": "visible",
+ "description": "<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n<h2>Промышленный 3D-принтер MBJ-550 PRO: Флагманское решение для крупномасштабного аддитивного производства</h2>\r\n<p class=\"\">MBJ-550 PRO - это передовой <a href=\"https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/\">промышленный 3D-принтер для бизнеса</a>, разработанный для удовлетворения самых высоких требований крупномасштабного аддитивного производства.</p>\r\n\r\n<h2>Преимущества</h2>\r\n<ol>\r\n \t<li>Максимальная производительность: MBJ-550 PRO обеспечивает непревзойденную скорость печати, в десятки раз превышающую показатели традиционных 3D-принтеров, что позволяет существенно увеличить объемы производства.</li>\r\n \t<li>Наибольший объем печати: Расширенная рабочая область позволяет создавать крупногабаритные детали или производить большое количество изделий за один цикл печати.</li>\r\n \t<li>Высокая экономическая эффективность: Себестоимость печати на MBJ-550 PRO в 3-5 раз ниже, чем при использовании SLM технологии, что делает его идеальным выбором для масштабного производства.</li>\r\n \t<li>Полная автоматизация: Принтер оснащен комплексной системой автоматизации, включающей автоматическую загрузку материала, очистку деталей и рециркуляцию порошка, что обеспечивает бесперебойную работу в режиме 24/7.</li>\r\n \t<li>Высочайшее качество печати: Использование передовых пьезоэлектрических печатающих головок с разрешением 1200х1200 dpi гарантирует непревзойденную детализацию и качество поверхности изделий.</li>\r\n</ol>\r\n<h2>Принцип работы</h2>\r\nMBJ-550 PRO использует инновационную технологию струйной печати связующим веществом (Binder Jetting):\r\n<ol>\r\n \t<li>Прецизионное нанесение тонкого слоя металлического порошка.</li>\r\n \t<li>Высокоскоростное селективное нанесение связующего вещества печатающей головкой.</li>\r\n \t<li>Послойное построение изделия с высокой точностью и однородностью.</li>\r\n \t<li>Автоматизированная постобработка, включающая термообработку для получения готовой металлической детали.</li>\r\n</ol>\r\n<h2>Область применения</h2>\r\n<ol>\r\n \t<li>Аэрокосмическая промышленность: производство крупногабаритных компонентов сложной геометрии.</li>\r\n \t<li>Автомобилестроение: массовое производство оптимизированных деталей и запчастей.</li>\r\n \t<li>Энергетика: изготовление компонентов турбин и теплообменников.</li>\r\n \t<li>Тяжелое машиностроение: создание крупных функциональных деталей и прототипов.</li>\r\n</ol>\r\n<h3>Примеры изделий, созданных по технологии MBJ:</h3>\r\n<table style=\"border-collapse: collapse; width: 98.5735%; background-color: #ffffff;\" border=\"0\" align=\"center\">\r\n<tbody>\r\n<tr>\r\n<td style=\"width: 49.7467%;\"><img src=\"/upload/editor_images/1722244733-RRR_6306.jpg\" alt=\"\" width=\"400\" height=\"252\"></td>\r\n<td style=\"width: 49.7467%;\"><img src=\"/upload/editor_images/1722244747-RRR_6628.jpg\" alt=\"\" width=\"400\" height=\"249\"></td>\r\n</tr>\r\n<tr>\r\n<td class=\"\" style=\"width: 49.7467%;\"><img src=\"/upload/editor_images/1722247894-RRR_6597.jpg\" alt=\"\" width=\"400\" height=\"238\"></td>\r\n<td style=\"width: 49.7467%;\"><img src=\"/upload/editor_images/1722247604-RRR_6407.jpg\" alt=\"\" width=\"400\" height=\"238\"></td>\r\n</tr>\r\n</tbody>\r\n</table>\r\nВсе представленное в нашем каталоге оборудование доступно к приобретению на выгодных условиях <a href=\"https://am-tech.ru/leasing/\">лизинга.</a>\r\n\r\nНаши специалисты помогут подобрать оптимальную схему лизинга под ваши производственные задачи и финансовые возможности, а также окажут содействие в оформлении всей необходимой документации.\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+ "short_description": "Аддитивная установка с камерой объемом 40,7 литров.\r\n\r\nДанная технология создана для массового производства. Детали, сделанные по данной технологии, создаются из MIM порошков и обладают очень низкой себестоимостью изготовления.\r\n\r\nВажное преимущества данной системы-быстрое получение серийных изделий практически любой геометрии без использования поддержек и доступная цена комплексов.",
+ "sku": "",
+ "price": "",
+ "regular_price": "",
+ "sale_price": "",
+ "date_on_sale_from": null,
+ "date_on_sale_from_gmt": null,
+ "date_on_sale_to": null,
+ "date_on_sale_to_gmt": null,
+ "on_sale": false,
+ "purchasable": false,
+ "total_sales": 0,
+ "virtual": false,
+ "downloadable": false,
+ "downloads": [],
+ "download_limit": -1,
+ "download_expiry": -1,
+ "external_url": "",
+ "button_text": "",
+ "tax_status": "taxable",
+ "tax_class": "",
+ "manage_stock": false,
+ "stock_quantity": null,
+ "backorders": "no",
+ "backorders_allowed": false,
+ "backordered": false,
+ "low_stock_amount": null,
+ "sold_individually": false,
+ "weight": "",
+ "dimensions": {
+  "length": "",
+  "width": "",
+  "height": ""
+ },
+ "shipping_required": true,
+ "shipping_taxable": true,
+ "shipping_class": "",
+ "shipping_class_id": 0,
+ "reviews_allowed": true,
+ "average_rating": "0",
+ "rating_count": 0,
+ "upsell_ids": [],
+ "cross_sell_ids": [],
+ "parent_id": 0,
+ "purchase_note": "",
+ "categories": [
+  {
+   "id": 17,
+   "name": "MBJ 3D - принтеры",
+   "slug": "mbj-3d-print"
+  }
+ ],
+ "brands": [],
+ "tags": [],
+ "images": [
+  {
+   "id": 1372,
+   "date_created": "2025-08-17T03:30:59",
+   "date_created_gmt": "2025-08-16T21:30:59",
+   "date_modified": "2025-08-17T03:30:59",
+   "date_modified_gmt": "2025-08-16T21:30:59",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/a09atnpvb14mroa0lt59jxgl3v5a7jfp-1.png",
+   "name": "a09atnpvb14mroa0lt59jxgl3v5a7jfp-1",
+   "alt": ""
+  },
+  {
+   "id": 1373,
+   "date_created": "2025-08-17T03:31:02",
+   "date_created_gmt": "2025-08-16T21:31:02",
+   "date_modified": "2025-08-17T03:31:02",
+   "date_modified_gmt": "2025-08-16T21:31:02",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/gfarc4iqwjqecabu2933ubw73tg0dl55-1-scaled.jpg",
+   "name": "gfarc4iqwjqecabu2933ubw73tg0dl55-1",
+   "alt": ""
+  },
+  {
+   "id": 1374,
+   "date_created": "2025-08-17T03:31:11",
+   "date_created_gmt": "2025-08-16T21:31:11",
+   "date_modified": "2025-08-17T03:31:11",
+   "date_modified_gmt": "2025-08-16T21:31:11",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/t3sdgsrkyn9r0n3hgqalzuz29kyp0i94-1-scaled.png",
+   "name": "t3sdgsrkyn9r0n3hgqalzuz29kyp0i94-1",
+   "alt": ""
+  },
+  {
+   "id": 1375,
+   "date_created": "2025-08-17T03:37:31",
+   "date_created_gmt": "2025-08-16T21:37:31",
+   "date_modified": "2025-08-17T03:37:31",
+   "date_modified_gmt": "2025-08-16T21:37:31",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/5dkiebq1hdvodvtsx7upml3w6u2u2fzb-1-scaled.jpg",
+   "name": "5dkiebq1hdvodvtsx7upml3w6u2u2fzb-1",
+   "alt": ""
+  },
+  {
+   "id": 1376,
+   "date_created": "2025-08-17T03:37:40",
+   "date_created_gmt": "2025-08-16T21:37:40",
+   "date_modified": "2025-08-17T03:37:40",
+   "date_modified_gmt": "2025-08-16T21:37:40",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/0oesm43tk8frawrr0fmaq4joqq0ai0mg-1-scaled.jpg",
+   "name": "0oesm43tk8frawrr0fmaq4joqq0ai0mg-1",
+   "alt": ""
+  }
+ ],
+ "attributes": [],
+ "default_attributes": [],
+ "variations": [],
+ "grouped_products": [],
+ "menu_order": 0,
+ "price_html": "",
+ "related_ids": [
+  1659,
+  1366
+ ],
+ "meta_data": [
+  {
+   "id": 22800,
+   "key": "Анонс",
+   "value": "<p>Аддитивная установка с камерой&nbsp;объемом 40,7 литров.</p>\r\n<p>Данная технология создана для массового производства. Детали, сделанные по данной технологии, создаются из MIM порошков и обладают очень низкой себестоимостью изготовления.</p>\r\n<p>Важное преимущества данной системы-быстрое получение серийных изделий практически любой геометрии без использования поддержек и доступная цена комплексов.</p>"
+  },
+  {
+   "id": 22801,
+   "key": "Описание",
+   "value": "<h2>Промышленный 3D-принтер MBJ-550 PRO: Флагманское решение для крупномасштабного аддитивного производства</h2>\r\n<p>MBJ-550 PRO - это передовой промышленный 3D-принтер для бизнеса, разработанный для удовлетворения самых высоких требований крупномасштабного аддитивного производства.</p>\r\n<h2>Преимущества</h2>\r\n<ol>\r\n<li>Максимальная производительность: MBJ-550 PRO обеспечивает непревзойденную скорость печати, в десятки раз превышающую показатели традиционных 3D-принтеров, что позволяет существенно увеличить объемы производства.</li>\r\n<li>Наибольший объем печати: Расширенная рабочая область позволяет создавать крупногабаритные детали или производить большое количество изделий за один цикл печати.</li>\r\n<li>Высокая экономическая эффективность: Себестоимость печати на MBJ-550 PRO в 3-5 раз ниже, чем при использовании SLM технологии, что делает его идеальным выбором для масштабного производства.</li>\r\n<li>Полная автоматизация: Принтер оснащен комплексной системой автоматизации, включающей автоматическую загрузку материала, очистку деталей и рециркуляцию порошка, что обеспечивает бесперебойную работу в режиме 24/7.</li>\r\n<li>Высочайшее качество печати: Использование передовых пьезоэлектрических печатающих головок с разрешением 1200х1200 dpi гарантирует непревзойденную детализацию и качество поверхности изделий.</li>\r\n</ol>\r\n<h2>Принцип работы</h2>\r\n<p>MBJ-550 PRO использует инновационную технологию струйной печати связующим веществом (Binder Jetting):</p>\r\n<ol>\r\n<li>Прецизионное нанесение тонкого слоя металлического порошка.</li>\r\n<li>Высокоскоростное селективное нанесение связующего вещества печатающей головкой.</li>\r\n<li>Послойное построение изделия с высокой точностью и однородностью.</li>\r\n<li>Автоматизированная постобработка, включающая термообработку для получения готовой металлической детали.</li>\r\n</ol>\r\n<h2>Область применения</h2>\r\n<ol>\r\n<li>Аэрокосмическая промышленность: производство крупногабаритных компонентов сложной геометрии.</li>\r\n<li>Автомобилестроение: массовое производство оптимизированных деталей и запчастей.</li>\r\n<li>Энергетика: изготовление компонентов турбин и теплообменников.</li>\r\n<li>Тяжелое машиностроение: создание крупных функциональных деталей и прототипов.</li>\r\n</ol>\r\n<h3>Примеры изделий, созданных по технологии MBJ:</h3>\r\n<table style=\"border-collapse: collapse; width: 98.5735%; background-color: #ffffff;\" border=\"0\" align=\"center\">\r\n<tbody>\r\n<tr>\r\n<td style=\"width: 49.7467%;\"><img src=\"/upload/editor_images/1722244733-RRR_6306.jpg\" alt=\"\" width=\"400\" height=\"252\" /></td>\r\n<td style=\"width: 49.7467%;\"><img src=\"/upload/editor_images/1722244747-RRR_6628.jpg\" alt=\"\" width=\"400\" height=\"249\" /></td>\r\n</tr>\r\n<tr>\r\n<td style=\"width: 49.7467%;\"><img src=\"/upload/editor_images/1722247894-RRR_6597.jpg\" alt=\"\" width=\"400\" height=\"238\" /></td>\r\n<td style=\"width: 49.7467%;\"><img src=\"/upload/editor_images/1722247604-RRR_6407.jpg\" alt=\"\" width=\"400\" height=\"238\" /></td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p>Все представленное в нашем каталоге оборудование доступно к приобретению на выгодных условиях <a href=\"https://am-tech.ru/leasing/\">лизинга.</a></p>\r\n<p>Наши специалисты помогут подобрать оптимальную схему лизинга под ваши производственные задачи и финансовые возможности, а также окажут содействие в оформлении всей необходимой документации.</p>"
+  },
+  {
+   "id": 22805,
+   "key": "Страна производства",
+   "value": "Китай"
+  },
+  {
+   "id": 22806,
+   "key": "Код с видео (iframe)",
+   "value": "https://www.youtube.com/embed/1K1dDuS-uj4?feature=oembed"
+  },
+  {
+   "id": 22807,
+   "key": "Связанные товары по фильтру",
+   "value": "[]"
+  },
+  {
+   "id": 22808,
+   "key": "Материалы",
+   "value": "/pr_new_files/iblock/40c/ik5oslmb0lfh5b3yu8n2ynwj12cfstnc.pdf"
+  },
+  {
+   "id": 22809,
+   "key": "Картинки галереи",
+   "value": "/pr_new_files/iblock/961/gh4li7u4091sibtj9rmv6443uoff2cmw.jpg"
+  },
+  {
+   "id": 22810,
+   "key": "Область печати, мм",
+   "value": "550х370х200"
+  },
+  {
+   "id": 22811,
+   "key": "Толщина слоя, мм",
+   "value": "0,03-0,2 (регулируемая)"
+  },
+  {
+   "id": 22812,
+   "key": "Скорость печати, с/слой",
+   "value": "10-17"
+  },
+  {
+   "id": 22813,
+   "key": "Доступные материалы",
+   "value": "17-4 PH, 304L, 316L, 420L, Инконель 625, Инконель 718, Сплавы титана, инструментальная сталь, медь"
+  },
+  {
+   "id": 22814,
+   "key": "Разрешение печати, DPI",
+   "value": "1200"
+  },
+  {
+   "id": 22815,
+   "key": "Печатающая голова",
+   "value": "пьезоэлектрическая"
+  },
+  {
+   "id": 22816,
+   "key": "Форматы данных",
+   "value": "STL, 3MF"
+  },
+  {
+   "id": 22817,
+   "key": "Электропитание",
+   "value": "220 В, 10 А, 50 Гц, одна фаза"
+  },
+  {
+   "id": 22818,
+   "key": "Габариты установки, мм",
+   "value": "1500х1200х1750"
+  },
+  {
+   "id": 22819,
+   "key": "Скорость формования, см³ в час",
+   "value": "до 4309"
+  },
+  {
+   "id": 22820,
+   "key": "bitrix_picture",
+   "value": "/pr_new_files/iblock/611/rrnqsyzh7lrjh01ao3yhll84v4dsthcc.png"
+  },
+  {
+   "id": 22821,
+   "key": "Документы товара",
+   "value": "1356"
+  },
+  {
+   "id": 35406,
+   "key": "Файл видео",
+   "value": ""
+  },
+  {
+   "id": 35407,
+   "key": "_news_category",
+   "value": "0"
+  },
+  {
+   "id": 35408,
+   "key": "_news_tag",
+   "value": "0"
+  },
+  {
+   "id": 35409,
+   "key": "_custom_advantages",
+   "value": ""
+  },
+  {
+   "id": 35410,
+   "key": "_my_menu_type",
+   "value": "обычное"
+  },
+  {
+   "id": 35411,
+   "key": "_video_block",
+   "value": {
+    "video_title": "",
+    "video_post_id": "",
+    "right_title": "",
+    "subtitle": "",
+    "video_description": "",
+    "button_text": "Смотреть больше видео",
+    "tag_id": ""
+   }
+  },
+  {
+   "id": 35412,
+   "key": "boldgrid_in_page_containers",
+   "value": "1"
+  },
+  {
+   "id": 35413,
+   "key": "_yoast_wpseo_primary_product_brand",
+   "value": ""
+  },
+  {
+   "id": 35414,
+   "key": "_yoast_wpseo_primary_product_cat",
+   "value": ""
+  },
+  {
+   "id": 35415,
+   "key": "_yoast_wpseo_content_score",
+   "value": "60"
+  },
+  {
+   "id": 35416,
+   "key": "_yoast_wpseo_estimated-reading-time-minutes",
+   "value": "3"
+  },
+  {
+   "id": 35751,
+   "key": "_yoast_wpseo_title",
+   "value": "3D - принтер MBJ-550 PRO - заказать у производителя с доставкой по России | AM-Tech"
+  },
+  {
+   "id": 35752,
+   "key": "_yoast_wpseo_metadesc",
+   "value": "Заказать 3D - принтер MBJ-550 PRO - демонстрация и консультация наших специалистов. +7 (495) 109 11 91"
+  }
+ ],
+ "stock_status": "instock",
+ "has_options": false,
+ "post_password": "",
+ "global_unique_id": "",
+ "permalink_template": "https://am-tech.ru/product/%pagename%/",
+ "generated_slug": "3d-printer-mbj-550-pro",
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>3D - принтер MBJ-550 PRO - заказать у производителя с доставкой по России | AM-Tech</title>\n<meta name=\"description\" content=\"Заказать 3D - принтер MBJ-550 PRO - демонстрация и консультация наших специалистов. +7 (495) 109 11 91\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/product/mbj-550-pro/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"3D - принтер MBJ-550 PRO - заказать у производителя с доставкой по России | AM-Tech\" />\n<meta property=\"og:description\" content=\"Заказать 3D - принтер MBJ-550 PRO - демонстрация и консультация наших специалистов. +7 (495) 109 11 91\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/product/mbj-550-pro/\" />\n<meta property=\"og:site_name\" content=\"am-tech.ru\" />\n<meta property=\"article:modified_time\" content=\"2026-01-21T09:16:37+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2025/08/a09atnpvb14mroa0lt59jxgl3v5a7jfp-1.png\" />\n\t<meta property=\"og:image:width\" content=\"1000\" />\n\t<meta property=\"og:image:height\" content=\"964\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"3 минуты\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/product/mbj-550-pro/\",\"url\":\"https://am-tech.ru/product/mbj-550-pro/\",\"name\":\"3D - принтер MBJ-550 PRO - заказать у производителя с доставкой по России | AM-Tech\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/product/mbj-550-pro/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/product/mbj-550-pro/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2025/08/a09atnpvb14mroa0lt59jxgl3v5a7jfp-1.png\",\"datePublished\":\"2025-08-16T21:30:59+00:00\",\"dateModified\":\"2026-01-21T09:16:37+00:00\",\"description\":\"Заказать 3D - принтер MBJ-550 PRO - демонстрация и консультация наших специалистов. +7 (495) 109 11 91\",\"breadcrumb\":{\"@id\":\"https://am-tech.ru/product/mbj-550-pro/#breadcrumb\"},\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/product/mbj-550-pro/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/product/mbj-550-pro/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2025/08/a09atnpvb14mroa0lt59jxgl3v5a7jfp-1.png\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2025/08/a09atnpvb14mroa0lt59jxgl3v5a7jfp-1.png\",\"width\":1000,\"height\":964},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://am-tech.ru/product/mbj-550-pro/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Главная страница\",\"item\":\"https://am-tech.ru/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"MBJ 3D - принтеры\",\"item\":\"https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/mbj-3d-print/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"3D &#8212; принтер MBJ-550 PRO\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"am-tech.ru\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"am-tech.ru\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"am-tech.ru\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "3D - принтер MBJ-550 PRO - заказать у производителя с доставкой по России | AM-Tech",
+  "description": "Заказать 3D - принтер MBJ-550 PRO - демонстрация и консультация наших специалистов. +7 (495) 109 11 91",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/product/mbj-550-pro/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "3D - принтер MBJ-550 PRO - заказать у производителя с доставкой по России | AM-Tech",
+  "og_description": "Заказать 3D - принтер MBJ-550 PRO - демонстрация и консультация наших специалистов. +7 (495) 109 11 91",
+  "og_url": "https://am-tech.ru/product/mbj-550-pro/",
+  "og_site_name": "am-tech.ru",
+  "article_modified_time": "2026-01-21T09:16:37+00:00",
+  "og_image": [
+   {
+    "width": 1000,
+    "height": 964,
+    "url": "https://am-tech.ru/wp-content/uploads/2025/08/a09atnpvb14mroa0lt59jxgl3v5a7jfp-1.png",
+    "type": "image/png"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "3 минуты"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/product/mbj-550-pro/",
+     "url": "https://am-tech.ru/product/mbj-550-pro/",
+     "name": "3D - принтер MBJ-550 PRO - заказать у производителя с доставкой по России | AM-Tech",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/product/mbj-550-pro/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/product/mbj-550-pro/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2025/08/a09atnpvb14mroa0lt59jxgl3v5a7jfp-1.png",
+     "datePublished": "2025-08-16T21:30:59+00:00",
+     "dateModified": "2026-01-21T09:16:37+00:00",
+     "description": "Заказать 3D - принтер MBJ-550 PRO - демонстрация и консультация наших специалистов. +7 (495) 109 11 91",
+     "breadcrumb": {
+      "@id": "https://am-tech.ru/product/mbj-550-pro/#breadcrumb"
+     },
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/product/mbj-550-pro/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/product/mbj-550-pro/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2025/08/a09atnpvb14mroa0lt59jxgl3v5a7jfp-1.png",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2025/08/a09atnpvb14mroa0lt59jxgl3v5a7jfp-1.png",
+     "width": 1000,
+     "height": 964
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://am-tech.ru/product/mbj-550-pro/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Главная страница",
+       "item": "https://am-tech.ru/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "MBJ 3D - принтеры",
+       "item": "https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/mbj-3d-print/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "3D &#8212; принтер MBJ-550 PRO"
+      }
+     ]
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "am-tech.ru",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "am-tech.ru",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "am-tech.ru"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wc/v3/products/1371",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wc/v3/products"
+   }
+  ]
+ }
+}

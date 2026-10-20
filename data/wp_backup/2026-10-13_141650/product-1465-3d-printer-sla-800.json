@@ -1,0 +1,609 @@
+{
+ "id": 1465,
+ "name": "3D-принтер SLA-800",
+ "slug": "3d-printer-sla-800",
+ "permalink": "https://am-tech.ru/product/3d-printer-sla-800/",
+ "date_created": "2025-08-17T02:32:34",
+ "date_created_gmt": "2025-08-16T23:32:34",
+ "date_modified": "2026-09-23T15:50:01",
+ "date_modified_gmt": "2026-09-23T12:50:01",
+ "type": "simple",
+ "status": "publish",
+ "featured": false,
+ "catalog_visibility": "visible",
+ "description": "<style>\r\n.amt-sla-800{\r\n  --amt-orange:#e86f1c;\r\n  --amt-orange-soft:#f3a45f;\r\n  --amt-dark:#121419;\r\n  --amt-text:#1b1f25;\r\n  --amt-muted:#636b75;\r\n  --amt-line:#e9e9e9;\r\n  --amt-soft:#f7f7f7;\r\n  --amt-shadow:0 16px 46px rgba(0,0,0,.065);\r\n  --amt-shadow-strong:0 30px 90px rgba(0,0,0,.12);\r\n  --amt-icon:#3a3f46;\r\n  max-width:1340px;\r\n  margin:0 auto;\r\n  padding:80px 20px;\r\n  font-family:Inter,Arial,sans-serif;\r\n  color:var(--amt-text);\r\n}\r\n\r\n.amt-sla-800 *{\r\n  box-sizing:border-box;\r\n}\r\n\r\n.amt-sla-800 h1,\r\n.amt-sla-800 h2,\r\n.amt-sla-800 h3,\r\n.amt-sla-800 p{\r\n  margin-top:0;\r\n}\r\n\r\n.amt-sla-800 a{\r\n  color:inherit;\r\n}\r\n\r\n.amt-sla-800__hero{\r\n  display:grid;\r\n  grid-template-columns:minmax(0,620px) minmax(420px,1fr);\r\n  gap:70px;\r\n  align-items:center;\r\n  margin-bottom:72px;\r\n}\r\n\r\n.amt-sla-800__eyebrow{\r\n  display:inline-flex;\r\n  align-items:center;\r\n  gap:10px;\r\n  margin-bottom:18px;\r\n  padding:9px 14px;\r\n  border-radius:999px;\r\n  background:#f5f5f5;\r\n  color:#3a3f46;\r\n  font-size:13px;\r\n  font-weight:800;\r\n  letter-spacing:.06em;\r\n  text-transform:uppercase;\r\n}\r\n\r\n.amt-sla-800__eyebrow:before{\r\n  content:\"\";\r\n  width:8px;\r\n  height:8px;\r\n  border-radius:50%;\r\n  background:var(--amt-orange);\r\n  box-shadow:0 0 0 6px rgba(232,111,28,.12);\r\n}\r\n\r\n.amt-sla-800__title{\r\n  margin:0 0 26px;\r\n  font-size:68px;\r\n  line-height:.98;\r\n  font-weight:800;\r\n  letter-spacing:-2.5px;\r\n  color:#111;\r\n}\r\n\r\n.amt-sla-800__title span{\r\n  color:var(--amt-orange);\r\n}\r\n\r\n.amt-sla-800__lead{\r\n  margin:0 0 18px;\r\n  font-size:19px;\r\n  line-height:1.85;\r\n  color:#474f5a;\r\n}\r\n\r\n.amt-sla-800__highlight{\r\n  color:var(--amt-orange);\r\n  font-weight:800;\r\n}\r\n\r\n.amt-sla-800__quick{\r\n  display:grid;\r\n  grid-template-columns:repeat(3,1fr);\r\n  gap:12px;\r\n  margin-top:30px;\r\n}\r\n\r\n.amt-sla-800__quick div{\r\n  padding:16px;\r\n  border:1px solid var(--amt-line);\r\n  border-radius:18px;\r\n  background:#fff;\r\n  box-shadow:var(--amt-shadow);\r\n}\r\n\r\n.amt-sla-800__quick span{\r\n  display:block;\r\n  margin-bottom:5px;\r\n  font-size:12px;\r\n  line-height:1.3;\r\n  letter-spacing:.06em;\r\n  text-transform:uppercase;\r\n  color:#747b86;\r\n}\r\n\r\n.amt-sla-800__quick strong{\r\n  display:block;\r\n  font-size:20px;\r\n  line-height:1.2;\r\n  color:#111;\r\n}\r\n\r\n.amt-sla-800__hero-panel{\r\n  position:relative;\r\n  min-height:620px;\r\n  border-radius:30px;\r\n  overflow:hidden;\r\n  background:\r\n    radial-gradient(circle at top right,rgba(232,111,28,.13),transparent 30%),\r\n    linear-gradient(145deg,#f8f8f8,#fff);\r\n  border:1px solid var(--amt-line);\r\n  box-shadow:var(--amt-shadow-strong);\r\n  display:flex;\r\n  align-items:center;\r\n  justify-content:center;\r\n}\r\n\r\n.amt-sla-800__grid-bg{\r\n  position:absolute;\r\n  inset:0;\r\n  background-image:\r\n    linear-gradient(rgba(0,0,0,.035) 1px,transparent 1px),\r\n    linear-gradient(90deg,rgba(0,0,0,.035) 1px,transparent 1px);\r\n  background-size:48px 48px;\r\n}\r\n\r\n.amt-sla-800__product-visual{\r\n  position:relative;\r\n  z-index:2;\r\n  width:min(450px,90%);\r\n}\r\n\r\n.amt-sla-800__build-box{\r\n  position:relative;\r\n  height:350px;\r\n  border-radius:28px;\r\n  background:\r\n    linear-gradient(145deg,rgba(255,255,255,.12),rgba(255,255,255,.03)),\r\n    #14161b;\r\n  box-shadow:0 30px 80px rgba(0,0,0,.22);\r\n  overflow:hidden;\r\n  border:1px solid rgba(255,255,255,.08);\r\n}\r\n\r\n.amt-sla-800__build-top{\r\n  position:absolute;\r\n  left:40px;\r\n  right:40px;\r\n  top:38px;\r\n  height:76px;\r\n  border-radius:18px;\r\n  background:linear-gradient(180deg,#30353c,#1c2026);\r\n  box-shadow:inset 0 -3px 0 rgba(232,111,28,.45);\r\n}\r\n\r\n.amt-sla-800__build-grid{\r\n  position:absolute;\r\n  left:52px;\r\n  right:52px;\r\n  bottom:58px;\r\n  height:162px;\r\n  border-radius:20px;\r\n  background:\r\n    linear-gradient(rgba(255,255,255,.08) 1px,transparent 1px),\r\n    linear-gradient(90deg,rgba(255,255,255,.08) 1px,transparent 1px),\r\n    linear-gradient(180deg,rgba(232,111,28,.2),rgba(232,111,28,.04));\r\n  background-size:24px 24px,24px 24px,100% 100%;\r\n  transform:perspective(560px) rotateX(58deg);\r\n  transform-origin:bottom;\r\n}\r\n\r\n.amt-sla-800__laser-line{\r\n  position:absolute;\r\n  left:50%;\r\n  top:96px;\r\n  width:3px;\r\n  height:164px;\r\n  border-radius:10px;\r\n  background:linear-gradient(180deg,rgba(243,164,95,0),var(--amt-orange),rgba(243,164,95,.15));\r\n  box-shadow:0 0 24px rgba(232,111,28,.65);\r\n  animation:amtSla800LaserScan 2.4s ease-in-out infinite;\r\n}\r\n\r\n.amt-sla-800__model-shape{\r\n  position:absolute;\r\n  left:50%;\r\n  bottom:100px;\r\n  width:128px;\r\n  height:54px;\r\n  border-radius:16px 16px 8px 8px;\r\n  background:linear-gradient(180deg,var(--amt-orange-soft),var(--amt-orange));\r\n  transform:translateX(-50%) perspective(380px) rotateX(58deg);\r\n  box-shadow:0 18px 34px rgba(232,111,28,.24);\r\n}\r\n\r\n.amt-sla-800__axis{\r\n  position:absolute;\r\n  left:34px;\r\n  bottom:58px;\r\n  width:4px;\r\n  height:162px;\r\n  border-radius:10px;\r\n  background:rgba(255,255,255,.12);\r\n  overflow:hidden;\r\n}\r\n\r\n.amt-sla-800__axis:after{\r\n  content:\"\";\r\n  position:absolute;\r\n  left:0;\r\n  right:0;\r\n  height:48px;\r\n  top:-48px;\r\n  border-radius:10px;\r\n  background:linear-gradient(180deg,transparent,var(--amt-orange),transparent);\r\n  animation:amtSla800AxisMove 2.2s ease-in-out infinite;\r\n}\r\n\r\n.amt-sla-800__product-specs{\r\n  display:grid;\r\n  grid-template-columns:1fr;\r\n  gap:10px;\r\n  margin-top:16px;\r\n}\r\n\r\n.amt-sla-800__product-specs div{\r\n  padding:16px 18px;\r\n  border-radius:16px;\r\n  background:#fff;\r\n  border:1px solid var(--amt-line);\r\n  box-shadow:var(--amt-shadow);\r\n}\r\n\r\n.amt-sla-800__product-specs span{\r\n  display:block;\r\n  margin-bottom:5px;\r\n  font-size:12px;\r\n  line-height:1.3;\r\n  text-transform:uppercase;\r\n  letter-spacing:.06em;\r\n  color:#737b86;\r\n}\r\n\r\n.amt-sla-800__product-specs strong{\r\n  display:block;\r\n  font-size:20px;\r\n  line-height:1.25;\r\n  color:#111;\r\n}\r\n\r\n.amt-sla-800__section{\r\n  margin-top:86px;\r\n}\r\n\r\n.amt-sla-800__section-title{\r\n  margin:0 0 18px;\r\n  font-size:48px;\r\n  line-height:1.08;\r\n  font-weight:800;\r\n  letter-spacing:-1px;\r\n  color:#111;\r\n}\r\n\r\n.amt-sla-800__divider{\r\n  width:72px;\r\n  height:4px;\r\n  border-radius:10px;\r\n  background:var(--amt-orange);\r\n  margin-bottom:26px;\r\n}\r\n\r\n.amt-sla-800__section-text{\r\n  max-width:1120px;\r\n  margin:0;\r\n  font-size:18px;\r\n  line-height:1.9;\r\n  color:#525a66;\r\n}\r\n\r\n.amt-sla-800__graph-grid,\r\n.amt-sla-800__benefit-grid,\r\n.amt-sla-800__process,\r\n.amt-sla-800__app-grid,\r\n.amt-sla-800__image-grid,\r\n.amt-sla-800__example-grid{\r\n  display:grid;\r\n}\r\n\r\n.amt-sla-800__graph-grid{\r\n  grid-template-columns:repeat(4,1fr);\r\n  gap:20px;\r\n  margin:70px 0 86px;\r\n}\r\n\r\n.amt-sla-800__benefit-grid{\r\n  grid-template-columns:repeat(3,1fr);\r\n  gap:22px;\r\n  margin-top:42px;\r\n}\r\n\r\n.amt-sla-800__process{\r\n  grid-template-columns:repeat(4,1fr);\r\n  gap:24px;\r\n  margin-top:44px;\r\n}\r\n\r\n.amt-sla-800__app-grid{\r\n  grid-template-columns:repeat(2,1fr);\r\n  gap:22px;\r\n  margin-top:40px;\r\n}\r\n\r\n.amt-sla-800__image-grid{\r\n  grid-template-columns:repeat(5,1fr);\r\n  gap:18px;\r\n  margin-top:44px;\r\n}\r\n\r\n.amt-sla-800__example-grid{\r\n  grid-template-columns:repeat(2,1fr);\r\n  gap:26px;\r\n  margin-top:44px;\r\n}\r\n\r\n.amt-sla-800__card,\r\n.amt-sla-800__graph-card,\r\n.amt-sla-800__process-card,\r\n.amt-sla-800__app,\r\n.amt-sla-800__image-card,\r\n.amt-sla-800__example{\r\n  background:#fff;\r\n  border:1px solid var(--amt-line);\r\n  border-radius:22px;\r\n  box-shadow:var(--amt-shadow);\r\n  transition:transform .35s ease,box-shadow .35s ease,border-color .35s ease;\r\n}\r\n\r\n.amt-sla-800__card:hover,\r\n.amt-sla-800__graph-card:hover,\r\n.amt-sla-800__process-card:hover,\r\n.amt-sla-800__app:hover,\r\n.amt-sla-800__image-card:hover,\r\n.amt-sla-800__example:hover{\r\n  transform:translateY(-5px);\r\n  border-color:rgba(232,111,28,.28);\r\n  box-shadow:0 22px 60px rgba(0,0,0,.09);\r\n}\r\n\r\n.amt-sla-800__graph-card,\r\n.amt-sla-800__card{\r\n  padding:30px;\r\n}\r\n\r\n.amt-sla-800__process-card{\r\n  padding:34px;\r\n}\r\n\r\n.amt-sla-800__app{\r\n  padding:32px;\r\n}\r\n\r\n.amt-sla-800__card-title{\r\n  display:flex;\r\n  align-items:center;\r\n  gap:12px;\r\n  margin:0 0 22px;\r\n  font-size:20px;\r\n  line-height:1.25;\r\n  color:#111;\r\n}\r\n\r\n.amt-sla-800__icon{\r\n  width:38px;\r\n  height:38px;\r\n  flex:0 0 38px;\r\n  border-radius:12px;\r\n  background:#f2f3f4;\r\n  color:var(--amt-icon);\r\n  display:inline-flex;\r\n  align-items:center;\r\n  justify-content:center;\r\n}\r\n\r\n.amt-sla-800__icon svg{\r\n  width:21px;\r\n  height:21px;\r\n  stroke:currentColor;\r\n  stroke-width:2;\r\n  fill:none;\r\n  stroke-linecap:round;\r\n  stroke-linejoin:round;\r\n}\r\n\r\n.amt-sla-800__radial{\r\n  --amt-radial-value:96%;\r\n  --amt-radial-fill:0%;\r\n  width:150px;\r\n  height:150px;\r\n  margin:0 auto 18px;\r\n  border-radius:50%;\r\n  background:\r\n    radial-gradient(circle at center,#fff 58%,transparent 59%),\r\n    conic-gradient(var(--amt-orange) var(--amt-radial-fill),#eeeeee 0);\r\n  display:flex;\r\n  align-items:center;\r\n  justify-content:center;\r\n  animation:amtSla800RadialGrow 1.35s cubic-bezier(.2,.75,.2,1) both;\r\n}\r\n\r\n.amt-sla-800__radial span{\r\n  font-size:34px;\r\n  font-weight:800;\r\n  color:#111;\r\n  animation:amtSla800FadeUp .75s ease both;\r\n  animation-delay:.28s;\r\n}\r\n\r\n.amt-sla-800__progress{\r\n  position:relative;\r\n  height:14px;\r\n  border-radius:30px;\r\n  overflow:hidden;\r\n  background:#efefef;\r\n}\r\n\r\n.amt-sla-800__progress span{\r\n  position:relative;\r\n  display:block;\r\n  height:100%;\r\n  border-radius:30px;\r\n  background:linear-gradient(90deg,var(--amt-orange),var(--amt-orange-soft));\r\n  transform-origin:left;\r\n  animation:amtSla800ProgressGrow 1.2s cubic-bezier(.2,.75,.2,1) both;\r\n  overflow:hidden;\r\n}\r\n\r\n.amt-sla-800__progress span:after{\r\n  content:\"\";\r\n  position:absolute;\r\n  top:0;\r\n  bottom:0;\r\n  width:44px;\r\n  left:-44px;\r\n  background:linear-gradient(90deg,transparent,rgba(255,255,255,.65),transparent);\r\n  animation:amtSla800LineMove 2.1s ease-in-out infinite;\r\n}\r\n\r\n.amt-sla-800__bars{\r\n  height:160px;\r\n  display:flex;\r\n  align-items:flex-end;\r\n  gap:12px;\r\n  border-bottom:1px solid var(--amt-line);\r\n}\r\n\r\n.amt-sla-800__bars i{\r\n  position:relative;\r\n  flex:1;\r\n  display:block;\r\n  border-radius:12px 12px 0 0;\r\n  background:linear-gradient(180deg,var(--amt-orange),var(--amt-orange-soft));\r\n  transform-origin:bottom;\r\n  animation:amtSla800BarGrow 1.15s cubic-bezier(.2,.75,.2,1) both;\r\n  overflow:hidden;\r\n}\r\n\r\n.amt-sla-800__bars i:after{\r\n  content:\"\";\r\n  position:absolute;\r\n  inset:0;\r\n  background:linear-gradient(180deg,transparent,rgba(255,255,255,.45),transparent);\r\n  transform:translateY(120%);\r\n  animation:amtSla800ScaleMove 2.4s ease-in-out infinite;\r\n}\r\n\r\n.amt-sla-800__bars i:nth-child(2){animation-delay:.08s}\r\n.amt-sla-800__bars i:nth-child(3){animation-delay:.16s}\r\n.amt-sla-800__bars i:nth-child(4){animation-delay:.24s}\r\n.amt-sla-800__bars i:nth-child(5){animation-delay:.32s}\r\n\r\n.amt-sla-800__graph-value{\r\n  font-size:42px;\r\n  line-height:1;\r\n  font-weight:800;\r\n  color:var(--amt-orange);\r\n  margin:16px 0 10px;\r\n  animation:amtSla800FadeUp .75s ease both;\r\n  animation-delay:.28s;\r\n}\r\n\r\n.amt-sla-800__graph-card p,\r\n.amt-sla-800__card p,\r\n.amt-sla-800__process-card p{\r\n  margin:0;\r\n  font-size:15px;\r\n  line-height:1.8;\r\n  color:#5b6370;\r\n}\r\n\r\n.amt-sla-800__graph-card p{\r\n  margin-top:14px;\r\n  font-size:14px;\r\n  color:var(--amt-muted);\r\n}\r\n\r\n.amt-sla-800__card h3,\r\n.amt-sla-800__process-card h3,\r\n.amt-sla-800__app h3{\r\n  margin:0 0 16px;\r\n  color:#111;\r\n}\r\n\r\n.amt-sla-800__card h3{\r\n  font-size:24px;\r\n  line-height:1.25;\r\n}\r\n\r\n.amt-sla-800__process-card h3{\r\n  font-size:24px;\r\n  line-height:1.2;\r\n}\r\n\r\n.amt-sla-800__app h3{\r\n  font-size:28px;\r\n  line-height:1.2;\r\n}\r\n\r\n.amt-sla-800__app p{\r\n  margin:0;\r\n  font-size:16px;\r\n  line-height:1.85;\r\n  color:#59606d;\r\n}\r\n\r\n.amt-sla-800__process-number{\r\n  width:54px;\r\n  height:54px;\r\n  border-radius:50%;\r\n  background:#2f343b;\r\n  color:#fff;\r\n  display:flex;\r\n  align-items:center;\r\n  justify-content:center;\r\n  font-weight:800;\r\n  margin-bottom:22px;\r\n  box-shadow:inset 0 -3px 0 rgba(232,111,28,.45);\r\n}\r\n\r\n.amt-sla-800__image-card{\r\n  overflow:hidden;\r\n}\r\n\r\n.amt-sla-800__image-card img{\r\n  width:100%;\r\n  height:180px;\r\n  object-fit:cover;\r\n  display:block;\r\n  transition:transform .45s ease;\r\n}\r\n\r\n.amt-sla-800__image-card:hover img{\r\n  transform:scale(1.04);\r\n}\r\n\r\n.amt-sla-800__image-card p{\r\n  margin:0;\r\n  padding:18px;\r\n  font-size:14px;\r\n  line-height:1.6;\r\n  color:#444;\r\n  text-align:center;\r\n}\r\n\r\n.amt-sla-800__example{\r\n  overflow:hidden;\r\n}\r\n\r\n.amt-sla-800__example img{\r\n  width:100%;\r\n  display:block;\r\n  transition:transform .45s ease;\r\n}\r\n\r\n.amt-sla-800__example:hover img{\r\n  transform:scale(1.035);\r\n}\r\n\r\n.amt-sla-800__example-body{\r\n  padding:28px;\r\n}\r\n\r\n.amt-sla-800__example-body h3{\r\n  margin:0 0 12px;\r\n  font-size:28px;\r\n  color:#111;\r\n}\r\n\r\n.amt-sla-800__example-body p{\r\n  margin:0;\r\n  font-size:16px;\r\n  line-height:1.8;\r\n  color:#59606d;\r\n}\r\n\r\n.amt-sla-800__dark{\r\n  margin-top:90px;\r\n  padding:56px;\r\n  border-radius:30px;\r\n  background:\r\n    radial-gradient(circle at top right,rgba(232,111,28,.18),transparent 30%),\r\n    #121419;\r\n  color:#fff;\r\n  box-shadow:0 26px 70px rgba(0,0,0,.15);\r\n}\r\n\r\n.amt-sla-800__dark h2{\r\n  margin:0 0 22px;\r\n  font-size:48px;\r\n  line-height:1.08;\r\n  font-weight:800;\r\n}\r\n\r\n.amt-sla-800__dark p{\r\n  margin:0 0 18px;\r\n  max-width:1120px;\r\n  font-size:18px;\r\n  line-height:1.9;\r\n  color:#d7d9dd;\r\n}\r\n\r\n.amt-sla-800__dark p:last-child{\r\n  margin-bottom:0;\r\n}\r\n\r\n.amt-sla-800__dark a{\r\n  color:#ffb06d;\r\n  text-decoration:none;\r\n  font-weight:700;\r\n}\r\n\r\n@keyframes amtSla800LaserScan{\r\n  0%,100%{transform:translateX(-92px);opacity:.55}\r\n  50%{transform:translateX(92px);opacity:1}\r\n}\r\n\r\n@keyframes amtSla800AxisMove{\r\n  0%{top:-48px}\r\n  60%,100%{top:162px}\r\n}\r\n\r\n@keyframes amtSla800BarGrow{\r\n  from{transform:scaleY(0);opacity:.35}\r\n  to{transform:scaleY(1);opacity:1}\r\n}\r\n\r\n@keyframes amtSla800ProgressGrow{\r\n  from{transform:scaleX(0)}\r\n  to{transform:scaleX(1)}\r\n}\r\n\r\n@keyframes amtSla800RadialGrow{\r\n  from{--amt-radial-fill:0%}\r\n  to{--amt-radial-fill:var(--amt-radial-value)}\r\n}\r\n\r\n@keyframes amtSla800FadeUp{\r\n  from{opacity:0;transform:translateY(8px)}\r\n  to{opacity:1;transform:translateY(0)}\r\n}\r\n\r\n@keyframes amtSla800LineMove{\r\n  0%{left:-44px}\r\n  55%,100%{left:100%}\r\n}\r\n\r\n@keyframes amtSla800ScaleMove{\r\n  0%{transform:translateY(120%)}\r\n  55%,100%{transform:translateY(-120%)}\r\n}\r\n\r\n@media (prefers-reduced-motion:reduce){\r\n  .amt-sla-800 *,\r\n  .amt-sla-800 *:before,\r\n  .amt-sla-800 *:after{\r\n    animation:none!important;\r\n    transition:none!important;\r\n  }\r\n}\r\n\r\n@media(max-width:1200px){\r\n  .amt-sla-800__graph-grid,\r\n  .amt-sla-800__process,\r\n  .amt-sla-800__image-grid,\r\n  .amt-sla-800__benefit-grid{\r\n    grid-template-columns:repeat(2,1fr);\r\n  }\r\n}\r\n\r\n@media(max-width:1100px){\r\n  .amt-sla-800__hero,\r\n  .amt-sla-800__app-grid,\r\n  .amt-sla-800__example-grid{\r\n    grid-template-columns:1fr;\r\n  }\r\n\r\n  .amt-sla-800__title{\r\n    font-size:50px;\r\n  }\r\n\r\n  .amt-sla-800__hero-panel{\r\n    min-height:520px;\r\n  }\r\n}\r\n\r\n@media(max-width:768px){\r\n  .amt-sla-800{\r\n    padding:54px 16px;\r\n  }\r\n\r\n  .amt-sla-800__title{\r\n    font-size:40px;\r\n    letter-spacing:-1.2px;\r\n  }\r\n\r\n  .amt-sla-800__section-title,\r\n  .amt-sla-800__dark h2{\r\n    font-size:34px;\r\n  }\r\n\r\n  .amt-sla-800__graph-grid,\r\n  .amt-sla-800__process,\r\n  .amt-sla-800__image-grid,\r\n  .amt-sla-800__benefit-grid,\r\n  .amt-sla-800__quick{\r\n    grid-template-columns:1fr;\r\n  }\r\n\r\n  .amt-sla-800__dark{\r\n    padding:34px 28px;\r\n  }\r\n\r\n  .amt-sla-800__build-box{\r\n    height:310px;\r\n  }\r\n\r\n  .amt-sla-800__product-specs strong{\r\n    font-size:18px;\r\n  }\r\n}\r\n</style>\r\n\r\n<div class=\"amt-sla-800\">\r\n\r\n  <div class=\"amt-sla-800__hero\">\r\n    <div>\r\n      <div class=\"amt-sla-800__eyebrow\">Промышленная SLA-печать</div>\r\n\r\n      <h1 class=\"amt-sla-800__title\">\r\n        3D-принтер <span>SLA-800</span>\r\n      </h1>\r\n\r\n      <p class=\"amt-sla-800__lead\">\r\n        <strong>SLA-800</strong> - промышленный 3D-принтер для крупноформатной стереолитографической печати изделий из фотополимерных смол.\r\n      </p>\r\n\r\n      <p class=\"amt-sla-800__lead\">\r\n        <span class=\"amt-sla-800__highlight\">Рабочая область 800 x 800 x 600 мм</span> позволяет изготавливать крупные детали, прототипы, мастер-модели и серии небольших изделий за один производственный цикл.\r\n      </p>\r\n\r\n      <p class=\"amt-sla-800__lead\">\r\n        Технология SLA обеспечивает высокую точность, гладкую поверхность и стабильную повторяемость результата, что особенно важно для инженерных, медицинских, аэрокосмических и производственных задач.\r\n      </p>\r\n\r\n      <div class=\"amt-sla-800__quick\">\r\n        <div>\r\n          <span>Камера</span>\r\n          <strong>800 x 800 x 600</strong>\r\n        </div>\r\n        <div>\r\n          <span>Точность</span>\r\n          <strong>до 15 мкм</strong>\r\n        </div>\r\n        <div>\r\n          <span>Скорость</span>\r\n          <strong>до 35 мм/ч</strong>\r\n        </div>\r\n      </div>\r\n    </div>\r\n\r\n    <div class=\"amt-sla-800__hero-panel\">\r\n      <div class=\"amt-sla-800__grid-bg\"></div>\r\n\r\n      <div class=\"amt-sla-800__product-visual\">\r\n        <div class=\"amt-sla-800__build-box\">\r\n          <div class=\"amt-sla-800__build-top\"></div>\r\n          <div class=\"amt-sla-800__build-grid\"></div>\r\n          <div class=\"amt-sla-800__axis\"></div>\r\n          <div class=\"amt-sla-800__laser-line\"></div>\r\n          <div class=\"amt-sla-800__model-shape\"></div>\r\n        </div>\r\n\r\n        <div class=\"amt-sla-800__product-specs\">\r\n          <div>\r\n            <span>Рабочая область</span>\r\n            <strong>800 x 800 x 600 мм</strong>\r\n          </div>\r\n          <div>\r\n            <span>Точность печати</span>\r\n            <strong>до 15 мкм</strong>\r\n          </div>\r\n          <div>\r\n            <span>Скорость построения</span>\r\n            <strong>до 35 мм/ч</strong>\r\n          </div>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </div>\r\n\r\n  <div class=\"amt-sla-800__graph-grid\">\r\n\r\n    <div class=\"amt-sla-800__graph-card\">\r\n      <h3 class=\"amt-sla-800__card-title\">\r\n        <span class=\"amt-sla-800__icon\">\r\n          <svg viewBox=\"0 0 24 24\"><path d=\"M4 4h16v16H4z\"/><path d=\"M8 8h8v8H8z\"/></svg>\r\n        </span>\r\n        Рабочая область\r\n      </h3>\r\n\r\n      <div class=\"amt-sla-800__radial\" style=\"--amt-radial-value:96%\">\r\n        <span>800</span>\r\n      </div>\r\n\r\n      <p>\r\n        Формат 800 x 800 x 600 мм подходит для крупных изделий и одновременной печати партий деталей.\r\n      </p>\r\n    </div>\r\n\r\n    <div class=\"amt-sla-800__graph-card\">\r\n      <h3 class=\"amt-sla-800__card-title\">\r\n        <span class=\"amt-sla-800__icon\">\r\n          <svg viewBox=\"0 0 24 24\"><circle cx=\"12\" cy=\"12\" r=\"3\"/><path d=\"M3 12h3\"/><path d=\"M18 12h3\"/><path d=\"M12 3v3\"/><path d=\"M12 18v3\"/><path d=\"m5.6 5.6 2.1 2.1\"/><path d=\"m16.3 16.3 2.1 2.1\"/></svg>\r\n        </span>\r\n        Точность печати\r\n      </h3>\r\n\r\n      <div class=\"amt-sla-800__progress\">\r\n        <span style=\"width:94%\"></span>\r\n      </div>\r\n\r\n      <div class=\"amt-sla-800__graph-value\">15 мкм</div>\r\n\r\n      <p>\r\n        Высокая точность помогает получать детали с минимальными допусками и чистой геометрией.\r\n      </p>\r\n    </div>\r\n\r\n    <div class=\"amt-sla-800__graph-card\">\r\n      <h3 class=\"amt-sla-800__card-title\">\r\n        <span class=\"amt-sla-800__icon\">\r\n          <svg viewBox=\"0 0 24 24\"><path d=\"M12 2v4\"/><path d=\"M12 18v4\"/><path d=\"M4.9 4.9l2.8 2.8\"/><path d=\"M16.3 16.3l2.8 2.8\"/><path d=\"M2 12h4\"/><path d=\"M18 12h4\"/><circle cx=\"12\" cy=\"12\" r=\"4\"/></svg>\r\n        </span>\r\n        Производительность\r\n      </h3>\r\n\r\n      <div class=\"amt-sla-800__bars\">\r\n        <i style=\"height:38%\"></i>\r\n        <i style=\"height:56%\"></i>\r\n        <i style=\"height:72%\"></i>\r\n        <i style=\"height:88%\"></i>\r\n        <i style=\"height:100%\"></i>\r\n      </div>\r\n\r\n      <div class=\"amt-sla-800__graph-value\">35 мм/ч</div>\r\n\r\n      <p>\r\n        Скорость построения до 35 мм в час ускоряет прототипирование и мелкосерийное производство.\r\n      </p>\r\n    </div>\r\n\r\n    <div class=\"amt-sla-800__graph-card\">\r\n      <h3 class=\"amt-sla-800__card-title\">\r\n        <span class=\"amt-sla-800__icon\">\r\n          <svg viewBox=\"0 0 24 24\"><path d=\"M4 16c4-8 12-8 16 0\"/><path d=\"M4 20h16\"/><path d=\"M8 12h8\"/></svg>\r\n        </span>\r\n        Качество поверхности\r\n      </h3>\r\n\r\n      <div class=\"amt-sla-800__progress\">\r\n        <span style=\"width:90%\"></span>\r\n      </div>\r\n\r\n      <div class=\"amt-sla-800__graph-value\">SLA</div>\r\n\r\n      <p>\r\n        Гладкая поверхность снижает трудозатраты на доводку изделий после печати.\r\n      </p>\r\n    </div>\r\n\r\n  </div>\r\n\r\n  <div class=\"amt-sla-800__section\">\r\n    <h2 class=\"amt-sla-800__section-title\">Преимущества SLA-800</h2>\r\n    <div class=\"amt-sla-800__divider\"></div>\r\n\r\n    <p class=\"amt-sla-800__section-text\">\r\n      SLA-800 создан для предприятий, которым важны масштаб, точность и стабильная повторяемость. Принтер помогает быстрее проходить путь от цифровой модели до физического изделия, сокращает сроки разработки и открывает возможность выпускать сложные детали без дорогостоящей оснастки.\r\n    </p>\r\n\r\n    <div class=\"amt-sla-800__benefit-grid\">\r\n      <div class=\"amt-sla-800__card\">\r\n        <h3 class=\"amt-sla-800__card-title\">\r\n          <span class=\"amt-sla-800__icon\">\r\n            <svg viewBox=\"0 0 24 24\"><path d=\"M4 4h16v16H4z\"/><path d=\"M8 8h8v8H8z\"/></svg>\r\n          </span>\r\n          Крупный формат\r\n        </h3>\r\n        <p>Рабочая область 800 x 800 x 600 мм позволяет печатать крупногабаритные изделия или размещать несколько моделей в одном задании.</p>\r\n      </div>\r\n\r\n      <div class=\"amt-sla-800__card\">\r\n        <h3 class=\"amt-sla-800__card-title\">\r\n          <span class=\"amt-sla-800__icon\">\r\n            <svg viewBox=\"0 0 24 24\"><path d=\"M12 2v20\"/><path d=\"M2 12h20\"/><circle cx=\"12\" cy=\"12\" r=\"5\"/></svg>\r\n          </span>\r\n          Высокая точность\r\n        </h3>\r\n        <p>Точность до 15 микрон делает SLA-800 решением для инженерных деталей, макетов, мастер-моделей и компонентов с высокими требованиями.</p>\r\n      </div>\r\n\r\n      <div class=\"amt-sla-800__card\">\r\n        <h3 class=\"amt-sla-800__card-title\">\r\n          <span class=\"amt-sla-800__icon\">\r\n            <svg viewBox=\"0 0 24 24\"><path d=\"M4 18h16\"/><path d=\"M7 14h10\"/><path d=\"M9 10h6\"/><path d=\"M11 6h2\"/></svg>\r\n          </span>\r\n          Быстрый цикл\r\n        </h3>\r\n        <p>Скорость до 35 мм/ч и большая рабочая зона помогают быстрее проходить этапы прототипирования, тестирования и подготовки к производству.</p>\r\n      </div>\r\n    </div>\r\n  </div>\r\n\r\n  <div class=\"amt-sla-800__section\">\r\n    <h2 class=\"amt-sla-800__section-title\">Как работает технология SLA</h2>\r\n    <div class=\"amt-sla-800__divider\"></div>\r\n\r\n    <p class=\"amt-sla-800__section-text\">\r\n      Стереолитография строит изделие послойно: ультрафиолетовый лазер отверждает жидкий фотополимер строго по контуру цифровой модели. За счет точного управления лазером технология подходит для сложной геометрии, тонких элементов, гладких поверхностей и больших деталей с высокой детализацией.\r\n    </p>\r\n\r\n    <div class=\"amt-sla-800__process\">\r\n      <div class=\"amt-sla-800__process-card\">\r\n        <div class=\"amt-sla-800__process-number\">01</div>\r\n        <h3>Подготовка модели</h3>\r\n        <p>3D-модель загружается в программное обеспечение, где делится на тонкие слои и подготавливается к печати.</p>\r\n      </div>\r\n\r\n      <div class=\"amt-sla-800__process-card\">\r\n        <div class=\"amt-sla-800__process-number\">02</div>\r\n        <h3>Лазерное отверждение</h3>\r\n        <p>УФ-лазер облучает фотополимер по заданному контуру, формируя первый и последующие слои изделия.</p>\r\n      </div>\r\n\r\n      <div class=\"amt-sla-800__process-card\">\r\n        <div class=\"amt-sla-800__process-number\">03</div>\r\n        <h3>Послойное построение</h3>\r\n        <p>Платформа перемещается на толщину слоя, а процесс повторяется до полного формирования детали.</p>\r\n      </div>\r\n\r\n      <div class=\"amt-sla-800__process-card\">\r\n        <div class=\"amt-sla-800__process-number\">04</div>\r\n        <h3>Постобработка</h3>\r\n        <p>Готовая модель очищается от остатков материала и проходит финальное УФ-отверждение для достижения нужных свойств.</p>\r\n      </div>\r\n    </div>\r\n  </div>\r\n\r\n  <div class=\"amt-sla-800__section\">\r\n    <h2 class=\"amt-sla-800__section-title\">Области применения</h2>\r\n    <div class=\"amt-sla-800__divider\"></div>\r\n\r\n    <div class=\"amt-sla-800__app-grid\">\r\n      <div class=\"amt-sla-800__app\">\r\n        <h3>Автомобилестроение</h3>\r\n        <p>SLA-800 позволяет создавать полноразмерные прототипы деталей, элементы интерьера и экстерьера, а также проверочные макеты перед запуском в производство.</p>\r\n      </div>\r\n\r\n      <div class=\"amt-sla-800__app\">\r\n        <h3>Аэрокосмическая отрасль</h3>\r\n        <p>Принтер подходит для изготовления крупногабаритных компонентов, макетов летательных аппаратов, спутников и сложных инженерных моделей.</p>\r\n      </div>\r\n\r\n      <div class=\"amt-sla-800__app\">\r\n        <h3>Производство и оснастка</h3>\r\n        <p>Оборудование помогает выпускать формы, мастер-модели, индивидуальные инструменты и вспомогательные приспособления без длительной подготовки оснастки.</p>\r\n      </div>\r\n\r\n      <div class=\"amt-sla-800__app\">\r\n        <h3>Медицина, образование и наука</h3>\r\n        <p>SLA-800 применяется для анатомических моделей, хирургических шаблонов, научных макетов и демонстрационных изделий высокой точности.</p>\r\n      </div>\r\n    </div>\r\n  </div>\r\n\r\n  <div class=\"amt-sla-800__section\">\r\n    <h2 class=\"amt-sla-800__section-title\">Конструктивные особенности SLA-800</h2>\r\n    <div class=\"amt-sla-800__divider\"></div>\r\n\r\n    <div class=\"amt-sla-800__image-grid\">\r\n      <div class=\"amt-sla-800__image-card\">\r\n        <img src=\"/upload/editor_images/1722257106-1.jpg\" alt=\"Изменяемое пятно лазера\" loading=\"lazy\" decoding=\"async\">\r\n        <p>Изменяемое пятно лазера</p>\r\n      </div>\r\n\r\n      <div class=\"amt-sla-800__image-card\">\r\n        <img src=\"/upload/editor_images/1722257117-2.jpg\" alt=\"Настраиваемая консоль\" loading=\"lazy\" decoding=\"async\">\r\n        <p>Настраиваемая консоль</p>\r\n      </div>\r\n\r\n      <div class=\"amt-sla-800__image-card\">\r\n        <img src=\"/upload/editor_images/1722257151-3.jpg\" alt=\"19-дюймовый экран\" loading=\"lazy\" decoding=\"async\">\r\n        <p>19-дюймовый экран</p>\r\n      </div>\r\n\r\n      <div class=\"amt-sla-800__image-card\">\r\n        <img src=\"/upload/editor_images/1722257197-4.jpg\" alt=\"Сетчатая платформа для легкого отделения моделей\" loading=\"lazy\" decoding=\"async\">\r\n        <p>Сетчатая платформа для легкого отделения моделей</p>\r\n      </div>\r\n\r\n      <div class=\"amt-sla-800__image-card\">\r\n        <img src=\"/upload/editor_images/1722257654-imagetools0.jpg\" alt=\"Вакуумный ракель\" loading=\"lazy\" decoding=\"async\">\r\n        <p>Вакуумный ракель</p>\r\n      </div>\r\n    </div>\r\n  </div>\r\n\r\n  <div class=\"amt-sla-800__section\">\r\n    <h2 class=\"amt-sla-800__section-title\">Примеры изделий, созданных по технологии SLA</h2>\r\n    <div class=\"amt-sla-800__divider\"></div>\r\n\r\n    <div class=\"amt-sla-800__example-grid\">\r\n      <div class=\"amt-sla-800__example\">\r\n        <img src=\"/upload/editor_images/1722258856-RRR_7629.jpg\" alt=\"Детализированные модели SLA\" loading=\"lazy\" decoding=\"async\">\r\n        <div class=\"amt-sla-800__example-body\">\r\n          <h3>Детализированные модели</h3>\r\n          <p>SLA-печать обеспечивает точную передачу геометрии, чистые поверхности и аккуратные мелкие элементы.</p>\r\n        </div>\r\n      </div>\r\n\r\n      <div class=\"amt-sla-800__example\">\r\n        <img src=\"/upload/editor_images/1722258983-RRR_7627.jpg\" alt=\"Промышленные прототипы SLA\" loading=\"lazy\" decoding=\"async\">\r\n        <div class=\"amt-sla-800__example-body\">\r\n          <h3>Промышленные прототипы</h3>\r\n          <p>Технология подходит для функциональных компонентов, мастер-моделей, презентационных образцов и инженерных испытаний.</p>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </div>\r\n\r\n  <div class=\"amt-sla-800__dark\">\r\n    <h2>Купить SLA 3D-принтер SLA-800</h2>\r\n\r\n    <p>\r\n      SLA-800 - это инвестиция в производственную независимость, скорость разработки и технологическое преимущество. Оборудование помогает быстрее выпускать прототипы, сокращать затраты на оснастку и закрывать задачи, которые сложно или дорого выполнять классическими методами.\r\n    </p>\r\n\r\n    <p>\r\n      Цена SLA-принтера SLA-800 зависит от комплектации, материалов, программных опций и условий внедрения. Специалисты AM.TECH помогут подобрать конфигурацию под ваши задачи, рассчитать стоимость и подготовить предложение.\r\n    </p>\r\n\r\n    <p>\r\n      Все оборудование, представленное в каталоге AM.TECH, доступно к приобретению на выгодных условиях\r\n      <a href=\"https://am-tech.ru/leasing/\">лизинга</a>. Мы поможем подобрать оптимальную схему финансирования и сопроводим оформление необходимой документации.\r\n    </p>\r\n  </div>\r\n\r\n</div>",
+ "short_description": "<span style=\"font-family: var(--ui-font-family-primary, var(--ui-font-family-helvetica));\">Машина профессионального класса для получения высокоточных изделий. Установка обладает открытой архитектурой, что позволяет использовать ее, как универсальный инструмент, печатая выжигаемые модели для литья, мастер модели, функциональные изделия или осуществлять прототипирование с точностью 0,01 мм.</span>",
+ "sku": "",
+ "price": "",
+ "regular_price": "",
+ "sale_price": "",
+ "date_on_sale_from": null,
+ "date_on_sale_from_gmt": null,
+ "date_on_sale_to": null,
+ "date_on_sale_to_gmt": null,
+ "on_sale": false,
+ "purchasable": false,
+ "total_sales": 0,
+ "virtual": false,
+ "downloadable": false,
+ "downloads": [],
+ "download_limit": -1,
+ "download_expiry": -1,
+ "external_url": "",
+ "button_text": "",
+ "tax_status": "taxable",
+ "tax_class": "",
+ "manage_stock": false,
+ "stock_quantity": null,
+ "backorders": "no",
+ "backorders_allowed": false,
+ "backordered": false,
+ "low_stock_amount": null,
+ "sold_individually": false,
+ "weight": "",
+ "dimensions": {
+  "length": "",
+  "width": "",
+  "height": ""
+ },
+ "shipping_required": true,
+ "shipping_taxable": true,
+ "shipping_class": "",
+ "shipping_class_id": 0,
+ "reviews_allowed": true,
+ "average_rating": "0",
+ "rating_count": 0,
+ "upsell_ids": [],
+ "cross_sell_ids": [],
+ "parent_id": 0,
+ "purchase_note": "",
+ "categories": [
+  {
+   "id": 1022,
+   "name": "SLA 3D-принтеры",
+   "slug": "sla-3d-printery"
+  }
+ ],
+ "brands": [],
+ "tags": [],
+ "images": [
+  {
+   "id": 1466,
+   "date_created": "2025-08-17T05:32:35",
+   "date_created_gmt": "2025-08-16T23:32:35",
+   "date_modified": "2025-08-17T05:32:35",
+   "date_modified_gmt": "2025-08-16T23:32:35",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/xrfsavq91ujapdjpu0vw7q0ao7mkstp7-1.webp",
+   "name": "xrfsavq91ujapdjpu0vw7q0ao7mkstp7-1",
+   "alt": ""
+  },
+  {
+   "id": 1474,
+   "date_created": "2025-08-17T05:56:15",
+   "date_created_gmt": "2025-08-16T23:56:15",
+   "date_modified": "2025-08-17T05:56:15",
+   "date_modified_gmt": "2025-08-16T23:56:15",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/zgn4thrz01zpsa43xf18q0sw7915ub4e-3.jpg",
+   "name": "zgn4thrz01zpsa43xf18q0sw7915ub4e-3",
+   "alt": ""
+  },
+  {
+   "id": 1475,
+   "date_created": "2025-08-17T05:56:17",
+   "date_created_gmt": "2025-08-16T23:56:17",
+   "date_modified": "2025-08-17T05:56:17",
+   "date_modified_gmt": "2025-08-16T23:56:17",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/cqqwptuj54vmj6c4pfopuhkz6dr3l7x6-4.jpg",
+   "name": "cqqwptuj54vmj6c4pfopuhkz6dr3l7x6-4",
+   "alt": ""
+  },
+  {
+   "id": 1476,
+   "date_created": "2025-08-17T05:56:17",
+   "date_created_gmt": "2025-08-16T23:56:17",
+   "date_modified": "2025-08-17T05:56:17",
+   "date_modified_gmt": "2025-08-16T23:56:17",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/3fbammmncmuovicmnipl2gky53vgpb88-3.png",
+   "name": "3fbammmncmuovicmnipl2gky53vgpb88-3",
+   "alt": ""
+  },
+  {
+   "id": 1477,
+   "date_created": "2025-08-17T06:00:04",
+   "date_created_gmt": "2025-08-17T00:00:04",
+   "date_modified": "2025-08-17T06:00:04",
+   "date_modified_gmt": "2025-08-17T00:00:04",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/7lv6wndjqdpyg0e6kixs8xcougwl5n0w-3.png",
+   "name": "7lv6wndjqdpyg0e6kixs8xcougwl5n0w-3",
+   "alt": ""
+  },
+  {
+   "id": 1478,
+   "date_created": "2025-08-17T06:01:01",
+   "date_created_gmt": "2025-08-17T00:01:01",
+   "date_modified": "2025-08-17T06:01:01",
+   "date_modified_gmt": "2025-08-17T00:01:01",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/kti5n22mwsgfo7taloei35aia7f64iea-3-scaled.png",
+   "name": "kti5n22mwsgfo7taloei35aia7f64iea-3",
+   "alt": ""
+  },
+  {
+   "id": 1479,
+   "date_created": "2025-08-17T06:26:10",
+   "date_created_gmt": "2025-08-17T00:26:10",
+   "date_modified": "2025-08-17T06:26:10",
+   "date_modified_gmt": "2025-08-17T00:26:10",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/dhozowhtk6bd8fkq60nf1krblafju1pv-5.jpg",
+   "name": "dhozowhtk6bd8fkq60nf1krblafju1pv-5",
+   "alt": ""
+  },
+  {
+   "id": 1480,
+   "date_created": "2025-08-17T06:26:10",
+   "date_created_gmt": "2025-08-17T00:26:10",
+   "date_modified": "2025-08-17T06:26:10",
+   "date_modified_gmt": "2025-08-17T00:26:10",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/kvxnmebq09yj3gdkjp2x3x134xg4a9ez-4.jpg",
+   "name": "kvxnmebq09yj3gdkjp2x3x134xg4a9ez-4",
+   "alt": ""
+  },
+  {
+   "id": 1481,
+   "date_created": "2025-08-17T06:26:11",
+   "date_created_gmt": "2025-08-17T00:26:11",
+   "date_modified": "2025-08-17T06:26:11",
+   "date_modified_gmt": "2025-08-17T00:26:11",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/2bs440k680hmujhqzpfb8hnp9elcy67m-4.jpg",
+   "name": "2bs440k680hmujhqzpfb8hnp9elcy67m-4",
+   "alt": ""
+  },
+  {
+   "id": 1482,
+   "date_created": "2025-08-17T06:26:11",
+   "date_created_gmt": "2025-08-17T00:26:11",
+   "date_modified": "2025-08-17T06:26:11",
+   "date_modified_gmt": "2025-08-17T00:26:11",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/jv7akcn1uqc1436o1zyi319srqbkxvdt-3.jpg",
+   "name": "jv7akcn1uqc1436o1zyi319srqbkxvdt-3",
+   "alt": ""
+  },
+  {
+   "id": 1483,
+   "date_created": "2025-08-17T06:26:12",
+   "date_created_gmt": "2025-08-17T00:26:12",
+   "date_modified": "2025-08-17T06:26:12",
+   "date_modified_gmt": "2025-08-17T00:26:12",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/pi6mol8er67c77dlwh08zftz4gll3b9k-3.png",
+   "name": "pi6mol8er67c77dlwh08zftz4gll3b9k-3",
+   "alt": ""
+  },
+  {
+   "id": 1484,
+   "date_created": "2025-08-17T06:26:15",
+   "date_created_gmt": "2025-08-17T00:26:15",
+   "date_modified": "2025-08-17T06:26:15",
+   "date_modified_gmt": "2025-08-17T00:26:15",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/inqauvbfr1sd3wgn3wl0ydmwp16g092n-3.png",
+   "name": "inqauvbfr1sd3wgn3wl0ydmwp16g092n-3",
+   "alt": ""
+  }
+ ],
+ "attributes": [
+  {
+   "id": 3489,
+   "name": "Диаметр лазерного пятна",
+   "slug": "pa_diametr-lazernogo-pjatna",
+   "position": 1,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "0.05-0.20"
+   ]
+  },
+  {
+   "id": 3485,
+   "name": "Количество лазеров, шт",
+   "slug": "pa_kolichestvo-lazerov-sht",
+   "position": 9,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "1"
+   ]
+  },
+  {
+   "id": 3487,
+   "name": "Материалы печати",
+   "slug": "pa_materialy-pechati",
+   "position": 12,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "жидкая фотополимерная смола"
+   ]
+  },
+  {
+   "id": 3511,
+   "name": "Размер области построения, мм",
+   "slug": "pa_oblasti-postroenija-mm",
+   "position": 18,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "800 x 800 x 500"
+   ]
+  },
+  {
+   "id": 3501,
+   "name": "Вид лазера",
+   "slug": "pa_vid-lazera",
+   "position": 38,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "Твердотельный диодный UV"
+   ]
+  }
+ ],
+ "default_attributes": [],
+ "variations": [],
+ "grouped_products": [],
+ "menu_order": 0,
+ "price_html": "",
+ "related_ids": [
+  1387,
+  1538,
+  1514,
+  1443,
+  1505
+ ],
+ "meta_data": [
+  {
+   "id": 23546,
+   "key": "bitrix_id",
+   "value": "2210"
+  },
+  {
+   "id": 23547,
+   "key": "Символьный код",
+   "value": "sla-800"
+  },
+  {
+   "id": 23548,
+   "key": "Анонс",
+   "value": "<p><span style=\"font-family: var(--ui-font-family-primary, var(--ui-font-family-helvetica));\">Машина профессионального класса для получения высокоточных изделий. Установка обладает открытой архитектурой, что позволяет использовать ее, как универсальный инструмент, печатая выжигаемые модели для литья, мастер модели, функциональные изделия или осуществлять прототипирование с точностью 0,01 мм.</span></p>"
+  },
+  {
+   "id": 23549,
+   "key": "Описание",
+   "value": "<h2>3D-принтер SLA-800: революционное решение для крупноформатной стереолитографической печати</h2>\r\n<p>SLA-800 - это передовой промышленный 3D-принтер, использующий инновационную технологию стереолитографии (SLA) для создания масштабных высокоточных изделий из фотополимерных смол. Этот мощный аппарат открывает новые горизонты в аддитивном производстве, предлагая уникальные возможности для бизнеса в различных отраслях промышленности.</p>\r\n<h2>Преимущества</h2>\r\n<p>SLA-800 обладает рядом исключительных преимуществ, делающих его лидером в области крупноформатной 3D-печати. Огромная рабочая область размером 800 x 800 x 600 мм позволяет создавать крупногабаритные изделия или множество мелких деталей одновременно, значительно повышая производительность. Высочайшая точность печати до 15 микрон обеспечивает создание изделий с минимальными допусками, что критически важно в аэрокосмической отрасли, автомобилестроении и промышленном дизайне.</p>\r\n<p>Гладкая поверхность готовых изделий минимизирует необходимость постобработки, сокращая время и затраты на производство. Впечатляющая скорость печати до 35 мм в час по вертикали в сочетании с огромной рабочей областью значительно ускоряет процесс прототипирования и мелкосерийного производства. Широчайший спектр применения делает SLA-800 универсальным инструментом для различных отраслей, от автомобилестроения до архитектуры и научных исследований.</p>\r\n<h2>Принцип работы</h2>\r\n<p>Процесс печати начинается с загрузки 3D-модели в специализированное программное обеспечение, которое разбивает ее на тончайшие слои. Затем платформа поднимается до верхнего уровня жидкого фотополимера, и мощный ультрафиолетовый лазер с высокой точностью облучает поверхность жидкости в соответствии с контуром первого слоя модели, вызывая затвердевание фотополимера.</p>\r\n<p>После завершения каждого слоя платформа опускается на толщину следующего слоя, и процесс повторяется до полного формирования модели. Готовая модель извлекается из бака с фотополимером и проходит несколько этапов постобработки, включая удаление неотвердевших остатков материала и финальное отверждение под УФ-светом.</p>\r\n<p>Этот процесс обеспечивает непревзойденную точность и детализацию, делая SLA-800 идеальным выбором для создания крупных объектов с высочайшими требованиями к качеству поверхности и детализации.</p>\r\n<h2>Область применения</h2>\r\n<p>SLA-800 находит широкое применение в различных сферах промышленности и бизнеса. В автомобилестроении он позволяет создавать полноразмерные прототипы деталей, элементов интерьера и экстерьера с беспрецедентной точностью. Аэрокосмическая промышленность использует SLA-800 для изготовления крупногабаритных компонентов и макетов летательных аппаратов, спутников и космических станций.</p>\r\n<p>В производственном секторе SLA-800 применяется для создания масштабных индивидуальных инструментов, форм и вспомогательных средств, значительно сокращая затраты и время выполнения заказа. Архитектура и строительство получают возможность создавать крупномасштабные макеты и прототипы строительных элементов благодаря огромной рабочей области принтера.</p>\r\n<p>Медицинская отрасль использует SLA-800 для производства крупных анатомических моделей, протезов и хирургических шаблонов с высочайшей точностью. В сфере образования и науки SLA-800 применяется для создания масштабных научных моделей и проведения передовых экспериментов.</p>\r\n<p>SLA-800 - это не просто 3D-принтер, это ключ к новым горизонтам в мире крупноформатной высокоточной печати. Купить SLA 3D-принтер SLA-800 значит инвестировать в будущее вашего бизнеса, обеспечивая технологическое лидерство и готовность к самым амбициозным проектам.</p>\r\n<p>Цена SLA принтера SLA-800 отражает его уникальные возможности и зависит от конкретной конфигурации и дополнительных опций. Для получения актуальной информации о стоимости и возможности купить 3D-принтер SLA, свяжитесь с нашими специалистами.&nbsp;</p>\r\n<table style=\"border-collapse: collapse; width: 98.6395%;\" border=\"0\">\r\n<tbody>\r\n<tr style=\"height: 215px;\">\r\n<td style=\"width: 20.8076%; height: 150px;\" align=\"center\"><img src=\"/upload/editor_images/1722257106-1.jpg\" alt=\"\" width=\"200\" height=\"141\" /></td>\r\n<td style=\"width: 20.3337%; height: 150px;\" align=\"center\"><img src=\"/upload/editor_images/1722257117-2.jpg\" alt=\"\" width=\"200\" height=\"141\" /></td>\r\n<td style=\"width: 21.321%; height: 150px;\" align=\"center\"><img src=\"/upload/editor_images/1722257151-3.jpg\" alt=\"\" width=\"200\" height=\"140\" /></td>\r\n<td style=\"width: 18.4225%; height: 150px;\" align=\"center\"><img src=\"/upload/editor_images/1722257197-4.jpg\" alt=\"\" width=\"200\" height=\"140\" /></td>\r\n<td style=\"width: 18.6324%; height: 150px;\" align=\"center\"><img src=\"/upload/editor_images/1722257654-imagetools0.jpg\" alt=\"\" width=\"198\" height=\"141\" /></td>\r\n</tr>\r\n<tr style=\"height: 18px;\">\r\n<td style=\"width: 20.8076%; height: 18px;\" align=\"center\">Изменяемое пятно лазера</td>\r\n<td style=\"width: 20.3337%; height: 18px;\" align=\"center\">Настраиваемая консоль</td>\r\n<td style=\"width: 21.321%; height: 18px;\" align=\"center\">19-дюймовый экран</td>\r\n<td style=\"width: 18.4225%; height: 18px;\" align=\"center\">Сетчатая платформа для легкого отделения моделей</td>\r\n<td style=\"width: 18.6324%; height: 18px;\" align=\"center\">Вакуумный ракель</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<h3>Примеры изделий, созданных по технологии SLA:</h3>\r\n<table style=\"border-collapse: collapse; width: 98.6395%;\" border=\"0\">\r\n<tbody>\r\n<tr>\r\n<td style=\"width: 49.7586%;\" align=\"center\"><img src=\"/upload/editor_images/1722258856-RRR_7629.jpg\" alt=\"\" width=\"400\" height=\"252\" /></td>\r\n<td style=\"width: 49.7586%;\" align=\"center\"><img src=\"/upload/editor_images/1722258983-RRR_7627.jpg\" alt=\"\" width=\"400\" height=\"252\" /></td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p>Все представленное в нашем каталоге оборудование доступно к приобретению на выгодных условиях <a href=\"https://am-tech.ru/leasing/\">лизинга.</a></p>\r\n<p>Наши специалисты помогут подобрать оптимальную схему лизинга под ваши производственные задачи и финансовые возможности, а также окажут содействие в оформлении всей необходимой документации.</p>"
+  },
+  {
+   "id": 23603,
+   "key": "Страна производства",
+   "value": "Китай"
+  },
+  {
+   "id": 23604,
+   "key": "Связанные товары по фильтру",
+   "value": "[]"
+  },
+  {
+   "id": 23605,
+   "key": "Материалы",
+   "value": "/pr_new_files/iblock/fd9/w06ddqtkk46nhkslvc0k369c2f2c2tqi.pdf"
+  },
+  {
+   "id": 23606,
+   "key": "Картинки галереи",
+   "value": "/pr_new_files/iblock/5a5/zgn4thrz01zpsa43xf18q0sw7915ub4e.jpg"
+  },
+  {
+   "id": 23607,
+   "key": "Вес, кг.",
+   "value": "1300 (без материала)"
+  },
+  {
+   "id": 23608,
+   "key": "Толщина слоя, мм",
+   "value": "0,05-0,20"
+  },
+  {
+   "id": 23609,
+   "key": "Размер области построения, мм",
+   "value": "800х800х500"
+  },
+  {
+   "id": 23610,
+   "key": "Тип материала",
+   "value": "фотополимерные смолы, чувствительные к длине волны 335-380 нм"
+  },
+  {
+   "id": 23611,
+   "key": "Вид лазера",
+   "value": "твердотельный диодный UV"
+  },
+  {
+   "id": 23612,
+   "key": "Размер пятна лазера, мм",
+   "value": "0,05-0,20"
+  },
+  {
+   "id": 23613,
+   "key": "Скорость сканирования, мм/с",
+   "value": "12000"
+  },
+  {
+   "id": 23614,
+   "key": "Точность печати, мм",
+   "value": "&lt;100мм: ±0,1мм; ≥100мм: ±0,1%"
+  },
+  {
+   "id": 23615,
+   "key": "Внешние габариты, мм",
+   "value": "1400х1500х2200"
+  },
+  {
+   "id": 23616,
+   "key": "bitrix_picture",
+   "value": "/pr_new_files/iblock/df8/xrfsavq91ujapdjpu0vw7q0ao7mkstp7.png"
+  },
+  {
+   "id": 23617,
+   "key": "Документы товара",
+   "value": "1389"
+  },
+  {
+   "id": 30920,
+   "key": "wbcr_wp_old_slug",
+   "value": "3d-%d0%bf%d1%80%d0%b8%d0%bd%d1%82%d0%b5%d1%80-sla-800"
+  },
+  {
+   "id": 35040,
+   "key": "Код с видео (iframe)",
+   "value": ""
+  },
+  {
+   "id": 35041,
+   "key": "Файл видео",
+   "value": ""
+  },
+  {
+   "id": 35042,
+   "key": "_news_category",
+   "value": "0"
+  },
+  {
+   "id": 35043,
+   "key": "_news_tag",
+   "value": "0"
+  },
+  {
+   "id": 35044,
+   "key": "_custom_advantages",
+   "value": ""
+  },
+  {
+   "id": 35045,
+   "key": "_my_menu_type",
+   "value": "обычное"
+  },
+  {
+   "id": 35046,
+   "key": "_video_block",
+   "value": {
+    "video_title": "",
+    "video_post_id": "",
+    "right_title": "",
+    "subtitle": "",
+    "video_description": "",
+    "button_text": "Смотреть больше видео",
+    "tag_id": ""
+   }
+  },
+  {
+   "id": 35047,
+   "key": "boldgrid_in_page_containers",
+   "value": "1"
+  },
+  {
+   "id": 35048,
+   "key": "_yoast_wpseo_primary_product_brand",
+   "value": ""
+  },
+  {
+   "id": 35049,
+   "key": "_yoast_wpseo_primary_product_cat",
+   "value": "1022"
+  },
+  {
+   "id": 35050,
+   "key": "_yoast_wpseo_content_score",
+   "value": "90"
+  },
+  {
+   "id": 35051,
+   "key": "_yoast_wpseo_estimated-reading-time-minutes",
+   "value": "5"
+  },
+  {
+   "id": 35708,
+   "key": "_yoast_wpseo_title",
+   "value": "3D-принтер SLA-800 - заказать у производителя с доставкой по России | AM-Tech"
+  },
+  {
+   "id": 35709,
+   "key": "_yoast_wpseo_metadesc",
+   "value": "Заказать 3D-принтер SLA-800 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91"
+  }
+ ],
+ "stock_status": "instock",
+ "has_options": false,
+ "post_password": "",
+ "global_unique_id": "",
+ "permalink_template": "https://am-tech.ru/product/%pagename%/",
+ "generated_slug": "3d-printer-sla-800",
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>3D-принтер SLA-800 - заказать у производителя с доставкой по России | AM-Tech</title>\n<meta name=\"description\" content=\"Заказать 3D-принтер SLA-800 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/product/3d-printer-sla-800/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"3D-принтер SLA-800 - заказать у производителя с доставкой по России | AM-Tech\" />\n<meta property=\"og:description\" content=\"Заказать 3D-принтер SLA-800 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/product/3d-printer-sla-800/\" />\n<meta property=\"og:site_name\" content=\"am-tech.ru\" />\n<meta property=\"article:modified_time\" content=\"2026-09-23T12:50:01+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2025/08/xrfsavq91ujapdjpu0vw7q0ao7mkstp7-1.webp\" />\n\t<meta property=\"og:image:width\" content=\"956\" />\n\t<meta property=\"og:image:height\" content=\"956\" />\n\t<meta property=\"og:image:type\" content=\"image/webp\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"5 минут\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/product/3d-printer-sla-800/\",\"url\":\"https://am-tech.ru/product/3d-printer-sla-800/\",\"name\":\"3D-принтер SLA-800 - заказать у производителя с доставкой по России | AM-Tech\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/product/3d-printer-sla-800/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/product/3d-printer-sla-800/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2025/08/xrfsavq91ujapdjpu0vw7q0ao7mkstp7-1.webp\",\"datePublished\":\"2025-08-16T23:32:34+00:00\",\"dateModified\":\"2026-09-23T12:50:01+00:00\",\"description\":\"Заказать 3D-принтер SLA-800 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91\",\"breadcrumb\":{\"@id\":\"https://am-tech.ru/product/3d-printer-sla-800/#breadcrumb\"},\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/product/3d-printer-sla-800/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/product/3d-printer-sla-800/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2025/08/xrfsavq91ujapdjpu0vw7q0ao7mkstp7-1.webp\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2025/08/xrfsavq91ujapdjpu0vw7q0ao7mkstp7-1.webp\",\"width\":956,\"height\":956},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://am-tech.ru/product/3d-printer-sla-800/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Главная страница\",\"item\":\"https://am-tech.ru/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"SLA 3D-принтеры\",\"item\":\"https://am-tech.ru/katalog/promyshlennye-3d-printery-po-sla-i-keramike/sla-3d-printery/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"3D-принтер SLA-800\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"am-tech.ru\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"am-tech.ru\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"am-tech.ru\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "3D-принтер SLA-800 - заказать у производителя с доставкой по России | AM-Tech",
+  "description": "Заказать 3D-принтер SLA-800 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/product/3d-printer-sla-800/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "3D-принтер SLA-800 - заказать у производителя с доставкой по России | AM-Tech",
+  "og_description": "Заказать 3D-принтер SLA-800 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91",
+  "og_url": "https://am-tech.ru/product/3d-printer-sla-800/",
+  "og_site_name": "am-tech.ru",
+  "article_modified_time": "2026-09-23T12:50:01+00:00",
+  "og_image": [
+   {
+    "width": 956,
+    "height": 956,
+    "url": "https://am-tech.ru/wp-content/uploads/2025/08/xrfsavq91ujapdjpu0vw7q0ao7mkstp7-1.webp",
+    "type": "image/webp"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "5 минут"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/product/3d-printer-sla-800/",
+     "url": "https://am-tech.ru/product/3d-printer-sla-800/",
+     "name": "3D-принтер SLA-800 - заказать у производителя с доставкой по России | AM-Tech",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/product/3d-printer-sla-800/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/product/3d-printer-sla-800/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2025/08/xrfsavq91ujapdjpu0vw7q0ao7mkstp7-1.webp",
+     "datePublished": "2025-08-16T23:32:34+00:00",
+     "dateModified": "2026-09-23T12:50:01+00:00",
+     "description": "Заказать 3D-принтер SLA-800 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91",
+     "breadcrumb": {
+      "@id": "https://am-tech.ru/product/3d-printer-sla-800/#breadcrumb"
+     },
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/product/3d-printer-sla-800/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/product/3d-printer-sla-800/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2025/08/xrfsavq91ujapdjpu0vw7q0ao7mkstp7-1.webp",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2025/08/xrfsavq91ujapdjpu0vw7q0ao7mkstp7-1.webp",
+     "width": 956,
+     "height": 956
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://am-tech.ru/product/3d-printer-sla-800/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Главная страница",
+       "item": "https://am-tech.ru/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "SLA 3D-принтеры",
+       "item": "https://am-tech.ru/katalog/promyshlennye-3d-printery-po-sla-i-keramike/sla-3d-printery/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "3D-принтер SLA-800"
+      }
+     ]
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "am-tech.ru",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "am-tech.ru",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "am-tech.ru"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wc/v3/products/1465",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wc/v3/products"
+   }
+  ]
+ }
+}

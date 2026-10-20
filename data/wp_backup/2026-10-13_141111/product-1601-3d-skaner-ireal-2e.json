@@ -1,0 +1,503 @@
+{
+ "id": 1601,
+ "name": "3D-сканер iReal 2E",
+ "slug": "3d-skaner-ireal-2e",
+ "permalink": "https://am-tech.ru/product/3d-skaner-ireal-2e/",
+ "date_created": "2025-08-17T06:37:51",
+ "date_created_gmt": "2025-08-17T03:37:51",
+ "date_modified": "2025-11-06T13:01:52",
+ "date_modified_gmt": "2025-11-06T10:01:52",
+ "type": "simple",
+ "status": "publish",
+ "featured": false,
+ "catalog_visibility": "visible",
+ "description": "<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n\r\nВ основе функционирования сканера лежит передовая технология структурированного инфракрасного света VCSEL. Эта технология обеспечивает не только высокую точность измерений, но и безопасность для глаз оператора и окружающих, делая процесс сканирования комфортным и эффективным.\r\n\r\nПоставляется в компактном водозащищенном кейсе. Комплектация: сканер, провода для подключения, флешка с ПО, флешка для запуска ПО, светоотражающие маркеры и калибровочная плита.\r\n\r\nПрибор использует светодиодный источник синего света для проецирования структурированного паттерна на объект сканирования. Встроенные камеры высокого разрешения фиксируют искажения этого паттерна, что позволяет системе с высокой точностью воссоздавать трехмерную геометрию объекта.\r\n\r\nУстройство способно производить до 1 500 000 измерений в секунду, охватывая область сканирования 580 x 550 мм. Такая производительность обеспечивает быстрое и детальное сканирование даже крупных объектов. При этом достигается точность до 0,10 мм с объемной точностью до 0,30 мм/м, что позволяет фиксировать мельчайшие детали поверхности.\r\n\r\nУникальной особенностью сканера является его способность работать без использования маркеров. Это значительно ускоряет процесс сканирования и делает его более удобным для оператора. Система использует передовые алгоритмы для точного позиционирования и сшивки отдельных сканов, что обеспечивает высокую точность итоговой 3D-модели.\r\n\r\nПрибор оптимизирован для работы на расстоянии 350-650 мм от объекта, что обеспечивает комфортные условия сканирования для оператора. При этом он способен эффективно работать с объектами размером от 0,5 до 4 метров, что делает его универсальным инструментом для широкого спектра задач.\r\n\r\nОсобого внимания заслуживает способность устройства к высококачественному захвату текстур. Система не только воссоздает геометрию объекта, но и фиксирует его цвет и текстуру в разрешении Super HD. Это особенно ценно при сканировании объектов искусства, человеческого тела или предметов, где важна не только форма, но и внешний вид.\r\n\r\nВсе представленное в нашем каталоге оборудование доступно к приобретению на выгодных условиях <a href=\"https://am-tech.ru/leasing/\">лизинга.</a>\r\n\r\nНаши специалисты помогут подобрать оптимальную схему лизинга под ваши производственные задачи и финансовые возможности, а также окажут содействие в оформлении всей необходимой документации.\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+ "short_description": "iReal 2E - 3D-сканер с функцией <b>цветного сканирования</b>.\r\n\r\nИспользуется технология синего света с режимом сканирования в Ultra HD и способностью захвата текстур высокой чёткости с интеллектуальным выравниванием по геометрии и/или текстуре (цвету) объекта.\r\n\r\niReal 2E очень удобен для простого и быстрого сканирования. Это упрощает рабочие процессы и создает более простые решения цветного 3D-сканирования.",
+ "sku": "",
+ "price": "",
+ "regular_price": "",
+ "sale_price": "",
+ "date_on_sale_from": null,
+ "date_on_sale_from_gmt": null,
+ "date_on_sale_to": null,
+ "date_on_sale_to_gmt": null,
+ "on_sale": false,
+ "purchasable": false,
+ "total_sales": 0,
+ "virtual": false,
+ "downloadable": false,
+ "downloads": [],
+ "download_limit": -1,
+ "download_expiry": -1,
+ "external_url": "",
+ "button_text": "",
+ "tax_status": "taxable",
+ "tax_class": "",
+ "manage_stock": false,
+ "stock_quantity": null,
+ "backorders": "no",
+ "backorders_allowed": false,
+ "backordered": false,
+ "low_stock_amount": null,
+ "sold_individually": false,
+ "weight": "",
+ "dimensions": {
+  "length": "",
+  "width": "",
+  "height": ""
+ },
+ "shipping_required": true,
+ "shipping_taxable": true,
+ "shipping_class": "",
+ "shipping_class_id": 0,
+ "reviews_allowed": true,
+ "average_rating": "0",
+ "rating_count": 0,
+ "upsell_ids": [],
+ "cross_sell_ids": [],
+ "parent_id": 0,
+ "purchase_note": "",
+ "categories": [
+  {
+   "id": 15,
+   "name": "default",
+   "slug": "default"
+  }
+ ],
+ "brands": [],
+ "tags": [],
+ "images": [
+  {
+   "id": 1602,
+   "date_created": "2025-08-17T09:37:52",
+   "date_created_gmt": "2025-08-17T03:37:52",
+   "date_modified": "2025-08-17T09:37:52",
+   "date_modified_gmt": "2025-08-17T03:37:52",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/h6qbk1mg6wloen95e5mtva9p3ntb1dk8.png",
+   "name": "h6qbk1mg6wloen95e5mtva9p3ntb1dk8",
+   "alt": ""
+  },
+  {
+   "id": 1603,
+   "date_created": "2025-08-17T09:38:36",
+   "date_created_gmt": "2025-08-17T03:38:36",
+   "date_modified": "2025-08-17T09:38:36",
+   "date_modified_gmt": "2025-08-17T03:38:36",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/e662kbvxbcx1iomhnka22u8197n36vva.png",
+   "name": "e662kbvxbcx1iomhnka22u8197n36vva",
+   "alt": ""
+  }
+ ],
+ "attributes": [],
+ "default_attributes": [],
+ "variations": [],
+ "grouped_products": [],
+ "menu_order": 998,
+ "price_html": "",
+ "related_ids": [
+  1590,
+  1709,
+  1707,
+  1613,
+  4185
+ ],
+ "meta_data": [
+  {
+   "id": 24605,
+   "key": "bitrix_id",
+   "value": "2231"
+  },
+  {
+   "id": 24606,
+   "key": "Символьный код",
+   "value": "ireal-2e"
+  },
+  {
+   "id": 24607,
+   "key": "Анонс",
+   "value": "<p>iReal 2E&nbsp;-&nbsp;3D-сканер с функцией <b>цветного сканирования</b>.</p>\r\n<p>Используется технология синего света с режимом сканирования в Ultra HD и способностью захвата текстур высокой чёткости с интеллектуальным выравниванием по геометрии и/или текстуре (цвету) объекта.&nbsp;</p>\r\n<p>iReal 2E очень удобен для простого и быстрого сканирования. Это упрощает рабочие процессы и создает более простые решения цветного&nbsp;3D-сканирования.</p>"
+  },
+  {
+   "id": 24608,
+   "key": "Описание",
+   "value": "<p>В основе функционирования сканера лежит передовая технология структурированного инфракрасного света VCSEL. Эта технология обеспечивает не только высокую точность измерений, но и безопасность для глаз оператора и окружающих, делая процесс сканирования комфортным и эффективным.</p>\r\n<p>Поставляется в компактном водозащищенном кейсе. Комплектация: сканер, провода для подключения, флешка с ПО, флешка для запуска ПО, светоотражающие маркеры и калибровочная плита.</p>\r\n<p>Прибор использует светодиодный источник синего света для проецирования структурированного паттерна на объект сканирования. Встроенные камеры высокого разрешения фиксируют искажения этого паттерна, что позволяет системе с высокой точностью воссоздавать трехмерную геометрию объекта.</p>\r\n<p>Устройство способно производить до 1 500 000 измерений в секунду, охватывая область сканирования 580 x 550 мм. Такая производительность обеспечивает быстрое и детальное сканирование даже крупных объектов. При этом достигается точность до 0,10 мм с объемной точностью до 0,30 мм/м, что позволяет фиксировать мельчайшие детали поверхности.</p>\r\n<p>Уникальной особенностью сканера является его способность работать без использования маркеров. Это значительно ускоряет процесс сканирования и делает его более удобным для оператора. Система использует передовые алгоритмы для точного позиционирования и сшивки отдельных сканов, что обеспечивает высокую точность итоговой 3D-модели.</p>\r\n<p>Прибор оптимизирован для работы на расстоянии 350-650 мм от объекта, что обеспечивает комфортные условия сканирования для оператора. При этом он способен эффективно работать с объектами размером от 0,5 до 4 метров, что делает его универсальным инструментом для широкого спектра задач.</p>\r\n<p>Особого внимания заслуживает способность устройства к высококачественному захвату текстур. Система не только воссоздает геометрию объекта, но и фиксирует его цвет и текстуру в разрешении Super HD. Это особенно ценно при сканировании объектов искусства, человеческого тела или предметов, где важна не только форма, но и внешний вид.</p>\r\n<p>Все представленное в нашем каталоге оборудование доступно к приобретению на выгодных условиях <a href=\"https://am-tech.ru/leasing/\">лизинга.</a></p>\r\n<p>Наши специалисты помогут подобрать оптимальную схему лизинга под ваши производственные задачи и финансовые возможности, а также окажут содействие в оформлении всей необходимой документации.</p>"
+  },
+  {
+   "id": 24612,
+   "key": "Точность, мм",
+   "value": "до 0,10"
+  },
+  {
+   "id": 24613,
+   "key": "Объемная точность, мм/м",
+   "value": "до 0,30"
+  },
+  {
+   "id": 24614,
+   "key": "Возможность работы со щупом",
+   "value": "нет"
+  },
+  {
+   "id": 24615,
+   "key": "Разрешение, мм",
+   "value": "до 0,2"
+  },
+  {
+   "id": 24616,
+   "key": "Скорость измерений, точек/сек",
+   "value": "1 200 000"
+  },
+  {
+   "id": 24617,
+   "key": "Область сканирования (поле зрения), мм",
+   "value": "580 х 550"
+  },
+  {
+   "id": 24618,
+   "key": "Оптимальное расстояние до объекта, мм",
+   "value": "400"
+  },
+  {
+   "id": 24619,
+   "key": "Источник излучения",
+   "value": "Инфракрасный структурированный свет VCSEL: белый структурированный подсвет"
+  },
+  {
+   "id": 24620,
+   "key": "Размеры измеряемого объекта, м",
+   "value": "0,5-4"
+  },
+  {
+   "id": 24621,
+   "key": "Габариты, мм",
+   "value": "140×94×258"
+  },
+  {
+   "id": 24622,
+   "key": "Вес, кг",
+   "value": "0,85"
+  },
+  {
+   "id": 24623,
+   "key": "Температура окружающей среды, °C",
+   "value": "от 0 до +40"
+  },
+  {
+   "id": 24624,
+   "key": "Наличие в реестре средств измерений",
+   "value": "Да"
+  },
+  {
+   "id": 24625,
+   "key": "Страна производства",
+   "value": "Китай"
+  },
+  {
+   "id": 24626,
+   "key": "Валюта",
+   "value": "RUB"
+  },
+  {
+   "id": 24627,
+   "key": "Связанные товары по фильтру",
+   "value": "[]"
+  },
+  {
+   "id": 24628,
+   "key": "Картинки галереи",
+   "value": "/pr_new_files/iblock/672/e662kbvxbcx1iomhnka22u8197n36vva.png"
+  },
+  {
+   "id": 24629,
+   "key": "Вес, кг.",
+   "value": "0,85"
+  },
+  {
+   "id": 24630,
+   "key": "Внешние габариты, мм",
+   "value": "140 х 94 х 258"
+  },
+  {
+   "id": 24631,
+   "key": "Класс лазера (безопасность для глаз)",
+   "value": "Класс II (безопасно для глаз)"
+  },
+  {
+   "id": 24632,
+   "key": "bitrix_picture",
+   "value": "/pr_new_files/iblock/0a3/3u89dvqawh3ecypa533ficsergcj5k7s.png"
+  },
+  {
+   "id": 24633,
+   "key": "Документы товара",
+   "value": "1563"
+  },
+  {
+   "id": 30939,
+   "key": "wbcr_wp_old_slug",
+   "value": "3d-%d1%81%d0%ba%d0%b0%d0%bd%d0%b5%d1%80-ireal-2e"
+  },
+  {
+   "id": 35594,
+   "key": "Код с видео (iframe)",
+   "value": ""
+  },
+  {
+   "id": 35595,
+   "key": "Файл видео",
+   "value": ""
+  },
+  {
+   "id": 35596,
+   "key": "_news_category",
+   "value": "0"
+  },
+  {
+   "id": 35597,
+   "key": "_news_tag",
+   "value": "0"
+  },
+  {
+   "id": 35598,
+   "key": "_custom_advantages",
+   "value": ""
+  },
+  {
+   "id": 35599,
+   "key": "_my_menu_type",
+   "value": "обычное"
+  },
+  {
+   "id": 35600,
+   "key": "_video_block",
+   "value": {
+    "video_title": "",
+    "video_post_id": "",
+    "right_title": "",
+    "subtitle": "",
+    "video_description": "",
+    "button_text": "Смотреть больше видео",
+    "tag_id": ""
+   }
+  },
+  {
+   "id": 35601,
+   "key": "boldgrid_in_page_containers",
+   "value": "1"
+  },
+  {
+   "id": 35602,
+   "key": "_yoast_wpseo_primary_product_brand",
+   "value": ""
+  },
+  {
+   "id": 35603,
+   "key": "_yoast_wpseo_primary_product_cat",
+   "value": ""
+  },
+  {
+   "id": 35604,
+   "key": "_yoast_wpseo_content_score",
+   "value": "60"
+  },
+  {
+   "id": 35605,
+   "key": "_yoast_wpseo_estimated-reading-time-minutes",
+   "value": "2"
+  },
+  {
+   "id": 35742,
+   "key": "_yoast_wpseo_title",
+   "value": "3D-сканер iReal 2E - заказать у производителя с доставкой по России | AM-Tech"
+  },
+  {
+   "id": 35743,
+   "key": "_yoast_wpseo_metadesc",
+   "value": "Заказать 3D-сканер iReal 2E - демонстрация и консультация наших специалистов. +7 (495) 109 11 91"
+  },
+  {
+   "id": 36086,
+   "key": "_vcv-sourceChecksum",
+   "value": "e0d540ce157ee2bb31ffebf949679a82"
+  },
+  {
+   "id": 36087,
+   "key": "vcvSourceCssFileUrl",
+   "value": "/assets-bundles/e0d540ce157ee2bb31ffebf949679a82.source.css"
+  },
+  {
+   "id": 36088,
+   "key": "_vcv-globalCssMigrated",
+   "value": "1"
+  }
+ ],
+ "stock_status": "instock",
+ "has_options": false,
+ "post_password": "",
+ "global_unique_id": "",
+ "permalink_template": "https://am-tech.ru/product/%pagename%/",
+ "generated_slug": "3d-skaner-ireal-2e",
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>3D-сканер iReal 2E - заказать у производителя с доставкой по России | AM-Tech</title>\n<meta name=\"description\" content=\"Заказать 3D-сканер iReal 2E - демонстрация и консультация наших специалистов. +7 (495) 109 11 91\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/product/3d-skaner-ireal-2e/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"3D-сканер iReal 2E - заказать у производителя с доставкой по России | AM-Tech\" />\n<meta property=\"og:description\" content=\"Заказать 3D-сканер iReal 2E - демонстрация и консультация наших специалистов. +7 (495) 109 11 91\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/product/3d-skaner-ireal-2e/\" />\n<meta property=\"og:site_name\" content=\"am-tech.ru\" />\n<meta property=\"article:modified_time\" content=\"2025-11-06T10:01:52+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2025/08/h6qbk1mg6wloen95e5mtva9p3ntb1dk8.png\" />\n\t<meta property=\"og:image:width\" content=\"682\" />\n\t<meta property=\"og:image:height\" content=\"1000\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"2 минуты\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/product/3d-skaner-ireal-2e/\",\"url\":\"https://am-tech.ru/product/3d-skaner-ireal-2e/\",\"name\":\"3D-сканер iReal 2E - заказать у производителя с доставкой по России | AM-Tech\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/product/3d-skaner-ireal-2e/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/product/3d-skaner-ireal-2e/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2025/08/h6qbk1mg6wloen95e5mtva9p3ntb1dk8.png\",\"datePublished\":\"2025-08-17T03:37:51+00:00\",\"dateModified\":\"2025-11-06T10:01:52+00:00\",\"description\":\"Заказать 3D-сканер iReal 2E - демонстрация и консультация наших специалистов. +7 (495) 109 11 91\",\"breadcrumb\":{\"@id\":\"https://am-tech.ru/product/3d-skaner-ireal-2e/#breadcrumb\"},\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/product/3d-skaner-ireal-2e/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/product/3d-skaner-ireal-2e/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2025/08/h6qbk1mg6wloen95e5mtva9p3ntb1dk8.png\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2025/08/h6qbk1mg6wloen95e5mtva9p3ntb1dk8.png\",\"width\":682,\"height\":1000},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://am-tech.ru/product/3d-skaner-ireal-2e/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Главная страница\",\"item\":\"https://am-tech.ru/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"default\",\"item\":\"https://am-tech.ru/katalog/default/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"3D-сканер iReal 2E\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"am-tech.ru\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"am-tech.ru\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"am-tech.ru\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "3D-сканер iReal 2E - заказать у производителя с доставкой по России | AM-Tech",
+  "description": "Заказать 3D-сканер iReal 2E - демонстрация и консультация наших специалистов. +7 (495) 109 11 91",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/product/3d-skaner-ireal-2e/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "3D-сканер iReal 2E - заказать у производителя с доставкой по России | AM-Tech",
+  "og_description": "Заказать 3D-сканер iReal 2E - демонстрация и консультация наших специалистов. +7 (495) 109 11 91",
+  "og_url": "https://am-tech.ru/product/3d-skaner-ireal-2e/",
+  "og_site_name": "am-tech.ru",
+  "article_modified_time": "2025-11-06T10:01:52+00:00",
+  "og_image": [
+   {
+    "width": 682,
+    "height": 1000,
+    "url": "https://am-tech.ru/wp-content/uploads/2025/08/h6qbk1mg6wloen95e5mtva9p3ntb1dk8.png",
+    "type": "image/png"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "2 минуты"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/product/3d-skaner-ireal-2e/",
+     "url": "https://am-tech.ru/product/3d-skaner-ireal-2e/",
+     "name": "3D-сканер iReal 2E - заказать у производителя с доставкой по России | AM-Tech",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/product/3d-skaner-ireal-2e/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/product/3d-skaner-ireal-2e/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2025/08/h6qbk1mg6wloen95e5mtva9p3ntb1dk8.png",
+     "datePublished": "2025-08-17T03:37:51+00:00",
+     "dateModified": "2025-11-06T10:01:52+00:00",
+     "description": "Заказать 3D-сканер iReal 2E - демонстрация и консультация наших специалистов. +7 (495) 109 11 91",
+     "breadcrumb": {
+      "@id": "https://am-tech.ru/product/3d-skaner-ireal-2e/#breadcrumb"
+     },
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/product/3d-skaner-ireal-2e/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/product/3d-skaner-ireal-2e/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2025/08/h6qbk1mg6wloen95e5mtva9p3ntb1dk8.png",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2025/08/h6qbk1mg6wloen95e5mtva9p3ntb1dk8.png",
+     "width": 682,
+     "height": 1000
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://am-tech.ru/product/3d-skaner-ireal-2e/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Главная страница",
+       "item": "https://am-tech.ru/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "default",
+       "item": "https://am-tech.ru/katalog/default/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "3D-сканер iReal 2E"
+      }
+     ]
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "am-tech.ru",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "am-tech.ru",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "am-tech.ru"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wc/v3/products/1601",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wc/v3/products"
+   }
+  ]
+ }
+}

@@ -1,0 +1,277 @@
+{
+ "id": 4341,
+ "date": "2026-10-07T14:29:13",
+ "date_gmt": "2026-10-07T11:29:13",
+ "guid": {
+  "rendered": "https://am-tech.ru/?post_type=news&#038;p=4341",
+  "raw": "https://am-tech.ru/?post_type=news&#038;p=4341"
+ },
+ "modified": "2026-10-07T14:43:51",
+ "modified_gmt": "2026-10-07T11:43:51",
+ "password": "",
+ "slug": "am-tech-na-atlas-forume-ot-3d-skanirovanija-do-serijnogo-proizvodstva",
+ "status": "publish",
+ "type": "news",
+ "link": "https://am-tech.ru/news/am-tech-na-atlas-forume-ot-3d-skanirovanija-do-serijnogo-proizvodstva/",
+ "title": {
+  "raw": "AM.TECH на АТЛаС Форуме: от 3D-сканирования до серийного производства",
+  "rendered": "AM.TECH на АТЛаС Форуме: от 3D-сканирования до серийного производства"
+ },
+ "content": {
+  "raw": "<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n<p class=\"\">30 сентября и 1 октября в Конгресс-центре МГТУ им. Н. Э. Баумана прошёл АТЛаС Форум 2026 — отраслевая площадка, объединившая представителей промышленности, технологического бизнеса, науки, образования и государства. В течение двух дней участники обсуждали развитие аддитивных технологий и лазерных систем в России, локализацию оборудования и материалов, сертификацию, подготовку кадров и переход от отдельных разработок к промышленному применению.</p>\r\n<p class=\"\">Форум собрал более 1000 участников, 110 спикеров и 26 компаний и организаций-экспонентов. Одним из участников выставочной и деловой программы стала компания AM.TECH, входящая в группу компаний i3D.</p>\r\n\r\n<h2 class=\"\">Российский 3D-принтер AMT-16 на АТЛаС Форуме</h2>\r\n<p class=\"\">Главным экспонатом стенда AM.TECH стал промышленный 3D-принтер AMT-16, предназначенный для изготовления металлических изделий методом селективного лазерного сплавления — SLM/LPBF.</p>\r\n<p class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/10/img_20261007_140934.jpg\"><img class=\"alignnone size-full wp-image-4342\" src=\"https://am-tech.ru/wp-content/uploads/2026/10/img_20261007_140934.jpg\" alt=\"\" width=\"1920\" height=\"1440\"></a></p>\r\n<p class=\"\">Компактная установка оснащена лазером мощностью 500 Вт и имеет цилиндрическую область построения диаметром 165 мм и высотой 225 мм. AMT-16 подходит для проведения НИОКР, прототипирования, изготовления опытных образцов и выпуска малых серий. Оборудование может работать с порошками на основе титана, никеля, алюминия, кобальт-хрома, а также с жаропрочными и нержавеющими сталями.</p>\r\n<p class=\"\">В установке реализованы динамическая фокусировка лазерного луча, контроль защитной атмосферы и верхняя подача порошка с возможностью дозагрузки материала без остановки процесса. Управление печатью и контроль параметров выполняются через программную платформу PrintMate.</p>\r\n<p class=\"\">AMT-16 включён в Реестр российской промышленной продукции в рамках Постановления Правительства РФ № 719. Реестровый статус официально подтверждает российское происхождение конкретной модели и может учитываться предприятиями при проведении закупок, участии в тендерах, оформлении лизинга и подборе доступных мер государственной поддержки.</p>\r\n<p class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/10/rus_0333_resized.jpg\"><img class=\"alignnone size-full wp-image-4343\" src=\"https://am-tech.ru/wp-content/uploads/2026/10/rus_0333_resized.jpg\" alt=\"\" width=\"2560\" height=\"1705\"></a></p>\r\n<p class=\"\">Посетители стенда могли не только познакомиться с конструкцией оборудования, но и увидеть образцы металлической 3D-печати. Они наглядно демонстрировали возможности технологии при изготовлении изделий со сложной внутренней геометрией, тонкими стенками, каналами и другими элементами, которые трудно или экономически невыгодно получать традиционными методами.</p>\r\n<p class=\"\">Для специалистов особенно важна была возможность обсудить конкретные производственные задачи: выбор материала, подготовку цифровой модели, разработку режимов печати, постобработку, контроль качества и оценку экономической целесообразности аддитивного маршрута.</p>\r\n\r\n<h2 class=\"\">Зона промышленного 3D-сканирования</h2>\r\n<p class=\"\">Вторым направлением экспозиции стала зона 3D-сканирования, где команда компании демонстрировала работу беспроводного промышленного сканера KSCAN-X.</p>\r\n<p class=\"\">Система предназначена прежде всего для высокоточного измерения средних и крупногабаритных объектов. Широкая область сканирования, увеличенная глубина резкости и встроенная фотограмметрия позволяют оцифровывать детали, узлы, оснастку, элементы транспортной техники и другие сложные объекты непосредственно на производственной площадке.</p>\r\n<p class=\"\">Полученная цифровая модель может использоваться для контроля геометрии, сравнения изготовленного изделия с исходной CAD-моделью, выявления отклонений, реверс-инжиниринга и подготовки к воспроизводству деталей, на которые отсутствует конструкторская документация.</p>\r\n<p class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/10/img_20261007_141245.jpg\"><img class=\"alignnone size-full wp-image-4344\" src=\"https://am-tech.ru/wp-content/uploads/2026/10/img_20261007_141245.jpg\" alt=\"\" width=\"1920\" height=\"1440\"></a></p>\r\n<p class=\"\">Таким образом, на стенде был представлен не отдельный вид оборудования, а последовательный цифровой маршрут. Он может начинаться с оцифровки существующего изделия, продолжаться восстановлением или доработкой его модели и завершаться изготовлением новой детали методом промышленной 3D-печати.</p>\r\n\r\n<h2 class=\"\">От одной установки — к управляемому производству</h2>\r\n<p class=\"\">Выставочную экспозицию дополнило участие AM.TECH в деловой программе форума. Основатель группы компаний i3D и генеральный директор ООО «НПО “3Д-Интеграция”» Михаил Родин выступил в двух секциях, посвящённых развитию промышленного аддитивного производства.</p>\r\n<p class=\"\">Центральной темой его докладов стал переход SLM-технологии от единичных проектов к серийному выпуску изделий. Михаил Родин обратил внимание на то, что наличие 3D-принтера само по себе ещё не делает производство серийным. Предприятию необходимо управлять всем технологическим циклом: подготовкой задания, обращением с порошком, печатью, постобработкой, контролем качества и повторным запуском оборудования.</p>\r\n<p class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/10/dsc_4538_resized.jpg\"><img class=\"alignnone size-full wp-image-4345\" src=\"https://am-tech.ru/wp-content/uploads/2026/10/dsc_4538_resized.jpg\" alt=\"\" width=\"2560\" height=\"1703\"></a></p>\r\n<p class=\"\">Особое значение имеет время между заданиями. Если после завершения печати установка долго простаивает из-за очистки, выгрузки изделия, просева и возврата порошка, её фактическая производительность оказывается значительно ниже расчётной. По представленному сценарию, при использовании автоматизированных ячеек, сокращение подготовки с восьми до четырёх часов позволяет завершать операции в пределах одной смены и может обеспечить расчётный прирост выпуска примерно на 43% при 24-часовом цикле печати. Снижение количества ручных пересыпок, просев и возврат порошка в контролируемой среде, мониторинг кислорода и влажности помогают повысить повторяемость процесса, безопасность работы и стабильность свойств готовых изделий.</p>\r\n<p class=\"\">Основной показатель эффективности при этом — не количество установленных 3D-принтеров и даже не продолжительность самой печати. Для серийного производства важны выпуск годных деталей за определённый период, стабильность их характеристик, затраты на одну принятую деталь, количество человеко-часов и продолжительность полного производственного маршрута.</p>\r\n\r\n<h2 class=\"\">Диалог вокруг практических задач</h2>\r\n<p class=\"\">Участие в АТЛаС Форуме позволило команде AM.TECH одновременно показать готовое российское оборудование, продемонстрировать возможности цифровизации и обсудить с предприятиями задачи дальнейшего внедрения аддитивных технологий.</p>\r\n<p class=\"\">Интерес посетителей был сосредоточен не только на технических характеристиках оборудования. Значительная часть обсуждений касалась выбора изделий для аддитивного производства, расчёта загрузки, работы с материалами, контроля качества, подготовки специалистов и организации участка в целом.</p>\r\n<p class=\"\">Именно такой комплексный подход сегодня становится основой промышленного применения аддитивных технологий. Предприятию важно получить не просто 3D-принтер или сканер, а воспроизводимый технологический маршрут, который обеспечивает необходимое качество, понятную экономику и возможность последующего масштабирования.</p>\r\n<p class=\"\">АТЛаС Форум подтвердил, что российский рынок постепенно переходит от знакомства с технологией к решению конкретных производственных задач. Для AM.TECH участие в форуме стало возможностью продемонстрировать этот переход на практике: от получения цифровой модели с помощью 3D-сканирования — до изготовления металлического изделия и построения управляемого серийного производства.</p>\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+  "rendered": "<div class=\"boldgrid-section\">\n<div class=\"container\">\n<div class=\"row\">\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\n<p class=\"\">30 сентября и 1 октября в Конгресс-центре МГТУ им. Н. Э. Баумана прошёл АТЛаС Форум 2026 — отраслевая площадка, объединившая представителей промышленности, технологического бизнеса, науки, образования и государства. В течение двух дней участники обсуждали развитие аддитивных технологий и лазерных систем в России, локализацию оборудования и материалов, сертификацию, подготовку кадров и переход от отдельных разработок к промышленному применению.</p>\n<p class=\"\">Форум собрал более 1000 участников, 110 спикеров и 26 компаний и организаций-экспонентов. Одним из участников выставочной и деловой программы стала компания AM.TECH, входящая в группу компаний i3D.</p>\n<h2 class=\"\">Российский 3D-принтер AMT-16 на АТЛаС Форуме</h2>\n<p class=\"\">Главным экспонатом стенда AM.TECH стал промышленный 3D-принтер AMT-16, предназначенный для изготовления металлических изделий методом селективного лазерного сплавления — SLM/LPBF.</p>\n<p class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/10/img_20261007_140934.jpg\"><img loading=\"lazy\" decoding=\"async\" fetchpriority=\"high\" decoding=\"async\" class=\"alignnone size-full wp-image-4342\" src=\"https://am-tech.ru/wp-content/uploads/2026/10/img_20261007_140934.jpg\" alt=\"AM.TECH на АТЛаС Форуме: от 3D-сканирования до серийного производства - События и выставки - AM-Tech\" width=\"1920\" height=\"1440\" srcset=\"https://am-tech.ru/wp-content/uploads/2026/10/img_20261007_140934.jpg 1920w, https://am-tech.ru/wp-content/uploads/2026/10/img_20261007_140934-300x225.jpg 300w, https://am-tech.ru/wp-content/uploads/2026/10/img_20261007_140934-1024x768.jpg 1024w, https://am-tech.ru/wp-content/uploads/2026/10/img_20261007_140934-768x576.jpg 768w, https://am-tech.ru/wp-content/uploads/2026/10/img_20261007_140934-1536x1152.jpg 1536w, https://am-tech.ru/wp-content/uploads/2026/10/img_20261007_140934-600x450.jpg 600w\" sizes=\"(max-width: 1920px) 100vw, 1920px\" /></a></p>\n<p class=\"\">Компактная установка оснащена лазером мощностью 500 Вт и имеет цилиндрическую область построения диаметром 165 мм и высотой 225 мм. AMT-16 подходит для проведения НИОКР, прототипирования, изготовления опытных образцов и выпуска малых серий. Оборудование может работать с порошками на основе титана, никеля, алюминия, кобальт-хрома, а также с жаропрочными и нержавеющими сталями.</p>\n<p class=\"\">В установке реализованы динамическая фокусировка лазерного луча, контроль защитной атмосферы и верхняя подача порошка с возможностью дозагрузки материала без остановки процесса. Управление печатью и контроль параметров выполняются через программную платформу PrintMate.</p>\n<p class=\"\">AMT-16 включён в Реестр российской промышленной продукции в рамках Постановления Правительства РФ № 719. Реестровый статус официально подтверждает российское происхождение конкретной модели и может учитываться предприятиями при проведении закупок, участии в тендерах, оформлении лизинга и подборе доступных мер государственной поддержки.</p>\n<p class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/10/rus_0333_resized.jpg\"><img loading=\"lazy\" decoding=\"async\" decoding=\"async\" class=\"alignnone size-full wp-image-4343\" src=\"https://am-tech.ru/wp-content/uploads/2026/10/rus_0333_resized.jpg\" alt=\"AM.TECH на АТЛаС Форуме: от 3D-сканирования до серийного производства - События и выставки - AM-Tech\" width=\"2560\" height=\"1705\" srcset=\"https://am-tech.ru/wp-content/uploads/2026/10/rus_0333_resized.jpg 2560w, https://am-tech.ru/wp-content/uploads/2026/10/rus_0333_resized-300x200.jpg 300w, https://am-tech.ru/wp-content/uploads/2026/10/rus_0333_resized-1024x682.jpg 1024w, https://am-tech.ru/wp-content/uploads/2026/10/rus_0333_resized-768x512.jpg 768w, https://am-tech.ru/wp-content/uploads/2026/10/rus_0333_resized-1536x1023.jpg 1536w, https://am-tech.ru/wp-content/uploads/2026/10/rus_0333_resized-2048x1364.jpg 2048w, https://am-tech.ru/wp-content/uploads/2026/10/rus_0333_resized-600x400.jpg 600w\" sizes=\"(max-width: 2560px) 100vw, 2560px\" /></a></p>\n<p class=\"\">Посетители стенда могли не только познакомиться с конструкцией оборудования, но и увидеть образцы металлической 3D-печати. Они наглядно демонстрировали возможности технологии при изготовлении изделий со сложной внутренней геометрией, тонкими стенками, каналами и другими элементами, которые трудно или экономически невыгодно получать традиционными методами.</p>\n<p class=\"\">Для специалистов особенно важна была возможность обсудить конкретные производственные задачи: выбор материала, подготовку цифровой модели, разработку режимов печати, постобработку, контроль качества и оценку экономической целесообразности аддитивного маршрута.</p>\n<h2 class=\"\">Зона промышленного 3D-сканирования</h2>\n<p class=\"\">Вторым направлением экспозиции стала зона 3D-сканирования, где команда компании демонстрировала работу беспроводного промышленного сканера KSCAN-X.</p>\n<p class=\"\">Система предназначена прежде всего для высокоточного измерения средних и крупногабаритных объектов. Широкая область сканирования, увеличенная глубина резкости и встроенная фотограмметрия позволяют оцифровывать детали, узлы, оснастку, элементы транспортной техники и другие сложные объекты непосредственно на производственной площадке.</p>\n<p class=\"\">Полученная цифровая модель может использоваться для контроля геометрии, сравнения изготовленного изделия с исходной CAD-моделью, выявления отклонений, реверс-инжиниринга и подготовки к воспроизводству деталей, на которые отсутствует конструкторская документация.</p>\n<p class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/10/img_20261007_141245.jpg\"><img loading=\"lazy\" decoding=\"async\" decoding=\"async\" class=\"alignnone size-full wp-image-4344\" src=\"https://am-tech.ru/wp-content/uploads/2026/10/img_20261007_141245.jpg\" alt=\"AM.TECH на АТЛаС Форуме: от 3D-сканирования до серийного производства - События и выставки - AM-Tech\" width=\"1920\" height=\"1440\" srcset=\"https://am-tech.ru/wp-content/uploads/2026/10/img_20261007_141245.jpg 1920w, https://am-tech.ru/wp-content/uploads/2026/10/img_20261007_141245-300x225.jpg 300w, https://am-tech.ru/wp-content/uploads/2026/10/img_20261007_141245-1024x768.jpg 1024w, https://am-tech.ru/wp-content/uploads/2026/10/img_20261007_141245-768x576.jpg 768w, https://am-tech.ru/wp-content/uploads/2026/10/img_20261007_141245-1536x1152.jpg 1536w, https://am-tech.ru/wp-content/uploads/2026/10/img_20261007_141245-600x450.jpg 600w\" sizes=\"(max-width: 1920px) 100vw, 1920px\" /></a></p>\n<p class=\"\">Таким образом, на стенде был представлен не отдельный вид оборудования, а последовательный цифровой маршрут. Он может начинаться с оцифровки существующего изделия, продолжаться восстановлением или доработкой его модели и завершаться изготовлением новой детали методом промышленной 3D-печати.</p>\n<h2 class=\"\">От одной установки — к управляемому производству</h2>\n<p class=\"\">Выставочную экспозицию дополнило участие AM.TECH в деловой программе форума. Основатель группы компаний i3D и генеральный директор ООО «НПО “3Д-Интеграция”» Михаил Родин выступил в двух секциях, посвящённых развитию промышленного аддитивного производства.</p>\n<p class=\"\">Центральной темой его докладов стал переход SLM-технологии от единичных проектов к серийному выпуску изделий. Михаил Родин обратил внимание на то, что наличие 3D-принтера само по себе ещё не делает производство серийным. Предприятию необходимо управлять всем технологическим циклом: подготовкой задания, обращением с порошком, печатью, постобработкой, контролем качества и повторным запуском оборудования.</p>\n<p class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/10/dsc_4538_resized.jpg\"><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-full wp-image-4345\" src=\"https://am-tech.ru/wp-content/uploads/2026/10/dsc_4538_resized.jpg\" alt=\"AM.TECH на АТЛаС Форуме: от 3D-сканирования до серийного производства - События и выставки - AM-Tech\" width=\"2560\" height=\"1703\" srcset=\"https://am-tech.ru/wp-content/uploads/2026/10/dsc_4538_resized.jpg 2560w, https://am-tech.ru/wp-content/uploads/2026/10/dsc_4538_resized-300x200.jpg 300w, https://am-tech.ru/wp-content/uploads/2026/10/dsc_4538_resized-1024x681.jpg 1024w, https://am-tech.ru/wp-content/uploads/2026/10/dsc_4538_resized-768x511.jpg 768w, https://am-tech.ru/wp-content/uploads/2026/10/dsc_4538_resized-1536x1022.jpg 1536w, https://am-tech.ru/wp-content/uploads/2026/10/dsc_4538_resized-2048x1362.jpg 2048w, https://am-tech.ru/wp-content/uploads/2026/10/dsc_4538_resized-600x399.jpg 600w\" sizes=\"(max-width: 2560px) 100vw, 2560px\" /></a></p>\n<p class=\"\">Особое значение имеет время между заданиями. Если после завершения печати установка долго простаивает из-за очистки, выгрузки изделия, просева и возврата порошка, её фактическая производительность оказывается значительно ниже расчётной. По представленному сценарию, при использовании автоматизированных ячеек, сокращение подготовки с восьми до четырёх часов позволяет завершать операции в пределах одной смены и может обеспечить расчётный прирост выпуска примерно на 43% при 24-часовом цикле печати. Снижение количества ручных пересыпок, просев и возврат порошка в контролируемой среде, мониторинг кислорода и влажности помогают повысить повторяемость процесса, безопасность работы и стабильность свойств готовых изделий.</p>\n<p class=\"\">Основной показатель эффективности при этом — не количество установленных 3D-принтеров и даже не продолжительность самой печати. Для серийного производства важны выпуск годных деталей за определённый период, стабильность их характеристик, затраты на одну принятую деталь, количество человеко-часов и продолжительность полного производственного маршрута.</p>\n<h2 class=\"\">Диалог вокруг практических задач</h2>\n<p class=\"\">Участие в АТЛаС Форуме позволило команде AM.TECH одновременно показать готовое российское оборудование, продемонстрировать возможности цифровизации и обсудить с предприятиями задачи дальнейшего внедрения аддитивных технологий.</p>\n<p class=\"\">Интерес посетителей был сосредоточен не только на технических характеристиках оборудования. Значительная часть обсуждений касалась выбора изделий для аддитивного производства, расчёта загрузки, работы с материалами, контроля качества, подготовки специалистов и организации участка в целом.</p>\n<p class=\"\">Именно такой комплексный подход сегодня становится основой промышленного применения аддитивных технологий. Предприятию важно получить не просто 3D-принтер или сканер, а воспроизводимый технологический маршрут, который обеспечивает необходимое качество, понятную экономику и возможность последующего масштабирования.</p>\n<p class=\"\">АТЛаС Форум подтвердил, что российский рынок постепенно переходит от знакомства с технологией к решению конкретных производственных задач. Для AM.TECH участие в форуме стало возможностью продемонстрировать этот переход на практике: от получения цифровой модели с помощью 3D-сканирования — до изготовления металлического изделия и построения управляемого серийного производства.</p>\n</div>\n</div>\n</div>\n</div>\n",
+  "protected": false,
+  "block_version": 0
+ },
+ "excerpt": {
+  "raw": "",
+  "rendered": "<p>30 сентября и 1 октября в Конгресс-центре МГТУ им. Н. Э. Баумана прошёл АТЛаС Форум 2026 — отраслевая площадка, объединившая представителей промышленности, технологического бизнеса, науки, образования и государства. В течение двух дней участники обсуждали развитие аддитивных технологий и лазерных систем в России, локализацию оборудования и материалов, сертификацию, подготовку кадров и переход от отдельных разработок к [&hellip;]</p>\n",
+  "protected": false
+ },
+ "author": 1,
+ "featured_media": 4342,
+ "comment_status": "open",
+ "ping_status": "closed",
+ "template": "",
+ "meta": {
+  "_acf_changed": false,
+  "_yoast_wpseo_title": "",
+  "_yoast_wpseo_metadesc": "Участие AM.TECH в АТЛаС Форуме 2026: демонстрация 3D-принтера AMT-16, образцов печати металлом и сканера KSCAN-X, выступления Михаила Родина.",
+  "_yoast_wpseo_meta-robots-noindex": ""
+ },
+ "news_category": [
+  1212
+ ],
+ "news_tag": [],
+ "permalink_template": "https://am-tech.ru/news/%pagename%/",
+ "generated_slug": "am-tech-na-atlas-forume-ot-3d-skanirovanija-do-serijnogo-proizvodstva",
+ "class_list": [
+  "post-4341",
+  "news",
+  "type-news",
+  "status-publish",
+  "has-post-thumbnail",
+  "hentry",
+  "news_category-sobytija-i-vystavki"
+ ],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>AM.TECH на АТЛаС Форуме: от 3D-сканирования до серийного производства - am-tech.ru</title>\n<meta name=\"description\" content=\"Участие AM.TECH в АТЛаС Форуме 2026: демонстрация 3D-принтера AMT-16, образцов печати металлом и сканера KSCAN-X, выступления Михаила Родина.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/news/am-tech-na-atlas-forume-ot-3d-skanirovanija-do-serijnogo-proizvodstva/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"AM.TECH на АТЛаС Форуме: от 3D-сканирования до серийного производства - am-tech.ru\" />\n<meta property=\"og:description\" content=\"Участие AM.TECH в АТЛаС Форуме 2026: демонстрация 3D-принтера AMT-16, образцов печати металлом и сканера KSCAN-X, выступления Михаила Родина.\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/news/am-tech-na-atlas-forume-ot-3d-skanirovanija-do-serijnogo-proizvodstva/\" />\n<meta property=\"og:site_name\" content=\"am-tech.ru\" />\n<meta property=\"article:modified_time\" content=\"2026-10-07T11:43:51+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2026/10/img_20261007_140934.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1920\" />\n\t<meta property=\"og:image:height\" content=\"1440\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"6 минут\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/news/am-tech-na-atlas-forume-ot-3d-skanirovanija-do-serijnogo-proizvodstva/\",\"url\":\"https://am-tech.ru/news/am-tech-na-atlas-forume-ot-3d-skanirovanija-do-serijnogo-proizvodstva/\",\"name\":\"AM.TECH на АТЛаС Форуме: от 3D-сканирования до серийного производства - am-tech.ru\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/news/am-tech-na-atlas-forume-ot-3d-skanirovanija-do-serijnogo-proizvodstva/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/news/am-tech-na-atlas-forume-ot-3d-skanirovanija-do-serijnogo-proizvodstva/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2026/10/img_20261007_140934.jpg\",\"datePublished\":\"2026-10-07T11:29:13+00:00\",\"dateModified\":\"2026-10-07T11:43:51+00:00\",\"description\":\"Участие AM.TECH в АТЛаС Форуме 2026: демонстрация 3D-принтера AMT-16, образцов печати металлом и сканера KSCAN-X, выступления Михаила Родина.\",\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/news/am-tech-na-atlas-forume-ot-3d-skanirovanija-do-serijnogo-proizvodstva/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/news/am-tech-na-atlas-forume-ot-3d-skanirovanija-do-serijnogo-proizvodstva/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2026/10/img_20261007_140934.jpg\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2026/10/img_20261007_140934.jpg\",\"width\":1920,\"height\":1440},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"am-tech.ru\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"am-tech.ru\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"am-tech.ru\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "AM.TECH на АТЛаС Форуме: от 3D-сканирования до серийного производства - am-tech.ru",
+  "description": "Участие AM.TECH в АТЛаС Форуме 2026: демонстрация 3D-принтера AMT-16, образцов печати металлом и сканера KSCAN-X, выступления Михаила Родина.",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/news/am-tech-na-atlas-forume-ot-3d-skanirovanija-do-serijnogo-proizvodstva/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "AM.TECH на АТЛаС Форуме: от 3D-сканирования до серийного производства - am-tech.ru",
+  "og_description": "Участие AM.TECH в АТЛаС Форуме 2026: демонстрация 3D-принтера AMT-16, образцов печати металлом и сканера KSCAN-X, выступления Михаила Родина.",
+  "og_url": "https://am-tech.ru/news/am-tech-na-atlas-forume-ot-3d-skanirovanija-do-serijnogo-proizvodstva/",
+  "og_site_name": "am-tech.ru",
+  "article_modified_time": "2026-10-07T11:43:51+00:00",
+  "og_image": [
+   {
+    "width": 1920,
+    "height": 1440,
+    "url": "https://am-tech.ru/wp-content/uploads/2026/10/img_20261007_140934.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "6 минут"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/news/am-tech-na-atlas-forume-ot-3d-skanirovanija-do-serijnogo-proizvodstva/",
+     "url": "https://am-tech.ru/news/am-tech-na-atlas-forume-ot-3d-skanirovanija-do-serijnogo-proizvodstva/",
+     "name": "AM.TECH на АТЛаС Форуме: от 3D-сканирования до серийного производства - am-tech.ru",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/news/am-tech-na-atlas-forume-ot-3d-skanirovanija-do-serijnogo-proizvodstva/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/news/am-tech-na-atlas-forume-ot-3d-skanirovanija-do-serijnogo-proizvodstva/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2026/10/img_20261007_140934.jpg",
+     "datePublished": "2026-10-07T11:29:13+00:00",
+     "dateModified": "2026-10-07T11:43:51+00:00",
+     "description": "Участие AM.TECH в АТЛаС Форуме 2026: демонстрация 3D-принтера AMT-16, образцов печати металлом и сканера KSCAN-X, выступления Михаила Родина.",
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/news/am-tech-na-atlas-forume-ot-3d-skanirovanija-do-serijnogo-proizvodstva/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/news/am-tech-na-atlas-forume-ot-3d-skanirovanija-do-serijnogo-proizvodstva/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2026/10/img_20261007_140934.jpg",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2026/10/img_20261007_140934.jpg",
+     "width": 1920,
+     "height": 1440
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "am-tech.ru",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "am-tech.ru",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "am-tech.ru"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/4341",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/types/news"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/users/1"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/comments?post=4341"
+   }
+  ],
+  "wp:featuredmedia": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/media/4342"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/media?parent=4341"
+   }
+  ],
+  "wp:term": [
+   {
+    "taxonomy": "news_category",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_category?post=4341"
+   },
+   {
+    "taxonomy": "news_tag",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_tag?post=4341"
+   }
+  ],
+  "wp:action-publish": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/4341"
+   }
+  ],
+  "wp:action-unfiltered-html": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/4341"
+   }
+  ],
+  "wp:action-assign-author": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/4341"
+   }
+  ],
+  "wp:action-create-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/4341"
+   }
+  ],
+  "wp:action-assign-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/4341"
+   }
+  ],
+  "wp:action-create-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/4341"
+   }
+  ],
+  "wp:action-assign-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/4341"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

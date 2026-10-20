@@ -1,0 +1,280 @@
+{
+ "id": 3613,
+ "date": "2024-06-16T10:09:43",
+ "date_gmt": "2024-06-16T07:09:43",
+ "guid": {
+  "rendered": "https://am-tech.ru/?post_type=news&#038;p=3613",
+  "raw": "https://am-tech.ru/?post_type=news&#038;p=3613"
+ },
+ "modified": "2026-06-30T15:22:04",
+ "modified_gmt": "2026-06-30T12:22:04",
+ "password": "",
+ "slug": "nejavnoe-modelirovanie-dlja-additivnogo-proizvodstva",
+ "status": "publish",
+ "type": "news",
+ "link": "https://am-tech.ru/news/nejavnoe-modelirovanie-dlja-additivnogo-proizvodstva/",
+ "title": {
+  "raw": "Неявное моделирование для аддитивного производства",
+  "rendered": "Неявное моделирование для аддитивного производства"
+ },
+ "content": {
+  "raw": "<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n<p class=\"\"><em>Некоторое современное программное обеспечение начинает использовать новые алгоритмические принципы в угоду более эффективного проектирования продукции аддитивного производства.</em></p>\r\n\r\n<h4 class=\"\"><strong>Что такое неявное моделирование?</strong></h4>\r\n<p class=\"\">Традиционное проектирование деталей с помощью твердотельного или поверхностного автоматизированного проектирования (САПР) имеет много преимуществ с точки зрения визуализации и традиционного субтрактивного производства. Однако это <span data-id=\"5eb766f7130de23147b6c67715ed00b1\" data-target=\"spellcheck\">неидеальное</span> решение для аддитивного производства, для которого необходима именно <span data-id=\"e0d0059238973e8a58a47ed5615669e3\" data-target=\"spellcheck\">объёмная</span> модель с информацией о поверхности и внутренней структуре объекта. И вот здесь как раз и возникает та самая проблема целесообразности печати деталей, спроектированных под станки с ЧПУ. Сталкивались с этим? Только в случае перепроектирования модели с добавлением ячеистых или тройных периодических минимальных поверхностей у модели есть шанс иметь удовлетворительную экономику при печати. Но будет ли готов к этому производственник, которому необходимо решить проблему здесь и сейчас?</p>\r\n<p class=\"\">Прямое моделирование объекта, используя точки, треугольники или <span data-id=\"e31a394582a83e46cd8eecbd996bbf2d\" data-target=\"spellcheck\">параметрическую, часто твердотельную</span> геометрию, называется явным методом, потому что в этом случае проектируемые объекты можно увидеть напрямую. Однако во многих отношениях явное моделирование поверхности не является естественным методом геометрического моделирования. Большинство объектов имеют <span data-id=\"0da8b84c4b4e894bc188f6be692b6d60\" data-target=\"spellcheck\">объёмные</span> характеристики со сложной внутренней структурой. Естественные объекты обычно имеют непрерывную форму с бесконечным количеством деталей, особенно для биологических объектов, таких как кости и кровеносная/лимфатическая система человека. Природные объекты часто формируются процедурным процессом, например, развитие человеческого тела из одной клетки.</p>\r\nДля описания таких объектов более естественным и эффективным методом может быть использование реальных функций вместо точек и треугольников. Неявная функция лучше отражает способ создания природных объектов и является более эффективным способом моделирования, чем явная геометрия.\r\n<p class=\"\">Твердотельное моделирование предлагает лучшее решение, так как оно позволяет напрямую работать с областями, подлежащими печати для каждого слоя объекта. Оно может быть реализовано либо явно в виде набора вокселов и тетраэдров, либо в виде параметрических тел, либо <span data-id=\"3a7f5d8eaf457af7a08eb76b014b75ab\" data-target=\"spellcheck\">неявно,</span> в виде функции поля. Однако представление <span data-id=\"cf0b373caff100abaa3162b51cb0aa8e\" data-target=\"spellcheck\">твёрдого</span> объекта в виде набора точек 3D-вокселей или набора тетраэдров может быть дорогостоящим с точки зрения требуемого места для хранения. Что <span data-id=\"ff5a4e820b40df8b870202efde3fbc57\" data-target=\"spellcheck\">ещё</span> более важно, они не являются точным представлением. Независимо от количества используемых вокселей или тетраэдров, они обеспечивают лишь приблизительное решение.</p>\r\n<p class=\"\"><img class=\"alignnone size-full wp-image-3617\" src=\"https://am-tech.ru/wp-content/uploads/2024/06/brep.jpg\" alt=\"\" width=\"1000\" height=\"560\"></p>\r\n<strong>Рис. Пример явного&nbsp;моделирования с твердотельным представлением (B-rep) или триангуляцией.&nbsp;Источник: Metafold&nbsp;</strong>\r\n<p class=\"\">Неявное (Implicit) моделирование – это способ представления геометрической формы с помощью неявных функций, содержащих отношения между точками в пространстве с использованием условий или ограничений, и помогает создавать детали одновременно для аддитивного и традиционного производства, но раскрывает весь свой потенциал только при 3D-печати.</p>\r\nДанные о геометрии при таком моделировании хранятся в так называемом трёхмерном поле скалярных значений, где положительные значения находятся за пределами границы геометрии, а отрицательные значения находятся внутри границы геометрии.\r\n<p class=\"\"><img class=\"alignnone wp-image-3624 size-full\" src=\"https://am-tech.ru/wp-content/uploads/2024/06/scalarfield.jpg\" alt=\"\" width=\"1000\" height=\"560\"></p>\r\n<p class=\"\"><strong>Рис. Поле скалярных значений. Источник: <a href=\"https://vk.com/@altair_rus-neyavnoe-modelirovanie-chto-eto-i-kogda-primenyat\">Altair</a></strong></p>\r\n<p class=\"\">Неявное геометрическое представление позволяет объединить геометрическую форму, цвет материала, внутреннюю структуру материала и другие требуемые атрибуты в одном описании в виде набора неявных функций.&nbsp;Кроме того, поскольку неявные объекты обычно задаются процедурно, в их спецификациях используется очень мало данных, что делает их особенно полезными для проектирования и визуализации с помощью современных облачных мобильных устройств, которые обычно не имеют очень большого пространства для хранения данных.&nbsp;Наконец, неявное моделирование — это процедура проектирования, удобная для параллельных вычислений, поскольку проектирование сложного геометрического объекта может быть разделено на набор простых задач по проектированию формы благодаря наличию операций неявного смешивания с сохранением формы. Другими словами, для относительно простых деталей и традиционного производства явное моделирование будет являться приемлемым.</p>\r\n<p class=\"\">Однако для сложных деталей, которые может производить только аддитивное производство, программное обеспечение, основанное на явном моделировании, может «увязнуть» в обработке данных.&nbsp;Если требуется представить много поверхностей, это приводит к больши́м размерам файлов и сложности при внесении изменений, а также при сохранении файлов и совместном использовании.</p>\r\n<p class=\"\"><img class=\"alignnone wp-image-3618 size-full\" src=\"https://am-tech.ru/wp-content/uploads/2024/06/hex-e1765875803978.png\" alt=\"\" width=\"1000\" height=\"425\"></p>\r\n<p class=\"\"><strong>Рис. Пример неявного моделирования в Altair&nbsp;Inspire.&nbsp;Источник: Altair</strong></p>\r\n\r\n<h4><strong>В чем преимущества неявного моделирования?</strong></h4>\r\n<p class=\"\"><img class=\"alignnone size-full wp-image-3623\" src=\"https://am-tech.ru/wp-content/uploads/2024/06/ntopproject.jpg\" alt=\"\" width=\"1000\" height=\"560\"></p>\r\n<strong>Рис. Возможности неявного моделирования nTop, с помощью которых масса корпуса форсунки Aerojet Rocketdyne была уменьшена в 2 раза.&nbsp;Источник:&nbsp;Velo3D</strong>\r\n\r\nПо сравнению с методами явного моделирования неявное моделирование может привести к более быстрой обработке конструктивных изменений и уменьшению размеров файлов. Поскольку неявное моделирование основано на формулах, а не на дискретных данных, стратегия позволяет легко масштабировать проекты или вносить модификации, не замедляя работу программного обеспечения.\r\n\r\nНеявное моделирование может позволить проектировщикам преодолеть предыдущие ограничения, налагаемые программным обеспечением САПР, обеспечивая более быструю обработку сложных структур, таких как <span data-id=\"4936aa069a2bec3ca73f85ce8c3cfd6f\" data-target=\"spellcheck\">гироидные</span> <span data-id=\"9b22827e1d2a30445d9512dfd55f680c\" data-target=\"spellcheck\">решётки</span>, а также использование новых <span data-id=\"b1bb07008e0c79fbab6a345887510e0e\" data-target=\"spellcheck\">видов форм</span>. Этот метод моделирования позволяет с большей <span data-id=\"541109f2b295b8c6a21a6ea8210a2c82\" data-target=\"spellcheck\">лёгкостью</span> использовать такие возможности, как <span data-id=\"0a4593e0687aaf6c3e7fad62fcf7f0b7\" data-target=\"spellcheck\">метаматериалы</span> и <span data-id=\"d1c9557ddc03b2bba8fd882d9327c284\" data-target=\"spellcheck\">градиенты материалов на основе геометрии</span>.\r\n<h4><strong>Каковы недостатки неявного моделирования?</strong></h4>\r\n<p class=\"\">При использовании для воссоздания объектов из физического мира неявное моделирование может быть менее точным, чем явное моделирование. Результат моделирования зависит от исходных данных и навыков разработчика.</p>\r\n<span data-id=\"17a0bfa49ba0dd46b14e2a3176634f2a\" data-target=\"spellcheck\">Неявное моделирование</span>, возможно, лучше подходит для разработки новых конструкций, где более важна поддержка сложности конструкции и гибкости при многочисленных итерациях.\r\n<h4><strong>Как неявное моделирование помогает аддитивному производству?</strong></h4>\r\nВ то время как явное моделирование хорошо подходит для субтрактивного производства, неявное моделирование может быть более эффективным выбором для представления сложных структур заполнения и других функций, которые делает возможным аддитивное производство. <span data-id=\"17a0bfa49ba0dd46b14e2a3176634f2a\" data-target=\"spellcheck\">Неявное моделирование</span> особенно эффективно при проектировании деталей с <span data-id=\"955908c56f5eb73fe97e300b17f291f8\" data-target=\"spellcheck\">больши́м</span><span data-id=\"35bfff623c538c87b6cf238fb003e4f0\" data-target=\"spellcheck\"> количеством</span> поверхностей, таких как <u>теплообменники</u>, фильтры и биореакторы.\r\n<p class=\"\"><img class=\"alignnone size-full wp-image-3621\" src=\"https://am-tech.ru/wp-content/uploads/2024/06/lattice.jpg\" alt=\"\" width=\"1000\" height=\"560\"></p>\r\n<strong>Рис. Большое количество ячеистых структур, реализованное с помощью ПО для неявного моделирования Metafold. Источник: Metafold</strong>\r\n<p class=\"\">Неявное моделирование позволяет избежать проблем с размером файла, как у явного моделирования, поскольку нет необходимости описывать каждую поверхность каждого элемента детали. В некоторых случаях переключение с явного на неявное моделирование может привести к экономии времени в несколько дней на изменение или сохранение файла проекта.</p>\r\n<p class=\"\"><img class=\"alignnone size-full wp-image-3622\" src=\"https://am-tech.ru/wp-content/uploads/2024/06/latticehex.jpg\" alt=\"\" width=\"1000\" height=\"560\"></p>\r\n<strong>Рис. Теплообменник Siemens Energy, разработанный в nTop, с размером файла всего 1 Мб. Печать на EOS M290.&nbsp;Источник: EOS</strong>\r\n\r\nВо многих случаях проекты, разработанные с помощью инструментов неявного моделирования, экспортируются в виде файлов STL/3MF для создания явных представлений для 3D-печати.&nbsp;\r\n<h4><strong>Какое программное обеспечение использует неявное моделирование?</strong></h4>\r\n<p class=\"\">Программы проектирования и программное обеспечение, включающие возможности неявного моделирования, включают в себя&nbsp;<a href=\"https://www.additivemanufacturing.media/suppliers/altair-engineering\">Altair</a>&nbsp;Inspire,&nbsp;<a href=\"https://www.additivemanufacturing.media/suppliers/autodesk-inc\">Autodesk</a>&nbsp;Fusion 360,&nbsp;<a href=\"https://www.additivemanufacturing.media/suppliers/metafold3d\">Metafold</a>&nbsp;(платформа и API),&nbsp;<a href=\"https://www.additivemanufacturing.media/suppliers/ntopology\">nTop</a>,&nbsp;<a href=\"https://www.additivemanufacturing.media/suppliers/oqton\">Oqton</a>3DXpert,&nbsp;<a href=\"https://www.rhino3d.com/\">Rhino</a>&nbsp;через различные плагины Grasshopper и&nbsp;<a href=\"https://www.additivemanufacturing.media/suppliers/siemens-industry\">Siemens</a>&nbsp;NX.</p>\r\n\r\n<h4><strong>Гибридное моделирование</strong></h4>\r\nСегодня можно использовать «гибридное моделирование», которое описывает возможность комбинирования различных типов геометрических представлений.&nbsp;Гибридное моделирование позволяет использовать неявные представления для сложных решётчатых структур, конформных линий ISO-сетки, твердотельных моделей (BRep), воксельных элементов, поддерживающих структур.\r\n<p class=\"\"><img class=\"alignnone size-full wp-image-3619\" src=\"https://am-tech.ru/wp-content/uploads/2024/06/hex2.jpg\" alt=\"\" width=\"1000\" height=\"560\"></p>\r\n<strong>Рис. Инструмент для «гибридного моделирования». Источник: Oqton&nbsp;3DXpert</strong>\r\n<p class=\"\">Новичок в отрасли&nbsp;— неявное моделирование, быстро <span data-id=\"dfc4fb7615a06b123ff6bc56ef9a6f23\" data-target=\"spellcheck\">создаёт</span> имидж «игрока, меняющего правила игры» в индустрии аддитивного производства. <span data-id=\"a9639c77846f7e6eca5c2a36fdd7a32b\" data-target=\"spellcheck\">Вместо</span> представления геометрии треугольниками или границами в неявном моделировании используются формулы, создающие иллюзию форм.</p>\r\n<p class=\"\">Тем не менее на последнем этапе, подразумевающем печать деталей, сегодня чаще требуется преобразования любой «продвинутой» геометрии в сетку явных форматов, возвращаясь опять от «компьютера к кульману», от компактных размеров файлов к гигантским, от <span data-id=\"9a9721a217ce5831168406d0f505f89e\" data-target=\"spellcheck\">лёгкости</span> работы и визуализации проектов к «неповоротливым» файлам. Исключения здесь есть, но крайне немногочисленны.</p>\r\n<p class=\"\"><img class=\"alignnone size-full wp-image-3620\" src=\"https://am-tech.ru/wp-content/uploads/2024/06/hex3.jpg\" alt=\"\" width=\"1000\" height=\"560\"></p>\r\n<p class=\"\"><strong>Рис. Результат печати после проектирования в ПО для «гибридного моделирования». Источник: Oqton&nbsp;3DXpert</strong></p>\r\n<p class=\"\">Наконец, наиболее <span data-id=\"97e171686f93224e726b19866619cb17\" data-target=\"spellcheck\">распространённым</span> представлением в программных системах CAD/CAM по-прежнему являются твердотельное моделирование, а использование неявного может негативно отразиться на <span data-id=\"55b98eabe55468e14bf3b899c7be82ee\" data-target=\"spellcheck\">чёткости</span> граней и точности.</p>\r\n<p class=\"\">Поэтому одним из очевидных решений будет работа в таком «гибридном» ПО, которое позволит одновременно манипулировать всеми типами данных в одном сеансе, забывая о различиях и тонкостях каждого типа, что является целостным и гармоничным подходом к аддитивному производству.</p>\r\nВ статье использовались материалы:\r\n<p class=\"\"><a href=\"https://vk.com/@altair_rus-neyavnoe-modelirovanie-chto-eto-i-kogda-primenyat\"><em>https://vk.com/@altair_rus-neyavnoe-modelirovanie-chto-eto-i-kogda-primenyat</em></a></p>\r\n<p class=\"\"><a href=\"https://www.additivemanufacturing.media/articles/implicit-modeling-for-additive-manufacturing\"><em>https://www.additivemanufacturing.media/articles/implicit-modeling-for-additive-manufacturing</em></a></p>\r\n<p class=\"\"><a href=\"https://oqton.com/posts/hybrid-modeling-enabling-a-holistic-approach-to-additive-manufacturing/\"><em>https://oqton.com/posts/hybrid-modeling-enabling-a-holistic-approach-to-additive-manufacturing/</em></a></p>\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+  "rendered": "<div class=\"boldgrid-section\">\n<div class=\"container\">\n<div class=\"row\">\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\n<p class=\"\"><em>Некоторое современное программное обеспечение начинает использовать новые алгоритмические принципы в угоду более эффективного проектирования продукции аддитивного производства.</em></p>\n<h4 class=\"\"><strong>Что такое неявное моделирование?</strong></h4>\n<p class=\"\">Традиционное проектирование деталей с помощью твердотельного или поверхностного автоматизированного проектирования (САПР) имеет много преимуществ с точки зрения визуализации и традиционного субтрактивного производства. Однако это <span data-id=\"5eb766f7130de23147b6c67715ed00b1\" data-target=\"spellcheck\">неидеальное</span> решение для аддитивного производства, для которого необходима именно <span data-id=\"e0d0059238973e8a58a47ed5615669e3\" data-target=\"spellcheck\">объёмная</span> модель с информацией о поверхности и внутренней структуре объекта. И вот здесь как раз и возникает та самая проблема целесообразности печати деталей, спроектированных под станки с ЧПУ. Сталкивались с этим? Только в случае перепроектирования модели с добавлением ячеистых или тройных периодических минимальных поверхностей у модели есть шанс иметь удовлетворительную экономику при печати. Но будет ли готов к этому производственник, которому необходимо решить проблему здесь и сейчас?</p>\n<p class=\"\">Прямое моделирование объекта, используя точки, треугольники или <span data-id=\"e31a394582a83e46cd8eecbd996bbf2d\" data-target=\"spellcheck\">параметрическую, часто твердотельную</span> геометрию, называется явным методом, потому что в этом случае проектируемые объекты можно увидеть напрямую. Однако во многих отношениях явное моделирование поверхности не является естественным методом геометрического моделирования. Большинство объектов имеют <span data-id=\"0da8b84c4b4e894bc188f6be692b6d60\" data-target=\"spellcheck\">объёмные</span> характеристики со сложной внутренней структурой. Естественные объекты обычно имеют непрерывную форму с бесконечным количеством деталей, особенно для биологических объектов, таких как кости и кровеносная/лимфатическая система человека. Природные объекты часто формируются процедурным процессом, например, развитие человеческого тела из одной клетки.</p>\n<p>Для описания таких объектов более естественным и эффективным методом может быть использование реальных функций вместо точек и треугольников. Неявная функция лучше отражает способ создания природных объектов и является более эффективным способом моделирования, чем явная геометрия.</p>\n<p class=\"\">Твердотельное моделирование предлагает лучшее решение, так как оно позволяет напрямую работать с областями, подлежащими печати для каждого слоя объекта. Оно может быть реализовано либо явно в виде набора вокселов и тетраэдров, либо в виде параметрических тел, либо <span data-id=\"3a7f5d8eaf457af7a08eb76b014b75ab\" data-target=\"spellcheck\">неявно,</span> в виде функции поля. Однако представление <span data-id=\"cf0b373caff100abaa3162b51cb0aa8e\" data-target=\"spellcheck\">твёрдого</span> объекта в виде набора точек 3D-вокселей или набора тетраэдров может быть дорогостоящим с точки зрения требуемого места для хранения. Что <span data-id=\"ff5a4e820b40df8b870202efde3fbc57\" data-target=\"spellcheck\">ещё</span> более важно, они не являются точным представлением. Независимо от количества используемых вокселей или тетраэдров, они обеспечивают лишь приблизительное решение.</p>\n<p class=\"\"><img loading=\"lazy\" decoding=\"async\" fetchpriority=\"high\" decoding=\"async\" class=\"alignnone size-full wp-image-3617\" src=\"https://am-tech.ru/wp-content/uploads/2024/06/brep.jpg\" alt=\"Неявное моделирование для аддитивного производства - 3D-печать металлами - AM-Tech\" width=\"1000\" height=\"560\" srcset=\"https://am-tech.ru/wp-content/uploads/2024/06/brep.jpg 1000w, https://am-tech.ru/wp-content/uploads/2024/06/brep-300x168.jpg 300w, https://am-tech.ru/wp-content/uploads/2024/06/brep-768x430.jpg 768w, https://am-tech.ru/wp-content/uploads/2024/06/brep-600x336.jpg 600w\" sizes=\"(max-width: 1000px) 100vw, 1000px\" /></p>\n<p><strong>Рис. Пример явного&nbsp;моделирования с твердотельным представлением (B-rep) или триангуляцией.&nbsp;Источник: Metafold&nbsp;</strong></p>\n<p class=\"\">Неявное (Implicit) моделирование – это способ представления геометрической формы с помощью неявных функций, содержащих отношения между точками в пространстве с использованием условий или ограничений, и помогает создавать детали одновременно для аддитивного и традиционного производства, но раскрывает весь свой потенциал только при 3D-печати.</p>\n<p>Данные о геометрии при таком моделировании хранятся в так называемом трёхмерном поле скалярных значений, где положительные значения находятся за пределами границы геометрии, а отрицательные значения находятся внутри границы геометрии.</p>\n<p class=\"\"><img loading=\"lazy\" decoding=\"async\" decoding=\"async\" class=\"alignnone wp-image-3624 size-full\" src=\"https://am-tech.ru/wp-content/uploads/2024/06/scalarfield.jpg\" alt=\"Неявное моделирование для аддитивного производства - 3D-печать металлами - AM-Tech\" width=\"1000\" height=\"560\" srcset=\"https://am-tech.ru/wp-content/uploads/2024/06/scalarfield.jpg 1000w, https://am-tech.ru/wp-content/uploads/2024/06/scalarfield-300x168.jpg 300w, https://am-tech.ru/wp-content/uploads/2024/06/scalarfield-768x430.jpg 768w, https://am-tech.ru/wp-content/uploads/2024/06/scalarfield-600x336.jpg 600w\" sizes=\"(max-width: 1000px) 100vw, 1000px\" /></p>\n<p class=\"\"><strong>Рис. Поле скалярных значений. Источник: <a href=\"https://vk.com/@altair_rus-neyavnoe-modelirovanie-chto-eto-i-kogda-primenyat\">Altair</a></strong></p>\n<p class=\"\">Неявное геометрическое представление позволяет объединить геометрическую форму, цвет материала, внутреннюю структуру материала и другие требуемые атрибуты в одном описании в виде набора неявных функций.&nbsp;Кроме того, поскольку неявные объекты обычно задаются процедурно, в их спецификациях используется очень мало данных, что делает их особенно полезными для проектирования и визуализации с помощью современных облачных мобильных устройств, которые обычно не имеют очень большого пространства для хранения данных.&nbsp;Наконец, неявное моделирование — это процедура проектирования, удобная для параллельных вычислений, поскольку проектирование сложного геометрического объекта может быть разделено на набор простых задач по проектированию формы благодаря наличию операций неявного смешивания с сохранением формы. Другими словами, для относительно простых деталей и традиционного производства явное моделирование будет являться приемлемым.</p>\n<p class=\"\">Однако для сложных деталей, которые может производить только аддитивное производство, программное обеспечение, основанное на явном моделировании, может «увязнуть» в обработке данных.&nbsp;Если требуется представить много поверхностей, это приводит к больши́м размерам файлов и сложности при внесении изменений, а также при сохранении файлов и совместном использовании.</p>\n<p class=\"\"><img loading=\"lazy\" decoding=\"async\" decoding=\"async\" class=\"alignnone wp-image-3618 size-full\" src=\"https://am-tech.ru/wp-content/uploads/2024/06/hex-e1765875803978.png\" alt=\"Неявное моделирование для аддитивного производства - 3D-печать металлами - AM-Tech\" width=\"1000\" height=\"425\" srcset=\"https://am-tech.ru/wp-content/uploads/2024/06/hex-e1765875803978.png 1000w, https://am-tech.ru/wp-content/uploads/2024/06/hex-e1765875803978-300x128.png 300w, https://am-tech.ru/wp-content/uploads/2024/06/hex-e1765875803978-768x326.png 768w, https://am-tech.ru/wp-content/uploads/2024/06/hex-e1765875803978-600x255.png 600w\" sizes=\"(max-width: 1000px) 100vw, 1000px\" /></p>\n<p class=\"\"><strong>Рис. Пример неявного моделирования в Altair&nbsp;Inspire.&nbsp;Источник: Altair</strong></p>\n<h4><strong>В чем преимущества неявного моделирования?</strong></h4>\n<p class=\"\"><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-full wp-image-3623\" src=\"https://am-tech.ru/wp-content/uploads/2024/06/ntopproject.jpg\" alt=\"Неявное моделирование для аддитивного производства - 3D-печать металлами - AM-Tech\" width=\"1000\" height=\"560\" srcset=\"https://am-tech.ru/wp-content/uploads/2024/06/ntopproject.jpg 1000w, https://am-tech.ru/wp-content/uploads/2024/06/ntopproject-300x168.jpg 300w, https://am-tech.ru/wp-content/uploads/2024/06/ntopproject-768x430.jpg 768w, https://am-tech.ru/wp-content/uploads/2024/06/ntopproject-600x336.jpg 600w\" sizes=\"(max-width: 1000px) 100vw, 1000px\" /></p>\n<p><strong>Рис. Возможности неявного моделирования nTop, с помощью которых масса корпуса форсунки Aerojet Rocketdyne была уменьшена в 2 раза.&nbsp;Источник:&nbsp;Velo3D</strong></p>\n<p>По сравнению с методами явного моделирования неявное моделирование может привести к более быстрой обработке конструктивных изменений и уменьшению размеров файлов. Поскольку неявное моделирование основано на формулах, а не на дискретных данных, стратегия позволяет легко масштабировать проекты или вносить модификации, не замедляя работу программного обеспечения.</p>\n<p>Неявное моделирование может позволить проектировщикам преодолеть предыдущие ограничения, налагаемые программным обеспечением САПР, обеспечивая более быструю обработку сложных структур, таких как <span data-id=\"4936aa069a2bec3ca73f85ce8c3cfd6f\" data-target=\"spellcheck\">гироидные</span> <span data-id=\"9b22827e1d2a30445d9512dfd55f680c\" data-target=\"spellcheck\">решётки</span>, а также использование новых <span data-id=\"b1bb07008e0c79fbab6a345887510e0e\" data-target=\"spellcheck\">видов форм</span>. Этот метод моделирования позволяет с большей <span data-id=\"541109f2b295b8c6a21a6ea8210a2c82\" data-target=\"spellcheck\">лёгкостью</span> использовать такие возможности, как <span data-id=\"0a4593e0687aaf6c3e7fad62fcf7f0b7\" data-target=\"spellcheck\">метаматериалы</span> и <span data-id=\"d1c9557ddc03b2bba8fd882d9327c284\" data-target=\"spellcheck\">градиенты материалов на основе геометрии</span>.</p>\n<h4><strong>Каковы недостатки неявного моделирования?</strong></h4>\n<p class=\"\">При использовании для воссоздания объектов из физического мира неявное моделирование может быть менее точным, чем явное моделирование. Результат моделирования зависит от исходных данных и навыков разработчика.</p>\n<p><span data-id=\"17a0bfa49ba0dd46b14e2a3176634f2a\" data-target=\"spellcheck\">Неявное моделирование</span>, возможно, лучше подходит для разработки новых конструкций, где более важна поддержка сложности конструкции и гибкости при многочисленных итерациях.</p>\n<h4><strong>Как неявное моделирование помогает аддитивному производству?</strong></h4>\n<p>В то время как явное моделирование хорошо подходит для субтрактивного производства, неявное моделирование может быть более эффективным выбором для представления сложных структур заполнения и других функций, которые делает возможным аддитивное производство. <span data-id=\"17a0bfa49ba0dd46b14e2a3176634f2a\" data-target=\"spellcheck\">Неявное моделирование</span> особенно эффективно при проектировании деталей с <span data-id=\"955908c56f5eb73fe97e300b17f291f8\" data-target=\"spellcheck\">больши́м</span><span data-id=\"35bfff623c538c87b6cf238fb003e4f0\" data-target=\"spellcheck\"> количеством</span> поверхностей, таких как <u>теплообменники</u>, фильтры и биореакторы.</p>\n<p class=\"\"><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-full wp-image-3621\" src=\"https://am-tech.ru/wp-content/uploads/2024/06/lattice.jpg\" alt=\"Неявное моделирование для аддитивного производства - 3D-печать металлами - AM-Tech\" width=\"1000\" height=\"560\" srcset=\"https://am-tech.ru/wp-content/uploads/2024/06/lattice.jpg 1000w, https://am-tech.ru/wp-content/uploads/2024/06/lattice-300x168.jpg 300w, https://am-tech.ru/wp-content/uploads/2024/06/lattice-768x430.jpg 768w, https://am-tech.ru/wp-content/uploads/2024/06/lattice-600x336.jpg 600w\" sizes=\"(max-width: 1000px) 100vw, 1000px\" /></p>\n<p><strong>Рис. Большое количество ячеистых структур, реализованное с помощью ПО для неявного моделирования Metafold. Источник: Metafold</strong></p>\n<p class=\"\">Неявное моделирование позволяет избежать проблем с размером файла, как у явного моделирования, поскольку нет необходимости описывать каждую поверхность каждого элемента детали. В некоторых случаях переключение с явного на неявное моделирование может привести к экономии времени в несколько дней на изменение или сохранение файла проекта.</p>\n<p class=\"\"><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-full wp-image-3622\" src=\"https://am-tech.ru/wp-content/uploads/2024/06/latticehex.jpg\" alt=\"Неявное моделирование для аддитивного производства - 3D-печать металлами - AM-Tech\" width=\"1000\" height=\"560\" srcset=\"https://am-tech.ru/wp-content/uploads/2024/06/latticehex.jpg 1000w, https://am-tech.ru/wp-content/uploads/2024/06/latticehex-300x168.jpg 300w, https://am-tech.ru/wp-content/uploads/2024/06/latticehex-768x430.jpg 768w, https://am-tech.ru/wp-content/uploads/2024/06/latticehex-600x336.jpg 600w\" sizes=\"(max-width: 1000px) 100vw, 1000px\" /></p>\n<p><strong>Рис. Теплообменник Siemens Energy, разработанный в nTop, с размером файла всего 1 Мб. Печать на EOS M290.&nbsp;Источник: EOS</strong></p>\n<p>Во многих случаях проекты, разработанные с помощью инструментов неявного моделирования, экспортируются в виде файлов STL/3MF для создания явных представлений для 3D-печати.&nbsp;</p>\n<h4><strong>Какое программное обеспечение использует неявное моделирование?</strong></h4>\n<p class=\"\">Программы проектирования и программное обеспечение, включающие возможности неявного моделирования, включают в себя&nbsp;<a href=\"https://www.additivemanufacturing.media/suppliers/altair-engineering\">Altair</a>&nbsp;Inspire,&nbsp;<a href=\"https://www.additivemanufacturing.media/suppliers/autodesk-inc\">Autodesk</a>&nbsp;Fusion 360,&nbsp;<a href=\"https://www.additivemanufacturing.media/suppliers/metafold3d\">Metafold</a>&nbsp;(платформа и API),&nbsp;<a href=\"https://www.additivemanufacturing.media/suppliers/ntopology\">nTop</a>,&nbsp;<a href=\"https://www.additivemanufacturing.media/suppliers/oqton\">Oqton</a>3DXpert,&nbsp;<a href=\"https://www.rhino3d.com/\">Rhino</a>&nbsp;через различные плагины Grasshopper и&nbsp;<a href=\"https://www.additivemanufacturing.media/suppliers/siemens-industry\">Siemens</a>&nbsp;NX.</p>\n<h4><strong>Гибридное моделирование</strong></h4>\n<p>Сегодня можно использовать «гибридное моделирование», которое описывает возможность комбинирования различных типов геометрических представлений.&nbsp;Гибридное моделирование позволяет использовать неявные представления для сложных решётчатых структур, конформных линий ISO-сетки, твердотельных моделей (BRep), воксельных элементов, поддерживающих структур.</p>\n<p class=\"\"><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-full wp-image-3619\" src=\"https://am-tech.ru/wp-content/uploads/2024/06/hex2.jpg\" alt=\"Неявное моделирование для аддитивного производства - 3D-печать металлами - AM-Tech\" width=\"1000\" height=\"560\" srcset=\"https://am-tech.ru/wp-content/uploads/2024/06/hex2.jpg 1000w, https://am-tech.ru/wp-content/uploads/2024/06/hex2-300x168.jpg 300w, https://am-tech.ru/wp-content/uploads/2024/06/hex2-768x430.jpg 768w, https://am-tech.ru/wp-content/uploads/2024/06/hex2-600x336.jpg 600w\" sizes=\"(max-width: 1000px) 100vw, 1000px\" /></p>\n<p><strong>Рис. Инструмент для «гибридного моделирования». Источник: Oqton&nbsp;3DXpert</strong></p>\n<p class=\"\">Новичок в отрасли&nbsp;— неявное моделирование, быстро <span data-id=\"dfc4fb7615a06b123ff6bc56ef9a6f23\" data-target=\"spellcheck\">создаёт</span> имидж «игрока, меняющего правила игры» в индустрии аддитивного производства. <span data-id=\"a9639c77846f7e6eca5c2a36fdd7a32b\" data-target=\"spellcheck\">Вместо</span> представления геометрии треугольниками или границами в неявном моделировании используются формулы, создающие иллюзию форм.</p>\n<p class=\"\">Тем не менее на последнем этапе, подразумевающем печать деталей, сегодня чаще требуется преобразования любой «продвинутой» геометрии в сетку явных форматов, возвращаясь опять от «компьютера к кульману», от компактных размеров файлов к гигантским, от <span data-id=\"9a9721a217ce5831168406d0f505f89e\" data-target=\"spellcheck\">лёгкости</span> работы и визуализации проектов к «неповоротливым» файлам. Исключения здесь есть, но крайне немногочисленны.</p>\n<p class=\"\"><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-full wp-image-3620\" src=\"https://am-tech.ru/wp-content/uploads/2024/06/hex3.jpg\" alt=\"Неявное моделирование для аддитивного производства - 3D-печать металлами - AM-Tech\" width=\"1000\" height=\"560\" srcset=\"https://am-tech.ru/wp-content/uploads/2024/06/hex3.jpg 1000w, https://am-tech.ru/wp-content/uploads/2024/06/hex3-300x168.jpg 300w, https://am-tech.ru/wp-content/uploads/2024/06/hex3-768x430.jpg 768w, https://am-tech.ru/wp-content/uploads/2024/06/hex3-600x336.jpg 600w\" sizes=\"(max-width: 1000px) 100vw, 1000px\" /></p>\n<p class=\"\"><strong>Рис. Результат печати после проектирования в ПО для «гибридного моделирования». Источник: Oqton&nbsp;3DXpert</strong></p>\n<p class=\"\">Наконец, наиболее <span data-id=\"97e171686f93224e726b19866619cb17\" data-target=\"spellcheck\">распространённым</span> представлением в программных системах CAD/CAM по-прежнему являются твердотельное моделирование, а использование неявного может негативно отразиться на <span data-id=\"55b98eabe55468e14bf3b899c7be82ee\" data-target=\"spellcheck\">чёткости</span> граней и точности.</p>\n<p class=\"\">Поэтому одним из очевидных решений будет работа в таком «гибридном» ПО, которое позволит одновременно манипулировать всеми типами данных в одном сеансе, забывая о различиях и тонкостях каждого типа, что является целостным и гармоничным подходом к аддитивному производству.</p>\n<p>В статье использовались материалы:</p>\n<p class=\"\"><a href=\"https://vk.com/@altair_rus-neyavnoe-modelirovanie-chto-eto-i-kogda-primenyat\"><em>https://vk.com/@altair_rus-neyavnoe-modelirovanie-chto-eto-i-kogda-primenyat</em></a></p>\n<p class=\"\"><a href=\"https://www.additivemanufacturing.media/articles/implicit-modeling-for-additive-manufacturing\"><em>https://www.additivemanufacturing.media/articles/implicit-modeling-for-additive-manufacturing</em></a></p>\n<p class=\"\"><a href=\"https://oqton.com/posts/hybrid-modeling-enabling-a-holistic-approach-to-additive-manufacturing/\"><em>https://oqton.com/posts/hybrid-modeling-enabling-a-holistic-approach-to-additive-manufacturing/</em></a></p>\n</div>\n</div>\n</div>\n</div>\n",
+  "protected": false,
+  "block_version": 0
+ },
+ "excerpt": {
+  "raw": "",
+  "rendered": "<p>Некоторое современное программное обеспечение начинает использовать новые алгоритмические принципы в угоду более эффективного проектирования продукции аддитивного производства. Что такое неявное моделирование? Традиционное проектирование деталей с помощью твердотельного или поверхностного автоматизированного проектирования (САПР) имеет много преимуществ с точки зрения визуализации и традиционного субтрактивного производства. Однако это неидеальное решение для аддитивного производства, для которого необходима именно объёмная [&hellip;]</p>\n",
+  "protected": false
+ },
+ "author": 4,
+ "featured_media": 3625,
+ "comment_status": "open",
+ "ping_status": "closed",
+ "template": "",
+ "meta": {
+  "_acf_changed": false,
+  "_yoast_wpseo_title": "",
+  "_yoast_wpseo_metadesc": "Неявное моделирование для аддитивного производства: новый подход к созданию сложных структур и решеток.",
+  "_yoast_wpseo_meta-robots-noindex": ""
+ },
+ "news_category": [
+  1107
+ ],
+ "news_tag": [
+  1265
+ ],
+ "permalink_template": "https://am-tech.ru/news/%pagename%/",
+ "generated_slug": "nejavnoe-modelirovanie-dlja-additivnogo-proizvodstva",
+ "class_list": [
+  "post-3613",
+  "news",
+  "type-news",
+  "status-publish",
+  "has-post-thumbnail",
+  "hentry",
+  "news_category-3d-pechat-metallami",
+  "news_tag-proektirovanie"
+ ],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Неявное моделирование для аддитивного производства - am-tech.ru</title>\n<meta name=\"description\" content=\"Неявное моделирование для аддитивного производства: новый подход к созданию сложных структур и решеток.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/news/nejavnoe-modelirovanie-dlja-additivnogo-proizvodstva/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Неявное моделирование для аддитивного производства - am-tech.ru\" />\n<meta property=\"og:description\" content=\"Неявное моделирование для аддитивного производства: новый подход к созданию сложных структур и решеток.\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/news/nejavnoe-modelirovanie-dlja-additivnogo-proizvodstva/\" />\n<meta property=\"og:site_name\" content=\"am-tech.ru\" />\n<meta property=\"article:modified_time\" content=\"2026-06-30T12:22:04+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2024/06/title.jpg\" />\n\t<meta property=\"og:image:width\" content=\"696\" />\n\t<meta property=\"og:image:height\" content=\"406\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"8 минут\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/news/nejavnoe-modelirovanie-dlja-additivnogo-proizvodstva/\",\"url\":\"https://am-tech.ru/news/nejavnoe-modelirovanie-dlja-additivnogo-proizvodstva/\",\"name\":\"Неявное моделирование для аддитивного производства - am-tech.ru\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/news/nejavnoe-modelirovanie-dlja-additivnogo-proizvodstva/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/news/nejavnoe-modelirovanie-dlja-additivnogo-proizvodstva/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2024/06/title.jpg\",\"datePublished\":\"2024-06-16T07:09:43+00:00\",\"dateModified\":\"2026-06-30T12:22:04+00:00\",\"description\":\"Неявное моделирование для аддитивного производства: новый подход к созданию сложных структур и решеток.\",\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/news/nejavnoe-modelirovanie-dlja-additivnogo-proizvodstva/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/news/nejavnoe-modelirovanie-dlja-additivnogo-proizvodstva/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2024/06/title.jpg\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2024/06/title.jpg\",\"width\":696,\"height\":406},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"am-tech.ru\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"am-tech.ru\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"am-tech.ru\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "Неявное моделирование для аддитивного производства - am-tech.ru",
+  "description": "Неявное моделирование для аддитивного производства: новый подход к созданию сложных структур и решеток.",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/news/nejavnoe-modelirovanie-dlja-additivnogo-proizvodstva/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "Неявное моделирование для аддитивного производства - am-tech.ru",
+  "og_description": "Неявное моделирование для аддитивного производства: новый подход к созданию сложных структур и решеток.",
+  "og_url": "https://am-tech.ru/news/nejavnoe-modelirovanie-dlja-additivnogo-proizvodstva/",
+  "og_site_name": "am-tech.ru",
+  "article_modified_time": "2026-06-30T12:22:04+00:00",
+  "og_image": [
+   {
+    "width": 696,
+    "height": 406,
+    "url": "https://am-tech.ru/wp-content/uploads/2024/06/title.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "8 минут"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/news/nejavnoe-modelirovanie-dlja-additivnogo-proizvodstva/",
+     "url": "https://am-tech.ru/news/nejavnoe-modelirovanie-dlja-additivnogo-proizvodstva/",
+     "name": "Неявное моделирование для аддитивного производства - am-tech.ru",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/news/nejavnoe-modelirovanie-dlja-additivnogo-proizvodstva/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/news/nejavnoe-modelirovanie-dlja-additivnogo-proizvodstva/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2024/06/title.jpg",
+     "datePublished": "2024-06-16T07:09:43+00:00",
+     "dateModified": "2026-06-30T12:22:04+00:00",
+     "description": "Неявное моделирование для аддитивного производства: новый подход к созданию сложных структур и решеток.",
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/news/nejavnoe-modelirovanie-dlja-additivnogo-proizvodstva/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/news/nejavnoe-modelirovanie-dlja-additivnogo-proizvodstva/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2024/06/title.jpg",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2024/06/title.jpg",
+     "width": 696,
+     "height": 406
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "am-tech.ru",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "am-tech.ru",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "am-tech.ru"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3613",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/types/news"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/users/4"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/comments?post=3613"
+   }
+  ],
+  "wp:featuredmedia": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/media/3625"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/media?parent=3613"
+   }
+  ],
+  "wp:term": [
+   {
+    "taxonomy": "news_category",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_category?post=3613"
+   },
+   {
+    "taxonomy": "news_tag",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_tag?post=3613"
+   }
+  ],
+  "wp:action-publish": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3613"
+   }
+  ],
+  "wp:action-unfiltered-html": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3613"
+   }
+  ],
+  "wp:action-assign-author": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3613"
+   }
+  ],
+  "wp:action-create-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3613"
+   }
+  ],
+  "wp:action-assign-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3613"
+   }
+  ],
+  "wp:action-create-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3613"
+   }
+  ],
+  "wp:action-assign-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3613"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

@@ -1,0 +1,286 @@
+{
+ "id": 3795,
+ "date": "2026-01-27T14:55:14",
+ "date_gmt": "2026-01-27T11:55:14",
+ "guid": {
+  "rendered": "https://am-tech.ru/?post_type=news&#038;p=3795",
+  "raw": "https://am-tech.ru/?post_type=news&#038;p=3795"
+ },
+ "modified": "2026-01-27T15:01:53",
+ "modified_gmt": "2026-01-27T12:01:53",
+ "password": "",
+ "slug": "sla-3d-printery-v-promyshlennosti-obzor-tehnologii-na-primere-am-tech-sla-600",
+ "status": "publish",
+ "type": "news",
+ "link": "https://am-tech.ru/news/sla-3d-printery-v-promyshlennosti-obzor-tehnologii-na-primere-am-tech-sla-600/",
+ "title": {
+  "raw": "SLA 3D-принтеры в промышленности: обзор технологии на примере AM.TECH SLA-600",
+  "rendered": "SLA 3D-принтеры в промышленности: обзор технологии на примере AM.TECH SLA-600"
+ },
+ "content": {
+  "raw": "<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n<p class=\"\"><a href=\"https://am-tech.ru/katalog/promyshlennye-3d-printery-po-sla-i-keramike/sla-3d-printery/\"><strong data-start=\"382\" data-end=\"401\">SLA 3D-принтеры</strong></a> занимают особое место в мире аддитивного производства благодаря высокой точности, качеству поверхности и стабильности результатов. Технология стереолитографии (SLA) широко применяется там, где к изделиям предъявляются повышенные требования по геометрии, детализации и повторяемости. Рассмотрим принцип работы и возможности <strong data-start=\"725\" data-end=\"760\">фотополимерного 3D-принтера SLA</strong> на примере промышленной модели <a href=\"https://am-tech.ru/product/sla-600/\"><strong data-start=\"792\" data-end=\"811\">AM.TECH SLA-600</strong></a>.</p>\r\n\r\n<h2 class=\"\">Что такое SLA-печать и чем она отличается</h2>\r\n<p class=\"\" data-start=\"860\" data-end=\"1214\"><strong data-start=\"860\" data-end=\"874\">SLA-печать</strong> (Stereolithography Apparatus) — это метод <strong data-start=\"917\" data-end=\"930\">3D-печати</strong>, при котором изделие формируется послойно за счёт отверждения жидкой фотополимерной смолы под воздействием ультрафиолетового излучения. В отличие от экструзионных технологий, SLA позволяет получать детали с минимальными слоями, высокой точностью и практически идеальной поверхностью.</p>\r\n<p class=\"\" data-start=\"1216\" data-end=\"1348\">Именно поэтому <strong data-start=\"1231\" data-end=\"1247\">SLA-принтеры</strong> активно используются в промышленном прототипировании, инженерии, медицине и авиакосмической отрасли.</p>\r\n\r\n<h2 class=\"\" data-start=\"1216\" data-end=\"1348\">SLA-600 от AM.TECH — промышленный стандарт крупноформатной печати</h2>\r\n<p class=\"\" data-start=\"1420\" data-end=\"1687\"><strong data-start=\"1420\" data-end=\"1431\">SLA-600</strong> — это современный <strong data-start=\"1450\" data-end=\"1477\">промышленный 3D-принтер</strong>, разработанный для создания крупногабаритных изделий методом стереолитографии. Модель ориентирована на предприятия, которым требуется сочетание масштабности, точности и стабильности производственного процесса.</p>\r\n<p class=\"\" data-start=\"1689\" data-end=\"1968\">Ключевая особенность SLA-800 — <strong data-start=\"1720\" data-end=\"1758\">рабочая область 600 × 600 × 400 мм</strong>, позволяющая изготавливать как крупные цельные детали, так и серии изделий за один цикл печати. Это делает принтер эффективным инструментом не только для прототипирования, но и для мелкосерийного производства.</p>\r\n\r\n<h2 class=\"\" data-start=\"1689\" data-end=\"1968\">Преимущества SLA 3D-принтера SLA-600</h2>\r\n<p class=\"\" data-start=\"2011\" data-end=\"2102\">Среди основных преимуществ, которые выделяют <strong data-start=\"2056\" data-end=\"2067\">SLA-600</strong> среди других <strong data-start=\"2081\" data-end=\"2101\">SLA 3D-принтеров</strong>:</p>\r\n\r\n<ul class=\"\" data-start=\"2104\" data-end=\"2521\">\r\n \t<li data-start=\"2104\" data-end=\"2204\">\r\n<p data-start=\"2106\" data-end=\"2204\"><strong data-start=\"2106\" data-end=\"2133\">Высокая точность печати</strong> — до 15 микрон, что критично для инженерных и функциональных деталей</p>\r\n</li>\r\n \t<li data-start=\"2205\" data-end=\"2297\">\r\n<p data-start=\"2207\" data-end=\"2297\"><strong data-start=\"2207\" data-end=\"2238\">Гладкая поверхность изделий</strong>, минимизирующая необходимость механической постобработки</p>\r\n</li>\r\n \t<li data-start=\"2298\" data-end=\"2355\">\r\n<p data-start=\"2300\" data-end=\"2355\"><strong data-start=\"2300\" data-end=\"2331\">Высокая скорость SLA-печати</strong> — до 35 мм/ч по оси Z</p>\r\n</li>\r\n \t<li data-start=\"2356\" data-end=\"2436\">\r\n<p data-start=\"2358\" data-end=\"2436\"><strong data-start=\"2358\" data-end=\"2384\">Крупноформатная печать</strong> без потери качества и геометрической стабильности</p>\r\n</li>\r\n \t<li data-start=\"2437\" data-end=\"2521\">\r\n<p data-start=\"2439\" data-end=\"2521\"><strong data-start=\"2439\" data-end=\"2488\">Поддержка различных фотополимерных материалов</strong> под разные задачи производства</p>\r\n</li>\r\n</ul>\r\n<p class=\"\" data-start=\"2523\" data-end=\"2682\">Благодаря этим характеристикам <strong data-start=\"2554\" data-end=\"2591\">фотополимерный 3D-принтер SLA-800</strong> применяется там, где стандартные решения уже не справляются с требованиями промышленности.</p>\r\n\r\n<h2 class=\"\" data-start=\"2523\" data-end=\"2682\">Принцип работы SLA-принтера</h2>\r\n<p class=\"\" data-start=\"2716\" data-end=\"3008\">Процесс печати на <strong data-start=\"2734\" data-end=\"2750\">SLA-принтере</strong> начинается с подготовки цифровой 3D-модели, которая в программном обеспечении нарезается на тонкие слои. Далее рабочая платформа позиционируется в ванне с фотополимерной смолой, а ультрафиолетовый лазер послойно отверждает материал строго по контуру модели.</p>\r\n<p class=\"\" data-start=\"3010\" data-end=\"3257\">После завершения печати изделие проходит обязательные этапы постобработки: удаление остатков смолы и финальное УФ-отверждение. Такой технологический цикл обеспечивает высокую точность, стабильные размеры и качественную поверхность готовых деталей.</p>\r\n\r\n<h2 class=\"\" data-start=\"3010\" data-end=\"3257\">Области применения SLA-печати</h2>\r\n<p class=\"\" data-start=\"3293\" data-end=\"3354\"><strong data-start=\"3293\" data-end=\"3312\">SLA 3D-принтеры</strong> широко используются в различных отраслях:</p>\r\n\r\n<ul class=\"\" data-start=\"3356\" data-end=\"3815\">\r\n \t<li data-start=\"3356\" data-end=\"3434\">\r\n<p data-start=\"3358\" data-end=\"3434\"><strong data-start=\"3358\" data-end=\"3387\">Промышленное производство</strong> — прототипы, оснастка, формы и мастер-модели</p>\r\n</li>\r\n \t<li data-start=\"3435\" data-end=\"3519\">\r\n<p data-start=\"3437\" data-end=\"3519\"><strong data-start=\"3437\" data-end=\"3459\">Автомобилестроение</strong> — детали интерьера и экстерьера, функциональные прототипы</p>\r\n</li>\r\n \t<li data-start=\"3520\" data-end=\"3589\">\r\n<p data-start=\"3522\" data-end=\"3589\"><strong data-start=\"3522\" data-end=\"3549\">Авиакосмическая отрасль</strong> — макеты и элементы сложной геометрии</p>\r\n</li>\r\n \t<li data-start=\"3590\" data-end=\"3668\">\r\n<p data-start=\"3592\" data-end=\"3668\"><strong data-start=\"3592\" data-end=\"3623\">Архитектура и строительство</strong> — масштабные макеты и элементы конструкций</p>\r\n</li>\r\n \t<li data-start=\"3669\" data-end=\"3741\">\r\n<p data-start=\"3671\" data-end=\"3741\"><strong data-start=\"3671\" data-end=\"3683\">Медицина</strong> — анатомические модели, протезы и хирургические шаблоны</p>\r\n</li>\r\n \t<li data-start=\"3742\" data-end=\"3815\">\r\n<p data-start=\"3744\" data-end=\"3815\"><strong data-start=\"3744\" data-end=\"3767\">Образование и наука</strong> — исследовательские и демонстрационные модели</p>\r\n</li>\r\n</ul>\r\n<h2 class=\"\">SLA-принтеры как часть промышленного аддитивного производства</h2>\r\n<p data-start=\"3883\" data-end=\"4095\">Сегодня <strong data-start=\"3891\" data-end=\"3923\">промышленные 3D-принтеры SLA</strong> становятся важной частью цифрового производства. Они позволяют сократить сроки разработки, снизить затраты на изготовление прототипов и повысить качество конечных изделий.</p>\r\n<p class=\"\" data-start=\"4097\" data-end=\"4304\">Для компаний, рассматривающих возможность <strong data-start=\"4139\" data-end=\"4164\">SLA 3D-принтер купить</strong>, модели уровня <strong data-start=\"4180\" data-end=\"4199\">AM.TECH SLA-600</strong> представляют собой долгосрочную инвестицию в технологическую независимость и эффективность производства.</p>\r\n\r\n<h2 class=\"\" data-start=\"4097\" data-end=\"4304\">Заключение</h2>\r\n<p class=\"\"><strong data-start=\"4321\" data-end=\"4343\">SLA-600 от AM.TECH</strong> — это не просто <strong data-start=\"4360\" data-end=\"4378\">принтер 3D SLA</strong>, а полноценный инструмент промышленного аддитивного производства. Он наглядно демонстрирует, как <strong data-start=\"4476\" data-end=\"4490\">SLA-печать</strong> и <strong data-start=\"4493\" data-end=\"4509\">SLA-принтеры</strong> позволяют решать сложные инженерные задачи, работать с крупными форматами и получать изделия с высочайшим качеством поверхности.</p>\r\n\r\n<h3 class=\"\">Видео обзор</h3>\r\n[playlist type=\"video\" ids=\"3740\"]\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+  "rendered": "<div class=\"boldgrid-section\">\n<div class=\"container\">\n<div class=\"row\">\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\n<p class=\"\"><a href=\"https://am-tech.ru/katalog/promyshlennye-3d-printery-po-sla-i-keramike/sla-3d-printery/\"><strong data-start=\"382\" data-end=\"401\">SLA 3D-принтеры</strong></a> занимают особое место в мире аддитивного производства благодаря высокой точности, качеству поверхности и стабильности результатов. Технология стереолитографии (SLA) широко применяется там, где к изделиям предъявляются повышенные требования по геометрии, детализации и повторяемости. Рассмотрим принцип работы и возможности <strong data-start=\"725\" data-end=\"760\">фотополимерного 3D-принтера SLA</strong> на примере промышленной модели <a href=\"https://am-tech.ru/product/sla-600/\"><strong data-start=\"792\" data-end=\"811\">AM.TECH SLA-600</strong></a>.</p>\n<h2 class=\"\">Что такое SLA-печать и чем она отличается</h2>\n<p class=\"\" data-start=\"860\" data-end=\"1214\"><strong data-start=\"860\" data-end=\"874\">SLA-печать</strong> (Stereolithography Apparatus) — это метод <strong data-start=\"917\" data-end=\"930\">3D-печати</strong>, при котором изделие формируется послойно за счёт отверждения жидкой фотополимерной смолы под воздействием ультрафиолетового излучения. В отличие от экструзионных технологий, SLA позволяет получать детали с минимальными слоями, высокой точностью и практически идеальной поверхностью.</p>\n<p class=\"\" data-start=\"1216\" data-end=\"1348\">Именно поэтому <strong data-start=\"1231\" data-end=\"1247\">SLA-принтеры</strong> активно используются в промышленном прототипировании, инженерии, медицине и авиакосмической отрасли.</p>\n<h2 class=\"\" data-start=\"1216\" data-end=\"1348\">SLA-600 от AM.TECH — промышленный стандарт крупноформатной печати</h2>\n<p class=\"\" data-start=\"1420\" data-end=\"1687\"><strong data-start=\"1420\" data-end=\"1431\">SLA-600</strong> — это современный <strong data-start=\"1450\" data-end=\"1477\">промышленный 3D-принтер</strong>, разработанный для создания крупногабаритных изделий методом стереолитографии. Модель ориентирована на предприятия, которым требуется сочетание масштабности, точности и стабильности производственного процесса.</p>\n<p class=\"\" data-start=\"1689\" data-end=\"1968\">Ключевая особенность SLA-800 — <strong data-start=\"1720\" data-end=\"1758\">рабочая область 600 × 600 × 400 мм</strong>, позволяющая изготавливать как крупные цельные детали, так и серии изделий за один цикл печати. Это делает принтер эффективным инструментом не только для прототипирования, но и для мелкосерийного производства.</p>\n<h2 class=\"\" data-start=\"1689\" data-end=\"1968\">Преимущества SLA 3D-принтера SLA-600</h2>\n<p class=\"\" data-start=\"2011\" data-end=\"2102\">Среди основных преимуществ, которые выделяют <strong data-start=\"2056\" data-end=\"2067\">SLA-600</strong> среди других <strong data-start=\"2081\" data-end=\"2101\">SLA 3D-принтеров</strong>:</p>\n<ul class=\"\" data-start=\"2104\" data-end=\"2521\">\n<li data-start=\"2104\" data-end=\"2204\">\n<p data-start=\"2106\" data-end=\"2204\"><strong data-start=\"2106\" data-end=\"2133\">Высокая точность печати</strong> — до 15 микрон, что критично для инженерных и функциональных деталей</p>\n</li>\n<li data-start=\"2205\" data-end=\"2297\">\n<p data-start=\"2207\" data-end=\"2297\"><strong data-start=\"2207\" data-end=\"2238\">Гладкая поверхность изделий</strong>, минимизирующая необходимость механической постобработки</p>\n</li>\n<li data-start=\"2298\" data-end=\"2355\">\n<p data-start=\"2300\" data-end=\"2355\"><strong data-start=\"2300\" data-end=\"2331\">Высокая скорость SLA-печати</strong> — до 35 мм/ч по оси Z</p>\n</li>\n<li data-start=\"2356\" data-end=\"2436\">\n<p data-start=\"2358\" data-end=\"2436\"><strong data-start=\"2358\" data-end=\"2384\">Крупноформатная печать</strong> без потери качества и геометрической стабильности</p>\n</li>\n<li data-start=\"2437\" data-end=\"2521\">\n<p data-start=\"2439\" data-end=\"2521\"><strong data-start=\"2439\" data-end=\"2488\">Поддержка различных фотополимерных материалов</strong> под разные задачи производства</p>\n</li>\n</ul>\n<p class=\"\" data-start=\"2523\" data-end=\"2682\">Благодаря этим характеристикам <strong data-start=\"2554\" data-end=\"2591\">фотополимерный 3D-принтер SLA-800</strong> применяется там, где стандартные решения уже не справляются с требованиями промышленности.</p>\n<h2 class=\"\" data-start=\"2523\" data-end=\"2682\">Принцип работы SLA-принтера</h2>\n<p class=\"\" data-start=\"2716\" data-end=\"3008\">Процесс печати на <strong data-start=\"2734\" data-end=\"2750\">SLA-принтере</strong> начинается с подготовки цифровой 3D-модели, которая в программном обеспечении нарезается на тонкие слои. Далее рабочая платформа позиционируется в ванне с фотополимерной смолой, а ультрафиолетовый лазер послойно отверждает материал строго по контуру модели.</p>\n<p class=\"\" data-start=\"3010\" data-end=\"3257\">После завершения печати изделие проходит обязательные этапы постобработки: удаление остатков смолы и финальное УФ-отверждение. Такой технологический цикл обеспечивает высокую точность, стабильные размеры и качественную поверхность готовых деталей.</p>\n<h2 class=\"\" data-start=\"3010\" data-end=\"3257\">Области применения SLA-печати</h2>\n<p class=\"\" data-start=\"3293\" data-end=\"3354\"><strong data-start=\"3293\" data-end=\"3312\">SLA 3D-принтеры</strong> широко используются в различных отраслях:</p>\n<ul class=\"\" data-start=\"3356\" data-end=\"3815\">\n<li data-start=\"3356\" data-end=\"3434\">\n<p data-start=\"3358\" data-end=\"3434\"><strong data-start=\"3358\" data-end=\"3387\">Промышленное производство</strong> — прототипы, оснастка, формы и мастер-модели</p>\n</li>\n<li data-start=\"3435\" data-end=\"3519\">\n<p data-start=\"3437\" data-end=\"3519\"><strong data-start=\"3437\" data-end=\"3459\">Автомобилестроение</strong> — детали интерьера и экстерьера, функциональные прототипы</p>\n</li>\n<li data-start=\"3520\" data-end=\"3589\">\n<p data-start=\"3522\" data-end=\"3589\"><strong data-start=\"3522\" data-end=\"3549\">Авиакосмическая отрасль</strong> — макеты и элементы сложной геометрии</p>\n</li>\n<li data-start=\"3590\" data-end=\"3668\">\n<p data-start=\"3592\" data-end=\"3668\"><strong data-start=\"3592\" data-end=\"3623\">Архитектура и строительство</strong> — масштабные макеты и элементы конструкций</p>\n</li>\n<li data-start=\"3669\" data-end=\"3741\">\n<p data-start=\"3671\" data-end=\"3741\"><strong data-start=\"3671\" data-end=\"3683\">Медицина</strong> — анатомические модели, протезы и хирургические шаблоны</p>\n</li>\n<li data-start=\"3742\" data-end=\"3815\">\n<p data-start=\"3744\" data-end=\"3815\"><strong data-start=\"3744\" data-end=\"3767\">Образование и наука</strong> — исследовательские и демонстрационные модели</p>\n</li>\n</ul>\n<h2 class=\"\">SLA-принтеры как часть промышленного аддитивного производства</h2>\n<p data-start=\"3883\" data-end=\"4095\">Сегодня <strong data-start=\"3891\" data-end=\"3923\">промышленные 3D-принтеры SLA</strong> становятся важной частью цифрового производства. Они позволяют сократить сроки разработки, снизить затраты на изготовление прототипов и повысить качество конечных изделий.</p>\n<p class=\"\" data-start=\"4097\" data-end=\"4304\">Для компаний, рассматривающих возможность <strong data-start=\"4139\" data-end=\"4164\">SLA 3D-принтер купить</strong>, модели уровня <strong data-start=\"4180\" data-end=\"4199\">AM.TECH SLA-600</strong> представляют собой долгосрочную инвестицию в технологическую независимость и эффективность производства.</p>\n<h2 class=\"\" data-start=\"4097\" data-end=\"4304\">Заключение</h2>\n<p class=\"\"><strong data-start=\"4321\" data-end=\"4343\">SLA-600 от AM.TECH</strong> — это не просто <strong data-start=\"4360\" data-end=\"4378\">принтер 3D SLA</strong>, а полноценный инструмент промышленного аддитивного производства. Он наглядно демонстрирует, как <strong data-start=\"4476\" data-end=\"4490\">SLA-печать</strong> и <strong data-start=\"4493\" data-end=\"4509\">SLA-принтеры</strong> позволяют решать сложные инженерные задачи, работать с крупными форматами и получать изделия с высочайшим качеством поверхности.</p>\n<h3 class=\"\">Видео обзор</h3>\n<div class=\"wp-playlist wp-video-playlist wp-playlist-light\">\n\t\t<video controls=\"controls\" preload=\"none\" width=\"640\"\n\t\t height=\"360\"\t></video>\n\t<div class=\"wp-playlist-next\"></div>\n\t<div class=\"wp-playlist-prev\"></div>\n\t<noscript>\n\t<ol>\n\t\t<li><a href='https://am-tech.ru/wp-content/uploads/2026/01/stereolitografija-sla-obzor-tehnologii-3d-pechati.m4v'>Стереолитография (Sla) Обзор Технологии 3Д Печати</a></li>\t</ol>\n\t</noscript>\n\t<script type=\"application/json\" class=\"wp-playlist-script\">{\"type\":\"video\",\"tracklist\":true,\"tracknumbers\":true,\"images\":true,\"artists\":true,\"tracks\":[{\"src\":\"https://am-tech.ru/wp-content/uploads/2026/01/stereolitografija-sla-obzor-tehnologii-3d-pechati.m4v\",\"type\":\"video/mp4\",\"title\":\"\\u0421\\u0442\\u0435\\u0440\\u0435\\u043e\\u043b\\u0438\\u0442\\u043e\\u0433\\u0440\\u0430\\u0444\\u0438\\u044f (Sla) \\u041e\\u0431\\u0437\\u043e\\u0440 \\u0422\\u0435\\u0445\\u043d\\u043e\\u043b\\u043e\\u0433\\u0438\\u0438 3\\u0414 \\u041f\\u0435\\u0447\\u0430\\u0442\\u0438\",\"caption\":\"\",\"description\":\"\",\"meta\":{\"length_formatted\":\"3:05\"},\"dimensions\":{\"original\":{\"width\":1280,\"height\":720},\"resized\":{\"width\":640,\"height\":360}},\"image\":{\"src\":\"https://am-tech.ru/wp-includes/images/media/video.svg\",\"width\":48,\"height\":64},\"thumb\":{\"src\":\"https://am-tech.ru/wp-includes/images/media/video.svg\",\"width\":48,\"height\":64}}]}</script>\n</div>\n\t\n</div>\n</div>\n</div>\n</div>\n",
+  "protected": false,
+  "block_version": 0
+ },
+ "excerpt": {
+  "raw": "",
+  "rendered": "<p>SLA 3D-принтеры занимают особое место в мире аддитивного производства благодаря высокой точности, качеству поверхности и стабильности результатов. Технология стереолитографии (SLA) широко применяется там, где к изделиям предъявляются повышенные требования по геометрии, детализации и повторяемости. Рассмотрим принцип работы и возможности фотополимерного 3D-принтера SLA на примере промышленной модели AM.TECH SLA-600. Что такое SLA-печать и чем она отличается [&hellip;]</p>\n",
+  "protected": false
+ },
+ "author": 1,
+ "featured_media": 2382,
+ "comment_status": "open",
+ "ping_status": "closed",
+ "template": "",
+ "meta": {
+  "_acf_changed": false,
+  "_yoast_wpseo_title": "",
+  "_yoast_wpseo_metadesc": "SLA 3D-принтер SLA-600 от AM.TECH — промышленный фотополимерный 3D-принтер для крупноформатной SLA-печати с высокой точностью и качеством поверхности.",
+  "_yoast_wpseo_meta-robots-noindex": ""
+ },
+ "news_category": [
+  1216
+ ],
+ "news_tag": [
+  1232,
+  1252,
+  1226,
+  1234
+ ],
+ "permalink_template": "https://am-tech.ru/news/%pagename%/",
+ "generated_slug": "sla-3d-printery-v-promyshlennosti-obzor-tehnologii-na-primere-am-tech-sla-600",
+ "class_list": [
+  "post-3795",
+  "news",
+  "type-news",
+  "status-publish",
+  "has-post-thumbnail",
+  "hentry",
+  "news_category-tehnologii-sla-i-3d-pechat-keramikoj",
+  "news_tag-industrija-additivnyh-tehnologij",
+  "news_tag-prezentacii-tehnologij",
+  "news_tag-promyshlennaja-pechat",
+  "news_tag-razrabotki-am-tech"
+ ],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>SLA 3D-принтеры в промышленности: обзор технологии на примере AM.TECH SLA-600 - am-tech.ru</title>\n<meta name=\"description\" content=\"SLA 3D-принтер SLA-600 от AM.TECH — промышленный фотополимерный 3D-принтер для крупноформатной SLA-печати с высокой точностью и качеством поверхности.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/news/sla-3d-printery-v-promyshlennosti-obzor-tehnologii-na-primere-am-tech-sla-600/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"SLA 3D-принтеры в промышленности: обзор технологии на примере AM.TECH SLA-600 - am-tech.ru\" />\n<meta property=\"og:description\" content=\"SLA 3D-принтер SLA-600 от AM.TECH — промышленный фотополимерный 3D-принтер для крупноформатной SLA-печати с высокой точностью и качеством поверхности.\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/news/sla-3d-printery-v-promyshlennosti-obzor-tehnologii-na-primere-am-tech-sla-600/\" />\n<meta property=\"og:site_name\" content=\"am-tech.ru\" />\n<meta property=\"article:modified_time\" content=\"2026-01-27T12:01:53+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2025/09/lbiuq248l6jrwc0kks3o8jeas6dqzd7a.jpg\" />\n\t<meta property=\"og:image:width\" content=\"2500\" />\n\t<meta property=\"og:image:height\" content=\"1667\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"3 минуты\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/news/sla-3d-printery-v-promyshlennosti-obzor-tehnologii-na-primere-am-tech-sla-600/\",\"url\":\"https://am-tech.ru/news/sla-3d-printery-v-promyshlennosti-obzor-tehnologii-na-primere-am-tech-sla-600/\",\"name\":\"SLA 3D-принтеры в промышленности: обзор технологии на примере AM.TECH SLA-600 - am-tech.ru\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/news/sla-3d-printery-v-promyshlennosti-obzor-tehnologii-na-primere-am-tech-sla-600/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/news/sla-3d-printery-v-promyshlennosti-obzor-tehnologii-na-primere-am-tech-sla-600/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2025/09/lbiuq248l6jrwc0kks3o8jeas6dqzd7a.jpg\",\"datePublished\":\"2026-01-27T11:55:14+00:00\",\"dateModified\":\"2026-01-27T12:01:53+00:00\",\"description\":\"SLA 3D-принтер SLA-600 от AM.TECH — промышленный фотополимерный 3D-принтер для крупноформатной SLA-печати с высокой точностью и качеством поверхности.\",\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/news/sla-3d-printery-v-promyshlennosti-obzor-tehnologii-na-primere-am-tech-sla-600/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/news/sla-3d-printery-v-promyshlennosti-obzor-tehnologii-na-primere-am-tech-sla-600/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2025/09/lbiuq248l6jrwc0kks3o8jeas6dqzd7a.jpg\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2025/09/lbiuq248l6jrwc0kks3o8jeas6dqzd7a.jpg\",\"width\":2500,\"height\":1667},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"am-tech.ru\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"am-tech.ru\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"am-tech.ru\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "SLA 3D-принтеры в промышленности: обзор технологии на примере AM.TECH SLA-600 - am-tech.ru",
+  "description": "SLA 3D-принтер SLA-600 от AM.TECH — промышленный фотополимерный 3D-принтер для крупноформатной SLA-печати с высокой точностью и качеством поверхности.",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/news/sla-3d-printery-v-promyshlennosti-obzor-tehnologii-na-primere-am-tech-sla-600/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "SLA 3D-принтеры в промышленности: обзор технологии на примере AM.TECH SLA-600 - am-tech.ru",
+  "og_description": "SLA 3D-принтер SLA-600 от AM.TECH — промышленный фотополимерный 3D-принтер для крупноформатной SLA-печати с высокой точностью и качеством поверхности.",
+  "og_url": "https://am-tech.ru/news/sla-3d-printery-v-promyshlennosti-obzor-tehnologii-na-primere-am-tech-sla-600/",
+  "og_site_name": "am-tech.ru",
+  "article_modified_time": "2026-01-27T12:01:53+00:00",
+  "og_image": [
+   {
+    "width": 2500,
+    "height": 1667,
+    "url": "https://am-tech.ru/wp-content/uploads/2025/09/lbiuq248l6jrwc0kks3o8jeas6dqzd7a.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "3 минуты"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/news/sla-3d-printery-v-promyshlennosti-obzor-tehnologii-na-primere-am-tech-sla-600/",
+     "url": "https://am-tech.ru/news/sla-3d-printery-v-promyshlennosti-obzor-tehnologii-na-primere-am-tech-sla-600/",
+     "name": "SLA 3D-принтеры в промышленности: обзор технологии на примере AM.TECH SLA-600 - am-tech.ru",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/news/sla-3d-printery-v-promyshlennosti-obzor-tehnologii-na-primere-am-tech-sla-600/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/news/sla-3d-printery-v-promyshlennosti-obzor-tehnologii-na-primere-am-tech-sla-600/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2025/09/lbiuq248l6jrwc0kks3o8jeas6dqzd7a.jpg",
+     "datePublished": "2026-01-27T11:55:14+00:00",
+     "dateModified": "2026-01-27T12:01:53+00:00",
+     "description": "SLA 3D-принтер SLA-600 от AM.TECH — промышленный фотополимерный 3D-принтер для крупноформатной SLA-печати с высокой точностью и качеством поверхности.",
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/news/sla-3d-printery-v-promyshlennosti-obzor-tehnologii-na-primere-am-tech-sla-600/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/news/sla-3d-printery-v-promyshlennosti-obzor-tehnologii-na-primere-am-tech-sla-600/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2025/09/lbiuq248l6jrwc0kks3o8jeas6dqzd7a.jpg",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2025/09/lbiuq248l6jrwc0kks3o8jeas6dqzd7a.jpg",
+     "width": 2500,
+     "height": 1667
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "am-tech.ru",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "am-tech.ru",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "am-tech.ru"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3795",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/types/news"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/users/1"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/comments?post=3795"
+   }
+  ],
+  "wp:featuredmedia": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/media/2382"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/media?parent=3795"
+   }
+  ],
+  "wp:term": [
+   {
+    "taxonomy": "news_category",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_category?post=3795"
+   },
+   {
+    "taxonomy": "news_tag",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_tag?post=3795"
+   }
+  ],
+  "wp:action-publish": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3795"
+   }
+  ],
+  "wp:action-unfiltered-html": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3795"
+   }
+  ],
+  "wp:action-assign-author": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3795"
+   }
+  ],
+  "wp:action-create-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3795"
+   }
+  ],
+  "wp:action-assign-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3795"
+   }
+  ],
+  "wp:action-create-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3795"
+   }
+  ],
+  "wp:action-assign-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3795"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

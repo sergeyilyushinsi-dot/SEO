@@ -1,0 +1,39 @@
+[
+ {
+  "plan_task": 18,
+  "label": "Описание категории (HTML): второй H1",
+  "before_text": "<h1>Промышленные 3D-принтеры по SLA и керамике: высокоточная печать</h1>",
+  "after_text": "<h2>Промышленные 3D-принтеры по SLA и керамике: высокоточная печать</h2>",
+  "comment": "Второй H1 страницы стоит в тексте описания; H1 из шаблона остаётся",
+  "type": "category",
+  "slug": "promyshlennye-3d-printery-po-sla-i-keramike",
+  "field": "body",
+  "old": "<h1>Промышленные 3D-принтеры по SLA и керамике: высокоточная печать</h1>",
+  "value": "<h2>Промышленные 3D-принтеры по SLA и керамике: высокоточная печать</h2>",
+  "row": 158
+ },
+ {
+  "plan_task": 2,
+  "label": "Статус страницы",
+  "before_text": "Опубликовано",
+  "after_text": "Черновик",
+  "comment": "Только после того как заработает 301 /o-kompanii-new/ → /o-kompanii/ (инструкция, шаг 2)",
+  "type": "page",
+  "slug": "o-kompanii-new",
+  "field": "status",
+  "value": "draft",
+  "row": 159
+ },
+ {
+  "plan_task": 50,
+  "label": "Статус страницы",
+  "before_text": "Опубликовано",
+  "after_text": "Черновик",
+  "comment": "Только после того как заработает 301 на основную страницу (инструкция, шаг 2)",
+  "type": "page",
+  "slug": "kompleksnye-reshenija-dlja-promyshlennosti3",
+  "field": "status",
+  "value": "draft",
+  "row": 160
+ }
+]

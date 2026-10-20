@@ -1,0 +1,48 @@
+[
+ {
+  "plan_task": 44,
+  "label": "Категория товара",
+  "before_text": "default (без категории)",
+  "after_text": "3D-сканеры",
+  "comment": "Как остальные модели TrackScan",
+  "slug": "lazernyj-treker-trackscan-p42",
+  "field": "categories",
+  "value": [
+   24
+  ],
+  "row": 35,
+  "type": "product",
+  "id": 1578,
+  "url": "https://am-tech.ru/product/lazernyj-treker-trackscan-p42/",
+  "before": [
+   15
+  ],
+  "after": [
+   24
+  ],
+  "saved": true,
+  "on_page": null,
+  "on_cached_page": null,
+  "status": "применено"
+ },
+ {
+  "plan_task": 16,
+  "label": "Title (Yoast)",
+  "before_text": "Лазерный трекер TrackScan P42 - заказать у производителя с доставкой по России | AM-Tech",
+  "after_text": "Лазерный трекер TrackScan P42 — купить с доставкой по России | AM-Tech",
+  "comment": "Было 88 симв., стало 70 симв. «У производителя» убрано: в карточке страна производства — Китай",
+  "slug": "lazernyj-treker-trackscan-p42",
+  "field": "title",
+  "value": "Лазерный трекер TrackScan P42 — купить с доставкой по России | AM-Tech",
+  "row": 60,
+  "type": "product",
+  "id": 1578,
+  "url": "https://am-tech.ru/product/lazernyj-treker-trackscan-p42/",
+  "before": "Лазерный трекер TrackScan P42 - заказать у производителя с доставкой по России | AM-Tech",
+  "after": "Лазерный трекер TrackScan P42 — купить с доставкой по России | AM-Tech",
+  "saved": true,
+  "on_page": true,
+  "on_cached_page": true,
+  "status": "применено"
+ }
+]

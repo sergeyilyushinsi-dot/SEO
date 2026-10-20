@@ -1,0 +1,68 @@
+[
+ {
+  "plan_task": 15,
+  "label": "Название товара (H1)",
+  "before_text": "M-160G",
+  "after_text": "SLM 3D-принтер M-160G",
+  "comment": "H1 и название в каталоге — только модель, без типа оборудования. Название меняется и в карточках каталога, хлебных крошках и форме КП",
+  "slug": "am-tech-m-160g",
+  "field": "name",
+  "value": "SLM 3D-принтер M-160G",
+  "row": 21,
+  "type": "product",
+  "id": 1707,
+  "url": "https://am-tech.ru/product/am-tech-m-160g/",
+  "before": "M-160G",
+  "after": "SLM 3D-принтер M-160G",
+  "saved": true,
+  "on_page": true,
+  "on_cached_page": true,
+  "status": "применено"
+ },
+ {
+  "plan_task": 9,
+  "label": "Категория товара",
+  "before_text": "default (без категории)",
+  "after_text": "SLM 3D-принтеры",
+  "comment": "Печать медью зелёным лазером — по описанию карточки",
+  "slug": "am-tech-m-160g",
+  "field": "categories",
+  "value": [
+   18
+  ],
+  "row": 28,
+  "type": "product",
+  "id": 1707,
+  "url": "https://am-tech.ru/product/am-tech-m-160g/",
+  "before": [
+   15
+  ],
+  "after": [
+   18
+  ],
+  "saved": true,
+  "on_page": null,
+  "on_cached_page": null,
+  "status": "применено"
+ },
+ {
+  "plan_task": 9,
+  "label": "Title (Yoast)",
+  "before_text": "SLM 3D-принтер M-160G - заказать у производителя с доставкой по России | AM-Tech",
+  "after_text": "SLM 3D-принтер M-160G с зелёным лазером для печати медью | AM-Tech",
+  "comment": "Было 80 симв., стало 66 симв. «У производителя» убрано: в карточке страна производства — Китай",
+  "slug": "am-tech-m-160g",
+  "field": "title",
+  "value": "SLM 3D-принтер M-160G с зелёным лазером для печати медью | AM-Tech",
+  "row": 40,
+  "type": "product",
+  "id": 1707,
+  "url": "https://am-tech.ru/product/am-tech-m-160g/",
+  "before": "SLM 3D-принтер M-160G - заказать у производителя с доставкой по России | AM-Tech",
+  "after": "SLM 3D-принтер M-160G с зелёным лазером для печати медью | AM-Tech",
+  "saved": true,
+  "on_page": true,
+  "on_cached_page": true,
+  "status": "применено"
+ }
+]

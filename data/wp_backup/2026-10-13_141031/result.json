@@ -1,0 +1,42 @@
+[
+ {
+  "plan_task": 15,
+  "label": "Название товара (H1)",
+  "before_text": "AMT-16",
+  "after_text": "SLM 3D-принтер AMT-16",
+  "comment": "H1 и название в каталоге — только модель, без типа оборудования. Название меняется и в карточках каталога, хлебных крошках и форме КП",
+  "slug": "amt-16",
+  "field": "name",
+  "value": "SLM 3D-принтер AMT-16",
+  "row": 25,
+  "type": "product",
+  "id": 1377,
+  "url": "https://am-tech.ru/product/amt-16/",
+  "before": "AMT-16",
+  "after": "SLM 3D-принтер AMT-16",
+  "saved": true,
+  "on_page": true,
+  "on_cached_page": true,
+  "status": "применено"
+ },
+ {
+  "plan_task": 16,
+  "label": "Title (Yoast)",
+  "before_text": "SLM 3D - принтер AMT-16 - заказать у производителя с доставкой по России | AM-Tech",
+  "after_text": "SLM 3D-принтер AMT-16 — купить у производителя | AM-Tech",
+  "comment": "Было 82 симв., стало 56 симв.",
+  "slug": "amt-16",
+  "field": "title",
+  "value": "SLM 3D-принтер AMT-16 — купить у производителя | AM-Tech",
+  "row": 81,
+  "type": "product",
+  "id": 1377,
+  "url": "https://am-tech.ru/product/amt-16/",
+  "before": "SLM 3D - принтер AMT-16 - заказать у производителя с доставкой по России | AM-Tech",
+  "after": "SLM 3D-принтер AMT-16 — купить у производителя | AM-Tech",
+  "saved": true,
+  "on_page": true,
+  "on_cached_page": true,
+  "status": "применено"
+ }
+]

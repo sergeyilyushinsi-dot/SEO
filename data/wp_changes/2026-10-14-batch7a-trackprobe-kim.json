@@ -1,0 +1,112 @@
+[
+ {
+  "plan_task": 42,
+  "label": "Description (Yoast)",
+  "before_text": "Лазерный трекер TrackProbe P — надежный инструмент для 3D-измерений. Удобный зонд и высокая производительность при контроле качества. Демонстрация: +7 (495) 109 11 91.",
+  "after_text": "TrackProbe P — портативная измерительная система: оптический трекер и беспроводной щуп i-Probe для измерения отверстий и скрытых точек. Демо: +7 (495) 109 11 91",
+  "comment": "Было 167 симв., стало 160. Факты — из характеристик и описания карточки",
+  "slug": "lazernyj-treker-trackprobe-p",
+  "field": "description",
+  "value": "TrackProbe P — портативная измерительная система: оптический трекер и беспроводной щуп i-Probe для измерения отверстий и скрытых точек. Демо: +7 (495) 109 11 91",
+  "row": 169
+ },
+ {
+  "plan_task": 42,
+  "label": "Description (Yoast)",
+  "before_text": "Лазерный трекер TrackProbe Sharp: сверхточные контактные измерения для сложных инженерных задач. Идеальное решение для контроля. Консультация: +7 (495) 109 11 91.",
+  "after_text": "TrackProbe Sharp — оптический трекер с беспроводным щупом i-Probe: повторяемость 0,025 мм, объекты от 0,1 до 12 м. Демонстрация: +7 (495) 109 11 91",
+  "comment": "Было 162 симв., стало 147. Факты — из характеристик и описания карточки",
+  "slug": "lazernyj-treker-trackprobe-sharp",
+  "field": "description",
+  "value": "TrackProbe Sharp — оптический трекер с беспроводным щупом i-Probe: повторяемость 0,025 мм, объекты от 0,1 до 12 м. Демонстрация: +7 (495) 109 11 91",
+  "row": 170
+ },
+ {
+  "plan_task": 42,
+  "label": "Description (Yoast)",
+  "before_text": "Лазерный трекер TrackProbe Sharp E для высокоточных измерений. Расширенные функции и максимальная точность контроля геометрии. Закажите демонстрацию: +7 (495) 109 11 91.",
+  "after_text": "TrackProbe Sharp E — трекер со щупом i-Probe: точность 0,033 мм в объёме 10,4 м³, объекты от 0,1 до 12 м. Демонстрация: +7 (495) 109 11 91",
+  "comment": "Было 169 симв., стало 138. Факты — из характеристик и описания карточки",
+  "slug": "lazernyj-treker-trackprobe-sharp-e",
+  "field": "description",
+  "value": "TrackProbe Sharp E — трекер со щупом i-Probe: точность 0,033 мм в объёме 10,4 м³, объекты от 0,1 до 12 м. Демонстрация: +7 (495) 109 11 91",
+  "row": 171
+ },
+ {
+  "plan_task": 13,
+  "label": "Статус товара",
+  "before_text": "Опубликован",
+  "after_text": "Черновик",
+  "comment": "КИМ ведёт i3d.ru (решение клиента 14.10). Только после 301 на i3d.ru (правка 172)",
+  "slug": "koordinatno-izmeritelnaja-mashina-fly",
+  "field": "status",
+  "value": "draft",
+  "row": 173
+ },
+ {
+  "plan_task": 13,
+  "label": "Статус товара",
+  "before_text": "Опубликован",
+  "after_text": "Черновик",
+  "comment": "КИМ ведёт i3d.ru (решение клиента 14.10). Только после 301 на i3d.ru (правка 172)",
+  "slug": "koordinatno-izmeritelnaja-mashina-dragon",
+  "field": "status",
+  "value": "draft",
+  "row": 174
+ },
+ {
+  "plan_task": 13,
+  "label": "Статус товара",
+  "before_text": "Опубликован",
+  "after_text": "Черновик",
+  "comment": "КИМ ведёт i3d.ru (решение клиента 14.10). Только после 301 на i3d.ru (правка 172)",
+  "slug": "koordinatno-izmeritelnaja-mashina-top",
+  "field": "status",
+  "value": "draft",
+  "row": 175
+ },
+ {
+  "plan_task": 13,
+  "label": "Статус товара",
+  "before_text": "Опубликован",
+  "after_text": "Черновик",
+  "comment": "КИМ ведёт i3d.ru (решение клиента 14.10). Только после 301 на i3d.ru (правка 172)",
+  "slug": "koordinatno-izmeritelnaja-mashina-expert",
+  "field": "status",
+  "value": "draft",
+  "row": 176
+ },
+ {
+  "plan_task": 13,
+  "label": "Статус товара",
+  "before_text": "Опубликован",
+  "after_text": "Черновик",
+  "comment": "КИМ ведёт i3d.ru (решение клиента 14.10). Только после 301 на i3d.ru (правка 172)",
+  "slug": "koordinatno-izmeritelnaja-mashina-great-d",
+  "field": "status",
+  "value": "draft",
+  "row": 177
+ },
+ {
+  "plan_task": 13,
+  "label": "Статус товара",
+  "before_text": "Опубликован",
+  "after_text": "Черновик",
+  "comment": "КИМ ведёт i3d.ru (решение клиента 14.10). Только после 301 на i3d.ru (правка 172)",
+  "slug": "great",
+  "field": "status",
+  "value": "draft",
+  "row": 178
+ },
+ {
+  "plan_task": 13,
+  "label": "Статус товара",
+  "before_text": "Опубликован",
+  "after_text": "Черновик",
+  "comment": "КИМ ведёт i3d.ru (решение клиента 14.10). Только после 301 на i3d.ru (правка 172)",
+  "slug": "smart",
+  "field": "status",
+  "value": "draft",
+  "row": 179
+ }
+]

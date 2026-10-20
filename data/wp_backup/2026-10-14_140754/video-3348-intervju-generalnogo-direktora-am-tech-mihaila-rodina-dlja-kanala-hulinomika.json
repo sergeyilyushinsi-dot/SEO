@@ -1,0 +1,284 @@
+{
+ "id": 3348,
+ "date": "2025-11-07T14:57:47",
+ "date_gmt": "2025-11-07T11:57:47",
+ "guid": {
+  "rendered": "https://am-tech.ru/?post_type=video_reviews&#038;p=3348",
+  "raw": "https://am-tech.ru/?post_type=video_reviews&#038;p=3348"
+ },
+ "modified": "2026-06-30T15:09:57",
+ "modified_gmt": "2026-06-30T12:09:57",
+ "password": "",
+ "slug": "intervju-generalnogo-direktora-am-tech-mihaila-rodina-dlja-kanala-hulinomika",
+ "status": "publish",
+ "type": "video_reviews",
+ "link": "https://am-tech.ru/video-reviews/intervju-generalnogo-direktora-am-tech-mihaila-rodina-dlja-kanala-hulinomika/",
+ "title": {
+  "raw": "Интервью генерального директора AM.TECH Михаила Родина для канала «Хулиномика»",
+  "rendered": "Интервью генерального директора AM.TECH Михаила Родина для канала «Хулиномика»"
+ },
+ "content": {
+  "raw": "<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n<p class=\"\">Основатель и генеральный директор группы компаний AM.TECH, i3D и СПИН Михаил Родин дал интервью для делового канала Telegram «Хулиномика», посвященного вопросам экономики.</p>\r\n<p class=\"\">Данный портал освещает вопросы экономики, инвестиций и развития разных сфер бизнеса, в том числе и промышленности, предоставляя площадку для открытого диалога с лидерами компаний. В ходе интервью были затронуты ключевые аспекты нашего развития и стратегические взгляды на отрасль: · Итоги многолетнего пути в отрасли: От создания первой компании до формирования полноценной группы компаний, объединяющей разработку, производство и внедрение отечественного аддитивного оборудования am.tech и его интеграцию в промышленные предприятия РФ ·</p>\r\n<p class=\"\">Стратегия развития: создание единой экосистемы аддитивных технологий в России — от разработки и производства оборудования до внедрения инновационных решений в аэрокосмической, медицинской и двигателестроительной отраслях. ·</p>\r\n<p class=\"\">Взгляд на рынок: Анализ текущих тенденций и перспектив развития аддитивных технологий в условиях импортозамещения и технологического суверенитета. · Инвестиционная программа: Раскрытие целей и задач привлечения инвестиций в нашу группу компаний Это выступление — возможность получить комплексное представление о нашей бизнес-модели, ценностях и стратегических приоритетах из первых уст.</p>\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+  "rendered": "<div class=\"boldgrid-section\">\n<div class=\"container\">\n<div class=\"row\">\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\n<p class=\"\">Основатель и генеральный директор группы компаний AM.TECH, i3D и СПИН Михаил Родин дал интервью для делового канала Telegram «Хулиномика», посвященного вопросам экономики.</p>\n<p class=\"\">Данный портал освещает вопросы экономики, инвестиций и развития разных сфер бизнеса, в том числе и промышленности, предоставляя площадку для открытого диалога с лидерами компаний. В ходе интервью были затронуты ключевые аспекты нашего развития и стратегические взгляды на отрасль: · Итоги многолетнего пути в отрасли: От создания первой компании до формирования полноценной группы компаний, объединяющей разработку, производство и внедрение отечественного аддитивного оборудования am.tech и его интеграцию в промышленные предприятия РФ ·</p>\n<p class=\"\">Стратегия развития: создание единой экосистемы аддитивных технологий в России — от разработки и производства оборудования до внедрения инновационных решений в аэрокосмической, медицинской и двигателестроительной отраслях. ·</p>\n<p class=\"\">Взгляд на рынок: Анализ текущих тенденций и перспектив развития аддитивных технологий в условиях импортозамещения и технологического суверенитета. · Инвестиционная программа: Раскрытие целей и задач привлечения инвестиций в нашу группу компаний Это выступление — возможность получить комплексное представление о нашей бизнес-модели, ценностях и стратегических приоритетах из первых уст.</p>\n</div>\n</div>\n</div>\n</div>\n",
+  "protected": false,
+  "block_version": 0
+ },
+ "excerpt": {
+  "raw": "",
+  "rendered": "<p>Основатель и генеральный директор группы компаний AM.TECH, i3D и СПИН Михаил Родин дал интервью для делового канала Telegram «Хулиномика», посвященного вопросам экономики. Данный портал освещает вопросы экономики, инвестиций и развития разных сфер бизнеса, в том числе и промышленности, предоставляя площадку для открытого диалога с лидерами компаний. В ходе интервью были затронуты ключевые аспекты нашего развития [&hellip;]</p>\n",
+  "protected": false
+ },
+ "author": 5,
+ "featured_media": 3349,
+ "comment_status": "open",
+ "ping_status": "closed",
+ "template": "",
+ "meta": {
+  "_acf_changed": false,
+  "_yoast_wpseo_title": "%%title%% %%page%% %%sep%%",
+  "_yoast_wpseo_metadesc": "Видео-версия интервью Михаила Родина для канала «Хулиномика». Смотрите на сайте AM-Tech.",
+  "_yoast_wpseo_meta-robots-noindex": ""
+ },
+ "video_category": [
+  1210,
+  1105
+ ],
+ "video_tag": [
+  1297,
+  1306
+ ],
+ "permalink_template": "https://am-tech.ru/video-reviews/%pagename%/",
+ "generated_slug": "intervju-generalnogo-direktora-am-tech-mihaila-rodina-dlja-kanala-hulinomika",
+ "class_list": [
+  "post-3348",
+  "video_reviews",
+  "type-video_reviews",
+  "status-publish",
+  "has-post-thumbnail",
+  "hentry",
+  "video_category-novosti-ru",
+  "video_category-meroprijatija",
+  "video_tag-industrija-additivnyh-tehnologij",
+  "video_tag-press-relizy"
+ ],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Интервью генерального директора AM.TECH Михаила Родина для канала «Хулиномика» -</title>\n<meta name=\"description\" content=\"Видео-версия интервью Михаила Родина для канала «Хулиномика». Смотрите на сайте AM-Tech.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/video-reviews/intervju-generalnogo-direktora-am-tech-mihaila-rodina-dlja-kanala-hulinomika/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Интервью генерального директора AM.TECH Михаила Родина для канала «Хулиномика» -\" />\n<meta property=\"og:description\" content=\"Видео-версия интервью Михаила Родина для канала «Хулиномика». Смотрите на сайте AM-Tech.\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/video-reviews/intervju-generalnogo-direktora-am-tech-mihaila-rodina-dlja-kanala-hulinomika/\" />\n<meta property=\"og:site_name\" content=\"am-tech.ru\" />\n<meta property=\"article:modified_time\" content=\"2026-06-30T12:09:57+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2025/11/intervju-am.tech_.png\" />\n\t<meta property=\"og:image:width\" content=\"1920\" />\n\t<meta property=\"og:image:height\" content=\"1080\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"2 минуты\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/video-reviews/intervju-generalnogo-direktora-am-tech-mihaila-rodina-dlja-kanala-hulinomika/\",\"url\":\"https://am-tech.ru/video-reviews/intervju-generalnogo-direktora-am-tech-mihaila-rodina-dlja-kanala-hulinomika/\",\"name\":\"Интервью генерального директора AM.TECH Михаила Родина для канала «Хулиномика» -\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/video-reviews/intervju-generalnogo-direktora-am-tech-mihaila-rodina-dlja-kanala-hulinomika/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/video-reviews/intervju-generalnogo-direktora-am-tech-mihaila-rodina-dlja-kanala-hulinomika/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2025/11/intervju-am.tech_.png\",\"datePublished\":\"2025-11-07T11:57:47+00:00\",\"dateModified\":\"2026-06-30T12:09:57+00:00\",\"description\":\"Видео-версия интервью Михаила Родина для канала «Хулиномика». Смотрите на сайте AM-Tech.\",\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/video-reviews/intervju-generalnogo-direktora-am-tech-mihaila-rodina-dlja-kanala-hulinomika/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/video-reviews/intervju-generalnogo-direktora-am-tech-mihaila-rodina-dlja-kanala-hulinomika/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2025/11/intervju-am.tech_.png\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2025/11/intervju-am.tech_.png\",\"width\":1920,\"height\":1080},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"am-tech.ru\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"am-tech.ru\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"am-tech.ru\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "Интервью генерального директора AM.TECH Михаила Родина для канала «Хулиномика» -",
+  "description": "Видео-версия интервью Михаила Родина для канала «Хулиномика». Смотрите на сайте AM-Tech.",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/video-reviews/intervju-generalnogo-direktora-am-tech-mihaila-rodina-dlja-kanala-hulinomika/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "Интервью генерального директора AM.TECH Михаила Родина для канала «Хулиномика» -",
+  "og_description": "Видео-версия интервью Михаила Родина для канала «Хулиномика». Смотрите на сайте AM-Tech.",
+  "og_url": "https://am-tech.ru/video-reviews/intervju-generalnogo-direktora-am-tech-mihaila-rodina-dlja-kanala-hulinomika/",
+  "og_site_name": "am-tech.ru",
+  "article_modified_time": "2026-06-30T12:09:57+00:00",
+  "og_image": [
+   {
+    "width": 1920,
+    "height": 1080,
+    "url": "https://am-tech.ru/wp-content/uploads/2025/11/intervju-am.tech_.png",
+    "type": "image/png"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "2 минуты"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/video-reviews/intervju-generalnogo-direktora-am-tech-mihaila-rodina-dlja-kanala-hulinomika/",
+     "url": "https://am-tech.ru/video-reviews/intervju-generalnogo-direktora-am-tech-mihaila-rodina-dlja-kanala-hulinomika/",
+     "name": "Интервью генерального директора AM.TECH Михаила Родина для канала «Хулиномика» -",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/video-reviews/intervju-generalnogo-direktora-am-tech-mihaila-rodina-dlja-kanala-hulinomika/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/video-reviews/intervju-generalnogo-direktora-am-tech-mihaila-rodina-dlja-kanala-hulinomika/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2025/11/intervju-am.tech_.png",
+     "datePublished": "2025-11-07T11:57:47+00:00",
+     "dateModified": "2026-06-30T12:09:57+00:00",
+     "description": "Видео-версия интервью Михаила Родина для канала «Хулиномика». Смотрите на сайте AM-Tech.",
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/video-reviews/intervju-generalnogo-direktora-am-tech-mihaila-rodina-dlja-kanala-hulinomika/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/video-reviews/intervju-generalnogo-direktora-am-tech-mihaila-rodina-dlja-kanala-hulinomika/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2025/11/intervju-am.tech_.png",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2025/11/intervju-am.tech_.png",
+     "width": 1920,
+     "height": 1080
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "am-tech.ru",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "am-tech.ru",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "am-tech.ru"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3348",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/types/video_reviews"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/users/5"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/comments?post=3348"
+   }
+  ],
+  "wp:featuredmedia": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/media/3349"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/media?parent=3348"
+   }
+  ],
+  "wp:term": [
+   {
+    "taxonomy": "video_category",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_category?post=3348"
+   },
+   {
+    "taxonomy": "video_tag",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_tag?post=3348"
+   }
+  ],
+  "wp:action-publish": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3348"
+   }
+  ],
+  "wp:action-unfiltered-html": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3348"
+   }
+  ],
+  "wp:action-assign-author": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3348"
+   }
+  ],
+  "wp:action-create-video_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3348"
+   }
+  ],
+  "wp:action-assign-video_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3348"
+   }
+  ],
+  "wp:action-create-video_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3348"
+   }
+  ],
+  "wp:action-assign-video_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3348"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

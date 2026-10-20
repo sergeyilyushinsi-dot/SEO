@@ -1,0 +1,159 @@
+{
+ "id": 1022,
+ "count": 8,
+ "description": "<p class=\"isSelectedEnd\">SLA — технология стереолитографии, в которой жидкий фотополимер послойно отверждается ультрафиолетовым лазером по данным цифровой модели. После завершения построения изделие очищают от остатков смолы и проводят финальное УФ-отверждение. Такой подход подходит для задач, где важны точная геометрия, гладкая поверхность и воспроизведение мелких элементов.</p>\n<p class=\"isSelectedEnd\">Промышленный SLA-принтер применяют для изготовления прототипов, мастер-образцов, оснастки и функциональных изделий сложной формы. В отличие от ряда других методов аддитивного производства, фотополимерная печать позволяет получать поверхности с малозаметной слоистостью и сокращать объём механической доводки. При этом постобработка полностью не исключается: готовая деталь требует очистки и окончательного отверждения.</p>\n\n<h2>Где применяется SLA 3D печать</h2>\n<p class=\"isSelectedEnd\">Стереолитография востребована там, где качество поверхности и детализация важны уже на этапе получения изделия. Выбор конкретной смолы и параметров процесса зависит от назначения детали и требований производства.</p>\n\n<ul data-spread=\"false\">\n \t<li>ювелирное дело и стоматология — изготовление детализированных мастер-образцов и специализированных изделий;</li>\n \t<li>литьё по выплавляемым моделям — создание выжигаемых заготовок для дальнейшего литейного процесса;</li>\n \t<li>прототипирование — проверка формы, посадки, эргономики и внешнего вида изделия до запуска основной технологии;</li>\n \t<li>медицинское моделирование — создание анатомических и демонстрационных объектов;</li>\n \t<li>промышленный дизайн, приборостроение и производство оснастки — получение макетов, форм и вспомогательных элементов.</li>\n</ul>\n<p class=\"isSelectedEnd\">SLA особенно удобна, когда исходная STL-модель содержит тонкие элементы, сложные переходы и криволинейные поверхности, которые необходимо передать без грубой ступенчатости.</p>\n\n<h2>Особенности оборудования и материалов</h2>\n<p class=\"isSelectedEnd\">Основой процесса служит фотополимерный материал, чувствительный к определённому диапазону УФ-излучения. На рынке доступны стандартные, повышенной прочности, гибкие, литейные и биосовместимые смолы. Совместимость конкретного материала с установкой необходимо проверять по технической документации оборудования и требованиям к конечному изделию.</p>\n<p class=\"isSelectedEnd\">При выборе SLA-системы для производства стоит учитывать:</p>\n\n<ul data-spread=\"false\">\n \t<li>точность и разрешение. Например, для SLA-600 заявлена точность до 20 мкм;</li>\n \t<li>качество поверхности. Гладкая поверхность уменьшает потребность в ручной механической доводке;</li>\n \t<li>рабочую область. Большой объём камеры позволяет печатать крупные изделия или размещать несколько деталей в одном задании;</li>\n \t<li>открытую архитектуру и допустимые типы фотополимеров — они влияют на диапазон производственных задач;</li>\n \t<li>обязательную постобработку: удаление остатков смолы, снятие поддержек при их наличии и финальное УФ-отверждение.</li>\n</ul>\n<p class=\"isSelectedEnd\">Поэтому сла-печать следует оценивать не только по паспортному разрешению. Для стабильного результата важна вся технологическая цепочка — от подготовки файла до обработки готового изделия.</p>\n\n<h2>Как купить SLA принтер для производства</h2>\n<p class=\"isSelectedEnd\">Перед приобретением оборудования необходимо сопоставить его характеристики с реальной задачей. В первую очередь оценивают объём рабочей камеры: он определяет максимальные размеры изделия и возможность групповой печати. Далее учитывают параметры лазерной системы, требования к точности, доступные фотополимеры и особенности программной подготовки задания.</p>\n<p class=\"isSelectedEnd\">Если нужен 3д принтер sla для предприятия, специалисты AM.TECH могут подобрать подходящую конфигурацию под тип изделий и условия эксплуатации. В каталоге представлены SLA-системы разных форматов, а цена определяется выбранной конфигурацией и комплектацией.</p>\nТакже при выборе важно заранее уточнить условия поставки, доставки по России, запуска оборудования, обучения и обеспечения расходными материалами. В AM.TECH можно купить сла-оборудование с гарантией и сопровождением специалистов. Это позволяет заказывать не отдельный фотополимерный принтер как самостоятельное устройство, а решение, увязанное с производственной задачей и дальнейшим снабжением смолами.",
+ "link": "https://am-tech.ru/katalog/promyshlennye-3d-printery-po-sla-i-keramike/sla-3d-printery/",
+ "name": "SLA 3D-принтеры",
+ "slug": "sla-3d-printery",
+ "taxonomy": "product_cat",
+ "parent": 1206,
+ "meta": [],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Промышленные SLA 3D-принтеры — купить, цена | AM-Tech</title>\n<meta name=\"description\" content=\"Промышленные SLA 3D-принтеры AM.TECH: 8 моделей от SLA-300 до SLA-1700, область построения до 1700×880×650 мм. Цена по запросу, демонстрация, лизинг.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/katalog/promyshlennye-3d-printery-po-sla-i-keramike/sla-3d-printery/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Промышленные SLA 3D-принтеры — купить, цена | AM-Tech\" />\n<meta property=\"og:description\" content=\"Промышленные SLA 3D-принтеры AM.TECH: 8 моделей от SLA-300 до SLA-1700, область построения до 1700×880×650 мм. Цена по запросу, демонстрация, лизинг.\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/katalog/promyshlennye-3d-printery-po-sla-i-keramike/sla-3d-printery/\" />\n<meta property=\"og:site_name\" content=\"AM.TECH\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://am-tech.ru/katalog/promyshlennye-3d-printery-po-sla-i-keramike/sla-3d-printery/\",\"url\":\"https://am-tech.ru/katalog/promyshlennye-3d-printery-po-sla-i-keramike/sla-3d-printery/\",\"name\":\"Промышленные SLA 3D-принтеры — купить, цена | AM-Tech\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"description\":\"Промышленные SLA 3D-принтеры AM.TECH: 8 моделей от SLA-300 до SLA-1700, область построения до 1700×880×650 мм. Цена по запросу, демонстрация, лизинг.\",\"breadcrumb\":{\"@id\":\"https://am-tech.ru/katalog/promyshlennye-3d-printery-po-sla-i-keramike/sla-3d-printery/#breadcrumb\"},\"inLanguage\":\"ru-RU\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://am-tech.ru/katalog/promyshlennye-3d-printery-po-sla-i-keramike/sla-3d-printery/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Главная страница\",\"item\":\"https://am-tech.ru/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"SLA 3D-принтеры\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"AM.TECH\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"AM.TECH\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"AM.TECH\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "Промышленные SLA 3D-принтеры — купить, цена | AM-Tech",
+  "description": "Промышленные SLA 3D-принтеры AM.TECH: 8 моделей от SLA-300 до SLA-1700, область построения до 1700×880×650 мм. Цена по запросу, демонстрация, лизинг.",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/katalog/promyshlennye-3d-printery-po-sla-i-keramike/sla-3d-printery/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "Промышленные SLA 3D-принтеры — купить, цена | AM-Tech",
+  "og_description": "Промышленные SLA 3D-принтеры AM.TECH: 8 моделей от SLA-300 до SLA-1700, область построения до 1700×880×650 мм. Цена по запросу, демонстрация, лизинг.",
+  "og_url": "https://am-tech.ru/katalog/promyshlennye-3d-printery-po-sla-i-keramike/sla-3d-printery/",
+  "og_site_name": "AM.TECH",
+  "twitter_card": "summary_large_image",
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "CollectionPage",
+     "@id": "https://am-tech.ru/katalog/promyshlennye-3d-printery-po-sla-i-keramike/sla-3d-printery/",
+     "url": "https://am-tech.ru/katalog/promyshlennye-3d-printery-po-sla-i-keramike/sla-3d-printery/",
+     "name": "Промышленные SLA 3D-принтеры — купить, цена | AM-Tech",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "description": "Промышленные SLA 3D-принтеры AM.TECH: 8 моделей от SLA-300 до SLA-1700, область построения до 1700×880×650 мм. Цена по запросу, демонстрация, лизинг.",
+     "breadcrumb": {
+      "@id": "https://am-tech.ru/katalog/promyshlennye-3d-printery-po-sla-i-keramike/sla-3d-printery/#breadcrumb"
+     },
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://am-tech.ru/katalog/promyshlennye-3d-printery-po-sla-i-keramike/sla-3d-printery/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Главная страница",
+       "item": "https://am-tech.ru/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "SLA 3D-принтеры"
+      }
+     ]
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "AM.TECH",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "AM.TECH",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "AM.TECH"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "html_description": true,
+ "yoast_seo": {
+  "title": "Промышленные SLA 3D-принтеры — купить, цена | AM-Tech",
+  "desc": "Промышленные SLA 3D-принтеры AM.TECH: 8 моделей от SLA-300 до SLA-1700, область построения до 1700×880×650 мм. Цена по запросу, демонстрация, лизинг."
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/product_cat/1022",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/product_cat"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/taxonomies/product_cat"
+   }
+  ],
+  "up": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/product_cat/1206"
+   }
+  ],
+  "wp:post_type": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/product?product_cat=1022"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

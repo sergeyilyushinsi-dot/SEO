@@ -1,0 +1,280 @@
+{
+ "id": 3497,
+ "date": "2025-05-20T16:21:44",
+ "date_gmt": "2025-05-20T13:21:44",
+ "guid": {
+  "rendered": "https://am-tech.ru/?post_type=news&#038;p=3497",
+  "raw": "https://am-tech.ru/?post_type=news&#038;p=3497"
+ },
+ "modified": "2026-06-30T15:14:35",
+ "modified_gmt": "2026-06-30T12:14:35",
+ "password": "",
+ "slug": "design-for-additive-manufacturing-jeto-ne-prosto-napechatat-detal",
+ "status": "publish",
+ "type": "news",
+ "link": "https://am-tech.ru/news/design-for-additive-manufacturing-jeto-ne-prosto-napechatat-detal/",
+ "title": {
+  "raw": "Design for Additive Manufacturing — это не просто «напечатать деталь»",
+  "rendered": "Design for Additive Manufacturing — это не просто «напечатать деталь»"
+ },
+ "content": {
+  "raw": "<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n<h2 class=\"\">Это шанс переизобрести её с нуля</h2>\r\n<p class=\"\">Знакомо звучит? Берёте старую деталь, немного облегчаете, добавляете пару рёбер жёсткости — и вуаля, «оптимизированная для 3D-печати» версия готова. Технически да, это DfAM (Design for Additive Manufacturing). Но по сути — всего лишь косметическая процедура. К слову, помимо DfAM, которое все чаще использует сообщество, существуют и другие термины, отражающие различные подходы к проектированию и производству с учетом возможностей и ограничений аддитивных технологий: DfX – Design for X (проектирование для X, где X – любая характеристика/требование), DfM – Design for Manufacturing (проектирование для производства), MfAM – Manufacturing for Additive Manufacturing (производство для аддитивного производства).</p>\r\n\r\n<h2 class=\"\" dir=\"ltr\" data-pm-slice=\"1 1 []\">Тихая революция в дизайне</h2>\r\n<p class=\"\">В мире промышленного дизайна вершится тихая революция. Традиционные подходы к проектированию сталкиваются с новыми возможностями аддитивного производства, заставляющими инженеров пересматривать фундаментальные принципы своей работы. Это не просто смена инструментов — это трансформация самого мышления.</p>\r\n\r\n<h2 dir=\"ltr\" data-pm-slice=\"1 1 []\">Концепция DfX: проектирование без компромиссов</h2>\r\n<p class=\"\">Возьмем концепцию DfX — проектирование для конкретных характеристик. Здесь «X» становится своеобразным компасом, указывающим на истинные приоритеты разработки. Когда инженер фокусируется на стоимости (DfCost), весе (DfLightweight) или простоте сборки (DfAssembly), он часто сталкивается с необходимостью мучительных компромиссов. Аддитивные технологии ломают эти барьеры, предлагая решения, где деталь может быть одновременно и легкой, и прочной, и экономичной. Секрет в том, чтобы перестать рассматривать эти параметры как взаимоисключающие.</p>\r\n\r\n<h2 dir=\"ltr\" data-pm-slice=\"1 1 []\">DfM: от старых правил к новым подходам</h2>\r\nТрадиционный DfM — проектирование для производства — всегда напоминал игру с жесткими правилами. Углы выемки для литья, доступность для инструмента при механической обработке — эти ограничения годами формировали облик промышленных изделий. Но в мире аддитивных технологий старые правила перестают работать. Вместо них появляются новые соображения: как поведет себя материал при послойном наплавлении, где возникнут термические напряжения, как ориентация детали на платформе повлияет на ее конечные свойства. Парадоксально, но, чтобы освоить DfM для аддитивного производства, сначала нужно забыть о традиционных производственных ограничениях.\r\n<p class=\"\"><img class=\"alignnone wp-image-3499 size-full\" title=\"Проект QTEAM создания квантового космического гравиметра – полимерный прототип и отпечатанный корпус. DFAM\" src=\"https://am-tech.ru/wp-content/uploads/2025/12/1.png\" alt=\"\" width=\"631\" height=\"420\"></p>\r\n\r\n<h2 dir=\"ltr\" data-pm-slice=\"1 1 []\">DfAM: проектирование для аддитивных технологий</h2>\r\nНастоящий прорыв начинается с DfAM — проектирования, которое использует уникальные возможности аддитивных технологий. Здесь мы уже не адаптируем прежние решения, а создаем принципиально новые. Топологическая оптимизация превращает массивные металлические блоки в ажурные структуры, напоминающие костную ткань, — и это не эстетическое решение, а строгий инженерный расчет. Внутренние каналы и полости становятся не проблемой для производства, а преимуществом, позволяющим создать системы охлаждения или подачи жидкости прямо внутри детали.\r\n<h2 dir=\"ltr\" data-pm-slice=\"1 1 []\">MfAM: производство как часть дизайна</h2>\r\nНо настоящая магия происходит на уровне MfAM, когда производственные специалисты перестают быть просто исполнителями и становятся полноправными соавторами проекта. Они знают, как небольшой поворот детали на платформе может сократить время печати на 15%, где добавить технологические полости для последующей обработки, как распределить материал, чтобы минимизировать внутренние напряжения.\r\n<h2 dir=\"ltr\" data-pm-slice=\"1 1 []\">Эволюция проектирования: от традиций к инновациям</h2>\r\nЭволюция от DfM через DfAM к MfAM — это путь от вопроса «Как мы всегда это делали?» через «А что, если сделать иначе?» или «Как нам перевести эту деталь на печать?» к «Как сделать это идеально?». Современные CAD-системы уже стирают границы между этими этапами, позволяя инженерам сразу видеть последствия своих решений. Но главное изменение — культурное. В передовых компаниях исчезает разделение на «конструкторов» и «технологов», уступая место междисциплинарным командам, где дизайнер, инженер и специалист по материалам работают вместе с первым днём проекта.\r\n<h2 dir=\"ltr\" data-pm-slice=\"1 1 []\">Инновационные решения без границ</h2>\r\nВозможно, именно в этом секрет тех «инопланетных» решений, которые начинает создавать промышленность. Когда стираются не только границы между проектированием и производством, но и границы в головах инженеров, открывается пространство для по-настоящему инновационных решений. И это только начало новой эры в промышленном дизайне.\r\n<h2 dir=\"ltr\" data-pm-slice=\"1 1 []\">Переосмысление подходов к производству</h2>\r\n<p class=\"\">Поэтому лучше каждый новый сложный проект следует начинать с того, чтобы сознательно убрать из головы всё, что вы знали о «нормальных» методах производства. Потому что настоящая сила аддитивных технологий — не в повторении старого, а в создании того, что раньше было попросту невозможно.</p>\r\n<p class=\"\">Форма должна соответствовать функции, даже если результат напоминает арт-объект. Структура — это не шаблонные сетчатые заполнения, а топология, идеально работающая с конкретными нагрузками. Материал — не просто «нержавейка или титан», а сложное распределение свойств в объёме, как в живой ткани.</p>\r\n\r\n<h2 dir=\"ltr\" data-pm-slice=\"1 1 []\">Вызовы создания идеальных деталей</h2>\r\nДа, это сложнее, чем просто загрузить модель в слайсер. Но именно так рождаются решения, которые не на 20%, а в разы эффективнее традиционных.\r\n\r\nВозьмём, к примеру, проект <a href=\"https://www.metamorphic.am/projects/qteam\">QTEAM</a>, реализуемый при финансовой поддержке Innovate UK (программа Industrial Strategy Challenge Fund), создания квантового космического гравиметра для измерения микроскопических изменений гравитации от нескольких компаний, в числе которых Metamorphic Additive Manufacturing Ltd., Ноттингемский университет, Torr Scientific и RAL Space. Без аддитивных технологий это была бы громоздкая система с десятками вакуумных камер и магнитных катушек.\r\n<h2 dir=\"ltr\" data-pm-slice=\"1 1 []\">Прорыв проекта QTEAM</h2>\r\nНо в компании пошли другим путём:\r\n<ul class=\"\">\r\n \t<li>Объединили десятки деталей в одну сложную структуру, напечатанную как единое целое.</li>\r\n \t<li>Интегрировали вакуумные каналы прямо в стенки корпуса.</li>\r\n \t<li>Спроектировали магнитные поля как 4D-геометрию, изменяющуюся в пространстве и времени.</li>\r\n</ul>\r\nВ результате прибор стал компактнее, легче и энергоэффективнее аналогов, при этом точнее их.\r\n<p class=\"\"><img class=\"alignnone wp-image-3500 size-full\" title=\"DFAM. Квантовый космический гравиметр проекта QTEM в сборе\" src=\"https://am-tech.ru/wp-content/uploads/2025/12/2.png\" alt=\"\" width=\"696\" height=\"392\"></p>\r\n\r\n<h2 dir=\"ltr\" data-pm-slice=\"1 1 []\">Путь к идеальному дизайну</h2>\r\nТак как же перейти от «печатабельного» к «идеальному»? Во-первых, забудьте о стандартных CAD-подходах. Генеративное проектирование — не панацея, иногда нужны расчёты «на салфетке». Во-вторых, спрашивайте «почему» на каждом шагу: почему эта деталь имеет такую форму? Почему здесь толщина 3 мм? Часто ответ — «потому что так делали всегда». И главное — найдите в команде «еретика», который будет ставить под сомнение устоявшиеся подходы.\r\n\r\nАддитивное производство — это не просто технология. Это билет в мир, где ограничения определяют не станки, а только законы физики.\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+  "rendered": "<div class=\"boldgrid-section\">\n<div class=\"container\">\n<div class=\"row\">\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\n<h2 class=\"\">Это шанс переизобрести её с нуля</h2>\n<p class=\"\">Знакомо звучит? Берёте старую деталь, немного облегчаете, добавляете пару рёбер жёсткости — и вуаля, «оптимизированная для 3D-печати» версия готова. Технически да, это DfAM (Design for Additive Manufacturing). Но по сути — всего лишь косметическая процедура. К слову, помимо DfAM, которое все чаще использует сообщество, существуют и другие термины, отражающие различные подходы к проектированию и производству с учетом возможностей и ограничений аддитивных технологий: DfX – Design for X (проектирование для X, где X – любая характеристика/требование), DfM – Design for Manufacturing (проектирование для производства), MfAM – Manufacturing for Additive Manufacturing (производство для аддитивного производства).</p>\n<h2 class=\"\" dir=\"ltr\" data-pm-slice=\"1 1 []\">Тихая революция в дизайне</h2>\n<p class=\"\">В мире промышленного дизайна вершится тихая революция. Традиционные подходы к проектированию сталкиваются с новыми возможностями аддитивного производства, заставляющими инженеров пересматривать фундаментальные принципы своей работы. Это не просто смена инструментов — это трансформация самого мышления.</p>\n<h2 dir=\"ltr\" data-pm-slice=\"1 1 []\">Концепция DfX: проектирование без компромиссов</h2>\n<p class=\"\">Возьмем концепцию DfX — проектирование для конкретных характеристик. Здесь «X» становится своеобразным компасом, указывающим на истинные приоритеты разработки. Когда инженер фокусируется на стоимости (DfCost), весе (DfLightweight) или простоте сборки (DfAssembly), он часто сталкивается с необходимостью мучительных компромиссов. Аддитивные технологии ломают эти барьеры, предлагая решения, где деталь может быть одновременно и легкой, и прочной, и экономичной. Секрет в том, чтобы перестать рассматривать эти параметры как взаимоисключающие.</p>\n<h2 dir=\"ltr\" data-pm-slice=\"1 1 []\">DfM: от старых правил к новым подходам</h2>\n<p>Традиционный DfM — проектирование для производства — всегда напоминал игру с жесткими правилами. Углы выемки для литья, доступность для инструмента при механической обработке — эти ограничения годами формировали облик промышленных изделий. Но в мире аддитивных технологий старые правила перестают работать. Вместо них появляются новые соображения: как поведет себя материал при послойном наплавлении, где возникнут термические напряжения, как ориентация детали на платформе повлияет на ее конечные свойства. Парадоксально, но, чтобы освоить DfM для аддитивного производства, сначала нужно забыть о традиционных производственных ограничениях.</p>\n<p class=\"\"><img loading=\"lazy\" decoding=\"async\" fetchpriority=\"high\" decoding=\"async\" class=\"alignnone wp-image-3499 size-full\" title=\"Проект QTEAM создания квантового космического гравиметра – полимерный прототип и отпечатанный корпус. DFAM\" src=\"https://am-tech.ru/wp-content/uploads/2025/12/1.png\" alt=\"Design for Additive Manufacturing — это не просто «напечатать деталь» - 3D-печать металлами - AM-Tech\" width=\"631\" height=\"420\" srcset=\"https://am-tech.ru/wp-content/uploads/2025/12/1.png 631w, https://am-tech.ru/wp-content/uploads/2025/12/1-300x200.png 300w, https://am-tech.ru/wp-content/uploads/2025/12/1-600x399.png 600w\" sizes=\"(max-width: 631px) 100vw, 631px\" /></p>\n<h2 dir=\"ltr\" data-pm-slice=\"1 1 []\">DfAM: проектирование для аддитивных технологий</h2>\n<p>Настоящий прорыв начинается с DfAM — проектирования, которое использует уникальные возможности аддитивных технологий. Здесь мы уже не адаптируем прежние решения, а создаем принципиально новые. Топологическая оптимизация превращает массивные металлические блоки в ажурные структуры, напоминающие костную ткань, — и это не эстетическое решение, а строгий инженерный расчет. Внутренние каналы и полости становятся не проблемой для производства, а преимуществом, позволяющим создать системы охлаждения или подачи жидкости прямо внутри детали.</p>\n<h2 dir=\"ltr\" data-pm-slice=\"1 1 []\">MfAM: производство как часть дизайна</h2>\n<p>Но настоящая магия происходит на уровне MfAM, когда производственные специалисты перестают быть просто исполнителями и становятся полноправными соавторами проекта. Они знают, как небольшой поворот детали на платформе может сократить время печати на 15%, где добавить технологические полости для последующей обработки, как распределить материал, чтобы минимизировать внутренние напряжения.</p>\n<h2 dir=\"ltr\" data-pm-slice=\"1 1 []\">Эволюция проектирования: от традиций к инновациям</h2>\n<p>Эволюция от DfM через DfAM к MfAM — это путь от вопроса «Как мы всегда это делали?» через «А что, если сделать иначе?» или «Как нам перевести эту деталь на печать?» к «Как сделать это идеально?». Современные CAD-системы уже стирают границы между этими этапами, позволяя инженерам сразу видеть последствия своих решений. Но главное изменение — культурное. В передовых компаниях исчезает разделение на «конструкторов» и «технологов», уступая место междисциплинарным командам, где дизайнер, инженер и специалист по материалам работают вместе с первым днём проекта.</p>\n<h2 dir=\"ltr\" data-pm-slice=\"1 1 []\">Инновационные решения без границ</h2>\n<p>Возможно, именно в этом секрет тех «инопланетных» решений, которые начинает создавать промышленность. Когда стираются не только границы между проектированием и производством, но и границы в головах инженеров, открывается пространство для по-настоящему инновационных решений. И это только начало новой эры в промышленном дизайне.</p>\n<h2 dir=\"ltr\" data-pm-slice=\"1 1 []\">Переосмысление подходов к производству</h2>\n<p class=\"\">Поэтому лучше каждый новый сложный проект следует начинать с того, чтобы сознательно убрать из головы всё, что вы знали о «нормальных» методах производства. Потому что настоящая сила аддитивных технологий — не в повторении старого, а в создании того, что раньше было попросту невозможно.</p>\n<p class=\"\">Форма должна соответствовать функции, даже если результат напоминает арт-объект. Структура — это не шаблонные сетчатые заполнения, а топология, идеально работающая с конкретными нагрузками. Материал — не просто «нержавейка или титан», а сложное распределение свойств в объёме, как в живой ткани.</p>\n<h2 dir=\"ltr\" data-pm-slice=\"1 1 []\">Вызовы создания идеальных деталей</h2>\n<p>Да, это сложнее, чем просто загрузить модель в слайсер. Но именно так рождаются решения, которые не на 20%, а в разы эффективнее традиционных.</p>\n<p>Возьмём, к примеру, проект <a href=\"https://www.metamorphic.am/projects/qteam\">QTEAM</a>, реализуемый при финансовой поддержке Innovate UK (программа Industrial Strategy Challenge Fund), создания квантового космического гравиметра для измерения микроскопических изменений гравитации от нескольких компаний, в числе которых Metamorphic Additive Manufacturing Ltd., Ноттингемский университет, Torr Scientific и RAL Space. Без аддитивных технологий это была бы громоздкая система с десятками вакуумных камер и магнитных катушек.</p>\n<h2 dir=\"ltr\" data-pm-slice=\"1 1 []\">Прорыв проекта QTEAM</h2>\n<p>Но в компании пошли другим путём:</p>\n<ul class=\"\">\n<li>Объединили десятки деталей в одну сложную структуру, напечатанную как единое целое.</li>\n<li>Интегрировали вакуумные каналы прямо в стенки корпуса.</li>\n<li>Спроектировали магнитные поля как 4D-геометрию, изменяющуюся в пространстве и времени.</li>\n</ul>\n<p>В результате прибор стал компактнее, легче и энергоэффективнее аналогов, при этом точнее их.</p>\n<p class=\"\"><img loading=\"lazy\" decoding=\"async\" decoding=\"async\" class=\"alignnone wp-image-3500 size-full\" title=\"DFAM. Квантовый космический гравиметр проекта QTEM в сборе\" src=\"https://am-tech.ru/wp-content/uploads/2025/12/2.png\" alt=\"Design for Additive Manufacturing — это не просто «напечатать деталь» - 3D-печать металлами - AM-Tech\" width=\"696\" height=\"392\" srcset=\"https://am-tech.ru/wp-content/uploads/2025/12/2.png 696w, https://am-tech.ru/wp-content/uploads/2025/12/2-300x169.png 300w, https://am-tech.ru/wp-content/uploads/2025/12/2-600x338.png 600w\" sizes=\"(max-width: 696px) 100vw, 696px\" /></p>\n<h2 dir=\"ltr\" data-pm-slice=\"1 1 []\">Путь к идеальному дизайну</h2>\n<p>Так как же перейти от «печатабельного» к «идеальному»? Во-первых, забудьте о стандартных CAD-подходах. Генеративное проектирование — не панацея, иногда нужны расчёты «на салфетке». Во-вторых, спрашивайте «почему» на каждом шагу: почему эта деталь имеет такую форму? Почему здесь толщина 3 мм? Часто ответ — «потому что так делали всегда». И главное — найдите в команде «еретика», который будет ставить под сомнение устоявшиеся подходы.</p>\n<p>Аддитивное производство — это не просто технология. Это билет в мир, где ограничения определяют не станки, а только законы физики.</p>\n</div>\n</div>\n</div>\n</div>\n",
+  "protected": false,
+  "block_version": 0
+ },
+ "excerpt": {
+  "raw": "",
+  "rendered": "<p>Это шанс переизобрести её с нуля Знакомо звучит? Берёте старую деталь, немного облегчаете, добавляете пару рёбер жёсткости — и вуаля, «оптимизированная для 3D-печати» версия готова. Технически да, это DfAM (Design for Additive Manufacturing). Но по сути — всего лишь косметическая процедура. К слову, помимо DfAM, которое все чаще использует сообщество, существуют и другие термины, отражающие [&hellip;]</p>\n",
+  "protected": false
+ },
+ "author": 4,
+ "featured_media": 3498,
+ "comment_status": "open",
+ "ping_status": "closed",
+ "template": "",
+ "meta": {
+  "_acf_changed": false,
+  "_yoast_wpseo_title": "",
+  "_yoast_wpseo_metadesc": "Design for Additive Manufacturing (DfAM): проектирование именно для 3D-печати. Читайте, почему DfAM — это не просто перенос классической модели в принтер.",
+  "_yoast_wpseo_meta-robots-noindex": ""
+ },
+ "news_category": [
+  1107
+ ],
+ "news_tag": [
+  1265
+ ],
+ "permalink_template": "https://am-tech.ru/news/%pagename%/",
+ "generated_slug": "design-for-additive-manufacturing-jeto-ne-prosto-napechatat-detal",
+ "class_list": [
+  "post-3497",
+  "news",
+  "type-news",
+  "status-publish",
+  "has-post-thumbnail",
+  "hentry",
+  "news_category-3d-pechat-metallami",
+  "news_tag-proektirovanie"
+ ],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Design for Additive Manufacturing — это не просто «напечатать деталь» - am-tech.ru</title>\n<meta name=\"description\" content=\"Design for Additive Manufacturing (DfAM): проектирование именно для 3D-печати. Читайте, почему DfAM — это не просто перенос классической модели в принтер.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/news/design-for-additive-manufacturing-jeto-ne-prosto-napechatat-detal/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Design for Additive Manufacturing — это не просто «напечатать деталь» - am-tech.ru\" />\n<meta property=\"og:description\" content=\"Design for Additive Manufacturing (DfAM): проектирование именно для 3D-печати. Читайте, почему DfAM — это не просто перенос классической модели в принтер.\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/news/design-for-additive-manufacturing-jeto-ne-prosto-napechatat-detal/\" />\n<meta property=\"og:site_name\" content=\"am-tech.ru\" />\n<meta property=\"article:modified_time\" content=\"2026-06-30T12:14:35+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2025/12/0.png\" />\n\t<meta property=\"og:image:width\" content=\"696\" />\n\t<meta property=\"og:image:height\" content=\"462\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"6 минут\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/news/design-for-additive-manufacturing-jeto-ne-prosto-napechatat-detal/\",\"url\":\"https://am-tech.ru/news/design-for-additive-manufacturing-jeto-ne-prosto-napechatat-detal/\",\"name\":\"Design for Additive Manufacturing — это не просто «напечатать деталь» - am-tech.ru\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/news/design-for-additive-manufacturing-jeto-ne-prosto-napechatat-detal/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/news/design-for-additive-manufacturing-jeto-ne-prosto-napechatat-detal/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2025/12/0.png\",\"datePublished\":\"2025-05-20T13:21:44+00:00\",\"dateModified\":\"2026-06-30T12:14:35+00:00\",\"description\":\"Design for Additive Manufacturing (DfAM): проектирование именно для 3D-печати. Читайте, почему DfAM — это не просто перенос классической модели в принтер.\",\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/news/design-for-additive-manufacturing-jeto-ne-prosto-napechatat-detal/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/news/design-for-additive-manufacturing-jeto-ne-prosto-napechatat-detal/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2025/12/0.png\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2025/12/0.png\",\"width\":696,\"height\":462},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"am-tech.ru\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"am-tech.ru\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"am-tech.ru\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "Design for Additive Manufacturing — это не просто «напечатать деталь» - am-tech.ru",
+  "description": "Design for Additive Manufacturing (DfAM): проектирование именно для 3D-печати. Читайте, почему DfAM — это не просто перенос классической модели в принтер.",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/news/design-for-additive-manufacturing-jeto-ne-prosto-napechatat-detal/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "Design for Additive Manufacturing — это не просто «напечатать деталь» - am-tech.ru",
+  "og_description": "Design for Additive Manufacturing (DfAM): проектирование именно для 3D-печати. Читайте, почему DfAM — это не просто перенос классической модели в принтер.",
+  "og_url": "https://am-tech.ru/news/design-for-additive-manufacturing-jeto-ne-prosto-napechatat-detal/",
+  "og_site_name": "am-tech.ru",
+  "article_modified_time": "2026-06-30T12:14:35+00:00",
+  "og_image": [
+   {
+    "width": 696,
+    "height": 462,
+    "url": "https://am-tech.ru/wp-content/uploads/2025/12/0.png",
+    "type": "image/png"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "6 минут"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/news/design-for-additive-manufacturing-jeto-ne-prosto-napechatat-detal/",
+     "url": "https://am-tech.ru/news/design-for-additive-manufacturing-jeto-ne-prosto-napechatat-detal/",
+     "name": "Design for Additive Manufacturing — это не просто «напечатать деталь» - am-tech.ru",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/news/design-for-additive-manufacturing-jeto-ne-prosto-napechatat-detal/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/news/design-for-additive-manufacturing-jeto-ne-prosto-napechatat-detal/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2025/12/0.png",
+     "datePublished": "2025-05-20T13:21:44+00:00",
+     "dateModified": "2026-06-30T12:14:35+00:00",
+     "description": "Design for Additive Manufacturing (DfAM): проектирование именно для 3D-печати. Читайте, почему DfAM — это не просто перенос классической модели в принтер.",
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/news/design-for-additive-manufacturing-jeto-ne-prosto-napechatat-detal/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/news/design-for-additive-manufacturing-jeto-ne-prosto-napechatat-detal/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2025/12/0.png",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2025/12/0.png",
+     "width": 696,
+     "height": 462
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "am-tech.ru",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "am-tech.ru",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "am-tech.ru"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3497",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/types/news"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/users/4"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/comments?post=3497"
+   }
+  ],
+  "wp:featuredmedia": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/media/3498"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/media?parent=3497"
+   }
+  ],
+  "wp:term": [
+   {
+    "taxonomy": "news_category",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_category?post=3497"
+   },
+   {
+    "taxonomy": "news_tag",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_tag?post=3497"
+   }
+  ],
+  "wp:action-publish": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3497"
+   }
+  ],
+  "wp:action-unfiltered-html": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3497"
+   }
+  ],
+  "wp:action-assign-author": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3497"
+   }
+  ],
+  "wp:action-create-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3497"
+   }
+  ],
+  "wp:action-assign-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3497"
+   }
+  ],
+  "wp:action-create-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3497"
+   }
+  ],
+  "wp:action-assign-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3497"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

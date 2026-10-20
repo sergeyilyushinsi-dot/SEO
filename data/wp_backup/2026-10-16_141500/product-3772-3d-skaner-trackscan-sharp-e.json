@@ -1,0 +1,736 @@
+{
+ "id": 3772,
+ "name": "3D-сканер TrackScan Sharp E",
+ "slug": "3d-skaner-trackscan-sharp-e",
+ "permalink": "https://am-tech.ru/product/3d-skaner-trackscan-sharp-e/",
+ "date_created": "2026-01-26T13:55:00",
+ "date_created_gmt": "2026-01-26T10:55:00",
+ "date_modified": "2026-06-30T15:08:18",
+ "date_modified_gmt": "2026-06-30T12:08:18",
+ "type": "simple",
+ "status": "publish",
+ "featured": false,
+ "catalog_visibility": "visible",
+ "description": "<section class=\"ts-premium\">\r\n<p class=\"mod-reset\"><style>\r\n    .ts-premium{background:#fff;color:#111;font-family:Arial,sans-serif}<br />    .ts-premium *{box-sizing:border-box}<br />    .ts-container{max-width:1180px;margin:0 auto;padding:64px 18px}</p>\r\n<p>.ts-hero{<br />  display:grid;<br />  grid-template-columns:minmax(0,560px) minmax(420px,1fr);<br />  justify-content:space-between;<br />  gap:64px;<br />  align-items:center;<br />  width:100%;<br />}</p>\r\n<p>    .ts-hero-text{max-width:560px}</p>\r\n<p>    .ts-title{margin:0 0 20px;font-size:52px;line-height:1.04;font-weight:800;color:#0b0b0b}<br />    .ts-lead{margin:0 0 18px;font-size:19px;line-height:1.7;color:#333}<br />    .ts-orange{color:#ff7a00;font-weight:800}</p>\r\n<p>    .ts-image{<br />      padding:24px;<br />      border-radius:32px;<br />      background:linear-gradient(145deg,#f7f7f7,#fff);<br />      box-shadow:0 24px 70px rgba(0,0,0,.11);<br />    }</p>\r\n<p>    .ts-image img{<br />      display:block;<br />      width:100%;<br />      height:auto;<br />      border-radius:24px;<br />    }</p>\r\n<p>    .ts-infographic{<br />      display:grid;<br />      grid-template-columns:repeat(3,1fr);<br />      gap:22px;<br />      margin:54px 0;<br />    }</p>\r\n<p>    .ts-chart{<br />      padding:28px;<br />      min-height:310px;<br />      border-radius:28px;<br />      background:#fff;<br />      border:1px solid #ededed;<br />      box-shadow:0 16px 45px rgba(0,0,0,.07);<br />    }</p>\r\n<p>    .ts-chart h3{margin:0 0 18px;font-size:22px;color:#111}<br />    .ts-chart p{margin:14px 0 0;font-size:15px;line-height:1.55;color:#444}</p>\r\n<p>    .ts-bar-bg{<br />      height:18px;<br />      margin:22px 0 16px;<br />      border-radius:30px;<br />      background:#f0f0f0;<br />      overflow:hidden;<br />    }</p>\r\n<p>    .ts-bar-fill{<br />      width:100%;<br />      height:100%;<br />      border-radius:30px;<br />      background:linear-gradient(90deg,#ff7a00,#ffb15c);<br />    }</p>\r\n<p>    .ts-value{font-size:30px;font-weight:800;color:#ff7a00}</p>\r\n<p>    .ts-circle{<br />      width:176px;<br />      height:176px;<br />      margin:10px auto 20px;<br />      border-radius:50%;<br />      background:<br />        radial-gradient(circle at center,#fff 57%,transparent 58%),<br />        conic-gradient(#ff7a00 82%,#f0f0f0 0);<br />      display:flex;<br />      align-items:center;<br />      justify-content:center;<br />    }</p>\r\n<p>    .ts-circle span{font-size:25px;font-weight:800;color:#111}</p>\r\n<p>    .ts-columns{<br />      height:210px;<br />      display:flex;<br />      align-items:flex-end;<br />      justify-content:space-between;<br />      gap:18px;<br />      border-bottom:1px solid #ddd;<br />      padding-top:18px;<br />    }</p>\r\n<p>    .ts-columns div{<br />      flex:1;<br />      height:100%;<br />      display:flex;<br />      flex-direction:column;<br />      align-items:center;<br />      justify-content:flex-end;<br />      gap:8px;<br />      font-size:13px;<br />      color:#555;<br />      text-align:center;<br />    }</p>\r\n<p>    .ts-columns i{<br />      width:100%;<br />      max-width:46px;<br />      display:block;<br />      border-radius:14px 14px 0 0;<br />      background:linear-gradient(180deg,#ff7a00,#ffb15c);<br />    }</p>\r\n<p>    .ts-columns b{font-size:13px;color:#111}</p>\r\n<p>    .ts-section{margin-top:58px}<br />    .ts-section h3{margin:0 0 18px;font-size:32px;line-height:1.2;color:#111}<br />    .ts-section p{margin:0 0 16px;font-size:17px;line-height:1.75;color:#333}</p>\r\n<p>    .ts-cards{<br />      display:grid;<br />      grid-template-columns:repeat(3,1fr);<br />      gap:20px;<br />      margin-top:28px;<br />    }</p>\r\n<p>    .ts-card{<br />      padding:26px;<br />      border-radius:26px;<br />      background:#fafafa;<br />      border:1px solid #eee;<br />    }</p>\r\n<p>    .ts-card span{<br />      display:flex;<br />      align-items:center;<br />      justify-content:center;<br />      width:46px;<br />      height:46px;<br />      margin-bottom:16px;<br />      border-radius:50%;<br />      background:#ff7a00;<br />      color:#fff;<br />      font-weight:800;<br />    }</p>\r\n<p>    .ts-card strong{display:block;margin-bottom:9px;font-size:20px;color:#111}<br />    .ts-card p{margin:0;font-size:15px;line-height:1.6;color:#444}</p>\r\n<p>    .ts-dark{<br />      margin-top:60px;<br />      padding:42px;<br />      border-radius:32px;<br />      background:linear-gradient(135deg,#101010,#292929);<br />      box-shadow:0 24px 65px rgba(0,0,0,.18);<br />      color:#fff;<br />    }</p>\r\n<p>    .ts-dark h3{margin:0 0 16px;font-size:32px;color:#fff}<br />    .ts-dark p{margin:0 0 20px;font-size:17px;line-height:1.75;color:#e8e8e8}</p>\r\n<p>    .ts-industries{<br />      display:grid;<br />      grid-template-columns:repeat(3,1fr);<br />      gap:18px;<br />      margin-top:28px;<br />    }</p>\r\n<p>    .ts-industry{<br />      padding:24px;<br />      border-radius:24px;<br />      background:rgba(255,255,255,.08);<br />      border:1px solid rgba(255,255,255,.12);<br />    }</p>\r\n<p>    .ts-industry strong{display:block;margin-bottom:9px;font-size:19px;color:#ff9a32}<br />    .ts-industry p{margin:0;font-size:15px;line-height:1.6;color:#f1f1f1}</p>\r\n<p>    .ts-cta{<br />      margin-top:60px;<br />      padding:38px;<br />      border-radius:32px;<br />      background:#fff;<br />      border:1px solid #eee;<br />      box-shadow:0 20px 55px rgba(0,0,0,.08);<br />      display:grid;<br />      grid-template-columns:1fr auto;<br />      gap:26px;<br />      align-items:center;<br />    }</p>\r\n<p>    .ts-cta h3{margin:0 0 10px;font-size:30px;color:#111}<br />    .ts-cta p{margin:0;font-size:16px;line-height:1.65;color:#444}</p>\r\n<p>    .ts-button{<br />      display:inline-block;<br />      padding:15px 26px;<br />      border-radius:50px;<br />      background:#ff7a00;<br />      color:#fff!important;<br />      text-decoration:none;<br />      font-weight:700;<br />      white-space:nowrap;<br />    }</p>\r\n<p>    @media(max-width:900px){<br />      .ts-hero,<br />      .ts-infographic,<br />      .ts-cards,<br />      .ts-industries,<br />      .ts-cta{<br />        grid-template-columns:1fr;<br />      }</p>\r\n<p>      .ts-container{padding:42px 16px}<br />      .ts-title{font-size:36px}<br />      .ts-dark,.ts-cta{padding:28px}<br />    }<br />  </style></p>\r\n\r\n<div class=\"ts-container\">\r\n<div class=\"ts-hero\">\r\n<div class=\"ts-hero-text\">\r\n<h2 class=\"ts-title\">TrackScan Sharp E</h2>\r\n<p class=\"ts-lead\"><strong>Оптическая система 3D-сканирования нового поколения</strong>\r\nдля высокоскоростного и сверхточного контроля крупногабаритных объектов.</p>\r\n<p class=\"ts-lead\">TrackScan Sharp E оснащена высокочувствительными промышленными камерами и мощными встроенными процессорами. Система обеспечивает скорость захвата данных <span class=\"ts-orange\">до 6 000 000 измерений в секунду</span> и исключительную точность на всем рабочем объеме.</p>\r\n<p class=\"ts-lead\">Аккумуляторное питание и беспроводная передача данных освобождают оператора от кабельных ограничений и позволяют проводить измерения в любой производственной среде.</p>\r\n\r\n</div>\r\n<div class=\"ts-image\">\r\n<p class=\"mod-reset\"><img src=\"/upload/editor_images/1725885360-mceu_49803362711725885360146.jpg\" alt=\"Оптическая система 3D-сканирования TrackScan Sharp E\" height=\"600\"></p>\r\n\r\n</div>\r\n</div>\r\n<div class=\"ts-infographic\">\r\n<div class=\"ts-chart\">\r\n<h3>Скорость измерений</h3>\r\n<div class=\"ts-bar-bg\">\r\n<div class=\"ts-bar-fill\"></div>\r\n</div>\r\n<div class=\"ts-value\">6 000 000 точек/с</div>\r\nСокращает время контроля крупных деталей и повышает эффективность производственного цикла.\r\n\r\n</div>\r\n<div class=\"ts-chart\">\r\n<h3>Точность детали</h3>\r\n<div class=\"ts-circle\">0,025 мм</div>\r\nМаксимальная точность измерения для ответственных задач промышленного контроля.\r\n\r\n</div>\r\n<div class=\"ts-chart\">\r\n<h3>Объемная точность</h3>\r\n<div class=\"ts-columns\">\r\n<div>10,4 м³\r\n<i style=\"height: 32%;\"></i>\r\n<b>0,033 мм</b></div>\r\n<div>35,0 м³\r\n<i style=\"height: 54%;\"></i>\r\n<b>0,054 мм</b></div>\r\n<div>90,0 м³\r\n<i style=\"height: 100%;\"></i>\r\n<b>0,113 мм</b></div>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"ts-section\">\r\n<h3>Рекордная скорость и эталонная точность</h3>\r\nСистема демонстрирует превосходство в двух ключевых аспектах: высокой скорости измерений и стабильной метрологической точности. Это позволяет быстрее получать данные, сокращать время контроля крупных деталей и повышать предсказуемость производственного процесса.\r\n<div class=\"ts-cards\">\r\n<div class=\"ts-card\">01\r\n<strong>Высокая скорость</strong>До 6 млн точек в секунду для быстрого сканирования крупногабаритных объектов.</div>\r\n<div class=\"ts-card\">02\r\n<strong>Метрологическая точность</strong>Точность измерения детали до 0,025 мм для сложных производственных задач.</div>\r\n<div class=\"ts-card\">03\r\n<strong>Свобода оператора</strong>Работа от аккумулятора и беспроводная передача данных без кабельных ограничений.</div>\r\n</div>\r\n</div>\r\n<div class=\"ts-dark\">\r\n<h3>Мощность для самых сложных задач</h3>\r\nБлагодаря продвинутой оптике, интеллектуальным алгоритмам адаптивного освещения и стабильной механической конструкции система обеспечивает надежное отслеживание на больших расстояниях.\r\n<div class=\"ts-industries\">\r\n<div class=\"ts-industry\">\r\n\r\n<strong>Аэрокосмическая отрасль</strong>Контроль крупногабаритных компонентов, оснастки и конструктивных элементов.\r\n\r\n</div>\r\n<div class=\"ts-industry\">\r\n\r\n<strong>Автомобилестроение</strong>Измерение кузовных панелей, пресс-форм и сборочных компонентов.\r\n\r\n</div>\r\n<div class=\"ts-industry\">\r\n\r\n<strong>Энергетика</strong>Контроль крупных деталей, где критичны точность, стабильность и повторяемость.\r\n\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"ts-section\">\r\n<h3>Эффективность при работе с крупными объектами</h3>\r\nШирокий рабочий объем и надежная конструкция снижают необходимость частого перемещения оборудования. Вы можете выполнять высокоточные измерения габаритных изделий, таких как пресс-формы, кузовные панели или элементы конструкций, из минимального числа позиций.\r\n\r\nЭто экономит время, снижает риски человеческой ошибки и делает процесс контроля более стабильным для производственных подразделений.\r\n\r\n</div>\r\n<div class=\"ts-cta\">\r\n<div>\r\n<h3>Оборудование доступно в лизинг</h3>\r\nВсе представленное в нашем каталоге оборудование доступно к приобретению на выгодных условиях лизинга. Наши специалисты помогут подобрать оптимальную схему под ваши производственные задачи и финансовые возможности, а также окажут содействие в оформлении всей необходимой документации.\r\n\r\n</div>\r\n<a class=\"ts-button\" href=\"https://am-tech.ru/leasing/\">Подробнее о лизинге</a>\r\n\r\n</div>\r\n</div>\r\n</section>",
+ "short_description": "Система TrackScan-Sharp E обеспечивает высокоточное 3D-сканирование без маркеров.\r\n\r\nСистема TrackScan-Sharp E помогает в решении задач по обратному проектированию, контролю геометрии (качества), создания новых продуктов и т.д",
+ "sku": "",
+ "price": "",
+ "regular_price": "",
+ "sale_price": "",
+ "date_on_sale_from": null,
+ "date_on_sale_from_gmt": null,
+ "date_on_sale_to": null,
+ "date_on_sale_to_gmt": null,
+ "on_sale": false,
+ "purchasable": false,
+ "total_sales": 0,
+ "virtual": false,
+ "downloadable": false,
+ "downloads": [],
+ "download_limit": -1,
+ "download_expiry": -1,
+ "external_url": "",
+ "button_text": "",
+ "tax_status": "taxable",
+ "tax_class": "",
+ "manage_stock": false,
+ "stock_quantity": null,
+ "backorders": "no",
+ "backorders_allowed": false,
+ "backordered": false,
+ "low_stock_amount": null,
+ "sold_individually": false,
+ "weight": "",
+ "dimensions": {
+  "length": "",
+  "width": "",
+  "height": ""
+ },
+ "shipping_required": true,
+ "shipping_taxable": true,
+ "shipping_class": "",
+ "shipping_class_id": 0,
+ "reviews_allowed": true,
+ "average_rating": "0",
+ "rating_count": 0,
+ "upsell_ids": [],
+ "cross_sell_ids": [],
+ "parent_id": 0,
+ "purchase_note": "",
+ "categories": [
+  {
+   "id": 24,
+   "name": "3D-сканеры",
+   "slug": "3d-scan"
+  }
+ ],
+ "brands": [],
+ "tags": [],
+ "images": [
+  {
+   "id": 1684,
+   "date_created": "2025-08-17T10:01:11",
+   "date_created_gmt": "2025-08-17T04:01:11",
+   "date_modified": "2025-08-17T10:01:11",
+   "date_modified_gmt": "2025-08-17T04:01:11",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/m78418h540wlrokxzd612ojl5r9g39bt.png",
+   "name": "m78418h540wlrokxzd612ojl5r9g39bt",
+   "alt": ""
+  },
+  {
+   "id": 1685,
+   "date_created": "2025-08-17T10:02:02",
+   "date_created_gmt": "2025-08-17T04:02:02",
+   "date_modified": "2025-08-17T10:02:02",
+   "date_modified_gmt": "2025-08-17T04:02:02",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/pu48bw05myffgqopriy3vph7rh7on3rn.png",
+   "name": "pu48bw05myffgqopriy3vph7rh7on3rn",
+   "alt": ""
+  },
+  {
+   "id": 1686,
+   "date_created": "2025-08-17T10:02:05",
+   "date_created_gmt": "2025-08-17T04:02:05",
+   "date_modified": "2025-08-17T10:02:05",
+   "date_modified_gmt": "2025-08-17T04:02:05",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/tdh32yzkfkse13d6aw3laawx0x5nc6i7.png",
+   "name": "tdh32yzkfkse13d6aw3laawx0x5nc6i7",
+   "alt": ""
+  },
+  {
+   "id": 1687,
+   "date_created": "2025-08-17T10:02:09",
+   "date_created_gmt": "2025-08-17T04:02:09",
+   "date_modified": "2025-08-17T10:02:09",
+   "date_modified_gmt": "2025-08-17T04:02:09",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/tphmd0pa6jdeapbrip1j5oe6kq210jx7-scaled.png",
+   "name": "tphmd0pa6jdeapbrip1j5oe6kq210jx7",
+   "alt": ""
+  },
+  {
+   "id": 1688,
+   "date_created": "2025-08-17T10:03:07",
+   "date_created_gmt": "2025-08-17T04:03:07",
+   "date_modified": "2025-08-17T10:03:07",
+   "date_modified_gmt": "2025-08-17T04:03:07",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/ykfd3uj3ot2ncqyq4ipovhuhqi4roj3c-scaled.png",
+   "name": "ykfd3uj3ot2ncqyq4ipovhuhqi4roj3c",
+   "alt": ""
+  },
+  {
+   "id": 1689,
+   "date_created": "2025-08-17T10:03:16",
+   "date_created_gmt": "2025-08-17T04:03:16",
+   "date_modified": "2025-08-17T10:03:16",
+   "date_modified_gmt": "2025-08-17T04:03:16",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/80bibuczs9ey4hrtzt2y2mf7x6xmihj0-scaled.png",
+   "name": "80bibuczs9ey4hrtzt2y2mf7x6xmihj0",
+   "alt": ""
+  }
+ ],
+ "attributes": [
+  {
+   "id": 3524,
+   "name": "Точность, мм, до",
+   "slug": "pa_tochnost-mm-do",
+   "position": 0,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "0,025"
+   ]
+  },
+  {
+   "id": 3525,
+   "name": "Объемная точность, мм",
+   "slug": "pa_obemnaja-tochnost-mm",
+   "position": 1,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "10,4 м³ - 0,033; 35,0 м³ - 0,054; 90,0 м³ - 0,113"
+   ]
+  },
+  {
+   "id": 3528,
+   "name": "Объемная точность с фотограмметрией MSCAN L15, мм",
+   "slug": "pa_obemnaja-tochnost-s",
+   "position": 2,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "0,032 + 0,012∗L"
+   ]
+  },
+  {
+   "id": 3530,
+   "name": "Возможность работы со щупом",
+   "slug": "pa_vozmozhnost-shhupo",
+   "position": 3,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "i-Probe 500, повторяемость в одной точке 0,025 мм"
+   ]
+  },
+  {
+   "id": 3529,
+   "name": "Доверительная вероятность",
+   "slug": "pa_doveritelnaja-verojatnost",
+   "position": 4,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "0,95"
+   ]
+  },
+  {
+   "id": 3531,
+   "name": "Разрешение, мм, до",
+   "slug": "pa_razreshenie-mm-do",
+   "position": 5,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "0,02"
+   ]
+  },
+  {
+   "id": 3532,
+   "name": "Скорость измерений, точек/сек, до",
+   "slug": "pa_skorost-izmerenij",
+   "position": 6,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "6 000 000"
+   ]
+  },
+  {
+   "id": 3533,
+   "name": "Область сканирования (поле зрения), мм, до",
+   "slug": "pa_oblast-pole-zr",
+   "position": 7,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "800 х 700"
+   ]
+  },
+  {
+   "id": 3534,
+   "name": "Оптимальное расстояние до объекта, мм",
+   "slug": "pa_optimalnoe-rasstojanie",
+   "position": 8,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "300"
+   ]
+  },
+  {
+   "id": 3535,
+   "name": "Источник излучения",
+   "slug": "pa_istochnik-izluchenija",
+   "position": 9,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "Сверхбыстрое сканирование: 81 синих пересекающихся лазерных линии Сканирование в высоком разрешении: 17 синих параллельных линий"
+   ]
+  },
+  {
+   "id": 3536,
+   "name": "Глубина резкости, мм",
+   "slug": "pa_glubina-rezkosti-mm",
+   "position": 10,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "до 800"
+   ]
+  },
+  {
+   "id": 3537,
+   "name": "Размеры измеряемого объекта, м",
+   "slug": "pa_razmery-izmerjaemogo",
+   "position": 11,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "0,1-12"
+   ]
+  },
+  {
+   "id": 3538,
+   "name": "Габариты сканера, мм",
+   "slug": "pa_gabarity-skanera-mm",
+   "position": 12,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "1010×150×150 (трекер) 300×300×300 (сканер)"
+   ]
+  },
+  {
+   "id": 3539,
+   "name": "Вес сканера, кг",
+   "slug": "pa_ves-skanera-kg",
+   "position": 13,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "7,75 (трекер) 1,5 (сканер)"
+   ]
+  },
+  {
+   "id": 3540,
+   "name": "Температура окружающей среды при эксплуатации, °С",
+   "slug": "pa_temperatura",
+   "position": 14,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "от -10 до +40"
+   ]
+  },
+  {
+   "id": 3541,
+   "name": "Наличие в реестре средств измерений",
+   "slug": "pa_nalichie-v-reestre",
+   "position": 15,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "Внесен"
+   ]
+  }
+ ],
+ "default_attributes": [],
+ "variations": [],
+ "grouped_products": [],
+ "menu_order": 7,
+ "price_html": "",
+ "related_ids": [
+  2838,
+  1561,
+  1590,
+  1583,
+  1671
+ ],
+ "meta_data": [
+  {
+   "id": 41186,
+   "key": "bitrix_id",
+   "value": "2547"
+  },
+  {
+   "id": 41187,
+   "key": "Символьный код",
+   "value": "am-tech-trackscan-sharp-s"
+  },
+  {
+   "id": 41188,
+   "key": "Анонс",
+   "value": "<p>Система TrackScan-Sharp 49&nbsp;обеспечивает высокоточное 3D-сканирование&nbsp;без маркеров.</p>\r\n<p>Система TrackScan-Sharp 49&nbsp;помогает в решении задач по обратному проектированию, контролю геометрии (качества), создания новых продуктов и т.д</p>"
+  },
+  {
+   "id": 41189,
+   "key": "Описание",
+   "value": "<h2>TrackScan Sharp S</h2>\r\n<p>Оптическая система 3D-сканирования TrackScan Sharp S, оснащенная 25-мегапиксельными промышленными камерами и надежными встроенными процессорами для пограничных вычислений, специально разработана для измерения крупногабаритных деталей на большом расстоянии с высокой скоростью. Она поднимает оптические измерения на новую высоту, предлагая расстояние отслеживания до 8,5 метров, высокоточный диапазон измерений 135 м&sup3;, обеспечивая мощный опыт измерений. Эта измерительная система отличается надежностью, включая 99 лазерных линий, и скоростью измерения до 4,86 млн измерений/с, обеспечивая высокоточные и надежные результаты измерений.</p>\r\n<p>Кроме того, третье поколение технологии am-tech.ru, отличающееся интеллектуальным и проводным Третий сканер TrackScan Sharp S работает от аккумулятора и поддерживает беспроводную передачу данных, что освобождает пользователя от необходимости прокладывать кабель и обеспечивает беспрепятственное сканирование в любом месте. что освобождает пользователя от кабельных ограничений и обеспечивает беспрепятственное сканирование в любых условиях. окружающей среде.</p>\r\n<h2>Отслеживание на большие расстояния и большие объемы&nbsp;</h2>\r\n<p>TrackScan Sharp S использует динамический адаптивный светодиодный алгоритм и глубину резкости на большом расстоянии, что позволяет отслеживать максимальное расстояние до 8,5 метров. Это позволяет пользователям без труда решать самые разнообразные задачи, включая измерение крупногабаритных деталей в аэрокосмической, энергетической и тяжелой промышленности и тяжелой промышленности.&nbsp;</p>\r\n<p>Промышленный высокоточный диапазон измерений 135 м&sup3; и диапазон сканирования 233 м&sup3; достигаются благодаря большому объему отслеживания и надежному алгоритму калибровки краев и стабильной конструкции. Это избавляет от необходимости часто перемещать трекеры и позволяет пользователям эффективно измерять большие компоненты в одном положении.</p>\r\n<p align=\"center\"><img src=\"/upload/editor_images/1725885360-mceu_49803362711725885360146.jpg\" height=\"600\" /></p>\r\n<p>Все представленное в нашем каталоге оборудование доступно к приобретению на выгодных условиях <a href=\"https://am-tech.ru/leasing/\">лизинга.</a></p>\r\n<p>Наши специалисты помогут подобрать оптимальную схему лизинга под ваши производственные задачи и финансовые возможности, а также окажут содействие в оформлении всей необходимой документации.</p>"
+  },
+  {
+   "id": 41190,
+   "key": "Точность, мм",
+   "value": "до 0,025"
+  },
+  {
+   "id": 41191,
+   "key": "Объемная точность, мм/м",
+   "value": "10,4 м³ - 0,033 35,0 м³ - 0,054  95,0 м³ - 0,113 135,0 м³ - 0,144"
+  },
+  {
+   "id": 41192,
+   "key": "Объемная точность с фотограмметрией MSCAN L15, мм/м",
+   "value": "0,032 + 0,012∗L"
+  },
+  {
+   "id": 41193,
+   "key": "Доверительная вероятность",
+   "value": "0,95"
+  },
+  {
+   "id": 41194,
+   "key": "Возможность работы со щупом",
+   "value": "i-Probe 500, повторяемость в одной точке 0,025 мм"
+  },
+  {
+   "id": 41195,
+   "key": "Разрешение, мм",
+   "value": "до 0,020"
+  },
+  {
+   "id": 41196,
+   "key": "Скорость измерений, точек/сек",
+   "value": "4 860 000"
+  },
+  {
+   "id": 41197,
+   "key": "Область сканирования (поле зрения), мм",
+   "value": "800 х 700 мм"
+  },
+  {
+   "id": 41198,
+   "key": "Оптимальное расстояние до объекта, мм",
+   "value": "300 мм"
+  },
+  {
+   "id": 41199,
+   "key": "Источник излучения",
+   "value": "Сверхбыстрое сканирование: 81 синих пересекающихся лазерных линии  Сканирование в высоком разрешении: 17 синих параллельных линий  Сканирование глубоких отверстий: 1 синяя линия"
+  },
+  {
+   "id": 41200,
+   "key": "Глубина резкости, мм",
+   "value": "400"
+  },
+  {
+   "id": 41201,
+   "key": "Размеры измеряемого объекта, м",
+   "value": "0,1-12"
+  },
+  {
+   "id": 41202,
+   "key": "Габариты, мм",
+   "value": "1010×150×150  (трекер) 89×145×510  (щуп i-Probe 500)"
+  },
+  {
+   "id": 41203,
+   "key": "Вес, кг",
+   "value": "7,75 (трекер) 1,5 (сканер)"
+  },
+  {
+   "id": 41204,
+   "key": "Температура окружающей среды, °C",
+   "value": "от -10 до +40"
+  },
+  {
+   "id": 41205,
+   "key": "Наличие в реестре средств измерений",
+   "value": "Да"
+  },
+  {
+   "id": 41206,
+   "key": "Страна производства",
+   "value": "Китай"
+  },
+  {
+   "id": 41207,
+   "key": "Отображать в слайдере на главной",
+   "value": "YES"
+  },
+  {
+   "id": 41208,
+   "key": "Цвет шапки и текста",
+   "value": "light"
+  },
+  {
+   "id": 41209,
+   "key": "Код с видео (iframe)",
+   "value": "https://www.youtube.com/embed/PoZQeG4jgsU?si=g1OHkTqJBnbtFixX"
+  },
+  {
+   "id": 41210,
+   "key": "Связанные товары по фильтру",
+   "value": "[]"
+  },
+  {
+   "id": 41211,
+   "key": "Вес, кг.",
+   "value": "6,8 (Трекер) 1,7 (Сканер)"
+  },
+  {
+   "id": 41212,
+   "key": "Внешние габариты, мм",
+   "value": "1003х157х150 (Трекер); 298х287х230 (Сканер)"
+  },
+  {
+   "id": 41213,
+   "key": "bitrix_picture",
+   "value": "/pr_new_files/iblock/b9d/igbdjc8efl3e1n7x920jv4tm1v45dq8r.png"
+  },
+  {
+   "id": 41214,
+   "key": "Документы товара",
+   "value": ""
+  },
+  {
+   "id": 41215,
+   "key": "Файл видео",
+   "value": ""
+  },
+  {
+   "id": 41216,
+   "key": "_news_category",
+   "value": "0"
+  },
+  {
+   "id": 41217,
+   "key": "_news_tag",
+   "value": "0"
+  },
+  {
+   "id": 41218,
+   "key": "_custom_advantages",
+   "value": ""
+  },
+  {
+   "id": 41219,
+   "key": "_my_menu_type",
+   "value": "обычное"
+  },
+  {
+   "id": 41220,
+   "key": "_video_block",
+   "value": {
+    "video_title": "",
+    "video_post_id": "",
+    "right_title": "",
+    "subtitle": "",
+    "video_description": "",
+    "button_text": "Смотреть больше видео",
+    "tag_id": ""
+   }
+  },
+  {
+   "id": 41221,
+   "key": "boldgrid_in_page_containers",
+   "value": "1"
+  },
+  {
+   "id": 41222,
+   "key": "_yoast_wpseo_primary_product_brand",
+   "value": ""
+  },
+  {
+   "id": 41223,
+   "key": "_yoast_wpseo_primary_product_cat",
+   "value": ""
+  },
+  {
+   "id": 41224,
+   "key": "_yoast_wpseo_content_score",
+   "value": "90"
+  },
+  {
+   "id": 41225,
+   "key": "_yoast_wpseo_estimated-reading-time-minutes",
+   "value": "3"
+  },
+  {
+   "id": 41226,
+   "key": "_yoast_wpseo_title",
+   "value": "3D-сканер TrackScan Sharp E — с оптическим трекингом | AM-Tech"
+  },
+  {
+   "id": 41227,
+   "key": "_yoast_wpseo_metadesc",
+   "value": "3D-сканер TrackScan Sharp E: автоматизация процессов сканирования. Доставка по России от AM-Tech."
+  },
+  {
+   "id": 41228,
+   "key": "_vcv-sourceChecksum",
+   "value": "e0d540ce157ee2bb31ffebf949679a82"
+  },
+  {
+   "id": 41229,
+   "key": "vcvSourceCssFileUrl",
+   "value": "/assets-bundles/e0d540ce157ee2bb31ffebf949679a82.source.css"
+  },
+  {
+   "id": 41230,
+   "key": "_vcv-globalCssMigrated",
+   "value": "1"
+  },
+  {
+   "id": 52845,
+   "key": "_elementor_page_assets",
+   "value": []
+  }
+ ],
+ "stock_status": "instock",
+ "has_options": false,
+ "post_password": "",
+ "global_unique_id": "",
+ "permalink_template": "https://am-tech.ru/product/%pagename%/",
+ "generated_slug": "3d-skaner-trackscan-sharp-e",
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>3D-сканер TrackScan Sharp E — с оптическим трекингом | AM-Tech</title>\n<meta name=\"description\" content=\"3D-сканер TrackScan Sharp E: автоматизация процессов сканирования. Доставка по России от AM-Tech.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/product/3d-skaner-trackscan-sharp-e/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"3D-сканер TrackScan Sharp E — с оптическим трекингом | AM-Tech\" />\n<meta property=\"og:description\" content=\"3D-сканер TrackScan Sharp E: автоматизация процессов сканирования. Доставка по России от AM-Tech.\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/product/3d-skaner-trackscan-sharp-e/\" />\n<meta property=\"og:site_name\" content=\"AM.TECH\" />\n<meta property=\"article:modified_time\" content=\"2026-06-30T12:08:18+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2025/08/m78418h540wlrokxzd612ojl5r9g39bt.png\" />\n\t<meta property=\"og:image:width\" content=\"1000\" />\n\t<meta property=\"og:image:height\" content=\"562\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"3 минуты\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/product/3d-skaner-trackscan-sharp-e/\",\"url\":\"https://am-tech.ru/product/3d-skaner-trackscan-sharp-e/\",\"name\":\"3D-сканер TrackScan Sharp E — с оптическим трекингом | AM-Tech\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/product/3d-skaner-trackscan-sharp-e/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/product/3d-skaner-trackscan-sharp-e/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2025/08/m78418h540wlrokxzd612ojl5r9g39bt.png\",\"datePublished\":\"2026-01-26T10:55:00+00:00\",\"dateModified\":\"2026-06-30T12:08:18+00:00\",\"description\":\"3D-сканер TrackScan Sharp E: автоматизация процессов сканирования. Доставка по России от AM-Tech.\",\"breadcrumb\":{\"@id\":\"https://am-tech.ru/product/3d-skaner-trackscan-sharp-e/#breadcrumb\"},\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/product/3d-skaner-trackscan-sharp-e/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/product/3d-skaner-trackscan-sharp-e/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2025/08/m78418h540wlrokxzd612ojl5r9g39bt.png\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2025/08/m78418h540wlrokxzd612ojl5r9g39bt.png\",\"width\":1000,\"height\":562},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://am-tech.ru/product/3d-skaner-trackscan-sharp-e/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Главная страница\",\"item\":\"https://am-tech.ru/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Промышленные 3D сканеры: оборудование для реверс-инжиниринга и контроля качества\",\"item\":\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"3D-сканеры\",\"item\":\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"3D-сканер TrackScan Sharp E\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"AM.TECH\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"AM.TECH\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"AM.TECH\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "3D-сканер TrackScan Sharp E — с оптическим трекингом | AM-Tech",
+  "description": "3D-сканер TrackScan Sharp E: автоматизация процессов сканирования. Доставка по России от AM-Tech.",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/product/3d-skaner-trackscan-sharp-e/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "3D-сканер TrackScan Sharp E — с оптическим трекингом | AM-Tech",
+  "og_description": "3D-сканер TrackScan Sharp E: автоматизация процессов сканирования. Доставка по России от AM-Tech.",
+  "og_url": "https://am-tech.ru/product/3d-skaner-trackscan-sharp-e/",
+  "og_site_name": "AM.TECH",
+  "article_modified_time": "2026-06-30T12:08:18+00:00",
+  "og_image": [
+   {
+    "width": 1000,
+    "height": 562,
+    "url": "https://am-tech.ru/wp-content/uploads/2025/08/m78418h540wlrokxzd612ojl5r9g39bt.png",
+    "type": "image/png"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "3 минуты"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/product/3d-skaner-trackscan-sharp-e/",
+     "url": "https://am-tech.ru/product/3d-skaner-trackscan-sharp-e/",
+     "name": "3D-сканер TrackScan Sharp E — с оптическим трекингом | AM-Tech",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/product/3d-skaner-trackscan-sharp-e/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/product/3d-skaner-trackscan-sharp-e/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2025/08/m78418h540wlrokxzd612ojl5r9g39bt.png",
+     "datePublished": "2026-01-26T10:55:00+00:00",
+     "dateModified": "2026-06-30T12:08:18+00:00",
+     "description": "3D-сканер TrackScan Sharp E: автоматизация процессов сканирования. Доставка по России от AM-Tech.",
+     "breadcrumb": {
+      "@id": "https://am-tech.ru/product/3d-skaner-trackscan-sharp-e/#breadcrumb"
+     },
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/product/3d-skaner-trackscan-sharp-e/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/product/3d-skaner-trackscan-sharp-e/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2025/08/m78418h540wlrokxzd612ojl5r9g39bt.png",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2025/08/m78418h540wlrokxzd612ojl5r9g39bt.png",
+     "width": 1000,
+     "height": 562
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://am-tech.ru/product/3d-skaner-trackscan-sharp-e/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Главная страница",
+       "item": "https://am-tech.ru/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Промышленные 3D сканеры: оборудование для реверс-инжиниринга и контроля качества",
+       "item": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "3D-сканеры",
+       "item": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 4,
+       "name": "3D-сканер TrackScan Sharp E"
+      }
+     ]
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "AM.TECH",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "AM.TECH",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "AM.TECH"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wc/v3/products/3772",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wc/v3/products"
+   }
+  ]
+ }
+}

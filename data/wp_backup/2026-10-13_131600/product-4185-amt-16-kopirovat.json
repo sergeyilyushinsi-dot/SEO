@@ -1,0 +1,656 @@
+{
+ "id": 4185,
+ "name": "AMT-16 (Копировать)",
+ "slug": "amt-16-kopirovat",
+ "permalink": "https://am-tech.ru/product/amt-16-kopirovat/",
+ "date_created": "2026-07-28T17:28:19",
+ "date_created_gmt": "2026-07-28T14:28:19",
+ "date_modified": "2026-08-25T09:20:30",
+ "date_modified_gmt": "2026-08-25T06:20:30",
+ "type": "simple",
+ "status": "publish",
+ "featured": false,
+ "catalog_visibility": "visible",
+ "description": "<div class=\"boldgrid-section\">\n<div class=\"container\">\n<div class=\"row\">\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\n<p><!-- AMT-16 — премиальное описание для карточки товара am-tech.ru Можно целиком вставить в виджет Elementor «HTML» или блок WordPress «Произвольный HTML». Все стили изолированы префиксом amt16p и не влияют на остальные элементы сайта. --></p>\n<style>\n  #amt16-premium,<br />\n  #amt16-premium * {<br />\n    box-sizing: border-box;<br />\n  }</p>\n<p>  #amt16-premium {<br />\n    --amt16-orange: #ff7300;<br />\n    --amt16-orange-dark: #dc5900;<br />\n    --amt16-ink: #111317;<br />\n    --amt16-charcoal: #171a1f;<br />\n    --amt16-muted: #6b717b;<br />\n    --amt16-line: #e8e9ec;<br />\n    --amt16-paper: #f5f5f3;<br />\n    --amt16-white: #ffffff;<br />\n    position: relative;<br />\n    width: 100%;<br />\n    margin: 0;<br />\n    color: var(--amt16-ink);<br />\n    font-family: Inter, Arial, Helvetica, sans-serif;<br />\n    font-size: 16px;<br />\n    line-height: 1.6;<br />\n    background: var(--amt16-white);<br />\n    overflow: hidden;<br />\n    isolation: isolate;<br />\n  }</p>\n<p>  #amt16-premium img,<br />\n  #amt16-premium svg {<br />\n    display: block;<br />\n    max-width: 100%;<br />\n  }</p>\n<p>  #amt16-premium a {<br />\n    color: inherit;<br />\n  }</p>\n<p>  #amt16-premium h2,<br />\n  #amt16-premium h3,<br />\n  #amt16-premium h4,<br />\n  #amt16-premium p {<br />\n    margin-top: 0;<br />\n  }</p>\n<p>  #amt16-premium h2,<br />\n  #amt16-premium h3,<br />\n  #amt16-premium h4 {<br />\n    color: inherit;<br />\n    font-family: inherit;<br />\n    text-transform: none;<br />\n    letter-spacing: -0.035em;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-shell {<br />\n    width: min(1220px, calc(100% - 48px));<br />\n    margin-inline: auto;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-kicker {<br />\n    display: inline-flex;<br />\n    align-items: center;<br />\n    gap: 10px;<br />\n    margin-bottom: 22px;<br />\n    color: var(--amt16-orange);<br />\n    font-size: 12px;<br />\n    font-weight: 800;<br />\n    line-height: 1.2;<br />\n    letter-spacing: 0.12em;<br />\n    text-transform: uppercase;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-kicker::before {<br />\n    width: 24px;<br />\n    height: 2px;<br />\n    content: \"\";<br />\n    background: currentColor;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-section-head {<br />\n    display: grid;<br />\n    grid-template-columns: minmax(0, 1.1fr) minmax(280px, 0.7fr);<br />\n    gap: 56px;<br />\n    align-items: end;<br />\n    margin-bottom: 54px;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-section-head h2 {<br />\n    max-width: 780px;<br />\n    margin-bottom: 0;<br />\n    font-size: clamp(34px, 4vw, 58px);<br />\n    font-weight: 650;<br />\n    line-height: 1.02;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-section-head p {<br />\n    max-width: 510px;<br />\n    margin-bottom: 0;<br />\n    color: var(--amt16-muted);<br />\n    font-size: 17px;<br />\n    line-height: 1.65;<br />\n  }</p>\n<p>  /* Hero */<br />\n  #amt16-premium .amt16p-hero {<br />\n    position: relative;<br />\n    min-height: 690px;<br />\n    padding: 92px 0 72px;<br />\n    color: var(--amt16-white);<br />\n    background:<br />\n      radial-gradient(circle at 80% 35%, rgba(255, 115, 0, 0.16), transparent 28%),<br />\n      linear-gradient(135deg, #0b0d10 0%, #15181d 58%, #0a0b0d 100%);<br />\n    overflow: hidden;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-hero::before {<br />\n    position: absolute;<br />\n    inset: 0;<br />\n    z-index: 0;<br />\n    content: \"\";<br />\n    pointer-events: none;<br />\n    opacity: 0.2;<br />\n    background-image:<br />\n      linear-gradient(rgba(255, 255, 255, 0.055) 1px, transparent 1px),<br />\n      linear-gradient(90deg, rgba(255, 255, 255, 0.055) 1px, transparent 1px);<br />\n    background-size: 68px 68px;<br />\n    mask-image: linear-gradient(90deg, #000, transparent 78%);<br />\n  }</p>\n<p>  #amt16-premium .amt16p-hero-grid {<br />\n    position: relative;<br />\n    z-index: 1;<br />\n    display: grid;<br />\n    grid-template-columns: minmax(0, 0.94fr) minmax(430px, 1.06fr);<br />\n    gap: 56px;<br />\n    align-items: center;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-hero-copy h2 {<br />\n    max-width: 700px;<br />\n    margin-bottom: 26px;<br />\n    color: var(--amt16-white);<br />\n    font-size: clamp(50px, 6vw, 86px);<br />\n    font-weight: 650;<br />\n    line-height: 0.93;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-hero-copy h2 span {<br />\n    color: var(--amt16-orange);<br />\n  }</p>\n<p>  #amt16-premium .amt16p-lead {<br />\n    max-width: 640px;<br />\n    margin-bottom: 34px;<br />\n    color: rgba(255, 255, 255, 0.72);<br />\n    font-size: clamp(18px, 2vw, 22px);<br />\n    line-height: 1.55;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-hero-actions {<br />\n    display: flex;<br />\n    flex-wrap: wrap;<br />\n    gap: 12px;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-btn {<br />\n    display: inline-flex;<br />\n    min-height: 54px;<br />\n    align-items: center;<br />\n    justify-content: center;<br />\n    gap: 12px;<br />\n    padding: 15px 23px;<br />\n    border: 1px solid transparent;<br />\n    border-radius: 4px;<br />\n    font-size: 14px;<br />\n    font-family: inherit;<br />\n    font-weight: 750;<br />\n    line-height: 1.2;<br />\n    text-align: center;<br />\n    text-decoration: none;<br />\n    cursor: pointer;<br />\n    transition: transform 180ms ease, background 180ms ease, border-color 180ms ease;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-btn:hover {<br />\n    transform: translateY(-2px);<br />\n  }</p>\n<p>  #amt16-premium .amt16p-btn-primary {<br />\n    color: #111317;<br />\n    background: var(--amt16-orange);<br />\n  }</p>\n<p>  #amt16-premium .amt16p-btn-primary:hover {<br />\n    color: #111317;<br />\n    background: #ff8a2b;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-btn-ghost {<br />\n    color: var(--amt16-white);<br />\n    border-color: rgba(255, 255, 255, 0.26);<br />\n    background: rgba(255, 255, 255, 0.04);<br />\n  }</p>\n<p>  #amt16-premium .amt16p-btn-ghost:hover {<br />\n    color: var(--amt16-white);<br />\n    border-color: rgba(255, 255, 255, 0.5);<br />\n    background: rgba(255, 255, 255, 0.08);<br />\n  }</p>\n<p>  #amt16-premium .amt16p-btn svg {<br />\n    width: 18px;<br />\n    height: 18px;<br />\n    flex: 0 0 auto;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-machine {<br />\n    position: relative;<br />\n    display: grid;<br />\n    min-height: 510px;<br />\n    place-items: center;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-machine::before,<br />\n  #amt16-premium .amt16p-machine::after {<br />\n    position: absolute;<br />\n    border: 1px solid rgba(255, 115, 0, 0.36);<br />\n    border-radius: 50%;<br />\n    content: \"\";<br />\n    pointer-events: none;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-machine::before {<br />\n    width: 430px;<br />\n    height: 430px;<br />\n    animation: amt16p-spin 24s linear infinite;<br />\n    background:<br />\n      linear-gradient(90deg, transparent 49.7%, rgba(255, 115, 0, 0.45) 50%, transparent 50.3%),<br />\n      linear-gradient(transparent 49.7%, rgba(255, 115, 0, 0.45) 50%, transparent 50.3%);<br />\n  }</p>\n<p>  #amt16-premium .amt16p-machine::after {<br />\n    width: 330px;<br />\n    height: 330px;<br />\n    border-color: rgba(255, 255, 255, 0.13);<br />\n  }</p>\n<p>  #amt16-premium .amt16p-machine img {<br />\n    position: relative;<br />\n    z-index: 2;<br />\n    width: min(100%, 505px);<br />\n    max-height: 540px;<br />\n    object-fit: contain;<br />\n    filter: drop-shadow(0 32px 45px rgba(0, 0, 0, 0.54));<br />\n  }</p>\n<p>  #amt16-premium .amt16p-machine-badge {<br />\n    position: absolute;<br />\n    z-index: 3;<br />\n    right: 0;<br />\n    bottom: 44px;<br />\n    width: 176px;<br />\n    padding: 18px 20px;<br />\n    border: 1px solid rgba(255, 255, 255, 0.16);<br />\n    border-radius: 10px;<br />\n    background: rgba(15, 17, 21, 0.72);<br />\n    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.25);<br />\n    backdrop-filter: blur(14px);<br />\n  }</p>\n<p>  #amt16-premium .amt16p-machine-badge strong {<br />\n    display: block;<br />\n    margin-bottom: 2px;<br />\n    color: var(--amt16-orange);<br />\n    font-size: 26px;<br />\n    font-weight: 700;<br />\n    line-height: 1;<br />\n    letter-spacing: -0.04em;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-machine-badge span {<br />\n    color: rgba(255, 255, 255, 0.64);<br />\n    font-size: 12px;<br />\n    line-height: 1.35;<br />\n  }</p>\n<p>  @keyframes amt16p-spin {<br />\n    to {<br />\n      transform: rotate(360deg);<br />\n    }<br />\n  }</p>\n<p>  /* Metrics */<br />\n  #amt16-premium .amt16p-metrics {<br />\n    position: relative;<br />\n    z-index: 2;<br />\n    margin-top: -1px;<br />\n    background: var(--amt16-orange);<br />\n  }</p>\n<p>  #amt16-premium .amt16p-metric-grid {<br />\n    display: grid;<br />\n    grid-template-columns: repeat(4, 1fr);<br />\n  }</p>\n<p>  #amt16-premium .amt16p-metric {<br />\n    min-height: 142px;<br />\n    padding: 29px 28px;<br />\n    border-right: 1px solid rgba(17, 19, 23, 0.16);<br />\n  }</p>\n<p>  #amt16-premium .amt16p-metric:last-child {<br />\n    border-right: 0;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-metric-value {<br />\n    display: block;<br />\n    margin-bottom: 8px;<br />\n    color: #111317;<br />\n    font-size: clamp(28px, 3vw, 42px);<br />\n    font-weight: 720;<br />\n    line-height: 1;<br />\n    letter-spacing: -0.05em;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-metric-label {<br />\n    display: block;<br />\n    max-width: 190px;<br />\n    color: rgba(17, 19, 23, 0.74);<br />\n    font-size: 13px;<br />\n    font-weight: 650;<br />\n    line-height: 1.35;<br />\n  }</p>\n<p>  /* Positioning */<br />\n  #amt16-premium .amt16p-positioning {<br />\n    padding: 116px 0;<br />\n    background: var(--amt16-white);<br />\n  }</p>\n<p>  #amt16-premium .amt16p-positioning-grid {<br />\n    display: grid;<br />\n    grid-template-columns: minmax(0, 0.82fr) minmax(0, 1.18fr);<br />\n    gap: 90px;<br />\n    align-items: start;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-positioning h2 {<br />\n    margin-bottom: 28px;<br />\n    font-size: clamp(38px, 4.6vw, 66px);<br />\n    font-weight: 650;<br />\n    line-height: 1.02;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-positioning-copy > p {<br />\n    margin-bottom: 34px;<br />\n    color: var(--amt16-muted);<br />\n    font-size: 18px;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-register {<br />\n    display: flex;<br />\n    align-items: center;<br />\n    gap: 14px;<br />\n    padding-top: 26px;<br />\n    border-top: 1px solid var(--amt16-line);<br />\n    color: var(--amt16-ink);<br />\n    font-size: 13px;<br />\n    font-weight: 650;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-register-icon {<br />\n    display: grid;<br />\n    width: 38px;<br />\n    height: 38px;<br />\n    flex: 0 0 auto;<br />\n    place-items: center;<br />\n    border-radius: 50%;<br />\n    color: var(--amt16-orange);<br />\n    background: rgba(255, 115, 0, 0.1);<br />\n  }</p>\n<p>  #amt16-premium .amt16p-register-icon svg {<br />\n    width: 18px;<br />\n    height: 18px;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-register a {<br />\n    text-underline-offset: 3px;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-quote {<br />\n    position: relative;<br />\n    padding: 48px 50px;<br />\n    border-radius: 14px;<br />\n    color: var(--amt16-white);<br />\n    background: var(--amt16-charcoal);<br />\n    overflow: hidden;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-quote::after {<br />\n    position: absolute;<br />\n    top: -110px;<br />\n    right: -105px;<br />\n    width: 290px;<br />\n    height: 290px;<br />\n    border: 44px solid rgba(255, 115, 0, 0.08);<br />\n    border-radius: 50%;<br />\n    content: \"\";<br />\n  }</p>\n<p>  #amt16-premium .amt16p-quote-mark {<br />\n    display: block;<br />\n    margin-bottom: 34px;<br />\n    color: var(--amt16-orange);<br />\n    font-size: 64px;<br />\n    font-weight: 800;<br />\n    line-height: 0.55;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-quote p {<br />\n    position: relative;<br />\n    z-index: 1;<br />\n    margin-bottom: 30px;<br />\n    color: var(--amt16-white);<br />\n    font-size: clamp(23px, 2.6vw, 34px);<br />\n    font-weight: 530;<br />\n    line-height: 1.35;<br />\n    letter-spacing: -0.025em;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-quote small {<br />\n    position: relative;<br />\n    z-index: 1;<br />\n    display: block;<br />\n    color: rgba(255, 255, 255, 0.52);<br />\n    font-size: 12px;<br />\n    font-weight: 700;<br />\n    letter-spacing: 0.09em;<br />\n    text-transform: uppercase;<br />\n  }</p>\n<p>  /* Engineering graphs */<br />\n  #amt16-premium .amt16p-engineering {<br />\n    padding: 116px 0;<br />\n    background: var(--amt16-paper);<br />\n  }</p>\n<p>  #amt16-premium .amt16p-graph-grid {<br />\n    display: grid;<br />\n    grid-template-columns: repeat(2, minmax(0, 1fr));<br />\n    gap: 22px;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-graph-card {<br />\n    min-height: 530px;<br />\n    padding: 42px;<br />\n    border: 1px solid rgba(17, 19, 23, 0.07);<br />\n    border-radius: 14px;<br />\n    background: var(--amt16-white);<br />\n    box-shadow: 0 20px 50px rgba(17, 19, 23, 0.055);<br />\n  }</p>\n<p>  #amt16-premium .amt16p-graph-card-dark {<br />\n    color: var(--amt16-white);<br />\n    border-color: transparent;<br />\n    background: var(--amt16-charcoal);<br />\n  }</p>\n<p>  #amt16-premium .amt16p-card-index {<br />\n    display: flex;<br />\n    align-items: center;<br />\n    justify-content: space-between;<br />\n    gap: 24px;<br />\n    margin-bottom: 38px;<br />\n    color: var(--amt16-orange);<br />\n    font-size: 12px;<br />\n    font-weight: 800;<br />\n    letter-spacing: 0.11em;<br />\n    text-transform: uppercase;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-card-index span:last-child {<br />\n    color: var(--amt16-muted);<br />\n  }</p>\n<p>  #amt16-premium .amt16p-graph-card-dark .amt16p-card-index span:last-child {<br />\n    color: rgba(255, 255, 255, 0.42);<br />\n  }</p>\n<p>  #amt16-premium .amt16p-graph-card h3 {<br />\n    max-width: 520px;<br />\n    margin-bottom: 16px;<br />\n    font-size: clamp(28px, 3vw, 39px);<br />\n    font-weight: 640;<br />\n    line-height: 1.05;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-graph-card > p {<br />\n    max-width: 530px;<br />\n    margin-bottom: 36px;<br />\n    color: var(--amt16-muted);<br />\n    font-size: 15px;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-graph-card-dark > p {<br />\n    color: rgba(255, 255, 255, 0.56);<br />\n  }</p>\n<p>  /* Focus graph */<br />\n  #amt16-premium .amt16p-focus-visual {<br />\n    position: relative;<br />\n    min-height: 205px;<br />\n    padding: 32px 26px 24px;<br />\n    border-radius: 10px;<br />\n    background: #faf8f5;<br />\n    overflow: hidden;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-focus-visual::before {<br />\n    position: absolute;<br />\n    inset: 0;<br />\n    content: \"\";<br />\n    background-image: linear-gradient(rgba(17, 19, 23, 0.055) 1px, transparent 1px);<br />\n    background-size: 100% 34px;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-focus-svg {<br />\n    position: relative;<br />\n    z-index: 1;<br />\n    width: 100%;<br />\n    height: 96px;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-focus-scale {<br />\n    position: relative;<br />\n    z-index: 1;<br />\n    display: flex;<br />\n    justify-content: space-between;<br />\n    gap: 20px;<br />\n    margin-top: 14px;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-focus-scale div:last-child {<br />\n    text-align: right;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-focus-scale strong {<br />\n    display: block;<br />\n    margin-bottom: 3px;<br />\n    color: var(--amt16-ink);<br />\n    font-size: 22px;<br />\n    line-height: 1;<br />\n    letter-spacing: -0.04em;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-focus-scale span {<br />\n    display: block;<br />\n    color: var(--amt16-muted);<br />\n    font-size: 11px;<br />\n    font-weight: 700;<br />\n    letter-spacing: 0.06em;<br />\n    text-transform: uppercase;<br />\n  }</p>\n<p>  /* Build graph */<br />\n  #amt16-premium .amt16p-build-visual {<br />\n    display: grid;<br />\n    grid-template-columns: 1fr 150px;<br />\n    gap: 30px;<br />\n    align-items: center;<br />\n    min-height: 210px;<br />\n    margin-top: 5px;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-build-cylinder {<br />\n    position: relative;<br />\n    width: 210px;<br />\n    height: 210px;<br />\n    max-width: 100%;<br />\n    margin-inline: auto;<br />\n    border: 1px solid rgba(255, 255, 255, 0.16);<br />\n    border-radius: 50%;<br />\n    background:<br />\n      radial-gradient(circle at center, rgba(255, 115, 0, 0.22) 0 37%, transparent 38%),<br />\n      repeating-radial-gradient(circle at center, transparent 0 23px, rgba(255, 255, 255, 0.08) 24px 25px);<br />\n  }</p>\n<p>  #amt16-premium .amt16p-build-cylinder::before,<br />\n  #amt16-premium .amt16p-build-cylinder::after {<br />\n    position: absolute;<br />\n    background: rgba(255, 255, 255, 0.18);<br />\n    content: \"\";<br />\n  }</p>\n<p>  #amt16-premium .amt16p-build-cylinder::before {<br />\n    top: 50%;<br />\n    right: 10px;<br />\n    left: 10px;<br />\n    height: 1px;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-build-cylinder::after {<br />\n    top: 10px;<br />\n    bottom: 10px;<br />\n    left: 50%;<br />\n    width: 1px;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-build-cylinder span {<br />\n    position: absolute;<br />\n    z-index: 1;<br />\n    inset: 50% auto auto 50%;<br />\n    color: var(--amt16-white);<br />\n    font-size: 26px;<br />\n    font-weight: 700;<br />\n    line-height: 1;<br />\n    letter-spacing: -0.04em;<br />\n    transform: translate(-50%, -50%);<br />\n  }</p>\n<p>  #amt16-premium .amt16p-height-scale {<br />\n    position: relative;<br />\n    height: 210px;<br />\n    padding-left: 30px;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-height-line {<br />\n    position: absolute;<br />\n    top: 0;<br />\n    bottom: 0;<br />\n    left: 6px;<br />\n    width: 2px;<br />\n    background: linear-gradient(to top, var(--amt16-orange), #ffad68);<br />\n  }</p>\n<p>  #amt16-premium .amt16p-height-line::before,<br />\n  #amt16-premium .amt16p-height-line::after {<br />\n    position: absolute;<br />\n    left: -5px;<br />\n    width: 12px;<br />\n    height: 2px;<br />\n    content: \"\";<br />\n    background: var(--amt16-orange);<br />\n  }</p>\n<p>  #amt16-premium .amt16p-height-line::before {<br />\n    top: 0;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-height-line::after {<br />\n    bottom: 0;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-height-scale strong {<br />\n    display: block;<br />\n    margin-top: 78px;<br />\n    color: var(--amt16-white);<br />\n    font-size: 34px;<br />\n    line-height: 1;<br />\n    letter-spacing: -0.05em;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-height-scale span {<br />\n    display: block;<br />\n    margin-top: 8px;<br />\n    color: rgba(255, 255, 255, 0.48);<br />\n    font-size: 11px;<br />\n    font-weight: 700;<br />\n    letter-spacing: 0.07em;<br />\n    text-transform: uppercase;<br />\n  }</p>\n<p>  /* Monitoring */<br />\n  #amt16-premium .amt16p-monitor-card {<br />\n    grid-column: 1 / -1;<br />\n    min-height: 0;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-monitor-grid {<br />\n    display: grid;<br />\n    grid-template-columns: minmax(270px, 0.72fr) minmax(0, 1.28fr);<br />\n    gap: 64px;<br />\n    align-items: end;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-signals {<br />\n    display: grid;<br />\n    gap: 13px;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-signal {<br />\n    display: grid;<br />\n    grid-template-columns: minmax(150px, 0.7fr) minmax(120px, 1fr) auto;<br />\n    gap: 18px;<br />\n    align-items: center;<br />\n    min-height: 52px;<br />\n    padding: 11px 14px;<br />\n    border: 1px solid var(--amt16-line);<br />\n    border-radius: 8px;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-signal-name {<br />\n    font-size: 13px;<br />\n    font-weight: 700;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-signal-line {<br />\n    position: relative;<br />\n    height: 1px;<br />\n    background: var(--amt16-line);<br />\n  }</p>\n<p>  #amt16-premium .amt16p-signal-line::after {<br />\n    position: absolute;<br />\n    top: -3px;<br />\n    left: 0;<br />\n    width: 7px;<br />\n    height: 7px;<br />\n    border-radius: 50%;<br />\n    content: \"\";<br />\n    background: var(--amt16-orange);<br />\n    box-shadow: 0 0 0 5px rgba(255, 115, 0, 0.12);<br />\n    animation: amt16p-signal 3.6s ease-in-out infinite;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-signal:nth-child(2) .amt16p-signal-line::after {<br />\n    animation-delay: -0.9s;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-signal:nth-child(3) .amt16p-signal-line::after {<br />\n    animation-delay: -1.8s;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-signal:nth-child(4) .amt16p-signal-line::after {<br />\n    animation-delay: -2.7s;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-signal-status {<br />\n    display: inline-flex;<br />\n    align-items: center;<br />\n    gap: 7px;<br />\n    color: #4a7656;<br />\n    font-size: 11px;<br />\n    font-weight: 800;<br />\n    letter-spacing: 0.06em;<br />\n    text-transform: uppercase;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-signal-status::before {<br />\n    width: 6px;<br />\n    height: 6px;<br />\n    border-radius: 50%;<br />\n    content: \"\";<br />\n    background: #58a56b;<br />\n  }</p>\n<p>  @keyframes amt16p-signal {<br />\n    0%,<br />\n    100% {<br />\n      left: 0;<br />\n    }<br />\n    50% {<br />\n      left: calc(100% - 7px);<br />\n    }<br />\n  }</p>\n<p>  /* Benefits */<br />\n  #amt16-premium .amt16p-benefits {<br />\n    padding: 116px 0;<br />\n    color: var(--amt16-white);<br />\n    background:<br />\n      radial-gradient(circle at 12% 105%, rgba(255, 115, 0, 0.18), transparent 28%),<br />\n      #101216;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-benefits .amt16p-section-head p {<br />\n    color: rgba(255, 255, 255, 0.56);<br />\n  }</p>\n<p>  #amt16-premium .amt16p-bento {<br />\n    display: grid;<br />\n    grid-template-columns: repeat(12, 1fr);<br />\n    gap: 18px;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-feature {<br />\n    position: relative;<br />\n    min-height: 270px;<br />\n    padding: 32px;<br />\n    border: 1px solid rgba(255, 255, 255, 0.1);<br />\n    border-radius: 12px;<br />\n    background: rgba(255, 255, 255, 0.035);<br />\n    overflow: hidden;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-feature:nth-child(1),<br />\n  #amt16-premium .amt16p-feature:nth-child(4) {<br />\n    grid-column: span 7;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-feature:nth-child(2),<br />\n  #amt16-premium .amt16p-feature:nth-child(3) {<br />\n    grid-column: span 5;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-feature-number {<br />\n    display: block;<br />\n    margin-bottom: 64px;<br />\n    color: var(--amt16-orange);<br />\n    font-size: 12px;<br />\n    font-weight: 800;<br />\n    letter-spacing: 0.1em;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-feature h3 {<br />\n    max-width: 480px;<br />\n    margin-bottom: 14px;<br />\n    color: var(--amt16-white);<br />\n    font-size: 26px;<br />\n    font-weight: 630;<br />\n    line-height: 1.08;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-feature p {<br />\n    max-width: 550px;<br />\n    margin-bottom: 0;<br />\n    color: rgba(255, 255, 255, 0.54);<br />\n    font-size: 14px;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-feature::after {<br />\n    position: absolute;<br />\n    top: 29px;<br />\n    right: 30px;<br />\n    width: 56px;<br />\n    height: 56px;<br />\n    border: 1px solid rgba(255, 115, 0, 0.42);<br />\n    border-radius: 50%;<br />\n    content: \"\";<br />\n    background: radial-gradient(circle, rgba(255, 115, 0, 0.8) 0 3px, transparent 4px);<br />\n  }</p>\n<p>  /* Materials */<br />\n  #amt16-premium .amt16p-materials {<br />\n    padding: 116px 0 100px;<br />\n    background: var(--amt16-white);<br />\n  }</p>\n<p>  #amt16-premium .amt16p-material-grid {<br />\n    display: grid;<br />\n    grid-template-columns: repeat(4, 1fr);<br />\n    gap: 14px;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-material {<br />\n    position: relative;<br />\n    min-height: 250px;<br />\n    padding: 29px;<br />\n    border: 1px solid var(--amt16-line);<br />\n    border-radius: 12px;<br />\n    background: linear-gradient(145deg, #fff, #f8f8f6);<br />\n    overflow: hidden;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-material::before {<br />\n    position: absolute;<br />\n    top: -40px;<br />\n    right: -40px;<br />\n    width: 130px;<br />\n    height: 130px;<br />\n    border: 22px solid rgba(255, 115, 0, 0.07);<br />\n    border-radius: 50%;<br />\n    content: \"\";<br />\n  }</p>\n<p>  #amt16-premium .amt16p-material-symbol {<br />\n    display: grid;<br />\n    width: 54px;<br />\n    height: 54px;<br />\n    margin-bottom: 60px;<br />\n    place-items: center;<br />\n    border: 1px solid rgba(255, 115, 0, 0.28);<br />\n    border-radius: 9px;<br />\n    color: var(--amt16-orange);<br />\n    font-size: 20px;<br />\n    font-weight: 800;<br />\n    background: rgba(255, 115, 0, 0.06);<br />\n  }</p>\n<p>  #amt16-premium .amt16p-material h3 {<br />\n    margin-bottom: 7px;<br />\n    font-size: 21px;<br />\n    font-weight: 650;<br />\n    line-height: 1.1;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-material p {<br />\n    margin-bottom: 0;<br />\n    color: var(--amt16-muted);<br />\n    font-size: 13px;<br />\n  }</p>\n<p>  /* Applications */<br />\n  #amt16-premium .amt16p-applications {<br />\n    padding: 100px 0 116px;<br />\n    background: var(--amt16-white);<br />\n  }</p>\n<p>  #amt16-premium .amt16p-app-grid {<br />\n    display: grid;<br />\n    grid-template-columns: repeat(3, 1fr);<br />\n    gap: 18px;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-app {<br />\n    position: relative;<br />\n    min-height: 338px;<br />\n    padding: 32px;<br />\n    border-radius: 13px;<br />\n    color: var(--amt16-white);<br />\n    background: var(--amt16-charcoal);<br />\n    overflow: hidden;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-app::before {<br />\n    position: absolute;<br />\n    inset: 0;<br />\n    content: \"\";<br />\n    opacity: 0.55;<br />\n    background:<br />\n      radial-gradient(circle at 80% 20%, rgba(255, 115, 0, 0.45), transparent 30%),<br />\n      linear-gradient(145deg, transparent 40%, rgba(255, 255, 255, 0.04));<br />\n  }</p>\n<p>  #amt16-premium .amt16p-app-icon {<br />\n    position: relative;<br />\n    z-index: 1;<br />\n    display: grid;<br />\n    width: 48px;<br />\n    height: 48px;<br />\n    margin-bottom: 112px;<br />\n    place-items: center;<br />\n    border: 1px solid rgba(255, 255, 255, 0.16);<br />\n    border-radius: 50%;<br />\n    color: var(--amt16-orange);<br />\n    background: rgba(0, 0, 0, 0.2);<br />\n  }</p>\n<p>  #amt16-premium .amt16p-app-icon svg {<br />\n    width: 22px;<br />\n    height: 22px;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-app h3,<br />\n  #amt16-premium .amt16p-app p {<br />\n    position: relative;<br />\n    z-index: 1;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-app h3 {<br />\n    margin-bottom: 10px;<br />\n    color: var(--amt16-white);<br />\n    font-size: 24px;<br />\n    font-weight: 640;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-app p {<br />\n    margin-bottom: 0;<br />\n    color: rgba(255, 255, 255, 0.54);<br />\n    font-size: 14px;<br />\n  }</p>\n<p>  /* Specifications */<br />\n  #amt16-premium .amt16p-specs {<br />\n    padding: 116px 0;<br />\n    background: var(--amt16-paper);<br />\n  }</p>\n<p>  #amt16-premium .amt16p-spec-layout {<br />\n    display: grid;<br />\n    grid-template-columns: minmax(280px, 0.65fr) minmax(0, 1.35fr);<br />\n    gap: 80px;<br />\n    align-items: start;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-spec-intro {<br />\n    position: sticky;<br />\n    top: 30px;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-spec-intro h2 {<br />\n    margin-bottom: 22px;<br />\n    font-size: clamp(36px, 4vw, 56px);<br />\n    font-weight: 650;<br />\n    line-height: 1.03;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-spec-intro p {<br />\n    color: var(--amt16-muted);<br />\n  }</p>\n<p>  #amt16-premium .amt16p-spec-table {<br />\n    border-top: 1px solid #d7d9dd;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-spec-row {<br />\n    display: grid;<br />\n    grid-template-columns: minmax(0, 1fr) minmax(150px, 0.5fr);<br />\n    gap: 30px;<br />\n    align-items: center;<br />\n    min-height: 76px;<br />\n    padding: 18px 0;<br />\n    border-bottom: 1px solid #d7d9dd;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-spec-row dt,<br />\n  #amt16-premium .amt16p-spec-row dd {<br />\n    margin: 0;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-spec-row dt {<br />\n    color: var(--amt16-muted);<br />\n    font-size: 14px;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-spec-row dd {<br />\n    color: var(--amt16-ink);<br />\n    font-size: 16px;<br />\n    font-weight: 750;<br />\n    text-align: right;<br />\n  }</p>\n<p>  /* CTA */<br />\n  #amt16-premium .amt16p-cta {<br />\n    padding: 0 0 116px;<br />\n    background: var(--amt16-paper);<br />\n  }</p>\n<p>  #amt16-premium .amt16p-cta-box {<br />\n    position: relative;<br />\n    display: grid;<br />\n    grid-template-columns: minmax(0, 1fr) auto;<br />\n    gap: 50px;<br />\n    align-items: center;<br />\n    min-height: 310px;<br />\n    padding: 64px 68px;<br />\n    border-radius: 16px;<br />\n    color: var(--amt16-white);<br />\n    background:<br />\n      radial-gradient(circle at 88% 20%, rgba(255, 115, 0, 0.28), transparent 23%),<br />\n      #111317;<br />\n    overflow: hidden;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-cta-box::before {<br />\n    position: absolute;<br />\n    right: 12%;<br />\n    bottom: -170px;<br />\n    width: 370px;<br />\n    height: 370px;<br />\n    border: 1px solid rgba(255, 255, 255, 0.08);<br />\n    border-radius: 50%;<br />\n    content: \"\";<br />\n  }</p>\n<p>  #amt16-premium .amt16p-cta-copy {<br />\n    position: relative;<br />\n    z-index: 1;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-cta-copy h2 {<br />\n    max-width: 790px;<br />\n    margin-bottom: 17px;<br />\n    color: var(--amt16-white);<br />\n    font-size: clamp(34px, 4vw, 54px);<br />\n    font-weight: 640;<br />\n    line-height: 1.04;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-cta-copy p {<br />\n    max-width: 710px;<br />\n    margin-bottom: 0;<br />\n    color: rgba(255, 255, 255, 0.58);<br />\n    font-size: 16px;<br />\n  }</p>\n<p>  #amt16-premium .amt16p-cta-action {<br />\n    position: relative;<br />\n    z-index: 1;<br />\n  }</p>\n<p>  /* Responsive */<br />\n  @media (max-width: 1024px) {<br />\n    #amt16-premium .amt16p-hero-grid,<br />\n    #amt16-premium .amt16p-positioning-grid,<br />\n    #amt16-premium .amt16p-spec-layout {<br />\n      gap: 50px;<br />\n    }</p>\n<p>    #amt16-premium .amt16p-hero-grid {<br />\n      grid-template-columns: minmax(0, 1fr) minmax(360px, 0.8fr);<br />\n    }</p>\n<p>    #amt16-premium .amt16p-machine::before {<br />\n      width: 350px;<br />\n      height: 350px;<br />\n    }</p>\n<p>    #amt16-premium .amt16p-machine::after {<br />\n      width: 270px;<br />\n      height: 270px;<br />\n    }</p>\n<p>    #amt16-premium .amt16p-material-grid {<br />\n      grid-template-columns: repeat(2, 1fr);<br />\n    }<br />\n  }</p>\n<p>  @media (max-width: 820px) {<br />\n    #amt16-premium .amt16p-shell {<br />\n      width: min(100% - 32px, 720px);<br />\n    }</p>\n<p>    #amt16-premium .amt16p-hero {<br />\n      padding: 74px 0 58px;<br />\n    }</p>\n<p>    #amt16-premium .amt16p-hero-grid,<br />\n    #amt16-premium .amt16p-positioning-grid,<br />\n    #amt16-premium .amt16p-section-head,<br />\n    #amt16-premium .amt16p-monitor-grid,<br />\n    #amt16-premium .amt16p-spec-layout,<br />\n    #amt16-premium .amt16p-cta-box {<br />\n      grid-template-columns: 1fr;<br />\n    }</p>\n<p>    #amt16-premium .amt16p-hero-copy h2 {<br />\n      max-width: 620px;<br />\n    }</p>\n<p>    #amt16-premium .amt16p-machine {<br />\n      min-height: 430px;<br />\n    }</p>\n<p>    #amt16-premium .amt16p-machine img {<br />\n      max-height: 440px;<br />\n    }</p>\n<p>    #amt16-premium .amt16p-machine-badge {<br />\n      right: 4%;<br />\n    }</p>\n<p>    #amt16-premium .amt16p-metric-grid {<br />\n      grid-template-columns: repeat(2, 1fr);<br />\n    }</p>\n<p>    #amt16-premium .amt16p-metric:nth-child(2) {<br />\n      border-right: 0;<br />\n    }</p>\n<p>    #amt16-premium .amt16p-metric:nth-child(-n + 2) {<br />\n      border-bottom: 1px solid rgba(17, 19, 23, 0.16);<br />\n    }</p>\n<p>    #amt16-premium .amt16p-positioning,<br />\n    #amt16-premium .amt16p-engineering,<br />\n    #amt16-premium .amt16p-benefits,<br />\n    #amt16-premium .amt16p-materials,<br />\n    #amt16-premium .amt16p-applications,<br />\n    #amt16-premium .amt16p-specs {<br />\n      padding-block: 84px;<br />\n    }</p>\n<p>    #amt16-premium .amt16p-positioning-grid {<br />\n      gap: 42px;<br />\n    }</p>\n<p>    #amt16-premium .amt16p-graph-grid {<br />\n      grid-template-columns: 1fr;<br />\n    }</p>\n<p>    #amt16-premium .amt16p-monitor-card {<br />\n      grid-column: auto;<br />\n    }</p>\n<p>    #amt16-premium .amt16p-feature {<br />\n      grid-column: span 6 !important;<br />\n    }</p>\n<p>    #amt16-premium .amt16p-app-grid {<br />\n      grid-template-columns: 1fr;<br />\n    }</p>\n<p>    #amt16-premium .amt16p-app {<br />\n      min-height: 280px;<br />\n    }</p>\n<p>    #amt16-premium .amt16p-app-icon {<br />\n      margin-bottom: 70px;<br />\n    }</p>\n<p>    #amt16-premium .amt16p-spec-intro {<br />\n      position: static;<br />\n    }</p>\n<p>    #amt16-premium .amt16p-cta-box {<br />\n      gap: 30px;<br />\n      padding: 50px;<br />\n    }</p>\n<p>    #amt16-premium .amt16p-cta-action {<br />\n      justify-self: start;<br />\n    }<br />\n  }</p>\n<p>  @media (max-width: 560px) {<br />\n    #amt16-premium {<br />\n      font-size: 15px;<br />\n    }</p>\n<p>    #amt16-premium .amt16p-shell {<br />\n      width: min(100% - 24px, 520px);<br />\n    }</p>\n<p>    #amt16-premium .amt16p-hero {<br />\n      min-height: 0;<br />\n      padding-top: 62px;<br />\n    }</p>\n<p>    #amt16-premium .amt16p-hero-copy h2 {<br />\n      font-size: clamp(44px, 15vw, 62px);<br />\n    }</p>\n<p>    #amt16-premium .amt16p-lead {<br />\n      font-size: 17px;<br />\n    }</p>\n<p>    #amt16-premium .amt16p-hero-actions,<br />\n    #amt16-premium .amt16p-btn {<br />\n      width: 100%;<br />\n    }</p>\n<p>    #amt16-premium .amt16p-machine {<br />\n      min-height: 350px;<br />\n    }</p>\n<p>    #amt16-premium .amt16p-machine::before {<br />\n      width: 290px;<br />\n      height: 290px;<br />\n    }</p>\n<p>    #amt16-premium .amt16p-machine::after {<br />\n      width: 220px;<br />\n      height: 220px;<br />\n    }</p>\n<p>    #amt16-premium .amt16p-machine img {<br />\n      max-height: 340px;<br />\n    }</p>\n<p>    #amt16-premium .amt16p-machine-badge {<br />\n      right: 0;<br />\n      bottom: 10px;<br />\n      width: 152px;<br />\n      padding: 15px;<br />\n    }</p>\n<p>    #amt16-premium .amt16p-metric {<br />\n      min-height: 120px;<br />\n      padding: 23px 18px;<br />\n    }</p>\n<p>    #amt16-premium .amt16p-metric-label {<br />\n      font-size: 11px;<br />\n    }</p>\n<p>    #amt16-premium .amt16p-positioning,<br />\n    #amt16-premium .amt16p-engineering,<br />\n    #amt16-premium .amt16p-benefits,<br />\n    #amt16-premium .amt16p-materials,<br />\n    #amt16-premium .amt16p-applications,<br />\n    #amt16-premium .amt16p-specs {<br />\n      padding-block: 68px;<br />\n    }</p>\n<p>    #amt16-premium .amt16p-section-head {<br />\n      gap: 24px;<br />\n      margin-bottom: 38px;<br />\n    }</p>\n<p>    #amt16-premium .amt16p-section-head h2 {<br />\n      font-size: 37px;<br />\n    }</p>\n<p>    #amt16-premium .amt16p-quote,<br />\n    #amt16-premium .amt16p-graph-card {<br />\n      padding: 30px 24px;<br />\n    }</p>\n<p>    #amt16-premium .amt16p-graph-card {<br />\n      min-height: 0;<br />\n    }</p>\n<p>    #amt16-premium .amt16p-build-visual {<br />\n      grid-template-columns: 1fr 105px;<br />\n      gap: 12px;<br />\n    }</p>\n<p>    #amt16-premium .amt16p-build-cylinder {<br />\n      width: 170px;<br />\n      height: 170px;<br />\n    }</p>\n<p>    #amt16-premium .amt16p-height-scale {<br />\n      height: 170px;<br />\n      padding-left: 23px;<br />\n    }</p>\n<p>    #amt16-premium .amt16p-height-scale strong {<br />\n      margin-top: 60px;<br />\n      font-size: 27px;<br />\n    }</p>\n<p>    #amt16-premium .amt16p-signal {<br />\n      grid-template-columns: 1fr auto;<br />\n      gap: 10px;<br />\n    }</p>\n<p>    #amt16-premium .amt16p-signal-line {<br />\n      grid-column: 1 / -1;<br />\n      grid-row: 2;<br />\n    }</p>\n<p>    #amt16-premium .amt16p-feature {<br />\n      grid-column: 1 / -1 !important;<br />\n    }</p>\n<p>    #amt16-premium .amt16p-feature-number {<br />\n      margin-bottom: 46px;<br />\n    }</p>\n<p>    #amt16-premium .amt16p-material-grid {<br />\n      grid-template-columns: 1fr;<br />\n    }</p>\n<p>    #amt16-premium .amt16p-material {<br />\n      min-height: 220px;<br />\n    }</p>\n<p>    #amt16-premium .amt16p-material-symbol {<br />\n      margin-bottom: 44px;<br />\n    }</p>\n<p>    #amt16-premium .amt16p-spec-row {<br />\n      grid-template-columns: 1fr;<br />\n      gap: 7px;<br />\n      min-height: 0;<br />\n    }</p>\n<p>    #amt16-premium .amt16p-spec-row dd {<br />\n      text-align: left;<br />\n    }</p>\n<p>    #amt16-premium .amt16p-cta {<br />\n      padding-bottom: 68px;<br />\n    }</p>\n<p>    #amt16-premium .amt16p-cta-box {<br />\n      padding: 38px 26px;<br />\n    }<br />\n  }</p>\n<p>  @media (prefers-reduced-motion: reduce) {<br />\n    #amt16-premium *,<br />\n    #amt16-premium *::before,<br />\n    #amt16-premium *::after {<br />\n      scroll-behavior: auto !important;<br />\n      animation-duration: 0.01ms !important;<br />\n      animation-iteration-count: 1 !important;<br />\n      transition-duration: 0.01ms !important;<br />\n    }<br />\n  }<br />\n</style>\n</div>\n</div>\n</div>\n</div>\n<section id=\"amt16-premium\" aria-labelledby=\"amt16p-title\">\n<div class=\"amt16p-hero\">\n<div class=\"amt16p-shell amt16p-hero-grid\">\n<div class=\"amt16p-hero-copy\"><span class=\"amt16p-kicker\">Промышленное аддитивное производство</span></p>\n<h2 id=\"amt16p-title\">AMT-16</h2>\n<p class=\"amt16p-lead\">Компактная SLM‑система российского производства для высокоточной печати<br />\nметаллических деталей, прототипов и малых серий.</p>\n<div class=\"amt16p-hero-actions\"><button class=\"amt16p-btn amt16p-btn-primary\" type=\"button\" data-modal=\"request\" data-form-id=\"inline/41/hsr7bh\" data-form-loader=\"loader_41.js\" data-product-name=\"AMT-16\" data-category-id=\"1204\"><br />\nЗапросить КП<br />\n<svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"></svg>\n<path d=\"M5 12h14M13 6l6 6-6 6\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</button></p>\n<p class=\"mod-reset\"><a class=\"amt16p-btn amt16p-btn-ghost\" href=\"/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/\"><br />\nЛинейка SLM<br />\n</a></p>\n</div>\n</div>\n<div class=\"amt16p-machine\" aria-label=\"Промышленный SLM 3D-принтер AMT-16\">\n<p class=\"mod-reset\"><img src=\"https://am-tech.ru/wp-content/uploads/2025/08/g12s47zqysfj6sz9xypp4ylc4zqucftz.png\" alt=\"Промышленный SLM 3D-принтер AMT-16\" width=\"1000\" height=\"981\"></p>\n<div class=\"amt16p-machine-badge\"><strong>500 Вт</strong><br />\nволоконный лазер с динамической фокусировкой</div>\n</div>\n</div>\n</div>\n<div class=\"amt16p-metrics\" aria-label=\"Ключевые характеристики AMT-16\">\n<div class=\"amt16p-shell amt16p-metric-grid\">\n<div class=\"amt16p-metric\"><span class=\"amt16p-metric-value\">Ø165 × 225</span><br />\n<span class=\"amt16p-metric-label\">область построения, мм</span></div>\n<div class=\"amt16p-metric\"><span class=\"amt16p-metric-value\">50–160</span><br />\n<span class=\"amt16p-metric-label\">диаметр лазерного пятна, мкм</span></div>\n<div class=\"amt16p-metric\"><span class=\"amt16p-metric-value\">2</span><br />\n<span class=\"amt16p-metric-label\">датчика концентрации кислорода</span></div>\n<div class=\"amt16p-metric\"><span class=\"amt16p-metric-value\">30 кг</span><br />\n<span class=\"amt16p-metric-label\">максимальная масса изделия</span></div>\n</div>\n</div>\n<div class=\"amt16p-positioning\">\n<div class=\"amt16p-shell amt16p-positioning-grid\">\n<div class=\"amt16p-positioning-copy\"><span class=\"amt16p-kicker\">Технологическая платформа</span></p>\n<h2>Промышленный результат в компактном формате</h2>\n<p>AMT‑16 создан для предприятий, которым нужен управляемый переход от<br />\nэкспериментов к регулярному аддитивному производству. Открытая архитектура<br />\nPrintMate, интеллектуальный мониторинг и унифицированная оптика линейки AMT<br />\nпозволяют уверенно разрабатывать режимы и переносить их на более крупные<br />\nустановки.</p>\n<div class=\"amt16p-register\"><span class=\"amt16p-register-icon\" aria-hidden=\"true\"><br />\n<svg viewBox=\"0 0 24 24\"></svg>\n<path d=\"M7 3h7l4 4v14H7V3Z\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linejoin=\"round\"></path> <path d=\"M14 3v5h5M10 13l1.5 1.5L15 11\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</span></p>\n<p>Включён в Реестр российской промышленной продукции —</p>\n<p class=\"mod-reset\"><a href=\"https://gisp.gov.ru/goods/#/product/10876808\" target=\"_blank\" rel=\"noopener\">запись № 10876808</a></p>\n</div>\n</div>\n<aside class=\"amt16p-quote\" aria-label=\"Позиционирование AMT-16\"><span class=\"amt16p-quote-mark\" aria-hidden=\"true\">“</span>Одна система — для разработки параметров, изготовления функциональных<br />\nдеталей и запуска малых серий из промышленных металлических сплавов.</p>\n<p><small>AM.TECH · отечественная SLM‑платформа</small></p>\n</aside>\n</div>\n</div>\n<div class=\"amt16p-engineering\">\n<div class=\"amt16p-shell\">\n<div class=\"amt16p-section-head\">\n<div><span class=\"amt16p-kicker\">Инженерная инфографика</span></p>\n<h2>Точность, производительность и контроль процесса</h2>\n</div>\n<p>Ключевые системы AMT‑16 показаны через реальные технические диапазоны<br />\nи рабочую логику установки.</p>\n</div>\n<div class=\"amt16p-graph-grid\">\n<article class=\"amt16p-graph-card\">\n<div class=\"amt16p-card-index\">01 · Лазерная система<br />\n500 Вт</div>\n<h3>Динамическая фокусировка</h3>\n<p>Диаметр пятна регулируется в диапазоне 50–160 мкм: от точного режима<br />\nдля тонкой геометрии до производительного режима заполнения.</p>\n<div class=\"amt16p-focus-visual\" aria-label=\"Диапазон динамической фокусировки от 50 до 160 микрометров\"><svg class=\"amt16p-focus-svg\" viewBox=\"0 0 520 100\" role=\"img\" aria-label=\"Лазерный пучок изменяет диаметр от 50 до 160 микрометров\"></svg></p>\n<path d=\"M12 43 C150 42, 315 23, 505 6 L505 94 C315 76, 150 57, 12 57 Z\" fill=\"url(#amt16p-beam)\"></path> <path d=\"M12 50H505\" stroke=\"#111317\" stroke-opacity=\".25\" stroke-dasharray=\"5 6\"></path>\n<div class=\"amt16p-focus-scale\">\n<div><strong>50 мкм</strong><br />\nточная геометрия</div>\n<div><strong>160 мкм</strong><br />\nвысокая производительность</div>\n</div>\n</div>\n</article>\n<article class=\"amt16p-graph-card amt16p-graph-card-dark\">\n<div class=\"amt16p-card-index\">02 · Рабочая зона<br />\nцилиндр</div>\n<h3>Оптимальный объём построения</h3>\n<p>Цилиндрическая камера Ø165 × 225 мм подходит для функциональных деталей,<br />\nисследовательских образцов и компактных многодетальных сборок.</p>\n<div class=\"amt16p-build-visual\" aria-label=\"Схема области построения диаметром 165 и высотой 225 миллиметров\">\n<div class=\"amt16p-build-cylinder\">Ø165</div>\n<div class=\"amt16p-height-scale\"><i class=\"amt16p-height-line\" aria-hidden=\"true\"></i><br />\n<strong>225</strong><br />\nвысота, мм</div>\n</div>\n</article>\n<article class=\"amt16p-graph-card amt16p-monitor-card\">\n<div class=\"amt16p-monitor-grid\">\n<div>\n<div class=\"amt16p-card-index\">03 · Контроль<br />\nв реальном времени</div>\n<h3>Интеллектуальный мониторинг процесса</h3>\n<p>Контроль ключевых параметров помогает выявлять отклонения на ранних<br />\nэтапах и поддерживать воспроизводимость построения.</p>\n</div>\n<div class=\"amt16p-signals\" aria-label=\"Контролируемые параметры AMT-16\">\n<div class=\"amt16p-signal\"><span class=\"amt16p-signal-name\">Концентрация O₂</span></p>\n<p><span class=\"amt16p-signal-status\">Контроль</span></div>\n<div class=\"amt16p-signal\"><span class=\"amt16p-signal-name\">Порошковый слой</span></p>\n<p><span class=\"amt16p-signal-status\">Контроль</span></div>\n<div class=\"amt16p-signal\"><span class=\"amt16p-signal-name\">Давление</span></p>\n<p><span class=\"amt16p-signal-status\">Контроль</span></div>\n<div class=\"amt16p-signal\"><span class=\"amt16p-signal-name\">Состояние фильтра</span></p>\n<p><span class=\"amt16p-signal-status\">Контроль</span></div>\n</div>\n</div>\n</article>\n</div>\n</div>\n</div>\n<div class=\"amt16p-benefits\">\n<div class=\"amt16p-shell\">\n<div class=\"amt16p-section-head\">\n<div><span class=\"amt16p-kicker\">Преимущества AMT‑16</span></p>\n<h2>Спроектирован для реальной производственной эксплуатации</h2>\n</div>\n<p>Архитектура установки сочетает технологическую гибкость,<br />\nвоспроизводимость процессов и удобство ежедневной работы оператора.</p>\n</div>\n<div class=\"amt16p-bento\">\n<article class=\"amt16p-feature\"><span class=\"amt16p-feature-number\">01</span></p>\n<h3>Открытая архитектура PrintMate</h3>\n<p>Более 60 параметров лазерного синтеза и возможность использовать<br />\nготовые режимы AM.TECH либо создавать собственные настройки под материал<br />\nи конкретную деталь.</p>\n</article>\n<article class=\"amt16p-feature\"><span class=\"amt16p-feature-number\">02</span></p>\n<h3>Верхняя подача порошка</h3>\n<p>Пополнение порошка без остановки построения поддерживает непрерывность<br />\nдлительных производственных циклов.</p>\n</article>\n<article class=\"amt16p-feature\"><span class=\"amt16p-feature-number\">03</span></p>\n<h3>Два датчика кислорода</h3>\n<p>Расширенный контроль защитной атмосферы для стабильной и безопасной<br />\nработы с реакционноспособными материалами.</p>\n</article>\n<article class=\"amt16p-feature\"><span class=\"amt16p-feature-number\">04</span></p>\n<h3>Унифицированная оптика линейки AMT</h3>\n<p>Единая лазерно‑оптическая платформа упрощает масштабирование<br />\nтехнологических режимов при переходе на установки AMT с увеличенной<br />\nобластью построения.</p>\n</article>\n</div>\n</div>\n</div>\n<div class=\"amt16p-materials\">\n<div class=\"amt16p-shell\">\n<div class=\"amt16p-section-head\">\n<div><span class=\"amt16p-kicker\">Материалы</span></p>\n<h2>Свобода выбора металлических сплавов</h2>\n</div>\n<p>Параметры процесса могут быть адаптированы под распространённые<br />\nпромышленные порошковые материалы и специальные технологические задачи.</p>\n</div>\n<div class=\"amt16p-material-grid\">\n<article class=\"amt16p-material\"><span class=\"amt16p-material-symbol\">Fe</span></p>\n<h3>Стали</h3>\n<p>Нержавеющие, инструментальные и специальные сплавы.</p>\n</article>\n<article class=\"amt16p-material\"><span class=\"amt16p-material-symbol\">Ni</span></p>\n<h3>Никелевые сплавы</h3>\n<p>Жаропрочные материалы для нагруженных деталей.</p>\n</article>\n<article class=\"amt16p-material\"><span class=\"amt16p-material-symbol\">Ti</span></p>\n<h3>Титановые сплавы</h3>\n<p>Лёгкие и прочные конструкции сложной геометрии.</p>\n</article>\n<article class=\"amt16p-material\"><span class=\"amt16p-material-symbol\">Al</span></p>\n<h3>Алюминиевые сплавы</h3>\n<p>Лёгкие детали, теплообменники и функциональные корпуса.</p>\n</article>\n</div>\n</div>\n</div>\n<div class=\"amt16p-applications\">\n<div class=\"amt16p-shell\">\n<div class=\"amt16p-section-head\">\n<div><span class=\"amt16p-kicker\">Применение</span></p>\n<h2>От прототипа до функциональной серии</h2>\n</div>\n<p>AMT‑16 раскрывает преимущества SLM там, где традиционные технологии<br />\nограничивают геометрию, сроки или массу изделия.</p>\n</div>\n<div class=\"amt16p-app-grid\">\n<article class=\"amt16p-app\"><span class=\"amt16p-app-icon\" aria-hidden=\"true\"><br />\n<svg viewBox=\"0 0 24 24\"></svg>\n<path d=\"M4 17 12 3l8 14-8 4-8-4Z\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linejoin=\"round\"></path> <path d=\"m8 15 4-7 4 7-4 2-4-2Z\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\"></path>\n</span></p>\n<h3>Сложная геометрия</h3>\n<p>Внутренние каналы, решётчатые структуры и формы, недоступные<br />\nтрадиционной механообработке.</p>\n</article>\n<article class=\"amt16p-app\"><span class=\"amt16p-app-icon\" aria-hidden=\"true\"><br />\n<svg viewBox=\"0 0 24 24\"></svg></p>\n<path d=\"M12 8v4l3 2M5 5l2 2M19 5l-2 2\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\"></path>\n</span></p>\n<h3>Сокращение цикла</h3>\n<p>Быстрый переход от цифровой модели к металлическому прототипу или<br />\nфункциональной детали.</p>\n</article>\n<article class=\"amt16p-app\"><span class=\"amt16p-app-icon\" aria-hidden=\"true\"><br />\n<svg viewBox=\"0 0 24 24\"></svg>\n<path d=\"M6 18V9l6-4 6 4v9l-6 3-6-3Z\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linejoin=\"round\"></path> <path d=\"m6 9 6 4 6-4M12 13v8\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\"></path>\n</span></p>\n<h3>Малые серии</h3>\n<p>Производство партий без дорогостоящей оснастки и длительной подготовки<br />\nтрадиционного технологического процесса.</p>\n</article>\n</div>\n</div>\n</div>\n<div class=\"amt16p-specs\">\n<div class=\"amt16p-shell amt16p-spec-layout\">\n<div class=\"amt16p-spec-intro\"><span class=\"amt16p-kicker\">Спецификация</span></p>\n<h2>Основные характеристики</h2>\n<p>Конфигурация оборудования уточняется специалистами AM.TECH под материал,<br />\nпроизводственную задачу и требования предприятия.</p>\n</div>\n<div class=\"amt16p-spec-row\">Технология производстваSLM</div>\n<div class=\"amt16p-spec-row\">Область построения, Ш × Г × ВØ165 × 225 мм</div>\n<div class=\"amt16p-spec-row\">Количество лазеров1</div>\n<div class=\"amt16p-spec-row\">Мощность лазера500 Вт</div>\n<div class=\"amt16p-spec-row\">Диаметр лазерного пятна50–160 мкм</div>\n<div class=\"amt16p-spec-row\">Максимальная масса изделия30 кг</div>\n<div class=\"amt16p-spec-row\">Количество датчиков кислорода2</div>\n<div class=\"amt16p-spec-row\">Габариты основного модуля1300 × 900 × 2200 мм</div>\n<div class=\"amt16p-spec-row\">Масса установки с модулем охлаждения930 кг</div>\n</div>\n</div>\n<div class=\"amt16p-cta\">\n<div class=\"amt16p-shell\">\n<div class=\"amt16p-cta-box\">\n<div class=\"amt16p-cta-copy\"><span class=\"amt16p-kicker\">Инженерная консультация</span></p>\n<h2>Оценим применимость AMT‑16 для вашей детали</h2>\n<p>Подберём материал и конфигурацию, оценим технологичность модели,<br />\nподготовим демонстрацию оборудования и коммерческое предложение.</p>\n</div>\n<div class=\"amt16p-cta-action\"><button class=\"amt16p-btn amt16p-btn-primary\" type=\"button\" data-modal=\"request\" data-form-id=\"inline/41/hsr7bh\" data-form-loader=\"loader_41.js\" data-product-name=\"AMT-16\" data-category-id=\"1204\"><br />\nОбсудить задачу<br />\n<svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"></svg>\n<path d=\"M5 12h14M13 6l6 6-6 6\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</button></div>\n</div>\n</div>\n</div>\n</section>\n<div class=\"boldgrid-section\">\n<div class=\"container\">\n<div class=\"row\">\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\n<p><!-- Product schema.org. Если schema Product уже выводится SEO-плагином, оставьте только одну версию микроразметки. --><br />\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Product\",\n  \"name\": \"Промышленный SLM 3D-принтер AMT-16\",\n  \"alternateName\": \"AMT-16\",\n  \"sku\": \"AMT-16\",\n  \"mpn\": \"AMT-16\",\n  \"url\": \"https://am-tech.ru/product/amt-16/\",\n  \"image\": [\n    \"https://am-tech.ru/wp-content/uploads/2025/08/g12s47zqysfj6sz9xypp4ylc4zqucftz.png\"\n  ],\n  \"description\": \"AMT-16 — компактный промышленный SLM 3D-принтер российского производства для высокоточной печати металлических деталей. Область построения Ø165 × 225 мм, волоконный лазер 500 Вт и динамическая фокусировка 50–160 мкм.\",\n  \"category\": \"Промышленные SLM 3D-принтеры\",\n  \"brand\": {\n    \"@type\": \"Brand\",\n    \"name\": \"AM.TECH\"\n  },\n  \"manufacturer\": {\n    \"@type\": \"Organization\",\n    \"name\": \"AM.TECH\",\n    \"url\": \"https://am-tech.ru/\"\n  },\n  \"countryOfOrigin\": {\n    \"@type\": \"Country\",\n    \"name\": \"Россия\"\n  },\n  \"audience\": {\n    \"@type\": \"BusinessAudience\",\n    \"audienceType\": \"Промышленные предприятия, инженерные центры и научно-производственные организации\"\n  },\n  \"additionalProperty\": [\n    {\n      \"@type\": \"PropertyValue\",\n      \"name\": \"Технология\",\n      \"value\": \"SLM\"\n    },\n    {\n      \"@type\": \"PropertyValue\",\n      \"name\": \"Область построения\",\n      \"value\": \"Ø165 × 225 мм\"\n    },\n    {\n      \"@type\": \"PropertyValue\",\n      \"name\": \"Количество лазеров\",\n      \"value\": \"1\"\n    },\n    {\n      \"@type\": \"PropertyValue\",\n      \"name\": \"Мощность лазера\",\n      \"value\": \"500 Вт\"\n    },\n    {\n      \"@type\": \"PropertyValue\",\n      \"name\": \"Диаметр лазерного пятна\",\n      \"value\": \"50–160 мкм\"\n    },\n    {\n      \"@type\": \"PropertyValue\",\n      \"name\": \"Максимальная масса изделия\",\n      \"value\": \"30 кг\"\n    },\n    {\n      \"@type\": \"PropertyValue\",\n      \"name\": \"Количество датчиков кислорода\",\n      \"value\": \"2\"\n    },\n    {\n      \"@type\": \"PropertyValue\",\n      \"name\": \"Реестровая запись ГИСП\",\n      \"value\": \"10876808\"\n    }\n  ]\n}\n</script></p>\n</div>\n</div>\n</div>\n</div>\n",
+ "short_description": "<p class=\"PDq2pG_selectionAnchorContainer\" data-start=\"0\" data-end=\"183\"><strong data-start=\"0\" data-end=\"10\">AMT-16</strong> — компактный промышленный SLM-принтер для 3D-печати металлом. Оснащён лазером <strong data-start=\"89\" data-end=\"99\" data-is-only-node=\"\">500 Вт</strong>, динамической фокусировкой луча и верхней загрузкой порошка без остановки печати.</p>\n<p data-start=\"185\" data-end=\"292\" data-is-last-node=\"\" data-is-only-node=\"\">Установка внесена в <strong data-start=\"205\" data-end=\"254\">реестр российского промышленного оборудования</strong>.<br data-start=\"255\" data-end=\"258\" /><strong data-start=\"258\" data-end=\"292\" data-is-last-node=\"\">№ реестровой записи: <a href=\"https://gisp.gov.ru/goods/#/product/4954159\">10876808</a></strong></p>\n",
+ "sku": "",
+ "price": "",
+ "regular_price": "",
+ "sale_price": "",
+ "date_on_sale_from": null,
+ "date_on_sale_from_gmt": null,
+ "date_on_sale_to": null,
+ "date_on_sale_to_gmt": null,
+ "on_sale": false,
+ "purchasable": false,
+ "total_sales": 0,
+ "virtual": false,
+ "downloadable": false,
+ "downloads": [],
+ "download_limit": -1,
+ "download_expiry": -1,
+ "external_url": "",
+ "button_text": "",
+ "tax_status": "taxable",
+ "tax_class": "",
+ "manage_stock": false,
+ "stock_quantity": null,
+ "backorders": "no",
+ "backorders_allowed": false,
+ "backordered": false,
+ "low_stock_amount": null,
+ "sold_individually": false,
+ "weight": "",
+ "dimensions": {
+  "length": "",
+  "width": "",
+  "height": ""
+ },
+ "shipping_required": true,
+ "shipping_taxable": true,
+ "shipping_class": "",
+ "shipping_class_id": 0,
+ "reviews_allowed": true,
+ "average_rating": "0.00",
+ "rating_count": 0,
+ "upsell_ids": [],
+ "cross_sell_ids": [],
+ "parent_id": 0,
+ "purchase_note": "",
+ "categories": [
+  {
+   "id": 15,
+   "name": "default",
+   "slug": "default"
+  }
+ ],
+ "brands": [],
+ "tags": [],
+ "images": [
+  {
+   "id": 1378,
+   "date_created": "2025-08-17T03:37:49",
+   "date_created_gmt": "2025-08-16T21:37:49",
+   "date_modified": "2025-08-17T03:37:49",
+   "date_modified_gmt": "2025-08-16T21:37:49",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/g12s47zqysfj6sz9xypp4ylc4zqucftz.png",
+   "name": "g12s47zqysfj6sz9xypp4ylc4zqucftz",
+   "alt": ""
+  },
+  {
+   "id": 1380,
+   "date_created": "2025-08-17T03:37:54",
+   "date_created_gmt": "2025-08-16T21:37:54",
+   "date_modified": "2025-08-17T03:37:54",
+   "date_modified_gmt": "2025-08-16T21:37:54",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/g2v56mvo06ssq95n4udnbq4oyusgox58-scaled.png",
+   "name": "g2v56mvo06ssq95n4udnbq4oyusgox58",
+   "alt": ""
+  },
+  {
+   "id": 1381,
+   "date_created": "2025-08-17T03:38:18",
+   "date_created_gmt": "2025-08-16T21:38:18",
+   "date_modified": "2025-08-17T03:38:18",
+   "date_modified_gmt": "2025-08-16T21:38:18",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/ioxhakvknk7f65w42k8dbgiykppdcscy-scaled.jpg",
+   "name": "ioxhakvknk7f65w42k8dbgiykppdcscy",
+   "alt": ""
+  },
+  {
+   "id": 1382,
+   "date_created": "2025-08-17T03:38:28",
+   "date_created_gmt": "2025-08-16T21:38:28",
+   "date_modified": "2025-08-17T03:38:28",
+   "date_modified_gmt": "2025-08-16T21:38:28",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/31mi3b4za9lzy9q5kx57atzcuyb1n9qr-scaled.jpg",
+   "name": "31mi3b4za9lzy9q5kx57atzcuyb1n9qr",
+   "alt": ""
+  },
+  {
+   "id": 1383,
+   "date_created": "2025-08-17T03:38:38",
+   "date_created_gmt": "2025-08-16T21:38:38",
+   "date_modified": "2025-08-17T03:38:38",
+   "date_modified_gmt": "2025-08-16T21:38:38",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/1xh68zh2puc9kmqpmcdim2pcnvqvrgat-scaled.jpg",
+   "name": "1xh68zh2puc9kmqpmcdim2pcnvqvrgat",
+   "alt": ""
+  },
+  {
+   "id": 1384,
+   "date_created": "2025-08-17T03:38:49",
+   "date_created_gmt": "2025-08-16T21:38:49",
+   "date_modified": "2025-08-17T03:38:49",
+   "date_modified_gmt": "2025-08-16T21:38:49",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/uh35o1cohghhsb8sh9orlpbnazohe70z-scaled.jpg",
+   "name": "uh35o1cohghhsb8sh9orlpbnazohe70z",
+   "alt": ""
+  },
+  {
+   "id": 1385,
+   "date_created": "2025-08-17T03:39:03",
+   "date_created_gmt": "2025-08-16T21:39:03",
+   "date_modified": "2025-08-17T03:39:03",
+   "date_modified_gmt": "2025-08-16T21:39:03",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/18reba2n2bsn8kananear46sxvyoivwt-scaled.jpg",
+   "name": "18reba2n2bsn8kananear46sxvyoivwt",
+   "alt": ""
+  },
+  {
+   "id": 1386,
+   "date_created": "2025-08-17T03:39:17",
+   "date_created_gmt": "2025-08-16T21:39:17",
+   "date_modified": "2025-08-17T03:39:17",
+   "date_modified_gmt": "2025-08-16T21:39:17",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/743y0sd4iugybjrezq43vms5klme5n3s-scaled.jpg",
+   "name": "743y0sd4iugybjrezq43vms5klme5n3s",
+   "alt": ""
+  }
+ ],
+ "attributes": [
+  {
+   "id": 3542,
+   "name": "Габариты области построения ШхГхВ (мм)",
+   "slug": "pa_gabarity-oblasti-postroenija",
+   "position": 0,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "ø165х225"
+   ]
+  },
+  {
+   "id": 3485,
+   "name": "Количество лазеров, шт",
+   "slug": "pa_kolichestvo-lazerov-sht",
+   "position": 1,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "1"
+   ]
+  },
+  {
+   "id": 3486,
+   "name": "Мощность лазера, Вт",
+   "slug": "pa_moshhnost-lazera-vt",
+   "position": 2,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "500"
+   ]
+  },
+  {
+   "id": 3543,
+   "name": "Максимальная масса изделия (кг)",
+   "slug": "pa_production_max_mass",
+   "position": 3,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "30"
+   ]
+  },
+  {
+   "id": 3491,
+   "name": "Количество датчиков кислорода (шт)",
+   "slug": "pa_datchiki-urovnja-kisloroda",
+   "position": 4,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "2"
+   ]
+  },
+  {
+   "id": 3544,
+   "name": "Габариты основного модуля ШхГхВ (мм)",
+   "slug": "pa_gabarity-osnovnogo-modulja",
+   "position": 5,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "1300x900x2200"
+   ]
+  },
+  {
+   "id": 3547,
+   "name": "Масса основного модуля (кг)",
+   "slug": "pa_massa-osnovnogo-modulja-kg",
+   "position": 6,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "850"
+   ]
+  },
+  {
+   "id": 3551,
+   "name": "Габариты модуля охлаждения ШхГхВ, (мм)",
+   "slug": "pa_gabarity-modulja-ohlazhd",
+   "position": 7,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "780x890x475"
+   ]
+  },
+  {
+   "id": 3550,
+   "name": "Масса модуля охлаждения, кг",
+   "slug": "pa_massa-modulja-ohlazhdenija",
+   "position": 8,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "80"
+   ]
+  },
+  {
+   "id": 3494,
+   "name": "Масса установки, кг",
+   "slug": "pa_massa-ustanovki",
+   "position": 9,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "930"
+   ]
+  }
+ ],
+ "default_attributes": [],
+ "variations": [],
+ "grouped_products": [],
+ "menu_order": 0,
+ "price_html": "",
+ "related_ids": [
+  1707,
+  1590,
+  1583,
+  1613,
+  1601
+ ],
+ "meta_data": [
+  {
+   "id": 48096,
+   "key": "Анонс",
+   "value": "<p>В уникальной разработке am-tech.ru нет места компромиссам между качеством и скоростью построения &ndash; заказчик сразу получает оборудование с высочайшей производительностью за счёт установки мощного лазера и увеличенной высотой печати. Серия принтеров АМТ является полноценным производственным комплексом, успешно решающим задачи, связанные как с научными исследованиями, так и крупносерийным производством.</p>"
+  },
+  {
+   "id": 48097,
+   "key": "Описание",
+   "value": "<h2>SLM-принтеры am-tech.ru</h2>\r\n<p>Наилучшая производительность и безопасность в классе</p>\r\n<ul style=\"list-style-type: square;\">\r\n<li>Высота печати: <b><span style=\"font-size: 20pt; color: #ef8817;\">225</span></b> мм</li>\r\n<li>Беспрецедентно высокая мощность лазера для своего класса: <b><span style=\"font-size: 20pt; color: #ef8817;\">500</span></b> Вт</li>\r\n</ul>\r\n<p>В уникальной разработке am-tech.ru нет места компромиссам между качеством и скоростью построения – заказчик сразу получает оборудование с высочайшей производительностью за счёт установки мощного лазера и увеличенной высотой печати. Серия принтеров АМТ является полноценным производственным комплексом, успешно решающим задачи, связанные как с научными исследованиями, так и крупносерийным производством.</p>\r\n<h2>Свобода выбора материалов</h2>\r\n<p>На всех аддитивных комплексах АМ.ТЕСН можно использовать металлопорошковые материалы как собственного производства компании, так и внешних российских или зарубежных поставщиков.</p>\r\n<h2>Открытая архитектура</h2>\r\n<p>Отечественное (российское) программное обеспечение АМ.ТЕСН PrintMate с открытой архитектурой предоставляет пользователю возможность выбора между стандартными параметрами АМ.ТЕСН под определенные материалы или самостоятельной настройкой под специальные производственные потребности. Полный контроль за технологическим процессом – промышленные решения еще не были настолько доступными.</p>\r\n<h2>Унифицированная конструкция</h2>\r\n<p>В уникальной разработке am-tech.ru впервые применён принцип единства параметров оптической системы всего типоразмера систем независимо от габаритов рабочей области. Такая унификация позволяет существенно сократить количество итераций по настройке параметров процесса синтеза при переходе от младших АМТ к старшим моделям аддитивных комплексов, отличающихся увеличенными размерами рабочей области. <br />Исследовательские институты и опытно-конструкторские бюро могут использовать компактный комплекс АМТ в качестве экспериментальной площадки для обучения специалистов особенностям процесса лазерного синтеза, а также для отработки технологических режимов синтеза порошковых материалов по запросу серийных производств. При этом значительно сокращается время адаптации параметров для более производительных систем АМ.ТЕСН.</p>\r\n<h2>Расширенный пакет контрольно-измерительной аппаратуры</h2>\r\n<p>Для детального анализа технологического процесса уже в базовой комплектации АМТ установлены два датчика анализа содержания кислорода для контроля газовой атмосферы и безопасной работы со сложными материалами. Датчик давления в рабочей камере, совместно с интеллектуальной системой регулировки, обеспечивает стабильность параметров газовой атмосферы на всём протяжении процесса сплавления. Автоматизированный контроль состояния загрязненности фильтрующего элемента вовремя подскажет на необходимость его замены.</p>\r\n<h2>Интеллектуальная система контроля качества порошкового слоя</h2>\r\n<p>Система позволяет выявлять мельчайшие отклонения в плотности распределения порошкового слоя по всей площади печати. Чувствительность определения дефектов может настраиваться пользователем в зависимости от материала и параметров процесса синтеза. Предупреждение дефектов уже на ранних стадиях цикла печати позволит сократить затраты, концентрируясь на получении продукции высокого качества.</p>\r\n<h2>Материалы печати:</h2>\r\n<ul>\r\n<li>\r\n<p>Титан</p>\r\n</li>\r\n<li>\r\n<p>Алюминий</p>\r\n</li>\r\n<li>\r\n<p>Никель</p>\r\n</li>\r\n</ul>\r\n<h2>Примеры изделий, созданных по технологии SLM</h2>\r\n<p><img src=\"/upload/editor_images/1718284449-CR6_1543.jpg\" alt=\"\" width=\"291\" height=\"320\" />    <img src=\"/upload/editor_images/1718284466-CR6_1538.jpg\" alt=\"\" width=\"524\" height=\"320\" /></p>\r\n<p><img src=\"/upload/editor_images/1718284488-CR6_1552.jpg\" alt=\"\" width=\"405\" height=\"246\" />    <img src=\"/upload/editor_images/1718284532-CR6_1550.jpg\" alt=\"\" width=\"405\" height=\"245\" /></p>\r\n<p> </p>\r\n<p>Все представленное в нашем каталоге оборудование доступно к приобретению на выгодных условиях <a href=\"https://am-tech.ru/leasing/\">лизинга.</a></p>\r\n<p>Наши специалисты помогут подобрать оптимальную схему лизинга под ваши производственные задачи и финансовые возможности, а также окажут содействие в оформлении всей необходимой документации.</p>"
+  },
+  {
+   "id": 48098,
+   "key": "Показывать на главной странице",
+   "value": "Y"
+  },
+  {
+   "id": 48099,
+   "key": "Изображение SLM установки am-tech.ru",
+   "value": "/pr_new_files/iblock/8da/66ov1ewmftgk0koua44fjcx2y434n6zu.jpg"
+  },
+  {
+   "id": 48100,
+   "key": "Обзоры",
+   "value": "a:2:{s:4:\"TEXT\";s:4:\"test\";s:4:\"TYPE\";s:4:\"HTML\";}"
+  },
+  {
+   "id": 48101,
+   "key": "Примеры печати",
+   "value": "a:2:{s:4:\"TEXT\";s:444:\"<p><img src=\"/upload/editor_images/1736947035-1718284449-CR6_1543.jpg\" alt=\"\" width=\"600\" height=\"660\" /></p>\r\n<p><img src=\"/upload/editor_images/1736947058-mceu_85499891511736947098873.jpg\" width=\"600\" /></p>\r\n<p><img src=\"/upload/editor_images/1736947081-mceu_72511173921736947122517.jpg\" width=\"600\" /></p>\r\n<p><img src=\"/upload/editor_images/1736947092-mceu_4419854831736947133982.jpg\" width=\"600\" /></p>\r\n<p>Примеры печати</p>\";s:4:\"TYPE\";s:4:\"HTML\";}"
+  },
+  {
+   "id": 48102,
+   "key": "Страна производства",
+   "value": "Россия"
+  },
+  {
+   "id": 48103,
+   "key": "Связанные товары по фильтру",
+   "value": "[]"
+  },
+  {
+   "id": 48104,
+   "key": "Картинки галереи",
+   "value": "/pr_new_files/iblock/7c5/zsnne2zph6f6mmn4vvwqisl40l7ywkvi.png"
+  },
+  {
+   "id": 48105,
+   "key": "Габариты установки, мм",
+   "value": "1295х898х2174"
+  },
+  {
+   "id": 48106,
+   "key": "Габариты рабочей зоны, мм",
+   "value": "Ø165x225"
+  },
+  {
+   "id": 48107,
+   "key": "Количество лазеров, шт",
+   "value": "1"
+  },
+  {
+   "id": 48108,
+   "key": "Мощность лазера, Вт",
+   "value": "500"
+  },
+  {
+   "id": 48109,
+   "key": "Подогрев платформы",
+   "value": "нет"
+  },
+  {
+   "id": 48110,
+   "key": "Материалы печати",
+   "value": "сплавы на основе Fe, Ni, Co, Al, Ti"
+  },
+  {
+   "id": 48111,
+   "key": "Подключение",
+   "value": "220В (опционально 380В)"
+  },
+  {
+   "id": 48112,
+   "key": "bitrix_picture",
+   "value": "/pr_new_files/iblock/417/685obwfvkdwv0vj7pb1ulzt31qy0eynp.jpg"
+  },
+  {
+   "id": 48113,
+   "key": "Документы товара",
+   "value": ""
+  },
+  {
+   "id": 48114,
+   "key": "Код с видео (iframe)",
+   "value": ""
+  },
+  {
+   "id": 48115,
+   "key": "Файл видео",
+   "value": "2799"
+  },
+  {
+   "id": 48116,
+   "key": "_news_category",
+   "value": "1107"
+  },
+  {
+   "id": 48117,
+   "key": "_news_tag",
+   "value": "0"
+  },
+  {
+   "id": 48118,
+   "key": "_my_menu_type",
+   "value": "обычное"
+  },
+  {
+   "id": 48119,
+   "key": "_video_block",
+   "value": {
+    "video_title": "Возможности 3D-печати металлом",
+    "video_post_id": "3720",
+    "right_title": "Метод селективного лазерного сплавления",
+    "subtitle": "",
+    "video_description": "Selective Laser Melting (SLM) — это аддитивная технология 3D-печати металлом, при которой тонкий слой металлического порошка послойно сплавляется с помощью мощного лазера.\r\n\r\nПринтер наносит порошок на платформу, а лазер точно плавит его по заданной 3D-модели. После застывания слоя платформа опускается, наносится следующий слой порошка, и процесс повторяется до получения готовой детали.\r\n\r\nSLM позволяет создавать сложные геометрические формы с высокой точностью и отличными механическими свойствами.",
+    "button_text": "Смотреть больше видео",
+    "tag_id": "1295"
+   }
+  },
+  {
+   "id": 48120,
+   "key": "_yoast_wpseo_primary_product_brand",
+   "value": ""
+  },
+  {
+   "id": 48121,
+   "key": "_yoast_wpseo_content_score",
+   "value": "90"
+  },
+  {
+   "id": 48122,
+   "key": "_yoast_wpseo_estimated-reading-time-minutes",
+   "value": "4"
+  },
+  {
+   "id": 48123,
+   "key": "_yoast_wpseo_focuskw",
+   "value": "SLM 3D-принтер"
+  },
+  {
+   "id": 48124,
+   "key": "_yoast_wpseo_title",
+   "value": "SLM 3D - принтер AMT-16 - заказать у производителя с доставкой по России | AM-Tech"
+  },
+  {
+   "id": 48125,
+   "key": "_yoast_wpseo_metadesc",
+   "value": "Заказать SLM 3D - принтер AMT-16 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91"
+  },
+  {
+   "id": 48126,
+   "key": "_yoast_wpseo_linkdex",
+   "value": "69"
+  },
+  {
+   "id": 48127,
+   "key": "_elementor_edit_mode",
+   "value": "builder"
+  },
+  {
+   "id": 48128,
+   "key": "_elementor_template_type",
+   "value": "wp-post"
+  },
+  {
+   "id": 48129,
+   "key": "_elementor_version",
+   "value": "3.31.2"
+  },
+  {
+   "id": 48130,
+   "key": "boldgrid_in_page_containers",
+   "value": "1"
+  },
+  {
+   "id": 48131,
+   "key": "_custom_advantages",
+   "value": "<div class=\"boldgrid-section bg-background-color color-neutral-background-color color-neutral-text-contrast\" style=\"background-size: auto;background-repeat: repeat\">\r\n<div class=\"container\">\r\n<div class=\"row bg-background-color color-neutral-background-color color-neutral-text-contrast\">\r\n<div class=\"col-lg-6 col-md-6 col-sm-6 col-xs-12\">\r\n<div>\r\n<h2>Динамическая фокусировка</h2>\r\nУникальная для небольших SLM-принтеров особенность AMT-16 - динамическая фокусировка лазерного луча. Она улучшает стабильность работы комплекса и даёт дополнительную степень свободы при настройке режима печати, позволяя выбирать между производительным режимом печати с большим диаметром пучка и точным режимом с минимальным диаметром луча.\r\n\r\n</div>\r\n</div>\r\n<div class=\"col-lg-6 col-md-6 col-sm-6 col-xs-12\">\r\n<h2>Открытое программное обеспечение</h2>\r\nПрограммное обеспечение АМ.ТЕСН PrintMate с открытой архитектурой предоставляет пользователю возможность выбора между стандартными параметрами АМ.ТЕСН под определенные материалы или самостоятельной настройкой под специальные производственные потребности. Полный контроль за технологическим процессом – промышленные решения еще не были настолько доступными.\r\n\r\n</div>\r\n</div>\r\n<div class=\"row\">\r\n<div class=\"col-lg-6 col-md-6 col-sm-6 col-xs-12\">\r\n<h2>Расширенный пакет контрольной аппаратуры</h2>\r\nИнтеллектуальная система контроля с двумя датчиками концентрации кислорода и датчиком давления обеспечивает стабильность параметров газовой атмосферы на всём протяжении процесса сплавления, гарантируя надёжную и безопасную работу со всеми материалами. Автоматизированный контроль состояния загрязненности фильтрующего элемента вовремя укажет на необходимость его замены.\r\n\r\n</div>\r\n<div class=\"col-lg-6 col-md-6 col-sm-6 col-xs-12\">\r\n<h2>Унифицированная конструкция</h2>\r\nВо всех <a href=\"https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/\">SLM</a>-принтерах серии  AMT используется одинаковая лазерно-оптическая система . Такая унификация позволяет существенно сократить количество итераций по настройке параметров процесса синтеза при переходе от младших АМТ к старшим моделям аддитивных комплексов, отличающихся увеличенными размерами рабочей области.\r\n\r\n</div>\r\n</div>\r\n<div class=\"row\">\r\n<div class=\"col-lg-6 col-md-6 col-sm-6 col-xs-12\">\r\n<h2>Контроль качества порошкового слоя</h2>\r\nДля контроля качества порошкового слоя используется система компьютерного зрения, которая выявляет мельчайшие отклонения в плотности распределения порошкового слоя по всей площади печати.\r\n\r\n</div>\r\n<div class=\"col-lg-6 col-md-6 col-sm-6 col-xs-12\">\r\n<h2>Свобода выбора материала</h2>\r\nНержавеющая сталь, кобальт-хром, никелевые сплавы, сплавы титана и алюминия — все эти материалы могут быть использованы в SLM-установке AMT-16.\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>"
+  },
+  {
+   "id": 48132,
+   "key": "_yoast_wpseo_primary_product_cat",
+   "value": "15"
+  },
+  {
+   "id": 50362,
+   "key": "_yoast_wpseo_meta-robots-noindex",
+   "value": "1"
+  },
+  {
+   "id": 51795,
+   "key": "_elementor_page_assets",
+   "value": []
+  },
+  {
+   "id": 51796,
+   "key": "_elementor_css",
+   "value": {
+    "time": 1791407004,
+    "fonts": [],
+    "icons": [],
+    "dynamic_elements_ids": [],
+    "status": "empty",
+    "0": "",
+    "css": ""
+   }
+  }
+ ],
+ "stock_status": "instock",
+ "has_options": false,
+ "post_password": "",
+ "global_unique_id": "",
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>SLM 3D - принтер AMT-16 - заказать у производителя с доставкой по России | AM-Tech</title>\n<meta name=\"description\" content=\"Заказать SLM 3D - принтер AMT-16 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91\" />\n<meta name=\"robots\" content=\"noindex, follow\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"SLM 3D - принтер AMT-16 - заказать у производителя с доставкой по России | AM-Tech\" />\n<meta property=\"og:description\" content=\"Заказать SLM 3D - принтер AMT-16 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/product/amt-16-kopirovat/\" />\n<meta property=\"og:site_name\" content=\"am-tech.ru\" />\n<meta property=\"article:modified_time\" content=\"2026-08-25T06:20:30+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2025/08/g12s47zqysfj6sz9xypp4ylc4zqucftz.png\" />\n\t<meta property=\"og:image:width\" content=\"1000\" />\n\t<meta property=\"og:image:height\" content=\"981\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"4 минуты\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/product/amt-16-kopirovat/\",\"url\":\"https://am-tech.ru/product/amt-16-kopirovat/\",\"name\":\"SLM 3D - принтер AMT-16 - заказать у производителя с доставкой по России | AM-Tech\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/product/amt-16-kopirovat/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/product/amt-16-kopirovat/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2025/08/g12s47zqysfj6sz9xypp4ylc4zqucftz.png\",\"datePublished\":\"2026-07-28T14:28:19+00:00\",\"dateModified\":\"2026-08-25T06:20:30+00:00\",\"description\":\"Заказать SLM 3D - принтер AMT-16 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91\",\"breadcrumb\":{\"@id\":\"https://am-tech.ru/product/amt-16-kopirovat/#breadcrumb\"},\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/product/amt-16-kopirovat/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/product/amt-16-kopirovat/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2025/08/g12s47zqysfj6sz9xypp4ylc4zqucftz.png\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2025/08/g12s47zqysfj6sz9xypp4ylc4zqucftz.png\",\"width\":1000,\"height\":981},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://am-tech.ru/product/amt-16-kopirovat/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Главная страница\",\"item\":\"https://am-tech.ru/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"default\",\"item\":\"https://am-tech.ru/katalog/default/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"AMT-16 (Копировать)\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"am-tech.ru\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"am-tech.ru\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"am-tech.ru\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "SLM 3D - принтер AMT-16 - заказать у производителя с доставкой по России | AM-Tech",
+  "description": "Заказать SLM 3D - принтер AMT-16 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91",
+  "robots": {
+   "index": "noindex",
+   "follow": "follow"
+  },
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "SLM 3D - принтер AMT-16 - заказать у производителя с доставкой по России | AM-Tech",
+  "og_description": "Заказать SLM 3D - принтер AMT-16 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91",
+  "og_url": "https://am-tech.ru/product/amt-16-kopirovat/",
+  "og_site_name": "am-tech.ru",
+  "article_modified_time": "2026-08-25T06:20:30+00:00",
+  "og_image": [
+   {
+    "width": 1000,
+    "height": 981,
+    "url": "https://am-tech.ru/wp-content/uploads/2025/08/g12s47zqysfj6sz9xypp4ylc4zqucftz.png",
+    "type": "image/png"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "4 минуты"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/product/amt-16-kopirovat/",
+     "url": "https://am-tech.ru/product/amt-16-kopirovat/",
+     "name": "SLM 3D - принтер AMT-16 - заказать у производителя с доставкой по России | AM-Tech",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/product/amt-16-kopirovat/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/product/amt-16-kopirovat/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2025/08/g12s47zqysfj6sz9xypp4ylc4zqucftz.png",
+     "datePublished": "2026-07-28T14:28:19+00:00",
+     "dateModified": "2026-08-25T06:20:30+00:00",
+     "description": "Заказать SLM 3D - принтер AMT-16 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91",
+     "breadcrumb": {
+      "@id": "https://am-tech.ru/product/amt-16-kopirovat/#breadcrumb"
+     },
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/product/amt-16-kopirovat/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/product/amt-16-kopirovat/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2025/08/g12s47zqysfj6sz9xypp4ylc4zqucftz.png",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2025/08/g12s47zqysfj6sz9xypp4ylc4zqucftz.png",
+     "width": 1000,
+     "height": 981
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://am-tech.ru/product/amt-16-kopirovat/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Главная страница",
+       "item": "https://am-tech.ru/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "default",
+       "item": "https://am-tech.ru/katalog/default/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "AMT-16 (Копировать)"
+      }
+     ]
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "am-tech.ru",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "am-tech.ru",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "am-tech.ru"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wc/v3/products/4185",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wc/v3/products"
+   }
+  ]
+ }
+}

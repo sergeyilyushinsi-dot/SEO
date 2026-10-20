@@ -1,0 +1,22 @@
+[
+ {
+  "plan_task": 16,
+  "label": "Title (Yoast)",
+  "before_text": "Лазерный геодезический сканер FLS10 - заказать у производителя с доставкой по России | AM-Tech",
+  "after_text": "Лазерный геодезический сканер FLS10 — купить, цена | AM-Tech",
+  "comment": "Было 94 симв., стало 60 симв. «У производителя» убрано: в карточке страна производства — Китай",
+  "slug": "lazernyj-geodezicheskij-skaner-fls10",
+  "field": "title",
+  "value": "Лазерный геодезический сканер FLS10 — купить, цена | AM-Tech",
+  "row": 50,
+  "type": "product",
+  "id": 1657,
+  "url": "https://am-tech.ru/product/lazernyj-geodezicheskij-skaner-fls10/",
+  "before": "Лазерный геодезический сканер FLS10 - заказать у производителя с доставкой по России | AM-Tech",
+  "after": "Лазерный геодезический сканер FLS10 — купить, цена | AM-Tech",
+  "saved": true,
+  "on_page": true,
+  "on_cached_page": true,
+  "status": "применено"
+ }
+]

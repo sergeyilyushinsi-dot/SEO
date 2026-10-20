@@ -1,0 +1,286 @@
+{
+ "id": 3449,
+ "date": "2024-06-18T16:02:00",
+ "date_gmt": "2024-06-18T13:02:00",
+ "guid": {
+  "rendered": "https://am-tech.ru/?post_type=news&#038;p=3449",
+  "raw": "https://am-tech.ru/?post_type=news&#038;p=3449"
+ },
+ "modified": "2026-06-30T15:33:33",
+ "modified_gmt": "2026-06-30T12:33:33",
+ "password": "",
+ "slug": "leap71-provela-uspeshnye-ispytanija-raketnogo-dvigatelja-napechatannogo-na-3d-printere",
+ "status": "publish",
+ "type": "news",
+ "link": "https://am-tech.ru/news/leap71-provela-uspeshnye-ispytanija-raketnogo-dvigatelja-napechatannogo-na-3d-printere/",
+ "title": {
+  "raw": "Leap71 провела успешные испытания ракетного двигателя, напечатанного на 3D принтере",
+  "rendered": "Leap71 провела успешные испытания ракетного двигателя, напечатанного на 3D принтере"
+ },
+ "content": {
+  "raw": "<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n<div class=\"et_pb_section et_pb_section_1_tb_body et_section_regular\">\r\n<div class=\"et_pb_row et_pb_row_0_tb_body\">\r\n<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_0_tb_body et_pb_css_mix_blend_mode_passthrough et-last-child\">\r\n<div class=\"et_pb_module et_pb_post_title et_pb_post_title_0_tb_body et_pb_bg_layout_light et_pb_text_align_center\">\r\n<div class=\"et_pb_title_container\">\r\n<p class=\"\">Известная своим новаторским подходом к разработке и производству ракетных двигателей, компания <a href=\"https://leap71.com/\">LEAP 71 </a>объявила об успешном испытании жидкостного ракетного двигателя, полностью созданного с помощью нейронной инженерной модели <a href=\"https://leap71.com/Noyron\">Noyron</a>. Двигатель был спроектирован автономно, без участия человека, а затем напечатан на 3D-принтере из меди. Ракетный двигатель был успешно испытан на ракетном испытательном стенде в Великобритании.</p>\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"et_pb_section et_pb_section_2_tb_body et_section_regular\">\r\n<div class=\"et_pb_row et_pb_row_1_tb_body\">\r\n<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_1_tb_body et_pb_css_mix_blend_mode_passthrough et-last-child\">\r\n<div class=\"et_pb_module et_pb_post_content et_pb_post_content_0_tb_body\">\r\n<p class=\"\">Двигатель с тягой 5 кН (около 500 кг) развил ожидаемую мощность в 20 000 лошадиных сил и успешно прошёл все испытания, включая продолжительный режим работы.</p>\r\n\r\n<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\">\r\n<div class=\"wp-block-embed__wrapper\">\r\n<div class=\"fluid-width-video-wrapper\">Вся разработка этого двигателя — от получения спецификации до производства&nbsp; —&nbsp; заняла менее двух недель. При традиционном проектировании на это ушло бы много месяцев или даже лет. Разработка велась итерационными методом: конструкция -&nbsp; моделирование - проверка - внесение изменений. Благодаря использованию нейронной сети каждая итерация занимала всего несколько минут.&nbsp;</div>\r\n</div></figure>\r\n<figure class=\"wp-block-image size-large\">\r\n<p class=\"mod-reset\"><img class=\"alignnone wp-image-3450 size-full\" src=\"https://am-tech.ru/wp-content/uploads/2025/11/1.jpg\" alt=\"\" width=\"980\" height=\"735\" data-recalc-dims=\"1\"></p>\r\n</figure>\r\n<p class=\"\">В созданном двигателе в качестве топлива используются жидкий кислород и керосин. Медная камера сгорания оснащена регенеративным охлаждением, а головка инжектора — современным коаксиальным завихрителем для смешивания топлива.</p>\r\nЛин Кайзер, соучредитель LEAP 71, сказал: «Наша компания находится в авангарде новой области — вычислительной инженерии, которая позволяет проектировать сложные машины без ручного труда. Эта парадигма значительно ускоряет процесс внедрения инноваций в реальные объекты. Тот факт, что двигатель Noyron сработал в штатном режиме с первой попытки, подтверждает эффективность этого подхода. Этот метод можно применять в любой области инженерии».\r\n<p class=\"\">Компания LEAP 71 сотрудничала с ведущей немецкой компанией по 3D-печати металлом AMCM при производстве подруливающего двигателя. Постобработка выполнялась в Шеффилдском университете. Испытание на огнестойкость было проведено в компании Airborne Engineering, Ltd. в Уэсткотте, Великобритания.</p>\r\n\r\n<figure class=\"wp-block-image size-large\"></figure>\r\n<p class=\"\"><img class=\"alignnone wp-image-3451 size-full\" src=\"https://am-tech.ru/wp-content/uploads/2025/11/2.jpg\" alt=\"\" width=\"980\" height=\"735\" data-recalc-dims=\"1\"></p>\r\n\r\n<h2 class=\"wp-block-heading\"><strong>Проект</strong></h2>\r\nРазработка ракетного двигателя Noyron TKL-5, который был успешно испытан в июне 2024 года, является внутренним проектом LEAP 71, призванным продемонстрировать возможности большой вычислительной модели <strong>Noyron</strong>.\r\n\r\nЭтап проектирования двигателя занял <strong>менее 2 недель</strong> с момента получения окончательных спецификаций до отправки на производство. Создание новых вариантов конструкции занимает менее 15 минут на обычном компьютере. Двигатель была напечатан из медного сплава в <a href=\"https://amcm.com/\">AMCM</a>, ведущей немецкой компании по 3D-печати металлом.\r\n<h2 class=\"wp-block-heading\"><strong>Двигатель</strong></h2>\r\nВ качестве цели был выбран уровень тяги <strong>5 кН</strong> (что эквивалентно приблизительно 500 кг).&nbsp;Это относительно компактный двигатель, который подойдет для заключительной ступени орбитальной ракеты.\r\n\r\nДвигатель работает на криогенном&nbsp;<strong>жидком кислороде</strong> и&nbsp;<strong>керосине</strong>&nbsp;— комбинации, которая используется во многих современных ракетных системах, в том числе в SpaceX Falcon 9 и легендарной лунной ракете «Сатурн-5».&nbsp;Компания LEAP 71 намеренно сделала такой выбор, несмотря на то, что эти виды топлива сложнее в эксплуатации, чем другие, обычно используемые в небольших двигателях.\r\n\r\nДвигатель был напечатан из&nbsp;<strong>меди</strong>&nbsp;(CuCrZr) с помощью металлического 3D-принтера EOS M290.&nbsp;Медь имеет низкую температуру плавления, но позволяет создавать компактные высокопроизводительные двигатели при условии активного охлаждения.&nbsp;<strong>В случае отказа системы охлаждения двигатель немедленно расплавится</strong>.\r\n\r\n&nbsp;\r\n<figure class=\"wp-block-image size-large\">\r\n<p class=\"mod-reset\"><img class=\"alignnone wp-image-3452 size-full\" src=\"https://am-tech.ru/wp-content/uploads/2025/11/3.jpg\" alt=\"\" width=\"980\" height=\"980\" data-recalc-dims=\"1\"></p>\r\n</figure>\r\nВ двигателе используются тонкие охлаждающие каналы, которые проходят по периметру камеры сгорания и имеют переменное сечение толщиной до 0,8 мм.&nbsp;Керосин проходит по этим каналам, охлаждая двигатель и предотвращая его расплавление.&nbsp;Затем оба компонента топлива подаются в камеру сгорания.&nbsp;Температура сгорания внутри двигателя&nbsp;<strong>составляет около 3000 °C</strong>, в то время как температура поверхности двигателя&nbsp;<strong>не превышает 250 °C</strong> благодаря активному охлаждению. Дополнительное пленочное охлаждение обеспечивается за счет подачи части топлива через крошечные отверстия у стенки камеры сгорания.&nbsp;\r\n\r\nТопливо впрыскивается в двигатель с помощью соосной вихревой форсунки.&nbsp;Этот тип форсунки считается наиболее совершенным.\r\n<p class=\"\"><img class=\"alignnone wp-image-3453 size-full\" src=\"https://am-tech.ru/wp-content/uploads/2025/11/4.jpg\" alt=\"\" width=\"980\" height=\"735\" data-recalc-dims=\"1\"></p>\r\nМножество измерительных портов для сбора данных о температуре и давлении позволяют передавать информацию обратно в вычислительную модель Noyron.\r\n<h2 class=\"wp-block-heading\"><strong>Испытание</strong></h2>\r\nТестовый запуск двигателя был проведён в Уэсткотте, Великобритания, на испытательном полигоне компании Airborne Engineering в пятницу, 14 июня 2024 года.&nbsp;Двигатель работал в течение первых 3,5 секунд с соотношением окислителя и топлива 1,8, что ниже номинального значения 2,3. При использовании меньшего количества окислителя двигатель нагревается немного меньше.&nbsp;Убедившись, что двигатель работает исправно и все температуры находятся в ожидаемом диапазоне,&nbsp;<strong>двигатель был протестирован в течение полных 12 секунд</strong>&nbsp;при номинальном соотношении окислителя и топлива 2,3.\r\n<p class=\"\">Двигатель работал так, как и ожидалось.&nbsp;Он достиг стационарного режима работы, то есть может работать столько, сколько необходимо.&nbsp;Время работы ограничивалось только подачей топлива на испытательном полигоне.</p>\r\n&nbsp;\r\n<figure class=\"wp-block-image size-large\">\r\n<p class=\"mod-reset\"><img class=\"alignnone wp-image-3454 size-full\" src=\"https://am-tech.ru/wp-content/uploads/2025/11/5.jpg\" alt=\"\" width=\"980\" height=\"551\" data-recalc-dims=\"1\"></p>\r\n</figure>\r\n<h2 class=\"wp-block-heading\"><strong>Последующий анализ</strong></h2>\r\nНа следующий день двигатель был разобран в Шеффилдском университете, и тщательный осмотр подтвердил, что он не повреждён.&nbsp;Двигатель останется в Великобритании для дальнейших испытаний.&nbsp;Первоначальный анализ данных показал, что перепад давления (сопротивление) в каналах охлаждения был выше, чем предполагалось, из-за фактической шероховатости поверхности 3D-печати.&nbsp;Команда проведёт постобработку существующего двигателя, а логика каналов охлаждения Noyron уже обновлена для улучшения прогнозов и проектирования будущих двигателей.\r\n<p class=\"\"><img class=\"alignnone wp-image-3455 size-full\" src=\"https://am-tech.ru/wp-content/uploads/2025/11/6.jpg\" alt=\"\" width=\"980\" height=\"735\" data-recalc-dims=\"1\"></p>\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+  "rendered": "<div class=\"boldgrid-section\">\n<div class=\"container\">\n<div class=\"row\">\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\n<div class=\"et_pb_section et_pb_section_1_tb_body et_section_regular\">\n<div class=\"et_pb_row et_pb_row_0_tb_body\">\n<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_0_tb_body et_pb_css_mix_blend_mode_passthrough et-last-child\">\n<div class=\"et_pb_module et_pb_post_title et_pb_post_title_0_tb_body et_pb_bg_layout_light et_pb_text_align_center\">\n<div class=\"et_pb_title_container\">\n<p class=\"\">Известная своим новаторским подходом к разработке и производству ракетных двигателей, компания <a href=\"https://leap71.com/\">LEAP 71 </a>объявила об успешном испытании жидкостного ракетного двигателя, полностью созданного с помощью нейронной инженерной модели <a href=\"https://leap71.com/Noyron\">Noyron</a>. Двигатель был спроектирован автономно, без участия человека, а затем напечатан на 3D-принтере из меди. Ракетный двигатель был успешно испытан на ракетном испытательном стенде в Великобритании.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"et_pb_section et_pb_section_2_tb_body et_section_regular\">\n<div class=\"et_pb_row et_pb_row_1_tb_body\">\n<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_1_tb_body et_pb_css_mix_blend_mode_passthrough et-last-child\">\n<div class=\"et_pb_module et_pb_post_content et_pb_post_content_0_tb_body\">\n<p class=\"\">Двигатель с тягой 5 кН (около 500 кг) развил ожидаемую мощность в 20 000 лошадиных сил и успешно прошёл все испытания, включая продолжительный режим работы.</p>\n<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\">\n<div class=\"wp-block-embed__wrapper\">\n<div class=\"fluid-width-video-wrapper\">Вся разработка этого двигателя — от получения спецификации до производства&nbsp; —&nbsp; заняла менее двух недель. При традиционном проектировании на это ушло бы много месяцев или даже лет. Разработка велась итерационными методом: конструкция &#8212;&nbsp; моделирование &#8212; проверка &#8212; внесение изменений. Благодаря использованию нейронной сети каждая итерация занимала всего несколько минут.&nbsp;</div>\n</div>\n</figure>\n<figure class=\"wp-block-image size-large\">\n<p class=\"mod-reset\"><img loading=\"lazy\" decoding=\"async\" fetchpriority=\"high\" decoding=\"async\" class=\"alignnone wp-image-3450 size-full\" src=\"https://am-tech.ru/wp-content/uploads/2025/11/1.jpg\" alt=\"Leap71 провела успешные испытания ракетного двигателя, напечатанного на 3D принтере - 3D-печать металлами - AM-Tech\" width=\"980\" height=\"735\" data-recalc-dims=\"1\" srcset=\"https://am-tech.ru/wp-content/uploads/2025/11/1.jpg 980w, https://am-tech.ru/wp-content/uploads/2025/11/1-300x225.jpg 300w, https://am-tech.ru/wp-content/uploads/2025/11/1-768x576.jpg 768w, https://am-tech.ru/wp-content/uploads/2025/11/1-600x450.jpg 600w\" sizes=\"(max-width: 980px) 100vw, 980px\" /></p>\n</figure>\n<p class=\"\">В созданном двигателе в качестве топлива используются жидкий кислород и керосин. Медная камера сгорания оснащена регенеративным охлаждением, а головка инжектора — современным коаксиальным завихрителем для смешивания топлива.</p>\n<p>Лин Кайзер, соучредитель LEAP 71, сказал: «Наша компания находится в авангарде новой области — вычислительной инженерии, которая позволяет проектировать сложные машины без ручного труда. Эта парадигма значительно ускоряет процесс внедрения инноваций в реальные объекты. Тот факт, что двигатель Noyron сработал в штатном режиме с первой попытки, подтверждает эффективность этого подхода. Этот метод можно применять в любой области инженерии».</p>\n<p class=\"\">Компания LEAP 71 сотрудничала с ведущей немецкой компанией по 3D-печати металлом AMCM при производстве подруливающего двигателя. Постобработка выполнялась в Шеффилдском университете. Испытание на огнестойкость было проведено в компании Airborne Engineering, Ltd. в Уэсткотте, Великобритания.</p>\n<figure class=\"wp-block-image size-large\"></figure>\n<p class=\"\"><img loading=\"lazy\" decoding=\"async\" decoding=\"async\" class=\"alignnone wp-image-3451 size-full\" src=\"https://am-tech.ru/wp-content/uploads/2025/11/2.jpg\" alt=\"Leap71 провела успешные испытания ракетного двигателя, напечатанного на 3D принтере - 3D-печать металлами - AM-Tech\" width=\"980\" height=\"735\" data-recalc-dims=\"1\" srcset=\"https://am-tech.ru/wp-content/uploads/2025/11/2.jpg 980w, https://am-tech.ru/wp-content/uploads/2025/11/2-300x225.jpg 300w, https://am-tech.ru/wp-content/uploads/2025/11/2-768x576.jpg 768w, https://am-tech.ru/wp-content/uploads/2025/11/2-600x450.jpg 600w\" sizes=\"(max-width: 980px) 100vw, 980px\" /></p>\n<h2 class=\"wp-block-heading\"><strong>Проект</strong></h2>\n<p>Разработка ракетного двигателя Noyron TKL-5, который был успешно испытан в июне 2024 года, является внутренним проектом LEAP 71, призванным продемонстрировать возможности большой вычислительной модели <strong>Noyron</strong>.</p>\n<p>Этап проектирования двигателя занял <strong>менее 2 недель</strong> с момента получения окончательных спецификаций до отправки на производство. Создание новых вариантов конструкции занимает менее 15 минут на обычном компьютере. Двигатель была напечатан из медного сплава в <a href=\"https://amcm.com/\">AMCM</a>, ведущей немецкой компании по 3D-печати металлом.</p>\n<h2 class=\"wp-block-heading\"><strong>Двигатель</strong></h2>\n<p>В качестве цели был выбран уровень тяги <strong>5 кН</strong> (что эквивалентно приблизительно 500 кг).&nbsp;Это относительно компактный двигатель, который подойдет для заключительной ступени орбитальной ракеты.</p>\n<p>Двигатель работает на криогенном&nbsp;<strong>жидком кислороде</strong> и&nbsp;<strong>керосине</strong>&nbsp;— комбинации, которая используется во многих современных ракетных системах, в том числе в SpaceX Falcon 9 и легендарной лунной ракете «Сатурн-5».&nbsp;Компания LEAP 71 намеренно сделала такой выбор, несмотря на то, что эти виды топлива сложнее в эксплуатации, чем другие, обычно используемые в небольших двигателях.</p>\n<p>Двигатель был напечатан из&nbsp;<strong>меди</strong>&nbsp;(CuCrZr) с помощью металлического 3D-принтера EOS M290.&nbsp;Медь имеет низкую температуру плавления, но позволяет создавать компактные высокопроизводительные двигатели при условии активного охлаждения.&nbsp;<strong>В случае отказа системы охлаждения двигатель немедленно расплавится</strong>.</p>\n<p>&nbsp;</p>\n<figure class=\"wp-block-image size-large\">\n<p class=\"mod-reset\"><img loading=\"lazy\" decoding=\"async\" decoding=\"async\" class=\"alignnone wp-image-3452 size-full\" src=\"https://am-tech.ru/wp-content/uploads/2025/11/3.jpg\" alt=\"Leap71 провела успешные испытания ракетного двигателя, напечатанного на 3D принтере - 3D-печать металлами - AM-Tech\" width=\"980\" height=\"980\" data-recalc-dims=\"1\" srcset=\"https://am-tech.ru/wp-content/uploads/2025/11/3.jpg 980w, https://am-tech.ru/wp-content/uploads/2025/11/3-300x300.jpg 300w, https://am-tech.ru/wp-content/uploads/2025/11/3-150x150.jpg 150w, https://am-tech.ru/wp-content/uploads/2025/11/3-768x768.jpg 768w, https://am-tech.ru/wp-content/uploads/2025/11/3-600x600.jpg 600w, https://am-tech.ru/wp-content/uploads/2025/11/3-100x100.jpg 100w\" sizes=\"(max-width: 980px) 100vw, 980px\" /></p>\n</figure>\n<p>В двигателе используются тонкие охлаждающие каналы, которые проходят по периметру камеры сгорания и имеют переменное сечение толщиной до 0,8 мм.&nbsp;Керосин проходит по этим каналам, охлаждая двигатель и предотвращая его расплавление.&nbsp;Затем оба компонента топлива подаются в камеру сгорания.&nbsp;Температура сгорания внутри двигателя&nbsp;<strong>составляет около 3000 °C</strong>, в то время как температура поверхности двигателя&nbsp;<strong>не превышает 250 °C</strong> благодаря активному охлаждению. Дополнительное пленочное охлаждение обеспечивается за счет подачи части топлива через крошечные отверстия у стенки камеры сгорания.&nbsp;</p>\n<p>Топливо впрыскивается в двигатель с помощью соосной вихревой форсунки.&nbsp;Этот тип форсунки считается наиболее совершенным.</p>\n<p class=\"\"><img loading=\"lazy\" decoding=\"async\" class=\"alignnone wp-image-3453 size-full\" src=\"https://am-tech.ru/wp-content/uploads/2025/11/4.jpg\" alt=\"Leap71 провела успешные испытания ракетного двигателя, напечатанного на 3D принтере - 3D-печать металлами - AM-Tech\" width=\"980\" height=\"735\" data-recalc-dims=\"1\" srcset=\"https://am-tech.ru/wp-content/uploads/2025/11/4.jpg 980w, https://am-tech.ru/wp-content/uploads/2025/11/4-300x225.jpg 300w, https://am-tech.ru/wp-content/uploads/2025/11/4-768x576.jpg 768w, https://am-tech.ru/wp-content/uploads/2025/11/4-600x450.jpg 600w\" sizes=\"(max-width: 980px) 100vw, 980px\" /></p>\n<p>Множество измерительных портов для сбора данных о температуре и давлении позволяют передавать информацию обратно в вычислительную модель Noyron.</p>\n<h2 class=\"wp-block-heading\"><strong>Испытание</strong></h2>\n<p>Тестовый запуск двигателя был проведён в Уэсткотте, Великобритания, на испытательном полигоне компании Airborne Engineering в пятницу, 14 июня 2024 года.&nbsp;Двигатель работал в течение первых 3,5 секунд с соотношением окислителя и топлива 1,8, что ниже номинального значения 2,3. При использовании меньшего количества окислителя двигатель нагревается немного меньше.&nbsp;Убедившись, что двигатель работает исправно и все температуры находятся в ожидаемом диапазоне,&nbsp;<strong>двигатель был протестирован в течение полных 12 секунд</strong>&nbsp;при номинальном соотношении окислителя и топлива 2,3.</p>\n<p class=\"\">Двигатель работал так, как и ожидалось.&nbsp;Он достиг стационарного режима работы, то есть может работать столько, сколько необходимо.&nbsp;Время работы ограничивалось только подачей топлива на испытательном полигоне.</p>\n<p>&nbsp;</p>\n<figure class=\"wp-block-image size-large\">\n<p class=\"mod-reset\"><img loading=\"lazy\" decoding=\"async\" class=\"alignnone wp-image-3454 size-full\" src=\"https://am-tech.ru/wp-content/uploads/2025/11/5.jpg\" alt=\"Leap71 провела успешные испытания ракетного двигателя, напечатанного на 3D принтере - 3D-печать металлами - AM-Tech\" width=\"980\" height=\"551\" data-recalc-dims=\"1\" srcset=\"https://am-tech.ru/wp-content/uploads/2025/11/5.jpg 980w, https://am-tech.ru/wp-content/uploads/2025/11/5-300x169.jpg 300w, https://am-tech.ru/wp-content/uploads/2025/11/5-768x432.jpg 768w, https://am-tech.ru/wp-content/uploads/2025/11/5-800x450.jpg 800w, https://am-tech.ru/wp-content/uploads/2025/11/5-600x337.jpg 600w\" sizes=\"(max-width: 980px) 100vw, 980px\" /></p>\n</figure>\n<h2 class=\"wp-block-heading\"><strong>Последующий анализ</strong></h2>\n<p>На следующий день двигатель был разобран в Шеффилдском университете, и тщательный осмотр подтвердил, что он не повреждён.&nbsp;Двигатель останется в Великобритании для дальнейших испытаний.&nbsp;Первоначальный анализ данных показал, что перепад давления (сопротивление) в каналах охлаждения был выше, чем предполагалось, из-за фактической шероховатости поверхности 3D-печати.&nbsp;Команда проведёт постобработку существующего двигателя, а логика каналов охлаждения Noyron уже обновлена для улучшения прогнозов и проектирования будущих двигателей.</p>\n<p class=\"\"><img loading=\"lazy\" decoding=\"async\" class=\"alignnone wp-image-3455 size-full\" src=\"https://am-tech.ru/wp-content/uploads/2025/11/6.jpg\" alt=\"Leap71 провела успешные испытания ракетного двигателя, напечатанного на 3D принтере - 3D-печать металлами - AM-Tech\" width=\"980\" height=\"735\" data-recalc-dims=\"1\" srcset=\"https://am-tech.ru/wp-content/uploads/2025/11/6.jpg 980w, https://am-tech.ru/wp-content/uploads/2025/11/6-300x225.jpg 300w, https://am-tech.ru/wp-content/uploads/2025/11/6-768x576.jpg 768w, https://am-tech.ru/wp-content/uploads/2025/11/6-600x450.jpg 600w\" sizes=\"(max-width: 980px) 100vw, 980px\" /></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n",
+  "protected": false,
+  "block_version": 0
+ },
+ "excerpt": {
+  "raw": "",
+  "rendered": "<p>Известная своим новаторским подходом к разработке и производству ракетных двигателей, компания LEAP 71 объявила об успешном испытании жидкостного ракетного двигателя, полностью созданного с помощью нейронной инженерной модели Noyron. Двигатель был спроектирован автономно, без участия человека, а затем напечатан на 3D-принтере из меди. Ракетный двигатель был успешно испытан на ракетном испытательном стенде в Великобритании. Двигатель с тягой [&hellip;]</p>\n",
+  "protected": false
+ },
+ "author": 4,
+ "featured_media": 3452,
+ "comment_status": "open",
+ "ping_status": "closed",
+ "template": "",
+ "meta": {
+  "_acf_changed": false,
+  "_yoast_wpseo_title": "",
+  "_yoast_wpseo_metadesc": "Leap71 испытала ракетный двигатель, напечатанный на 3D-принтере. Революция в космической отрасли.",
+  "_yoast_wpseo_meta-robots-noindex": ""
+ },
+ "news_category": [
+  1107
+ ],
+ "news_tag": [
+  1267,
+  1260,
+  1220,
+  1265
+ ],
+ "permalink_template": "https://am-tech.ru/news/%pagename%/",
+ "generated_slug": "leap71-provela-uspeshnye-ispytanija-raketnogo-dvigatelja-napechatannogo-na-3d-printere",
+ "class_list": [
+  "post-3449",
+  "news",
+  "type-news",
+  "status-publish",
+  "has-post-thumbnail",
+  "hentry",
+  "news_category-3d-pechat-metallami",
+  "news_tag-kosmos",
+  "news_tag-mashinostroenie",
+  "news_tag-slm",
+  "news_tag-proektirovanie"
+ ],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Leap71 провела успешные испытания ракетного двигателя, напечатанного на 3D принтере - am-tech.ru</title>\n<meta name=\"description\" content=\"Leap71 испытала ракетный двигатель, напечатанный на 3D-принтере. Революция в космической отрасли.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/news/leap71-provela-uspeshnye-ispytanija-raketnogo-dvigatelja-napechatannogo-na-3d-printere/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Leap71 провела успешные испытания ракетного двигателя, напечатанного на 3D принтере - am-tech.ru\" />\n<meta property=\"og:description\" content=\"Leap71 испытала ракетный двигатель, напечатанный на 3D-принтере. Революция в космической отрасли.\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/news/leap71-provela-uspeshnye-ispytanija-raketnogo-dvigatelja-napechatannogo-na-3d-printere/\" />\n<meta property=\"og:site_name\" content=\"am-tech.ru\" />\n<meta property=\"article:modified_time\" content=\"2026-06-30T12:33:33+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2025/11/3.jpg\" />\n\t<meta property=\"og:image:width\" content=\"980\" />\n\t<meta property=\"og:image:height\" content=\"980\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"6 минут\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/news/leap71-provela-uspeshnye-ispytanija-raketnogo-dvigatelja-napechatannogo-na-3d-printere/\",\"url\":\"https://am-tech.ru/news/leap71-provela-uspeshnye-ispytanija-raketnogo-dvigatelja-napechatannogo-na-3d-printere/\",\"name\":\"Leap71 провела успешные испытания ракетного двигателя, напечатанного на 3D принтере - am-tech.ru\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/news/leap71-provela-uspeshnye-ispytanija-raketnogo-dvigatelja-napechatannogo-na-3d-printere/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/news/leap71-provela-uspeshnye-ispytanija-raketnogo-dvigatelja-napechatannogo-na-3d-printere/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2025/11/3.jpg\",\"datePublished\":\"2024-06-18T13:02:00+00:00\",\"dateModified\":\"2026-06-30T12:33:33+00:00\",\"description\":\"Leap71 испытала ракетный двигатель, напечатанный на 3D-принтере. Революция в космической отрасли.\",\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/news/leap71-provela-uspeshnye-ispytanija-raketnogo-dvigatelja-napechatannogo-na-3d-printere/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/news/leap71-provela-uspeshnye-ispytanija-raketnogo-dvigatelja-napechatannogo-na-3d-printere/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2025/11/3.jpg\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2025/11/3.jpg\",\"width\":980,\"height\":980},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"am-tech.ru\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"am-tech.ru\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"am-tech.ru\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "Leap71 провела успешные испытания ракетного двигателя, напечатанного на 3D принтере - am-tech.ru",
+  "description": "Leap71 испытала ракетный двигатель, напечатанный на 3D-принтере. Революция в космической отрасли.",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/news/leap71-provela-uspeshnye-ispytanija-raketnogo-dvigatelja-napechatannogo-na-3d-printere/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "Leap71 провела успешные испытания ракетного двигателя, напечатанного на 3D принтере - am-tech.ru",
+  "og_description": "Leap71 испытала ракетный двигатель, напечатанный на 3D-принтере. Революция в космической отрасли.",
+  "og_url": "https://am-tech.ru/news/leap71-provela-uspeshnye-ispytanija-raketnogo-dvigatelja-napechatannogo-na-3d-printere/",
+  "og_site_name": "am-tech.ru",
+  "article_modified_time": "2026-06-30T12:33:33+00:00",
+  "og_image": [
+   {
+    "width": 980,
+    "height": 980,
+    "url": "https://am-tech.ru/wp-content/uploads/2025/11/3.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "6 минут"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/news/leap71-provela-uspeshnye-ispytanija-raketnogo-dvigatelja-napechatannogo-na-3d-printere/",
+     "url": "https://am-tech.ru/news/leap71-provela-uspeshnye-ispytanija-raketnogo-dvigatelja-napechatannogo-na-3d-printere/",
+     "name": "Leap71 провела успешные испытания ракетного двигателя, напечатанного на 3D принтере - am-tech.ru",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/news/leap71-provela-uspeshnye-ispytanija-raketnogo-dvigatelja-napechatannogo-na-3d-printere/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/news/leap71-provela-uspeshnye-ispytanija-raketnogo-dvigatelja-napechatannogo-na-3d-printere/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2025/11/3.jpg",
+     "datePublished": "2024-06-18T13:02:00+00:00",
+     "dateModified": "2026-06-30T12:33:33+00:00",
+     "description": "Leap71 испытала ракетный двигатель, напечатанный на 3D-принтере. Революция в космической отрасли.",
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/news/leap71-provela-uspeshnye-ispytanija-raketnogo-dvigatelja-napechatannogo-na-3d-printere/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/news/leap71-provela-uspeshnye-ispytanija-raketnogo-dvigatelja-napechatannogo-na-3d-printere/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2025/11/3.jpg",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2025/11/3.jpg",
+     "width": 980,
+     "height": 980
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "am-tech.ru",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "am-tech.ru",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "am-tech.ru"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3449",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/types/news"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/users/4"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/comments?post=3449"
+   }
+  ],
+  "wp:featuredmedia": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/media/3452"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/media?parent=3449"
+   }
+  ],
+  "wp:term": [
+   {
+    "taxonomy": "news_category",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_category?post=3449"
+   },
+   {
+    "taxonomy": "news_tag",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_tag?post=3449"
+   }
+  ],
+  "wp:action-publish": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3449"
+   }
+  ],
+  "wp:action-unfiltered-html": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3449"
+   }
+  ],
+  "wp:action-assign-author": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3449"
+   }
+  ],
+  "wp:action-create-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3449"
+   }
+  ],
+  "wp:action-assign-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3449"
+   }
+  ],
+  "wp:action-create-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3449"
+   }
+  ],
+  "wp:action-assign-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3449"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}
