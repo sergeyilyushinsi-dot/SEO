@@ -1,0 +1,32 @@
+[
+ {
+  "id": 4400,
+  "slug": "kontrol-shtampov-3d-skanerom-simscan-s",
+  "status": "draft",
+  "yt": "Контроль штампов 3D-сканером SIMSCAN S: доводка за 1 день | AM.TECH",
+  "yd_len": 151,
+  "tables": 1,
+  "style_wrap": 1,
+  "preview": "https://am-tech.ru/?post_type=cases&p=4400"
+ },
+ {
+  "id": 4401,
+  "slug": "kontrol-svarnyh-konstrukcij-nimbletrack-e",
+  "status": "draft",
+  "yt": "Контроль сварных узлов NimbleTrack E: отчёт в 10 раз быстрее | AM.TECH",
+  "yd_len": 155,
+  "tables": 1,
+  "style_wrap": 1,
+  "preview": "https://am-tech.ru/?post_type=cases&p=4401"
+ },
+ {
+  "id": 4402,
+  "slug": "proverka-soosnosti-valov-kscan-magic-ii",
+  "status": "draft",
+  "yt": "Проверка соосности валов 3D-сканером KSCAN MAGIC II | AM.TECH",
+  "yd_len": 150,
+  "tables": 1,
+  "style_wrap": 1,
+  "preview": "https://am-tech.ru/?post_type=cases&p=4402"
+ }
+]
