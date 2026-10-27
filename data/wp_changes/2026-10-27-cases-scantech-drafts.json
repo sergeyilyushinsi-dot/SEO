@@ -7,7 +7,35 @@
   "yd_len": 151,
   "tables": 1,
   "style_wrap": 1,
-  "preview": "https://am-tech.ru/?post_type=cases&p=4400"
+  "preview": "https://am-tech.ru/?post_type=cases&p=4400",
+  "featured_media": 4403,
+  "media": [
+   {
+    "id": 4403,
+    "url": "https://am-tech.ru/wp-content/uploads/2026/10/kontrol-shtampovannoj-paneli-3d-skanerom-simscan-s.webp",
+    "alt": "Сканирование штампованной кузовной панели ручным 3D-сканером SIMSCAN S"
+   },
+   {
+    "id": 4404,
+    "url": "https://am-tech.ru/wp-content/uploads/2026/10/kuzov-avtomobilya-shtampovannye-detali.webp",
+    "alt": "Кузов автомобиля из штампованных панелей"
+   },
+   {
+    "id": 4405,
+    "url": "https://am-tech.ru/wp-content/uploads/2026/10/3d-skanirovanie-shtampovannoj-detali-simscan-s.webp",
+    "alt": "3D-сканирование штампованной детали: синие лазерные линии SIMSCAN S"
+   },
+   {
+    "id": 4406,
+    "url": "https://am-tech.ru/wp-content/uploads/2026/10/karta-otklonenij-ot-cad-modeli-shtampovka.webp",
+    "alt": "Цветная карта отклонений штампованной панели от CAD-модели, мм"
+   },
+   {
+    "id": 4407,
+    "url": "https://am-tech.ru/wp-content/uploads/2026/10/3d-skaner-simscan-s-kontrol-kronshtejna.webp",
+    "alt": "Ручной 3D-сканер SIMSCAN S при контроле кузовного кронштейна"
+   }
+  ]
  },
  {
   "id": 4401,
