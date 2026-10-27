@@ -202,10 +202,20 @@ def cmd_serp(a):
     raw_path = DATA_DIR / "serp" / f"{TODAY.isoformat()}_{region}.jsonl"
     raw_path.parent.mkdir(parents=True, exist_ok=True)
     rows, top10_domains = [], Counter()
-    with raw_path.open("w", encoding="utf-8") as raw:
+    # Сегодняшние ответы уже в raw-файле: повторный запуск после 429 продолжает с места остановки и не платит дважды.
+    done = {}
+    if raw_path.exists():
+        for line in raw_path.read_text(encoding="utf-8").splitlines():
+            rec = json.loads(line)
+            done[rec["keyword"]] = rec["results"]
+    with raw_path.open("a", encoding="utf-8") as raw:
         for kw in keywords:
-            results = serp.search(kw["keyword"], region, a.depth)
-            raw.write(json.dumps({"keyword": kw["keyword"], "region": region, "results": results}, ensure_ascii=False) + "\n")
+            results = done.get(kw["keyword"])
+            if results is None:
+                results = serp.search(kw["keyword"], region, a.depth)
+                raw.write(json.dumps({"keyword": kw["keyword"], "region": region, "results": results}, ensure_ascii=False) + "\n")
+                raw.flush()
+                time.sleep(a.pause)
             top10_domains.update({r["domain"] for r in results[:10]})
             pos, url = position_of(results, own)
             row = {"keyword": kw["keyword"], "cluster": kw.get("cluster", ""), "position": pos or "", "url": url,
@@ -220,7 +230,6 @@ def cmd_serp(a):
             row["сайтов_группы_в_топ10"] = sum(1 for d in [own, *group]
                                                if (position_of(results, d)[0] or 99) <= 10)
             rows.append(row)
-            time.sleep(0.3)
 
     out = DATA_DIR / "positions" / f"serp_{TODAY.isoformat()}.csv"
     prev = positions.previous_snapshot(out.parent, out)
@@ -382,6 +391,7 @@ def main(argv=None):
     s.add_argument("--depth", type=int, default=100)
     s.add_argument("--limit", type=int)
     s.add_argument("--domains", type=int, default=25, help="сколько доменов показать в сводке ТОП-10")
+    s.add_argument("--pause", type=float, default=0.3, help="пауза между запросами, с (при ответах 429 — больше)")
     s.set_defaults(func=cmd_serp)
 
     s = sub.add_parser("top", help="ТОП выдачи Яндекса по одному запросу")
