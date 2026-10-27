@@ -1,0 +1,165 @@
+{
+ "id": 23,
+ "count": 4,
+ "description": "<p class=\"isSelectedEnd\">Геодезический 3D-сканер — это лазерное оборудование для быстрого и точного измерения формы, размеров и положения объектов в пространстве. Прибор формирует плотное облако точек, на основе которого создают цифровые двойники, выполняют топографическую съёмку и контролируют ход строительства.</p>\n<p>В каталоге AM.TECH два класса приборов: SLAM-сканеры <a href=\"/product/lazernyj-geodezicheskij-skaner-mls10/\">MLS10</a> и <a href=\"/product/lazernyj-geodezicheskij-skaner-fls10/\">FLS10</a> снимают в движении, наземные лазерные сканеры <a href=\"/product/lazernyj-geodezicheskij-skaner-gls10/\">GLS10</a> и <a href=\"/product/lazernyj-geodezicheskij-skaner-gls1000/\">GLS1000</a> — со штатива. Оба подхода дают большие объёмы пространственных данных без длительных ручных измерений на стройплощадках, промышленных предприятиях, карьерах и объектах инфраструктуры.</p>\n<p class=\"isSelectedEnd\">В каталоге AM.TECH можно купить геодезический 3D-сканер для профессиональных задач с официальной гарантией и технической поддержкой. Специалисты помогают подобрать модель с учётом требуемой точности, дальности измерений, условий работы и особенностей объекта. Доступна доставка оборудования по России.</p>\n\n<h2>Модели геодезических 3D-сканеров AM.TECH</h2>\n<p>Четыре модели различаются способом съёмки и дальностью: две снимают в движении, две — со стоянок. В таблице — значения из технических характеристик моделей.</p>\n<div class=\"table-responsive\">\n<table class=\"table table-bordered\">\n<thead>\n<tr>\n<th scope=\"col\">Модель</th>\n<th scope=\"col\">Тип и установка</th>\n<th scope=\"col\">Скорость сканирования</th>\n<th scope=\"col\">Дальность, м</th>\n<th scope=\"col\">Погрешность</th>\n<th scope=\"col\">Камера</th>\n<th scope=\"col\">Вес, кг</th>\n<th scope=\"col\">Цена</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><a href=\"/product/lazernyj-geodezicheskij-skaner-mls10/\">MLS10</a></td>\n<td>SLAM, с рук или на рюкзаке</td>\n<td>320 000 точек/с</td>\n<td>до 120</td>\n<td>до 10 мм</td>\n<td>72 Мп</td>\n<td>1,7</td>\n<td>по запросу</td>\n</tr>\n<tr>\n<td><a href=\"/product/lazernyj-geodezicheskij-skaner-fls10/\">FLS10</a></td>\n<td>SLAM, LiDAR + IMU</td>\n<td>320 000 точек/с, при двойном отражении — 640 000</td>\n<td>120 (отражающая способность 60 %)</td>\n<td>до 5 см (абсолютная)</td>\n<td>26 Мп</td>\n<td>1,26</td>\n<td>по запросу</td>\n</tr>\n<tr>\n<td><a href=\"/product/lazernyj-geodezicheskij-skaner-gls10/\">GLS10</a></td>\n<td>наземный, на штативе</td>\n<td>320 000 точек/с</td>\n<td>0,5–100</td>\n<td>до 8 мм на дистанции до 30 м</td>\n<td>18 Мп</td>\n<td>3,2</td>\n<td>по запросу</td>\n</tr>\n<tr>\n<td><a href=\"/product/lazernyj-geodezicheskij-skaner-gls1000/\">GLS1000</a></td>\n<td>наземный, на штативе</td>\n<td>15–120 линий/с по вертикали</td>\n<td>до 1000 (отражающая способность 20 %)</td>\n<td>до 5 мм</td>\n<td>цветное сканирование</td>\n<td>около 7</td>\n<td>по запросу</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p>Для MLS10, GLS10 и GLS1000 в таблице указана относительная погрешность, для FLS10 — абсолютная точность. У всех четырёх моделей лазер класса 1, безопасный для глаз, а облака точек выгружаются в форматах LAS, PCD, E57, PTS и XYZ. MLS10, FLS10 и GLS10 защищены по классу IP54 и управляются с мобильного устройства на Android.</p>\n\n<h2>SLAM-сканеры: мобильное лазерное сканирование</h2>\n<p>SLAM (Simultaneous Localization and Mapping) — одновременная локализация и построение карты. Сканер в движении определяет своё положение по данным лидара и инерциального модуля (IMU) и сразу добавляет новые измерения в общее облако точек. Оператор проходит по объекту с прибором — без перестановок штатива и регистрации отдельных станций. Спутниковый сигнал для этого не нужен, поэтому SLAM-сканер работает внутри зданий и в подземных сооружениях.</p>\n<ul>\n<li><a href=\"/product/lazernyj-geodezicheskij-skaner-mls10/\">MLS10</a> — сканер для съёмки с рук или с рюкзака. Сенсор вращается на 360°, данные пишутся в выносной блок управления SLAM с USB-накопителем на 64 ГБ и плечевым ремнём. Камера 72 Мп даёт цветное облако точек; до 4 ч работы от одной батареи, в комплекте два аккумулятора.</li>\n<li><a href=\"/product/lazernyj-geodezicheskij-skaner-fls10/\">FLS10</a> — лидар с длиной волны 905 нм, инерциальная система и двухосевой инклинометр компенсируют движения прибора. До 640 000 точек/с в режиме двойного отражения, встроенный накопитель на 256 ГБ, вес 1,26 кг при габаритах 159×118×127 мм.</li>\n</ul>\n<p>Сильная сторона мобильной съёмки — скорость полевых работ на зданиях, производственных площадках, складах и протяжённых объектах: обмеры для BIM-моделей, технические планы, подсчёт объёмов, топографическая съёмка. Ограничения связаны с самой технологией: траектория со временем дрейфует, поэтому маршрут планируют с замыканием петель (loop closure), а для привязки к системе координат используют опорные точки. Подробно — в статье <a href=\"/news/slam-skanirovanie-preimushhestva-nedostatki-i-ogranichenija/\">«SLAM-сканирование: преимущества, недостатки и ограничения»</a> и в разборе полевых испытаний <a href=\"/cases/silnye-i-slabye-storony-slam-skanirovaniya/\">«Сильные и слабые стороны SLAM-сканирования»</a>. Как выглядят съёмка и обработка данных в ПО, показано в <a href=\"/cases/primer-geodezicheskogo-skanirovaniya-razberem-protsess-obrabotki-dannykh-v-novom-obnovlennom-program/\">кейсе со сканированием усадьбы</a>.</p>\n\n<h2>Наземные лазерные сканеры: съёмка со штатива</h2>\n<p>Наземный лазерный сканер (TLS) работает с неподвижной стоянки: прибор устанавливают на штатив, выполняют круговой скан, затем переносят на следующую точку, а облака стоянок сшивают в программе. Съёмка занимает больше времени, чем мобильная, зато каждое облако измерено с неподвижного прибора — это важно для обмеров фасадов, контроля деформаций и изменений в процессе строительства.</p>\n<ul>\n<li><a href=\"/product/lazernyj-geodezicheskij-skaner-gls10/\">GLS10</a> — компактный сканер массой 3,2 кг, штатив входит в комплект поставки. 320 000 точек/с, рабочий диапазон 0,5–100 м, погрешность до 8 мм на дистанции до 30 м, панорамная камера 18 Мп, электронный уровень, до 3 ч работы от батареи. Применяется для обмеров фасадов, создания цифровых двойников, контроля деформаций и маркшейдерских работ.</li>\n<li><a href=\"/product/lazernyj-geodezicheskij-skaner-gls1000/\">GLS1000</a> — сканер большой дальности: до 1000 м при отражающей способности 20 %, погрешность до 5 мм, поле зрения 100×360°, двухосевой компенсатор наклона ±5°, передача данных по GigE. Открытая система управления и сбора данных позволяет встраивать прибор в измерительные комплексы для мониторинга и деформационного анализа.</li>\n</ul>\n\n<h2>SLAM-сканер или наземный: как выбрать</h2>\n<div class=\"table-responsive\">\n<table class=\"table table-bordered\">\n<thead>\n<tr>\n<th scope=\"col\">Критерий</th>\n<th scope=\"col\">Мобильный SLAM (MLS10, FLS10)</th>\n<th scope=\"col\">Наземный сканер (GLS10, GLS1000)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Способ съёмки</td>\n<td>в движении, непрерывно</td>\n<td>со стоянок на штативе</td>\n</tr>\n<tr>\n<td>Время полевых работ</td>\n<td>меньше: объект проходят одним или несколькими маршрутами</td>\n<td>больше: нужны перестановки и сшивка стоянок</td>\n</tr>\n<tr>\n<td>Погрешность</td>\n<td>до 10 мм (MLS10), до 5 см — абсолютная (FLS10)</td>\n<td>до 8 мм (GLS10), до 5 мм (GLS1000)</td>\n</tr>\n<tr>\n<td>Дальность</td>\n<td>до 120 м</td>\n<td>до 100 м (GLS10), до 1000 м (GLS1000)</td>\n</tr>\n<tr>\n<td>Типовые задачи</td>\n<td>обмеры зданий и помещений, BIM, технические планы, объёмы, топография</td>\n<td>фасады, деформации, мониторинг, съёмка с больших дистанций</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p class=\"isSelectedEnd\">При выборе системы важно ориентироваться не только на максимальные характеристики, но и на реальные задачи проекта. Для съёмки больших территорий критична дальность, для контроля конструкций — точность, а для регулярных полевых работ важны скорость, удобство транспортировки и защищённость корпуса.</p>\n<p class=\"isSelectedEnd\">Перед покупкой стоит учитывать:</p>\n\n<ul data-spread=\"false\">\n \t<li>дальность сканирования и рабочий диапазон расстояний;</li>\n \t<li>требуемую итоговую точность облака точек и детализацию;</li>\n \t<li>скорость регистрации точек и производительность системы;</li>\n \t<li>условия на объекте: помещения и подземные сооружения без спутникового сигнала, открытые территории, пыль и влага.</li>\n</ul>\n\n<h2>Сферы применения оборудования</h2>\n<p class=\"isSelectedEnd\">Лазерное сканирование востребовано там, где необходимо быстро получить точную трёхмерную информацию о местности, сооружении или промышленном объекте. Высокоскоростной сбор данных сокращает время съёмки и даёт цифровую модель, пригодную для проектирования, анализа и последующего контроля.</p>\n<p class=\"isSelectedEnd\">Геодезические сканеры применяются для следующих задач:</p>\n\n<ul data-spread=\"false\">\n \t<li>топографическая съёмка территории, подготовка планов и кадастровых материалов;</li>\n \t<li>контроль застройки, геометрии конструкций и деформаций зданий;</li>\n \t<li>проектирование дорог, мостов, инженерных сетей и других инфраструктурных объектов;</li>\n \t<li>маркшейдерские работы на карьерах, шахтах и предприятиях горнодобывающей промышленности.</li>\n</ul>\n<p class=\"isSelectedEnd\">Оборудование также удобно для фиксации существующего состояния объекта перед реконструкцией. Полученные данные используют для сопоставления проекта с фактической геометрией и контроля выполненных работ. На объектах со сложной геометрией или ограниченным доступом оператор проводит измерения с безопасной позиции, не приближаясь к отдельным конструкциям.</p>\n\n<h2>Вопросы о геодезических сканерах</h2>\n<h3>Чем SLAM-сканер отличается от наземного лазерного сканера?</h3>\n<p>Мобильный лазерный сканер снимает в движении и сам рассчитывает свою траекторию по данным лидара и IMU, наземный — с неподвижных стоянок на штативе. SLAM быстрее в поле, наземный сканер даёт более стабильную, контролируемую геометрию измерений; точность SLAM снижается с удалением от объекта.</p>\n<h3>Можно ли снимать SLAM-сканером внутри зданий и под землёй?</h3>\n<p>Да. Спутниковый сигнал для SLAM не нужен: положение прибора рассчитывается по геометрии окружения и инерциальным данным. Сложнее всего алгоритму в длинных однообразных коридорах и тоннелях — там маршрут планируют с возвратами в уже отснятые зоны.</p>\n<h3>Какую точность дают мобильные сканеры?</h3>\n<p>По техническим характеристикам у MLS10 относительная погрешность до 10 мм, у FLS10 абсолютная точность до 5 см при дальности до 120 м. Итоговая точность облака зависит ещё от длины и формы маршрута, замыкания петель и привязки к опорным точкам, поэтому требования к результату лучше обсудить до выбора модели.</p>\n<h3>Как обрабатывают данные сканирования?</h3>\n<p>Данные сканирования записываются в формате .epi. В программном обеспечении их импортируют и конвертируют, сшивают сканы, сегментируют и чистят облако точек, выполняют измерения, после чего результат передают в CAD- и BIM-программы.</p>\n<h3>Как узнать цену и можно ли купить сканер в лизинг?</h3>\n<p>Цена зависит от модели и комплектации и сообщается по запросу: на карточке модели можно запросить КП или демонстрацию. Всё оборудование каталога доступно в <a href=\"/leasing/\">лизинг</a>.</p>\n\n<h2>Купить геодезический 3D-сканер в AM.TECH</h2>\n<p class=\"isSelectedEnd\">Специалисты AM.TECH помогут сравнить модели и подобрать оборудование под конкретную задачу, объект и условия эксплуатации. При необходимости можно заранее обсудить требования к программному обеспечению, обработке облаков точек, интеграции данных и обучению специалистов.</p>\n<p>Цена формируется с учётом выбранной комплектации и дополнительных опций. Чтобы уточнить цену, сроки поставки и подобрать систему, оставьте заявку на сайте или позвоните по телефону +7 (495) 109-11-91 — все контакты на странице <a href=\"/kontakty/\">«Контакты»</a>.</p>",
+ "link": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/geodesicheskie-3d-scaneri/",
+ "name": "Геодезические 3D-сканеры",
+ "slug": "geodesicheskie-3d-scaneri",
+ "taxonomy": "product_cat",
+ "parent": 1208,
+ "meta": [],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Геодезические 3D-сканеры: SLAM и наземные — купить, цена | AM.TECH</title>\n<meta name=\"description\" content=\"Геодезические 3D-сканеры AM.TECH: SLAM-сканеры MLS10 и FLS10 для съёмки в движении, наземные лазерные сканеры GLS10 и GLS1000. Цена по запросу.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/geodesicheskie-3d-scaneri/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Геодезические 3D-сканеры: SLAM и наземные — купить, цена | AM.TECH\" />\n<meta property=\"og:description\" content=\"Геодезические 3D-сканеры AM.TECH: SLAM-сканеры MLS10 и FLS10 для съёмки в движении, наземные лазерные сканеры GLS10 и GLS1000. Цена по запросу.\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/geodesicheskie-3d-scaneri/\" />\n<meta property=\"og:site_name\" content=\"AM.TECH\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/geodesicheskie-3d-scaneri/\",\"url\":\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/geodesicheskie-3d-scaneri/\",\"name\":\"Геодезические 3D-сканеры: SLAM и наземные — купить, цена | AM.TECH\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"description\":\"Геодезические 3D-сканеры AM.TECH: SLAM-сканеры MLS10 и FLS10 для съёмки в движении, наземные лазерные сканеры GLS10 и GLS1000. Цена по запросу.\",\"breadcrumb\":{\"@id\":\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/geodesicheskie-3d-scaneri/#breadcrumb\"},\"inLanguage\":\"ru-RU\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/geodesicheskie-3d-scaneri/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Главная страница\",\"item\":\"https://am-tech.ru/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Промышленные 3D сканеры: оборудование для реверс-инжиниринга и контроля качества\",\"item\":\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Геодезические 3D-сканеры\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"AM.TECH\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"AM.TECH\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"AM.TECH\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "Геодезические 3D-сканеры: SLAM и наземные — купить, цена | AM.TECH",
+  "description": "Геодезические 3D-сканеры AM.TECH: SLAM-сканеры MLS10 и FLS10 для съёмки в движении, наземные лазерные сканеры GLS10 и GLS1000. Цена по запросу.",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/geodesicheskie-3d-scaneri/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "Геодезические 3D-сканеры: SLAM и наземные — купить, цена | AM.TECH",
+  "og_description": "Геодезические 3D-сканеры AM.TECH: SLAM-сканеры MLS10 и FLS10 для съёмки в движении, наземные лазерные сканеры GLS10 и GLS1000. Цена по запросу.",
+  "og_url": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/geodesicheskie-3d-scaneri/",
+  "og_site_name": "AM.TECH",
+  "twitter_card": "summary_large_image",
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "CollectionPage",
+     "@id": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/geodesicheskie-3d-scaneri/",
+     "url": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/geodesicheskie-3d-scaneri/",
+     "name": "Геодезические 3D-сканеры: SLAM и наземные — купить, цена | AM.TECH",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "description": "Геодезические 3D-сканеры AM.TECH: SLAM-сканеры MLS10 и FLS10 для съёмки в движении, наземные лазерные сканеры GLS10 и GLS1000. Цена по запросу.",
+     "breadcrumb": {
+      "@id": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/geodesicheskie-3d-scaneri/#breadcrumb"
+     },
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/geodesicheskie-3d-scaneri/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Главная страница",
+       "item": "https://am-tech.ru/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Промышленные 3D сканеры: оборудование для реверс-инжиниринга и контроля качества",
+       "item": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "Геодезические 3D-сканеры"
+      }
+     ]
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "AM.TECH",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "AM.TECH",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "AM.TECH"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "html_description": true,
+ "yoast_seo": {
+  "title": "Геодезические 3D-сканеры: SLAM и наземные — купить, цена | AM.TECH",
+  "desc": "Геодезические 3D-сканеры AM.TECH: SLAM-сканеры MLS10 и FLS10 для съёмки в движении, наземные лазерные сканеры GLS10 и GLS1000. Цена по запросу."
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/product_cat/23",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/product_cat"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/taxonomies/product_cat"
+   }
+  ],
+  "up": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/product_cat/1208"
+   }
+  ],
+  "wp:post_type": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/product?product_cat=23"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

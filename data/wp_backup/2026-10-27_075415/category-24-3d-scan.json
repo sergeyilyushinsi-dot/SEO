@@ -1,0 +1,165 @@
+{
+ "id": 24,
+ "count": 34,
+ "description": "<p>3D-сканер превращает деталь в цифровую копию — облако точек и 3D-модель, по которым проверяют геометрию и выполняют реверс-инжиниринг. В разделе — линейка AM.TECH для деталей и узлов: ручные лазерные и гибридные 3D-сканеры, системы с оптическим трекером для сканирования без маркеров, измерительные системы со щупом и модуль автономной работы.</p>\n\n<h2>Какие 3D-сканеры есть в разделе</h2>\n<ul>\n<li><strong>Ручные лазерные и гибридные сканеры</strong> — SIMSCAN, KSCAN, 3DeVOK, iReal, а также AXE B11 и B17 со встроенной фотограмметрией. Сканер перемещают вокруг детали вручную; подсветка — синие или инфракрасные лазерные линии, в моделях 3DeVOK и iReal применяется структурированный свет. Подборки с таблицами сравнения: <a href=\"/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/ruchnye-3d-skanery/\">ручные 3D-сканеры</a> и <a href=\"/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/lazernye-3d-skanery/\">лазерные 3D-сканеры</a>.</li>\n<li><strong>Системы с оптическим трекером</strong> — NimbleTrack, TrackScan Sharp, TrackScan GO и TrackScan P. Камеры трекера отслеживают положение сканера в пространстве, поэтому маркеры на изделие клеить не нужно.</li>\n<li><strong>TrackProbe</strong> — трекер E-Track и беспроводной щуп i-Probe для измерения эталонных отверстий и скрытых точек, крепёжных приспособлений и штампованных деталей.</li>\n<li><strong><a href=\"/product/modul-airgo-power/\">AirGo Power</a></strong> — модуль с процессором и двумя сменными аккумуляторами: сбор и первичная обработка данных без подключения к внешнему компьютеру.</li>\n</ul>\n<p>В реестр средств измерений, по характеристикам на карточках, внесены SIMSCAN S, E, 30 и 42, все модели KSCAN, 3DeVOK MQ и MT, NimbleTrack, TrackScan Sharp 49, S, E, Z и TrackScan GO. У большинства из них точность указана с доверительной вероятностью 0,95.</p>\n\n<h2>Системы с оптическим трекером: сравнение</h2>\n<div class=\"table-responsive\">\n<table class=\"table table-bordered\">\n<thead>\n<tr>\n<th scope=\"col\">Модель</th>\n<th scope=\"col\">Точность, мм, до</th>\n<th scope=\"col\">Объёмная точность, мм</th>\n<th scope=\"col\">Размеры объектов, м</th>\n<th scope=\"col\">Вес трекера / сканера, кг</th>\n<th scope=\"col\">Цена</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><a href=\"/product/lazernyj-3d-skaner-nimbletrack-c/\">NimbleTrack C</a></td>\n<td>0,025 (0,020 — только сканер)</td>\n<td>—</td>\n<td>0,1–4</td>\n<td>2,2 / 1,3</td>\n<td>по запросу</td>\n</tr>\n<tr>\n<td><a href=\"/product/3d-skaner-nimbletrack-c/\">NimbleTrack C+</a></td>\n<td>0,025 (0,020 — только сканер)</td>\n<td>—</td>\n<td>0,1–4</td>\n<td>2,2 / 1,3</td>\n<td>по запросу</td>\n</tr>\n<tr>\n<td><a href=\"/product/3d-skaner-nimbletrack-cr/\">NimbleTrack CR</a></td>\n<td>0,025 (0,020 — только сканер)</td>\n<td>0,052</td>\n<td>0,1–4</td>\n<td>2,2 / 1,3</td>\n<td>по запросу</td>\n</tr>\n<tr>\n<td><a href=\"/product/3d-skaner-nimbletrack-e/\">NimbleTrack E</a></td>\n<td>0,025 (0,020 — только сканер)</td>\n<td>0,05</td>\n<td>0,1–5</td>\n<td>2,2 / 1,3</td>\n<td>по запросу</td>\n</tr>\n<tr>\n<td><a href=\"/product/3d-skaner-trackscan-go-c/\">TrackScan GO C</a></td>\n<td>0,030 (0,020 — только сканер)</td>\n<td>0,064</td>\n<td>0,1–5</td>\n<td>1,58 / 0,86</td>\n<td>по запросу</td>\n</tr>\n<tr>\n<td><a href=\"/product/3d-skaner-trackscan-go-e/\">TrackScan GO E</a></td>\n<td>0,030 (0,020 — только сканер)</td>\n<td>0,06</td>\n<td>0,1–5</td>\n<td>1,58 / 0,86</td>\n<td>по запросу</td>\n</tr>\n<tr>\n<td><a href=\"/product/am-tech-trackscan-sharp-49/\">TrackScan Sharp 49</a></td>\n<td>0,025</td>\n<td>0,049 (10,4 м³) – 0,089 (49 м³)</td>\n<td>0,1–12</td>\n<td>6,8 / 1,7</td>\n<td>по запросу</td>\n</tr>\n<tr>\n<td><a href=\"/product/am-tech-trackscan-sharp-s/\">TrackScan Sharp S</a></td>\n<td>0,025</td>\n<td>0,033 (10,4 м³) – 0,144 (135 м³)</td>\n<td>0,1–12</td>\n<td>7,75 / 1,5</td>\n<td>по запросу</td>\n</tr>\n<tr>\n<td><a href=\"/product/3d-skaner-trackscan-sharp-e/\">TrackScan Sharp E</a></td>\n<td>0,025</td>\n<td>0,033 (10,4 м³) – 0,113 (90 м³)</td>\n<td>0,1–12</td>\n<td>7,75 / 1,5</td>\n<td>по запросу</td>\n</tr>\n<tr>\n<td><a href=\"/product/3d-skaner-trackscan-sharp-z/\">TrackScan Sharp Z</a></td>\n<td>0,025</td>\n<td>0,039 (13 м³) – 0,198 (600 м³)</td>\n<td>0,1–12</td>\n<td>7,75 / 1,5</td>\n<td>по запросу</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p>У серии TrackScan Sharp объёмная точность зависит от объёма зоны измерений — в таблице значения для наименьшего и наибольшего объёма из карточки. Прочерк — значение уточняется, его можно запросить вместе с КП. По характеристикам карточек, NimbleTrack C+, CR, E и TrackScan Sharp 49, S, E, Z работают с беспроводным щупом i-Probe 500 (повторяемость в одной точке 0,025 мм). Скорость сканирования — до 10 млн точек/с у TrackScan Sharp Z. TrackScan Sharp и серия TrackScan P (P42, P542, P550) в таблицу не вошли — их характеристики уточняйте в КП.</p>\n\n<h2>Ручной сканер или система с трекером</h2>\n<ul>\n<li><strong>Ручной сканер</strong> весит 0,56–1,35 кг (SIMSCAN, KSCAN, 3DeVOK), работает в стеснённых местах и на объектах до 15 м. Положение сканера определяется по маркерам или фотограмметрии, поэтому на крупных изделиях нужно время на расклейку маркеров.</li>\n<li><strong>Система с трекером</strong> сканирует без маркеров в пределах зоны, которую видит трекер, — у TrackScan Sharp это объекты до 12 м. Комплект тяжелее: трекер серии Sharp весит 6,8–7,75 кг, у компактного TrackScan GO — 1,58 кг. По карточке, TrackScan Sharp рассчитан на крупногабаритные детали в аэрокосмической отрасли, энергетике и тяжёлой промышленности.</li>\n</ul>\n\n<h2>3D-сканер для реверс-инжиниринга</h2>\n<p>При обратном проектировании деталь сканируют целиком, получают полигональную сетку и по ней строят CAD-модель с поверхностями и размерами. От сканера здесь важны детализация, полнота данных в отверстиях и на кромках и стабильная точность на всей длине изделия:</p>\n<ul>\n<li>разрешение до 0,01 мм — у моделей KSCAN и NimbleTrack CR; у NimbleTrack CR поле зрения 150 × 190 мм рассчитано на мелкие элементы;</li>\n<li>одна лазерная линия для глубоких отверстий и пазов — например, у SIMSCAN S, AXE B11 и B17, NimbleTrack C+, CR и E, TrackScan Sharp Z;</li>\n<li>щуп для точек, недоступных оптике, — K-Probe у KSCAN MAGIC, i-Probe 500 у большинства моделей NimbleTrack и TrackScan Sharp;</li>\n<li>для длинных изделий — фотограмметрия (встроенная у моделей KSCAN и AXE) или оптический трекер.</li>\n</ul>\n\n<h2>Примеры из практики</h2>\n<p>На литейном производстве <a href=\"/cases/skanirovanie-i-kontrol-otlivki/\">крупную отливку проверяли сканером TrackScan</a> без меток: 20–30 минут на сканирование и около 30 минут на анализ — заказчик проверял, как смещаются отечественные смолы по сравнению с импортными. При <a href=\"/cases/skanirovanie-i-kontrol-truboprovodnoy-armatury/\">контроле трубопроводной арматуры</a> сканирование заняло 10 минут, карта отклонений от исходной модели — не более часа.</p>\n\n<h2>Цена и заказ</h2>\n<p>Цена 3D-сканеров — по запросу: её определяют модель, комплектация и программное обеспечение. На карточке модели — кнопки «Запросить КП», «Заказать звонок» и «Демонстрация»; оборудование доступно в <a href=\"/leasing/\">лизинг</a>. Полный каталог, включая геодезические сканеры, — в разделе <a href=\"/katalog/vysokotochnye-promyshlennye-3d-skanery/\">промышленных 3D-сканеров</a>. Телефон: +7 (495) 109-11-91.</p>",
+ "link": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/",
+ "name": "3D-сканеры",
+ "slug": "3d-scan",
+ "taxonomy": "product_cat",
+ "parent": 1208,
+ "meta": [],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>3D-сканеры для промышленности — купить, цена | AM.TECH</title>\n<meta name=\"description\" content=\"3D-сканеры SIMSCAN, KSCAN, TrackScan, NimbleTrack, 3DeVOK и iReal: точность до 0,015 мм, модели в реестре средств измерений. Цена по запросу, демонстрация.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"3D-сканеры для промышленности — купить, цена | AM.TECH\" />\n<meta property=\"og:description\" content=\"3D-сканеры SIMSCAN, KSCAN, TrackScan, NimbleTrack, 3DeVOK и iReal: точность до 0,015 мм, модели в реестре средств измерений. Цена по запросу, демонстрация.\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/\" />\n<meta property=\"og:site_name\" content=\"AM.TECH\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/\",\"url\":\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/\",\"name\":\"3D-сканеры для промышленности — купить, цена | AM.TECH\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"description\":\"3D-сканеры SIMSCAN, KSCAN, TrackScan, NimbleTrack, 3DeVOK и iReal: точность до 0,015 мм, модели в реестре средств измерений. Цена по запросу, демонстрация.\",\"breadcrumb\":{\"@id\":\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/#breadcrumb\"},\"inLanguage\":\"ru-RU\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Главная страница\",\"item\":\"https://am-tech.ru/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Промышленные 3D сканеры: оборудование для реверс-инжиниринга и контроля качества\",\"item\":\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"3D-сканеры\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"AM.TECH\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"AM.TECH\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"AM.TECH\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "3D-сканеры для промышленности — купить, цена | AM.TECH",
+  "description": "3D-сканеры SIMSCAN, KSCAN, TrackScan, NimbleTrack, 3DeVOK и iReal: точность до 0,015 мм, модели в реестре средств измерений. Цена по запросу, демонстрация.",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "3D-сканеры для промышленности — купить, цена | AM.TECH",
+  "og_description": "3D-сканеры SIMSCAN, KSCAN, TrackScan, NimbleTrack, 3DeVOK и iReal: точность до 0,015 мм, модели в реестре средств измерений. Цена по запросу, демонстрация.",
+  "og_url": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/",
+  "og_site_name": "AM.TECH",
+  "twitter_card": "summary_large_image",
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "CollectionPage",
+     "@id": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/",
+     "url": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/",
+     "name": "3D-сканеры для промышленности — купить, цена | AM.TECH",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "description": "3D-сканеры SIMSCAN, KSCAN, TrackScan, NimbleTrack, 3DeVOK и iReal: точность до 0,015 мм, модели в реестре средств измерений. Цена по запросу, демонстрация.",
+     "breadcrumb": {
+      "@id": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/#breadcrumb"
+     },
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Главная страница",
+       "item": "https://am-tech.ru/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Промышленные 3D сканеры: оборудование для реверс-инжиниринга и контроля качества",
+       "item": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "3D-сканеры"
+      }
+     ]
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "AM.TECH",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "AM.TECH",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "AM.TECH"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "html_description": true,
+ "yoast_seo": {
+  "title": "3D-сканеры для промышленности — купить, цена | AM.TECH",
+  "desc": "3D-сканеры SIMSCAN, KSCAN, TrackScan, NimbleTrack, 3DeVOK и iReal: точность до 0,015 мм, модели в реестре средств измерений. Цена по запросу, демонстрация."
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/product_cat/24",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/product_cat"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/taxonomies/product_cat"
+   }
+  ],
+  "up": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/product_cat/1208"
+   }
+  ],
+  "wp:post_type": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/product?product_cat=24"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

@@ -1,0 +1,153 @@
+{
+ "id": 1208,
+ "count": 38,
+ "description": "<p>Промышленный 3D-сканер — бесконтактная измерительная система: она снимает поверхность детали и формирует облако точек или полигональную сетку, по которым контролируют отклонения от CAD-модели и восстанавливают конструкторскую документацию. В каталоге AM.TECH — ручные и трекерные 3D-сканеры для деталей и узлов и геодезические лазерные сканеры для зданий и площадок.</p>\n<p>На производстве промышленное сканирование используют там, где нужно сопоставить фактическую геометрию изделия с CAD-моделью, восстановить цифровую документацию по существующей детали или получить данные для метрологического анализа. Такой подход востребован в конструкторских подразделениях и службах контроля качества.</p>\n\n<h2>Какие промышленные 3D-сканеры есть в каталоге</h2>\n<div class=\"table-responsive\">\n<table class=\"table table-bordered\">\n<thead>\n<tr>\n<th scope=\"col\">Тип системы</th>\n<th scope=\"col\">Серии</th>\n<th scope=\"col\">Объекты (по карточкам)</th>\n<th scope=\"col\">Раздел</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Ручные лазерные и гибридные 3D-сканеры</td>\n<td>SIMSCAN, KSCAN, 3DeVOK, iReal</td>\n<td>детали и узлы от 0,05 до 15 м</td>\n<td><a href=\"/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/ruchnye-3d-skanery/\">Ручные</a>, <a href=\"/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/lazernye-3d-skanery/\">лазерные</a></td>\n</tr>\n<tr>\n<td>Системы с оптическим трекером</td>\n<td>NimbleTrack, TrackScan Sharp, TrackScan GO, TrackScan P</td>\n<td>изделия от 0,1 до 12 м, сканирование без маркеров</td>\n<td><a href=\"/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/\">3D-сканеры</a></td>\n</tr>\n<tr>\n<td>Измерительные системы со щупом</td>\n<td>TrackProbe</td>\n<td>эталонные отверстия, скрытые точки, крепёжные приспособления</td>\n<td>3D-сканеры</td>\n</tr>\n<tr>\n<td>Геодезические лазерные сканеры</td>\n<td>GLS10 и GLS1000 (наземные), MLS10 и FLS10 (SLAM)</td>\n<td>здания, площадки, объекты инфраструктуры</td>\n<td><a href=\"/katalog/vysokotochnye-promyshlennye-3d-skanery/geodesicheskie-3d-scaneri/\">Геодезические</a></td>\n</tr>\n</tbody>\n</table>\n</div>\n<p>Цена всех систем — по запросу: она зависит от модели, комплектации и программного обеспечения.</p>\n\n<h2>Основные задачи промышленного сканирования</h2>\n<p>Профессиональный 3D-сканер позволяет работать не только с отдельными размерами, но и с геометрией поверхности в целом. Полученные данные можно использовать для сравнения с номинальной моделью, построения сечений и анализа отклонений.</p>\n<ul>\n<li><strong>Реверс-инжиниринг (обратное проектирование).</strong> Сканирование помогает восстановить геометрию готовой детали и использовать её как основу для построения CAD-модели и подготовки конструкторской документации.</li>\n<li><strong>Контроль геометрии и отклонений.</strong> Цифровой результат сканирования сопоставляют с номинальной CAD-моделью и находят участки, требующие дополнительного анализа. Например, в <a href=\"/cases/aviastroenie/\">кейсе с тяговым агрегатом</a> карта отклонений показала смещение отверстий.</li>\n<li><strong>Инспекция литья и штамповки.</strong> Оцифровка поверхности применяется в литейном производстве и штамповке для оценки формы изделий, выявления деформаций и сравнения фактической геометрии с проектной.</li>\n<li><strong>Сканирование крупных сборочных узлов.</strong> Портативные и трекерные системы позволяют выполнять измерения габаритных объектов непосредственно в производственной зоне без обязательного перемещения изделия в лабораторию на стационарную установку.</li>\n</ul>\n\n<h2>Преимущества оптических и лазерных сканеров</h2>\n<p>Оптические системы выполняют бесконтактное считывание геометрии поверхности. Камеры сканера фиксируют подсветку на поверхности, а программное обеспечение пересчитывает кадры в координаты точек. В зависимости от модели оборудование может использовать лазерную подсветку, структурированный свет, фотограмметрию, внешний оптический трекер или сочетание нескольких методов. Выбор технологии зависит от размеров объекта, поверхности и требований к измерению.</p>\n<ul>\n<li><strong>Неразрушающий и быстрый контроль.</strong> На деталь не нужно механически воздействовать, а за один сеанс система собирает массив данных по всей поверхности — быстрее последовательных ручных обмеров. Это удобно при работе с готовыми изделиями, формами и ответственными компонентами.</li>\n<li><strong>Работа с деталями сложной геометрической формы.</strong> Сканирование подходит для криволинейных поверхностей, переходов, пазов и других элементов, которые сложно полноценно описать набором отдельных ручных измерений.</li>\n<li><strong>Интеграция с CAD/CAM-системами.</strong> В представленных AM.TECH решениях результаты могут экспортироваться в распространённые форматы, включая STL, OBJ и PLY, для дальнейшей обработки в инженерном программном обеспечении.</li>\n</ul>\n\n<h2>Метрологический статус</h2>\n<p>В характеристиках большинства моделей SIMSCAN, KSCAN, 3DeVOK, NimbleTrack и TrackScan указано, что они внесены в реестр средств измерений. Точность у этих моделей нормирована (у большинства — с доверительной вероятностью 0,95), объёмная точность указана в карточках большинства из них. Если результаты сканирования пойдут в документы ОТК, проверьте статус выбранной модели в её карточке и запросите сведения о реестровой записи вместе с КП.</p>\n\n<h2>Как выбрать и купить промышленный 3D-сканер</h2>\n<p>Выбор измерительной системы начинается с технической задачи: универсального сканера нет, и конфигурация для небольших компонентов отличается от конфигурации для крупногабаритных конструкций.</p>\n<p>При подборе стоит учитывать:</p>\n<ul>\n<li><strong>точность и разрешение</strong> — они должны соответствовать допускам изделия и размеру элементов, которые требуется контролировать;</li>\n<li><strong>объём сканируемой зоны</strong> — важен с учётом габаритов детали или сборочной единицы;</li>\n<li><strong>портативность</strong> — имеет значение, если измерения выполняются в цехе, на производственной площадке или непосредственно на установленном оборудовании;</li>\n<li><strong>программное обеспечение</strong> — следует определить, какие операции нужны после сканирования: построение сетки, сравнение с CAD, подготовка отчёта или данные для реверс-инжиниринга;</li>\n<li><strong>комплектацию и сервис</strong> — обучение, гарантия, техническая поддержка, калибровка и доставка должны оцениваться вместе с характеристиками системы.</li>\n</ul>\n<p>Специалисты AM.TECH изучат техническое задание, подберут конфигурацию и проведут демонстрацию. Типовые сценарии контроля разобраны в <a href=\"/news/kak-vybrat-promyshlennyj-3d-skaner-pod-zadachi-kontrolja-kachestva/\">статье о выборе сканера для ОТК</a>. Чтобы получить КП, пришлите чертёж или 3D-модель изделия, материал и допуски: телефон +7 (495) 109-11-91, почта office@am-tech.ru.</p>\n\n<h2>Частые вопросы</h2>\n<h3>Чем промышленный 3D-сканер отличается от бытового?</h3>\n<p>Метрологическими характеристиками и задачами. У ручных и трекерных моделей каталога точность — от 0,015 до 0,1 мм; у большинства из них нормирована объёмная точность (по длине объекта или объёму зоны измерений) и есть отметка о внесении в реестр средств измерений. Такие сканеры рассчитаны на контроль по CAD-модели и реверс-инжиниринг в цехе. У геодезических сканеров точность другого порядка: по карточкам, до 5 мм у GLS1000 и до 5 см у FLS10.</p>\n<h3>Можно ли работать сканером прямо в цехе?</h3>\n<p>Да. Ручные и трекерные системы переносят к изделию; рабочая температура большинства моделей — от −10 до +40 °С. Без кабеля работают ручные SIMSCAN S и E, KSCAN E и X, а также системы с трекером NimbleTrack C, C+ и E, TrackScan GO C и E, TrackScan Sharp, Sharp S, E и Z — всё по данным карточек.</p>\n<h3>Можно ли купить 3D-сканер в лизинг?</h3>\n<p>Да. 3D-сканеры AM.TECH доступны в <a href=\"/leasing/\">лизинг</a> с партнёром ВЕЛКОР: предварительные условия финансирования и график платежей готовятся по заявке.</p>",
+ "link": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/",
+ "name": "Промышленные 3D сканеры: оборудование для реверс-инжиниринга и контроля качества",
+ "slug": "vysokotochnye-promyshlennye-3d-skanery",
+ "taxonomy": "product_cat",
+ "parent": 0,
+ "meta": [],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Промышленные 3D-сканеры для контроля качества — купить | AM.TECH</title>\n<meta name=\"description\" content=\"Промышленные 3D-сканеры для контроля качества и реверс-инжиниринга: ручные, лазерные, с оптическим трекером и геодезические. Цена по запросу, демонстрация.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Промышленные 3D-сканеры для контроля качества — купить | AM.TECH\" />\n<meta property=\"og:description\" content=\"Промышленные 3D-сканеры для контроля качества и реверс-инжиниринга: ручные, лазерные, с оптическим трекером и геодезические. Цена по запросу, демонстрация.\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/\" />\n<meta property=\"og:site_name\" content=\"AM.TECH\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/\",\"url\":\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/\",\"name\":\"Промышленные 3D-сканеры для контроля качества — купить | AM.TECH\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"description\":\"Промышленные 3D-сканеры для контроля качества и реверс-инжиниринга: ручные, лазерные, с оптическим трекером и геодезические. Цена по запросу, демонстрация.\",\"breadcrumb\":{\"@id\":\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/#breadcrumb\"},\"inLanguage\":\"ru-RU\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Главная страница\",\"item\":\"https://am-tech.ru/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Промышленные 3D сканеры: оборудование для реверс-инжиниринга и контроля качества\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"AM.TECH\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"AM.TECH\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"AM.TECH\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "Промышленные 3D-сканеры для контроля качества — купить | AM.TECH",
+  "description": "Промышленные 3D-сканеры для контроля качества и реверс-инжиниринга: ручные, лазерные, с оптическим трекером и геодезические. Цена по запросу, демонстрация.",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "Промышленные 3D-сканеры для контроля качества — купить | AM.TECH",
+  "og_description": "Промышленные 3D-сканеры для контроля качества и реверс-инжиниринга: ручные, лазерные, с оптическим трекером и геодезические. Цена по запросу, демонстрация.",
+  "og_url": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/",
+  "og_site_name": "AM.TECH",
+  "twitter_card": "summary_large_image",
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "CollectionPage",
+     "@id": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/",
+     "url": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/",
+     "name": "Промышленные 3D-сканеры для контроля качества — купить | AM.TECH",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "description": "Промышленные 3D-сканеры для контроля качества и реверс-инжиниринга: ручные, лазерные, с оптическим трекером и геодезические. Цена по запросу, демонстрация.",
+     "breadcrumb": {
+      "@id": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/#breadcrumb"
+     },
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Главная страница",
+       "item": "https://am-tech.ru/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Промышленные 3D сканеры: оборудование для реверс-инжиниринга и контроля качества"
+      }
+     ]
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "AM.TECH",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "AM.TECH",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "AM.TECH"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "html_description": true,
+ "yoast_seo": {
+  "title": "Промышленные 3D-сканеры для контроля качества — купить | AM.TECH",
+  "desc": "Промышленные 3D-сканеры для контроля качества и реверс-инжиниринга: ручные, лазерные, с оптическим трекером и геодезические. Цена по запросу, демонстрация."
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/product_cat/1208",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/product_cat"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/taxonomies/product_cat"
+   }
+  ],
+  "wp:post_type": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/product?product_cat=1208"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}
