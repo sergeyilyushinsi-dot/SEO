@@ -1,5 +1,5 @@
 ---
-title: "Контроль сварных узлов NimbleTrack E: отчёты в 10 раз быстрее | AM.TECH"
+title: "Контроль сварных узлов NimbleTrack E: отчёт в 10 раз быстрее | AM.TECH"
 description: "Кейс TBI Manufacturing: сварные трубные узлы проверяют беспроводной системой AM.TECH NimbleTrack E без меток — время на отчёты сократилось до 10 раз."
 h1: "Контроль сварных трубных узлов беспроводной системой NimbleTrack E"
 type: case
