@@ -63,3 +63,12 @@
   #amt-svc .amt-faq summary{font-size:16px}
   #amt-svc .amt-table th,#amt-svc .amt-table td{padding:12px 14px}
 }
+/* Карточка-ссылка без <a> вокруг блоков: ссылка в заголовке растягивается на всю карточку */
+#amt-svc .amt-dir{position:relative}
+#amt-svc .amt-stretch::after{content:"";position:absolute;inset:0;z-index:1;border-radius:inherit}
+#amt-svc .amt-link{margin-top:auto}
+#amt-svc .amt-model__name{display:block;margin-bottom:8px;color:#fff;font-size:24px;font-weight:760;letter-spacing:-.03em;line-height:1.15}
+/* Страховка от автоабзацев WordPress */
+#amt-svc p:empty{display:none}
+#amt-svc :is(.amt-dirs,.amt-techs,.amt-uses,.amt-models,.amt-trust,.amt-faq,.amt-tasks__row,.amt-hero__actions,.amt-cta__actions,.amt-split)>p{display:none}
+#amt-svc br{display:none}

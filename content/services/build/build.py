@@ -66,7 +66,7 @@ def cards(items, cols=3):
     """items: (code, title, body_html, link_href|None, link_text)"""
     out = []
     for code, title, body, href, ltext in items:
-        link = f'<a class="amt-arrow" href="{href}">{ltext} <span>→</span></a>' if href else ""
+        link = f'<div class="amt-link"><a class="amt-arrow" href="{href}">{ltext} <span>→</span></a></div>' if href else ""
         top = f'<div class="amt-tech__top"><span class="amt-code">{code}</span></div>' if code else ""
         out.append(f'<div class="amt-tech">{top}<div><h3>{title}</h3>{body}</div>{link}</div>')
     mod = {2: " amt-techs--2", 4: " amt-techs--4"}.get(cols, "")
@@ -92,8 +92,8 @@ def dark(eyebrow, title, lead, models):
     ms = []
     for label, name, spec, href in models:
         li = "".join(f"<li>{s}</li>" for s in spec)
-        link = f'<a class="amt-arrow" href="{href}">Подробнее <span>→</span></a>' if href else ""
-        ms.append(f'<div class="amt-model"><div><div class="amt-model__label">{label}</div><strong>{name}</strong>'
+        link = f'<div class="amt-link"><a class="amt-arrow" href="{href}">Подробнее <span>→</span></a></div>' if href else ""
+        ms.append(f'<div class="amt-model"><div><div class="amt-model__label">{label}</div><div class="amt-model__name">{name}</div>'
                   f'<ul class="amt-model__spec">{li}</ul></div>{link}</div>')
     return (f'<div class="amt-lineup"><div class="amt-eyebrow">{eyebrow}</div><h2 class="amt-title amt-title--section">'
             f'{title}</h2><p class="amt-lead">{lead}</p><div class="amt-models{mod}">{"".join(ms)}</div></div>')
@@ -130,7 +130,9 @@ def hero(crumb, eyebrow, h1, lead, aside_title, aside_text, trust, chips):
 
 
 def page(body: str) -> str:
-    return f'<style>{css()}</style>\n<main id="amt-svc">{body}</main>\n'
+    # WordPress (wpautop) оборачивает в <p> всё, что считает строчным: <main>, ссылку-карточку <a> с блоками внутри,
+    # одинокую ссылку после блока. Поэтому только <div>-обёртки, ссылки внутри блоков и одна строка без переводов.
+    return f'<style>{css()}</style><div id="amt-svc">{body}</div>'
 
 
 TRUST = [("Срок от 3 дней", "Приступаем сразу, если есть модель, материал и требования."),
@@ -515,9 +517,9 @@ def p_hub():
 
     def d(cls, idx, area, tag, href, title, text, tags, link):
         t = "".join(f'<span class="amt-tag">{x}</span>' for x in tags)
-        return (f'<a class="amt-dir {cls}" href="{href}"><div><div class="amt-dir__idx"><span><b>{idx}</b> / {area}</span>'
-                f'<span>{tag}</span></div><h3>{title}</h3><p>{text}</p><div class="amt-tags">{t}</div></div>'
-                f'<div class="amt-dir__foot"><span class="amt-arrow">{link} <span>→</span></span><span class="amt-count">от 3 дней</span></div></a>')
+        return (f'<div class="amt-dir {cls}"><div><div class="amt-dir__idx"><span><b>{idx}</b> / {area}</span>'
+                f'<span>{tag}</span></div><h3><a class="amt-stretch" href="{href}">{title}</a></h3><p>{text}</p><div class="amt-tags">{t}</div></div>'
+                f'<div class="amt-dir__foot"><span class="amt-arrow">{link} <span>→</span></span><span class="amt-count">от 3 дней</span></div></div>')
     dirs = ('<div class="amt-dirs">'
             + d("is-wide", "01", "Аддитивное производство", "Металл", "/uslugi/3d-pechat-metallom/", "3D-печать металлом на заказ",
                 "Детали из сталей, никелевых и алюминиевых сплавов на SLM; титан, γ-TiAl, медь и тугоплавкие металлы на EBM. "
