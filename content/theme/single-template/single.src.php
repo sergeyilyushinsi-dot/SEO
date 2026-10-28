@@ -213,7 +213,7 @@ if ( have_posts() ) :
 	<section class="amt-hero amt-shero">
 		<div class="amt-container">
 			<?php if ( function_exists( 'yoast_breadcrumb' ) ) : ?>
-				<div class="amt-eyebrow amt-shero__crumbs"><?php yoast_breadcrumb( '<span style="display:inline-flex;flex-wrap:wrap;gap:8px;color:#7b8288;text-transform:uppercase;font-size:11px">', '</span>' ); ?></div>
+				<nav class="amt-crumbs" aria-label="Хлебные крошки"><?php yoast_breadcrumb( '<span>', '</span>' ); ?></nav>
 			<?php endif; ?>
 			<div class="amt-shero__grid">
 				<div>

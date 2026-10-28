@@ -213,7 +213,7 @@ if ( have_posts() ) :
 	<section class="amt-hero amt-shero">
 		<div class="amt-container">
 			<?php if ( function_exists( 'yoast_breadcrumb' ) ) : ?>
-				<div class="amt-eyebrow amt-shero__crumbs"><?php yoast_breadcrumb( '<span style="display:inline-flex;flex-wrap:wrap;gap:8px;color:#7b8288;text-transform:uppercase;font-size:11px">', '</span>' ); ?></div>
+				<nav class="amt-crumbs" aria-label="Хлебные крошки"><?php yoast_breadcrumb( '<span>', '</span>' ); ?></nav>
 			<?php endif; ?>
 			<div class="amt-shero__grid">
 				<div>
@@ -593,7 +593,13 @@ html:has(body.single-news),html:has(body.single-cases),body.single-news,body.sin
 /* Вариант «б»: шрифт сайта Montserrat, заголовки легче, чем в ленте блога (как в макете). */
 #amt-blog.amt-single .amt-title--section{font-weight:600;letter-spacing:-.02em}
 #amt-blog .amt-shero{padding:56px 0 48px}
-#amt-blog .amt-shero__crumbs{margin-bottom:22px}
+/* Крошки: тонкие, серые, со стрелками вместо синих черточек темы */
+#amt-blog .amt-crumbs{margin-bottom:34px;font-size:13px;font-weight:400;line-height:1.5;color:rgba(23,23,23,.45);text-transform:none;letter-spacing:0}
+#amt-blog .amt-crumbs a{color:inherit;transition:color .2s}
+#amt-blog .amt-crumbs a:hover{color:var(--amt-orange)}
+#amt-blog .amt-crumbs svg{display:none}
+#amt-blog .amt-crumbs span > span ~ span::before{content:"→";display:inline-block;margin:0 10px;font-size:14px}
+#amt-blog .amt-crumbs .breadcrumb_last,#amt-blog .amt-crumbs *{color:inherit!important;font-weight:400!important;text-transform:none!important;letter-spacing:0!important;font-size:13px}
 #amt-blog .amt-shero__grid{max-width:1180px}
 #amt-blog .amt-shero .amt-label{display:inline-block;margin-bottom:16px}
 #amt-blog .amt-shero__title{margin:0 0 26px;font-size:clamp(34px,4.6vw,72px);line-height:1.04;font-weight:500;letter-spacing:-.035em;color:var(--amt-ink);max-width:1180px}
