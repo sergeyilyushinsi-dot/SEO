@@ -197,8 +197,7 @@ if ( have_posts() ) :
 		}
 		$amt_products = amt_single_products( $amt_id, $amt_html );
 
-		/* Только своё изображение записи. get_news_main_image() темы подставляет одну и ту же картинку
-		   во все новости, поэтому не используется. Нет изображения — шапка без фото. */
+		/* Фото в шапке не выводим (только заголовок). Миниатюра записи идёт в разметку Article. */
 		$amt_img = get_the_post_thumbnail_url( $amt_id, 'large' );
 
 		$amt_author_id   = (int) get_the_author_meta( 'ID' );
@@ -216,12 +215,15 @@ if ( have_posts() ) :
 			<?php if ( function_exists( 'yoast_breadcrumb' ) ) : ?>
 				<div class="amt-eyebrow amt-shero__crumbs"><?php yoast_breadcrumb( '<span style="display:inline-flex;flex-wrap:wrap;gap:8px;color:#7b8288;text-transform:uppercase;font-size:11px">', '</span>' ); ?></div>
 			<?php endif; ?>
-			<div class="amt-shero__grid<?php echo $amt_img ? '' : ' amt-shero__grid--noimg'; ?>">
+			<div class="amt-shero__grid">
 				<div>
 					<?php if ( $amt_term ) : ?>
 						<a class="amt-label" href="<?php echo esc_url( get_term_link( $amt_term ) ); ?>"><?php echo esc_html( ( $amt_is_case ? 'Кейс · ' : '' ) . $amt_term->name ); ?></a>
 					<?php endif; ?>
 					<h1 class="amt-shero__title"><?php the_title(); ?></h1>
+					<?php if ( has_excerpt() ) : ?>
+						<p class="amt-shero__lead"><?php echo esc_html( wp_strip_all_tags( get_the_excerpt() ) ); ?></p>
+					<?php endif; ?>
 					<div class="amt-shero__meta">
 						<div class="amt-author">
 							<?php echo get_avatar( $amt_author_id, 48 ); ?>
@@ -237,9 +239,6 @@ if ( have_posts() ) :
 						</div>
 					</div>
 				</div>
-				<?php if ( $amt_img ) : ?>
-					<div class="amt-shero__image"><img src="<?php echo esc_url( $amt_img ); ?>" alt="<?php echo esc_attr( get_the_title() ); ?>" fetchpriority="high"></div>
-				<?php endif; ?>
 			</div>
 
 			<?php if ( $amt_facts ) : ?>

@@ -197,8 +197,7 @@ if ( have_posts() ) :
 		}
 		$amt_products = amt_single_products( $amt_id, $amt_html );
 
-		/* Только своё изображение записи. get_news_main_image() темы подставляет одну и ту же картинку
-		   во все новости, поэтому не используется. Нет изображения — шапка без фото. */
+		/* Фото в шапке не выводим (только заголовок). Миниатюра записи идёт в разметку Article. */
 		$amt_img = get_the_post_thumbnail_url( $amt_id, 'large' );
 
 		$amt_author_id   = (int) get_the_author_meta( 'ID' );
@@ -216,12 +215,15 @@ if ( have_posts() ) :
 			<?php if ( function_exists( 'yoast_breadcrumb' ) ) : ?>
 				<div class="amt-eyebrow amt-shero__crumbs"><?php yoast_breadcrumb( '<span style="display:inline-flex;flex-wrap:wrap;gap:8px;color:#7b8288;text-transform:uppercase;font-size:11px">', '</span>' ); ?></div>
 			<?php endif; ?>
-			<div class="amt-shero__grid<?php echo $amt_img ? '' : ' amt-shero__grid--noimg'; ?>">
+			<div class="amt-shero__grid">
 				<div>
 					<?php if ( $amt_term ) : ?>
 						<a class="amt-label" href="<?php echo esc_url( get_term_link( $amt_term ) ); ?>"><?php echo esc_html( ( $amt_is_case ? 'Кейс · ' : '' ) . $amt_term->name ); ?></a>
 					<?php endif; ?>
 					<h1 class="amt-shero__title"><?php the_title(); ?></h1>
+					<?php if ( has_excerpt() ) : ?>
+						<p class="amt-shero__lead"><?php echo esc_html( wp_strip_all_tags( get_the_excerpt() ) ); ?></p>
+					<?php endif; ?>
 					<div class="amt-shero__meta">
 						<div class="amt-author">
 							<?php echo get_avatar( $amt_author_id, 48 ); ?>
@@ -237,9 +239,6 @@ if ( have_posts() ) :
 						</div>
 					</div>
 				</div>
-				<?php if ( $amt_img ) : ?>
-					<div class="amt-shero__image"><img src="<?php echo esc_url( $amt_img ); ?>" alt="<?php echo esc_attr( get_the_title() ); ?>" fetchpriority="high"></div>
-				<?php endif; ?>
 			</div>
 
 			<?php if ( $amt_facts ) : ?>
@@ -595,18 +594,16 @@ html:has(body.single-news),html:has(body.single-cases),body.single-news,body.sin
 #amt-blog.amt-single .amt-title--section{font-weight:600;letter-spacing:-.02em}
 #amt-blog .amt-shero{padding:56px 0 48px}
 #amt-blog .amt-shero__crumbs{margin-bottom:22px}
-#amt-blog .amt-shero__grid{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(0,.75fr);gap:56px;align-items:center}
-#amt-blog .amt-shero__grid--noimg{grid-template-columns:1fr}
+#amt-blog .amt-shero__grid{max-width:1180px}
 #amt-blog .amt-shero .amt-label{display:inline-block;margin-bottom:16px}
-#amt-blog .amt-shero__title{margin:0 0 30px;font-size:clamp(30px,3.6vw,52px);line-height:1.08;font-weight:600;letter-spacing:-.025em;color:var(--amt-ink);max-width:900px}
-#amt-blog .amt-shero__meta{display:flex;flex-wrap:wrap;gap:18px 34px;align-items:center;padding-top:22px;border-top:1px solid var(--amt-line)}
+#amt-blog .amt-shero__title{margin:0 0 26px;font-size:clamp(34px,4.6vw,72px);line-height:1.04;font-weight:500;letter-spacing:-.035em;color:var(--amt-ink);max-width:1180px}
+#amt-blog .amt-shero__lead{margin:0 0 30px;max-width:900px;font-size:clamp(17px,1.5vw,22px);line-height:1.5;color:#343432}
+#amt-blog .amt-shero__meta{display:flex;flex-wrap:wrap;gap:14px 34px;align-items:center}
 #amt-blog .amt-author{display:flex;gap:12px;align-items:center}
 #amt-blog .amt-author img{width:48px;height:48px;border-radius:50%;object-fit:cover}
 #amt-blog .amt-author b{display:block;font-size:14px;font-weight:600}
 #amt-blog .amt-author span{display:block;font-size:12px;color:var(--amt-muted)}
 #amt-blog .amt-shero__dates{display:flex;flex-wrap:wrap;gap:8px 18px;font-size:13px;color:var(--amt-muted)}
-#amt-blog .amt-shero__image{border-radius:var(--amt-radius-lg);overflow:hidden;background:var(--amt-surface);aspect-ratio:4/3}
-#amt-blog .amt-shero__image img{width:100%;height:100%;object-fit:cover;display:block}
 
 #amt-blog .amt-facts{margin-top:42px;display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:0;border:1px solid var(--amt-line);border-radius:var(--amt-radius-md);background:#fff;overflow:hidden}
 #amt-blog .amt-fact{padding:18px 20px;border-right:1px solid var(--amt-line);border-bottom:1px solid var(--amt-line);margin:0 -1px -1px 0}
@@ -698,7 +695,6 @@ html:has(body.single-news),html:has(body.single-cases),body.single-news,body.sin
   #amt-blog .amt-toc--mobile{display:block;margin-bottom:28px;padding:16px 20px;border:1px solid var(--amt-line);border-radius:var(--amt-radius-md);background:var(--amt-surface)}
   #amt-blog .amt-toc--mobile summary{cursor:pointer;font-weight:600;font-size:15px}
   #amt-blog .amt-toc--mobile ol{margin-top:12px}
-  #amt-blog .amt-shero__grid{grid-template-columns:1fr;gap:28px}
 }
 @media(max-width:760px){
   #amt-blog .amt-shero{padding:36px 0 32px}
