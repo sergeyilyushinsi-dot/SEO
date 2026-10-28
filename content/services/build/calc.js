@@ -181,20 +181,15 @@
   root.addEventListener('input', function (e) { if (e.target.name === 'amc-volume') { state.volume = null; } update(); });
   root.addEventListener('change', update);
 
-  /* «Далее»: сводка копируется в буфер и показывается в окне с формой заявки Битрикс24 (та же форма, что на
-     «Комплексных решениях», встроена в разметку). Файл STL пользователь прикрепляет в форме: браузер не даёт
-     передать выбранный файл в чужую форму скриптом. */
-  var modal = $('.amc-modal');
+  /* «Далее»: сводка и параметры уходят в окно заявки (modal.js), сводка копируется в буфер. Файл STL посетитель
+     прикрепляет в форме Битрикс24: браузер не даёт передать выбранный файл в чужую форму скриптом. */
   $('.amc-next').addEventListener('click', function () {
-    var text = summary();
-    $('.amc-modal__summary').textContent = text;
-    if (navigator.clipboard) navigator.clipboard.writeText(text).catch(function () {});
-    modal.classList.add('is-open'); document.documentElement.style.overflow = 'hidden';
-  });
-  root.addEventListener('click', function (e) {
-    if (e.target.classList.contains('amc-modal') || e.target.classList.contains('amc-modal__close')) {
-      modal.classList.remove('is-open'); document.documentElement.style.overflow = '';
-    }
+    var mat = $('[name=amc-material]');
+    var extra = Array.prototype.map.call(root.querySelectorAll('input[type=checkbox]:checked'), function (c) { return c.value; });
+    var props = { service: root.getAttribute('data-service'), file: state.name || '', volume: $('.amc-res__vol').textContent,
+      dims: $('.amc-res__dims').textContent, material: mat.value, qty: String($('[name=amc-qty]').value || 1),
+      machine: $('.amc-res__fit').textContent, extra: extra.join(', ') };
+    if (window.amtOpenForm) window.amtOpenForm(summary(), props);
   });
   update();
 })();

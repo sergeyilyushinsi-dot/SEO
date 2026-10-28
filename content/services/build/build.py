@@ -110,7 +110,7 @@ def cta(title, lead, subject):
         f'<div class="amt-cta" id="amt-svc-cta"><div><div class="amt-eyebrow">Расчёт по модели</div>'
         f'<h2 class="amt-title amt-title--section">{title}</h2><p class="amt-lead">{lead}</p>'
         f'<div class="amt-contacts"><a href="{PHONE_HREF}">{PHONE}</a><a href="mailto:{EMAIL}">{EMAIL}</a></div></div>'
-        f'<div class="amt-cta__actions"><a class="amt-button amt-button--primary" href="{mail}">Отправить модель на расчёт <span>→</span></a>'
+        f'<div class="amt-cta__actions"><a class="amt-button amt-button--primary" href="{mail}" data-amt-form>Отправить заявку <span>→</span></a>'
         f'<a class="amt-button amt-button--secondary" href="{PHONE_HREF}">Позвонить инженеру</a></div></div>')
 
 
@@ -132,7 +132,7 @@ def hero(crumb, eyebrow, h1, lead, aside_title, aside_text, trust, chips, target
 def page(body: str) -> str:
     # WordPress (wpautop) оборачивает в <p> всё, что считает строчным: <main>, ссылку-карточку <a> с блоками внутри,
     # одинокую ссылку после блока. Поэтому только <div>-обёртки, ссылки внутри блоков и одна строка без переводов.
-    return f'<style>{css()}</style><div id="amt-svc">{body}</div>'
+    return f'<style>{css()}</style><div id="amt-svc">{body}{form_modal()}</div>'
 
 
 TRUST = [("Срок от 3 дней", "Приступаем сразу, если есть модель, материал и требования."),
@@ -583,7 +583,8 @@ PAGES = {"uslugi": p_hub, "3d-pechat-metallom": p_metal, "sla-pechat": p_sla, "3
 
 # ---------------------------------------------------------------- калькулятор-заявка
 
-B24_FORM, B24_LOADER = "inline/2/qjtgb9", "https://cdn-ru.bitrix24.ru/b29360544/crm/form/loader_2.js"
+B24_FORM, B24_LOADER = "inline/212/6a4nw4", "https://cdn-ru.bitrix24.ru/b29360544/crm/form/loader_212.js"
+B24_SIGN = "v1:212:site.ac6a4897c55d7aae4cae7cdd00638178839280c7e1ebe27c1beb387417adb393"  # форма «Сайт — калькулятор услуг», 28.10.2026
 MACHINES = [  # камеры установок по карточкам am-tech.ru, мм
     {"name": "AMT-16", "tech": "SLM", "d": 165, "z": 225},
     {"name": "AMT-32", "tech": "SLM", "x": 320, "y": 320, "z": 375},
@@ -592,10 +593,25 @@ MACHINES = [  # камеры установок по карточкам am-tech.
 ]
 
 
-def calc_js() -> str:
-    js = (HERE / "calc.js").read_text(encoding="utf-8")
+def calc_js(name="calc.js") -> str:
+    js = (HERE / name).read_text(encoding="utf-8")
     js = re.sub(r"/\*.*?\*/", "", js, flags=re.S)
     return " ".join(line.strip() for line in js.splitlines() if line.strip())
+
+
+def form_modal() -> str:
+    """Окно с формой Битрикс24 — одно на страницу. Скрипт окна стоит до формы: он должен успеть подписаться на
+    b24:form:init."""
+    b24 = (f'<script data-b24-form="{B24_FORM}" data-b24-form-telemetry-sign="{B24_SIGN}" data-skip-moving="true">'
+           "(function(w,d,u){var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/180000|0);"
+           "var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);})"
+           f"(window,document,'{B24_LOADER}');</script>")
+    return ('<div class="amc-modal" id="amt-form-modal"><div class="amc-modal__dialog">'
+            '<button type="button" class="amc-modal__close" aria-label="Закрыть">×</button>'
+            '<h3>Заявка на расчёт</h3><p class="amc-help">Инженер AM.TECH ответит в рабочее время и пришлёт расчёт стоимости и срока.</p>'
+            '<p class="amc-help amc-modal__note">Параметры детали из калькулятора переданы в заявку и скопированы в буфер обмена. '
+            'Прикрепите файл модели в форме ниже.</p><pre class="amc-modal__summary"></pre>'
+            f'<div class="amc-modal__form"><script>{calc_js("modal.js")}</script>{b24}</div></div></div>')
 
 
 def calc(service, materials, extras, help_text):
@@ -603,9 +619,6 @@ def calc(service, materials, extras, help_text):
     import json
     opts = "".join(f'<option value="{esc(v)}" data-tech="{t}">{v} — {t}</option>' for v, t in materials)
     chk = "".join(f'<label><input type="checkbox" value="{esc(x)}">{x}</label>' for x in extras)
-    b24 = (f'<script data-b24-form="{B24_FORM}" data-skip-moving="true">(function(w,d,u){{var s=d.createElement(\'script\');'
-           f's.async=true;s.src=u+\'?\'+(Date.now()/180000|0);var h=d.getElementsByTagName(\'script\')[0];h.parentNode.insertBefore(s,h);}})'
-           f'(window,document,\'{B24_LOADER}\');</script>')
     machines = esc(json.dumps(MACHINES, ensure_ascii=False))
     return (f'<div class="amc" id="amt-calc" data-service="{esc(service)}" data-machines="{machines}">'
             '<div>'
@@ -631,10 +644,6 @@ def calc(service, materials, extras, help_text):
             '<div><dt>Помещается в установку</dt><dd class="amc-res__fit">—</dd></div>'
             '<div><dt>Стоимость и срок</dt><dd>рассчитает инженер, от 3 дней</dd></div></dl></div>'
             '<button type="button" class="amt-button amt-button--primary amc-next">Далее — отправить заявку <span>→</span></button></div>'
-            '<div class="amc-modal"><div class="amc-modal__dialog"><button type="button" class="amc-modal__close" aria-label="Закрыть">×</button>'
-            '<h3>Заявка на расчёт</h3><p class="amc-help">Параметры детали скопированы в буфер обмена — вставьте их в поле комментария '
-            'и прикрепите файл модели в форме ниже.</p><pre class="amc-modal__summary"></pre>'
-            f'<div class="amc-modal__form">{b24}</div></div></div>'
             f'</div><script>{calc_js()}</script>')
 
 
