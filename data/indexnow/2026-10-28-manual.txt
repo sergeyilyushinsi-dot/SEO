@@ -1,0 +1,14 @@
+# Ручная отправка через плагин IndexNow (Настройки → IndexNow → Submit URL), 28.10.2026.
+# Вебмастер недоступен (сообщение клиента 28.10), переобход через него отправить нельзя.
+# Категории, тексты которых менялись после отправки 16.10 (пакеты 17.10 и исправление таблиц 27.10).
+# Плагин отправляет записи (товары, новости, кейсы) сам, правки описаний категорий он может не заметить.
+# Срез 27.10: в выдаче Яндекса у этих страниц старые title «… | AM-Tech».
+https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/
+https://am-tech.ru/katalog/promyshlennye-3d-printery-po-sla-i-keramike/
+https://am-tech.ru/katalog/promyshlennye-3d-printery-po-sla-i-keramike/3d-print-keramika/
+https://am-tech.ru/katalog/promyshlennye-3d-printery-po-sla-i-keramike/sla-3d-printery/
+https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/
+https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/
+https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/lazernye-3d-skanery/
+https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/ruchnye-3d-skanery/
+https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/geodesicheskie-3d-scaneri/
