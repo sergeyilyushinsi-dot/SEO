@@ -609,8 +609,8 @@ def form_modal() -> str:
     return ('<div class="amc-modal" id="amt-form-modal"><div class="amc-modal__dialog">'
             '<button type="button" class="amc-modal__close" aria-label="Закрыть">×</button>'
             '<h3>Заявка на расчёт</h3><p class="amc-help">Инженер AM.TECH ответит в рабочее время и пришлёт расчёт стоимости и срока.</p>'
-            '<p class="amc-help amc-modal__note">Параметры детали из калькулятора переданы в заявку и скопированы в буфер обмена. '
-            'Прикрепите файл модели в форме ниже.</p><pre class="amc-modal__summary"></pre>'
+            '<p class="amc-help amc-modal__note">Параметры детали и файл модели подставлены в форму. Проверьте их и укажите контакты. '
+            'Сводка также скопирована в буфер обмена.</p><pre class="amc-modal__summary"></pre>'
             f'<div class="amc-modal__form"><script>{calc_js("modal.js")}</script>{b24}</div></div></div>')
 
 
