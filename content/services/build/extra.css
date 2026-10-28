@@ -72,3 +72,40 @@
 #amt-svc p:empty{display:none}
 #amt-svc :is(.amt-dirs,.amt-techs,.amt-uses,.amt-models,.amt-trust,.amt-faq,.amt-tasks__row,.amt-hero__actions,.amt-cta__actions,.amt-split)>p{display:none}
 #amt-svc br{display:none}
+/* Калькулятор-заявка */
+#amt-svc .amc{display:grid;grid-template-columns:1.05fr .95fr;gap:28px;padding:32px;border:1px solid var(--amt-line);border-radius:var(--amt-radius-lg);background:#fff;box-shadow:var(--amt-shadow)}
+#amt-svc .amc label,#amt-svc .amc-label{display:block;margin:0 0 8px;font-size:13px;font-weight:760;color:var(--amt-ink)}
+#amt-svc .amc-field{margin-bottom:20px}
+#amt-svc .amc-drop{position:relative;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:4px;min-height:110px;padding:18px;border:1.5px dashed #ffb27a;border-radius:var(--amt-radius-md);background:var(--amt-orange-soft);text-align:center;cursor:pointer;transition:.2s}
+#amt-svc .amc-drop.is-over,#amt-svc .amc-drop:hover{border-color:var(--amt-orange);background:#ffe9d6}
+#amt-svc .amc-drop input{position:absolute;inset:0;opacity:0;cursor:pointer}
+#amt-svc .amc-drop b{color:var(--amt-orange);font-size:16px}
+#amt-svc .amc-drop span{color:var(--amt-muted);font-size:12px}
+#amt-svc .amc-drop__name{color:var(--amt-ink)!important;font-weight:700}
+#amt-svc .amc input[type=text],#amt-svc .amc input[type=number],#amt-svc .amc select{width:100%;height:50px;padding:0 16px;border:1px solid #d9d9d9;border-radius:14px;background:#fff;font:inherit;font-size:15px;color:var(--amt-ink)}
+#amt-svc .amc input:focus,#amt-svc .amc select:focus{outline:none;border-color:var(--amt-orange);box-shadow:0 0 0 3px rgba(255,115,0,.15)}
+#amt-svc .amc-row{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+#amt-svc .amc-checks{display:grid;grid-template-columns:1fr 1fr;gap:8px 14px}
+#amt-svc .amc-checks label{display:flex;align-items:center;gap:8px;margin:0;font-size:14px;font-weight:500;color:var(--amt-text);cursor:pointer}
+#amt-svc .amc-checks input{width:18px;height:18px;accent-color:var(--amt-orange)}
+#amt-svc .amc-help{margin:6px 0 0;color:var(--amt-muted);font-size:12px;line-height:1.5}
+#amt-svc .amc-help a{color:var(--amt-orange)}
+#amt-svc .amc-view{position:relative;height:300px;border-radius:var(--amt-radius-md);background:radial-gradient(circle at 70% 20%,rgba(255,115,0,.10),transparent 45%),linear-gradient(180deg,#fafaf8,#eeeeea);overflow:hidden}
+#amt-svc .amc-view canvas{display:block;width:100%!important;height:100%!important;cursor:grab}
+#amt-svc .amc-view__hint{position:absolute;left:0;right:0;bottom:12px;text-align:center;color:var(--amt-muted);font-size:12px;pointer-events:none}
+#amt-svc .amc-res{margin-top:16px;padding:20px 22px;border:1px solid var(--amt-line);border-radius:var(--amt-radius-md)}
+#amt-svc .amc-res__lead{margin:0 0 12px;color:var(--amt-text);font-size:14px}
+#amt-svc .amc-res dl{margin:0}
+#amt-svc .amc-res dl>div{display:flex;justify-content:space-between;gap:16px;padding:9px 0;border-bottom:1px solid var(--amt-line);font-size:14px}
+#amt-svc .amc-res dl>div:last-child{border-bottom:0}
+#amt-svc .amc-res dt{color:var(--amt-muted);font-weight:500}
+#amt-svc .amc-res dd{margin:0;text-align:right;color:var(--amt-ink);font-weight:700}
+#amt-svc .amc-next{width:100%;margin-top:16px}
+#amt-svc .amc-modal{position:fixed;inset:0;z-index:2147483000;display:none;align-items:flex-start;justify-content:center;padding:90px 16px 40px;overflow:auto;background:rgba(15,15,15,.6)}
+#amt-svc .amc-modal.is-open{display:flex}
+#amt-svc .amc-modal__dialog{position:relative;width:min(640px,100%);padding:32px;border-radius:var(--amt-radius-lg);background:#fff}
+#amt-svc .amc-modal__close{position:absolute;top:14px;right:16px;width:40px;height:40px;border:0;border-radius:50%;background:var(--amt-surface);font-size:24px;line-height:1;cursor:pointer}
+#amt-svc .amc-modal h3{margin:0 0 10px;font-size:24px;font-weight:760}
+#amt-svc .amc-modal__summary{margin:14px 0 18px;padding:14px 16px;border-radius:14px;background:var(--amt-surface);font:13px/1.6 Menlo,Consolas,monospace;white-space:pre-wrap;color:var(--amt-ink)}
+@media(max-width:900px){#amt-svc .amc{grid-template-columns:1fr;padding:20px}}
+@media(max-width:520px){#amt-svc .amc-row,#amt-svc .amc-checks{grid-template-columns:1fr}#amt-svc .amc-modal__dialog{padding:24px 18px}}

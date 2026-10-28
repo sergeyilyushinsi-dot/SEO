@@ -114,7 +114,7 @@ def cta(title, lead, subject):
         f'<a class="amt-button amt-button--secondary" href="{PHONE_HREF}">Позвонить инженеру</a></div></div>')
 
 
-def hero(crumb, eyebrow, h1, lead, aside_title, aside_text, trust, chips):
+def hero(crumb, eyebrow, h1, lead, aside_title, aside_text, trust, chips, target="#amt-svc-cta"):
     crumbs = (f'<div class="amt-crumbs"><a href="/">Главная страница</a><span class="sep">—</span>'
               + (f'<a href="/uslugi/">Услуги</a><span class="sep">—</span>' if crumb != "Услуги" else "")
               + f"<span>{crumb}</span></div>")
@@ -122,7 +122,7 @@ def hero(crumb, eyebrow, h1, lead, aside_title, aside_text, trust, chips):
     ch = "".join(f'<a class="amt-chip" href="{h}">{t}</a>' for t, h in chips)
     return (f'<section class="amt-hero"><div class="amt-container"><div class="amt-hero__grid"><div>{crumbs}'
             f'<div class="amt-eyebrow">{eyebrow}</div><h1 class="amt-title">{h1}</h1><p class="amt-lead">{lead}</p>'
-            f'<div class="amt-hero__actions"><a class="amt-button amt-button--primary" href="#amt-svc-cta">Рассчитать стоимость <span>→</span></a>'
+            f'<div class="amt-hero__actions"><a class="amt-button amt-button--primary" href="{target}">Рассчитать стоимость <span>→</span></a>'
             f'<a class="amt-button amt-button--secondary" href="{PHONE_HREF}">{PHONE}</a></div></div>'
             f'<div class="amt-hero__aside"><div class="amt-eyebrow">{aside_title}</div><p>{aside_text}</p></div></div>'
             f'<div class="amt-trust">{tr}</div></div></section>'
@@ -152,7 +152,7 @@ def p_metal():
              "Печатаем и на SLM, и на EBM. Технологию подбираем под деталь: SLM — для тонких стенок и мелких элементов, "
              "EBM — для титана, γ-TiAl, меди и тугоплавких металлов.",
              TRUST, [("Технологии", "#tech"), ("Оборудование", "#equipment"), ("Материалы", "#materials"),
-                     ("Постобработка", "#post"), ("Этапы", "#process"), ("Стоимость", "#price"), ("Вопросы", "#faq")])
+                     ("Постобработка", "#post"), ("Этапы", "#process"), ("Расчёт", "#calc"), ("Вопросы", "#faq")], "#calc")
     b += section(head("Технологии", "SLM или EBM: что подходит вашей детали",
                       "У большинства подрядчиков есть только SLM. Мы печатаем на обеих технологиях, поэтому выбираем "
                       "технологию под задачу, а не под имеющийся парк.")
@@ -232,6 +232,13 @@ def p_metal():
                         ("Можно ли потом печатать у себя?", 'Да. Проверьте технологию на своих деталях, а затем поставим '
                          '<a href="/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/">SLM-принтер</a>, '
                          'в том числе в <a href="/leasing/">лизинг</a>.')]), "faq")
+    b += section(head("Расчёт стоимости", "Загрузите модель — посчитаем объём и подберём установку",
+                      "Объём, габариты и подходящая установка определяются сразу в браузере. Стоимость и срок рассчитает инженер "
+                      "по модели и пришлёт коммерческое предложение.")
+                 + calc("3D-печать металлом", METAL_MATERIALS,
+                        ["Снятие поддержек", "Термообработка", "Механообработка", "Контроль геометрии", "3D-моделирование", "3D-сканирование образца"],
+                        'Нет 3D-модели? Сделаем по чертежу или образцу — <a href="/uslugi/revers-inzhiniring/">реверс-инжиниринг</a>.'),
+                 "calc", soft=True)
     b += cta("Рассчитаем стоимость по вашей модели",
              "Пришлите файл, материал и количество. Инженер проверит технологичность и назовёт стоимость и срок.",
              "3D-печать металлом: расчёт")
@@ -245,7 +252,7 @@ def p_sla():
              "Крупный формат",
              "Рабочая область 600 × 600 × 400 мм: крупная модель печатается целиком, без склейки, а мелкие детали — партией за один цикл.",
              TRUST, [("Технология", "#tech"), ("Что печатаем", "#uses"), ("Смолы", "#resins"), ("Постобработка", "#post"),
-                     ("Этапы", "#process"), ("Вопросы", "#faq")])
+                     ("Этапы", "#process"), ("Расчёт", "#calc"), ("Вопросы", "#faq")], "#calc")
     b += section('<div class="amt-split"><div>'
                  + head("Технология", "Что такое SLA-печать")
                  + '<div class="amt-prose"><p>Ультрафиолетовый лазер послойно отверждает жидкую фотополимерную смолу. Слой получается '
@@ -300,6 +307,13 @@ def p_sla():
                          "Точную цену называем после просмотра модели."),
                         ("Можно ли купить такой же принтер?", 'Да. Мы производим <a href="/katalog/promyshlennye-3d-printery-po-sla-i-keramike/'
                          'sla-3d-printery/">промышленные SLA-принтеры</a> с областью построения до 1700 мм.')]), "faq", soft=True)
+    b += section(head("Расчёт стоимости", "Загрузите модель — посчитаем объём и проверим размер",
+                      "Объём и габариты определяются сразу в браузере. Стоимость и срок рассчитает инженер.")
+                 + calc("SLA-печать", [(x, "SLA") for x in ["ABS-подобная конструкционная смола", "Прозрачная смола", "Термостойкая смола",
+                                                            "Выжигаемая смола для литья", "Модельная стоматологическая смола"]],
+                        ["Снятие поддержек", "УФ-отверждение", "Шлифовка", "Подготовка под покраску", "Контроль геометрии", "3D-сканирование образца"],
+                        'Нет 3D-модели? Отсканируем образец — <a href="/uslugi/3d-skanirovanie/">3D-сканирование</a>.'),
+                 "calc", soft=True)
     b += cta("Пришлите модель — рассчитаем стоимость и срок",
              "Укажите количество и требования к поверхности. Если модели нет, отсканируем образец.", "SLA-печать: расчёт")
     return b
@@ -559,8 +573,70 @@ def p_hub():
     return b
 
 
+METAL_MATERIALS = [("Сталь 316L", "SLM"), ("Сталь 12Х18Н10Т", "SLM"), ("Сталь 17-4PH", "SLM"), ("Сталь H13", "SLM"),
+                   ("Inconel 718", "SLM"), ("Алюминиевый сплав RS-300", "SLM"), ("Алюминиевый сплав RS-320", "SLM"),
+                   ("Алюминиевый сплав RS-355", "SLM"), ("Титан Ti6Al4V", "EBM"), ("γ-TiAl", "EBM"), ("Медь", "EBM"),
+                   ("Вольфрам", "EBM"), ("Молибден", "EBM"), ("Тантал", "EBM")]
+
 PAGES = {"uslugi": p_hub, "3d-pechat-metallom": p_metal, "sla-pechat": p_sla, "3d-skanirovanie": p_scan,
          "revers-inzhiniring": p_revers, "kontrol-geometrii": p_control}
+
+# ---------------------------------------------------------------- калькулятор-заявка
+
+B24_FORM, B24_LOADER = "inline/2/qjtgb9", "https://cdn-ru.bitrix24.ru/b29360544/crm/form/loader_2.js"
+MACHINES = [  # камеры установок по карточкам am-tech.ru, мм
+    {"name": "AMT-16", "tech": "SLM", "d": 165, "z": 225},
+    {"name": "AMT-32", "tech": "SLM", "x": 320, "y": 320, "z": 375},
+    {"name": "EBM-200", "tech": "EBM", "x": 200, "y": 200, "z": 450},
+    {"name": "SLA-600", "tech": "SLA", "x": 600, "y": 600, "z": 400},
+]
+
+
+def calc_js() -> str:
+    js = (HERE / "calc.js").read_text(encoding="utf-8")
+    js = re.sub(r"/\*.*?\*/", "", js, flags=re.S)
+    return " ".join(line.strip() for line in js.splitlines() if line.strip())
+
+
+def calc(service, materials, extras, help_text):
+    """materials: (value, tech). Сводка и форма Битрикс24 открываются по «Далее»."""
+    import json
+    opts = "".join(f'<option value="{esc(v)}" data-tech="{t}">{v} — {t}</option>' for v, t in materials)
+    chk = "".join(f'<label><input type="checkbox" value="{esc(x)}">{x}</label>' for x in extras)
+    b24 = (f'<script data-b24-form="{B24_FORM}" data-skip-moving="true">(function(w,d,u){{var s=d.createElement(\'script\');'
+           f's.async=true;s.src=u+\'?\'+(Date.now()/180000|0);var h=d.getElementsByTagName(\'script\')[0];h.parentNode.insertBefore(s,h);}})'
+           f'(window,document,\'{B24_LOADER}\');</script>')
+    machines = esc(json.dumps(MACHINES, ensure_ascii=False))
+    return (f'<div class="amc" id="amt-calc" data-service="{esc(service)}" data-machines="{machines}">'
+            '<div>'
+            '<div class="amc-field"><div class="amc-label">Загрузите 3D-модель</div><div class="amc-drop">'
+            '<input type="file" name="amc-file" accept=".stl"><b>Выбрать STL-файл</b>'
+            '<span class="amc-drop__name">или перетащите его сюда</span><span>модель появится справа, объём и габариты посчитаются автоматически</span></div></div>'
+            '<div class="amc-field"><label for="amc-volume">Объём детали, см³</label>'
+            '<input type="text" id="amc-volume" name="amc-volume" inputmode="decimal" placeholder="если нет STL — укажите объём">'
+            f'<p class="amc-help">{help_text}</p></div>'
+            '<div class="amc-row"><div class="amc-field"><label for="amc-material">Материал</label>'
+            f'<select id="amc-material" name="amc-material">{opts}</select></div>'
+            '<div class="amc-field"><label for="amc-qty">Количество, шт</label>'
+            '<input type="number" id="amc-qty" name="amc-qty" min="1" value="1"></div></div>'
+            f'<div class="amc-field"><div class="amc-label">Дополнительно</div><div class="amc-checks">{chk}</div>'
+            '<p class="amc-help">Постобработку и дополнительные работы инженер включит в коммерческое предложение.</p></div>'
+            '</div>'
+            '<div><div class="amc-label">3D-просмотр</div><div class="amc-view"><div class="amc-view__hint">загрузите STL-файл</div></div>'
+            '<div class="amc-res"><p class="amc-res__lead">Загрузите STL или укажите объём детали</p><dl>'
+            '<div><dt>Объём</dt><dd class="amc-res__vol">—</dd></div>'
+            '<div><dt>Габариты</dt><dd class="amc-res__dims">—</dd></div>'
+            '<div><dt>Площадь поверхности</dt><dd class="amc-res__area">—</dd></div>'
+            '<div><dt>Технология</dt><dd class="amc-res__tech">—</dd></div>'
+            '<div><dt>Помещается в установку</dt><dd class="amc-res__fit">—</dd></div>'
+            '<div><dt>Стоимость и срок</dt><dd>рассчитает инженер, от 3 дней</dd></div></dl></div>'
+            '<button type="button" class="amt-button amt-button--primary amc-next">Далее — отправить заявку <span>→</span></button></div>'
+            '<div class="amc-modal"><div class="amc-modal__dialog"><button type="button" class="amc-modal__close" aria-label="Закрыть">×</button>'
+            '<h3>Заявка на расчёт</h3><p class="amc-help">Параметры детали скопированы в буфер обмена — вставьте их в поле комментария '
+            'и прикрепите файл модели в форме ниже.</p><pre class="amc-modal__summary"></pre>'
+            f'<div class="amc-modal__form">{b24}</div></div></div>'
+            f'</div><script>{calc_js()}</script>')
+
 
 if __name__ == "__main__":
     for slug, fn in PAGES.items():
