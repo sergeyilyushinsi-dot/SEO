@@ -1,0 +1,68 @@
+[
+ {
+  "id": 4415,
+  "slug": "uslugi",
+  "parent": 0,
+  "status": "draft",
+  "url": "/uslugi/",
+  "yt": "Услуги 3D-печати, 3D-сканирования и контроля геометрии | AM.TECH",
+  "yd": "3D-печать металлом и SLA на заказ, 3D-сканирование, реверс-инжиниринг и контроль геометрии деталей. Собственное оборудование, расчёт по модели, от 3 дней.",
+  "content_ok": true,
+  "preview": "https://am-tech.ru/?page_id=4415"
+ },
+ {
+  "id": 4416,
+  "slug": "3d-pechat-metallom",
+  "parent": 4415,
+  "status": "draft",
+  "url": "/uslugi/3d-pechat-metallom/",
+  "yt": "3D-печать металлом на заказ: SLM и EBM, от 3 дней | AM.TECH",
+  "yd": "Печать металлических деталей на заказ на SLM и EBM: AlSi10Mg, 316L, 17-4PH, Inconel 718, титан, медь. Постобработка, контроль геометрии, расчёт по модели.",
+  "content_ok": true,
+  "preview": "https://am-tech.ru/?page_id=4416"
+ },
+ {
+  "id": 4417,
+  "slug": "sla-pechat",
+  "parent": 4415,
+  "status": "draft",
+  "url": "/uslugi/sla-pechat/",
+  "yt": "SLA-печать на заказ до 600 мм: прототипы, мастер-модели | AM.TECH",
+  "yd": "SLA-печать на заказ на промышленном принтере SLA-600: прототипы, мастер-модели, выжигаемые модели для литья. Расчёт по 3D-модели, срок от 3 дней.",
+  "content_ok": true,
+  "preview": "https://am-tech.ru/?page_id=4417"
+ },
+ {
+  "id": 4418,
+  "slug": "3d-skanirovanie",
+  "parent": 4415,
+  "status": "draft",
+  "url": "/uslugi/3d-skanirovanie/",
+  "yt": "3D-сканирование на заказ с выездом по России | AM.TECH",
+  "yd": "Услуги 3D-сканирования деталей и крупных конструкций промышленными сканерами с точностью до 0,015 мм. STL, CAD-модель или отчёт. Выезд по всей России.",
+  "content_ok": true,
+  "preview": "https://am-tech.ru/?page_id=4418"
+ },
+ {
+  "id": 4419,
+  "slug": "revers-inzhiniring",
+  "parent": 4415,
+  "status": "draft",
+  "url": "/uslugi/revers-inzhiniring/",
+  "yt": "Реверс-инжиниринг деталей на заказ: скан, CAD, изготовление | AM.TECH",
+  "yd": "Обратное проектирование деталей: 3D-сканирование образца, CAD-модель для производства и изготовление 3D-печатью. Импортозамещение запчастей, выезд по России.",
+  "content_ok": true,
+  "preview": "https://am-tech.ru/?page_id=4419"
+ },
+ {
+  "id": 4420,
+  "slug": "kontrol-geometrii",
+  "parent": 4415,
+  "status": "draft",
+  "url": "/uslugi/kontrol-geometrii/",
+  "yt": "Контроль геометрии деталей 3D-сканированием по CAD-модели | AM.TECH",
+  "yd": "Контроль геометрии деталей по 3D-модели: карта отклонений, допуски формы и расположения, отчёт. Отливки, сварные рамы, оснастка. Выезд по всей России.",
+  "content_ok": true,
+  "preview": "https://am-tech.ru/?page_id=4420"
+ }
+]
