@@ -21,7 +21,18 @@
   "slug": "revers-inzhiniring-i-3d-pechat-slomannoy-plastikovoy-detali-dlya-stroitelnoy-kompanii",
   "status": "draft",
   "old": "https://xn--h1akeh.xn--p1ai/keysy/",
-  "yt": "Реверс-инжиниринг и 3D-печать сломанной детали за 16 часов | AM.TECH"
+  "yt": "Реверс-инжиниринг и 3D-печать сломанной детали за 16 часов | AM.TECH",
+  "media": [
+   4489,
+   4490,
+   4491,
+   4492,
+   4493,
+   4494,
+   4495,
+   4496
+  ],
+  "featured_media": 4492
  },
  {
   "spin_id": "964",
@@ -29,7 +40,12 @@
   "slug": "3d-skanirovanie-kryshki-dlya-izmeneniya-polozheniya-otverstiy",
   "status": "draft",
   "old": "https://xn--h1akeh.xn--p1ai/keysy/",
-  "yt": "3D-сканирование крышки для переноса отверстий за 2 часа | AM.TECH"
+  "yt": "3D-сканирование крышки для переноса отверстий за 2 часа | AM.TECH",
+  "media": [
+   4497
+  ],
+  "featured_media": 4497,
+  "note": "4 скана с водяным знаком СПИН не использованы"
  },
  {
   "spin_id": "1095",
