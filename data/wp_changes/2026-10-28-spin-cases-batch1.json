@@ -5,7 +5,15 @@
   "slug": "3d-skanirovanie-stula-step-model",
   "status": "draft",
   "old": "https://xn--h1akeh.xn--p1ai/keysy/",
-  "yt": "3D-сканирование стула и STEP-модель для серии | AM.TECH"
+  "yt": "3D-сканирование стула и STEP-модель для серии | AM.TECH",
+  "media": [
+   4481,
+   4482,
+   4483,
+   4484,
+   4485
+  ],
+  "featured_media": 4481
  },
  {
   "spin_id": "1063",
@@ -31,12 +39,15 @@
   "old": "https://xn--h1akeh.xn--p1ai/keysy/",
   "yt": "Реверс-инжиниринг барабана: из сборного узла в одну деталь | AM.TECH",
   "media": [
+   4486,
    4477,
    4478,
+   4487,
+   4488,
    4479,
    4480
   ],
-  "featured_media": 4478
+  "featured_media": 4486
  },
  {
   "spin_id": "841",
