@@ -274,6 +274,14 @@ if ( 'builder' !== get_post_meta( get_the_ID(), '_elementor_edit_mode', true ) )
 get_header();
 get_template_part( 'header-nav' ); // шапка сайта (логотип, меню) — как в news.php и старом case.php
 ?>
+<script>
+/* Для case.php тема выводит «прозрачную» шапку (белые пункты меню под тёмную обложку) —
+   на светлой странице она не видна. Переключаем на обычную, как в блоге. */
+(function () {
+	var h = document.querySelector('header.transparent-menu');
+	if (h) { h.classList.remove('transparent-menu'); h.classList.add('regular-menu'); }
+})();
+</script>
 <div id="amt-blog" class="amt-cases-page">
 
 	<section class="amt-hero">
@@ -624,6 +632,12 @@ html:has(body.page-template-case),body.page-template-case{overflow-x:clip!import
 #amt-blog .amt-pagetext h2,#amt-blog .amt-pagetext h3{color:var(--amt-ink)}
 #amt-blog .amt-pagetext a{color:var(--amt-orange)}
 #amt-blog .amt-pagetext p:empty{display:none}
+/* Запасной вариант, если скрипт выше не сработал: шапка как .regular-menu */
+body.page-template-case header.transparent-menu .header_nav ul a,
+body.page-template-case header.transparent-menu .contact_header a{color:#313131}
+body.page-template-case header.transparent-menu .header_nav a:hover,
+body.page-template-case header.transparent-menu .contact_header a:hover{color:#ff7200!important}
+body.page-template-case header.transparent-menu .right_header path{fill:#313131}
 </style>
 
 <script>

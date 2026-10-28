@@ -10,3 +10,9 @@
 #amt-blog .amt-pagetext h2,#amt-blog .amt-pagetext h3{color:var(--amt-ink)}
 #amt-blog .amt-pagetext a{color:var(--amt-orange)}
 #amt-blog .amt-pagetext p:empty{display:none}
+/* Запасной вариант, если скрипт выше не сработал: шапка как .regular-menu */
+body.page-template-case header.transparent-menu .header_nav ul a,
+body.page-template-case header.transparent-menu .contact_header a{color:#313131}
+body.page-template-case header.transparent-menu .header_nav a:hover,
+body.page-template-case header.transparent-menu .contact_header a:hover{color:#ff7200!important}
+body.page-template-case header.transparent-menu .right_header path{fill:#313131}

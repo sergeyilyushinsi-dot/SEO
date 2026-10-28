@@ -274,6 +274,14 @@ if ( 'builder' !== get_post_meta( get_the_ID(), '_elementor_edit_mode', true ) )
 get_header();
 get_template_part( 'header-nav' ); // шапка сайта (логотип, меню) — как в news.php и старом case.php
 ?>
+<script>
+/* Для case.php тема выводит «прозрачную» шапку (белые пункты меню под тёмную обложку) —
+   на светлой странице она не видна. Переключаем на обычную, как в блоге. */
+(function () {
+	var h = document.querySelector('header.transparent-menu');
+	if (h) { h.classList.remove('transparent-menu'); h.classList.add('regular-menu'); }
+})();
+</script>
 <div id="amt-blog" class="amt-cases-page">
 
 	<section class="amt-hero">
