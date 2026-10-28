@@ -79,7 +79,15 @@
   "slug": "3d-skanirovanie-audi-q7-dlya-novogo-obvesa",
   "status": "draft",
   "old": "https://xn--h1akeh.xn--p1ai/keysy/",
-  "yt": "3D-сканирование кузова AUDI Q7 для нового обвеса за 4 часа | AM.TECH"
+  "yt": "3D-сканирование кузова AUDI Q7 для нового обвеса за 4 часа | AM.TECH",
+  "media": [
+   4499,
+   4500,
+   4501,
+   4502,
+   4503
+  ],
+  "featured_media": 4499
  },
  {
   "spin_id": "805",
@@ -95,7 +103,17 @@
   "slug": "3d-skanirovanie-gbts-golovki-bloka-tsilindra-ferrari",
   "status": "draft",
   "old": "https://xn--h1akeh.xn--p1ai/keysy/",
-  "yt": "3D-сканирование ГБЦ Ferrari с точностью 20 мкм | AM.TECH"
+  "yt": "3D-сканирование ГБЦ Ferrari с точностью 20 мкм | AM.TECH",
+  "media": [
+   4504,
+   4505,
+   4506,
+   4507,
+   4508,
+   4509
+  ],
+  "featured_media": 4505,
+  "note": "фото с водяным знаком СПИН не использованы"
  },
  {
   "spin_id": "885",
@@ -112,5 +130,20 @@
   "status": "draft",
   "old": "https://xn--h1akeh.xn--p1ai/keysy/",
   "yt": "3D-сканирование и реверс-инжиниринг спутниковой антенны | AM.TECH"
+ },
+ {
+  "spin_id": "961",
+  "id": 4510,
+  "slug": "3d-skanirovanie-i-3d-modelirovanie-reshetki-lamborghini-murcielago",
+  "status": "draft",
+  "media": [
+   4511,
+   4512,
+   4513,
+   4514,
+   4515
+  ],
+  "featured_media": 4512,
+  "yt": "3D-сканирование и модель решётки Lamborghini Murcielago | AM.TECH"
  }
 ]
