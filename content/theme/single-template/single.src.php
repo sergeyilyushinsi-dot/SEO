@@ -4,7 +4,7 @@
  * Один и тот же файл ставится как single-news.php и single-cases.php.
  *
  * Сохранено из старых шаблонов: шапка сайта (header-nav), крошки Yoast, автор, главное фото
- * (get_news_main_image), «Популярное» (random_news), «Оборудование по теме» (ACF «товары_в_этой_записи»),
+ * (миниатюра записи), «Популярное» (random_news), «Оборудование по теме» (ACF «товары_в_этой_записи»),
  * форма связи (Elementor-шаблон 3699).
  * Новое: содержание по H2, блок цифр для кейса, «Читайте также» / «Похожие кейсы», разметка Article.
  * Если в поле ACF ничего нет, «Оборудование по теме» собирается из ссылок на товары в тексте записи.
@@ -197,10 +197,9 @@ if ( have_posts() ) :
 		}
 		$amt_products = amt_single_products( $amt_id, $amt_html );
 
-		$amt_img = function_exists( 'get_news_main_image' ) ? get_news_main_image() : '';
-		if ( ! $amt_img ) {
-			$amt_img = get_the_post_thumbnail_url( $amt_id, 'large' );
-		}
+		/* Только своё изображение записи. get_news_main_image() темы подставляет одну и ту же картинку
+		   во все новости, поэтому не используется. Нет изображения — шапка без фото. */
+		$amt_img = get_the_post_thumbnail_url( $amt_id, 'large' );
 
 		$amt_author_id   = (int) get_the_author_meta( 'ID' );
 		$amt_author_desc = get_the_author_meta( 'description' );
