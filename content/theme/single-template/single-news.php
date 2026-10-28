@@ -557,8 +557,8 @@ endif;
 #amt-blog .amt-contacts{margin-top:28px;display:flex;gap:26px;flex-wrap:wrap;color:#aaa;font-size:14px}
 
 /* Full-bleed для страницы Блог (post 1733) */
-body.single-news #amt-blog,body.single-cases #amt-blog{width:100vw!important;max-width:100vw!important;margin-left:calc(50% - 50vw)!important;margin-right:calc(50% - 50vw)!important}
-html:has(body.single-news),html:has(body.single-cases),body.single-news,body.single-cases{overflow-x:clip!important;max-width:none!important}
+body.single-news #amt-blog,body.single-cases #amt-blog,body.single-video_reviews #amt-blog{width:100vw!important;max-width:100vw!important;margin-left:calc(50% - 50vw)!important;margin-right:calc(50% - 50vw)!important}
+html:has(body.single-news),html:has(body.single-cases),html:has(body.single-video_reviews),body.single-news,body.single-cases,body.single-video_reviews{overflow-x:clip!important;max-width:none!important}
 
 @media(max-width:1100px){
   #amt-blog .amt-hero__grid,#amt-blog .amt-featured,#amt-blog .amt-case,#amt-blog .amt-videos,#amt-blog .amt-cta__grid{grid-template-columns:1fr}
@@ -710,6 +710,8 @@ html:has(body.single-news),html:has(body.single-cases),body.single-news,body.sin
   #amt-blog .amt-fact{padding:14px 14px}
   #amt-blog .amt-inline-cta .amt-button{width:100%;justify-content:center}
 }
+/* Шапка сайта фиксированная: отступ сверху как в блоге (у видеообзоров тема его обнуляет) */
+body.single-news,body.single-cases,body.single-video_reviews{padding-top:12vh!important}
 </style>
 <?php
 get_footer();

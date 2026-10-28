@@ -119,3 +119,5 @@
   #amt-blog .amt-fact{padding:14px 14px}
   #amt-blog .amt-inline-cta .amt-button{width:100%;justify-content:center}
 }
+/* Шапка сайта фиксированная: отступ сверху как в блоге (у видеообзоров тема его обнуляет) */
+body.single-news,body.single-cases,body.single-video_reviews{padding-top:12vh!important}
