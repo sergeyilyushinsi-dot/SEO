@@ -1,6 +1,6 @@
 <?php
 /**
- * Template Name: Кейсы (дизайн блога)
+ * Template Name: Кейсы
  *
  * Страница /teknologii/ (page 1731): кейсы AM.TECH в дизайне страницы «Блог» (news.php).
  * Кейсы выводятся из типа записей `cases`, вкладки — термины `case_category`.
@@ -272,6 +272,7 @@ if ( 'builder' !== get_post_meta( get_the_ID(), '_elementor_edit_mode', true ) )
 }
 
 get_header();
+get_template_part( 'header-nav' ); // шапка сайта (логотип, меню) — как в news.php и старом case.php
 ?>
 <div id="amt-blog" class="amt-cases-page">
 
