@@ -1,0 +1,693 @@
+[
+ {
+  "id": "1094",
+  "name": "3D-сканирование стула и создание STEP-модели",
+  "code": "3d-skanirovanie-stula-step-model",
+  "words": 432,
+  "imgs": [
+   "cases_export2_files/iblock/de0/euhczqz9793fm25510uqnss02dvpcba3.png"
+  ],
+  "det_imgs": [
+   "/upload/medialibrary/9bc/l4x8kxmm0ou1wnlt9zo85aca4axkq1ip.png",
+   "/upload/medialibrary/a32/eeoexjybhk34h6sa4g3u207a58iajghu.png",
+   "/upload/medialibrary/5af/wi8o31noo5z08v5lzfzl73a0b2wtypx5.png",
+   "/upload/medialibrary/c51/5ljd8e8zjh0dz3xyor6zzyge6p1b11hx.png"
+  ],
+  "video": false
+ },
+ {
+  "id": "1063",
+  "name": "Реверс-инжиниринг и 3D-печать сломанной пластиковой детали для строительной компании",
+  "code": "revers-inzhiniring-i-3d-pechat-slomannoy-plastikovoy-detali-dlya-stroitelnoy-kompanii",
+  "words": 379,
+  "imgs": [
+   "cases_export2_files/iblock/23d/rh0wd03ukuemo8m31oim54xbj7q5014i.jpg",
+   "cases_export2_files/iblock/9e5/pyhl22kl9s00mylb8e2nvvg5i5rsgc5b.jpg"
+  ],
+  "det_imgs": [
+   "/upload/medialibrary/706/617w2xg1rwbm8zmbrver96zne9xlqdrz.jpeg",
+   "/upload/medialibrary/218/x446vug5qj5d2i4w1eo16wd3awoevdvi.jpeg",
+   "/upload/medialibrary/21e/iz4tcrq1ftfjf0o4da8k64b634ri4as1.jpeg",
+   "/upload/medialibrary/d32/qsl2lj07up158ov4415oumf0qb56vge7.jpeg",
+   "/upload/medialibrary/cb6/dzahmyt5553gwtd74kmy2tld5c4br3ir.jpg",
+   "/upload/medialibrary/375/xu46fs8bqk1bgp8gi0bglbbpmk1f0zuh.jpg",
+   "/upload/medialibrary/0e6/ne8ethabwzauggt13xm2jb714mx7rm42.jpg",
+   "/upload/medialibrary/daa/0xhp2c6tasvxgksenvlnr0de94zzylbr.jpg",
+   "/upload/medialibrary/4ff/w4kh6d5uejrzts4om5y0b7q71g0rc1p6.jpg",
+   "/upload/medialibrary/d4d/8rw92xz22p44cnwzqqj6e42thsq01wlj.jpg",
+   "/upload/medialibrary/ec3/mvfzwgvbehzxjlhdqu7fqenjbdu5wj6s.jpg",
+   "/upload/medialibrary/6e0/f6uuj9dknezbdfwxlcwff16s19ilsza2.jpg",
+   "/upload/medialibrary/fc5/f7lzw8acee21bd898euxw2j3lnnkiq90.jpg"
+  ],
+  "video": false
+ },
+ {
+  "id": "964",
+  "name": "3D Сканирование крышки для изменения положения отверстий",
+  "code": "3d-skanirovanie-kryshki-dlya-izmeneniya-polozheniya-otverstiy-tochnyy-revers-inzhiniring-i-modelirov",
+  "words": 378,
+  "imgs": [
+   "cases_export2_files/iblock/6c0/3livpbj73bwn1fzogj5fg7fq0ec0va7f.jpg",
+   "cases_export2_files/iblock/c3f/e16y22z6so7ov19guyqgc94ipc4ypeyw.jpg",
+   "cases_export2_files/iblock/6d2/waw734br49op260ijk4i5ucj60h0t1c8.jpg",
+   "cases_export2_files/iblock/e50/y70x8zlhqzt6crxzob1ccgfdps29ki1u.jpg",
+   "cases_export2_files/iblock/f45/t5micvwyk0qjcz0xe7crd4cfdfo54i6d.jpg"
+  ],
+  "det_imgs": [],
+  "video": true
+ },
+ {
+  "id": "1095",
+  "name": "Реверс-инжиниринг формирующего барабана: из сборного узла в цельную деталь",
+  "code": "revers-inzhiniring-formiruyushchego-barabana-iz-sbornogo-uzla-v-tselnuyu-detal",
+  "words": 271,
+  "imgs": [
+   "cases_export2_files/iblock/e41/9se03ur5b87kwqpvy5123nopbi02bycr.png"
+  ],
+  "det_imgs": [
+   "/upload/medialibrary/b84/ltr9993mw341evftur3v048vm2s17j6z.jpg",
+   "/upload/medialibrary/b88/hpk9upr0gn2olmsz58siy0mgdj2xd2bc.jpg",
+   "/upload/medialibrary/a82/rhuho58j8qf3lg07q6u0mdzkd3u2bv8u.jpg",
+   "/upload/medialibrary/e35/p02fqep40ezr8h2ybt1et7l3wnti3d2p.png",
+   "/upload/medialibrary/afc/u806hqwm47268baf4435hgm3hzk158zd.jpg",
+   "/upload/medialibrary/7db/jqi9at6yo2m5ks6q45v9u9sefwyqnxo8.jpg",
+   "/upload/medialibrary/0db/vaksctjb3jz644fzzvqs7fdjdd4cj27p.jpg",
+   "/upload/medialibrary/0f0/70xr7so1jwvcxqet43ekr1thtejy10b8.png",
+   "/upload/medialibrary/19e/tquaahzzv6pkkt44okyiffl2bfurt0op.png"
+  ],
+  "video": false
+ },
+ {
+  "id": "841",
+  "name": "Реверс-инжиниринг режущей кромки ковша экскаватора",
+  "code": "revers-inzhiniring-rezhushchey-kromki-kovsha-ekskavatora",
+  "words": 235,
+  "imgs": [
+   "cases_export2_files/iblock/aee/tlr0pnhn2b8cq28caj1yt6yc961mj8x9.jpg",
+   "cases_export2_files/iblock/d32/mjgx1y68ty2z7b0az7zrh9qlsn7aqtpj.jpg",
+   "cases_export2_files/iblock/3a3/uslayqi1jepj6zgccgx3tdsaui2rx4al.jpg",
+   "cases_export2_files/iblock/35f/6s9u2qihk9oil40ujzbusq2vfmecy1or.jpg",
+   "cases_export2_files/iblock/f40/f93vmiwpn37tvop3imikt72ryql22wob.jpg",
+   "cases_export2_files/iblock/7c8/ypbnha276pdmb391wtkmlaa30ibodhsj.jpg",
+   "cases_export2_files/iblock/344/tp4qoa8pgi7jkvxksujyu3hnviob3unq.jpg",
+   "cases_export2_files/iblock/6e4/as2bjh5t6d3yfzoiq4r25rk5xj3yobxh.jpg",
+   "cases_export2_files/iblock/a79/ivhb51ki3io1cunwldhzilu0sgtere9b.jpg",
+   "cases_export2_files/iblock/93e/4opy5amakipyhzu1v2r0sfky2n1qdrtf.jpg",
+   "cases_export2_files/iblock/e1e/8mx4ue4tmzwof31ukkno0vw7qbbco7ch.jpg",
+   "cases_export2_files/iblock/fc6/0rijywx0vvqcsm2upkd5h6eh2xmqxkws.jpg",
+   "cases_export2_files/iblock/042/vmvtrsp5kxh7ksazlwjj26krtog2576p.jpg"
+  ],
+  "det_imgs": [],
+  "video": true
+ },
+ {
+  "id": "960",
+  "name": "3D-сканирование AUDI Q7 для нового обвеса",
+  "code": "3d-skanirovanie-audi-q7-dlya-novogo-obvesa",
+  "words": 182,
+  "imgs": [
+   "cases_export2_files/iblock/a37/icrk63eh53bh7dfvrk2kq1ajb2gye84a.jpg",
+   "cases_export2_files/iblock/980/badrvh5ccbnq92ej94hwomrns7ayolpj.jpg",
+   "cases_export2_files/iblock/2b0/ap1xcbvvujciktnusjadmtu759g4mjvj.jpg",
+   "cases_export2_files/iblock/f24/67kypcsy21q060sjae3umgzhximzelo9.jpg",
+   "cases_export2_files/iblock/f5e/wr279jvitf342vkg0bdcmi450i16c4ko.jpg"
+  ],
+  "det_imgs": [],
+  "video": true
+ },
+ {
+  "id": "930",
+  "name": "3D-сканирование заднего бампера BMW для создания нового обвеса",
+  "code": "3d-skanirovanie-zadnego-bampera-bmw-dlya-sozdaniya-novogo-obvesa",
+  "words": 157,
+  "imgs": [
+   "cases_export2_files/iblock/bfb/uuikga2yzj5lir7l83jw5av8485gpt0c.jpg",
+   "cases_export2_files/iblock/26b/xk3wcxugj2zckw1hgx814bg50wbn1q0c.jpg",
+   "cases_export2_files/iblock/f99/us0p2mne4z1vehdyrfyfr4rkgfe914w6.jpg"
+  ],
+  "det_imgs": [],
+  "video": true
+ },
+ {
+  "id": "929",
+  "name": "3D-сканирование накладки заднего бампера Porsche 911 для создания нового обвеса",
+  "code": "3d-skanirovanie-nakladki-zadnego-bampera-porsche-911-dlya-sozdaniya-novogo-obvesa",
+  "words": 148,
+  "imgs": [
+   "cases_export2_files/iblock/eb4/ds5d7hs0ws4ss8x281owyrguuo6dmtrf.jpg",
+   "cases_export2_files/iblock/fdb/fktl0i2uvpho2258ipj7pzgoqqzp55aj.jpg",
+   "cases_export2_files/iblock/3b3/v7u5obsjqtelf7tn4mx8lj4uuer7jf3v.jpg",
+   "cases_export2_files/iblock/d0d/00a7j5a4g95m3bv5yy84h8kc3cpmrjp4.jpg",
+   "cases_export2_files/iblock/e9d/8ts839uus1muqlt32ocdzm178z0y8o2n.jpg"
+  ],
+  "det_imgs": [],
+  "video": true
+ },
+ {
+  "id": "805",
+  "name": "Реверс-инжиниринг редуктора",
+  "code": "revers-inzhiniring-reduktora",
+  "words": 128,
+  "imgs": [
+   "cases_export2_files/iblock/dba/endks400sit63ck55nswi2y3wz1xep78.jpg",
+   "cases_export2_files/iblock/8fc/lt6px375chspfpf9ux3iidbf1b42v1gt.jpg",
+   "cases_export2_files/iblock/a3b/ebyn2bd1s4jwks6dgfodgqq2syaw9lk6.jpg",
+   "cases_export2_files/iblock/432/9ckexbqxsnv97y340lpkqb5egqdq13ne.jpg",
+   "cases_export2_files/iblock/2bf/kw31hdzckqalkcet8h30vudbgolbc885.jpg"
+  ],
+  "det_imgs": [
+   "/upload/medialibrary/5c5/k9g05dx44u8ozyw2699v1f6qsvbnrwb5.jpg"
+  ],
+  "video": false
+ },
+ {
+  "id": "910",
+  "name": "3D-сканирование ГБЦ (головки блока цилиндра) Ferrari",
+  "code": "3d-skanirovanie-gbts-golovki-bloka-tsilindra-ferrari",
+  "words": 111,
+  "imgs": [
+   "cases_export2_files/iblock/aca/g2yc6wniep31awldzk5kmx5k4dxzd5q1.jpg",
+   "cases_export2_files/iblock/254/0sdo8x1dl5js3j98ov4d56mcgdwegnsy.jpg",
+   "cases_export2_files/iblock/d52/zkm4ivasagfy6tcdfwir5gn7dzfgld8t.jpg",
+   "cases_export2_files/iblock/9f4/h8pqfif3qrw8lr3g6s023p9kebmi6qn4.jpg",
+   "cases_export2_files/iblock/655/tj9lb5p5twh2jjzui859d1coj9ljba07.jpg",
+   "cases_export2_files/iblock/a53/long5w4k1xhsuzr727mcsmm79p9u3ds6.jpg",
+   "cases_export2_files/iblock/963/hr1sfndvptyl0e7d2kzqxempag3s9e6s.jpg",
+   "cases_export2_files/iblock/997/w1i9obx48j638b1uecdx82adtg1mqjb5.jpg",
+   "cases_export2_files/iblock/575/01lptyabmrczxfozmbvk35p0v9enofrj.jpg",
+   "cases_export2_files/iblock/946/dsd5desqz0facdjopn19h8hfken4a8fn.jpg",
+   "cases_export2_files/iblock/2c6/3wjlaxqdz7z2i1qhahh4lec2m965tqoh.jpg"
+  ],
+  "det_imgs": [
+   "/upload/medialibrary/c38/i060dgsmn1hzkg95x62eb424kzti05t8.jpg"
+  ],
+  "video": true
+ },
+ {
+  "id": "480",
+  "name": "3D-сканирование Ferrari 599 GTO под дальнейший тюнинг",
+  "code": "3d-skanirovanie-ferrari-599-gto-pod-dalneyshiy-tyuning",
+  "words": 94,
+  "imgs": [
+   "cases_export2_files/iblock/cf4/9l2rfrn4s6vri5k3xt73gyil93e4n2k5.jpg",
+   "cases_export2_files/iblock/502/4p4hcpcqwon2pmtwov6ax6hrg8ym1de6.jpg",
+   "cases_export2_files/iblock/f7d/m6ho400my01m7d62ejb3aqtbarpc1kam.jpg",
+   "cases_export2_files/iblock/d9a/1oxzwtzdhn22h1xdiyfv5kljt42r93wa.jpg",
+   "cases_export2_files/iblock/b64/ysy8pyrnkgugkiet15baxjghb882mjmd.jpg",
+   "cases_export2_files/iblock/065/ptaqpxhqfk7fozcsexo71f5o9cvs1i1f.jpg"
+  ],
+  "det_imgs": [
+   "/upload/medialibrary/5c5/k9g05dx44u8ozyw2699v1f6qsvbnrwb5.jpg",
+   "/upload/medialibrary/5c5/k9g05dx44u8ozyw2699v1f6qsvbnrwb5.jpg"
+  ],
+  "video": true
+ },
+ {
+  "id": "885",
+  "name": "Реверс-инжиниринг кожуха рулевой колонки для Lamborghini Murcielago",
+  "code": "revers-inzhiniring-kozhukha-rulevoy-kolonki-dlya-lamborghini-murcielago",
+  "words": 91,
+  "imgs": [
+   "cases_export2_files/iblock/9b1/03x8wrf2zewgd78m9wpd9k5cil3p689d.png",
+   "cases_export2_files/iblock/0b1/amtim03oizxktl3dy2qgr8xz6a4eavz5.jpg",
+   "cases_export2_files/iblock/d16/2ko1s6hcb8yy23g2gx3gns4qg9txl8vh.jpg",
+   "cases_export2_files/iblock/3fd/n2gj0ywdlx0a5rab9515e4724eb38u3q.jpg",
+   "cases_export2_files/iblock/145/ssksg6zobk4ratewkxpo38a2zdgyoyxn.jpg",
+   "cases_export2_files/iblock/14d/397nfan8bn2pfr1rbdzkeku3nia74648.jpg",
+   "cases_export2_files/iblock/306/k1d1cy0c9irvk84vcassky0xwubnkgs5.jpg",
+   "cases_export2_files/iblock/01f/ripclkqblvtl20ljs16xjos1cnfl3cmr.jpg",
+   "cases_export2_files/iblock/763/b8nsz0k9im8hxr572l52vhxxizb4fpoj.jpg"
+  ],
+  "det_imgs": [
+   "/upload/medialibrary/c8c/v2yk41cvrc2zqho8pwdo63yp1yucoutg.jpg",
+   "/upload/medialibrary/522/v1samfu0eifed78eblqwbufx8g24fjxt.jpg",
+   "/upload/medialibrary/fa0/k9f4nhznk4zc3thvckh4mj7y75wn9hd2.jpg"
+  ],
+  "video": true
+ },
+ {
+  "id": "486",
+  "name": "3D-cканирование и 3D-моделирование спутниковой антенны",
+  "code": "3d-ckanirovanie-i-3d-modelirovanie-sputnikovoy-antenny",
+  "words": 88,
+  "imgs": [
+   "cases_export2_files/iblock/904/rawo4g52silr3yashiatamlhzaaasjgu.jpg",
+   "cases_export2_files/iblock/ba3/rx9u4u2ep39m8d3j12jy9trmg66qvken.jpg",
+   "cases_export2_files/iblock/185/c4l437qzjdxcxc09l50a0lohxa2ejaq0.jpg",
+   "cases_export2_files/iblock/a0c/1ld8zb01nc2p8b5hks5t7e515u5cjsfw.jpg",
+   "cases_export2_files/iblock/7e2/8revf73q25ulsj6xp584ubp3ry7gw0g2.jpg",
+   "cases_export2_files/iblock/6c1/7n45q65bo3e9dixto5mcau3nvikzb4hw.jpg",
+   "cases_export2_files/iblock/115/351fh8guu787403d7p55oru0mm71de3r.jpg",
+   "cases_export2_files/iblock/ed8/4pkhm6c9nwn510d1udmeakhtz8di6en7.jpg"
+  ],
+  "det_imgs": [
+   "/upload/medialibrary/e6a/s92qu98nutuz4nevssq6ovsln4b4brps.jpg",
+   "/upload/medialibrary/e6a/s92qu98nutuz4nevssq6ovsln4b4brps.jpg"
+  ],
+  "video": true
+ },
+ {
+  "id": "483",
+  "name": "3D-сканирование мотора W12 от BMW",
+  "code": "3d-skanirovanie-motor-w12-ot-bmw",
+  "words": 72,
+  "imgs": [
+   "cases_export2_files/iblock/bb1/hbspuga9seqp20gvmcwfu5go592y6kvc.jpg",
+   "cases_export2_files/iblock/aa0/re3pz10py39anrkkx74wyls5uzsf8cyn.jpg",
+   "cases_export2_files/iblock/8d1/e2xcxtzrvxujahfhn2dgj7ta4wphjp1t.jpg",
+   "cases_export2_files/iblock/1a1/01h3e3dbb6ixiw2164jp5eyn1lsee7v0.jpg",
+   "cases_export2_files/iblock/965/9b2nh1o99so6mrxg5veut36bxcwoyegr.jpg",
+   "cases_export2_files/iblock/87c/vu0w7lwhz21r10krtx55m3m7prgmri6q.jpg"
+  ],
+  "det_imgs": [
+   "/upload/medialibrary/357/gaxd7bppcs1882boxcnze67nuyzm97mt.jpg",
+   "/upload/medialibrary/357/gaxd7bppcs1882boxcnze67nuyzm97mt.jpg",
+   "/upload/medialibrary/332/mj29k8ek6ghs31a5mmjt8j6j09me5e74.jpg",
+   "/upload/medialibrary/332/mj29k8ek6ghs31a5mmjt8j6j09me5e74.jpg",
+   "/upload/medialibrary/0b8/jxibpqta5k1hx4yppzb94c5nn9ud65qr.jpg",
+   "/upload/medialibrary/0b8/jxibpqta5k1hx4yppzb94c5nn9ud65qr.jpg",
+   "/upload/medialibrary/985/zyjn6grdr3y33is8ycd08xz5unruyktg.jpg",
+   "/upload/medialibrary/985/zyjn6grdr3y33is8ycd08xz5unruyktg.jpg",
+   "/upload/medialibrary/9d4/o1qyvzjzfr090l33hl0w6pcw9d2t1hhw.jpg",
+   "/upload/medialibrary/9d4/o1qyvzjzfr090l33hl0w6pcw9d2t1hhw.jpg"
+  ],
+  "video": false
+ },
+ {
+  "id": "892",
+  "name": "3D-моделирование дистрибьютера питания для акустической системы Honda NWG",
+  "code": "3d-modelirovanie-distribyutera-pitaniya-dlya-akusticheskoy-sistemy-honda-nwg",
+  "words": 71,
+  "imgs": [
+   "cases_export2_files/iblock/c48/d446c3sweu7mgr1l89d26das4rr56tal.jpg",
+   "cases_export2_files/iblock/d3b/m7a9sodckmbtfscke655pq3590n423tf.jpg",
+   "cases_export2_files/iblock/5f6/36h2cni5rx0ha56z21gu90ib7irolvp3.jpg",
+   "cases_export2_files/iblock/939/uovz5045i1tx64vladiotpxjgaqo1z8x.jpg",
+   "cases_export2_files/iblock/b11/da6kmejo6p85ea0wlbeetp137at4huoj.jpg",
+   "cases_export2_files/iblock/ddf/zgr1kp7v7l8umvbc0uhr3py68rl6bo4x.jpg",
+   "cases_export2_files/iblock/979/eqxrxhn5afptfjevqilnu7g69kegjxxq.jpg",
+   "cases_export2_files/iblock/afd/66mex91xcdmq0iz27sepho7d5rbettnv.jpg",
+   "cases_export2_files/iblock/a91/t2rrujad7pdp3oywu0ink1yypdpwdv44.jpg"
+  ],
+  "det_imgs": [
+   "/upload/medialibrary/70d/efzmums5d3z1uakifwcd4uyec351q2ea.jpg"
+  ],
+  "video": true
+ },
+ {
+  "id": "581",
+  "name": "3D-моделирование крепления для реле без нейтрали Aqara T1",
+  "code": "3d-modelirovanie-krepleniya-dlya-rele-bez-neytrali-aqara-t1",
+  "words": 63,
+  "imgs": [
+   "cases_export2_files/iblock/711/00kmz0r3uot5741ilzjadws8ehgqzmkw.jpg",
+   "cases_export2_files/iblock/165/020ch7n0xy0ay99ffs2ofi3fa580chl8.png",
+   "cases_export2_files/iblock/222/p7jp4dg1r9gw0622vxj0t72ht5xqin71.jpg",
+   "cases_export2_files/iblock/272/b8mp0d58n2ayff6unk32t9ie39maclyx.jpg",
+   "cases_export2_files/iblock/ad0/8pn7zm2kd2jp4b78cgrfgsnwlhhiovrz.jpg",
+   "cases_export2_files/iblock/b74/3wyj3lmnx6fvfwf26fxyyde9wf0756hm.jpg",
+   "cases_export2_files/iblock/b58/a7k5fcu39av0a6wnv36m84th2egdl4wd.jpg",
+   "cases_export2_files/iblock/512/bo2eum519wtf629r7cpued91hktq5n38.jpg",
+   "cases_export2_files/iblock/fdb/c6ic4v5nqiy1uwmrb0w5o0vk0jhw4fij.jpg",
+   "cases_export2_files/iblock/9c7/19e0k2zw6zfg627rq7getlbgk6130nn8.jpg",
+   "cases_export2_files/iblock/a21/qy5c1cz0ag6q16fug7rr2sxw9gq9kl0r.jpg",
+   "cases_export2_files/iblock/ced/zg97ybycf0bie1bgxwtn1twu1ow0hqmr.jpg"
+  ],
+  "det_imgs": [],
+  "video": true
+ },
+ {
+  "id": "484",
+  "name": "3D-сканирование глиняной скульптуры",
+  "code": "3d-skanirovanie-glinyanoy-skulptury",
+  "words": 60,
+  "imgs": [
+   "cases_export2_files/iblock/14b/9xfrfsf09lsfbuxcb82dm1peq3v02qfg.jpeg",
+   "cases_export2_files/medialibrary/30d/85mi938rt3fweg5tkdoxlt7cdxoo9jto.png",
+   "cases_export2_files/medialibrary/72f/fy87xqoxvm2muiw5rpkb44povtc0mbv2.jpeg",
+   "cases_export2_files/iblock/677/zwlniynyfr45r1k3cfrkba0m248ml9mu.jpg",
+   "cases_export2_files/iblock/7c5/4yxz9lv9ryekoo8zeii3p0y2j47pxpm9.jpg",
+   "cases_export2_files/iblock/ffd/6e39kj14aqdoxg43v2zl49knu0o76skc.jpg",
+   "cases_export2_files/medialibrary/b83/oab2nnh403ttr9b6yvspjpd1uweaqors.jpeg",
+   "cases_export2_files/iblock/321/4gzt87lg5n6ymyjgt18zupoykq0qwqsi.jpg",
+   "cases_export2_files/iblock/1ae/pbrctxfy3g4xh2bqezwil6zikbm6oys1.jpg",
+   "cases_export2_files/iblock/3bc/vtgf1jimqvzx0wmz7swuqu1xifbvvmye.jpg",
+   "cases_export2_files/iblock/691/nly6lp9wzsso8rrk42rxk7rnj3ft5gpu.jpg",
+   "cases_export2_files/iblock/15b/mwxszona0hs4ewaj7qejfr5urkecegkk.jpg",
+   "cases_export2_files/iblock/c65/jf8b0sijpwdra294m0rll0g7iou1bvgq.jpg",
+   "cases_export2_files/iblock/968/s0lyvcuxiison8fge393uil3qquu8onq.jpg"
+  ],
+  "det_imgs": [],
+  "video": false
+ },
+ {
+  "id": "482",
+  "name": "3D-сканирование и 3D-моделирование челнока для плетения мешков",
+  "code": "3d-skanirovanie-i-3d-modelirovanie-chelnoka-dlya-pleteniya-meshkov",
+  "words": 52,
+  "imgs": [
+   "cases_export2_files/iblock/ca8/tx1p7n6gycf5hfwdtou81k8r55sgic3d.jpg",
+   "cases_export2_files/iblock/386/htazqgrg95wfw6e3btx1xyvsvk1bdtk7.JPG",
+   "cases_export2_files/iblock/3eb/gjuv517rxhz97rmiwdi6lj01269rupq5.jpg",
+   "cases_export2_files/iblock/5cb/2j15r9gr9besoph4a99q6yqy71x2csw4.jpg",
+   "cases_export2_files/iblock/05c/ccat4iwf6ay3wjavh6iiiqp6gvu2m7o8.jpg",
+   "cases_export2_files/iblock/689/uo514cc2gnq4b7y6e8skznd7f7dk331h.jpg"
+  ],
+  "det_imgs": [
+   "/upload/medialibrary/021/efmky5uk27m20tphw6f8dw1k22579pip.jpg",
+   "/upload/medialibrary/021/efmky5uk27m20tphw6f8dw1k22579pip.jpg"
+  ],
+  "video": true
+ },
+ {
+  "id": "884",
+  "name": "Реверс-инжиниринг игрушки",
+  "code": "revers-inzhiniring-igrushki",
+  "words": 52,
+  "imgs": [
+   "cases_export2_files/iblock/250/i3vf0xznxo68dx0ewvy8vzrj4f11bojh.jpg",
+   "cases_export2_files/iblock/06c/dn4716jeb6s39ozhvv6puws9nmbhc5fc.jpg",
+   "cases_export2_files/iblock/5b5/189dn358ohbklh1hchz7oznthzdxo3ok.jpg",
+   "cases_export2_files/iblock/24a/0r1yt5qv4if09griwtrcf4yq2lfo0s3m.jpg",
+   "cases_export2_files/iblock/999/1favoa71bazvv5zetv48meujrdh2q311.jpg",
+   "cases_export2_files/iblock/ae7/ev4z0980bp2vysbefzg9yp0ia1dyn1l2.jpg",
+   "cases_export2_files/iblock/d0d/kquo41z404gfm16eiy6xctvhhs4wnqim.jpg",
+   "cases_export2_files/iblock/f4c/taipmz1e4mzllju5hxhnrpgl0b4vqlfk.jpg",
+   "cases_export2_files/iblock/a75/c52x1f5kdz66i310k6m2yr05h06q86ge.jpg",
+   "cases_export2_files/iblock/ff6/jjb7rj2bhmr9axbjk5cl57ot15segwyz.jpg",
+   "cases_export2_files/iblock/290/kvx3y0jsezx1nki0aul5d4gzucbeqvex.jpg"
+  ],
+  "det_imgs": [],
+  "video": true
+ },
+ {
+  "id": "961",
+  "name": "3D-сканирование и 3D-моделирование решетки Lamborghini Murcielago",
+  "code": "3d-skanirovanie-i-3d-modelirovanie-reshetki-lamborghini-murcielago",
+  "words": 52,
+  "imgs": [
+   "cases_export2_files/iblock/231/b8jcsn3kh70ahvajgwpgk7vwt8843y28.jpg",
+   "cases_export2_files/iblock/2d4/o0p22rcqgbwu53286lpx751f4f66lp3f.jpg",
+   "cases_export2_files/iblock/078/qcucwo212gxt9voz97npwiv0rsogie1m.jpg",
+   "cases_export2_files/iblock/7e6/24gbiykb76birr6x4ofjehjm4i8inn6v.jpg",
+   "cases_export2_files/iblock/6b1/t3q5q4orcbmse32xci47kvjhfswwx6ee.jpg"
+  ],
+  "det_imgs": [
+   "/upload/medialibrary/b36/vle4s8qcol1jd04ztahpv9l6fut252gw.jpg"
+  ],
+  "video": true
+ },
+ {
+  "id": "691",
+  "name": "3D-сканирование Lamborghini Murcielago под восстановление",
+  "code": "3d-skanirovanie-lamborghini-murcielago-pod-vosstanovlenie",
+  "words": 45,
+  "imgs": [
+   "cases_export2_files/iblock/28d/v8wmxos03yfj8pywel8wrh6w1lnh6uyx.jpg",
+   "cases_export2_files/iblock/6ac/g1l88496dk8ah0607i718i0yo81ah96a.jpg",
+   "cases_export2_files/iblock/cbe/nv0nqm1hl0yepnj7aoj26jndh0881rr9.jpg",
+   "cases_export2_files/iblock/28e/y4p8nynarmg75j66hmxppmq6vt8rljs4.jpg",
+   "cases_export2_files/iblock/8e7/l4f6lrglhrsebm61iifxnu4se781xrvo.jpg",
+   "cases_export2_files/iblock/388/soabri5kjdmzmhjw2ffz8xqcd340i2lv.jpg"
+  ],
+  "det_imgs": [
+   "/upload/medialibrary/aaf/djiuf6i6sm17mqp1c0qvhe3ok59mfk1s.jpg",
+   "/upload/medialibrary/aaf/djiuf6i6sm17mqp1c0qvhe3ok59mfk1s.jpg",
+   "/upload/medialibrary/b4b/7tfwt0vurq8kj2tqimqpyq0bsi1wcs5o.jpg"
+  ],
+  "video": true
+ },
+ {
+  "id": "509",
+  "name": "3D-моделирование газового датчика",
+  "code": "3d-modelirovanie-gazovogo-datchika",
+  "words": 43,
+  "imgs": [
+   "cases_export2_files/iblock/721/7bknl183uf3a1ylv6rbunu7f8dswrqkv.jpg",
+   "cases_export2_files/iblock/73e/ei35tjy9qm2342f20fedvufp6yd2atnm.jpg",
+   "cases_export2_files/iblock/90f/17zf1p5js8hjmtqk9d1i4gi3eh9wkyvl.jpg",
+   "cases_export2_files/iblock/3eb/ju03d1ev672tzaquyu9xwxi1kjexmqtz.jpg",
+   "cases_export2_files/iblock/62b/4u8ctaenv1kf2927w1zhnru9jkcql54n.jpg",
+   "cases_export2_files/iblock/c16/edpvv7pnidok2onquee2vhg9wh63o14y.jpg",
+   "cases_export2_files/iblock/523/yrg9pi52tzvz4bnjnrkakmzp0yz7e7w4.jpg",
+   "cases_export2_files/iblock/112/yp7asquyuo6n562yjf4ko3iqzfoexbt3.jpg",
+   "cases_export2_files/iblock/60e/q0bvmc75e2kjjxm1mxaxz6m43lkbc1nv.jpg",
+   "cases_export2_files/iblock/50e/gm1gzkh34n21b2h3lm8eekyekgqului3.jpg",
+   "cases_export2_files/iblock/254/rw8akwlzxdknt9kig5yk4iju4xil0xe1.jpg",
+   "cases_export2_files/iblock/49b/b4hu61gyv7nf0qnjsodlumkh9rep6pxm.jpg",
+   "cases_export2_files/iblock/c61/8ygy6njkfbswq0zftasfw1pdlka8w1wm.jpg"
+  ],
+  "det_imgs": [
+   "/upload/medialibrary/f9d/uy3dvxnqsgcbdhb6am3zgdwpui0vqpi3.jpg",
+   "/upload/medialibrary/f9d/uy3dvxnqsgcbdhb6am3zgdwpui0vqpi3.jpg"
+  ],
+  "video": true
+ },
+ {
+  "id": "700",
+  "name": "3D-сканирование речного трамвайчика Серебрянка",
+  "code": "3d-skanirovanie-rechnogo-tramvaychika-serebryanka",
+  "words": 41,
+  "imgs": [
+   "cases_export2_files/iblock/8fc/qf7rwwd4fawsiaw0aiy4917ycg3kd2eg.JPG",
+   "cases_export2_files/iblock/cfb/jflnk5xalskr4zhwl9y8fvu11ggsh44w.jpg",
+   "cases_export2_files/iblock/435/ke6f2ebybfdygmvh4ypu687o318tx0au.jpg",
+   "cases_export2_files/iblock/fb5/kidy9sfvxsbn3tmspv18ayxqulekldrn.jpg",
+   "cases_export2_files/iblock/cbe/gol54iwh6t9do1ptgm3cm243c1kowuhr.jpg",
+   "cases_export2_files/iblock/5a2/99zgegr5rvz620m6okqrriha2s5bdf1t.jpg",
+   "cases_export2_files/iblock/3d5/od498k3q9a7zuhtiqcxrj7ciitkrl5ef.jpg",
+   "cases_export2_files/iblock/32a/3dostlfx3xq1u1ast1l6jargy2hp8pda.jpg",
+   "cases_export2_files/iblock/dc9/8700gmg8e6f9rmku40fwt3qb22vg8l5s.jpg",
+   "cases_export2_files/iblock/12f/lltgaw75ykvm4mtr2cxtc3du0a15wdr7.jpg",
+   "cases_export2_files/iblock/d69/73kldlmhoe5h8xdqjt4u0kbcix3ak8u2.jpg",
+   "cases_export2_files/iblock/f6f/5ci75bao2j8sk0mqb06k6km9bt6vyavc.jpg",
+   "cases_export2_files/iblock/abe/oye8xmpjw68koy36zrh46eccd5s4sqb6.jpg"
+  ],
+  "det_imgs": [
+   "/upload/medialibrary/5c5/k9g05dx44u8ozyw2699v1f6qsvbnrwb5.jpg"
+  ],
+  "video": true
+ },
+ {
+  "id": "517",
+  "name": "3D-сканирование и 3D-моделирование опоры цилиндра",
+  "code": "3d-skanirovanie-i-3d-modelirovanie-opory-tsilindra",
+  "words": 37,
+  "imgs": [
+   "cases_export2_files/iblock/2a9/grbau01z0qv1sqyp5uxxug1dmx4nmvdf.jpg",
+   "cases_export2_files/medialibrary/e89/vj77jmvidxgbjwleosxxrig8n44rfjkc.jpg",
+   "cases_export2_files/iblock/c06/9pfcij2b7r6444boeuibk9g7de9wdhyu.jpg",
+   "cases_export2_files/iblock/06d/y3uarvisol9at3zmg0ts963hlwxqlvg8.jpg",
+   "cases_export2_files/iblock/c97/a9b4w8tof14kidat1v8gacnqice9bxfi.jpg",
+   "cases_export2_files/iblock/2d0/7unmtm2w6w1zhk15qbf42ajcxc4cicsq.jpg"
+  ],
+  "det_imgs": [
+   "/upload/medialibrary/a88/jfrk9btqo5m8w11d2a81c3qsl9cglqn3.jpg",
+   "/upload/medialibrary/a88/jfrk9btqo5m8w11d2a81c3qsl9cglqn3.jpg"
+  ],
+  "video": true
+ },
+ {
+  "id": "593",
+  "name": "3D-сканирование комода с зеркалом",
+  "code": "3d-skanirovanie-komoda-s-zerkalom",
+  "words": 33,
+  "imgs": [
+   "cases_export2_files/iblock/98f/l11mjgt011c13q31eg0mw04zfixscf4k.jpg",
+   "cases_export2_files/iblock/b1b/7pvlp92g45xv0nduy203uuhcl4npy88h.jpg",
+   "cases_export2_files/iblock/361/z8zdgka5jgee56g891hhstw7anlr7ufc.jpg",
+   "cases_export2_files/iblock/f76/hm1mnwignfw3x7e3fwnke6drjm3urms9.jpg",
+   "cases_export2_files/iblock/c75/ancxle9kbqirmgn7uzlnmnvovkjeez03.jpg",
+   "cases_export2_files/iblock/1e1/ibes102sdsi3nslw1qubf5eskxd6m078.jpg",
+   "cases_export2_files/iblock/58a/5uf8pe801rjvz8hm0f6x4qatzf10i89k.jpg",
+   "cases_export2_files/iblock/051/o7wsbqiet9yhqo06xxtvq3nas7f2lt4x.jpg",
+   "cases_export2_files/iblock/46a/u0i54kazk2cckxqxrlo2c665g98c7u3j.jpg",
+   "cases_export2_files/iblock/831/wkes6wxd6uhcpxnahsx9mrwfqtkcv4sq.jpg",
+   "cases_export2_files/iblock/135/c1zn87wh0htuqpwdeeqd1a8qj0x148ir.jpg",
+   "cases_export2_files/iblock/fc1/yazrmpzlnsnhozk1hqaa3znj7ikvueqz.jpg",
+   "cases_export2_files/iblock/c3b/iq0j41fc6jvfysrligref0p5zpp9hs0k.jpg",
+   "cases_export2_files/iblock/873/rc6ybk5pn3p013ktv9vzzwsmeondj5oo.jpg",
+   "cases_export2_files/iblock/696/wpte3wtbd67mtsq3uuhakabu2ngj29uz.jpg",
+   "cases_export2_files/iblock/c83/r86tp2fr6lu5ylrufw3svfz3h3wtijci.jpg"
+  ],
+  "det_imgs": [
+   "/upload/medialibrary/17c/wek62e4drykwivgx0fov8mth810ui20d.jpg",
+   "/upload/medialibrary/17c/wek62e4drykwivgx0fov8mth810ui20d.jpg"
+  ],
+  "video": false
+ },
+ {
+  "id": "481",
+  "name": "3D-сканирование лошади из глины для фонтанного проекта",
+  "code": "3d-skanirovanie-loshadi-iz-gliny-dlya-fontannogo-proekta",
+  "words": 30,
+  "imgs": [
+   "cases_export2_files/iblock/e50/ib14dvdql17f14z2k7emh82ggqjp7gtl.jpg",
+   "cases_export2_files/iblock/f90/126vqb9b8g0f7usi2i9dl8tdmhtqbggz.jpg",
+   "cases_export2_files/iblock/e80/228upf86qvm8fmmk4ymw3f75ih91ezlw.jpg",
+   "cases_export2_files/iblock/922/y7zweyifz2xp4i0tsysn9dqum4drbobb.jpg",
+   "cases_export2_files/iblock/8d3/sc20xdwgp3d9c9xr575e64w1sz6iwjfi.jpg",
+   "cases_export2_files/iblock/161/mcu9u1o970g8t80kj46xhtqbmx4ap39f.jpg"
+  ],
+  "det_imgs": [
+   "/upload/medialibrary/b59/96s52f4s8t1kbu6z4chj40n0lbktzyzk.jpg",
+   "/upload/medialibrary/b59/96s52f4s8t1kbu6z4chj40n0lbktzyzk.jpg"
+  ],
+  "video": false
+ },
+ {
+  "id": "703",
+  "name": "3D-сканирование корпуса уплотнения для горнодобывающего оборудования",
+  "code": "3d-skanirovanie-korpusa-uplotneniya-dlya-gornodobyvayushchego-oborudovaniya",
+  "words": 30,
+  "imgs": [
+   "cases_export2_files/iblock/34f/1774vgmlw0vk62co5w51cz411avw6tap.jpg",
+   "cases_export2_files/iblock/04f/xuvet2twyv2tqtpat4qnoqrqf7xfpx6r.jpg",
+   "cases_export2_files/iblock/9eb/tv0lb9p2yyrmdowcr2fyf8cmla6hto1d.jpg"
+  ],
+  "det_imgs": [
+   "/upload/medialibrary/5c5/k9g05dx44u8ozyw2699v1f6qsvbnrwb5.jpg"
+  ],
+  "video": true
+ },
+ {
+  "id": "557",
+  "name": "Печать и контроль геометрии керамического изолятора",
+  "code": "pechat-i-kontrol-geometrii-keramicheskogo-izolyatora",
+  "words": 29,
+  "imgs": [
+   "cases_export2_files/iblock/30a/avu3vtxme61wso9zhogvxsgzylhdlrm0.jpg",
+   "cases_export2_files/iblock/5cd/2pn9qy9s35mhqcqgznb0zpcxndnc9z77.jpg",
+   "cases_export2_files/iblock/af1/kvru4l0h6bu0m9go45r3tpv0nigympyj.jpg",
+   "cases_export2_files/iblock/4f5/nptg1c227ovx4j52mnkqo05syzs7j91g.jpg",
+   "cases_export2_files/iblock/860/1pzejwkqbbcspzzio5w4uxi0q4v449yx.jpg",
+   "cases_export2_files/iblock/78e/h9951mpfapzey9yrmvfz3y25vwx30q1d.jpg",
+   "cases_export2_files/iblock/a79/8po9a6y5p1kf9ud274j4nsojzxn5tba8.jpg",
+   "cases_export2_files/iblock/e49/lic8c17hkfcxshp5avg5s2ryx3d909cx.jpg",
+   "cases_export2_files/iblock/3af/c21v8yqonfbj9cgy5jdg4fh801unhkd1.jpg",
+   "cases_export2_files/iblock/655/kdktlribj2v0ir59t730jayizyd472bn.jpg",
+   "cases_export2_files/iblock/0da/4n1e841uo7qk82wyzss7x0kx8u7l91t1.jpg"
+  ],
+  "det_imgs": [
+   "/upload/medialibrary/ac7/akg0avn5vd005dswbm19cb23ij5eub5k.jpg",
+   "/upload/medialibrary/ac7/akg0avn5vd005dswbm19cb23ij5eub5k.jpg",
+   "/upload/medialibrary/330/ki9to8b2vk41jzo2t894oelojpxjmdw5.jpg",
+   "/upload/medialibrary/330/ki9to8b2vk41jzo2t894oelojpxjmdw5.jpg"
+  ],
+  "video": false
+ },
+ {
+  "id": "702",
+  "name": "3D-сканирование траверсы для горнодобывающего оборудования",
+  "code": "3d-skanirovanie-traversy-dlya-gornodobyvayushchego-oborudovaniya",
+  "words": 29,
+  "imgs": [
+   "cases_export2_files/iblock/e6b/v7ak23bh6sfi225abpkcukganolgohu8.jpg",
+   "cases_export2_files/iblock/59a/iduhm6v1m0uwxy1lbuks5mehckgyrfrm.jpg",
+   "cases_export2_files/iblock/97e/y6xp2pgf0jsgzzsu3fif1uqzz1n3dn5d.jpg",
+   "cases_export2_files/iblock/824/lan8pg0lcrewoivlp8m93m2gwxwytvdr.jpg",
+   "cases_export2_files/iblock/e03/8orb8i5713w0tzg6zp8o3f8ap2hggi2k.jpg",
+   "cases_export2_files/iblock/8b0/igy098hawypjji7kvx7w24k3o8i6155i.jpg",
+   "cases_export2_files/iblock/8d8/kop3jg5xhpbhg4ow4473l5x8eaf6xbcl.jpg",
+   "cases_export2_files/iblock/f06/bhzm0idwcgwqyqes0z91pmz0v973af6n.jpg"
+  ],
+  "det_imgs": [
+   "/upload/medialibrary/5c5/k9g05dx44u8ozyw2699v1f6qsvbnrwb5.jpg"
+  ],
+  "video": true
+ },
+ {
+  "id": "701",
+  "name": "3D-сканирование станины для для горнодобывающего оборудования",
+  "code": "3d-skanirovanie-staniny-dlya-dlya-gornodobyvayushchego-oborudovaniya",
+  "words": 27,
+  "imgs": [
+   "cases_export2_files/iblock/504/tx0cb1smnu0ky5r6coikzw030s87dvqw.jpg",
+   "cases_export2_files/iblock/3b6/0k4jsz3xx72y6lhf1be1gi0stcmhupvr.jpg",
+   "cases_export2_files/iblock/461/5ewrir6wgaijb2ttj3qxspnxnemk2z85.jpg",
+   "cases_export2_files/iblock/986/910rrmdmlwisvsyj1xj8j8mcg94blnfw.jpg",
+   "cases_export2_files/iblock/a5b/78us6sipq55gf7aoki6m94znls34fc1z.jpg"
+  ],
+  "det_imgs": [
+   "/upload/medialibrary/5c5/k9g05dx44u8ozyw2699v1f6qsvbnrwb5.jpg"
+  ],
+  "video": true
+ },
+ {
+  "id": "596",
+  "name": "3D-сканирование и 3D-моделирование панелей",
+  "code": "3d-skanirovanie-i-3d-modelirovanie-paneley",
+  "words": 26,
+  "imgs": [
+   "cases_export2_files/iblock/cfe/zx6inhmvkhapxtnq1t1u832ycpqp2n1y.png",
+   "cases_export2_files/iblock/b9e/aoaxz6e8o8jxr796euov6ihcy1d2icky.png",
+   "cases_export2_files/iblock/904/shl91ol6ac6qun19dcvpzrybla3hjonc.jpg",
+   "cases_export2_files/iblock/585/0wuf6cu85mcn8tjv09lzog2mfgwvif5b.jpg",
+   "cases_export2_files/iblock/d15/aifbtl6lgvy1641b610zvloxg0drwyov.jpg",
+   "cases_export2_files/iblock/037/4p0xjjbibboxy9viwvlfq7buut39bk00.jpg",
+   "cases_export2_files/iblock/ea4/xqsl58jimr7w7czlorjlcp0oi0a2gas5.jpg",
+   "cases_export2_files/iblock/99e/bvtyvumkif4upzy76c04ln149d4ou7an.jpg",
+   "cases_export2_files/iblock/038/ftzsj1q9oj7tp0n89kn9r6i0fvcldifg.jpg"
+  ],
+  "det_imgs": [
+   "/upload/medialibrary/e55/grsy5kfojlorcs3pp93g9unc349vgrsy.png"
+  ],
+  "video": false
+ },
+ {
+  "id": "485",
+  "name": "3D-сканирование моста",
+  "code": "3d-skanirovanie-mosta",
+  "words": 25,
+  "imgs": [
+   "cases_export2_files/iblock/3d7/iu7gpfob2pddqza1kk8lcix0qjcnre8o.jpg",
+   "cases_export2_files/iblock/cf5/x630xrkna6wrtl6t5n2j1e1s1bft1ar7.jpg",
+   "cases_export2_files/iblock/64e/ungamgplj478w1sybu25rap9svqt5xk0.jpg",
+   "cases_export2_files/iblock/ab4/iw8asnpvb71wa73h45edny68t8r56s3c.jpg",
+   "cases_export2_files/iblock/162/v4vkf91l53zvpogzb1y8y2z5lw5qhci5.jpg",
+   "cases_export2_files/iblock/875/tbevl5sdm5fe69kosx6sryid691da01o.jpg",
+   "cases_export2_files/iblock/ed4/42ua8gik0zi0m75dp0iicggejzx5x3i9.jpg",
+   "cases_export2_files/iblock/6e5/10bbnyp5bgpo85wwz0h8v0cdiyi7zff3.jpg"
+  ],
+  "det_imgs": [
+   "/upload/medialibrary/54a/218dmqje5lgwqios82b6ynot669l99vy.jpg",
+   "/upload/medialibrary/54a/218dmqje5lgwqios82b6ynot669l99vy.jpg"
+  ],
+  "video": false
+ },
+ {
+  "id": "963",
+  "name": "3D-сканирование лапки стрельчатой для культиватора",
+  "code": "3d-skanirovanie-lapki-strelchatoy-dlya-kultivatora",
+  "words": 19,
+  "imgs": [
+   "cases_export2_files/iblock/e21/nyqkkvxfygckt6sxs0jscw5vi2vk87lx.jpg",
+   "cases_export2_files/iblock/098/i2cf7z00qfnihen1ezdrc9vdobe2odfi.jpg",
+   "cases_export2_files/iblock/3e3/darwrjhb6lo3cyfmtisli2kskx0ppjg9.jpg",
+   "cases_export2_files/iblock/ac5/zvdwi227ydm2cit6jd34vk9g30w3311t.jpg",
+   "cases_export2_files/iblock/757/r5yunawptfl0amhhcssx037lar0bspzy.jpg",
+   "cases_export2_files/iblock/81b/0qy8jutf4hyr3d168uczxecnwrtw09op.jpg",
+   "cases_export2_files/iblock/ee9/oflt20dlpxveuw90bp9fnisnm8ilknmk.jpg"
+  ],
+  "det_imgs": [],
+  "video": true
+ },
+ {
+  "id": "590",
+  "name": "3D-сканирование и 3D-моделирование лопасти пропеллера",
+  "code": "3d-skanirovanie-i-3d-modelirovanie-lopasti-propellera",
+  "words": 16,
+  "imgs": [
+   "cases_export2_files/iblock/307/c5hestec42xyawcji3vqa4gwwek8palh.jpg",
+   "cases_export2_files/iblock/b46/9xd33dc3cf0ulqir5w4o2i9qnabyxdd4.jpg",
+   "cases_export2_files/iblock/fee/i51rtd9xwbb39anmy771kirbwe4jct7t.jpg",
+   "cases_export2_files/iblock/ea9/lbn2hfh74qj4u9ldj0w5r35msrmsag1r.jpg",
+   "cases_export2_files/iblock/de1/rsv7nbwpltfk1rvzreixbm4vcadmwj6e.jpg",
+   "cases_export2_files/iblock/7ff/8h9k5i37knzrrvovo5wr2pfrncj17mx4.jpg",
+   "cases_export2_files/iblock/807/t75rep7z806g77jx2y2oc86w5qgwirkn.jpg",
+   "cases_export2_files/iblock/2f1/gyrzeuplb1i334ekot7if5k8wbkg2fny.jpg"
+  ],
+  "det_imgs": [],
+  "video": false
+ }
+]
