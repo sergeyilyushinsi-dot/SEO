@@ -1,0 +1,9 @@
+/* --- Архив и рубрики новостей (archive-news.php / taxonomy-news_category.php) --- */
+body.post-type-archive-news,body.tax-news_category{padding-top:12vh!important}
+#amt-blog.amt-archive .amt-shero{padding-bottom:40px}
+#amt-blog.amt-archive .amt-shero .amt-label{display:inline-block;margin-bottom:16px}
+#amt-blog .amt-pagination{margin-top:44px;display:flex;flex-wrap:wrap;gap:8px;justify-content:center;align-items:center}
+#amt-blog .amt-pagination .page-numbers{min-width:44px;height:44px;padding:0 14px;display:inline-flex;align-items:center;justify-content:center;border:1px solid var(--amt-line);border-radius:999px;background:#fff;font-size:14px;font-weight:600;color:var(--amt-ink);transition:border-color .2s,color .2s}
+#amt-blog .amt-pagination a.page-numbers:hover{border-color:var(--amt-orange);color:var(--amt-orange)}
+#amt-blog .amt-pagination .page-numbers.current{background:var(--amt-ink);border-color:var(--amt-ink);color:#fff}
+#amt-blog .amt-pagination .page-numbers.dots{border:0;background:transparent;min-width:auto;padding:0 4px}
