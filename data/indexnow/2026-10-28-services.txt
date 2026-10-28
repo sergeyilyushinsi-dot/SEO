@@ -1,0 +1,8 @@
+# Новые страницы услуг, опубликованы 28.10.2026. Плагин IndexNow отправляет новые записи при публикации сам;
+# если в его журнале их нет — отправить вручную (Настройки → IndexNow → Submit URL).
+https://am-tech.ru/uslugi/
+https://am-tech.ru/uslugi/3d-pechat-metallom/
+https://am-tech.ru/uslugi/sla-pechat/
+https://am-tech.ru/uslugi/3d-skanirovanie/
+https://am-tech.ru/uslugi/revers-inzhiniring/
+https://am-tech.ru/uslugi/kontrol-geometrii/
