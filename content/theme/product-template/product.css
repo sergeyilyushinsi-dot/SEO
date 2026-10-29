@@ -1,0 +1,124 @@
+/* --- Карточка товара (woocommerce/single-product.php) --- */
+body.single-product{padding-top:12vh!important}
+body.single-product #amt-blog{width:100vw!important;max-width:100vw!important;margin-left:calc(50% - 50vw)!important;margin-right:calc(50% - 50vw)!important}
+html:has(body.single-product),body.single-product{overflow-x:clip!important}
+
+#amt-blog .amt-phero{padding:40px 0 56px}
+#amt-blog .amt-phero__grid{display:grid;grid-template-columns:minmax(0,1.05fr) minmax(0,.95fr);gap:56px;align-items:start}
+#amt-blog .amt-gallery{min-width:0}
+#amt-blog .amt-gallery .main-swiper{width:100%;aspect-ratio:4/3;height:auto;border:1px solid var(--amt-line);border-radius:var(--amt-radius-lg);background:#fff;overflow:hidden;margin:0}
+#amt-blog .amt-gallery .main-swiper .swiper-slide{display:flex;align-items:center;justify-content:center;border:0;border-radius:0;background:#fff}
+#amt-blog .amt-gallery .slide-image{width:100%;height:100%!important;object-fit:contain;padding:24px}
+#amt-blog .amt-gallery .thumbs-swiper{margin-top:12px}
+#amt-blog .amt-gallery .thumbs-swiper .swiper-slide{aspect-ratio:1/1;height:auto;border:1px solid var(--amt-line);border-radius:14px;overflow:hidden;opacity:.6;cursor:pointer;background:#fff;transition:opacity .2s,border-color .2s}
+#amt-blog .amt-gallery .thumbs-swiper .swiper-slide-thumb-active,#amt-blog .amt-gallery .thumbs-swiper .swiper-slide:hover{opacity:1;border-color:var(--amt-orange)}
+#amt-blog .amt-gallery .thumb-image{width:100%;height:100%!important;object-fit:contain;padding:6px;max-height:none;border-radius:0}
+
+#amt-blog .amt-pinfo{min-width:0}
+#amt-blog .amt-pinfo .amt-label{display:inline-block;margin-bottom:14px}
+#amt-blog .amt-pinfo__title{font-size:clamp(30px,3.2vw,48px)!important;margin-bottom:24px!important}
+#amt-blog .amt-pkpis{margin:0 0 22px;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));border:1px solid var(--amt-line);border-radius:var(--amt-radius-md);overflow:hidden;background:#fff}
+#amt-blog .amt-pkpis>div{padding:14px 16px;border-right:1px solid var(--amt-line);border-bottom:1px solid var(--amt-line);margin:0 -1px -1px 0}
+#amt-blog .amt-pkpis dt{font-size:11px;font-weight:500;letter-spacing:.04em;text-transform:uppercase;color:var(--amt-muted);margin-bottom:4px;line-height:1.35}
+#amt-blog .amt-pkpis dd{margin:0;font-size:17px;font-weight:600;color:var(--amt-ink);line-height:1.3}
+#amt-blog .amt-pshort{font-size:15px;line-height:1.6;color:var(--amt-text);margin-bottom:22px}
+#amt-blog .amt-pshort p{margin:0 0 .6em}
+#amt-blog .amt-pshort a{color:var(--amt-orange)}
+#amt-blog .amt-pbuy{padding-top:20px;border-top:1px solid var(--amt-line)}
+#amt-blog .amt-pprice{font-size:13px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:var(--amt-ink);margin-bottom:14px}
+#amt-blog .amt-pbuttons{display:flex;flex-wrap:wrap;gap:10px}
+#amt-blog .amt-pbuttons .amt-button{cursor:pointer;font-family:inherit;margin:0;width:auto}
+
+/* Якорное меню: липкое под шапкой сайта */
+#amt-blog .amt-pnav{position:sticky;top:var(--amt-pnav-top,70px);z-index:20;background:rgba(255,255,255,.96);backdrop-filter:blur(10px)}
+#amt-blog .amt-psec{scroll-margin-top:140px}
+#amt-blog .amt-psec .amt-section__head{margin-bottom:28px}
+
+/* Таблица характеристик */
+#amt-blog .amt-pspecs{border:1px solid var(--amt-line);border-radius:var(--amt-radius-lg);background:#fff;overflow:auto}
+#amt-blog .amt-pspecs table{width:100%;border-collapse:collapse;font-size:15px}
+#amt-blog .amt-pspecs th,#amt-blog .amt-pspecs td{padding:14px 22px;border-bottom:1px solid var(--amt-line);text-align:left;vertical-align:top;line-height:1.45}
+#amt-blog .amt-pspecs tr:last-child th,#amt-blog .amt-pspecs tr:last-child td{border-bottom:0}
+#amt-blog .amt-pspecs th{width:46%;font-weight:500;color:var(--amt-text)}
+#amt-blog .amt-pspecs td{font-weight:600;color:var(--amt-ink)}
+
+#amt-blog .amt-pvideo{border-radius:var(--amt-radius-lg);overflow:hidden;background:#0b0d12;max-width:1000px}
+#amt-blog .amt-pvideo video{display:block;width:100%;aspect-ratio:16/9;background:#0b0d12}
+#amt-blog .amt-pdoc{display:inline-flex;align-items:center;gap:16px;padding:18px 22px;border:1px solid var(--amt-line);border-radius:var(--amt-radius-md);background:#fff;max-width:640px}
+#amt-blog .amt-pdoc:hover{border-color:var(--amt-orange)}
+#amt-blog .amt-pdoc__ext{flex:0 0 auto;padding:8px 10px;border-radius:10px;background:var(--amt-orange-soft);color:var(--amt-orange);font-size:12px;font-weight:700}
+#amt-blog .amt-pdoc__name{font-weight:600;color:var(--amt-ink)}
+#amt-blog .amt-pdoc__more{margin-left:auto;font-size:13px;color:var(--amt-orange);white-space:nowrap}
+
+#amt-blog .amt-pmodels{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:16px}
+#amt-blog .amt-pmodel{display:flex;flex-direction:column;gap:10px;padding:12px 12px 18px;border:1px solid var(--amt-line);border-radius:var(--amt-radius-lg);background:#fff;transition:transform .2s,border-color .2s}
+#amt-blog .amt-pmodel:hover{transform:translateY(-2px);border-color:#c8c8c2}
+#amt-blog .amt-pmodel__img{aspect-ratio:4/3;border-radius:16px;background:var(--amt-surface);display:flex;align-items:center;justify-content:center;overflow:hidden}
+#amt-blog .amt-pmodel__img img{max-width:88%;max-height:88%;width:auto;height:auto;object-fit:contain}
+#amt-blog .amt-pmodel__title{padding:0 6px;font-size:16px;font-weight:600;line-height:1.3;color:var(--amt-ink)}
+#amt-blog .amt-pmodel__more{padding:0 6px;font-size:13px;color:var(--amt-orange)}
+
+/* Блоки темы внутри новой карточки */
+#amt-blog .amt-ppartners{padding:64px 0 24px}
+#amt-blog .amt-ppartners .partners-section{padding:0;margin:0}
+#amt-blog .amt-pcatvideo .product-video-block{display:flex;gap:40px;align-items:center;flex-wrap:wrap}
+#amt-blog .amt-pcatvideo video{width:100%;border-radius:var(--amt-radius-lg)}
+#amt-blog .amt-pcatvideo .video-section,#amt-blog .amt-pcatvideo .text-section{min-width:280px}
+#amt-blog .amt-pnews{padding-top:64px}
+#amt-form{padding:64px 0 0;scroll-margin-top:110px}
+
+/* ===== Компоненты описания amt-pd-* (стандарт описаний) ===== */
+#amt-blog .amt-pd{max-width:960px}
+#amt-blog .amt-pd .amt-pd-lead{font-size:clamp(18px,1.6vw,22px);line-height:1.55;color:#2b2b2b;margin:0 0 28px;max-width:900px}
+#amt-blog .amt-pd .amt-pd-kpis{margin:0 0 36px;display:grid;grid-template-columns:repeat(4,minmax(0,1fr));border-top:1px solid var(--amt-line)}
+#amt-blog .amt-pd .amt-pd-kpis>div{padding:18px 18px 0 0}
+#amt-blog .amt-pd .amt-pd-kpis>div+div{padding-left:18px;border-left:1px solid var(--amt-line)}
+#amt-blog .amt-pd .amt-pd-kpis dt{order:2;font-size:13px;color:var(--amt-muted);font-weight:400}
+#amt-blog .amt-pd .amt-pd-kpis dd{margin:0 0 4px;font-size:22px;font-weight:600;color:var(--amt-ink)}
+#amt-blog .amt-pd .amt-pd-kpis>div{display:flex;flex-direction:column}
+#amt-blog .amt-pd .amt-pd-kpis dd{order:1}
+#amt-blog .amt-pd .amt-pd-uses{list-style:none;padding:0;margin:0 0 1.4em;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+#amt-blog .amt-pd .amt-pd-uses li{margin:0;padding:16px 18px;border:1px solid var(--amt-line);border-radius:var(--amt-radius-md);background:#fff;font-size:15px;line-height:1.55}
+#amt-blog .amt-pd .amt-pd-uses li::marker{content:none}
+#amt-blog .amt-pd .amt-pd-uses b{display:block;color:var(--amt-ink);margin-bottom:4px}
+#amt-blog .amt-pd .amt-pd-cards{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;margin:0 0 1.6em;counter-reset:pd}
+#amt-blog .amt-pd .amt-pd-cards>div{counter-increment:pd;padding:20px 20px 16px;border:1px solid var(--amt-line);border-radius:var(--amt-radius-lg);background:#fff}
+#amt-blog .amt-pd .amt-pd-cards>div::before{content:counter(pd,decimal-leading-zero);display:inline-flex;width:34px;height:34px;align-items:center;justify-content:center;border-radius:50%;background:var(--amt-orange-soft);color:var(--amt-orange);font-size:12px;font-weight:700;margin-bottom:12px}
+#amt-blog .amt-pd .amt-pd-cards h3{margin:0 0 8px;font-size:18px}
+#amt-blog .amt-pd .amt-pd-cards p{margin:0;font-size:15px;line-height:1.55;color:var(--amt-text)}
+#amt-blog .amt-pd .amt-pd-faq details{border-top:1px solid var(--amt-line);padding:16px 0}
+#amt-blog .amt-pd .amt-pd-faq details:last-child{border-bottom:1px solid var(--amt-line)}
+#amt-blog .amt-pd .amt-pd-faq summary{cursor:pointer;font-weight:600;font-size:17px;color:var(--amt-ink);list-style:none;display:flex;justify-content:space-between;gap:16px}
+#amt-blog .amt-pd .amt-pd-faq summary::-webkit-details-marker{display:none}
+#amt-blog .amt-pd .amt-pd-faq summary::after{content:"+";color:var(--amt-orange);font-size:22px;line-height:1}
+#amt-blog .amt-pd .amt-pd-faq details[open] summary::after{content:"–"}
+#amt-blog .amt-pd .amt-pd-faq details p{margin:10px 0 0;font-size:15px}
+#amt-blog .amt-pd .amt-pd-cta{margin-top:2em;padding:24px 26px;display:flex;gap:18px;align-items:center;justify-content:space-between;flex-wrap:wrap;border-radius:var(--amt-radius-lg);background:var(--amt-ink);color:#fff}
+#amt-blog .amt-pd .amt-pd-cta p{margin:0;color:#e9e9e9;font-size:16px;max-width:620px}
+#amt-blog .amt-pd .amt-pd-cta a{display:inline-flex;align-items:center;gap:8px;padding:13px 22px;border-radius:999px;background:var(--amt-orange);color:#fff;text-decoration:none;font-weight:600;font-size:14px}
+
+@media(max-width:1100px){
+  #amt-blog .amt-phero__grid{grid-template-columns:1fr;gap:28px}
+  #amt-blog .amt-pmodels{grid-template-columns:repeat(2,minmax(0,1fr))}
+  #amt-blog .amt-pd .amt-pd-cards{grid-template-columns:repeat(2,minmax(0,1fr))}
+  #amt-blog .amt-pd .amt-pd-kpis{grid-template-columns:repeat(2,minmax(0,1fr))}
+  #amt-blog .amt-pd .amt-pd-kpis>div:nth-child(3){padding-left:0;border-left:0}
+}
+@media(max-width:760px){
+  #amt-blog .amt-phero{padding:24px 0 36px}
+  #amt-blog .amt-pkpis dd{font-size:15px}
+  #amt-blog .amt-pbuttons .amt-button{flex:1 1 calc(50% - 5px);justify-content:center;padding-left:12px;padding-right:12px}
+  #amt-blog .amt-pbuttons .amt-button--primary{flex-basis:100%}
+  #amt-blog .amt-pspecs th,#amt-blog .amt-pspecs td{display:block;width:auto;padding:4px 16px}
+  #amt-blog .amt-pspecs th{padding-top:14px;border-bottom:0;font-size:13px}
+  #amt-blog .amt-pspecs td{padding-bottom:14px}
+  #amt-blog .amt-pmodels{grid-template-columns:1fr 1fr;gap:10px}
+  #amt-blog .amt-pmodel__title{font-size:14px}
+  #amt-blog .amt-pd .amt-pd-uses,#amt-blog .amt-pd .amt-pd-cards{grid-template-columns:1fr}
+  #amt-blog .amt-pdoc{display:flex}
+}
+/* Запасные стили галереи, если стили Swiper не загрузились (CDN недоступен): слайды не встают столбиком */
+#amt-blog .amt-gallery .swiper{position:relative;overflow:hidden}
+#amt-blog .amt-gallery .swiper-wrapper{display:flex;box-sizing:content-box}
+#amt-blog .amt-gallery .main-swiper .swiper-slide{flex-shrink:0;width:100%;height:100%}
+#amt-blog .amt-gallery .thumbs-swiper .swiper-slide{flex-shrink:0;width:calc(25% - 6px);margin-right:8px}
