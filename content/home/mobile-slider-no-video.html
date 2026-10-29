@@ -1,0 +1,57 @@
+<!-- AM.TECH: на телефоне главная без фоновых видео в слайдере (вместо них — фото оборудования).
+     WPCode → HTML-сниппет → место «Сквозная шапка» (в <head>), везде. Работает только на главной и ширине до 760 px. -->
+<style id="amt-mobile-slider">
+@media (max-width: 760px) {
+  body.home .main-slider-container video.slider-background { display: none !important; }
+  body.home .main-slider-container .swiper-slide { background: radial-gradient(120% 90% at 80% 20%, #3a3a3a 0%, #171717 60%) !important; }
+  body.home .main-slider-container .amt-slide-photo { position: absolute; right: -4%; top: 6%; width: 70%; height: 62%; background: center / contain no-repeat; opacity: .95; pointer-events: none; }
+  body.home .main-slider-container .slider-content { z-index: 2; }
+}
+</style>
+<script id="amt-mobile-slider-js">
+(function () {
+  if (location.pathname !== '/' || window.innerWidth > 760) return;
+  /* Фото по теме слайда — из карточек товаров */
+  var PHOTO = {
+    slm: 'https://am-tech.ru/wp-content/uploads/2025/08/8vperfsgb4n6lgpa4x08s67hzpszl7r9.png',
+    scanners: 'https://am-tech.ru/wp-content/uploads/2025/08/kgzrwpjvzyjlsp5as7x2j1tbafm1h2cp.png',
+    sla: 'https://am-tech.ru/wp-content/uploads/2025/08/d4o8vsmdfimqamv1tdjuopaw9uhezcdo.webp',
+    ceramics: 'https://am-tech.ru/wp-content/uploads/2025/08/da5ufvjbwwmenrfut2xdveh0vjlra2yo.png'
+  };
+  function strip(video) {
+    if (video.dataset.amtStripped) return;
+    video.dataset.amtStripped = '1';
+    var src = '';
+    video.querySelectorAll('source').forEach(function (s) { src = src || s.getAttribute('src') || ''; s.remove(); });
+    src = src || video.getAttribute('src') || '';
+    video.removeAttribute('src');
+    video.removeAttribute('autoplay');
+    video.preload = 'none';
+    try { video.load(); } catch (e) {}
+    var key = Object.keys(PHOTO).filter(function (k) { return src.indexOf(k) !== -1; })[0];
+    var slide = video.closest('.swiper-slide');
+    if (key && slide && !slide.querySelector('.amt-slide-photo')) {
+      var ph = document.createElement('span');
+      ph.className = 'amt-slide-photo';
+      ph.style.backgroundImage = 'url(' + PHOTO[key] + ')';
+      slide.insertBefore(ph, slide.firstChild);
+    }
+  }
+  /* Снимаем источник видео сразу при разборе страницы — до начала загрузки файла */
+  var mo = new MutationObserver(function (list) {
+    list.forEach(function (m) {
+      m.addedNodes.forEach(function (n) {
+        if (n.nodeType !== 1) return;
+        if (n.matches && n.matches('video.slider-background')) strip(n);
+        else if (n.querySelectorAll) n.querySelectorAll('video.slider-background').forEach(strip);
+        if (n.tagName === 'SOURCE' && n.parentElement && n.parentElement.matches('video.slider-background')) strip(n.parentElement);
+      });
+    });
+  });
+  mo.observe(document.documentElement, { childList: true, subtree: true });
+  document.addEventListener('DOMContentLoaded', function () {
+    document.querySelectorAll('video.slider-background').forEach(strip);
+    mo.disconnect();
+  });
+})();
+</script>

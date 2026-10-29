@@ -272,7 +272,10 @@ blocks = f"""<!-- AM.TECH: блоки главной после слайдера
         <a class="amt-button amt-button--secondary" href="https://am-tech.ru/teknologii/">Все кейсы <span>→</span></a>
       </div>
       <div class="amt-articles" data-amh-feed="cases">{''.join(card(c) for c in cases)}</div>
-      <div class="amh-partners"><span class="amh-partners__label">Нам доверяют</span>{''.join(f'<img src="{esc(u)}" alt="{esc(a)}">' for u, a in PARTNERS)}</div>
+      <div class="amh-trust">
+        <div class="amh-trust__head"><h3>Нам доверяют</h3><p>Промышленные компании и инженерные вузы, с которыми работает AM.TECH</p></div>
+        <div class="amh-trust__grid">{''.join(f'<div class="amh-trust__item"><span class="amh-trust__logo"><img src="{esc(u)}" alt="{esc(a)}"></span><span class="amh-trust__name">{esc(a)}</span></div>' for u, a in PARTNERS)}</div>
+      </div>
     </div>
   </section>
 
