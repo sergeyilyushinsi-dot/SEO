@@ -194,7 +194,11 @@ get_template_part( 'header-nav' );
 					<?php if ( $amt_cat ) : ?>
 						<a class="amt-label" href="<?php echo esc_url( get_term_link( $amt_cat ) ); ?>"><?php echo esc_html( $amt_cat->name ); ?></a>
 					<?php endif; ?>
-					<h1 class="amt-shero__title amt-pinfo__title"><?php echo esc_html( $product->get_name() ); ?></h1>
+					<?php
+					/* Название модели (AMT-16, SLA-600, KSCAN MAGIC II) не разрывается по дефису: слова с дефисом — без переноса. */
+					$amt_title = preg_replace( '~([\p{L}\p{N}]+(?:-[\p{L}\p{N}]+)+)~u', '<span class="amt-nowrap">$1</span>', esc_html( $product->get_name() ) );
+					?>
+					<h1 class="amt-shero__title amt-pinfo__title"><?php echo $amt_title; // phpcs:ignore WordPress.Security.EscapeOutput -- экранировано выше ?></h1>
 
 					<?php if ( $amt_kpis ) : ?>
 						<dl class="amt-pkpis">
@@ -210,20 +214,20 @@ get_template_part( 'header-nav' );
 
 					<div class="amt-pbuy">
 						<div class="amt-pprice">Цена по запросу</div>
-						<div class="btn_product_single amt-pbuttons">
+						<div class="amt-pbuttons">
 							<button class="amt-button amt-button--primary" data-modal="request"
 								data-form-id="<?php echo esc_attr( $amt_form['id'] ); ?>"
 								data-form-loader="<?php echo esc_attr( $amt_form['loader'] ); ?>"
 								data-product-name="<?php echo esc_attr( $product->get_name() ); ?>"
 								data-category-id="<?php echo esc_attr( $amt_top_cat ? $amt_top_cat : 0 ); ?>">Запросить КП <span>→</span></button>
-							<button class="amt-button amt-button--secondary" data-modal="call" data-form-id="inline/6/hkgqtn"
-								data-form-loader="loader_6.js"
-								data-product-name="<?php echo esc_attr( $product->get_name() ); ?>">Заказать звонок</button>
 							<?php if ( $amt_print_url ) : ?>
 								<a class="amt-button amt-button--secondary" href="<?php echo esc_url( $amt_print_url ); ?>" title="Расчёт стоимости печати по 3D-модели">Заказать печать</a>
 							<?php else : ?>
 								<a class="amt-button amt-button--secondary" href="#amt-form">Демонстрация</a>
 							<?php endif; ?>
+							<button class="amt-button amt-button--secondary" data-modal="call" data-form-id="inline/6/hkgqtn"
+								data-form-loader="loader_6.js"
+								data-product-name="<?php echo esc_attr( $product->get_name() ); ?>">Заказать звонок</button>
 						</div>
 					</div>
 
@@ -404,6 +408,16 @@ jQuery(function ($) {
 	}
 	oneColumn();
 	window.addEventListener('resize', oneColumn);
+	/* У старых описаний внизу свои большие отступы — убираем их у последнего видимого блока и его родителей */
+	document.querySelectorAll('#amt-blog .amt-pd').forEach(function (pd) {
+		var all = pd.querySelectorAll('*'), last = null;
+		for (var i = all.length - 1; i >= 0; i--) {
+			var t = all[i].tagName;
+			if (t === 'SCRIPT' || t === 'STYLE') continue;
+			if (all[i].offsetHeight > 0 && !all[i].children.length) { last = all[i]; break; }
+		}
+		for (var el = last; el && el !== pd; el = el.parentElement) { el.style.paddingBottom = '0'; el.style.marginBottom = '0'; }
+	});
 })();
 </script>
 <?php
