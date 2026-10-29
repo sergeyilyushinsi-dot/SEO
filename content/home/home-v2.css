@@ -1,0 +1,94 @@
+/* Главная, вариант 2 — блоки после слайдера */
+body.home #amt-blog{width:100vw!important;max-width:100vw!important;margin-left:calc(50% - 50vw)!important;margin-right:calc(50% - 50vw)!important}
+html:has(body.home),body.home{overflow-x:clip!important}
+#amt-blog.amt-home .amt-section{padding:96px 0}
+#amt-blog .amt-nowrap{white-space:nowrap}
+
+/* SLM-линейка */
+#amt-blog .amh-slm__head{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:48px;align-items:end;margin-bottom:40px}
+#amt-blog .amh-slm__head .amt-lead{margin:0}
+#amt-blog .amh-line{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:14px}
+#amt-blog .amh-model{display:flex;flex-direction:column;padding:10px 10px 18px;border:1px solid var(--amt-line);border-radius:var(--amt-radius-lg);background:#fff;transition:transform .2s,border-color .2s}
+#amt-blog .amh-model:hover{transform:translateY(-3px);border-color:var(--amt-orange)}
+#amt-blog .amh-model__img{position:relative;aspect-ratio:3/4;border-radius:18px;background:linear-gradient(160deg,#f6f5f2,#ebe9e3);display:flex;align-items:center;justify-content:center;margin-bottom:14px}
+#amt-blog .amh-model__img img{max-width:84%;max-height:84%;object-fit:contain}
+#amt-blog .amh-badge{position:absolute;left:10px;top:10px;padding:5px 9px;border-radius:999px;background:#fff;font-size:10.5px;font-weight:700;color:var(--amt-orange);box-shadow:0 4px 14px rgba(0,0,0,.06)}
+#amt-blog .amh-model__name{padding:0 8px;font-size:24px;font-weight:700;color:var(--amt-ink);white-space:nowrap}
+#amt-blog .amh-model__text{padding:4px 8px 12px;font-size:13px;line-height:1.45;color:var(--amt-text);min-height:3.2em}
+#amt-blog .amh-model__specs{margin-top:auto;padding:12px 8px 0;border-top:1px solid var(--amt-line);display:grid;gap:6px}
+#amt-blog .amh-model__specs span{display:flex;justify-content:space-between;gap:8px;font-size:13px;font-weight:600;color:var(--amt-ink)}
+#amt-blog .amh-model__specs i{font-style:normal;font-weight:400;color:var(--amt-muted)}
+#amt-blog .amh-facts{margin-top:28px;display:grid;grid-template-columns:repeat(4,minmax(0,1fr));border-top:1px solid var(--amt-line)}
+#amt-blog .amh-facts>div{padding:22px 22px 0 0}
+#amt-blog .amh-facts>div+div{padding-left:22px;border-left:1px solid var(--amt-line)}
+#amt-blog .amh-facts b{display:block;margin-bottom:6px;font-size:15px;color:var(--amt-ink)}
+#amt-blog .amh-facts span{font-size:13px;line-height:1.5;color:var(--amt-text)}
+#amt-blog .amh-actions{margin-top:36px;display:flex;flex-wrap:wrap;gap:10px}
+
+/* Интегратор */
+#amt-blog .amh-techs{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
+#amt-blog .amh-tech{display:grid;grid-template-columns:96px 1fr;gap:14px;align-items:center;padding:10px;border:1px solid var(--amt-line);border-radius:var(--amt-radius-md);background:#fff;transition:border-color .2s}
+#amt-blog .amh-tech:hover{border-color:var(--amt-orange)}
+#amt-blog .amh-tech__img{width:96px;height:96px;border-radius:14px;background:var(--amt-surface);display:flex;align-items:center;justify-content:center}
+#amt-blog .amh-tech__img img{max-width:82%;max-height:82%;object-fit:contain}
+#amt-blog .amh-tech__body b{display:block;font-size:16px;color:var(--amt-ink);margin-bottom:4px}
+#amt-blog .amh-tech__body span{font-size:13px;color:var(--amt-text);line-height:1.45}
+#amt-blog .amh-route__title{margin:56px 0 20px;font-size:24px;font-weight:600;color:var(--amt-ink)}
+#amt-blog .amh-route{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:0;counter-reset:r}
+#amt-blog .amh-route li{position:relative;padding:20px 18px 0 0;border-top:2px solid var(--amt-line)}
+#amt-blog .amh-route li::before{content:"";position:absolute;top:-6px;left:0;width:10px;height:10px;border-radius:50%;background:var(--amt-orange)}
+#amt-blog .amh-route b{font-size:12px;color:var(--amt-orange)}
+#amt-blog .amh-route h3{margin:6px 0 6px;font-size:16px;color:var(--amt-ink)}
+#amt-blog .amh-route p{margin:0;font-size:13px;line-height:1.5;color:var(--amt-text)}
+
+/* Услуги */
+#amt-blog .amh-svcs__grid{display:grid;grid-template-columns:minmax(0,.9fr) minmax(0,1.1fr);gap:56px;align-items:center}
+#amt-blog .amh-svcs .amt-lead{margin-bottom:24px}
+#amt-blog .amh-svc-list{display:flex;flex-direction:column;border-top:1px solid var(--amt-line)}
+#amt-blog .amh-svc{display:grid;grid-template-columns:minmax(0,.9fr) minmax(0,1.1fr) 24px;gap:16px;align-items:center;padding:20px 8px;border-bottom:1px solid var(--amt-line);transition:background .2s}
+#amt-blog .amh-svc:hover{background:var(--amt-surface)}
+#amt-blog .amh-svc b{font-size:18px;color:var(--amt-ink)}
+#amt-blog .amh-svc span{font-size:14px;color:var(--amt-text)}
+#amt-blog .amh-svc i{font-style:normal;color:var(--amt-orange);font-size:18px}
+
+/* Кейсы, партнёры, блог */
+#amt-blog .amh-partners{margin-top:48px;display:flex;flex-wrap:wrap;align-items:center;gap:24px 44px}
+#amt-blog .amh-partners__label{font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--amt-muted)}
+#amt-blog .amh-partners img{height:44px;width:auto;max-width:150px;object-fit:contain;filter:grayscale(1);opacity:.75;transition:filter .2s,opacity .2s}
+#amt-blog .amh-partners img:hover{filter:none;opacity:1}
+#amt-blog .amh-head-links{display:flex;gap:10px;flex-wrap:wrap}
+
+/* Заявка */
+#amt-blog .amh-contact{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:56px;align-items:start}
+#amt-blog .amh-contact .amt-lead a{color:var(--amt-orange)}
+#amt-blog .amt-contacts span{color:inherit}
+#amt-blog .amh-form{padding:8px 20px;border-radius:var(--amt-radius-lg);background:#fff;color:var(--amt-ink);min-height:200px}
+#amt-blog .amh-form .b24-form-header-padding,#amt-blog .amh-form .b24-form-sign{display:none}
+#amt-blog .amh-form .b24-form-content.b24-form-padding-side{border:none!important}
+
+@media(max-width:1100px){
+  #amt-blog .amh-slm__head,#amt-blog .amh-svcs__grid,#amt-blog .amh-contact{grid-template-columns:1fr;gap:24px}
+  #amt-blog .amh-line{grid-template-columns:repeat(3,minmax(0,1fr))}
+  #amt-blog .amh-facts{grid-template-columns:repeat(2,minmax(0,1fr))}
+  #amt-blog .amh-facts>div:nth-child(3){padding-left:0;border-left:0}
+  #amt-blog .amh-techs{grid-template-columns:repeat(2,minmax(0,1fr))}
+  #amt-blog .amh-route{grid-template-columns:repeat(3,minmax(0,1fr));row-gap:24px}
+}
+@media(max-width:760px){
+  #amt-blog.amt-home .amt-section{padding:64px 0}
+  #amt-blog .amh-line{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;gap:10px;margin:0 -16px;padding:0 16px 6px}
+  #amt-blog .amh-model{flex:0 0 72%;scroll-snap-align:start}
+  #amt-blog .amh-facts,#amt-blog .amh-techs{grid-template-columns:1fr}
+  #amt-blog .amh-facts>div,#amt-blog .amh-facts>div+div{padding:16px 0;border-left:0;border-bottom:1px solid var(--amt-line)}
+  #amt-blog .amh-route{grid-template-columns:1fr 1fr}
+  #amt-blog .amh-svc{grid-template-columns:1fr 24px}
+  #amt-blog .amh-svc span{grid-column:1;grid-row:2}
+  #amt-blog .amh-svc i{grid-row:1/3;grid-column:2}
+  #amt-blog .amh-actions .amt-button{width:100%;justify-content:center}
+  #amt-blog .amh-partners img{height:32px}
+}
+/* правки: характеристики моделей — подпись над значением, кнопки блога в ряд */
+#amt-blog .amh-model__specs span{display:block;font-size:14px;white-space:nowrap}
+#amt-blog .amh-model__specs i{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;margin-bottom:1px}
+#amt-blog .amh-head-links{flex-wrap:nowrap}
+@media(max-width:760px){#amt-blog .amh-head-links{flex-wrap:wrap}}
