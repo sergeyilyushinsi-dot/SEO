@@ -1,0 +1,2483 @@
+{
+ "version": "0.4",
+ "title": "Главная AM.TECH — блоки под слайдером",
+ "type": "container",
+ "content": [
+  {
+   "id": "28fe0f0",
+   "elType": "container",
+   "settings": {
+    "content_width": "full",
+    "flex_direction": "column",
+    "_css_classes": "amt-home amte",
+    "css_classes": "amt-home amte",
+    "_title": "Главная AM.TECH — блоки",
+    "_element_id": "amt-blog"
+   },
+   "elements": [
+    {
+     "id": "9e0a6fa",
+     "elType": "widget",
+     "widgetType": "html",
+     "settings": {
+      "html": "<style id=\"amte-styles\">\n#amt-blog{\n  --amt-orange:#ff7300;--amt-orange-2:#ff9a3d;--amt-orange-soft:#fff3e9;\n  --amt-ink:#171717;--amt-text:#4f4f4f;--amt-muted:#777;\n  --amt-line:#e9e9e9;--amt-surface:#f7f7f5;--amt-white:#fff;--amt-dark:#171717;\n  --amt-radius-xl:34px;--amt-radius-lg:24px;--amt-radius-md:18px;--amt-pill:999px;\n  --amt-shadow:0 22px 70px rgba(22,22,22,.08);\n  position:relative;width:100%;color:var(--amt-ink);background:var(--amt-white);\n  font-family:\"Montserrat\",Arial,sans-serif;line-height:1.55;isolation:isolate;\n}\n#amt-blog *{box-sizing:border-box}\n#amt-blog a{color:inherit;text-decoration:none}\n#amt-blog h1,#amt-blog h2,#amt-blog h3,#amt-blog p{margin-top:0}\n#amt-blog .amt-container{width:min(1180px,calc(100% - 48px));margin-inline:auto}\n#amt-blog .amt-section{position:relative;padding:112px 0}\n#amt-blog .amt-section--soft{background:var(--amt-surface)}\n#amt-blog .amt-section--dark{background:var(--amt-dark);color:#fff}\n#amt-blog .amt-eyebrow{display:inline-flex;align-items:center;gap:10px;margin-bottom:22px;color:var(--amt-orange);font-size:12px;font-weight:800;line-height:1.2;letter-spacing:.14em;text-transform:uppercase}\n#amt-blog .amt-eyebrow::before{width:28px;height:2px;content:\"\";background:currentColor}\n#amt-blog .amt-title{max-width:880px;font-size:clamp(38px,5vw,68px);font-weight:760;line-height:1.04;letter-spacing:-.045em}\n#amt-blog .amt-title--section{font-size:clamp(32px,4vw,52px);line-height:1.08}\n#amt-blog .amt-title em{color:var(--amt-orange);font-style:normal}\n#amt-blog .amt-lead{max-width:640px;margin-top:26px;color:var(--amt-text);font-size:17px;line-height:1.7}\n\n#amt-blog .amt-button{min-height:54px;display:inline-flex;align-items:center;justify-content:center;gap:11px;padding:14px 23px;border:1px solid transparent;border-radius:var(--amt-pill);cursor:pointer;font-family:inherit;font-size:14px;font-weight:760;line-height:1;transition:transform .25s ease,box-shadow .25s ease,background-color .25s ease,color .25s ease}\n#amt-blog .amt-button:hover{transform:translateY(-2px)}\n#amt-blog .amt-button--primary{color:var(--amt-white);background:var(--amt-orange);box-shadow:0 12px 28px rgba(255,115,0,.28)}\n#amt-blog .amt-button--primary:hover{color:var(--amt-white);background:#e86500;box-shadow:0 16px 34px rgba(255,115,0,.34)}\n#amt-blog .amt-button--secondary{color:var(--amt-ink);border-color:#d9d9d9;background:rgba(255,255,255,.72)}\n#amt-blog .amt-button--secondary:hover{border-color:var(--amt-ink);background:#fff}\n#amt-blog .amt-section--dark .amt-button--secondary{color:#fff;background:transparent;border-color:#4a4a4a}\n#amt-blog .amt-section--dark .amt-button--secondary:hover{color:var(--amt-orange);border-color:var(--amt-orange)}\n\n/* HERO */\n#amt-blog .amt-hero{position:relative;overflow:hidden;padding:92px 0 72px;background:radial-gradient(circle at 84% 20%,rgba(255,115,0,.12),transparent 28%),linear-gradient(180deg,#fff 0%,#fbfbfa 100%)}\n#amt-blog .amt-hero::before{position:absolute;inset:0;z-index:-1;content:\"\";opacity:.4;background-image:linear-gradient(rgba(30,30,30,.035) 1px,transparent 1px),linear-gradient(90deg,rgba(30,30,30,.035) 1px,transparent 1px);background-size:42px 42px;mask-image:linear-gradient(to bottom,#000 30%,transparent 92%)}\n#amt-blog .amt-hero__grid{position:relative;display:grid;grid-template-columns:1.35fr .65fr;gap:72px;align-items:end}\n#amt-blog .amt-hero__aside{padding-left:30px;border-left:1px solid var(--amt-line)}\n#amt-blog .amt-hero__aside p{color:var(--amt-text);font-size:15px;line-height:1.7;margin:0}\n#amt-blog .amt-hero__actions{margin-top:30px;display:flex;gap:10px;flex-wrap:wrap}\n#amt-blog .amt-trust{position:relative;margin-top:58px;display:grid;grid-template-columns:repeat(3,1fr);border-top:1px solid var(--amt-line)}\n#amt-blog .amt-trust__item{min-height:104px;padding:22px 24px 0 0;border-right:1px solid var(--amt-line)}\n#amt-blog .amt-trust__item:not(:first-child){padding-left:24px}\n#amt-blog .amt-trust__item:last-child{border-right:0}\n#amt-blog .amt-trust__item b{display:block;margin-bottom:6px;font-size:14px;font-weight:760}\n#amt-blog .amt-trust__item span{color:var(--amt-muted);font-size:13px;line-height:1.55}\n\n/* TOPIC NAV */\n#amt-blog .amt-topics{position:sticky;top:0;z-index:20;background:#fff;border-top:1px solid var(--amt-line);border-bottom:1px solid var(--amt-line)}\n#amt-blog .amt-topics__row{display:flex;gap:24px;align-items:center;padding:18px 0;overflow:auto;scrollbar-width:none}\n#amt-blog .amt-topics__row::-webkit-scrollbar{display:none}\n#amt-blog .amt-topic{padding:0;border:0;background:transparent;color:#6a6a65;font-family:inherit;font-size:14px;font-weight:600;cursor:pointer;white-space:nowrap;position:relative;transition:color .2s ease}\n#amt-blog .amt-topic:hover{color:var(--amt-ink)}\n#amt-blog .amt-topic.is-active{color:var(--amt-ink)}\n#amt-blog .amt-topic.is-active::after{content:\"\";position:absolute;left:0;right:0;bottom:-19px;height:2px;background:var(--amt-orange)}\n#amt-blog .amt-search{min-width:220px;margin-left:auto;border-bottom:1px solid #b8b8b2}\n#amt-blog .amt-search input{width:100%;padding:8px 0;border:0;outline:0;background:transparent;font-family:inherit;font-size:14px;color:var(--amt-ink)}\n\n/* SECTION HEAD */\n#amt-blog .amt-section__head{margin-bottom:48px;display:flex;justify-content:space-between;gap:30px;align-items:end}\n#amt-blog .amt-section__copy{max-width:940px}\n\n/* MEDIA IMAGE */\n#amt-blog .amt-media{position:relative;overflow:hidden;border-radius:20px;background:radial-gradient(circle at 70% 30%,rgba(255,115,0,.12),transparent 24%),linear-gradient(135deg,#e7e7e3,#cdcdc7);min-height:230px}\n#amt-blog .amt-media__label{position:absolute;left:16px;bottom:16px;padding:7px 12px;border-radius:var(--amt-pill);background:rgba(255,255,255,.92);color:#444;font-size:11px;font-weight:600;letter-spacing:.02em}\n\n/* FEATURED */\n#amt-blog .amt-featured{display:grid;grid-template-columns:1.55fr .9fr;gap:20px}\n#amt-blog .amt-featured__main{padding:14px;border:1px solid var(--amt-line);border-radius:var(--amt-radius-lg);background:#fff;transition:transform .25s ease,box-shadow .25s ease,border-color .25s ease}\n#amt-blog .amt-featured__main:hover{transform:translateY(-3px);box-shadow:var(--amt-shadow);border-color:transparent}\n#amt-blog .amt-featured__main .amt-media{min-height:400px;border-radius:18px}\n#amt-blog .amt-featured__main .amt-card__body{padding:22px 16px 14px}\n#amt-blog .amt-featured__main h3{max-width:850px;font-size:clamp(28px,3vw,44px);font-weight:760;line-height:1.1;letter-spacing:-.035em;margin:0 0 14px}\n#amt-blog .amt-featured__main p{color:var(--amt-text);margin:0}\n#amt-blog .amt-featured__side{display:grid;gap:18px}\n#amt-blog .amt-mini{min-height:168px;padding:10px;display:grid;grid-template-columns:165px 1fr;gap:16px;border:1px solid var(--amt-line);border-radius:var(--amt-radius-md);background:#fff;transition:transform .25s ease,box-shadow .25s ease,border-color .25s ease}\n#amt-blog .amt-mini:hover{transform:translateY(-2px);box-shadow:var(--amt-shadow);border-color:transparent}\n#amt-blog .amt-mini .amt-media{min-height:146px;border-radius:14px}\n#amt-blog .amt-mini .amt-card__body{padding:8px 8px 8px 0;align-self:center}\n#amt-blog .amt-mini h3{margin:0 0 8px;font-size:17px;font-weight:760;line-height:1.28;letter-spacing:-.02em}\n#amt-blog .amt-label{display:block;margin-bottom:10px;color:var(--amt-orange);font-size:11px;font-weight:800;text-transform:uppercase;letter-spacing:.12em}\n#amt-blog .amt-meta{margin-top:16px;display:flex;gap:14px;flex-wrap:wrap;color:var(--amt-muted);font-size:12px;font-weight:600}\n#amt-blog .amt-meta span:last-child{color:var(--amt-orange)}\n\n/* DIRECTIONS */\n#amt-blog .amt-directions{display:grid;grid-template-columns:repeat(2,1fr);gap:16px}\n#amt-blog .amt-direction{min-height:230px;padding:28px 30px;display:flex;flex-direction:column;justify-content:space-between;border:1px solid var(--amt-line);border-radius:var(--amt-radius-lg);background:#fff;transition:transform .25s ease,box-shadow .25s ease,border-color .25s ease}\n#amt-blog .amt-direction:hover{transform:translateY(-3px);box-shadow:var(--amt-shadow);border-color:transparent}\n#amt-blog .amt-direction__index{color:#7a7a75;font-size:12px;font-weight:700;letter-spacing:.08em;text-transform:uppercase}\n#amt-blog .amt-direction__index span{color:var(--amt-orange);font-weight:800}\n#amt-blog .amt-direction h3{margin:0 0 12px;font-size:24px;font-weight:760;letter-spacing:-.025em;line-height:1.15}\n#amt-blog .amt-direction p{max-width:520px;margin:0;color:var(--amt-text);font-size:14px;line-height:1.55}\n\n/* ARTICLES GRID */\n#amt-blog .amt-articles{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}\n#amt-blog .amt-article{padding:12px;display:flex;flex-direction:column;border:1px solid var(--amt-line);border-radius:var(--amt-radius-lg);background:#fff;transition:transform .25s ease,box-shadow .25s ease,border-color .25s ease}\n#amt-blog .amt-article:hover{transform:translateY(-3px);box-shadow:var(--amt-shadow);border-color:transparent}\n#amt-blog .amt-article .amt-media{min-height:220px;border-radius:16px}\n#amt-blog .amt-article__body{flex:1;padding:20px 10px 10px;display:flex;flex-direction:column}\n#amt-blog .amt-article h3{font-size:22px;font-weight:760;letter-spacing:-.02em;line-height:1.22;margin:0 0 10px}\n#amt-blog .amt-article p{color:var(--amt-text);font-size:14px;line-height:1.55;margin:0}\n#amt-blog .amt-article .amt-meta{margin-top:auto}\n#amt-blog .amt-loadmore{margin-top:44px;display:flex;justify-content:center}\n\n/* CASE */\n#amt-blog .amt-case{padding:14px;display:grid;grid-template-columns:1.12fr .88fr;gap:20px;border:1px solid var(--amt-line);border-radius:28px;background:#fff;box-shadow:var(--amt-shadow)}\n#amt-blog .amt-case .amt-media{min-height:520px;border-radius:20px}\n#amt-blog .amt-case__content{padding:clamp(28px,4vw,60px);align-self:center}\n#amt-blog .amt-case__content h3{margin:0 0 16px;font-size:clamp(24px,2.5vw,32px);font-weight:760;letter-spacing:-.03em;line-height:1.15}\n#amt-blog .amt-case__content p{color:var(--amt-text);font-size:15px;line-height:1.65;margin:0}\n#amt-blog .amt-stats{margin:34px 0;display:grid;grid-template-columns:repeat(2,1fr);gap:22px}\n#amt-blog .amt-stat{padding-top:14px;border-top:1px solid var(--amt-line)}\n#amt-blog .amt-stat b{display:block;margin-bottom:4px;font-size:22px;font-weight:760;letter-spacing:-.02em}\n#amt-blog .amt-stat span{color:var(--amt-muted);font-size:12px;font-weight:600;text-transform:uppercase;letter-spacing:.08em}\n\n/* NEWS LIST */\n#amt-blog .amt-newslist{border-top:1px solid var(--amt-line)}\n#amt-blog .amt-newsitem{min-height:100px;padding:0 14px;display:grid;grid-template-columns:150px 1fr auto;gap:26px;align-items:center;border-bottom:1px solid var(--amt-line);border-radius:14px;transition:background .2s ease}\n#amt-blog .amt-newsitem:hover{background:var(--amt-surface)}\n#amt-blog .amt-newsitem time{color:var(--amt-muted);font-size:13px;font-weight:600}\n#amt-blog .amt-newsitem h3{margin:0;font-size:clamp(18px,1.6vw,26px);font-weight:760;letter-spacing:-.02em;line-height:1.25}\n#amt-blog .amt-newsitem__arrow{color:var(--amt-orange);font-size:22px}\n\n/* VIDEO */\n#amt-blog .amt-videos{display:grid;grid-template-columns:1.45fr .8fr;gap:18px}\n#amt-blog .amt-videomain{padding:12px;border:1px solid var(--amt-line);border-radius:var(--amt-radius-lg);background:#fff;transition:transform .25s ease,box-shadow .25s ease,border-color .25s ease}\n#amt-blog .amt-videomain:hover{transform:translateY(-3px);box-shadow:var(--amt-shadow);border-color:transparent}\n#amt-blog .amt-videomain .amt-media{min-height:400px;border-radius:18px}\n#amt-blog .amt-videomain .amt-card__body{padding:20px 10px 10px}\n#amt-blog .amt-videomain h3{margin:0 0 10px;font-size:24px;font-weight:760;line-height:1.2;letter-spacing:-.025em}\n#amt-blog .amt-videoside{display:grid;gap:18px}\n#amt-blog .amt-videocard{padding:12px;display:grid;grid-template-columns:165px 1fr;gap:16px;border:1px solid var(--amt-line);border-radius:var(--amt-radius-lg);background:#fff;transition:transform .25s ease,box-shadow .25s ease,border-color .25s ease}\n#amt-blog .amt-videocard:hover{transform:translateY(-2px);box-shadow:var(--amt-shadow);border-color:transparent}\n#amt-blog .amt-videocard .amt-media{min-height:146px;border-radius:14px}\n#amt-blog .amt-videocard .amt-card__body{align-self:center;padding-right:8px}\n#amt-blog .amt-videocard h3{margin:0;font-size:15px;font-weight:760;line-height:1.3;letter-spacing:-.02em}\n#amt-blog .amt-play{position:absolute;inset:0;display:grid;place-items:center;color:#fff;pointer-events:none}\n#amt-blog .amt-play::before{content:\"\";width:64px;height:64px;border-radius:50%;background:rgba(255,115,0,.92);display:block}\n#amt-blog .amt-play::after{content:\"\";position:absolute;width:0;height:0;border-left:16px solid #fff;border-top:10px solid transparent;border-bottom:10px solid transparent}\n#amt-blog .amt-videocard .amt-play::before{width:44px;height:44px}\n#amt-blog .amt-videocard .amt-play::after{border-left-width:11px;border-top-width:7px;border-bottom-width:7px}\n\n/* CTA — dark */\n#amt-blog .amt-cta__grid{display:grid;grid-template-columns:1.25fr .75fr;gap:64px;align-items:end}\n#amt-blog .amt-cta .amt-eyebrow{color:#ffb471}\n#amt-blog .amt-cta .amt-title{color:#fff}\n#amt-blog .amt-cta .amt-lead{color:#cacac6}\n#amt-blog .amt-cta__actions{display:flex;gap:10px;flex-wrap:wrap}\n#amt-blog .amt-contacts{margin-top:28px;display:flex;gap:26px;flex-wrap:wrap;color:#aaa;font-size:14px}\n\n/* Full-bleed для страницы Блог (post 1733) */\n\n@media(max-width:1100px){\n  #amt-blog .amt-hero__grid,#amt-blog .amt-featured,#amt-blog .amt-case,#amt-blog .amt-videos,#amt-blog .amt-cta__grid{grid-template-columns:1fr}\n  #amt-blog .amt-hero__aside{padding-left:0;border-left:0}\n  #amt-blog .amt-articles{grid-template-columns:repeat(2,1fr)}\n  #amt-blog .amt-case .amt-media{min-height:420px}\n  #amt-blog .amt-videomain .amt-media{min-height:320px}\n}\n@media(max-width:760px){\n  #amt-blog .amt-section{padding:76px 0}\n  #amt-blog .amt-hero{padding:64px 0 44px}\n  #amt-blog .amt-trust{grid-template-columns:1fr;margin-top:38px}\n  #amt-blog .amt-trust__item,#amt-blog .amt-trust__item:not(:first-child){min-height:auto;padding:16px 0;border-right:0;border-bottom:1px solid var(--amt-line)}\n  #amt-blog .amt-search{display:none}\n  #amt-blog .amt-featured__main .amt-media{min-height:260px}\n  #amt-blog .amt-mini,#amt-blog .amt-videocard{grid-template-columns:1fr}\n  #amt-blog .amt-mini .amt-media,#amt-blog .amt-videocard .amt-media{min-height:200px}\n  #amt-blog .amt-directions,#amt-blog .amt-articles{grid-template-columns:1fr}\n  #amt-blog .amt-newsitem{grid-template-columns:1fr auto;gap:8px 14px;padding:16px 12px}\n  #amt-blog .amt-newsitem time{grid-column:1/-1}\n  #amt-blog .amt-section__head{flex-direction:column;align-items:flex-start;gap:16px}\n  #amt-blog .amt-cta__actions .amt-button{width:100%}\n}\n/* --- */\n#amt-blog [data-amt-grid]{position:relative;min-height:200px;transition:opacity .18s ease}\n#amt-blog [data-amt-grid].is-loading{opacity:.35;pointer-events:none}\n#amt-blog [data-amt-grid].is-loading::after{content:\"\";position:absolute;top:80px;left:50%;transform:translateX(-50%);width:34px;height:34px;border-radius:50%;border:3px solid rgba(255,115,0,.25);border-top-color:var(--amt-orange);animation:amtSpin .8s linear infinite}\n@keyframes amtSpin{to{transform:translateX(-50%) rotate(360deg)}}\n#amt-blog .amt-article,#amt-blog .amt-empty{animation:amtFade .32s ease both}\n@keyframes amtFade{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}\n/* Главная AM.TECH — оформление стандартных виджетов Elementor (шаблон amtech-home-elementor.json) */\nbody.home #amt-blog{width:100vw!important;max-width:100vw!important;margin-left:calc(50% - 50vw)!important;margin-right:calc(50% - 50vw)!important}\nhtml:has(body.home),body.home{overflow-x:clip!important}\n/* обнуляем отступы контейнеров Elementor — сетки задают классы ниже */\n#amt-blog.amte,#amt-blog.amte .e-con{display:flex;flex-direction:var(--flex-direction,column)}\n#amt-blog.amte .e-con{--padding-top:0px;--padding-right:0px;--padding-bottom:0px;--padding-left:0px;--gap:0px;--row-gap:0px;--column-gap:0px;--margin-top:0px;--margin-bottom:0px;padding:0;gap:0;min-width:0}\n#amt-blog.amte .elementor-widget{margin-bottom:0!important;width:auto}\n#amt-blog.amte .elementor-widget-container{margin:0;padding:0}\n#amt-blog.amte .elementor-widget-text-editor p{margin:0}\n#amt-blog.amte .elementor-heading-title{font-family:\"Montserrat\",Arial,sans-serif;color:var(--amt-ink);margin:0}\n#amt-blog.amte .elementor-heading-title a{color:inherit}\n#amt-blog.amte .amt-section{padding:96px 0!important}\n#amt-blog.amte .amte-inner{--width:min(1180px,calc(100% - 48px));width:min(1180px,calc(100% - 48px))!important;max-width:none;margin-inline:auto;display:flex;flex-direction:column}\n\n/* заголовки секций */\n#amt-blog.amte .amte-head{display:grid!important;grid-template-columns:minmax(0,1.25fr) minmax(0,.75fr);gap:48px;align-items:end;margin-bottom:36px}\n#amt-blog.amte .amte-head--btn{display:flex!important;flex-direction:row;justify-content:space-between;align-items:flex-end;gap:24px;margin-bottom:32px}\n#amt-blog.amte .amte-eyebrow p{display:inline-flex;align-items:center;gap:10px;margin-bottom:18px;color:var(--amt-orange);font-size:12px;font-weight:800;line-height:1.2;letter-spacing:.14em;text-transform:uppercase}\n#amt-blog.amte .amte-eyebrow p::before{content:\"\";width:28px;height:2px;background:currentColor}\n#amt-blog.amte .amte-h2 .elementor-heading-title{font-size:clamp(30px,3.6vw,50px);font-weight:760;line-height:1.08;letter-spacing:-.04em;max-width:820px}\n#amt-blog.amte .amte-h3 .elementor-heading-title{font-size:24px;font-weight:600;line-height:1.25}\n#amt-blog.amte .amte-lead p{color:var(--amt-text);font-size:16px;line-height:1.7}\n#amt-blog.amte .amt-section--dark .amte-lead p,#amt-blog.amte .amt-section--dark .amte-contacts p{color:#cfcfcf}\n#amt-blog.amte .amt-section--dark .elementor-heading-title{color:#fff}\n#amt-blog.amte .amt-section--dark a{color:var(--amt-orange)}\n\n/* кнопки */\n#amt-blog.amte .amte-btn .elementor-button{white-space:nowrap;min-height:50px;display:inline-flex;align-items:center;padding:14px 22px;border:1px solid #d9d9d9;border-radius:999px;background:rgba(255,255,255,.75);color:var(--amt-ink);font-family:inherit;font-size:14px;font-weight:760;line-height:1;box-shadow:none;transition:transform .2s,border-color .2s}\n#amt-blog.amte .amte-btn .elementor-button:hover{transform:translateY(-2px);border-color:var(--amt-ink);background:#fff}\n#amt-blog.amte .amte-btn--primary .elementor-button{background:var(--amt-orange);border-color:var(--amt-orange);color:#fff;box-shadow:0 12px 28px rgba(255,115,0,.28)}\n#amt-blog.amte .amte-btn--primary .elementor-button:hover{background:#e86500;border-color:#e86500;color:#fff}\n#amt-blog.amte .amte-btn--primary .elementor-button-text::after{content:\" →\"}\n#amt-blog.amte .amte-actions{display:flex!important;flex-direction:row;flex-wrap:wrap;gap:10px;margin-top:32px}\n#amt-blog.amte .amte-actions--tight{margin-top:0}\n#amt-blog.amte .amte-chips{display:flex!important;flex-direction:row;flex-wrap:wrap;gap:8px;margin:-8px 0 24px}\n#amt-blog.amte .amte-chip .elementor-button{min-height:0;padding:9px 14px;font-size:13px;font-weight:600;background:#fff;border-color:var(--amt-line)}\n#amt-blog.amte .amte-chip .elementor-button:hover{border-color:var(--amt-orange);color:var(--amt-orange);transform:none}\n\n/* карточки моделей */\n#amt-blog.amte .amte-cards{display:grid!important;grid-template-columns:repeat(5,minmax(0,1fr));gap:14px}\n#amt-blog.amte .amte-card{position:relative;display:flex!important;flex-direction:column;padding:10px 10px 16px;border:1px solid var(--amt-line);border-radius:var(--amt-radius-lg);background:#fff;transition:transform .2s,border-color .2s}\n#amt-blog.amte .amte-card:hover{transform:translateY(-3px);border-color:var(--amt-orange)}\n#amt-blog.amte .amte-card__img a,#amt-blog.amte .amte-card__img .elementor-widget-container{display:flex;align-items:center;justify-content:center;aspect-ratio:3/4;border-radius:18px;background:linear-gradient(160deg,#f6f5f2,#ebe9e3)}\n#amt-blog.amte .amte-card__img img{max-width:84%!important;max-height:84%!important;width:auto!important;height:auto!important;object-fit:contain}\n#amt-blog.amte .amte-cards--scan .amte-card__img a,#amt-blog.amte .amte-cards--scan .amte-card__img .elementor-widget-container{aspect-ratio:auto;height:230px;background:#fff;border:1px solid var(--amt-line)}\n#amt-blog.amte .amte-badge{position:absolute!important;left:20px;top:20px;z-index:2}\n#amt-blog.amte .amte-badge p{padding:5px 9px;border-radius:999px;background:#fff;font-size:10.5px;font-weight:700;color:var(--amt-orange);box-shadow:0 4px 14px rgba(0,0,0,.06)}\n#amt-blog.amte .amte-card__title .elementor-heading-title{padding:14px 8px 0;font-size:22px;font-weight:700;line-height:1.2}\n#amt-blog.amte .amte-card__text p{padding:4px 8px 12px;font-size:13px;line-height:1.45;color:var(--amt-text);min-height:3.2em}\n#amt-blog.amte .amte-card__specs{margin-top:auto}\n#amt-blog.amte .amte-card__specs .elementor-widget-container{padding:12px 8px 0;border-top:1px solid var(--amt-line);display:grid;gap:6px}\n#amt-blog.amte .amte-card__specs span{font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--amt-muted)}\n#amt-blog.amte .amte-card__specs strong{font-size:14px;color:var(--amt-ink)}\n\n/* факты */\n#amt-blog.amte .amte-facts{display:grid!important;grid-template-columns:repeat(4,minmax(0,1fr));margin-top:28px;border-top:1px solid var(--amt-line)}\n#amt-blog.amte .amte-fact{padding:22px 22px 0 0}\n#amt-blog.amte .amte-fact+.amte-fact{padding-left:22px;border-left:1px solid var(--amt-line)}\n#amt-blog.amte .amte-fact p{font-size:13px;line-height:1.5;color:var(--amt-text)}\n#amt-blog.amte .amte-fact strong{display:inline-block;margin-bottom:6px;font-size:15px;color:var(--amt-ink)}\n\n/* интегратор */\n#amt-blog.amte .amte-techs{display:grid!important;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin-bottom:56px}\n#amt-blog.amte .amte-tech{padding:10px;border:1px solid var(--amt-line);border-radius:var(--amt-radius-md);background:#fff;transition:border-color .2s}\n#amt-blog.amte .amte-tech:hover{border-color:var(--amt-orange)}\n#amt-blog.amte .amte-tech .elementor-image-box-wrapper{text-align:left}\n#amt-blog.amte .amte-tech .elementor-image-box-img{width:100%!important;height:140px;margin:0 0 12px!important;border-radius:14px;background:var(--amt-surface);display:flex;align-items:center;justify-content:center}\n#amt-blog.amte .amte-tech .elementor-image-box-img img{max-height:82%;max-width:82%;width:auto;object-fit:contain}\n#amt-blog.amte .amte-tech .elementor-image-box-title{margin:0 4px 4px;font-size:16px;font-weight:700;color:var(--amt-ink)}\n#amt-blog.amte .amte-tech .elementor-image-box-title a{color:inherit}\n#amt-blog.amte .amte-tech .elementor-image-box-description{margin:0 4px 4px;font-size:13px;line-height:1.45;color:var(--amt-text)}\n#amt-blog.amte .amte-route{display:grid!important;grid-template-columns:repeat(6,minmax(0,1fr));margin-top:20px}\n#amt-blog.amte .amte-step{position:relative;padding:20px 18px 0 0;border-top:2px solid var(--amt-line)}\n#amt-blog.amte .amte-step::before{content:\"\";position:absolute;top:-6px;left:0;width:10px;height:10px;border-radius:50%;background:var(--amt-orange)}\n#amt-blog.amte .amte-step span{font-size:12px;font-weight:700;color:var(--amt-orange)}\n#amt-blog.amte .amte-step h4{margin:6px 0;font-size:16px;color:var(--amt-ink)}\n#amt-blog.amte .amte-step p{font-size:13px;line-height:1.5;color:var(--amt-text)}\n\n/* услуги */\n#amt-blog.amte .amte-svcs{display:grid!important;grid-template-columns:minmax(0,.9fr) minmax(0,1.1fr);gap:56px;align-items:center}\n#amt-blog.amte .amte-svcs__intro .amte-lead{margin:18px 0 24px}\n#amt-blog.amte .amte-svc-list{border-top:1px solid var(--amt-line)}\n#amt-blog.amte .amte-svc{display:grid!important;grid-template-columns:minmax(0,.9fr) minmax(0,1.1fr);gap:16px;align-items:center;padding:20px 8px;border-bottom:1px solid var(--amt-line)}\n#amt-blog.amte .amte-svc:hover{background:var(--amt-surface)}\n#amt-blog.amte .amte-svc__title .elementor-heading-title{font-size:18px;font-weight:700}\n#amt-blog.amte .amte-svc__title a::after{content:\" →\";color:var(--amt-orange)}\n#amt-blog.amte .amte-svc__text p{font-size:14px;color:var(--amt-text)}\n\n/* «Нам доверяют» */\n#amt-blog.amte .amte-trust{margin-top:56px;padding:28px;border:1px solid var(--amt-line);border-radius:var(--amt-radius-xl);background:var(--amt-surface)}\n#amt-blog.amte .amte-trust__head{display:flex!important;justify-content:space-between;align-items:baseline;gap:16px;flex-wrap:wrap;margin-bottom:20px}\n#amt-blog.amte .amte-trust__sub p{font-size:14px;color:var(--amt-muted)}\n#amt-blog.amte .amte-logos{display:grid!important;grid-template-columns:repeat(5,minmax(0,1fr));gap:12px}\n#amt-blog.amte .amte-logo{padding:22px 14px 16px;border-radius:var(--amt-radius-md);background:#fff;border:1px solid var(--amt-line)}\n#amt-blog.amte .amte-logo .elementor-image-box-wrapper{text-align:center}\n#amt-blog.amte .amte-logo .elementor-image-box-img{width:100%!important;height:64px;margin:0 0 12px!important;display:flex;align-items:center;justify-content:center}\n#amt-blog.amte .amte-logo .elementor-image-box-img img{max-height:64px;max-width:80%;width:auto;object-fit:contain}\n#amt-blog.amte .amte-logo img[alt*=\"Баумана\"]{transform:scale(1.9)}\n#amt-blog.amte .amte-logo .elementor-image-box-title{margin:0;font-size:12.5px;font-weight:600;color:var(--amt-text);line-height:1.3}\n\n/* заявка */\n#amt-blog.amte .amte-contact{display:grid!important;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:56px;align-items:start}\n#amt-blog.amte .amte-contact .amte-lead{margin:18px 0}\n#amt-blog.amte .amte-contacts p{font-size:14px}\n#amt-blog.amte .amte-form{padding:8px 20px;border-radius:var(--amt-radius-lg);background:#fff;color:var(--amt-ink);min-height:200px}\n#amt-blog.amte .amte-form .b24-form-header-padding,#amt-blog.amte .amte-form .b24-form-sign{display:none}\n\n@media(max-width:1100px){\n  #amt-blog.amte .amte-head,#amt-blog.amte .amte-svcs,#amt-blog.amte .amte-contact{grid-template-columns:1fr;gap:24px}\n  #amt-blog.amte .amte-cards{grid-template-columns:repeat(3,minmax(0,1fr))}\n  #amt-blog.amte .amte-facts{grid-template-columns:repeat(2,minmax(0,1fr))}\n  #amt-blog.amte .amte-fact:nth-child(3){padding-left:0;border-left:0}\n  #amt-blog.amte .amte-techs{grid-template-columns:repeat(2,minmax(0,1fr))}\n  #amt-blog.amte .amte-route{grid-template-columns:repeat(3,minmax(0,1fr));row-gap:24px}\n  #amt-blog.amte .amte-logos{grid-template-columns:repeat(3,minmax(0,1fr))}\n}\n@media(max-width:760px){\n  #amt-blog.amte .amt-section{padding:64px 0!important}\n  #amt-blog.amte .amte-head--btn{flex-direction:column;align-items:flex-start}\n  #amt-blog.amte .amte-cards{display:flex!important;flex-direction:row;overflow-x:auto;scroll-snap-type:x mandatory;gap:10px;margin:0 -24px;padding:0 24px 6px}\n  #amt-blog.amte .amte-card{flex:0 0 72%;scroll-snap-align:start}\n  #amt-blog.amte .amte-chips{flex-wrap:nowrap;overflow-x:auto;margin:-8px -24px 18px;padding:0 24px 4px}\n  #amt-blog.amte .amte-chip .elementor-button{white-space:nowrap}\n  #amt-blog.amte .amte-facts{grid-template-columns:1fr}\n  #amt-blog.amte .amte-fact,#amt-blog.amte .amte-fact+.amte-fact{padding:16px 0;border-left:0;border-bottom:1px solid var(--amt-line)}\n  #amt-blog.amte .amte-techs{grid-template-columns:1fr 1fr}\n  #amt-blog.amte .amte-tech .elementor-image-box-img{height:110px}\n  #amt-blog.amte .amte-route{grid-template-columns:1fr 1fr}\n  #amt-blog.amte .amte-svc{grid-template-columns:1fr}\n  #amt-blog.amte .amte-actions .amte-btn,#amt-blog.amte .amte-actions .elementor-button{width:100%;justify-content:center}\n  #amt-blog.amte .amte-trust{padding:20px 16px;border-radius:var(--amt-radius-lg)}\n  #amt-blog.amte .amte-logos{grid-template-columns:1fr 1fr;gap:8px}\n  #amt-blog.amte .amte-logo:last-child{grid-column:span 2}\n}\n\n</style>\n<script>\n/* Кейсы и статьи: подставляем последние записи из REST API (в разметке — запасной вариант на момент вставки) */\n(function () {\n  function esc(s) { var d = document.createElement('div'); d.textContent = s || ''; return d.innerHTML; }\n  function text(h) { var d = document.createElement('div'); d.innerHTML = h || ''; return (d.textContent || '').replace(/^\\s*Коротко\\s*[:.]\\s*/, '').trim(); }\n  function cut(t, n) { var w = t.split(/\\s+/); return w.length > n ? w.slice(0, n).join(' ') + '…' : t; }\n  document.querySelectorAll('[data-amh-feed]').forEach(function (box) {\n    var type = box.getAttribute('data-amh-feed');\n    fetch('/wp-json/wp/v2/' + type + '?per_page=3&_embed=wp:featuredmedia,wp:term').then(function (r) { return r.ok ? r.json() : null; }).then(function (items) {\n      if (!items || !items.length) return;\n      box.innerHTML = items.map(function (it) {\n        var m = it._embedded && it._embedded['wp:featuredmedia'] && it._embedded['wp:featuredmedia'][0];\n        var sz = m && m.media_details && m.media_details.sizes;\n        var img = m ? ((sz && (sz.medium_large || sz.large) || {}).source_url || m.source_url) : '';\n        var label = '';\n        (it._embedded && it._embedded['wp:term'] || []).forEach(function (g) { g.forEach(function (t) { if (!label) label = t.name; }); });\n        var d = it.date.slice(0, 10).split('-').reverse().join('.');\n        return '<a class=\"amt-article\" href=\"' + it.link + '\"><div class=\"amt-media\"' + (img ? ' style=\"background-image:url(' + img + ');background-size:cover;background-position:center;\"' : '') + '><span class=\"amt-media__label\">' + label + '</span></div>' +\n          '<div class=\"amt-article__body\"><div class=\"amt-label\">' + label + '</div><h3>' + it.title.rendered + '</h3><p>' + esc(cut(text(it.excerpt.rendered), 20)) + '</p>' +\n          '<div class=\"amt-meta\"><span>' + d + '</span><span>Читать →</span></div></div></a>';\n      }).join('');\n    }).catch(function () {});\n  });\n})();\n</script>",
+      "_title": "Стили главной (не удалять)"
+     },
+     "elements": []
+    },
+    {
+     "id": "18ef84c",
+     "elType": "container",
+     "settings": {
+      "content_width": "full",
+      "flex_direction": "column",
+      "_css_classes": "amt-section ",
+      "css_classes": "amt-section ",
+      "_title": "SLM-принтеры AMT"
+     },
+     "elements": [
+      {
+       "id": "1a25284",
+       "elType": "container",
+       "settings": {
+        "content_width": "full",
+        "flex_direction": "column",
+        "_css_classes": "amt-container amte-inner",
+        "css_classes": "amt-container amte-inner"
+       },
+       "elements": [
+        {
+         "id": "099ef43",
+         "elType": "container",
+         "settings": {
+          "content_width": "full",
+          "flex_direction": "row",
+          "_css_classes": "amte-head",
+          "css_classes": "amte-head"
+         },
+         "elements": [
+          {
+           "id": "171f556",
+           "elType": "container",
+           "settings": {
+            "content_width": "full",
+            "flex_direction": "column",
+            "_css_classes": "amte-head__copy",
+            "css_classes": "amte-head__copy"
+           },
+           "elements": [
+            {
+             "id": "21b5477",
+             "elType": "widget",
+             "widgetType": "text-editor",
+             "settings": {
+              "editor": "<p>Отечественный производитель</p>",
+              "_css_classes": "amte-eyebrow"
+             },
+             "elements": []
+            },
+            {
+             "id": "11ba81d",
+             "elType": "widget",
+             "widgetType": "heading",
+             "settings": {
+              "title": "SLM 3D-принтеры по металлу российского производства",
+              "header_size": "h2",
+              "_css_classes": "amte-h2"
+             },
+             "elements": []
+            }
+           ],
+           "isInner": true
+          },
+          {
+           "id": "95e75f5",
+           "elType": "widget",
+           "widgetType": "text-editor",
+           "settings": {
+            "editor": "<p>AM.TECH — российский производитель промышленных 3D-принтеров по металлу: разрабатываем и собираем SLM-системы линейки AMT — от компактной AMT-16 до флагманской AMT-64 с высотой построения до 1200 мм. Собственное производство в России, открытое ПО PrintMate, тестовая печать вашей детали до покупки.</p>",
+            "_css_classes": "amte-lead"
+           },
+           "elements": []
+          }
+         ],
+         "isInner": true
+        },
+        {
+         "id": "70eaec3",
+         "elType": "container",
+         "settings": {
+          "content_width": "full",
+          "flex_direction": "row",
+          "_css_classes": "amte-cards",
+          "css_classes": "amte-cards",
+          "_title": "Модели AMT"
+         },
+         "elements": [
+          {
+           "id": "02f5e1e",
+           "elType": "container",
+           "settings": {
+            "content_width": "full",
+            "flex_direction": "column",
+            "_css_classes": "amte-card",
+            "css_classes": "amte-card",
+            "_title": "AMT-16"
+           },
+           "elements": [
+            {
+             "id": "6cc95b7",
+             "elType": "widget",
+             "widgetType": "text-editor",
+             "settings": {
+              "editor": "<p>ГИСП № 10876808</p>",
+              "_css_classes": "amte-badge"
+             },
+             "elements": []
+            },
+            {
+             "id": "b9efd17",
+             "elType": "widget",
+             "widgetType": "image",
+             "settings": {
+              "image": {
+               "url": "https://am-tech.ru/wp-content/uploads/2025/08/g12s47zqysfj6sz9xypp4ylc4zqucftz.png",
+               "id": "",
+               "alt": "SLM 3D-принтер AMT-16",
+               "source": "library"
+              },
+              "image_size": "full",
+              "link_to": "custom",
+              "link": {
+               "url": "https://am-tech.ru/product/amt-16/",
+               "is_external": "",
+               "nofollow": "",
+               "custom_attributes": ""
+              },
+              "_css_classes": "amte-card__img"
+             },
+             "elements": []
+            },
+            {
+             "id": "7c2aa19",
+             "elType": "widget",
+             "widgetType": "heading",
+             "settings": {
+              "title": "AMT-16",
+              "header_size": "h3",
+              "link": {
+               "url": "https://am-tech.ru/product/amt-16/",
+               "is_external": "",
+               "nofollow": "",
+               "custom_attributes": ""
+              },
+              "_css_classes": "amte-card__title"
+             },
+             "elements": []
+            },
+            {
+             "id": "3ae79b3",
+             "elType": "widget",
+             "widgetType": "text-editor",
+             "settings": {
+              "editor": "<p>Компактная установка для НИОКР, прототипов и малых серий</p>",
+              "_css_classes": "amte-card__text"
+             },
+             "elements": []
+            },
+            {
+             "id": "dd13bd2",
+             "elType": "widget",
+             "widgetType": "text-editor",
+             "settings": {
+              "editor": "<p><span>Область</span><br><strong>Ø165 × 225 мм</strong></p><p><span>Лазеры</span><br><strong>1 × 500 Вт</strong></p>",
+              "_css_classes": "amte-card__specs"
+             },
+             "elements": []
+            }
+           ],
+           "isInner": true
+          },
+          {
+           "id": "6a10587",
+           "elType": "container",
+           "settings": {
+            "content_width": "full",
+            "flex_direction": "column",
+            "_css_classes": "amte-card",
+            "css_classes": "amte-card",
+            "_title": "AMT-32"
+           },
+           "elements": [
+            {
+             "id": "9802876",
+             "elType": "widget",
+             "widgetType": "text-editor",
+             "settings": {
+              "editor": "<p>ГИСП № 10901161</p>",
+              "_css_classes": "amte-badge"
+             },
+             "elements": []
+            },
+            {
+             "id": "75d0998",
+             "elType": "widget",
+             "widgetType": "image",
+             "settings": {
+              "image": {
+               "url": "https://am-tech.ru/wp-content/uploads/2025/08/8vperfsgb4n6lgpa4x08s67hzpszl7r9.png",
+               "id": "",
+               "alt": "SLM 3D-принтер AMT-32",
+               "source": "library"
+              },
+              "image_size": "full",
+              "link_to": "custom",
+              "link": {
+               "url": "https://am-tech.ru/product/3d-printer-amt-32/",
+               "is_external": "",
+               "nofollow": "",
+               "custom_attributes": ""
+              },
+              "_css_classes": "amte-card__img"
+             },
+             "elements": []
+            },
+            {
+             "id": "71137ab",
+             "elType": "widget",
+             "widgetType": "heading",
+             "settings": {
+              "title": "AMT-32",
+              "header_size": "h3",
+              "link": {
+               "url": "https://am-tech.ru/product/3d-printer-amt-32/",
+               "is_external": "",
+               "nofollow": "",
+               "custom_attributes": ""
+              },
+              "_css_classes": "amte-card__title"
+             },
+             "elements": []
+            },
+            {
+             "id": "09fbe2a",
+             "elType": "widget",
+             "widgetType": "text-editor",
+             "settings": {
+              "editor": "<p>Два лазера, масса изделия до 300 кг</p>",
+              "_css_classes": "amte-card__text"
+             },
+             "elements": []
+            },
+            {
+             "id": "55c7055",
+             "elType": "widget",
+             "widgetType": "text-editor",
+             "settings": {
+              "editor": "<p><span>Область</span><br><strong>320 × 320 × 375 мм</strong></p><p><span>Лазеры</span><br><strong>2 × 500 Вт</strong></p>",
+              "_css_classes": "amte-card__specs"
+             },
+             "elements": []
+            }
+           ],
+           "isInner": true
+          },
+          {
+           "id": "6d13cb6",
+           "elType": "container",
+           "settings": {
+            "content_width": "full",
+            "flex_direction": "column",
+            "_css_classes": "amte-card",
+            "css_classes": "amte-card",
+            "_title": "AMT-43"
+           },
+           "elements": [
+            {
+             "id": "d090eab",
+             "elType": "widget",
+             "widgetType": "image",
+             "settings": {
+              "image": {
+               "url": "https://am-tech.ru/wp-content/uploads/2026/09/amt-34_rus.png",
+               "id": "",
+               "alt": "SLM 3D-принтер AMT-43",
+               "source": "library"
+              },
+              "image_size": "full",
+              "link_to": "custom",
+              "link": {
+               "url": "https://am-tech.ru/product/amt-43/",
+               "is_external": "",
+               "nofollow": "",
+               "custom_attributes": ""
+              },
+              "_css_classes": "amte-card__img"
+             },
+             "elements": []
+            },
+            {
+             "id": "1704526",
+             "elType": "widget",
+             "widgetType": "heading",
+             "settings": {
+              "title": "AMT-43",
+              "header_size": "h3",
+              "link": {
+               "url": "https://am-tech.ru/product/amt-43/",
+               "is_external": "",
+               "nofollow": "",
+               "custom_attributes": ""
+              },
+              "_css_classes": "amte-card__title"
+             },
+             "elements": []
+            },
+            {
+             "id": "d358936",
+             "elType": "widget",
+             "widgetType": "text-editor",
+             "settings": {
+              "editor": "<p>Высокая производительность, замкнутый контур работы с порошком</p>",
+              "_css_classes": "amte-card__text"
+             },
+             "elements": []
+            },
+            {
+             "id": "f834920",
+             "elType": "widget",
+             "widgetType": "text-editor",
+             "settings": {
+              "editor": "<p><span>Область</span><br><strong>320 × 520 × 370 мм</strong></p><p><span>Лазеры</span><br><strong>3 × 500 Вт</strong></p>",
+              "_css_classes": "amte-card__specs"
+             },
+             "elements": []
+            }
+           ],
+           "isInner": true
+          },
+          {
+           "id": "885205a",
+           "elType": "container",
+           "settings": {
+            "content_width": "full",
+            "flex_direction": "column",
+            "_css_classes": "amte-card",
+            "css_classes": "amte-card",
+            "_title": "AMT-45"
+           },
+           "elements": [
+            {
+             "id": "4a4bbff",
+             "elType": "widget",
+             "widgetType": "image",
+             "settings": {
+              "image": {
+               "url": "https://am-tech.ru/wp-content/uploads/2026/05/amt-45-1.png",
+               "id": "",
+               "alt": "SLM 3D-принтер AMT-45",
+               "source": "library"
+              },
+              "image_size": "full",
+              "link_to": "custom",
+              "link": {
+               "url": "https://am-tech.ru/product/amt-45/",
+               "is_external": "",
+               "nofollow": "",
+               "custom_attributes": ""
+              },
+              "_css_classes": "amte-card__img"
+             },
+             "elements": []
+            },
+            {
+             "id": "2cbea67",
+             "elType": "widget",
+             "widgetType": "heading",
+             "settings": {
+              "title": "AMT-45",
+              "header_size": "h3",
+              "link": {
+               "url": "https://am-tech.ru/product/amt-45/",
+               "is_external": "",
+               "nofollow": "",
+               "custom_attributes": ""
+              },
+              "_css_classes": "amte-card__title"
+             },
+             "elements": []
+            },
+            {
+             "id": "d7bccd3",
+             "elType": "widget",
+             "widgetType": "text-editor",
+             "settings": {
+              "editor": "<p>Крупные детали, полная автоматизация процессов</p>",
+              "_css_classes": "amte-card__text"
+             },
+             "elements": []
+            },
+            {
+             "id": "7bd1265",
+             "elType": "widget",
+             "widgetType": "text-editor",
+             "settings": {
+              "editor": "<p><span>Область</span><br><strong>450 × 450 × 450 мм</strong></p><p><span>Лазеры</span><br><strong>4 × 500 Вт</strong></p>",
+              "_css_classes": "amte-card__specs"
+             },
+             "elements": []
+            }
+           ],
+           "isInner": true
+          },
+          {
+           "id": "922b111",
+           "elType": "container",
+           "settings": {
+            "content_width": "full",
+            "flex_direction": "column",
+            "_css_classes": "amte-card",
+            "css_classes": "amte-card",
+            "_title": "AMT-64"
+           },
+           "elements": [
+            {
+             "id": "81efb43",
+             "elType": "widget",
+             "widgetType": "image",
+             "settings": {
+              "image": {
+               "url": "https://am-tech.ru/wp-content/uploads/2025/08/mkiqr01hxfsz01whbu7xx3yp7c54fgua.png",
+               "id": "",
+               "alt": "SLM 3D-принтер AMT-64",
+               "source": "library"
+              },
+              "image_size": "full",
+              "link_to": "custom",
+              "link": {
+               "url": "https://am-tech.ru/product/3d-printer-amt-64/",
+               "is_external": "",
+               "nofollow": "",
+               "custom_attributes": ""
+              },
+              "_css_classes": "amte-card__img"
+             },
+             "elements": []
+            },
+            {
+             "id": "f139d56",
+             "elType": "widget",
+             "widgetType": "heading",
+             "settings": {
+              "title": "AMT-64",
+              "header_size": "h3",
+              "link": {
+               "url": "https://am-tech.ru/product/3d-printer-amt-64/",
+               "is_external": "",
+               "nofollow": "",
+               "custom_attributes": ""
+              },
+              "_css_classes": "amte-card__title"
+             },
+             "elements": []
+            },
+            {
+             "id": "ebb9b31",
+             "elType": "widget",
+             "widgetType": "text-editor",
+             "settings": {
+              "editor": "<p>Флагман: высота построения до 1200 мм</p>",
+              "_css_classes": "amte-card__text"
+             },
+             "elements": []
+            },
+            {
+             "id": "923861d",
+             "elType": "widget",
+             "widgetType": "text-editor",
+             "settings": {
+              "editor": "<p><span>Область</span><br><strong>600 × 600 × 600 мм</strong></p><p><span>Лазеры</span><br><strong>4 × 500 Вт</strong></p>",
+              "_css_classes": "amte-card__specs"
+             },
+             "elements": []
+            }
+           ],
+           "isInner": true
+          }
+         ],
+         "isInner": true
+        },
+        {
+         "id": "f6ba9e6",
+         "elType": "container",
+         "settings": {
+          "content_width": "full",
+          "flex_direction": "row",
+          "_css_classes": "amte-facts",
+          "css_classes": "amte-facts"
+         },
+         "elements": [
+          {
+           "id": "9c5e68e",
+           "elType": "widget",
+           "widgetType": "text-editor",
+           "settings": {
+            "editor": "<p><strong>Собственная разработка</strong><br>Установки AMT проектируются и собираются в России, контроль качества на каждом этапе.</p>",
+            "_css_classes": "amte-fact"
+           },
+           "elements": []
+          },
+          {
+           "id": "121ec44",
+           "elType": "widget",
+           "widgetType": "text-editor",
+           "settings": {
+            "editor": "<p><strong>Реестр ГИСП</strong><br>AMT-16 и AMT-32 внесены в реестр российской промышленной продукции — для закупок по ПП 719.</p>",
+            "_css_classes": "amte-fact"
+           },
+           "elements": []
+          },
+          {
+           "id": "f0feddd",
+           "elType": "widget",
+           "widgetType": "text-editor",
+           "settings": {
+            "editor": "<p><strong>PrintMate</strong><br>Собственная открытая платформа: более 90 параметров процесса под ваш порошок и задачу.</p>",
+            "_css_classes": "amte-fact"
+           },
+           "elements": []
+          },
+          {
+           "id": "f90084c",
+           "elType": "widget",
+           "widgetType": "text-editor",
+           "settings": {
+            "editor": "<p><strong>Единая архитектура</strong><br>Одна лазерно-оптическая система в серии AMT — режимы переносятся между установками.</p>",
+            "_css_classes": "amte-fact"
+           },
+           "elements": []
+          }
+         ],
+         "isInner": true
+        },
+        {
+         "id": "00611fc",
+         "elType": "container",
+         "settings": {
+          "content_width": "full",
+          "flex_direction": "row",
+          "_css_classes": "amte-actions",
+          "css_classes": "amte-actions"
+         },
+         "elements": [
+          {
+           "id": "2fa2097",
+           "elType": "widget",
+           "widgetType": "button",
+           "settings": {
+            "text": "Подобрать установку AMT",
+            "link": {
+             "url": "#contact-block",
+             "is_external": "",
+             "nofollow": "",
+             "custom_attributes": ""
+            },
+            "_css_classes": "amte-btn amte-btn--primary "
+           },
+           "elements": []
+          },
+          {
+           "id": "42b8a82",
+           "elType": "widget",
+           "widgetType": "button",
+           "settings": {
+            "text": "Все SLM 3D-принтеры",
+            "link": {
+             "url": "https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/",
+             "is_external": "",
+             "nofollow": "",
+             "custom_attributes": ""
+            },
+            "_css_classes": "amte-btn "
+           },
+           "elements": []
+          },
+          {
+           "id": "e78633f",
+           "elType": "widget",
+           "widgetType": "button",
+           "settings": {
+            "text": "Тестовая печать детали",
+            "link": {
+             "url": "https://am-tech.ru/uslugi/3d-pechat-metallom/#calc",
+             "is_external": "",
+             "nofollow": "",
+             "custom_attributes": ""
+            },
+            "_css_classes": "amte-btn "
+           },
+           "elements": []
+          }
+         ],
+         "isInner": true
+        }
+       ],
+       "isInner": true
+      }
+     ],
+     "isInner": true
+    },
+    {
+     "id": "1ba9bcc",
+     "elType": "container",
+     "settings": {
+      "content_width": "full",
+      "flex_direction": "column",
+      "_css_classes": "amt-section amt-section--soft",
+      "css_classes": "amt-section amt-section--soft",
+      "_title": "3D-сканеры"
+     },
+     "elements": [
+      {
+       "id": "14c09f7",
+       "elType": "container",
+       "settings": {
+        "content_width": "full",
+        "flex_direction": "column",
+        "_css_classes": "amt-container amte-inner",
+        "css_classes": "amt-container amte-inner"
+       },
+       "elements": [
+        {
+         "id": "fba81c7",
+         "elType": "container",
+         "settings": {
+          "content_width": "full",
+          "flex_direction": "row",
+          "_css_classes": "amte-head",
+          "css_classes": "amte-head"
+         },
+         "elements": [
+          {
+           "id": "c9575db",
+           "elType": "container",
+           "settings": {
+            "content_width": "full",
+            "flex_direction": "column",
+            "_css_classes": "amte-head__copy",
+            "css_classes": "amte-head__copy"
+           },
+           "elements": [
+            {
+             "id": "2abc008",
+             "elType": "widget",
+             "widgetType": "text-editor",
+             "settings": {
+              "editor": "<p>3D-сканеры и метрология</p>",
+              "_css_classes": "amte-eyebrow"
+             },
+             "elements": []
+            },
+            {
+             "id": "047208c",
+             "elType": "widget",
+             "widgetType": "heading",
+             "settings": {
+              "title": "Промышленные 3D-сканеры для контроля геометрии и реверс-инжиниринга",
+              "header_size": "h2",
+              "_css_classes": "amte-h2"
+             },
+             "elements": []
+            }
+           ],
+           "isInner": true
+          },
+          {
+           "id": "f08cddd",
+           "elType": "widget",
+           "widgetType": "text-editor",
+           "settings": {
+            "editor": "<p>Ручные, беспроводные и трекинговые 3D-сканеры для контроля геометрии деталей и оснастки, реверс-инжиниринга и оцифровки крупных объектов, геодезические SLAM- и наземные сканеры. Модели внесены в реестр средств измерений. Покажем сканер на вашей детали.</p>",
+            "_css_classes": "amte-lead"
+           },
+           "elements": []
+          }
+         ],
+         "isInner": true
+        },
+        {
+         "id": "0c59214",
+         "elType": "container",
+         "settings": {
+          "content_width": "full",
+          "flex_direction": "row",
+          "_css_classes": "amte-chips",
+          "css_classes": "amte-chips",
+          "_title": "Типы сканеров"
+         },
+         "elements": [
+          {
+           "id": "b6bf6cf",
+           "elType": "widget",
+           "widgetType": "button",
+           "settings": {
+            "text": "Ручные 3D-сканеры",
+            "link": {
+             "url": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/ruchnye-3d-skanery/",
+             "is_external": "",
+             "nofollow": "",
+             "custom_attributes": ""
+            },
+            "_css_classes": "amte-btn amte-chip"
+           },
+           "elements": []
+          },
+          {
+           "id": "2e685a1",
+           "elType": "widget",
+           "widgetType": "button",
+           "settings": {
+            "text": "Лазерные 3D-сканеры",
+            "link": {
+             "url": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/lazernye-3d-skanery/",
+             "is_external": "",
+             "nofollow": "",
+             "custom_attributes": ""
+            },
+            "_css_classes": "amte-btn amte-chip"
+           },
+           "elements": []
+          },
+          {
+           "id": "d7a0749",
+           "elType": "widget",
+           "widgetType": "button",
+           "settings": {
+            "text": "Беспроводные",
+            "link": {
+             "url": "https://am-tech.ru/katalog/besprovodnoj-skaner/",
+             "is_external": "",
+             "nofollow": "",
+             "custom_attributes": ""
+            },
+            "_css_classes": "amte-btn amte-chip"
+           },
+           "elements": []
+          },
+          {
+           "id": "1faec44",
+           "elType": "widget",
+           "widgetType": "button",
+           "settings": {
+            "text": "Российские 3D-сканеры",
+            "link": {
+             "url": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/rossijskie-3d-skanery/",
+             "is_external": "",
+             "nofollow": "",
+             "custom_attributes": ""
+            },
+            "_css_classes": "amte-btn amte-chip"
+           },
+           "elements": []
+          },
+          {
+           "id": "e39da72",
+           "elType": "widget",
+           "widgetType": "button",
+           "settings": {
+            "text": "Геодезические",
+            "link": {
+             "url": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/geodesicheskie-3d-scaneri/",
+             "is_external": "",
+             "nofollow": "",
+             "custom_attributes": ""
+            },
+            "_css_classes": "amte-btn amte-chip"
+           },
+           "elements": []
+          },
+          {
+           "id": "e7d12c0",
+           "elType": "widget",
+           "widgetType": "button",
+           "settings": {
+            "text": "Все 3D-сканеры",
+            "link": {
+             "url": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/",
+             "is_external": "",
+             "nofollow": "",
+             "custom_attributes": ""
+            },
+            "_css_classes": "amte-btn amte-chip"
+           },
+           "elements": []
+          }
+         ],
+         "isInner": true
+        },
+        {
+         "id": "c43220e",
+         "elType": "container",
+         "settings": {
+          "content_width": "full",
+          "flex_direction": "row",
+          "_css_classes": "amte-cards amte-cards--scan",
+          "css_classes": "amte-cards amte-cards--scan",
+          "_title": "Модели сканеров"
+         },
+         "elements": [
+          {
+           "id": "4d304e7",
+           "elType": "container",
+           "settings": {
+            "content_width": "full",
+            "flex_direction": "column",
+            "_css_classes": "amte-card",
+            "css_classes": "amte-card",
+            "_title": "KSCAN MAGIC II"
+           },
+           "elements": [
+            {
+             "id": "a28ffbc",
+             "elType": "widget",
+             "widgetType": "text-editor",
+             "settings": {
+              "editor": "<p>В реестре СИ</p>",
+              "_css_classes": "amte-badge"
+             },
+             "elements": []
+            },
+            {
+             "id": "64c89bd",
+             "elType": "widget",
+             "widgetType": "image",
+             "settings": {
+              "image": {
+               "url": "https://am-tech.ru/wp-content/uploads/2025/08/kgzrwpjvzyjlsp5as7x2j1tbafm1h2cp-1.png",
+               "id": "",
+               "alt": "3D-сканер KSCAN MAGIC II",
+               "source": "library"
+              },
+              "image_size": "full",
+              "link_to": "custom",
+              "link": {
+               "url": "https://am-tech.ru/product/3d-skaner-kscan-magic-ii/",
+               "is_external": "",
+               "nofollow": "",
+               "custom_attributes": ""
+              },
+              "_css_classes": "amte-card__img"
+             },
+             "elements": []
+            },
+            {
+             "id": "0d9faa1",
+             "elType": "widget",
+             "widgetType": "heading",
+             "settings": {
+              "title": "KSCAN MAGIC II",
+              "header_size": "h3",
+              "link": {
+               "url": "https://am-tech.ru/product/3d-skaner-kscan-magic-ii/",
+               "is_external": "",
+               "nofollow": "",
+               "custom_attributes": ""
+              },
+              "_css_classes": "amte-card__title"
+             },
+             "elements": []
+            },
+            {
+             "id": "a1b4e08",
+             "elType": "widget",
+             "widgetType": "text-editor",
+             "settings": {
+              "editor": "<p>Ручной лазерный</p>",
+              "_css_classes": "amte-card__text"
+             },
+             "elements": []
+            },
+            {
+             "id": "47ee634",
+             "elType": "widget",
+             "widgetType": "text-editor",
+             "settings": {
+              "editor": "<p><span>Точность</span><br><strong>0,02 мм</strong></p><p><span>Скорость</span><br><strong>до 4 150 000 т/с</strong></p><p><span>Вес</span><br><strong>1,35 кг</strong></p>",
+              "_css_classes": "amte-card__specs"
+             },
+             "elements": []
+            }
+           ],
+           "isInner": true
+          },
+          {
+           "id": "315b5fc",
+           "elType": "container",
+           "settings": {
+            "content_width": "full",
+            "flex_direction": "column",
+            "_css_classes": "amte-card",
+            "css_classes": "amte-card",
+            "_title": "SIMSCAN S"
+           },
+           "elements": [
+            {
+             "id": "f66aff2",
+             "elType": "widget",
+             "widgetType": "text-editor",
+             "settings": {
+              "editor": "<p>В реестре СИ</p>",
+              "_css_classes": "amte-badge"
+             },
+             "elements": []
+            },
+            {
+             "id": "3c93831",
+             "elType": "widget",
+             "widgetType": "image",
+             "settings": {
+              "image": {
+               "url": "https://am-tech.ru/wp-content/uploads/2026/03/1.png",
+               "id": "",
+               "alt": "3D-сканер SIMSCAN S",
+               "source": "library"
+              },
+              "image_size": "full",
+              "link_to": "custom",
+              "link": {
+               "url": "https://am-tech.ru/product/3d-skaner-simscan-s/",
+               "is_external": "",
+               "nofollow": "",
+               "custom_attributes": ""
+              },
+              "_css_classes": "amte-card__img"
+             },
+             "elements": []
+            },
+            {
+             "id": "f7a4787",
+             "elType": "widget",
+             "widgetType": "heading",
+             "settings": {
+              "title": "SIMSCAN S",
+              "header_size": "h3",
+              "link": {
+               "url": "https://am-tech.ru/product/3d-skaner-simscan-s/",
+               "is_external": "",
+               "nofollow": "",
+               "custom_attributes": ""
+              },
+              "_css_classes": "amte-card__title"
+             },
+             "elements": []
+            },
+            {
+             "id": "94091d1",
+             "elType": "widget",
+             "widgetType": "text-editor",
+             "settings": {
+              "editor": "<p>Беспроводной</p>",
+              "_css_classes": "amte-card__text"
+             },
+             "elements": []
+            },
+            {
+             "id": "63f515c",
+             "elType": "widget",
+             "widgetType": "text-editor",
+             "settings": {
+              "editor": "<p><span>Точность</span><br><strong>0,015 мм</strong></p><p><span>Скорость</span><br><strong>до 8 100 000 т/с</strong></p><p><span>Вес</span><br><strong>0,56 кг</strong></p>",
+              "_css_classes": "amte-card__specs"
+             },
+             "elements": []
+            }
+           ],
+           "isInner": true
+          },
+          {
+           "id": "2b70262",
+           "elType": "container",
+           "settings": {
+            "content_width": "full",
+            "flex_direction": "column",
+            "_css_classes": "amte-card",
+            "css_classes": "amte-card",
+            "_title": "TrackScan Sharp E"
+           },
+           "elements": [
+            {
+             "id": "7672e0b",
+             "elType": "widget",
+             "widgetType": "text-editor",
+             "settings": {
+              "editor": "<p>В реестре СИ</p>",
+              "_css_classes": "amte-badge"
+             },
+             "elements": []
+            },
+            {
+             "id": "72fdace",
+             "elType": "widget",
+             "widgetType": "image",
+             "settings": {
+              "image": {
+               "url": "https://am-tech.ru/wp-content/uploads/2025/08/m78418h540wlrokxzd612ojl5r9g39bt.png",
+               "id": "",
+               "alt": "3D-сканер TrackScan Sharp E",
+               "source": "library"
+              },
+              "image_size": "full",
+              "link_to": "custom",
+              "link": {
+               "url": "https://am-tech.ru/product/3d-skaner-trackscan-sharp-e/",
+               "is_external": "",
+               "nofollow": "",
+               "custom_attributes": ""
+              },
+              "_css_classes": "amte-card__img"
+             },
+             "elements": []
+            },
+            {
+             "id": "eba66a4",
+             "elType": "widget",
+             "widgetType": "heading",
+             "settings": {
+              "title": "TrackScan Sharp E",
+              "header_size": "h3",
+              "link": {
+               "url": "https://am-tech.ru/product/3d-skaner-trackscan-sharp-e/",
+               "is_external": "",
+               "nofollow": "",
+               "custom_attributes": ""
+              },
+              "_css_classes": "amte-card__title"
+             },
+             "elements": []
+            },
+            {
+             "id": "ad795e2",
+             "elType": "widget",
+             "widgetType": "text-editor",
+             "settings": {
+              "editor": "<p>С оптическим трекером</p>",
+              "_css_classes": "amte-card__text"
+             },
+             "elements": []
+            },
+            {
+             "id": "250e361",
+             "elType": "widget",
+             "widgetType": "text-editor",
+             "settings": {
+              "editor": "<p><span>Точность</span><br><strong>0,025 мм</strong></p><p><span>Скорость</span><br><strong>до 6 000 000 т/с</strong></p><p><span>Вес</span><br><strong>сканер 1,5 кг</strong></p>",
+              "_css_classes": "amte-card__specs"
+             },
+             "elements": []
+            }
+           ],
+           "isInner": true
+          },
+          {
+           "id": "0014619",
+           "elType": "container",
+           "settings": {
+            "content_width": "full",
+            "flex_direction": "column",
+            "_css_classes": "amte-card",
+            "css_classes": "amte-card",
+            "_title": "NimbleTrack C+"
+           },
+           "elements": [
+            {
+             "id": "06aa0b1",
+             "elType": "widget",
+             "widgetType": "text-editor",
+             "settings": {
+              "editor": "<p>В реестре СИ</p>",
+              "_css_classes": "amte-badge"
+             },
+             "elements": []
+            },
+            {
+             "id": "b2ac843",
+             "elType": "widget",
+             "widgetType": "image",
+             "settings": {
+              "image": {
+               "url": "https://am-tech.ru/wp-content/uploads/2026/01/nimbletrack-s-i-e.png",
+               "id": "",
+               "alt": "3D-сканер NimbleTrack C+",
+               "source": "library"
+              },
+              "image_size": "full",
+              "link_to": "custom",
+              "link": {
+               "url": "https://am-tech.ru/product/3d-skaner-nimbletrack-c/",
+               "is_external": "",
+               "nofollow": "",
+               "custom_attributes": ""
+              },
+              "_css_classes": "amte-card__img"
+             },
+             "elements": []
+            },
+            {
+             "id": "d7e4a64",
+             "elType": "widget",
+             "widgetType": "heading",
+             "settings": {
+              "title": "NimbleTrack C+",
+              "header_size": "h3",
+              "link": {
+               "url": "https://am-tech.ru/product/3d-skaner-nimbletrack-c/",
+               "is_external": "",
+               "nofollow": "",
+               "custom_attributes": ""
+              },
+              "_css_classes": "amte-card__title"
+             },
+             "elements": []
+            },
+            {
+             "id": "b658d16",
+             "elType": "widget",
+             "widgetType": "text-editor",
+             "settings": {
+              "editor": "<p>С оптическим трекером</p>",
+              "_css_classes": "amte-card__text"
+             },
+             "elements": []
+            },
+            {
+             "id": "e476772",
+             "elType": "widget",
+             "widgetType": "text-editor",
+             "settings": {
+              "editor": "<p><span>Точность</span><br><strong>0,025 мм</strong></p><p><span>Скорость</span><br><strong>до 6 300 000 т/с</strong></p><p><span>Вес</span><br><strong>сканер 1,3 кг</strong></p>",
+              "_css_classes": "amte-card__specs"
+             },
+             "elements": []
+            }
+           ],
+           "isInner": true
+          },
+          {
+           "id": "3426af2",
+           "elType": "container",
+           "settings": {
+            "content_width": "full",
+            "flex_direction": "column",
+            "_css_classes": "amte-card",
+            "css_classes": "amte-card",
+            "_title": "MLS10"
+           },
+           "elements": [
+            {
+             "id": "683ecd0",
+             "elType": "widget",
+             "widgetType": "image",
+             "settings": {
+              "image": {
+               "url": "https://am-tech.ru/wp-content/uploads/2025/08/t8onyjz5tzvc3nwde0qovysoaj68p3kq.png",
+               "id": "",
+               "alt": "Лазерный SLAM-сканер MLS10",
+               "source": "library"
+              },
+              "image_size": "full",
+              "link_to": "custom",
+              "link": {
+               "url": "https://am-tech.ru/product/lazernyj-geodezicheskij-skaner-mls10/",
+               "is_external": "",
+               "nofollow": "",
+               "custom_attributes": ""
+              },
+              "_css_classes": "amte-card__img"
+             },
+             "elements": []
+            },
+            {
+             "id": "8affb53",
+             "elType": "widget",
+             "widgetType": "heading",
+             "settings": {
+              "title": "MLS10",
+              "header_size": "h3",
+              "link": {
+               "url": "https://am-tech.ru/product/lazernyj-geodezicheskij-skaner-mls10/",
+               "is_external": "",
+               "nofollow": "",
+               "custom_attributes": ""
+              },
+              "_css_classes": "amte-card__title"
+             },
+             "elements": []
+            },
+            {
+             "id": "d55e4ed",
+             "elType": "widget",
+             "widgetType": "text-editor",
+             "settings": {
+              "editor": "<p>SLAM-сканер</p>",
+              "_css_classes": "amte-card__text"
+             },
+             "elements": []
+            },
+            {
+             "id": "1e58079",
+             "elType": "widget",
+             "widgetType": "text-editor",
+             "settings": {
+              "editor": "<p><span>Тип</span><br><strong>мобильное сканирование зданий и площадок</strong></p>",
+              "_css_classes": "amte-card__specs"
+             },
+             "elements": []
+            }
+           ],
+           "isInner": true
+          }
+         ],
+         "isInner": true
+        },
+        {
+         "id": "75f109e",
+         "elType": "container",
+         "settings": {
+          "content_width": "full",
+          "flex_direction": "row",
+          "_css_classes": "amte-facts",
+          "css_classes": "amte-facts"
+         },
+         "elements": [
+          {
+           "id": "3e45815",
+           "elType": "widget",
+           "widgetType": "text-editor",
+           "settings": {
+            "editor": "<p><strong>Реестр средств измерений</strong><br>KSCAN MAGIC II, SIMSCAN, TrackScan, NimbleTrack и другие модели внесены в реестр СИ.</p>",
+            "_css_classes": "amte-fact"
+           },
+           "elements": []
+          },
+          {
+           "id": "f4735f7",
+           "elType": "widget",
+           "widgetType": "text-editor",
+           "settings": {
+            "editor": "<p><strong>Демонстрация на вашей детали</strong><br>Отсканируем деталь и покажем карту отклонений до покупки.</p>",
+            "_css_classes": "amte-fact"
+           },
+           "elements": []
+          },
+          {
+           "id": "aeb3604",
+           "elType": "widget",
+           "widgetType": "text-editor",
+           "settings": {
+            "editor": "<p><strong>Услуги сканирования</strong><br>3D-сканирование, реверс-инжиниринг и контроль геометрии на нашем оборудовании.</p>",
+            "_css_classes": "amte-fact"
+           },
+           "elements": []
+          },
+          {
+           "id": "8045c01",
+           "elType": "widget",
+           "widgetType": "text-editor",
+           "settings": {
+            "editor": "<p><strong>Выезд по России</strong><br>Сканируем на площадке заказчика — крупные объекты и оснастку.</p>",
+            "_css_classes": "amte-fact"
+           },
+           "elements": []
+          }
+         ],
+         "isInner": true
+        },
+        {
+         "id": "850ab14",
+         "elType": "container",
+         "settings": {
+          "content_width": "full",
+          "flex_direction": "row",
+          "_css_classes": "amte-actions",
+          "css_classes": "amte-actions"
+         },
+         "elements": [
+          {
+           "id": "d3f4e96",
+           "elType": "widget",
+           "widgetType": "button",
+           "settings": {
+            "text": "Подобрать 3D-сканер",
+            "link": {
+             "url": "#contact-block",
+             "is_external": "",
+             "nofollow": "",
+             "custom_attributes": ""
+            },
+            "_css_classes": "amte-btn amte-btn--primary "
+           },
+           "elements": []
+          },
+          {
+           "id": "5b0dccd",
+           "elType": "widget",
+           "widgetType": "button",
+           "settings": {
+            "text": "Все 3D-сканеры",
+            "link": {
+             "url": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/",
+             "is_external": "",
+             "nofollow": "",
+             "custom_attributes": ""
+            },
+            "_css_classes": "amte-btn "
+           },
+           "elements": []
+          },
+          {
+           "id": "6e92780",
+           "elType": "widget",
+           "widgetType": "button",
+           "settings": {
+            "text": "Заказать 3D-сканирование",
+            "link": {
+             "url": "https://am-tech.ru/uslugi/3d-skanirovanie/",
+             "is_external": "",
+             "nofollow": "",
+             "custom_attributes": ""
+            },
+            "_css_classes": "amte-btn "
+           },
+           "elements": []
+          }
+         ],
+         "isInner": true
+        }
+       ],
+       "isInner": true
+      }
+     ],
+     "isInner": true
+    },
+    {
+     "id": "e9f2250",
+     "elType": "container",
+     "settings": {
+      "content_width": "full",
+      "flex_direction": "column",
+      "_css_classes": "amt-section ",
+      "css_classes": "amt-section ",
+      "_title": "Интегратор"
+     },
+     "elements": [
+      {
+       "id": "07e3d03",
+       "elType": "container",
+       "settings": {
+        "content_width": "full",
+        "flex_direction": "column",
+        "_css_classes": "amt-container amte-inner",
+        "css_classes": "amt-container amte-inner"
+       },
+       "elements": [
+        {
+         "id": "01f9eb7",
+         "elType": "container",
+         "settings": {
+          "content_width": "full",
+          "flex_direction": "row",
+          "_css_classes": "amte-head",
+          "css_classes": "amte-head"
+         },
+         "elements": [
+          {
+           "id": "4d2ed45",
+           "elType": "container",
+           "settings": {
+            "content_width": "full",
+            "flex_direction": "column",
+            "_css_classes": "amte-head__copy",
+            "css_classes": "amte-head__copy"
+           },
+           "elements": [
+            {
+             "id": "7ff5f83",
+             "elType": "widget",
+             "widgetType": "text-editor",
+             "settings": {
+              "editor": "<p>Интегратор аддитивного оборудования</p>",
+              "_css_classes": "amte-eyebrow"
+             },
+             "elements": []
+            },
+            {
+             "id": "b61248c",
+             "elType": "widget",
+             "widgetType": "heading",
+             "settings": {
+              "title": "Оборудование для аддитивного производства: EBM, MBJ, SLA и керамика",
+              "header_size": "h2",
+              "_css_classes": "amte-h2"
+             },
+             "elements": []
+            }
+           ],
+           "isInner": true
+          },
+          {
+           "id": "e7d0dcc",
+           "elType": "widget",
+           "widgetType": "text-editor",
+           "settings": {
+            "editor": "<p>Кроме собственных SLM-систем и 3D-сканеров поставляем и внедряем оборудование для печати металлом (EBM, MBJ), фотополимерами и керамикой — и собираем технологическую цепочку под требования к материалу, точности и себестоимости.</p>",
+            "_css_classes": "amte-lead"
+           },
+           "elements": []
+          }
+         ],
+         "isInner": true
+        },
+        {
+         "id": "6c277f0",
+         "elType": "container",
+         "settings": {
+          "content_width": "full",
+          "flex_direction": "row",
+          "_css_classes": "amte-techs",
+          "css_classes": "amte-techs",
+          "_title": "Технологии"
+         },
+         "elements": [
+          {
+           "id": "2c2041f",
+           "elType": "widget",
+           "widgetType": "image-box",
+           "settings": {
+            "image": {
+             "url": "https://am-tech.ru/wp-content/uploads/2025/08/lume4n60v5u8lccb145w99fi25o9zc78.png",
+             "id": "",
+             "alt": "EBM 3D-принтеры"
+            },
+            "title_text": "EBM 3D-принтеры",
+            "description_text": "Электронно-лучевое плавление в вакууме",
+            "title_size": "h3",
+            "link": {
+             "url": "https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/ebm-3d-print/",
+             "is_external": "",
+             "nofollow": "",
+             "custom_attributes": ""
+            },
+            "_css_classes": "amte-tech"
+           },
+           "elements": []
+          },
+          {
+           "id": "a9956a0",
+           "elType": "widget",
+           "widgetType": "image-box",
+           "settings": {
+            "image": {
+             "url": "https://am-tech.ru/wp-content/uploads/2025/08/a09atnpvb14mroa0lt59jxgl3v5a7jfp-1.png",
+             "id": "",
+             "alt": "MBJ 3D-принтеры"
+            },
+            "title_text": "MBJ 3D-принтеры",
+            "description_text": "Печать металлическим связующим для серий",
+            "title_size": "h3",
+            "link": {
+             "url": "https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/mbj-3d-print/",
+             "is_external": "",
+             "nofollow": "",
+             "custom_attributes": ""
+            },
+            "_css_classes": "amte-tech"
+           },
+           "elements": []
+          },
+          {
+           "id": "eab0b24",
+           "elType": "widget",
+           "widgetType": "image-box",
+           "settings": {
+            "image": {
+             "url": "https://am-tech.ru/wp-content/uploads/2025/08/d4o8vsmdfimqamv1tdjuopaw9uhezcdo.webp",
+             "id": "",
+             "alt": "SLA 3D-принтеры"
+            },
+            "title_text": "SLA 3D-принтеры",
+            "description_text": "Прототипы, мастер-модели, литьё",
+            "title_size": "h3",
+            "link": {
+             "url": "https://am-tech.ru/katalog/promyshlennye-3d-printery-po-sla-i-keramike/sla-3d-printery/",
+             "is_external": "",
+             "nofollow": "",
+             "custom_attributes": ""
+            },
+            "_css_classes": "amte-tech"
+           },
+           "elements": []
+          },
+          {
+           "id": "5b45d88",
+           "elType": "widget",
+           "widgetType": "image-box",
+           "settings": {
+            "image": {
+             "url": "https://am-tech.ru/wp-content/uploads/2025/08/da5ufvjbwwmenrfut2xdveh0vjlra2yo.png",
+             "id": "",
+             "alt": "Керамические 3D-принтеры"
+            },
+            "title_text": "Керамические 3D-принтеры",
+            "description_text": "Техническая и биосовместимая керамика",
+            "title_size": "h3",
+            "link": {
+             "url": "https://am-tech.ru/katalog/promyshlennye-3d-printery-po-sla-i-keramike/3d-print-keramika/",
+             "is_external": "",
+             "nofollow": "",
+             "custom_attributes": ""
+            },
+            "_css_classes": "amte-tech"
+           },
+           "elements": []
+          }
+         ],
+         "isInner": true
+        },
+        {
+         "id": "ffcd0e5",
+         "elType": "widget",
+         "widgetType": "heading",
+         "settings": {
+          "title": "Внедрение аддитивных технологий под ключ — шесть этапов",
+          "header_size": "h3",
+          "_css_classes": "amte-h3"
+         },
+         "elements": []
+        },
+        {
+         "id": "97be6cf",
+         "elType": "container",
+         "settings": {
+          "content_width": "full",
+          "flex_direction": "row",
+          "_css_classes": "amte-route",
+          "css_classes": "amte-route",
+          "_title": "Этапы"
+         },
+         "elements": [
+          {
+           "id": "f7401f8",
+           "elType": "widget",
+           "widgetType": "text-editor",
+           "settings": {
+            "editor": "<p><span>01</span></p><h4>Аудит производства</h4><p>Разбираем задачу, деталь и требования к материалу и производительности.</p>",
+            "_css_classes": "amte-step"
+           },
+           "elements": []
+          },
+          {
+           "id": "318edb9",
+           "elType": "widget",
+           "widgetType": "text-editor",
+           "settings": {
+            "editor": "<p><span>02</span></p><h4>Подбор технологии</h4><p>Сравниваем SLM, EBM, MBJ, SLA и другие сценарии под вашу деталь.</p>",
+            "_css_classes": "amte-step"
+           },
+           "elements": []
+          },
+          {
+           "id": "38c9b2c",
+           "elType": "widget",
+           "widgetType": "text-editor",
+           "settings": {
+            "editor": "<p><span>03</span></p><h4>Тестовая деталь</h4><p>Печатаем деталь или фрагмент и подтверждаем результат до поставки.</p>",
+            "_css_classes": "amte-step"
+           },
+           "elements": []
+          },
+          {
+           "id": "6650104",
+           "elType": "widget",
+           "widgetType": "text-editor",
+           "settings": {
+            "editor": "<p><span>04</span></p><h4>Испытания и ТЭО</h4><p>Контроль геометрии, свойства материала, расчёт экономики изготовления.</p>",
+            "_css_classes": "amte-step"
+           },
+           "elements": []
+          },
+          {
+           "id": "8eeed9a",
+           "elType": "widget",
+           "widgetType": "text-editor",
+           "settings": {
+            "editor": "<p><span>05</span></p><h4>Поставка и пусконаладка</h4><p>Привозим, монтируем и запускаем оборудование на площадке.</p>",
+            "_css_classes": "amte-step"
+           },
+           "elements": []
+          },
+          {
+           "id": "ff34b22",
+           "elType": "widget",
+           "widgetType": "text-editor",
+           "settings": {
+            "editor": "<p><span>06</span></p><h4>Обучение и сервис</h4><p>Готовим технологов и операторов, обслуживаем и модернизируем.</p>",
+            "_css_classes": "amte-step"
+           },
+           "elements": []
+          }
+         ],
+         "isInner": true
+        },
+        {
+         "id": "2c4eb67",
+         "elType": "container",
+         "settings": {
+          "content_width": "full",
+          "flex_direction": "row",
+          "_css_classes": "amte-actions",
+          "css_classes": "amte-actions"
+         },
+         "elements": [
+          {
+           "id": "a29ca0f",
+           "elType": "widget",
+           "widgetType": "button",
+           "settings": {
+            "text": "Весь каталог",
+            "link": {
+             "url": "https://am-tech.ru/katalog/",
+             "is_external": "",
+             "nofollow": "",
+             "custom_attributes": ""
+            },
+            "_css_classes": "amte-btn "
+           },
+           "elements": []
+          }
+         ],
+         "isInner": true
+        }
+       ],
+       "isInner": true
+      }
+     ],
+     "isInner": true
+    },
+    {
+     "id": "e6a19ba",
+     "elType": "container",
+     "settings": {
+      "content_width": "full",
+      "flex_direction": "column",
+      "_css_classes": "amt-section amt-section--soft",
+      "css_classes": "amt-section amt-section--soft",
+      "_title": "Услуги"
+     },
+     "elements": [
+      {
+       "id": "031ea79",
+       "elType": "container",
+       "settings": {
+        "content_width": "full",
+        "flex_direction": "column",
+        "_css_classes": "amt-container amte-inner",
+        "css_classes": "amt-container amte-inner"
+       },
+       "elements": [
+        {
+         "id": "2c03d12",
+         "elType": "container",
+         "settings": {
+          "content_width": "full",
+          "flex_direction": "row",
+          "_css_classes": "amte-svcs",
+          "css_classes": "amte-svcs"
+         },
+         "elements": [
+          {
+           "id": "65dfcea",
+           "elType": "container",
+           "settings": {
+            "content_width": "full",
+            "flex_direction": "column",
+            "_css_classes": "amte-svcs__intro",
+            "css_classes": "amte-svcs__intro"
+           },
+           "elements": [
+            {
+             "id": "abcf445",
+             "elType": "widget",
+             "widgetType": "text-editor",
+             "settings": {
+              "editor": "<p>Услуги на нашем оборудовании</p>",
+              "_css_classes": "amte-eyebrow"
+             },
+             "elements": []
+            },
+            {
+             "id": "5059f14",
+             "elType": "widget",
+             "widgetType": "heading",
+             "settings": {
+              "title": "3D-печать металлом и 3D-сканирование на заказ",
+              "header_size": "h2",
+              "_css_classes": "amte-h2"
+             },
+             "elements": []
+            },
+            {
+             "id": "215ee00",
+             "elType": "widget",
+             "widgetType": "text-editor",
+             "settings": {
+              "editor": "<p>Загрузите STL-модель — калькулятор оценит объём и стоимость печати, инженер подтвердит расчёт. Срок — от 3 дней.</p>",
+              "_css_classes": "amte-lead"
+             },
+             "elements": []
+            },
+            {
+             "id": "2a46cbd",
+             "elType": "widget",
+             "widgetType": "button",
+             "settings": {
+              "text": "Рассчитать печать",
+              "link": {
+               "url": "https://am-tech.ru/uslugi/3d-pechat-metallom/#calc",
+               "is_external": "",
+               "nofollow": "",
+               "custom_attributes": ""
+              },
+              "_css_classes": "amte-btn amte-btn--primary "
+             },
+             "elements": []
+            }
+           ],
+           "isInner": true
+          },
+          {
+           "id": "fe6794f",
+           "elType": "container",
+           "settings": {
+            "content_width": "full",
+            "flex_direction": "column",
+            "_css_classes": "amte-svc-list",
+            "css_classes": "amte-svc-list"
+           },
+           "elements": [
+            {
+             "id": "225cc1f",
+             "elType": "container",
+             "settings": {
+              "content_width": "full",
+              "flex_direction": "row",
+              "_css_classes": "amte-svc",
+              "css_classes": "amte-svc",
+              "_title": "3D-печать металлом"
+             },
+             "elements": [
+              {
+               "id": "8be4691",
+               "elType": "widget",
+               "widgetType": "heading",
+               "settings": {
+                "title": "3D-печать металлом",
+                "header_size": "h3",
+                "link": {
+                 "url": "https://am-tech.ru/uslugi/3d-pechat-metallom/",
+                 "is_external": "",
+                 "nofollow": "",
+                 "custom_attributes": ""
+                },
+                "_css_classes": "amte-svc__title"
+               },
+               "elements": []
+              },
+              {
+               "id": "991e91f",
+               "elType": "widget",
+               "widgetType": "text-editor",
+               "settings": {
+                "editor": "<p>SLM и EBM на нашем оборудовании, расчёт по модели</p>",
+                "_css_classes": "amte-svc__text"
+               },
+               "elements": []
+              }
+             ],
+             "isInner": true
+            },
+            {
+             "id": "e8525e1",
+             "elType": "container",
+             "settings": {
+              "content_width": "full",
+              "flex_direction": "row",
+              "_css_classes": "amte-svc",
+              "css_classes": "amte-svc",
+              "_title": "SLA-печать"
+             },
+             "elements": [
+              {
+               "id": "27770b9",
+               "elType": "widget",
+               "widgetType": "heading",
+               "settings": {
+                "title": "SLA-печать",
+                "header_size": "h3",
+                "link": {
+                 "url": "https://am-tech.ru/uslugi/sla-pechat/",
+                 "is_external": "",
+                 "nofollow": "",
+                 "custom_attributes": ""
+                },
+                "_css_classes": "amte-svc__title"
+               },
+               "elements": []
+              },
+              {
+               "id": "f3ee737",
+               "elType": "widget",
+               "widgetType": "text-editor",
+               "settings": {
+                "editor": "<p>Прототипы и мастер-модели до 600 мм</p>",
+                "_css_classes": "amte-svc__text"
+               },
+               "elements": []
+              }
+             ],
+             "isInner": true
+            },
+            {
+             "id": "22c73f8",
+             "elType": "container",
+             "settings": {
+              "content_width": "full",
+              "flex_direction": "row",
+              "_css_classes": "amte-svc",
+              "css_classes": "amte-svc",
+              "_title": "3D-сканирование"
+             },
+             "elements": [
+              {
+               "id": "1bb3599",
+               "elType": "widget",
+               "widgetType": "heading",
+               "settings": {
+                "title": "3D-сканирование",
+                "header_size": "h3",
+                "link": {
+                 "url": "https://am-tech.ru/uslugi/3d-skanirovanie/",
+                 "is_external": "",
+                 "nofollow": "",
+                 "custom_attributes": ""
+                },
+                "_css_classes": "amte-svc__title"
+               },
+               "elements": []
+              },
+              {
+               "id": "ea113b1",
+               "elType": "widget",
+               "widgetType": "text-editor",
+               "settings": {
+                "editor": "<p>Оцифровка деталей и объектов, выезд по России</p>",
+                "_css_classes": "amte-svc__text"
+               },
+               "elements": []
+              }
+             ],
+             "isInner": true
+            },
+            {
+             "id": "77da0ef",
+             "elType": "container",
+             "settings": {
+              "content_width": "full",
+              "flex_direction": "row",
+              "_css_classes": "amte-svc",
+              "css_classes": "amte-svc",
+              "_title": "Реверс-инжиниринг"
+             },
+             "elements": [
+              {
+               "id": "c735834",
+               "elType": "widget",
+               "widgetType": "heading",
+               "settings": {
+                "title": "Реверс-инжиниринг",
+                "header_size": "h3",
+                "link": {
+                 "url": "https://am-tech.ru/uslugi/revers-inzhiniring/",
+                 "is_external": "",
+                 "nofollow": "",
+                 "custom_attributes": ""
+                },
+                "_css_classes": "amte-svc__title"
+               },
+               "elements": []
+              },
+              {
+               "id": "104f78c",
+               "elType": "widget",
+               "widgetType": "text-editor",
+               "settings": {
+                "editor": "<p>CAD-модель по физическому образцу</p>",
+                "_css_classes": "amte-svc__text"
+               },
+               "elements": []
+              }
+             ],
+             "isInner": true
+            },
+            {
+             "id": "ca1d592",
+             "elType": "container",
+             "settings": {
+              "content_width": "full",
+              "flex_direction": "row",
+              "_css_classes": "amte-svc",
+              "css_classes": "amte-svc",
+              "_title": "Контроль геометрии"
+             },
+             "elements": [
+              {
+               "id": "cb85911",
+               "elType": "widget",
+               "widgetType": "heading",
+               "settings": {
+                "title": "Контроль геометрии",
+                "header_size": "h3",
+                "link": {
+                 "url": "https://am-tech.ru/uslugi/kontrol-geometrii/",
+                 "is_external": "",
+                 "nofollow": "",
+                 "custom_attributes": ""
+                },
+                "_css_classes": "amte-svc__title"
+               },
+               "elements": []
+              },
+              {
+               "id": "32beaf9",
+               "elType": "widget",
+               "widgetType": "text-editor",
+               "settings": {
+                "editor": "<p>Карта отклонений детали от CAD-модели</p>",
+                "_css_classes": "amte-svc__text"
+               },
+               "elements": []
+              }
+             ],
+             "isInner": true
+            }
+           ],
+           "isInner": true
+          }
+         ],
+         "isInner": true
+        }
+       ],
+       "isInner": true
+      }
+     ],
+     "isInner": true
+    },
+    {
+     "id": "546f42b",
+     "elType": "container",
+     "settings": {
+      "content_width": "full",
+      "flex_direction": "column",
+      "_css_classes": "amt-section ",
+      "css_classes": "amt-section ",
+      "_title": "Кейсы и партнёры"
+     },
+     "elements": [
+      {
+       "id": "304cb2e",
+       "elType": "container",
+       "settings": {
+        "content_width": "full",
+        "flex_direction": "column",
+        "_css_classes": "amt-container amte-inner",
+        "css_classes": "amt-container amte-inner"
+       },
+       "elements": [
+        {
+         "id": "4bd795b",
+         "elType": "container",
+         "settings": {
+          "content_width": "full",
+          "flex_direction": "row",
+          "_css_classes": "amte-head amte-head--btn",
+          "css_classes": "amte-head amte-head--btn"
+         },
+         "elements": [
+          {
+           "id": "c40b01d",
+           "elType": "container",
+           "settings": {
+            "content_width": "full",
+            "flex_direction": "column",
+            "_css_classes": "amte-head__copy",
+            "css_classes": "amte-head__copy"
+           },
+           "elements": [
+            {
+             "id": "c2a7460",
+             "elType": "widget",
+             "widgetType": "text-editor",
+             "settings": {
+              "editor": "<p>Практика</p>",
+              "_css_classes": "amte-eyebrow"
+             },
+             "elements": []
+            },
+            {
+             "id": "4bf35f7",
+             "elType": "widget",
+             "widgetType": "heading",
+             "settings": {
+              "title": "Кейсы применения аддитивных технологий и 3D-сканирования",
+              "header_size": "h2",
+              "_css_classes": "amte-h2"
+             },
+             "elements": []
+            }
+           ],
+           "isInner": true
+          },
+          {
+           "id": "23d6eb7",
+           "elType": "widget",
+           "widgetType": "button",
+           "settings": {
+            "text": "Все кейсы",
+            "link": {
+             "url": "https://am-tech.ru/teknologii/",
+             "is_external": "",
+             "nofollow": "",
+             "custom_attributes": ""
+            },
+            "_css_classes": "amte-btn "
+           },
+           "elements": []
+          }
+         ],
+         "isInner": true
+        },
+        {
+         "id": "5dcc283",
+         "elType": "widget",
+         "widgetType": "html",
+         "settings": {
+          "html": "<div class=\"amt-articles\" data-amh-feed=\"cases\"><a class=\"amt-article\" href=\"https://am-tech.ru/cases/3d-skanirovanie-i-3d-modelirovanie-reshetki-lamborghini-murcielago/\"><div class=\"amt-media\" style=\"background-image:url(https://am-tech.ru/wp-content/uploads/2026/10/3d-skanirovanie-reshetki-lamborghini-768x377.jpg);background-size:cover;background-position:center;\"><span class=\"amt-media__label\">Технологии промышленного 3D-сканирования</span></div><div class=\"amt-article__body\"><div class=\"amt-label\">Технологии промышленного 3D-сканирования</div><h3>3D-сканирование и 3D-моделирование решётки Lamborghini Murcielago</h3><p>В рамках восстановления Lamborghini Murcielago мы отсканировали оригинальную решётку прямо на автомобиле и построили по скану 3D-модель для печати новой…</p><div class=\"amt-meta\"><span>28.10.2026</span><span>Читать →</span></div></div></a><a class=\"amt-article\" href=\"https://am-tech.ru/cases/revers-inzhiniring-kozhukha-rulevoy-kolonki-dlya-lamborghini-murcielago/\"><div class=\"amt-media\" style=\"background-image:url(https://am-tech.ru/wp-content/uploads/2026/10/originalnyj-kozhuh-rulevoj-kolonki-lamborghini-768x432.jpg);background-size:cover;background-position:center;\"><span class=\"amt-media__label\">Технологии промышленного 3D-сканирования</span></div><div class=\"amt-article__body\"><div class=\"amt-label\">Технологии промышленного 3D-сканирования</div><h3>Реверс-инжиниринг кожуха рулевой колонки Lamborghini Murcielago</h3><p>Для восстановления Lamborghini Murcielago мы выполнили полный цикл по кожуху рулевой колонки: 3D-сканирование двух деталей, построение точных моделей и печать…</p><div class=\"amt-meta\"><span>28.10.2026</span><span>Читать →</span></div></div></a><a class=\"amt-article\" href=\"https://am-tech.ru/cases/3d-skanirovanie-gbts-golovki-bloka-tsilindra-ferrari/\"><div class=\"amt-media\" style=\"background-image:url(https://am-tech.ru/wp-content/uploads/2026/10/3d-skanirovanie-gbc-ferrari-768x576.jpg);background-size:cover;background-position:center;\"><span class=\"amt-media__label\">Технологии промышленного 3D-сканирования</span></div><div class=\"amt-article__body\"><div class=\"amt-label\">Технологии промышленного 3D-сканирования</div><h3>3D-сканирование ГБЦ (головки блока цилиндров) Ferrari</h3><p>Заказчику нужны были точные размеры поверхностей клапанов ГБЦ Ferrari и расстояние между 1-м и 6-м цилиндрами. Мы отсканировали головку блока…</p><div class=\"amt-meta\"><span>28.10.2026</span><span>Читать →</span></div></div></a></div>",
+          "_title": "Лента кейсов (обновляется сама)"
+         },
+         "elements": []
+        },
+        {
+         "id": "8e0212a",
+         "elType": "container",
+         "settings": {
+          "content_width": "full",
+          "flex_direction": "column",
+          "_css_classes": "amte-trust",
+          "css_classes": "amte-trust",
+          "_title": "Нам доверяют"
+         },
+         "elements": [
+          {
+           "id": "dd41039",
+           "elType": "container",
+           "settings": {
+            "content_width": "full",
+            "flex_direction": "row",
+            "_css_classes": "amte-trust__head",
+            "css_classes": "amte-trust__head"
+           },
+           "elements": [
+            {
+             "id": "1337ead",
+             "elType": "widget",
+             "widgetType": "heading",
+             "settings": {
+              "title": "Нам доверяют",
+              "header_size": "h3",
+              "_css_classes": "amte-h3"
+             },
+             "elements": []
+            },
+            {
+             "id": "d219e2a",
+             "elType": "widget",
+             "widgetType": "text-editor",
+             "settings": {
+              "editor": "<p>Промышленные компании и инженерные вузы, с которыми работает AM.TECH</p>",
+              "_css_classes": "amte-trust__sub"
+             },
+             "elements": []
+            }
+           ],
+           "isInner": true
+          },
+          {
+           "id": "9477f1c",
+           "elType": "container",
+           "settings": {
+            "content_width": "full",
+            "flex_direction": "row",
+            "_css_classes": "amte-logos",
+            "css_classes": "amte-logos",
+            "_title": "Логотипы"
+           },
+           "elements": [
+            {
+             "id": "f42a347",
+             "elType": "widget",
+             "widgetType": "image-box",
+             "settings": {
+              "image": {
+               "url": "https://am-tech.ru/wp-content/uploads/2025/10/gazprom.png",
+               "id": "",
+               "alt": "Газпром"
+              },
+              "title_text": "Газпром",
+              "description_text": "",
+              "title_size": "h3",
+              "_css_classes": "amte-logo"
+             },
+             "elements": []
+            },
+            {
+             "id": "bc91e3b",
+             "elType": "widget",
+             "widgetType": "image-box",
+             "settings": {
+              "image": {
+               "url": "https://am-tech.ru/wp-content/uploads/2025/10/sibur_logo-1-1.png",
+               "id": "",
+               "alt": "СИБУР"
+              },
+              "title_text": "СИБУР",
+              "description_text": "",
+              "title_size": "h3",
+              "_css_classes": "amte-logo"
+             },
+             "elements": []
+            },
+            {
+             "id": "7ed1f91",
+             "elType": "widget",
+             "widgetType": "image-box",
+             "settings": {
+              "image": {
+               "url": "https://am-tech.ru/wp-content/uploads/2025/10/engineering___-1-1.png",
+               "id": "",
+               "alt": "ТДНТ Инжиниринг"
+              },
+              "title_text": "ТДНТ Инжиниринг",
+              "description_text": "",
+              "title_size": "h3",
+              "_css_classes": "amte-logo"
+             },
+             "elements": []
+            },
+            {
+             "id": "c0c6a31",
+             "elType": "widget",
+             "widgetType": "image-box",
+             "settings": {
+              "image": {
+               "url": "https://am-tech.ru/wp-content/uploads/2025/10/phptmgwdi-1-1.png",
+               "id": "",
+               "alt": "АВТОТОР"
+              },
+              "title_text": "АВТОТОР",
+              "description_text": "",
+              "title_size": "h3",
+              "_css_classes": "amte-logo"
+             },
+             "elements": []
+            },
+            {
+             "id": "a26c104",
+             "elType": "widget",
+             "widgetType": "image-box",
+             "settings": {
+              "image": {
+               "url": "https://am-tech.ru/wp-content/uploads/2025/10/gerb_mgtu_imeni_n._je._baumana.svg.png",
+               "id": "",
+               "alt": "МГТУ им. Н. Э. Баумана"
+              },
+              "title_text": "МГТУ им. Н. Э. Баумана",
+              "description_text": "",
+              "title_size": "h3",
+              "_css_classes": "amte-logo"
+             },
+             "elements": []
+            }
+           ],
+           "isInner": true
+          }
+         ],
+         "isInner": true
+        }
+       ],
+       "isInner": true
+      }
+     ],
+     "isInner": true
+    },
+    {
+     "id": "8c687e7",
+     "elType": "container",
+     "settings": {
+      "content_width": "full",
+      "flex_direction": "column",
+      "_css_classes": "amt-section amt-section--soft",
+      "css_classes": "amt-section amt-section--soft",
+      "_title": "Блог"
+     },
+     "elements": [
+      {
+       "id": "c260efd",
+       "elType": "container",
+       "settings": {
+        "content_width": "full",
+        "flex_direction": "column",
+        "_css_classes": "amt-container amte-inner",
+        "css_classes": "amt-container amte-inner"
+       },
+       "elements": [
+        {
+         "id": "5e53f56",
+         "elType": "container",
+         "settings": {
+          "content_width": "full",
+          "flex_direction": "row",
+          "_css_classes": "amte-head amte-head--btn",
+          "css_classes": "amte-head amte-head--btn"
+         },
+         "elements": [
+          {
+           "id": "4246553",
+           "elType": "container",
+           "settings": {
+            "content_width": "full",
+            "flex_direction": "column",
+            "_css_classes": "amte-head__copy",
+            "css_classes": "amte-head__copy"
+           },
+           "elements": [
+            {
+             "id": "56824ef",
+             "elType": "widget",
+             "widgetType": "text-editor",
+             "settings": {
+              "editor": "<p>Блог</p>",
+              "_css_classes": "amte-eyebrow"
+             },
+             "elements": []
+            },
+            {
+             "id": "088393c",
+             "elType": "widget",
+             "widgetType": "heading",
+             "settings": {
+              "title": "Новости и статьи об аддитивных технологиях",
+              "header_size": "h2",
+              "_css_classes": "amte-h2"
+             },
+             "elements": []
+            }
+           ],
+           "isInner": true
+          },
+          {
+           "id": "0027a5d",
+           "elType": "container",
+           "settings": {
+            "content_width": "full",
+            "flex_direction": "row",
+            "_css_classes": "amte-actions amte-actions--tight",
+            "css_classes": "amte-actions amte-actions--tight"
+           },
+           "elements": [
+            {
+             "id": "49c641d",
+             "elType": "widget",
+             "widgetType": "button",
+             "settings": {
+              "text": "Видеообзоры",
+              "link": {
+               "url": "https://am-tech.ru/video-obzory/",
+               "is_external": "",
+               "nofollow": "",
+               "custom_attributes": ""
+              },
+              "_css_classes": "amte-btn "
+             },
+             "elements": []
+            },
+            {
+             "id": "e301896",
+             "elType": "widget",
+             "widgetType": "button",
+             "settings": {
+              "text": "Все материалы",
+              "link": {
+               "url": "https://am-tech.ru/blog/",
+               "is_external": "",
+               "nofollow": "",
+               "custom_attributes": ""
+              },
+              "_css_classes": "amte-btn "
+             },
+             "elements": []
+            }
+           ],
+           "isInner": true
+          }
+         ],
+         "isInner": true
+        },
+        {
+         "id": "acaa811",
+         "elType": "widget",
+         "widgetType": "html",
+         "settings": {
+          "html": "<div class=\"amt-articles\" data-amh-feed=\"news\"><a class=\"amt-article\" href=\"https://am-tech.ru/news/na-moskovskom-cifrovom-zavode-proshjol-demoden-dlja-predstavitelej-aviacionnoj-kompanii/\"><div class=\"amt-media\" style=\"background-image:url(https://am-tech.ru/wp-content/uploads/2026/10/img_1854-768x576.jpg);background-size:cover;background-position:center;\"><span class=\"amt-media__label\">События и выставки</span></div><div class=\"amt-article__body\"><div class=\"amt-label\">События и выставки</div><h3>На Московском цифровом заводе прошёл демодень для представителей авиационной компании</h3><p>21 октября Московский цифровой завод посетила большая делегация авиационной компании. Встречу посвятили возможностям аддитивных технологий и их применению в реальных…</p><div class=\"amt-meta\"><span>22.10.2026</span><span>Читать →</span></div></div></a><a class=\"amt-article\" href=\"https://am-tech.ru/news/am-tech-predstavila-podhod-k-cifrovomu-kontrolju-kachestva-v-additivnom-proizvodstve-na-testing-control-2026/\"><div class=\"amt-media\" style=\"background-image:url(https://am-tech.ru/wp-content/uploads/2026/10/photo_2026-10-20_12-14-00-768x432.jpg);background-size:cover;background-position:center;\"><span class=\"amt-media__label\">Обратное проектирование и 3D-сканирование</span></div><div class=\"amt-article__body\"><div class=\"amt-label\">Обратное проектирование и 3D-сканирование</div><h3>AM.TECH представила подход к цифровому контролю качества в аддитивном производстве на Testing&amp;Control 2026</h3><p>20 октября в Москве в рамках 23-й Международной выставки испытательного и контрольно-измерительного оборудования Testing&amp;Control 2026 прошла панельная сессия «Контроль качества…</p><div class=\"amt-meta\"><span>20.10.2026</span><span>Читать →</span></div></div></a><a class=\"amt-article\" href=\"https://am-tech.ru/news/zavod-am-tech-v-reportazhe-rossii-24-o-moskovskoj-promyshlennosti/\"><div class=\"amt-media\" style=\"background-image:url(https://am-tech.ru/wp-content/uploads/2026/10/tim_6566-768x512.jpg);background-size:cover;background-position:center;\"><span class=\"amt-media__label\">Новости</span></div><div class=\"amt-article__body\"><div class=\"amt-label\">Новости</div><h3>Завод AM.TECH в репортаже «России 24» о московской промышленности</h3><p>В рамках Месяца московской промышленности на телеканале «Россия 24» вышел репортаж о предприятиях столицы. Одним из героев сюжета стал завод…</p><div class=\"amt-meta\"><span>07.10.2026</span><span>Читать →</span></div></div></a></div>",
+          "_title": "Лента статей (обновляется сама)"
+         },
+         "elements": []
+        }
+       ],
+       "isInner": true
+      }
+     ],
+     "isInner": true
+    },
+    {
+     "id": "9d7e49c",
+     "elType": "container",
+     "settings": {
+      "content_width": "full",
+      "flex_direction": "column",
+      "_css_classes": "amt-section amt-section--dark",
+      "css_classes": "amt-section amt-section--dark",
+      "_title": "Заявка",
+      "_element_id": "contact-block"
+     },
+     "elements": [
+      {
+       "id": "1315d28",
+       "elType": "container",
+       "settings": {
+        "content_width": "full",
+        "flex_direction": "column",
+        "_css_classes": "amt-container amte-inner",
+        "css_classes": "amt-container amte-inner"
+       },
+       "elements": [
+        {
+         "id": "4fe0422",
+         "elType": "container",
+         "settings": {
+          "content_width": "full",
+          "flex_direction": "row",
+          "_css_classes": "amte-contact",
+          "css_classes": "amte-contact"
+         },
+         "elements": [
+          {
+           "id": "a635044",
+           "elType": "container",
+           "settings": {
+            "content_width": "full",
+            "flex_direction": "column",
+            "_css_classes": "amte-contact__copy",
+            "css_classes": "amte-contact__copy"
+           },
+           "elements": [
+            {
+             "id": "6a0f83e",
+             "elType": "widget",
+             "widgetType": "text-editor",
+             "settings": {
+              "editor": "<p>Инженерная консультация</p>",
+              "_css_classes": "amte-eyebrow"
+             },
+             "elements": []
+            },
+            {
+             "id": "073188a",
+             "elType": "widget",
+             "widgetType": "heading",
+             "settings": {
+              "title": "Подберём оборудование под вашу задачу",
+              "header_size": "h2",
+              "_css_classes": "amte-h2"
+             },
+             "elements": []
+            },
+            {
+             "id": "6bd4265",
+             "elType": "widget",
+             "widgetType": "text-editor",
+             "settings": {
+              "editor": "<p>Пришлите чертёж, 3D-модель или описание процесса — подберём установку AMT или технологию, подготовим КП и предложим тестовую деталь. Оборудование доступно в <a href=\"https://am-tech.ru/leasing/\">лизинг</a>.</p>",
+              "_css_classes": "amte-lead"
+             },
+             "elements": []
+            },
+            {
+             "id": "1d9aae4",
+             "elType": "widget",
+             "widgetType": "text-editor",
+             "settings": {
+              "editor": "<p><a href=\"tel:+74951091191\">+7 (495) 109-11-91</a> · <a href=\"mailto:sales@am-tech.ru\">sales@am-tech.ru</a> · Москва, Дмитровское ш., д. 9, стр. 3</p>",
+              "_css_classes": "amte-contacts"
+             },
+             "elements": []
+            }
+           ],
+           "isInner": true
+          },
+          {
+           "id": "fcfb733",
+           "elType": "container",
+           "settings": {
+            "content_width": "full",
+            "flex_direction": "column",
+            "_css_classes": "amte-form",
+            "css_classes": "amte-form"
+           },
+           "elements": [
+            {
+             "id": "402904d",
+             "elType": "widget",
+             "widgetType": "html",
+             "settings": {
+              "html": "<script data-b24-form=\"inline/2/qjtgb9\" data-skip-moving=\"true\">(function(w,d,u){var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/180000|0);var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);})(window,document,'https://cdn-ru.bitrix24.ru/b29360544/crm/form/loader_2.js');</script>",
+              "_title": "Форма Bitrix24"
+             },
+             "elements": []
+            }
+           ],
+           "isInner": true
+          }
+         ],
+         "isInner": true
+        }
+       ],
+       "isInner": true
+      }
+     ],
+     "isInner": true
+    }
+   ],
+   "isInner": false
+  }
+ ],
+ "page_settings": []
+}
