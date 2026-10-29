@@ -7,7 +7,8 @@
  * по категориям (разметка модальных окон та же — их открывает скрипт темы), описание, «Преимущества»
  * (_custom_advantages), характеристики (видимые атрибуты), видео («Файл видео»), документы («Документы товара»),
  * [partners_display], видеоблок категории (display_video_block), [recommended_news], footer-nav, форма Elementor 3699.
- * Новое: всё на одной странице с якорным меню вместо вкладок, «Модели линейки» (свои карточки вместо
+ * Новое: у принтеров кнопка «Заказать печать» ведёт к калькулятору на странице услуги, у сканеров
+ * «Демонстрация» — к форме заявки; всё на одной странице с якорным меню вместо вкладок, «Модели линейки» (свои карточки вместо
  * [similar_products] — с уменьшенными картинками), стили описаний amt-pd-*, на телефоне старые описания
  * со своей вёрсткой перестраиваются в одну колонку.
  */
@@ -122,6 +123,25 @@ if ( function_exists( 'display_video_block' ) ) {
 	}
 }
 
+/* Третья кнопка: у принтеров — «Заказать печать» (калькулятор на странице услуги), у остальных — «Демонстрация».
+   Услуги печати есть для металла (SLM, EBM; MBJ — тоже печать металлом) и для SLA; у керамики услуги нет. */
+$amt_cat_slugs = array();
+foreach ( $amt_categories as $c ) {
+	$amt_cat_slugs[] = $c->slug;
+	foreach ( get_ancestors( $c->term_id, 'product_cat' ) as $anc_id ) {
+		$anc = get_term( $anc_id, 'product_cat' );
+		if ( $anc && ! is_wp_error( $anc ) ) {
+			$amt_cat_slugs[] = $anc->slug;
+		}
+	}
+}
+$amt_print_url = '';
+if ( array_intersect( $amt_cat_slugs, array( 'slm-3d-printeri', 'ebm-3d-print', 'mbj-3d-print', 'promyshlennye-3d-printery-po-pechati-metallom' ) ) ) {
+	$amt_print_url = home_url( '/uslugi/3d-pechat-metallom/#calc' );
+} elseif ( in_array( 'sla-3d-printery', $amt_cat_slugs, true ) ) {
+	$amt_print_url = home_url( '/uslugi/sla-pechat/#calc' );
+}
+
 $amt_nav = array( array( 'amt-p-desc', 'Описание' ) );
 if ( trim( wp_strip_all_tags( $amt_adv ) ) ) {
 	$amt_nav[] = array( 'amt-p-adv', 'Преимущества' );
@@ -199,7 +219,11 @@ get_template_part( 'header-nav' );
 							<button class="amt-button amt-button--secondary" data-modal="call" data-form-id="inline/6/hkgqtn"
 								data-form-loader="loader_6.js"
 								data-product-name="<?php echo esc_attr( $product->get_name() ); ?>">Заказать звонок</button>
-							<a class="amt-button amt-button--secondary" href="#amt-form">Демонстрация</a>
+							<?php if ( $amt_print_url ) : ?>
+								<a class="amt-button amt-button--secondary" href="<?php echo esc_url( $amt_print_url ); ?>" title="Расчёт стоимости печати по 3D-модели">Заказать печать</a>
+							<?php else : ?>
+								<a class="amt-button amt-button--secondary" href="#amt-form">Демонстрация</a>
+							<?php endif; ?>
 						</div>
 					</div>
 
