@@ -1,6 +1,7 @@
 """Главная am-tech.ru, вариант 2: первый экран (слайдер с видео) остаётся как есть, ниже — новые блоки.
 
-Акценты: 1) отечественный производитель SLM-оборудования (линейка AMT), 2) интегратор аддитивного оборудования.
+Акценты: 1) отечественный производитель SLM-оборудования (линейка AMT), 2) 3D-сканеры и метрология,
+3) интегратор аддитивного оборудования.
 Результат — content/home/home-blocks.html: готовый HTML для виджета «HTML» Elementor (стили + блоки + форма
 Bitrix24 той же, что в шаблоне 3699). Блок с id="contact-block" — на него уже ведут кнопки слайдера.
 
@@ -59,6 +60,7 @@ def date(item):
 cat = {c["slug"]: c["link"] for c in load("pcat.json")}
 reps = load("catdata.json")["reps"]
 slm = {p["slug"]: p for p in load("slm.json")}
+scan = {p["slug"]: p for p in load("scan.json")}
 cases, news = load("cases.json"), load("news.json")
 
 # Линейка AMT: цифры — из атрибутов карточек (AMT-64 — из описания карточки), реестр — из карточек AMT-16 и AMT-32.
@@ -75,8 +77,23 @@ TECH = [
     ("MBJ 3D-принтеры", "mbj-3d-print", "mbj-550-pro", "Печать металлическим связующим для серий"),
     ("SLA 3D-принтеры", "sla-3d-printery", "sla-600", "Прототипы, мастер-модели, литьё"),
     ("Керамические 3D-принтеры", "3d-print-keramika", "c-136", "Техническая и биосовместимая керамика"),
-    ("3D-сканеры", "3d-scan", "3d-skaner-kscan-magic", "Контроль геометрии и реверс-инжиниринг"),
-    ("Геодезические 3D-сканеры", "geodesicheskie-3d-scaneri", "lazernyj-geodezicheskij-skaner-mls10", "Наземные и SLAM-сканеры"),
+]
+
+# 3D-сканеры: цифры — из атрибутов карточек; «в реестре СИ» — атрибут «Наличие в реестре средств измерений: Внесен».
+SCANNERS = [
+    ("3d-skaner-kscan-magic-ii", "KSCAN MAGIC II", "Ручной лазерный", "0,02 мм", "до 4 150 000 т/с", "1,35 кг"),
+    ("3d-skaner-simscan-s", "SIMSCAN S", "Беспроводной", "0,015 мм", "до 8 100 000 т/с", "0,56 кг"),
+    ("3d-skaner-trackscan-sharp-e", "TrackScan Sharp E", "С оптическим трекером", "0,025 мм", "до 6 000 000 т/с", "сканер 1,5 кг"),
+    ("3d-skaner-nimbletrack-c", "NimbleTrack C+", "С оптическим трекером", "0,025 мм", "до 6 300 000 т/с", "сканер 1,3 кг"),
+    ("lazernyj-geodezicheskij-skaner-mls10", "MLS10", "SLAM-сканер", "", "", ""),
+]
+SCAN_TYPES = [
+    ("Ручные 3D-сканеры", "ruchnye-3d-skanery"),
+    ("Лазерные 3D-сканеры", "lazernye-3d-skanery"),
+    ("Беспроводные", "besprovodnoj-skaner"),
+    ("Российские 3D-сканеры", "rossijskie-3d-skanery"),
+    ("Геодезические", "geodesicheskie-3d-scaneri"),
+    ("Все 3D-сканеры", "3d-scan"),
 ]
 
 ROUTE = [
@@ -130,6 +147,25 @@ def line_cards():
     return "".join(out)
 
 
+def scan_cards():
+    out = []
+    for slug, model, kind, acc, speed, weight in SCANNERS:
+        p = scan[slug]
+        reg = '<span class="amh-badge">В реестре СИ</span>' if p["attrs"].get("Наличие в реестре средств измерений") == "Внесен" else ""
+        specs = "".join(f'<span><i>{k}</i>{esc(v)}</span>' for k, v in (("Точность", acc), ("Скорость", speed), ("Вес", weight)) if v)
+        if not specs:
+            specs = '<span><i>Тип</i>мобильное сканирование зданий и площадок</span>'
+        out.append(
+            f'<a class="amh-model" href="{esc(p["link"])}"><span class="amh-model__img"><img src="{esc(p["img"])}" alt="{esc(p["name"])}" loading="lazy">{reg}</span>'
+            f'<span class="amh-model__name">{esc(model)}</span><span class="amh-model__text">{esc(kind)}</span>'
+            f'<span class="amh-model__specs">{specs}</span></a>')
+    return "".join(out)
+
+
+def scan_types():
+    return "".join(f'<a href="{esc(cat[slug])}">{esc(n)}</a>' for n, slug in SCAN_TYPES)
+
+
 def tech_cards():
     return "".join(
         f'<a class="amh-tech" href="{esc(cat[slug])}"><span class="amh-tech__img"><img src="{esc(reps[rep]["img"])}" alt="{esc(name)}" loading="lazy"></span>'
@@ -157,9 +193,9 @@ blocks = f"""<!-- AM.TECH: блоки главной после слайдера
       <div class="amh-slm__head">
         <div>
           <div class="amt-eyebrow">Отечественный производитель</div>
-          <h2 class="amt-title amt-title--section">Российские SLM 3D-принтеры<br>линейки AMT</h2>
+          <h2 class="amt-title amt-title--section">SLM 3D-принтеры по металлу<br>российского производства</h2>
         </div>
-        <p class="amt-lead">AM.TECH разрабатывает и производит промышленные SLM-системы для печати металлом — от компактной AMT-16 до флагманской AMT-64 с высотой построения до 1200 мм. Собственное производство в России, открытое ПО PrintMate, тестовая печать вашей детали до покупки.</p>
+        <p class="amt-lead">AM.TECH — российский производитель промышленных 3D-принтеров по металлу: разрабатываем и собираем SLM-системы линейки AMT — от компактной AMT-16 до флагманской AMT-64 с высотой построения до 1200 мм. Собственное производство в России, открытое ПО PrintMate, тестовая печать вашей детали до покупки.</p>
       </div>
       <div class="amh-line">{line_cards()}</div>
       <div class="amh-facts">
@@ -176,27 +212,52 @@ blocks = f"""<!-- AM.TECH: блоки главной после слайдера
     </div>
   </section>
 
-  <section class="amt-section amt-section--soft amh-integr" id="amh-integr">
+  <section class="amt-section amt-section--soft amh-scan" id="amh-scan">
+    <div class="amt-container">
+      <div class="amh-slm__head">
+        <div>
+          <div class="amt-eyebrow">3D-сканеры и метрология</div>
+          <h2 class="amt-title amt-title--section">Промышленные 3D-сканеры<br>для контроля геометрии и реверс-инжиниринга</h2>
+        </div>
+        <p class="amt-lead">Ручные, беспроводные и трекинговые 3D-сканеры для контроля геометрии деталей и оснастки, реверс-инжиниринга и оцифровки крупных объектов, геодезические SLAM- и наземные сканеры. Модели внесены в реестр средств измерений. Покажем сканер на вашей детали.</p>
+      </div>
+      <div class="amh-chips">{scan_types()}</div>
+      <div class="amh-line">{scan_cards()}</div>
+      <div class="amh-facts">
+        <div><b>Реестр средств измерений</b><span>KSCAN MAGIC II, SIMSCAN, TrackScan, NimbleTrack и другие модели внесены в реестр СИ.</span></div>
+        <div><b>Демонстрация на вашей детали</b><span>Отсканируем деталь и покажем карту отклонений до покупки.</span></div>
+        <div><b>Услуги сканирования</b><span>3D-сканирование, реверс-инжиниринг и контроль геометрии на нашем оборудовании.</span></div>
+        <div><b>Выезд по России</b><span>Сканируем на площадке заказчика — крупные объекты и оснастку.</span></div>
+      </div>
+      <div class="amh-actions">
+        <a class="amt-button amt-button--primary js-scroll-to-contacts" href="#contact-block">Подобрать 3D-сканер <span>→</span></a>
+        <a class="amt-button amt-button--secondary" href="{esc(cat['3d-scan'])}">Все 3D-сканеры</a>
+        <a class="amt-button amt-button--secondary" href="https://am-tech.ru/uslugi/3d-skanirovanie/">Заказать 3D-сканирование</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="amt-section amh-integr" id="amh-integr">
     <div class="amt-container">
       <div class="amt-section__head">
         <div class="amt-section__copy">
           <div class="amt-eyebrow">Интегратор аддитивного оборудования</div>
-          <h2 class="amt-title amt-title--section">Подбираем технологию под деталь,<br>а не отдельный принтер</h2>
-          <p class="amt-lead">Кроме собственных SLM-систем поставляем и внедряем оборудование для печати металлом, фотополимерами и керамикой, 3D-сканеры для контроля геометрии — и собираем технологическую цепочку под требования к материалу, точности и себестоимости.</p>
+          <h2 class="amt-title amt-title--section">Оборудование для аддитивного производства:<br>EBM, MBJ, SLA и керамика</h2>
+          <p class="amt-lead">Кроме собственных SLM-систем и 3D-сканеров поставляем и внедряем оборудование для печати металлом (EBM, MBJ), фотополимерами и керамикой — и собираем технологическую цепочку под требования к материалу, точности и себестоимости.</p>
         </div>
         <a class="amt-button amt-button--secondary" href="https://am-tech.ru/katalog/">Весь каталог <span>→</span></a>
       </div>
       <div class="amh-techs">{tech_cards()}</div>
-      <h3 class="amh-route__title">Внедрение под ключ: шесть контролируемых этапов</h3>
+      <h3 class="amh-route__title">Внедрение аддитивных технологий под ключ — шесть этапов</h3>
       <ol class="amh-route">{route()}</ol>
     </div>
   </section>
 
-  <section class="amt-section amh-svcs" id="amh-services">
+  <section class="amt-section amt-section--soft amh-svcs" id="amh-services">
     <div class="amt-container amh-svcs__grid">
       <div>
         <div class="amt-eyebrow">Услуги на нашем оборудовании</div>
-        <h2 class="amt-title amt-title--section">Печать, сканирование<br>и контроль на заказ</h2>
+        <h2 class="amt-title amt-title--section">3D-печать металлом<br>и 3D-сканирование на заказ</h2>
         <p class="amt-lead">Загрузите STL-модель — калькулятор оценит объём и стоимость печати, инженер подтвердит расчёт. Срок — от 3 дней.</p>
         <a class="amt-button amt-button--primary" href="https://am-tech.ru/uslugi/3d-pechat-metallom/#calc">Рассчитать печать <span>→</span></a>
       </div>
@@ -204,10 +265,10 @@ blocks = f"""<!-- AM.TECH: блоки главной после слайдера
     </div>
   </section>
 
-  <section class="amt-section amt-section--soft" id="amh-cases">
+  <section class="amt-section" id="amh-cases">
     <div class="amt-container">
       <div class="amt-section__head">
-        <div class="amt-section__copy"><div class="amt-eyebrow">Практика</div><h2 class="amt-title amt-title--section">Кейсы применения</h2></div>
+        <div class="amt-section__copy"><div class="amt-eyebrow">Практика</div><h2 class="amt-title amt-title--section">Кейсы применения аддитивных технологий<br>и 3D-сканирования</h2></div>
         <a class="amt-button amt-button--secondary" href="https://am-tech.ru/teknologii/">Все кейсы <span>→</span></a>
       </div>
       <div class="amt-articles" data-amh-feed="cases">{''.join(card(c) for c in cases)}</div>
@@ -215,10 +276,10 @@ blocks = f"""<!-- AM.TECH: блоки главной после слайдера
     </div>
   </section>
 
-  <section class="amt-section" id="amh-blog">
+  <section class="amt-section amt-section--soft" id="amh-blog">
     <div class="amt-container">
       <div class="amt-section__head">
-        <div class="amt-section__copy"><div class="amt-eyebrow">Блог</div><h2 class="amt-title amt-title--section">Новости и инженерные материалы</h2></div>
+        <div class="amt-section__copy"><div class="amt-eyebrow">Блог</div><h2 class="amt-title amt-title--section">Новости и статьи<br>об аддитивных технологиях</h2></div>
         <div class="amh-head-links"><a class="amt-button amt-button--secondary" href="https://am-tech.ru/video-obzory/">Видеообзоры</a><a class="amt-button amt-button--secondary" href="https://am-tech.ru/blog/">Все материалы <span>→</span></a></div>
       </div>
       <div class="amt-articles" data-amh-feed="news">{''.join(card(n) for n in news)}</div>
@@ -229,7 +290,7 @@ blocks = f"""<!-- AM.TECH: блоки главной после слайдера
     <div class="amt-container amh-contact">
       <div>
         <div class="amt-eyebrow">Инженерная консультация</div>
-        <h2 class="amt-title amt-title--section">Обсудим вашу<br>производственную <em>задачу</em></h2>
+        <h2 class="amt-title amt-title--section">Подберём оборудование<br>под вашу <em>задачу</em></h2>
         <p class="amt-lead">Пришлите чертёж, 3D-модель или описание процесса — подберём установку AMT или технологию, подготовим КП и предложим тестовую деталь. Оборудование доступно в <a href="https://am-tech.ru/leasing/">лизинг</a>.</p>
         <div class="amt-contacts"><a href="tel:+74951091191">+7 (495) 109‑11‑91</a><a href="mailto:sales@am-tech.ru">sales@am-tech.ru</a><span>Москва, Дмитровское ш., д. 9, стр. 3</span></div>
       </div>
