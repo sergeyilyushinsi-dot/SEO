@@ -63,7 +63,7 @@ if ( have_posts() ) :
 					<h1 class="amt-shero__title"><?php the_title(); ?></h1>
 					<div class="amt-shero__meta">
 						<div class="amt-author">
-							<?php echo get_avatar( $amt_author_id, 48 ); ?>
+							<?php echo get_avatar( $amt_author_id, 48, '', get_the_author_meta( 'display_name', $amt_author_id ) ); ?>
 							<div>
 								<b><?php the_author(); ?></b>
 								<?php if ( $amt_author_desc ) : ?><span><?php echo esc_html( $amt_author_desc ); ?></span><?php endif; ?>
