@@ -1,0 +1,45 @@
+<!-- AM.TECH: светлое мобильное меню в стиле сайта (WPCode → HTML-сниппет → «Сквозная шапка», везде) -->
+<style id="amt-mobile-menu-light">
+@media (max-width: 991px) {
+  body .header_nav{background:#fff!important;box-shadow:0 0 0 100vmax rgba(10,12,20,.35)!important;font-family:"Montserrat",Arial,sans-serif}
+  body .header_nav:not(.show){box-shadow:none!important}
+  body .header_nav::-webkit-scrollbar-thumb{background:rgba(23,23,23,.15)!important}
+  /* шапка меню */
+  body .header_nav .amtech-mobile-top{background:#fff!important;border-bottom:1px solid #ececec!important;padding:16px 64px 16px 20px!important}
+  body .header_nav .close_header{background:#f4f4f2!important;border:1px solid #e6e6e2!important}
+  body .header_nav .close_header svg circle{fill:transparent!important}
+  body .header_nav .close_header svg path{stroke:#171717!important}
+  body .header_nav .close_header:hover{background:#fff3e9!important}
+  /* пункты */
+  body .header_nav>ul{padding:10px 12px!important}
+  body .header_nav>ul>li{border-bottom:1px solid #f0f0ee!important}
+  body .header_nav>ul>li:last-child{border-bottom:none!important}
+  body .header_nav>ul>li>a{background:transparent!important;color:#171717!important;border-radius:14px!important;box-shadow:none!important;font-weight:600!important;font-size:16px!important;min-height:52px}
+  body .header_nav>ul>li>a:hover,body .header_nav>ul>li>a:active{background:#fff3e9!important;color:#ff7300!important}
+  body .header_nav>ul>li.current-menu-item>a,body .header_nav>ul>li.current_page_item>a{background:#fff3e9!important;color:#ff7300!important;box-shadow:inset 3px 0 0 #ff7300!important}
+  body .header_nav>ul>li.amtech-has-dropdown.is-open>a{background:#fff3e9!important;color:#ff7300!important}
+  body .header_nav ul a::before{display:none!important}
+  body .header_nav .amtech-caret{border-color:#ff7300!important;color:#ff7300!important}
+  /* подменю */
+  body .header_nav .amtech-megamenu,body .header_nav .amtech-techmenu{background:#f7f7f5!important;border:none!important;box-shadow:none!important;border-radius:14px!important}
+  body .header_nav .amtech-megamenu .amtech-megamenu__root{border-bottom:1px solid #ececea!important}
+  body .header_nav .amtech-megamenu .amtech-megamenu__rootlink{color:#171717!important;font-weight:600!important}
+  body .header_nav .amtech-megamenu .amtech-megamenu__sub{background:transparent!important;box-shadow:none!important;border:none!important}
+  body .header_nav .amtech-megamenu .amtech-megamenu__sublink,body .header_nav .amtech-techmenu .amtech-techmenu__link{color:#4f4f4f!important}
+  body .header_nav .amtech-megamenu .amtech-megamenu__root.is-open>.amtech-megamenu__rootlink,
+  body .header_nav .amtech-megamenu a:active,body .header_nav .amtech-techmenu a:active{color:#ff7300!important;background:#fff!important}
+  /* контакты и иконки */
+  body .header_nav .right_header{background:#f7f7f5!important;border-top:1px solid #ececea!important}
+  body .header_nav .contact_header a.phone{color:#ff7300!important}
+  body .header_nav .contact_header a:not(.phone){color:#4f4f4f!important}
+  body .header_nav .flex_header_block{border-top:1px solid #e6e6e2!important}
+  body .header_nav .flex_header_block>div{background:#fff!important;border:1px solid #e6e6e2!important}
+  body .header_nav .flex_header_block svg path{fill:#171717!important;fill-opacity:1!important}
+  body .header_nav .flex_header_block svg [stroke]{stroke:#171717!important}
+  body .header_nav .soc_links{background:#f7f7f5!important;border-top:1px solid #ececea!important}
+  body .header_nav .soc_links a{background:#fff!important;border:1px solid #e6e6e2!important}
+  body .header_nav .soc_links svg path{fill:#171717!important}
+  body .header_nav .soc_links a:hover svg path{fill:#fff!important}
+  body .header_nav .soc_links a:hover{background:#ff7300!important;border-color:#ff7300!important}
+}
+</style>
