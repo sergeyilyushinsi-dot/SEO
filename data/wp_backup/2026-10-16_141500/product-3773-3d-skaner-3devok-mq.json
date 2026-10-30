@@ -1,0 +1,667 @@
+{
+ "id": 3773,
+ "name": "3D-сканер 3DeVOK МQ",
+ "slug": "3d-skaner-3devok-mq",
+ "permalink": "https://am-tech.ru/product/3d-skaner-3devok-mq/",
+ "date_created": "2026-01-26T14:27:12",
+ "date_created_gmt": "2026-01-26T11:27:12",
+ "date_modified": "2026-06-30T15:04:15",
+ "date_modified_gmt": "2026-06-30T12:04:15",
+ "type": "simple",
+ "status": "publish",
+ "featured": false,
+ "catalog_visibility": "visible",
+ "description": "<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\" style=\"padding-top: 0px; padding-bottom: 0px;\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n<h2 class=\"\">3DeVOK MQ – <strong>высокоскоростной 3D-сканер на основе инфракрасного структурированного света от&nbsp;AM.TECH</strong></h2>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n<p class=\"\"><strong>3DeVOK MQ</strong> – это профессиональный 3D-сканер, построенный на передовой технологии инфракрасного структурированного света и VCSEL-подсветки. Он разработан для скоростного и эффективного захвата данных объектов различного масштаба, предлагая оптимальное соотношение производительности, универсальности и простоты использования.</p>\r\n\r\n<h2 class=\"\">Ключевые особенности 3DeVOK MQ:</h2>\r\n<ul class=\"\">\r\n \t<li>\r\n<p class=\"ds-markdown-paragraph\"><strong>Высокоскоростное сканирование</strong>\r\nОбеспечивает захват данных с рекордной скоростью до&nbsp;<strong>4 500 000 точек в секунду</strong>, что позволяет быстро оцифровывать даже крупные объекты и значительно сокращает время на выполнение проектов.</p>\r\n</li>\r\n \t<li>\r\n<p class=\"ds-markdown-paragraph\"><strong>Гибкая технология захвата</strong>\r\nКомбинация&nbsp;<strong>22 инфракрасных лазерных линий</strong>&nbsp;и инфракрасного структурированного света VCSEL обеспечивает стабильную работу с различными поверхностями, включая темные и блестящие, в широком диапазоне расстояний (от 150 до 1500 мм).</p>\r\n</li>\r\n \t<li>\r\n<p class=\"ds-markdown-paragraph\"><strong>Широкая область сканирования</strong>\r\nДинамическое поле зрения варьируется от&nbsp;<strong>50×75 мм</strong>&nbsp;для мелких деталей до&nbsp;<strong>1100×1000 мм</strong>&nbsp;для крупных объектов, что делает сканер универсальным инструментом для задач любого масштаба.</p>\r\n</li>\r\n \t<li>\r\n<p class=\"ds-markdown-paragraph\"><strong>Компактность и эргономика</strong>\r\nЛегкий вес (<strong>0,55 кг</strong>) и компактные габариты делают сканер чрезвычайно мобильным и удобным для продолжительной работы в лабораторных, производственных или полевых условиях.</p>\r\n</li>\r\n \t<li>\r\n<p class=\"ds-markdown-paragraph\"><strong>Простое и мощное ПО</strong>\r\nИнтуитивное программное обеспечение позволяет быстро начать работу, обеспечивает эффективную обработку данных и экспорт результатов во все популярные CAD-форматы.</p>\r\n</li>\r\n</ul>\r\n<p class=\"\">Приобрести 3D-сканер 3DeVOK MQ можно в компании&nbsp;AM.TECH&nbsp;на выгодных условиях. Наши специалисты помогут подобрать конфигурацию, оформить лизинг и обеспечат полную техническую поддержку.</p>\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"boldgrid-section\" style=\"background-color: #fafafa;\">\r\n<div class=\"container\">\r\n<div class=\"row\" style=\"padding-top: 50px; padding-bottom: 10px;\">\r\n<div class=\"col-lg-6 col-md-6 col-sm-6 col-xs-12\"></div>\r\n</div>\r\n<div class=\"row\" style=\"padding-bottom: 0px; padding-top: 10px;\">\r\n<div class=\"col-lg-6 col-md-6 col-sm-6 col-xs-12\"></div>\r\n</div>\r\n</div>\r\n</div>",
+ "short_description": "<strong>3DeVOK MQ</strong> – это промышленный 3D-сканер, построенный на передовой технологии инфракрасного структурированного света и VCSEL-подсветки. Он разработан для скоростного и эффективного захвата данных объектов различного масштаба, предлагая оптимальное соотношение производительности, универсальности и простоты использования.",
+ "sku": "",
+ "price": "",
+ "regular_price": "",
+ "sale_price": "",
+ "date_on_sale_from": null,
+ "date_on_sale_from_gmt": null,
+ "date_on_sale_to": null,
+ "date_on_sale_to_gmt": null,
+ "on_sale": false,
+ "purchasable": false,
+ "total_sales": 0,
+ "virtual": false,
+ "downloadable": false,
+ "downloads": [],
+ "download_limit": -1,
+ "download_expiry": -1,
+ "external_url": "",
+ "button_text": "",
+ "tax_status": "taxable",
+ "tax_class": "",
+ "manage_stock": false,
+ "stock_quantity": null,
+ "backorders": "no",
+ "backorders_allowed": false,
+ "backordered": false,
+ "low_stock_amount": null,
+ "sold_individually": false,
+ "weight": "",
+ "dimensions": {
+  "length": "",
+  "width": "",
+  "height": ""
+ },
+ "shipping_required": true,
+ "shipping_taxable": true,
+ "shipping_class": "",
+ "shipping_class_id": 0,
+ "reviews_allowed": true,
+ "average_rating": "0",
+ "rating_count": 0,
+ "upsell_ids": [],
+ "cross_sell_ids": [],
+ "parent_id": 0,
+ "purchase_note": "",
+ "categories": [
+  {
+   "id": 24,
+   "name": "3D-сканеры",
+   "slug": "3d-scan"
+  },
+  {
+   "id": 1273,
+   "name": "Лазерные 3d сканеры",
+   "slug": "lazernye-3d-skanery"
+  },
+  {
+   "id": 1272,
+   "name": "Ручные 3d сканеры",
+   "slug": "ruchnye-3d-skanery"
+  }
+ ],
+ "brands": [],
+ "tags": [],
+ "images": [
+  {
+   "id": 3774,
+   "date_created": "2026-01-26T17:36:33",
+   "date_created_gmt": "2026-01-26T11:36:33",
+   "date_modified": "2026-01-26T17:36:33",
+   "date_modified_gmt": "2026-01-26T11:36:33",
+   "src": "https://am-tech.ru/wp-content/uploads/2026/01/mq-360_demain_0035.png",
+   "name": "mq 360_DeMain_0035",
+   "alt": ""
+  },
+  {
+   "id": 3775,
+   "date_created": "2026-01-26T17:37:58",
+   "date_created_gmt": "2026-01-26T11:37:58",
+   "date_modified": "2026-01-26T17:37:58",
+   "date_modified_gmt": "2026-01-26T11:37:58",
+   "src": "https://am-tech.ru/wp-content/uploads/2026/01/dsc00483_0010_dsc00507.jpg",
+   "name": "DSC00483_0010_DSC00507",
+   "alt": ""
+  },
+  {
+   "id": 3776,
+   "date_created": "2026-01-26T17:40:07",
+   "date_created_gmt": "2026-01-26T11:40:07",
+   "date_modified": "2026-01-26T17:40:07",
+   "date_modified_gmt": "2026-01-26T11:40:07",
+   "src": "https://am-tech.ru/wp-content/uploads/2026/01/dsc00483_0014_dsc00485.jpg",
+   "name": "DSC00483_0014_DSC00485",
+   "alt": ""
+  }
+ ],
+ "attributes": [
+  {
+   "id": 3524,
+   "name": "Точность, мм, до",
+   "slug": "pa_tochnost-mm-do",
+   "position": 0,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "0,07"
+   ]
+  },
+  {
+   "id": 3525,
+   "name": "Объемная точность, мм",
+   "slug": "pa_obemnaja-tochnost-mm",
+   "position": 1,
+   "visible": false,
+   "variation": false,
+   "options": [
+    "-"
+   ]
+  },
+  {
+   "id": 3531,
+   "name": "Разрешение, мм, до",
+   "slug": "pa_razreshenie-mm-do",
+   "position": 2,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "0,1"
+   ]
+  },
+  {
+   "id": 3532,
+   "name": "Скорость измерений, точек/сек, до",
+   "slug": "pa_skorost-izmerenij",
+   "position": 3,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "4 500 000"
+   ]
+  },
+  {
+   "id": 3533,
+   "name": "Область сканирования (поле зрения), мм, до",
+   "slug": "pa_oblast-pole-zr",
+   "position": 4,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "от 50 х 75 до 1100 х 1000"
+   ]
+  },
+  {
+   "id": 3534,
+   "name": "Оптимальное расстояние до объекта, мм",
+   "slug": "pa_optimalnoe-rasstojanie",
+   "position": 5,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "150 - 1500"
+   ]
+  },
+  {
+   "id": 3535,
+   "name": "Источник излучения",
+   "slug": "pa_istochnik-izluchenija",
+   "position": 6,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "22 инфракрасные лазерные линии; Инфракрасный структурированный свет VCSEL: белый структурированный подсвет"
+   ]
+  },
+  {
+   "id": 3537,
+   "name": "Размеры измеряемого объекта, м",
+   "slug": "pa_razmery-izmerjaemogo",
+   "position": 7,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "0,05-5"
+   ]
+  },
+  {
+   "id": 3538,
+   "name": "Габариты сканера, мм",
+   "slug": "pa_gabarity-skanera-mm",
+   "position": 8,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "215×73×53"
+   ]
+  },
+  {
+   "id": 3539,
+   "name": "Вес сканера, кг",
+   "slug": "pa_ves-skanera-kg",
+   "position": 9,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "0,62"
+   ]
+  },
+  {
+   "id": 3540,
+   "name": "Температура окружающей среды при эксплуатации, °С",
+   "slug": "pa_temperatura",
+   "position": 10,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "от -10 до +40"
+   ]
+  },
+  {
+   "id": 3541,
+   "name": "Наличие в реестре средств измерений",
+   "slug": "pa_nalichie-v-reestre",
+   "position": 11,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "Внесен"
+   ]
+  }
+ ],
+ "default_attributes": [],
+ "variations": [],
+ "grouped_products": [],
+ "menu_order": 4,
+ "price_html": "",
+ "related_ids": [
+  1590,
+  1565,
+  1683,
+  1647,
+  1690
+ ],
+ "meta_data": [
+  {
+   "id": 41252,
+   "key": "bitrix_id",
+   "value": "2524"
+  },
+  {
+   "id": 41253,
+   "key": "Символьный код",
+   "value": "3d-skaner-3devok-mt"
+  },
+  {
+   "id": 41254,
+   "key": "Анонс",
+   "value": "<p>Первый гибридный 3D-сканер <strong>3DeVOK МТ</strong> в линейке am-tech.ru. Превосходное решение для сканирования объектов любого типа. Идеален для художественного дизайна, обратного проектирования, контроля геометрии, 3D-визуализации, 3D-печати, исследований, образования и многого другого.</p>"
+  },
+  {
+   "id": 41255,
+   "key": "Описание",
+   "value": "<h2 data-pm-slice=\"1 1 []\"><strong>3DeVOK MT &ndash; первый гибридный 3D-сканер от am-tech.ru</strong></h2>\r\n<p><strong>3DeVOK MT</strong> &ndash; инновационный гибридный 3D-сканер, который сочетает в себе передовые технологии для точного и быстрого сканирования объектов любого типа. Это универсальное решение подходит для задач в области художественного дизайна, обратного проектирования, контроля геометрии, 3D-визуализации, 3D-печати, исследований и образовательных проектов.</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<table style=\"border-collapse: collapse; width: 98.5735%;\" align=\"center\">\r\n<tbody>\r\n<tr>\r\n<td style=\"width: 49.7467%; vertical-align: middle;\" align=\"center\"><img src=\"/upload/editor_images/1742298563-mceu_72670477411742298553019.png\" height=\"300\" /></td>\r\n<td style=\"width: 49.7467%; vertical-align: middle;\" align=\"center\"><img src=\"/upload/editor_images/1742298587-mceu_99922795621742298577730.png\" height=\"300\" /></td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<h2><strong>Ключевые особенности 3DeVOK MT:</strong></h2>\r\n<ul data-spread=\"false\">\r\n<li>\r\n<p><strong>Гибридная технология сканирования</strong>: Объединяет преимущества лазерного и структурного света, обеспечивая высокую точность и детализацию.</p>\r\n</li>\r\n<li>\r\n<p><strong>Высокая точность и разрешение</strong>: Позволяет получать 3D-модели с мельчайшими деталями, что особенно важно при инженерных расчетах и контроле качества.</p>\r\n</li>\r\n<li>\r\n<p><strong>Универсальность применения</strong>: Подходит для сканирования объектов разной формы, размера и текстуры &ndash; от небольших деталей до крупных конструкций.</p>\r\n</li>\r\n<li>\r\n<p><strong>Интуитивное программное обеспечение</strong>: Простая настройка и удобный интерфейс обеспечивают быстрое освоение и легкость в работе.</p>\r\n</li>\r\n<li>\r\n<p><strong>Широкая сфера использования</strong>: Идеален для 3D-печати, цифровой архивации, реставрации, создания прототипов и образовательных задач.</p>\r\n</li>\r\n</ul>\r\n<h2><strong>Преимущества 3D-сканера 3DeVOK MT:</strong></h2>\r\n<ul data-spread=\"false\">\r\n<li>\r\n<p>Быстрое и точное получение 3D-моделей.</p>\r\n</li>\r\n<li>\r\n<p>Поддержка различных форматов файлов для удобной интеграции с популярными CAD-системами.</p>\r\n</li>\r\n<li>\r\n<p>Компактный и эргономичный дизайн для удобной работы в лабораторных и производственных условиях.</p>\r\n</li>\r\n<li>\r\n<p>Надежность и долговечность, подтвержденные стандартами качества am-tech.ru.</p>\r\n</li>\r\n</ul>\r\n<h3><strong>Почему стоит выбрать 3DeVOK MT?</strong></h3>\r\n<p>Если вам нужен профессиональный 3D-сканер с высокой точностью и гибкостью в работе, <strong>3DeVOK MT</strong> станет идеальным решением. Его универсальность и простота использования позволяют эффективно решать задачи в различных сферах, от инженерии до искусства и образования.</p>\r\n<p><strong>Купить 3D-сканер 3DeVOK MT</strong> &ndash; сделайте шаг к новым возможностям в мире 3D-технологий уже сегодня!</p>\r\n<p>Все представленное в нашем каталоге оборудование доступно к приобретению на выгодных условиях <a href=\"https://am-tech.ru/leasing/\">лизинга.</a></p>\r\n<p>Наши специалисты помогут подобрать оптимальную схему лизинга под ваши производственные задачи и финансовые возможности, а также окажут содействие в оформлении всей необходимой документации.</p>"
+  },
+  {
+   "id": 41256,
+   "key": "Точность, мм",
+   "value": "до 0,04"
+  },
+  {
+   "id": 41257,
+   "key": "Объемная точность, мм/м",
+   "value": "±(0,04+0,06*L)"
+  },
+  {
+   "id": 41258,
+   "key": "Возможность работы со щупом",
+   "value": "нет"
+  },
+  {
+   "id": 41259,
+   "key": "Разрешение, мм",
+   "value": "до 0,05"
+  },
+  {
+   "id": 41260,
+   "key": "Скорость измерений, точек/сек",
+   "value": "до 4 500 000"
+  },
+  {
+   "id": 41261,
+   "key": "Область сканирования (поле зрения), мм",
+   "value": "1100 х 1000"
+  },
+  {
+   "id": 41262,
+   "key": "Оптимальное расстояние до объекта, мм",
+   "value": "300"
+  },
+  {
+   "id": 41263,
+   "key": "Источник излучения",
+   "value": "Частота кадров до 70 кадров в сек"
+  },
+  {
+   "id": 41264,
+   "key": "Размеры измеряемого объекта, м",
+   "value": "до 1,5"
+  },
+  {
+   "id": 41265,
+   "key": "Габариты, мм",
+   "value": "215х73х53"
+  },
+  {
+   "id": 41266,
+   "key": "Вес, кг",
+   "value": "0,64"
+  },
+  {
+   "id": 41267,
+   "key": "Температура окружающей среды, °C",
+   "value": "от -10 до +40"
+  },
+  {
+   "id": 41268,
+   "key": "Наличие в реестре средств измерений",
+   "value": "да"
+  },
+  {
+   "id": 41269,
+   "key": "Страна производства",
+   "value": "Китай"
+  },
+  {
+   "id": 41270,
+   "key": "Видео в попапе",
+   "value": "https://disk.yandex.ru/i/OpicVlg56lm0KQ"
+  },
+  {
+   "id": 41271,
+   "key": "Хит продаж",
+   "value": "NEW"
+  },
+  {
+   "id": 41272,
+   "key": "Код с видео (iframe)",
+   "value": "https://disk.yandex.ru/i/OpicVlg56lm0KQ"
+  },
+  {
+   "id": 41273,
+   "key": "Связанные товары по фильтру",
+   "value": "[]"
+  },
+  {
+   "id": 41274,
+   "key": "Видео",
+   "value": "https://disk.yandex.ru/i/OpicVlg56lm0KQ"
+  },
+  {
+   "id": 41275,
+   "key": "Вес, кг.",
+   "value": "0,64"
+  },
+  {
+   "id": 41276,
+   "key": "Класс лазера (безопасность для глаз)",
+   "value": "Класс II (безопасно для глаз)"
+  },
+  {
+   "id": 41277,
+   "key": "bitrix_picture",
+   "value": "/pr_new_files/iblock/f92/uefqu2vm2czzzxnzpmi16qy1aywoe3jc.png"
+  },
+  {
+   "id": 41278,
+   "key": "wbcr_wp_old_slug",
+   "value": "3d-%d1%81%d0%ba%d0%b0%d0%bd%d0%b5%d1%80-3devok-%d0%bc%d1%82"
+  },
+  {
+   "id": 41279,
+   "key": "Документы товара",
+   "value": ""
+  },
+  {
+   "id": 41280,
+   "key": "Файл видео",
+   "value": ""
+  },
+  {
+   "id": 41281,
+   "key": "_news_category",
+   "value": "0"
+  },
+  {
+   "id": 41282,
+   "key": "_news_tag",
+   "value": "0"
+  },
+  {
+   "id": 41283,
+   "key": "_my_menu_type",
+   "value": "обычное"
+  },
+  {
+   "id": 41284,
+   "key": "_video_block",
+   "value": {
+    "video_title": "",
+    "video_post_id": "",
+    "right_title": "",
+    "subtitle": "",
+    "video_description": "",
+    "button_text": "Смотреть больше видео",
+    "tag_id": ""
+   }
+  },
+  {
+   "id": 41285,
+   "key": "boldgrid_in_page_containers",
+   "value": "1"
+  },
+  {
+   "id": 41286,
+   "key": "_yoast_wpseo_primary_product_brand",
+   "value": ""
+  },
+  {
+   "id": 41287,
+   "key": "_yoast_wpseo_primary_product_cat",
+   "value": "24"
+  },
+  {
+   "id": 41288,
+   "key": "_yoast_wpseo_content_score",
+   "value": "60"
+  },
+  {
+   "id": 41289,
+   "key": "_yoast_wpseo_estimated-reading-time-minutes",
+   "value": "2"
+  },
+  {
+   "id": 41290,
+   "key": "_custom_advantages",
+   "value": "<p class=\"ds-markdown-paragraph\"><strong>Преимущества 3D-сканера 3DeVOK MQ:</strong></p>\r\n\r\n<ul>\r\n \t<li>\r\n<p class=\"ds-markdown-paragraph\">Идеальное решение для быстрой оцифровки объектов размером от 5 см до 5 метров.</p>\r\n</li>\r\n \t<li>\r\n<p class=\"ds-markdown-paragraph\">Высокая детализация модели при скорости, превосходящей многие аналоги.</p>\r\n</li>\r\n \t<li>\r\n<p class=\"ds-markdown-paragraph\">Надежная работа в различных условиях благодаря прочному корпусу и стабильной работе в температурном диапазоне от 0°C до +40°C.</p>\r\n</li>\r\n \t<li>\r\n<p class=\"ds-markdown-paragraph\">Отличный выбор для реверс-инжиниринга, контроля качества, создания цифровых архивов, медиа и образовательных проектов.</p>\r\n</li>\r\n</ul>"
+  },
+  {
+   "id": 41291,
+   "key": "_yoast_wpseo_title",
+   "value": "3D-сканер 3DeVOK MQ — портативный 3D-сканер | AM-Tech"
+  },
+  {
+   "id": 41292,
+   "key": "_yoast_wpseo_metadesc",
+   "value": "Заказать 3D-сканер 3DeVOK МQ. Профессиональное оборудование для сложных задач. Демонстрация и консультация специалистов."
+  },
+  {
+   "id": 41293,
+   "key": "_vcv-sourceChecksum",
+   "value": "e0d540ce157ee2bb31ffebf949679a82"
+  },
+  {
+   "id": 41294,
+   "key": "vcvSourceCssFileUrl",
+   "value": "/assets-bundles/e0d540ce157ee2bb31ffebf949679a82.source.css"
+  },
+  {
+   "id": 41295,
+   "key": "_vcv-globalCssMigrated",
+   "value": "1"
+  },
+  {
+   "id": 52808,
+   "key": "_elementor_page_assets",
+   "value": []
+  }
+ ],
+ "stock_status": "instock",
+ "has_options": false,
+ "post_password": "",
+ "global_unique_id": "",
+ "permalink_template": "https://am-tech.ru/product/%pagename%/",
+ "generated_slug": "3d-skaner-3devok-mq",
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>3D-сканер 3DeVOK MQ — портативный 3D-сканер | AM-Tech</title>\n<meta name=\"description\" content=\"Заказать 3D-сканер 3DeVOK МQ. Профессиональное оборудование для сложных задач. Демонстрация и консультация специалистов.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/product/3d-skaner-3devok-mq/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"3D-сканер 3DeVOK MQ — портативный 3D-сканер | AM-Tech\" />\n<meta property=\"og:description\" content=\"Заказать 3D-сканер 3DeVOK МQ. Профессиональное оборудование для сложных задач. Демонстрация и консультация специалистов.\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/product/3d-skaner-3devok-mq/\" />\n<meta property=\"og:site_name\" content=\"AM.TECH\" />\n<meta property=\"article:modified_time\" content=\"2026-06-30T12:04:15+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2026/01/mq-360_demain_0035.png\" />\n\t<meta property=\"og:image:width\" content=\"2560\" />\n\t<meta property=\"og:image:height\" content=\"1440\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"2 минуты\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/product/3d-skaner-3devok-mq/\",\"url\":\"https://am-tech.ru/product/3d-skaner-3devok-mq/\",\"name\":\"3D-сканер 3DeVOK MQ — портативный 3D-сканер | AM-Tech\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/product/3d-skaner-3devok-mq/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/product/3d-skaner-3devok-mq/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2026/01/mq-360_demain_0035.png\",\"datePublished\":\"2026-01-26T11:27:12+00:00\",\"dateModified\":\"2026-06-30T12:04:15+00:00\",\"description\":\"Заказать 3D-сканер 3DeVOK МQ. Профессиональное оборудование для сложных задач. Демонстрация и консультация специалистов.\",\"breadcrumb\":{\"@id\":\"https://am-tech.ru/product/3d-skaner-3devok-mq/#breadcrumb\"},\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/product/3d-skaner-3devok-mq/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/product/3d-skaner-3devok-mq/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2026/01/mq-360_demain_0035.png\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2026/01/mq-360_demain_0035.png\",\"width\":2560,\"height\":1440},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://am-tech.ru/product/3d-skaner-3devok-mq/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Главная страница\",\"item\":\"https://am-tech.ru/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Промышленные 3D сканеры: оборудование для реверс-инжиниринга и контроля качества\",\"item\":\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"3D-сканеры\",\"item\":\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"3D-сканер 3DeVOK МQ\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"AM.TECH\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"AM.TECH\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"AM.TECH\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "3D-сканер 3DeVOK MQ — портативный 3D-сканер | AM-Tech",
+  "description": "Заказать 3D-сканер 3DeVOK МQ. Профессиональное оборудование для сложных задач. Демонстрация и консультация специалистов.",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/product/3d-skaner-3devok-mq/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "3D-сканер 3DeVOK MQ — портативный 3D-сканер | AM-Tech",
+  "og_description": "Заказать 3D-сканер 3DeVOK МQ. Профессиональное оборудование для сложных задач. Демонстрация и консультация специалистов.",
+  "og_url": "https://am-tech.ru/product/3d-skaner-3devok-mq/",
+  "og_site_name": "AM.TECH",
+  "article_modified_time": "2026-06-30T12:04:15+00:00",
+  "og_image": [
+   {
+    "width": 2560,
+    "height": 1440,
+    "url": "https://am-tech.ru/wp-content/uploads/2026/01/mq-360_demain_0035.png",
+    "type": "image/png"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "2 минуты"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/product/3d-skaner-3devok-mq/",
+     "url": "https://am-tech.ru/product/3d-skaner-3devok-mq/",
+     "name": "3D-сканер 3DeVOK MQ — портативный 3D-сканер | AM-Tech",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/product/3d-skaner-3devok-mq/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/product/3d-skaner-3devok-mq/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2026/01/mq-360_demain_0035.png",
+     "datePublished": "2026-01-26T11:27:12+00:00",
+     "dateModified": "2026-06-30T12:04:15+00:00",
+     "description": "Заказать 3D-сканер 3DeVOK МQ. Профессиональное оборудование для сложных задач. Демонстрация и консультация специалистов.",
+     "breadcrumb": {
+      "@id": "https://am-tech.ru/product/3d-skaner-3devok-mq/#breadcrumb"
+     },
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/product/3d-skaner-3devok-mq/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/product/3d-skaner-3devok-mq/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2026/01/mq-360_demain_0035.png",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2026/01/mq-360_demain_0035.png",
+     "width": 2560,
+     "height": 1440
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://am-tech.ru/product/3d-skaner-3devok-mq/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Главная страница",
+       "item": "https://am-tech.ru/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Промышленные 3D сканеры: оборудование для реверс-инжиниринга и контроля качества",
+       "item": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "3D-сканеры",
+       "item": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 4,
+       "name": "3D-сканер 3DeVOK МQ"
+      }
+     ]
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "AM.TECH",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "AM.TECH",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "AM.TECH"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wc/v3/products/3773",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wc/v3/products"
+   }
+  ]
+ }
+}

@@ -1,0 +1,48 @@
+<!-- AM.TECH: исправление мобильного меню (вставить в WPCode как HTML-сниппет, место — «Подвал сайта», везде) -->
+<style id="amt-mobile-menu-fix">
+@media (max-width: 991px) {
+  /* Панель уже: страница остаётся видна, вокруг затемнение */
+  .header_nav { width: min(320px, 84vw) !important; max-width: 84vw !important; }
+  .header_nav.show { box-shadow: 0 0 0 100vmax rgba(10, 12, 20, .45) !important; }
+}
+/* Сенсорные экраны: эффекты наведения не меняют страницу — Safari на iPhone не просит второго касания */
+@media (hover: none) {
+  .header_nav ul a:hover:before { width: 0 !important; }
+  .header_nav ul .current-menu-item > a:hover:before { width: 100% !important; }
+  .amtech-has-dropdown:not(.is-open):hover .amtech-megamenu,
+  .amtech-has-dropdown:not(.is-open):hover .amtech-techmenu,
+  .amtech-megamenu__root.has-children:not(.is-open):hover > .amtech-megamenu__sub {
+    visibility: hidden !important; pointer-events: none !important; transform: none !important;
+  }
+  .header_nav .flex_header_block > div:hover,
+  .header_nav .soc_links a:hover { transform: none !important; }
+}
+</style>
+<script id="amt-mobile-menu-fix-js">
+(function () {
+  var MOBILE = 991, CARET_ZONE = 80;
+  function isMobile() { return window.innerWidth <= MOBILE; }
+  function nav() { return document.querySelector('.header_nav'); }
+
+  document.addEventListener('click', function (e) {
+    if (!isMobile()) return;
+    var menu = nav();
+    if (!menu) return;
+
+    /* Касание мимо открытого меню: закрыть его и не нажимать то, что под затемнением */
+    if (menu.classList.contains('show') && !menu.contains(e.target) && !e.target.closest('.start_header')) {
+      e.preventDefault();
+      e.stopPropagation();
+      menu.classList.remove('show');
+      return;
+    }
+
+    /* «Каталог», «Технологии», разделы каталога: текст — переход, стрелка справа — раскрыть подменю */
+    var link = e.target.closest('.amtech-has-dropdown > a, .amtech-megamenu__root.has-children > .amtech-megamenu__rootlink');
+    if (!link || !menu.contains(link)) return;
+    var r = link.getBoundingClientRect();
+    if (e.clientX >= r.right - CARET_ZONE) return; /* стрелка: работает обработчик темы */
+    e.stopPropagation(); /* текст: обработчик темы не вызывается, браузер переходит по ссылке */
+  }, true);
+})();
+</script>

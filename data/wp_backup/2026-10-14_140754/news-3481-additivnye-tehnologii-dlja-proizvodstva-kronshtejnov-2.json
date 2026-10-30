@@ -1,0 +1,284 @@
+{
+ "id": 3481,
+ "date": "2024-08-29T14:04:02",
+ "date_gmt": "2024-08-29T11:04:02",
+ "guid": {
+  "rendered": "https://am-tech.ru/?post_type=news&#038;p=3481",
+  "raw": "https://am-tech.ru/?post_type=news&#038;p=3481"
+ },
+ "modified": "2026-07-02T10:45:56",
+ "modified_gmt": "2026-07-02T07:45:56",
+ "password": "",
+ "slug": "additivnye-tehnologii-dlja-proizvodstva-kronshtejnov-2",
+ "status": "publish",
+ "type": "news",
+ "link": "https://am-tech.ru/news/additivnye-tehnologii-dlja-proizvodstva-kronshtejnov-2/",
+ "title": {
+  "raw": "Аддитивные технологии для производства кронштейнов (часть 2)",
+  "rendered": "Аддитивные технологии для производства кронштейнов (часть 2)"
+ },
+ "content": {
+  "raw": "<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n<p class=\"\">В <a href=\"https://am-tech.ru/news/additivnye-tehnologii-dlja-proizvodstva-kronshtejnov-1/\">первой части нашего рассказа</a> мы рассмотрели те возможности, которые дают аддитивные технологии разработчикам и производителям достаточно простых изделий - кронштейнов. В этот раз посмотрим конкретные примеры применения печатаемых кронштейнов в авиастроении.</p>\r\n\r\n<h2 class=\"\"><strong>Кронштейн Colibrium Additive для двигателя GEnx-2</strong><strong>B</strong></h2>\r\n<p class=\"\">Следствием оптимизации традиционно выпускаемых деталей является более изящная бионическая форма, но вместе с этим прочная и долговечная. Уменьшение веса приводит к снижению расхода материала и, в некоторых случаях, может повысить производительность системы, в которой используется кронштейн.\r\n&nbsp;\r\nКомпания General Electric (GE) для многих является иконой. Сегодня их направление, занимающееся АТ, произвело ребрендинг на Colibrium Additive. Еще в 2018 года Федеральное управление гражданской авиации США (FAA) одобрило первые детали, напечатанные на 3D-принтере, и используемые для открытия створок кожуха вентилятора двигателя GEnx-2B коммерческих самолетов Boeing 747-8. GE произвели замену оригинальных фрезеруемых кронштейнов на печатаемые по технологии SLM, сократив расходы материала на 90%. Сегодня кронштейны системы открывания дверей с электроприводом производятся массово на заводе Colibrium Additive. Задачи, которые ставила перед собой и успешно решила команда инженеров: снижение производственных затрат, улучшение производительности и экономичности двигателя.</p>\r\n<p class=\"\"><strong><img class=\"alignnone wp-image-3483 size-full\" src=\"https://am-tech.ru/wp-content/uploads/2025/11/2-2.png\" alt=\"\" width=\"1000\" height=\"560\"></strong></p>\r\n<p class=\"\"><strong>Рис. Серийно производимый кронштейн для двигателя GEnx-2B и сам двигатель GEnx-2B (GE Additive)</strong></p>\r\n\r\n<h2><strong>Кронштейн защелки входной двери Spirit Aerosystems для Boeing 787</strong></h2>\r\n<p class=\"\">Когда-то Дмитрий Иванович Менделеев считал титан «практически малополезным» металлом, а сегодня без этого материала не обходятся сложные и ответственные детали и узлы для авиастроения, судостроения, энергетики, медицины, спорта, архитектуры. Его ценят &nbsp;за его легкость, прочность, стойкость к коррозии, низкую плотность. Титан долговечен, устойчив к радиации, морской воде, кислотам. Самым распространенным в промышленности, в частности, в авиастроении и медицине, является титановый сплав Ti-6Al-4V, в котором как раз лучше всего проявлены преимущества малой плотности титана и его устойчивости к коррозии.</p>\r\n<p class=\"\">А теперь представьте себе, насколько композиционные материалы стали широко использоваться в нашей жизни. Особенную потребность в них испытывает авиационная промышленность по причине высокой прочности композита и его малого удельного веса. Интересно, что с увеличением потребления композитов в авиации растет и применение титана, потому как жесткие детали должны соединяться с жесткими, например, композит+титан, и уж точно не с алюминием. Компания <a href=\"https://www.spiritaero.com/\">Spirit AeroSystems Holdings, Inc.</a> является крупнейшим производителем компонентов для коммерческих самолетов Boeing 737 и 787, используя в своей работе как классические методы производства, так и аддитивные. Одним из примеров изготовления деталей 3D-печатью является <a href=\"https://www.additivemanufacturing.media/articles/what-is-the-role-for-additive-manufacturing-in-aircraft-structural-components\">фитинг</a> для дверей Boeing 787.</p>\r\n<p class=\"\"><strong><a href=\"https://am-tech.ru/wp-content/uploads/2025/11/2-3.png\"><img class=\"alignnone wp-image-3484 size-full\" src=\"https://am-tech.ru/wp-content/uploads/2025/11/2-3.png\" alt=\"\" width=\"1000\" height=\"560\"></a></strong></p>\r\n<p class=\"\"><strong>Кронштейн защелки входной двери и производственная площадка для сборки фюзеляжей Boeing 737 (Spirit Aerosystems)</strong></p>\r\n<p class=\"\">Этот фитинг сегодня производится на системах с плазменной проволочной наплавкой от Norsk Titanium, замещая старый и крайне затратный процесс фрезерной обработки. К слову, использование проволоки позволяет производить детали быстрее в 50 – 100 раз, чем при использовании популярных одно-двухлазерных систем селективного сплавления. В целом же Spirit Aerosystems существенно снизила затраты, одновременно ускорив время вывода на рынок новых деталей как минимум на 60%.</p>\r\n\r\n<h2><strong>Кронштейн передней стойки шасси Liebherr для Airbus</strong></h2>\r\n<p class=\"\">Очередной пример из авиастроения, на этот раз для производства кронштейнов передней стойки шасси для Airbus A350 XWB продемонстрировала компания <a href=\"https://www.liebherr.com/en/fra/products/aerospace-and-transportation-systems/aerospace/aerospace.html\">Liebherr-Aerospace</a>. Эти кронштейны стали первыми в мире квалифицированными напечатанными титановыми деталями для Airbus.</p>\r\n<p class=\"\"><strong><a href=\"https://am-tech.ru/wp-content/uploads/2025/11/2-4.png\"><img class=\"alignnone wp-image-3485 size-full\" src=\"https://am-tech.ru/wp-content/uploads/2025/11/2-4.png\" alt=\"\" width=\"1000\" height=\"560\"></a></strong></p>\r\n<p class=\"\" style=\"padding: 0px;\"><strong>Сравнение кронштейнов передней стойки шасси для Airbus A350 XWB, полученных традиционным и аддитивным производством (Liebherr Aerospace)</strong></p>\r\n<p class=\"\">В отличие от Spirit Aerosystems, Liebherr смогла вмешаться в конструкцию и оптимизировать деталь, что привело к снижению ее веса на 29%. Использование 3D-печати также помогло увеличить жесткость на 100%.\r\nВ 2019 году Федеральное управление авиации Германии дало разрешение компании Liebherr-Aerospace на производство компонентов с использованием аддитивного производства. С тех пор у Liebherr началась эра серийной и ответственной 3D-печати.</p>\r\n\r\n<h2><strong>Тотальная производственная оптимизация (</strong><strong>FIT </strong><strong>Group, </strong><strong>AddUp </strong><strong>Group)</strong></h2>\r\n<p class=\"\">Когда вы научились мыслить по-новому, оптимизировать традиционные детали с получением почти всех преимуществ от использования аддитивного производства, вероятно, остается последний шаг – технологическая оптимизация.</p>\r\n<p class=\"\">Интересен опыт компании AddUp Group, который она получила при топологическом усовершенствовании кронштейна для фиксации навесного оборудования современного самолета, а также технологической оптимизации. Если к топологической оптимизации у нас вопросов стало уже меньше, то как провести технологическую, минимизировав затраты на поддержки и их удаление?</p>\r\n<p class=\"\">Во-первых, для серийного аддитивного производства нужно оптимизировать изделие так, чтобы требовалось как можно меньше поддержек. Порой это может заставить инженера добавить некоторые конструктивные элементы в сам компонент, чуть увеличив объем материала. Однако такой подход может сократить число поддержек и время на их удаление, тем самым влияя на весь производственный цикл.</p>\r\n<p class=\"\"><strong><img class=\"alignnone wp-image-3486 size-full\" src=\"https://am-tech.ru/wp-content/uploads/2025/11/2-5.png\" alt=\"\" width=\"1183\" height=\"577\"></strong></p>\r\n<p class=\"\"><strong>Эволюция оптимизаций (</strong><strong>FIT </strong><strong>Group) </strong></p>\r\n<p class=\"\">Другой подход, который можно задействовать, – технологический. Если технология на оборудовании позволяет не использовать поддержки при определенных углах геометрических элементов детали, то это может сократить использование поддержек. Например, стандартным на сегодня является использование поддержек при угле к горизонтальной плоскости менее 45°. Однако сегодня существует мировой тренд, направленный на уменьшение этого угла, что в свою очередь даст конструкторам больше свободы в проектировании и ориентации детали в камере принтера.</p>\r\n<p class=\"\">Отрабатывая мировой запрос инженеров, AddUp для кронштейна фиксации навесного оборудования современного самолета <a href=\"https://www.ddmlab.ru/portfolio/aviaspace-bracket/\">провела</a> как топологическую, так и технологическую оптимизацию со следующими основными результатами по сравнению с классическим дизайном и производством:</p>\r\n\r\n<ol class=\"\">\r\n \t<li>Вес заготовки при классическом характере производства составлял 10,85 кг. Вес изделия после механообработки составлял 3 кг.</li>\r\n \t<li>Вес изделия после аддитивного производства составил 1,15 кг. Сокращение веса при АП составило 1,85 кг.</li>\r\n \t<li>При использовании комплекса FormUp 350 удалось сократить вес заготовки на 0,25 кг — это стало возможным благодаря «нулевым» поддержкам уже при 22°, 18° или 8° (в зависимости от типа материала).</li>\r\n \t<li>Сокращение времени при отсутствии печати поддержек составило 3 часа.</li>\r\n \t<li>Сокращение времени при отсутствии необходимости удаления поддержек составило 0,5 часа.</li>\r\n</ol>\r\n<p class=\"\"><strong><a href=\"https://am-tech.ru/wp-content/uploads/2025/11/2-6.jpg\"><img class=\"alignnone wp-image-3487 size-full\" src=\"https://am-tech.ru/wp-content/uploads/2025/11/2-6.jpg\" alt=\"\" width=\"1456\" height=\"816\"></a></strong></p>\r\n<p class=\"\"><strong>Рис. Оригинальный и оптимизированный кронштейн для фиксации навесного оборудования современного самолета (Add</strong><strong>Up </strong><strong>Group)</strong></p>\r\n<p class=\"\"><a href=\"https://am-tech.ru/news/additivnye-tehnologii-dlja-proizvodstva-kronshtejnov-1/\">Часть 1</a></p>\r\n<p class=\"\"><a href=\"https://am-tech.ru/news/additivnye-tehnologii-dlja-proizvodstva-kronshtejnov-3/\">Часть 3</a></p>\r\n<p class=\"\">&nbsp;</p>\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+  "rendered": "<div class=\"boldgrid-section\">\n<div class=\"container\">\n<div class=\"row\">\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\n<p class=\"\">В <a href=\"https://am-tech.ru/news/additivnye-tehnologii-dlja-proizvodstva-kronshtejnov-1/\">первой части нашего рассказа</a> мы рассмотрели те возможности, которые дают аддитивные технологии разработчикам и производителям достаточно простых изделий &#8212; кронштейнов. В этот раз посмотрим конкретные примеры применения печатаемых кронштейнов в авиастроении.</p>\n<h2 class=\"\"><strong>Кронштейн Colibrium Additive для двигателя GEnx-2</strong><strong>B</strong></h2>\n<p class=\"\">Следствием оптимизации традиционно выпускаемых деталей является более изящная бионическая форма, но вместе с этим прочная и долговечная. Уменьшение веса приводит к снижению расхода материала и, в некоторых случаях, может повысить производительность системы, в которой используется кронштейн.<br />\n&nbsp;<br />\nКомпания General Electric (GE) для многих является иконой. Сегодня их направление, занимающееся АТ, произвело ребрендинг на Colibrium Additive. Еще в 2018 года Федеральное управление гражданской авиации США (FAA) одобрило первые детали, напечатанные на 3D-принтере, и используемые для открытия створок кожуха вентилятора двигателя GEnx-2B коммерческих самолетов Boeing 747-8. GE произвели замену оригинальных фрезеруемых кронштейнов на печатаемые по технологии SLM, сократив расходы материала на 90%. Сегодня кронштейны системы открывания дверей с электроприводом производятся массово на заводе Colibrium Additive. Задачи, которые ставила перед собой и успешно решила команда инженеров: снижение производственных затрат, улучшение производительности и экономичности двигателя.</p>\n<p class=\"\"><strong><img loading=\"lazy\" decoding=\"async\" fetchpriority=\"high\" decoding=\"async\" class=\"alignnone wp-image-3483 size-full\" src=\"https://am-tech.ru/wp-content/uploads/2025/11/2-2.png\" alt=\"Аддитивные технологии для производства кронштейнов (часть 2) - 3D-печать металлами - AM-Tech\" width=\"1000\" height=\"560\" srcset=\"https://am-tech.ru/wp-content/uploads/2025/11/2-2.png 1000w, https://am-tech.ru/wp-content/uploads/2025/11/2-2-300x168.png 300w, https://am-tech.ru/wp-content/uploads/2025/11/2-2-768x430.png 768w, https://am-tech.ru/wp-content/uploads/2025/11/2-2-600x336.png 600w\" sizes=\"(max-width: 1000px) 100vw, 1000px\" /></strong></p>\n<p class=\"\"><strong>Рис. Серийно производимый кронштейн для двигателя GEnx-2B и сам двигатель GEnx-2B (GE Additive)</strong></p>\n<h2><strong>Кронштейн защелки входной двери Spirit Aerosystems для Boeing 787</strong></h2>\n<p class=\"\">Когда-то Дмитрий Иванович Менделеев считал титан «практически малополезным» металлом, а сегодня без этого материала не обходятся сложные и ответственные детали и узлы для авиастроения, судостроения, энергетики, медицины, спорта, архитектуры. Его ценят &nbsp;за его легкость, прочность, стойкость к коррозии, низкую плотность. Титан долговечен, устойчив к радиации, морской воде, кислотам. Самым распространенным в промышленности, в частности, в авиастроении и медицине, является титановый сплав Ti-6Al-4V, в котором как раз лучше всего проявлены преимущества малой плотности титана и его устойчивости к коррозии.</p>\n<p class=\"\">А теперь представьте себе, насколько композиционные материалы стали широко использоваться в нашей жизни. Особенную потребность в них испытывает авиационная промышленность по причине высокой прочности композита и его малого удельного веса. Интересно, что с увеличением потребления композитов в авиации растет и применение титана, потому как жесткие детали должны соединяться с жесткими, например, композит+титан, и уж точно не с алюминием. Компания <a href=\"https://www.spiritaero.com/\">Spirit AeroSystems Holdings, Inc.</a> является крупнейшим производителем компонентов для коммерческих самолетов Boeing 737 и 787, используя в своей работе как классические методы производства, так и аддитивные. Одним из примеров изготовления деталей 3D-печатью является <a href=\"https://www.additivemanufacturing.media/articles/what-is-the-role-for-additive-manufacturing-in-aircraft-structural-components\">фитинг</a> для дверей Boeing 787.</p>\n<p class=\"\"><strong><a href=\"https://am-tech.ru/wp-content/uploads/2025/11/2-3.png\"><img loading=\"lazy\" decoding=\"async\" decoding=\"async\" class=\"alignnone wp-image-3484 size-full\" src=\"https://am-tech.ru/wp-content/uploads/2025/11/2-3.png\" alt=\"Аддитивные технологии для производства кронштейнов (часть 2) - 3D-печать металлами - AM-Tech\" width=\"1000\" height=\"560\" srcset=\"https://am-tech.ru/wp-content/uploads/2025/11/2-3.png 1000w, https://am-tech.ru/wp-content/uploads/2025/11/2-3-300x168.png 300w, https://am-tech.ru/wp-content/uploads/2025/11/2-3-768x430.png 768w, https://am-tech.ru/wp-content/uploads/2025/11/2-3-600x336.png 600w\" sizes=\"(max-width: 1000px) 100vw, 1000px\" /></a></strong></p>\n<p class=\"\"><strong>Кронштейн защелки входной двери и производственная площадка для сборки фюзеляжей Boeing 737 (Spirit Aerosystems)</strong></p>\n<p class=\"\">Этот фитинг сегодня производится на системах с плазменной проволочной наплавкой от Norsk Titanium, замещая старый и крайне затратный процесс фрезерной обработки. К слову, использование проволоки позволяет производить детали быстрее в 50 – 100 раз, чем при использовании популярных одно-двухлазерных систем селективного сплавления. В целом же Spirit Aerosystems существенно снизила затраты, одновременно ускорив время вывода на рынок новых деталей как минимум на 60%.</p>\n<h2><strong>Кронштейн передней стойки шасси Liebherr для Airbus</strong></h2>\n<p class=\"\">Очередной пример из авиастроения, на этот раз для производства кронштейнов передней стойки шасси для Airbus A350 XWB продемонстрировала компания <a href=\"https://www.liebherr.com/en/fra/products/aerospace-and-transportation-systems/aerospace/aerospace.html\">Liebherr-Aerospace</a>. Эти кронштейны стали первыми в мире квалифицированными напечатанными титановыми деталями для Airbus.</p>\n<p class=\"\"><strong><a href=\"https://am-tech.ru/wp-content/uploads/2025/11/2-4.png\"><img loading=\"lazy\" decoding=\"async\" decoding=\"async\" class=\"alignnone wp-image-3485 size-full\" src=\"https://am-tech.ru/wp-content/uploads/2025/11/2-4.png\" alt=\"Аддитивные технологии для производства кронштейнов (часть 2) - 3D-печать металлами - AM-Tech\" width=\"1000\" height=\"560\" srcset=\"https://am-tech.ru/wp-content/uploads/2025/11/2-4.png 1000w, https://am-tech.ru/wp-content/uploads/2025/11/2-4-300x168.png 300w, https://am-tech.ru/wp-content/uploads/2025/11/2-4-768x430.png 768w, https://am-tech.ru/wp-content/uploads/2025/11/2-4-600x336.png 600w\" sizes=\"(max-width: 1000px) 100vw, 1000px\" /></a></strong></p>\n<p class=\"\" style=\"padding: 0px;\"><strong>Сравнение кронштейнов передней стойки шасси для Airbus A350 XWB, полученных традиционным и аддитивным производством (Liebherr Aerospace)</strong></p>\n<p class=\"\">В отличие от Spirit Aerosystems, Liebherr смогла вмешаться в конструкцию и оптимизировать деталь, что привело к снижению ее веса на 29%. Использование 3D-печати также помогло увеличить жесткость на 100%.<br />\nВ 2019 году Федеральное управление авиации Германии дало разрешение компании Liebherr-Aerospace на производство компонентов с использованием аддитивного производства. С тех пор у Liebherr началась эра серийной и ответственной 3D-печати.</p>\n<h2><strong>Тотальная производственная оптимизация (</strong><strong>FIT </strong><strong>Group, </strong><strong>AddUp </strong><strong>Group)</strong></h2>\n<p class=\"\">Когда вы научились мыслить по-новому, оптимизировать традиционные детали с получением почти всех преимуществ от использования аддитивного производства, вероятно, остается последний шаг – технологическая оптимизация.</p>\n<p class=\"\">Интересен опыт компании AddUp Group, который она получила при топологическом усовершенствовании кронштейна для фиксации навесного оборудования современного самолета, а также технологической оптимизации. Если к топологической оптимизации у нас вопросов стало уже меньше, то как провести технологическую, минимизировав затраты на поддержки и их удаление?</p>\n<p class=\"\">Во-первых, для серийного аддитивного производства нужно оптимизировать изделие так, чтобы требовалось как можно меньше поддержек. Порой это может заставить инженера добавить некоторые конструктивные элементы в сам компонент, чуть увеличив объем материала. Однако такой подход может сократить число поддержек и время на их удаление, тем самым влияя на весь производственный цикл.</p>\n<p class=\"\"><strong><img loading=\"lazy\" decoding=\"async\" class=\"alignnone wp-image-3486 size-full\" src=\"https://am-tech.ru/wp-content/uploads/2025/11/2-5.png\" alt=\"Аддитивные технологии для производства кронштейнов (часть 2) - 3D-печать металлами - AM-Tech\" width=\"1183\" height=\"577\" srcset=\"https://am-tech.ru/wp-content/uploads/2025/11/2-5.png 1183w, https://am-tech.ru/wp-content/uploads/2025/11/2-5-300x146.png 300w, https://am-tech.ru/wp-content/uploads/2025/11/2-5-1024x499.png 1024w, https://am-tech.ru/wp-content/uploads/2025/11/2-5-768x375.png 768w, https://am-tech.ru/wp-content/uploads/2025/11/2-5-600x293.png 600w\" sizes=\"(max-width: 1183px) 100vw, 1183px\" /></strong></p>\n<p class=\"\"><strong>Эволюция оптимизаций (</strong><strong>FIT </strong><strong>Group) </strong></p>\n<p class=\"\">Другой подход, который можно задействовать, – технологический. Если технология на оборудовании позволяет не использовать поддержки при определенных углах геометрических элементов детали, то это может сократить использование поддержек. Например, стандартным на сегодня является использование поддержек при угле к горизонтальной плоскости менее 45°. Однако сегодня существует мировой тренд, направленный на уменьшение этого угла, что в свою очередь даст конструкторам больше свободы в проектировании и ориентации детали в камере принтера.</p>\n<p class=\"\">Отрабатывая мировой запрос инженеров, AddUp для кронштейна фиксации навесного оборудования современного самолета <a href=\"https://www.ddmlab.ru/portfolio/aviaspace-bracket/\">провела</a> как топологическую, так и технологическую оптимизацию со следующими основными результатами по сравнению с классическим дизайном и производством:</p>\n<ol class=\"\">\n<li>Вес заготовки при классическом характере производства составлял 10,85 кг. Вес изделия после механообработки составлял 3 кг.</li>\n<li>Вес изделия после аддитивного производства составил 1,15 кг. Сокращение веса при АП составило 1,85 кг.</li>\n<li>При использовании комплекса FormUp 350 удалось сократить вес заготовки на 0,25 кг — это стало возможным благодаря «нулевым» поддержкам уже при 22°, 18° или 8° (в зависимости от типа материала).</li>\n<li>Сокращение времени при отсутствии печати поддержек составило 3 часа.</li>\n<li>Сокращение времени при отсутствии необходимости удаления поддержек составило 0,5 часа.</li>\n</ol>\n<p class=\"\"><strong><a href=\"https://am-tech.ru/wp-content/uploads/2025/11/2-6.jpg\"><img loading=\"lazy\" decoding=\"async\" class=\"alignnone wp-image-3487 size-full\" src=\"https://am-tech.ru/wp-content/uploads/2025/11/2-6.jpg\" alt=\"Аддитивные технологии для производства кронштейнов (часть 2) - 3D-печать металлами - AM-Tech\" width=\"1456\" height=\"816\" srcset=\"https://am-tech.ru/wp-content/uploads/2025/11/2-6.jpg 1456w, https://am-tech.ru/wp-content/uploads/2025/11/2-6-300x168.jpg 300w, https://am-tech.ru/wp-content/uploads/2025/11/2-6-1024x574.jpg 1024w, https://am-tech.ru/wp-content/uploads/2025/11/2-6-768x430.jpg 768w, https://am-tech.ru/wp-content/uploads/2025/11/2-6-600x336.jpg 600w\" sizes=\"(max-width: 1456px) 100vw, 1456px\" /></a></strong></p>\n<p class=\"\"><strong>Рис. Оригинальный и оптимизированный кронштейн для фиксации навесного оборудования современного самолета (Add</strong><strong>Up </strong><strong>Group)</strong></p>\n<p class=\"\"><a href=\"https://am-tech.ru/news/additivnye-tehnologii-dlja-proizvodstva-kronshtejnov-1/\">Часть 1</a></p>\n<p class=\"\"><a href=\"https://am-tech.ru/news/additivnye-tehnologii-dlja-proizvodstva-kronshtejnov-3/\">Часть 3</a></p>\n<p class=\"\">&nbsp;</p>\n</div>\n</div>\n</div>\n</div>\n",
+  "protected": false,
+  "block_version": 0
+ },
+ "excerpt": {
+  "raw": "",
+  "rendered": "<p>В первой части нашего рассказа мы рассмотрели те возможности, которые дают аддитивные технологии разработчикам и производителям достаточно простых изделий &#8212; кронштейнов. В этот раз посмотрим конкретные примеры применения печатаемых кронштейнов в авиастроении. Кронштейн Colibrium Additive для двигателя GEnx-2B Следствием оптимизации традиционно выпускаемых деталей является более изящная бионическая форма, но вместе с этим прочная и долговечная. [&hellip;]</p>\n",
+  "protected": false
+ },
+ "author": 4,
+ "featured_media": 3487,
+ "comment_status": "open",
+ "ping_status": "closed",
+ "template": "",
+ "meta": {
+  "_acf_changed": false,
+  "_yoast_wpseo_title": "",
+  "_yoast_wpseo_metadesc": "Применение аддитивных технологий для производства кронштейнов. Узнайте, как 3D-печать оптимизирует конструкцию, снижает вес и стоимость деталей. Читайте статью!",
+  "_yoast_wpseo_meta-robots-noindex": ""
+ },
+ "news_category": [
+  1107
+ ],
+ "news_tag": [
+  1260,
+  1220,
+  1265
+ ],
+ "permalink_template": "https://am-tech.ru/news/%pagename%/",
+ "generated_slug": "additivnye-tehnologii-dlja-proizvodstva-kronshtejnov-chast-2",
+ "class_list": [
+  "post-3481",
+  "news",
+  "type-news",
+  "status-publish",
+  "has-post-thumbnail",
+  "hentry",
+  "news_category-3d-pechat-metallami",
+  "news_tag-mashinostroenie",
+  "news_tag-slm",
+  "news_tag-proektirovanie"
+ ],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Аддитивные технологии для производства кронштейнов (часть 2) - am-tech.ru</title>\n<meta name=\"description\" content=\"Применение аддитивных технологий для производства кронштейнов. Узнайте, как 3D-печать оптимизирует конструкцию, снижает вес и стоимость деталей. Читайте статью!\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/news/additivnye-tehnologii-dlja-proizvodstva-kronshtejnov-2/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Аддитивные технологии для производства кронштейнов (часть 2) - am-tech.ru\" />\n<meta property=\"og:description\" content=\"Применение аддитивных технологий для производства кронштейнов. Узнайте, как 3D-печать оптимизирует конструкцию, снижает вес и стоимость деталей. Читайте статью!\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/news/additivnye-tehnologii-dlja-proizvodstva-kronshtejnov-2/\" />\n<meta property=\"og:site_name\" content=\"am-tech.ru\" />\n<meta property=\"article:modified_time\" content=\"2026-07-02T07:45:56+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2025/11/2-6.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1456\" />\n\t<meta property=\"og:image:height\" content=\"816\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"6 минут\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/news/additivnye-tehnologii-dlja-proizvodstva-kronshtejnov-2/\",\"url\":\"https://am-tech.ru/news/additivnye-tehnologii-dlja-proizvodstva-kronshtejnov-2/\",\"name\":\"Аддитивные технологии для производства кронштейнов (часть 2) - am-tech.ru\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/news/additivnye-tehnologii-dlja-proizvodstva-kronshtejnov-2/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/news/additivnye-tehnologii-dlja-proizvodstva-kronshtejnov-2/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2025/11/2-6.jpg\",\"datePublished\":\"2024-08-29T11:04:02+00:00\",\"dateModified\":\"2026-07-02T07:45:56+00:00\",\"description\":\"Применение аддитивных технологий для производства кронштейнов. Узнайте, как 3D-печать оптимизирует конструкцию, снижает вес и стоимость деталей. Читайте статью!\",\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/news/additivnye-tehnologii-dlja-proizvodstva-kronshtejnov-2/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/news/additivnye-tehnologii-dlja-proizvodstva-kronshtejnov-2/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2025/11/2-6.jpg\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2025/11/2-6.jpg\",\"width\":1456,\"height\":816},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"am-tech.ru\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"am-tech.ru\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"am-tech.ru\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "Аддитивные технологии для производства кронштейнов (часть 2) - am-tech.ru",
+  "description": "Применение аддитивных технологий для производства кронштейнов. Узнайте, как 3D-печать оптимизирует конструкцию, снижает вес и стоимость деталей. Читайте статью!",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/news/additivnye-tehnologii-dlja-proizvodstva-kronshtejnov-2/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "Аддитивные технологии для производства кронштейнов (часть 2) - am-tech.ru",
+  "og_description": "Применение аддитивных технологий для производства кронштейнов. Узнайте, как 3D-печать оптимизирует конструкцию, снижает вес и стоимость деталей. Читайте статью!",
+  "og_url": "https://am-tech.ru/news/additivnye-tehnologii-dlja-proizvodstva-kronshtejnov-2/",
+  "og_site_name": "am-tech.ru",
+  "article_modified_time": "2026-07-02T07:45:56+00:00",
+  "og_image": [
+   {
+    "width": 1456,
+    "height": 816,
+    "url": "https://am-tech.ru/wp-content/uploads/2025/11/2-6.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "6 минут"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/news/additivnye-tehnologii-dlja-proizvodstva-kronshtejnov-2/",
+     "url": "https://am-tech.ru/news/additivnye-tehnologii-dlja-proizvodstva-kronshtejnov-2/",
+     "name": "Аддитивные технологии для производства кронштейнов (часть 2) - am-tech.ru",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/news/additivnye-tehnologii-dlja-proizvodstva-kronshtejnov-2/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/news/additivnye-tehnologii-dlja-proizvodstva-kronshtejnov-2/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2025/11/2-6.jpg",
+     "datePublished": "2024-08-29T11:04:02+00:00",
+     "dateModified": "2026-07-02T07:45:56+00:00",
+     "description": "Применение аддитивных технологий для производства кронштейнов. Узнайте, как 3D-печать оптимизирует конструкцию, снижает вес и стоимость деталей. Читайте статью!",
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/news/additivnye-tehnologii-dlja-proizvodstva-kronshtejnov-2/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/news/additivnye-tehnologii-dlja-proizvodstva-kronshtejnov-2/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2025/11/2-6.jpg",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2025/11/2-6.jpg",
+     "width": 1456,
+     "height": 816
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "am-tech.ru",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "am-tech.ru",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "am-tech.ru"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3481",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/types/news"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/users/4"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/comments?post=3481"
+   }
+  ],
+  "wp:featuredmedia": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/media/3487"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/media?parent=3481"
+   }
+  ],
+  "wp:term": [
+   {
+    "taxonomy": "news_category",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_category?post=3481"
+   },
+   {
+    "taxonomy": "news_tag",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_tag?post=3481"
+   }
+  ],
+  "wp:action-publish": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3481"
+   }
+  ],
+  "wp:action-unfiltered-html": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3481"
+   }
+  ],
+  "wp:action-assign-author": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3481"
+   }
+  ],
+  "wp:action-create-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3481"
+   }
+  ],
+  "wp:action-assign-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3481"
+   }
+  ],
+  "wp:action-create-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3481"
+   }
+  ],
+  "wp:action-assign-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3481"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

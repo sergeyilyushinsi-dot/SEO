@@ -1,0 +1,282 @@
+{
+ "id": 2153,
+ "date": "2021-07-13T00:00:00",
+ "date_gmt": "2021-07-12T21:00:00",
+ "guid": {
+  "rendered": "http://am-tech.ru/cases/skanirovanie-i-kontrol-truboprovodnoy-armatury/",
+  "raw": "http://am-tech.ru/cases/skanirovanie-i-kontrol-truboprovodnoy-armatury/"
+ },
+ "modified": "2026-10-13T17:23:12",
+ "modified_gmt": "2026-10-13T14:23:12",
+ "password": "",
+ "slug": "skanirovanie-i-kontrol-truboprovodnoy-armatury",
+ "status": "publish",
+ "type": "cases",
+ "link": "https://am-tech.ru/cases/skanirovanie-i-kontrol-truboprovodnoy-armatury/",
+ "title": {
+  "raw": "Сканирование и контроль трубопроводной арматуры лазерным трекером",
+  "rendered": "Сканирование и контроль трубопроводной арматуры лазерным трекером"
+ },
+ "content": {
+  "raw": "<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n<h2>Использовался <a href=\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/\">лазерный трекер AM.TECH TRACKSCAN</a> как универсальный прибор не требующий меток.&nbsp;</h2>\r\n<p class=\"\">Время сканирование заняло 10 мин и не более 1 часа на составление карты отклонений.&nbsp;</p>\r\nЗадача – контроль геометрии. Клиент хотел проверить есть ли отклонение от исходной детали.\r\n\r\nСканирование\r\n<p class=\"\"><img title=\"Сканирование.jpg\" src=\"/upload/medialibrary/af0/chl00g266wvbe9zu1zvr205k3ocse836.jpg\" alt=\"Сканирование.jpg\" width=\"447\" height=\"512\"></p>\r\n\r\n<h2>Наложение скана на CAD-модель</h2>\r\n<p class=\"\"><img title=\"Наложение скана на CAD-модель.png\" src=\"/upload/medialibrary/817/1wja86l8as3gk33b23txwp36q25emevv.png\" alt=\"Наложение скана на CAD-модель.png\" width=\"595\" height=\"575\"></p>\r\n\r\n<h2>Составление отчета о контроле отклонений</h2>\r\n<img title=\"Составление отчета о контроле отклонений.png\" src=\"/upload/medialibrary/075/3jzmtatllmh27zxtwj9blzpi22pn99ex.png\" alt=\"Составление отчета о контроле отклонений.png\" width=\"735\" height=\"511\">&nbsp;\r\n\r\n&nbsp;\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+  "rendered": "<div class=\"boldgrid-section\">\n<div class=\"container\">\n<div class=\"row\">\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\n<h2>Использовался <a href=\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/\">лазерный трекер AM.TECH TRACKSCAN</a> как универсальный прибор не требующий меток.&nbsp;</h2>\n<p class=\"\">Время сканирование заняло 10 мин и не более 1 часа на составление карты отклонений.&nbsp;</p>\n<p>Задача – контроль геометрии. Клиент хотел проверить есть ли отклонение от исходной детали.</p>\n<p>Сканирование</p>\n<p class=\"\"><img loading=\"lazy\" decoding=\"async\" fetchpriority=\"high\" decoding=\"async\" title=\"Сканирование.jpg\" src=\"/upload/medialibrary/af0/chl00g266wvbe9zu1zvr205k3ocse836.jpg\" alt=\"Сканирование.jpg\" width=\"447\" height=\"512\"></p>\n<h2>Наложение скана на CAD-модель</h2>\n<p class=\"\"><img loading=\"lazy\" decoding=\"async\" decoding=\"async\" title=\"Наложение скана на CAD-модель.png\" src=\"/upload/medialibrary/817/1wja86l8as3gk33b23txwp36q25emevv.png\" alt=\"Наложение скана на CAD-модель.png\" width=\"595\" height=\"575\"></p>\n<h2>Составление отчета о контроле отклонений</h2>\n<p><img loading=\"lazy\" decoding=\"async\" decoding=\"async\" title=\"Составление отчета о контроле отклонений.png\" src=\"/upload/medialibrary/075/3jzmtatllmh27zxtwj9blzpi22pn99ex.png\" alt=\"Составление отчета о контроле отклонений.png\" width=\"735\" height=\"511\">&nbsp;</p>\n<p>&nbsp;</p>\n</div>\n</div>\n</div>\n</div>\n",
+  "protected": false,
+  "block_version": 0
+ },
+ "excerpt": {
+  "raw": "",
+  "rendered": "<p>Использовался лазерный трекер AM.TECH TRACKSCAN как универсальный прибор не требующий меток.&nbsp; Время сканирование заняло 10 мин и не более 1 часа на составление карты отклонений.&nbsp; Задача – контроль геометрии. Клиент хотел проверить есть ли отклонение от исходной детали. Сканирование Наложение скана на CAD-модель Составление отчета о контроле отклонений &nbsp; &nbsp;</p>\n",
+  "protected": false
+ },
+ "author": 1,
+ "featured_media": 2154,
+ "comment_status": "open",
+ "ping_status": "open",
+ "template": "",
+ "meta": {
+  "_acf_changed": false,
+  "_yoast_wpseo_title": "Сканирование и контроль трубопроводной арматуры лазерным трекером - кейс | AM-Tech",
+  "_yoast_wpseo_metadesc": "Сканирование и контроль трубопроводной арматуры лазерным трекером - кейс | AM-Tech",
+  "_yoast_wpseo_meta-robots-noindex": ""
+ },
+ "case_category": [
+  1091
+ ],
+ "case_tag": [
+  1322,
+  1324
+ ],
+ "permalink_template": "https://am-tech.ru/cases/%pagename%/",
+ "generated_slug": "skanirovanie-i-kontrol-truboprovodnoj-armatury-lazernym-trekerom",
+ "class_list": [
+  "post-2153",
+  "cases",
+  "type-cases",
+  "status-publish",
+  "has-post-thumbnail",
+  "hentry",
+  "case_category-tehnologii-3d-skanirovaniya",
+  "case_tag-obratnoe-proektirovanie",
+  "case_tag-promyshlennoe-3d-skanirovanie"
+ ],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Сканирование и контроль трубопроводной арматуры лазерным трекером - кейс | AM-Tech</title>\n<meta name=\"description\" content=\"Сканирование и контроль трубопроводной арматуры лазерным трекером - кейс | AM-Tech\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/cases/skanirovanie-i-kontrol-truboprovodnoy-armatury/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Сканирование и контроль трубопроводной арматуры лазерным трекером - кейс | AM-Tech\" />\n<meta property=\"og:description\" content=\"Сканирование и контроль трубопроводной арматуры лазерным трекером - кейс | AM-Tech\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/cases/skanirovanie-i-kontrol-truboprovodnoy-armatury/\" />\n<meta property=\"og:site_name\" content=\"am-tech.ru\" />\n<meta property=\"article:modified_time\" content=\"2026-10-13T14:23:12+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2021/07/xiemr1453yl8gtbccq6xytf32pfots9a.jpg\" />\n\t<meta property=\"og:image:width\" content=\"438\" />\n\t<meta property=\"og:image:height\" content=\"331\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"2 минуты\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/cases/skanirovanie-i-kontrol-truboprovodnoy-armatury/\",\"url\":\"https://am-tech.ru/cases/skanirovanie-i-kontrol-truboprovodnoy-armatury/\",\"name\":\"Сканирование и контроль трубопроводной арматуры лазерным трекером - кейс | AM-Tech\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/cases/skanirovanie-i-kontrol-truboprovodnoy-armatury/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/cases/skanirovanie-i-kontrol-truboprovodnoy-armatury/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2021/07/xiemr1453yl8gtbccq6xytf32pfots9a.jpg\",\"datePublished\":\"2021-07-12T21:00:00+00:00\",\"dateModified\":\"2026-10-13T14:23:12+00:00\",\"description\":\"Сканирование и контроль трубопроводной арматуры лазерным трекером - кейс | AM-Tech\",\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/cases/skanirovanie-i-kontrol-truboprovodnoy-armatury/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/cases/skanirovanie-i-kontrol-truboprovodnoy-armatury/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2021/07/xiemr1453yl8gtbccq6xytf32pfots9a.jpg\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2021/07/xiemr1453yl8gtbccq6xytf32pfots9a.jpg\",\"width\":438,\"height\":331},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"am-tech.ru\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"am-tech.ru\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"am-tech.ru\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "Сканирование и контроль трубопроводной арматуры лазерным трекером - кейс | AM-Tech",
+  "description": "Сканирование и контроль трубопроводной арматуры лазерным трекером - кейс | AM-Tech",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/cases/skanirovanie-i-kontrol-truboprovodnoy-armatury/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "Сканирование и контроль трубопроводной арматуры лазерным трекером - кейс | AM-Tech",
+  "og_description": "Сканирование и контроль трубопроводной арматуры лазерным трекером - кейс | AM-Tech",
+  "og_url": "https://am-tech.ru/cases/skanirovanie-i-kontrol-truboprovodnoy-armatury/",
+  "og_site_name": "am-tech.ru",
+  "article_modified_time": "2026-10-13T14:23:12+00:00",
+  "og_image": [
+   {
+    "width": 438,
+    "height": 331,
+    "url": "https://am-tech.ru/wp-content/uploads/2021/07/xiemr1453yl8gtbccq6xytf32pfots9a.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "2 минуты"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/cases/skanirovanie-i-kontrol-truboprovodnoy-armatury/",
+     "url": "https://am-tech.ru/cases/skanirovanie-i-kontrol-truboprovodnoy-armatury/",
+     "name": "Сканирование и контроль трубопроводной арматуры лазерным трекером - кейс | AM-Tech",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/cases/skanirovanie-i-kontrol-truboprovodnoy-armatury/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/cases/skanirovanie-i-kontrol-truboprovodnoy-armatury/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2021/07/xiemr1453yl8gtbccq6xytf32pfots9a.jpg",
+     "datePublished": "2021-07-12T21:00:00+00:00",
+     "dateModified": "2026-10-13T14:23:12+00:00",
+     "description": "Сканирование и контроль трубопроводной арматуры лазерным трекером - кейс | AM-Tech",
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/cases/skanirovanie-i-kontrol-truboprovodnoy-armatury/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/cases/skanirovanie-i-kontrol-truboprovodnoy-armatury/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2021/07/xiemr1453yl8gtbccq6xytf32pfots9a.jpg",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2021/07/xiemr1453yl8gtbccq6xytf32pfots9a.jpg",
+     "width": 438,
+     "height": 331
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "am-tech.ru",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "am-tech.ru",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "am-tech.ru"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/cases/2153",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/cases"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/types/cases"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/users/1"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/comments?post=2153"
+   }
+  ],
+  "wp:featuredmedia": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/media/2154"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/media?parent=2153"
+   }
+  ],
+  "wp:term": [
+   {
+    "taxonomy": "case_category",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/case_category?post=2153"
+   },
+   {
+    "taxonomy": "case_tag",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/case_tag?post=2153"
+   }
+  ],
+  "wp:action-publish": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/cases/2153"
+   }
+  ],
+  "wp:action-unfiltered-html": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/cases/2153"
+   }
+  ],
+  "wp:action-assign-author": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/cases/2153"
+   }
+  ],
+  "wp:action-create-case_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/cases/2153"
+   }
+  ],
+  "wp:action-assign-case_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/cases/2153"
+   }
+  ],
+  "wp:action-create-case_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/cases/2153"
+   }
+  ],
+  "wp:action-assign-case_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/cases/2153"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

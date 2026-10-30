@@ -1,0 +1,738 @@
+{
+ "id": 1662,
+ "name": "3D-сканер KSCAN MAGIC",
+ "slug": "3d-skaner-kscan-magic",
+ "permalink": "https://am-tech.ru/product/3d-skaner-kscan-magic/",
+ "date_created": "2025-08-17T06:59:13",
+ "date_created_gmt": "2025-08-17T03:59:13",
+ "date_modified": "2026-10-13T17:13:30",
+ "date_modified_gmt": "2026-10-13T14:13:30",
+ "type": "simple",
+ "status": "publish",
+ "featured": false,
+ "catalog_visibility": "visible",
+ "description": "<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n\r\nKSCAN MAGIC представляет собой высокотехнологичный лазерный сканер, разработанный компанией am-tech.ru для удовлетворения самых высоких требований в области трехмерных измерений и обратного проектирования. Этот сканер открывает новую эру в сфере профессионального сканирования, предлагая беспрецедентную комбинацию скорости, точности и универсальности.\r\n<h2>Преимущества KSCAN MAGIC</h2>\r\nСканер выделяется среди конкурентов благодаря ряду уникальных особенностей. Прежде всего, это первый в своем классе сканер, предлагающий два режима работы: сканирование с использованием сетки из инфракрасных лазеров и режим с сеткой из синих перекрестных лазеров (11х11 линий). Такая двойная система позволяет адаптировать процесс сканирования под различные типы поверхностей и условия работы.\r\n\r\nСкорость сканирования устройства устанавливает новые стандарты в индустрии. Благодаря оптимизированным алгоритмам обработки данных и высокочастотным лазерным модулям, этот лазерный сканер способен захватывать миллионы точек в секунду, значительно сокращая время, необходимое для полного сканирования объектов.\r\n\r\nТочность и детализация, обеспечиваемые сканером, удовлетворяют самым строгим требованиям профессионалов. Сканер способен фиксировать мельчайшие особенности поверхности с точностью до микрон, что критически важно для задач обратного проектирования и контроля качества.\r\n<p class=\"\">Большая область сканирования в сочетании с впечатляющей глубиной резкости позволяет KSCAN MAGIC эффективно работать с объектами различных размеров – от небольших деталей до крупногабаритных конструкций. Это существенно расширяет сферу применения устройства и повышает его универсальность.</p>\r\nДля еще большей функциональности сканер возможно дополнить портативной координатно-измерительной машиной K-Probe. Это позволяет проводить контактные измерения в труднодоступных местах, таких как отверстия, плоскости и кромки, обеспечивая полноту получаемых данных.\r\n\r\nДополнительное устройство Edge, предназначенное для контроля граней и тонких кромок, расширяет возможности устройства в работе со сложными геометрическими формами, делая его незаменимым инструментом в аэрокосмической и автомобильной промышленности.\r\n<h2>Как работает 3D-сканер</h2>\r\nПринцип работы KSCAN MAGIC основан на передовой технологии лазерного сканирования. Устройство проецирует на объект сетку из 11 параллельных линий, что идеально подходит для сканирования больших пространств. Этот режим особенно эффективен при работе с объектами, имеющими сложную геометрию или темные поверхности.\r\n\r\nРежим синих перекрестных лазеров (11х11 линий) обеспечивает быстрое и детальное сканирование. Этот режим отлично подходит для захвата мелких деталей и работы с объектами, имеющими блестящие или полупрозрачные поверхности.\r\n\r\nПроцесс сканирования начинается с калибровки устройства, которая может быть выполнена быстро и легко благодаря встроенным алгоритмам самокалибровки. Затем оператор перемещает сканер вокруг объекта, while устройство проецирует лазерные линии и фиксирует их отражение с помощью высокочувствительных камер.\r\n\r\nПолученные данные в режиме реального времени обрабатываются мощным встроенным процессором и передаются на компьютер, где специализированное программное обеспечение ScanViewer преобразует их в точное трехмерное изображение объекта.\r\n\r\nScanViewer предоставляет широкий спектр инструментов для анализа полученных данных. Модуль Tube позволяет проводить точные измерения труб и цилиндрических объектов. Функция поиска деформаций незаменима при контроле качества и сравнении готовых изделий с исходными CAD-моделями. Создание цветовых карт отклонений обеспечивает наглядное представление результатов измерений, что особенно ценно при проведении инспекций и подготовке отчетов.\r\n\r\nВсе представленное в нашем каталоге оборудование доступно к приобретению на выгодных условиях <a href=\"https://am-tech.ru/leasing/\">лизинга.</a>\r\n\r\nНаши специалисты помогут подобрать оптимальную схему лизинга под ваши производственные задачи и финансовые возможности, а также окажут содействие в оформлении всей необходимой документации.\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+ "short_description": "",
+ "sku": "",
+ "price": "",
+ "regular_price": "",
+ "sale_price": "",
+ "date_on_sale_from": null,
+ "date_on_sale_from_gmt": null,
+ "date_on_sale_to": null,
+ "date_on_sale_to_gmt": null,
+ "on_sale": false,
+ "purchasable": false,
+ "total_sales": 0,
+ "virtual": false,
+ "downloadable": false,
+ "downloads": [],
+ "download_limit": -1,
+ "download_expiry": -1,
+ "external_url": "",
+ "button_text": "",
+ "tax_status": "taxable",
+ "tax_class": "",
+ "manage_stock": false,
+ "stock_quantity": null,
+ "backorders": "no",
+ "backorders_allowed": false,
+ "backordered": false,
+ "low_stock_amount": null,
+ "sold_individually": false,
+ "weight": "",
+ "dimensions": {
+  "length": "",
+  "width": "",
+  "height": ""
+ },
+ "shipping_required": true,
+ "shipping_taxable": true,
+ "shipping_class": "",
+ "shipping_class_id": 0,
+ "reviews_allowed": true,
+ "average_rating": "0",
+ "rating_count": 0,
+ "upsell_ids": [],
+ "cross_sell_ids": [],
+ "parent_id": 0,
+ "purchase_note": "",
+ "categories": [
+  {
+   "id": 24,
+   "name": "3D-сканеры",
+   "slug": "3d-scan"
+  },
+  {
+   "id": 1273,
+   "name": "Лазерные 3d сканеры",
+   "slug": "lazernye-3d-skanery"
+  },
+  {
+   "id": 1269,
+   "name": "Российские 3d сканеры",
+   "slug": "rossijskie-3d-skanery"
+  },
+  {
+   "id": 1272,
+   "name": "Ручные 3d сканеры",
+   "slug": "ruchnye-3d-skanery"
+  }
+ ],
+ "brands": [],
+ "tags": [],
+ "images": [
+  {
+   "id": 1663,
+   "date_created": "2025-08-17T09:59:14",
+   "date_created_gmt": "2025-08-17T03:59:14",
+   "date_modified": "2025-08-17T09:59:14",
+   "date_modified_gmt": "2025-08-17T03:59:14",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/kgzrwpjvzyjlsp5as7x2j1tbafm1h2cp.png",
+   "name": "kgzrwpjvzyjlsp5as7x2j1tbafm1h2cp",
+   "alt": ""
+  },
+  {
+   "id": 1664,
+   "date_created": "2025-08-17T09:59:15",
+   "date_created_gmt": "2025-08-17T03:59:15",
+   "date_modified": "2025-08-17T09:59:15",
+   "date_modified_gmt": "2025-08-17T03:59:15",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/rm7bdkm5248hv7oxfkqj5zka88onihzo.png",
+   "name": "rm7bdkm5248hv7oxfkqj5zka88onihzo",
+   "alt": ""
+  }
+ ],
+ "attributes": [
+  {
+   "id": 3524,
+   "name": "Точность, мм, до",
+   "slug": "pa_tochnost-mm-do",
+   "position": 1,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "0,02"
+   ]
+  },
+  {
+   "id": 3525,
+   "name": "Объемная точность, мм",
+   "slug": "pa_obemnaja-tochnost-mm",
+   "position": 2,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "0,015+0,030∗L"
+   ]
+  },
+  {
+   "id": 3526,
+   "name": "Объемная точность при инфракрасном режиме, мм",
+   "slug": "pa_obemnaja-tochnost-pri",
+   "position": 3,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "0,015+0,030∗L"
+   ]
+  },
+  {
+   "id": 3528,
+   "name": "Объемная точность с фотограмметрией MSCAN L15, мм",
+   "slug": "pa_obemnaja-tochnost-s",
+   "position": 4,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "0,015 + 0,012∗L"
+   ]
+  },
+  {
+   "id": 3527,
+   "name": "Объемная точность со встроенной фотограмметрией, мм",
+   "slug": "pa_obemnaja-tochnost-so",
+   "position": 5,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "0,015+0,025∗L"
+   ]
+  },
+  {
+   "id": 3530,
+   "name": "Возможность работы со щупом",
+   "slug": "pa_vozmozhnost-shhupo",
+   "position": 6,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "K-Probe, повторяемость в одной точке 0,03 мм"
+   ]
+  },
+  {
+   "id": 3529,
+   "name": "Доверительная вероятность",
+   "slug": "pa_doveritelnaja-verojatnost",
+   "position": 7,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "0,95"
+   ]
+  },
+  {
+   "id": 3531,
+   "name": "Разрешение, мм, до",
+   "slug": "pa_razreshenie-mm-do",
+   "position": 8,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "0,01"
+   ]
+  },
+  {
+   "id": 3532,
+   "name": "Скорость измерений, точек/сек, до",
+   "slug": "pa_skorost-izmerenij",
+   "position": 9,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "2 700 000 / 4 150 000"
+   ]
+  },
+  {
+   "id": 3533,
+   "name": "Область сканирования (поле зрения), мм, до",
+   "slug": "pa_oblast-pole-zr",
+   "position": 10,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "1440 х 860 (фотограмметрия: 3760 х 3150)"
+   ]
+  },
+  {
+   "id": 3534,
+   "name": "Оптимальное расстояние до объекта, мм",
+   "slug": "pa_optimalnoe-rasstojanie",
+   "position": 11,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "300"
+   ]
+  },
+  {
+   "id": 3535,
+   "name": "Источник излучения",
+   "slug": "pa_istochnik-izluchenija",
+   "position": 12,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "Сверхбыстрое сканирование: 11 синих лазерных крестов (22 линии) / 17 синих лазерных крестов (34 линии) - Сканирование в высоком разрешении: 7 синих параллельных линий"
+   ]
+  },
+  {
+   "id": 3536,
+   "name": "Глубина резкости, мм",
+   "slug": "pa_glubina-rezkosti-mm",
+   "position": 13,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "925 (фотограмметрия - 2500)"
+   ]
+  },
+  {
+   "id": 3537,
+   "name": "Размеры измеряемого объекта, м",
+   "slug": "pa_razmery-izmerjaemogo",
+   "position": 14,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "0,1-10"
+   ]
+  },
+  {
+   "id": 3538,
+   "name": "Габариты сканера, мм",
+   "slug": "pa_gabarity-skanera-mm",
+   "position": 15,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "325×133×84"
+   ]
+  },
+  {
+   "id": 3539,
+   "name": "Вес сканера, кг",
+   "slug": "pa_ves-skanera-kg",
+   "position": 16,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "1,35"
+   ]
+  },
+  {
+   "id": 3540,
+   "name": "Температура окружающей среды при эксплуатации, °С",
+   "slug": "pa_temperatura",
+   "position": 17,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "от -10 до +40"
+   ]
+  },
+  {
+   "id": 3541,
+   "name": "Наличие в реестре средств измерений",
+   "slug": "pa_nalichie-v-reestre",
+   "position": 18,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "Внесен"
+   ]
+  }
+ ],
+ "default_attributes": [],
+ "variations": [],
+ "grouped_products": [],
+ "menu_order": 999,
+ "price_html": "",
+ "related_ids": [
+  1575,
+  1668,
+  1571,
+  2939,
+  1578
+ ],
+ "meta_data": [
+  {
+   "id": 25172,
+   "key": "bitrix_id",
+   "value": "2404"
+  },
+  {
+   "id": 25173,
+   "key": "Символьный код",
+   "value": "kscan-magic"
+  },
+  {
+   "id": 25174,
+   "key": "Описание",
+   "value": "<p>KSCAN MAGIC представляет собой высокотехнологичный лазерный сканер, разработанный компанией am-tech.ru для удовлетворения самых высоких требований в области трехмерных измерений и обратного проектирования. Этот сканер открывает новую эру в сфере профессионального сканирования, предлагая беспрецедентную комбинацию скорости, точности и универсальности.</p>\r\n<h2>Преимущества KSCAN MAGIC</h2>\r\n<p>Сканер выделяется среди конкурентов благодаря ряду уникальных особенностей. Прежде всего, это первый в своем классе сканер, предлагающий два режима работы: сканирование с использованием сетки из инфракрасных лазеров и режим с сеткой из синих перекрестных лазеров (11х11 линий). Такая двойная система позволяет адаптировать процесс сканирования под различные типы поверхностей и условия работы.</p>\r\n<p>Скорость сканирования устройства устанавливает новые стандарты в индустрии. Благодаря оптимизированным алгоритмам обработки данных и высокочастотным лазерным модулям, этот лазерный сканер способен захватывать миллионы точек в секунду, значительно сокращая время, необходимое для полного сканирования объектов.</p>\r\n<p>Точность и детализация, обеспечиваемые сканером, удовлетворяют самым строгим требованиям профессионалов. Сканер способен фиксировать мельчайшие особенности поверхности с точностью до микрон, что критически важно для задач обратного проектирования и контроля качества.</p>\r\n<p>Большая область сканирования в сочетании с впечатляющей глубиной резкости позволяет KSCAN MAGIC эффективно работать с объектами различных размеров &ndash; от небольших деталей до крупногабаритных конструкций. Это существенно расширяет сферу применения устройства и повышает его универсальность.</p>\r\n<p>Для еще большей функциональности сканер возможно дополнить портативной координатно-измерительной машиной K-Probe. Это позволяет проводить контактные измерения в труднодоступных местах, таких как отверстия, плоскости и кромки, обеспечивая полноту получаемых данных.</p>\r\n<p>Дополнительное устройство Edge, предназначенное для контроля граней и тонких кромок, расширяет возможности устройства в работе со сложными геометрическими формами, делая его незаменимым инструментом в аэрокосмической и автомобильной промышленности.</p>\r\n<h2>Как работает 3D-сканер</h2>\r\n<p>Принцип работы KSCAN MAGIC основан на передовой технологии лазерного сканирования. Устройство проецирует на объект сетку из 11 параллельных линий, что идеально подходит для сканирования больших пространств. Этот режим особенно эффективен при работе с объектами, имеющими сложную геометрию или темные поверхности.</p>\r\n<p>Режим синих перекрестных лазеров (11х11 линий) обеспечивает быстрое и детальное сканирование. Этот режим отлично подходит для захвата мелких деталей и работы с объектами, имеющими блестящие или полупрозрачные поверхности.</p>\r\n<p>Процесс сканирования начинается с калибровки устройства, которая может быть выполнена быстро и легко благодаря встроенным алгоритмам самокалибровки. Затем оператор перемещает сканер вокруг объекта, while устройство проецирует лазерные линии и фиксирует их отражение с помощью высокочувствительных камер.</p>\r\n<p>Полученные данные в режиме реального времени обрабатываются мощным встроенным процессором и передаются на компьютер, где специализированное программное обеспечение ScanViewer преобразует их в точное трехмерное изображение объекта.</p>\r\n<p>ScanViewer предоставляет широкий спектр инструментов для анализа полученных данных. Модуль Tube позволяет проводить точные измерения труб и цилиндрических объектов. Функция поиска деформаций незаменима при контроле качества и сравнении готовых изделий с исходными CAD-моделями. Создание цветовых карт отклонений обеспечивает наглядное представление результатов измерений, что особенно ценно при проведении инспекций и подготовке отчетов.</p>\r\n<p>Все представленное в нашем каталоге оборудование доступно к приобретению на выгодных условиях <a href=\"https://am-tech.ru/leasing/\">лизинга.</a></p>\r\n<p>Наши специалисты помогут подобрать оптимальную схему лизинга под ваши производственные задачи и финансовые возможности, а также окажут содействие в оформлении всей необходимой документации.</p>"
+  },
+  {
+   "id": 25178,
+   "key": "Точность, мм",
+   "value": "до 0,02"
+  },
+  {
+   "id": 25179,
+   "key": "Объемная точность, мм/м",
+   "value": "0,015+0,030∗L"
+  },
+  {
+   "id": 25180,
+   "key": "Объемная точность с фотограмметрией MSCAN L15, мм/м",
+   "value": "0,015 + 0,012∗L"
+  },
+  {
+   "id": 25181,
+   "key": "Доверительная вероятность",
+   "value": "0,95"
+  },
+  {
+   "id": 25182,
+   "key": "Возможность работы со щупом",
+   "value": "K-Probe, повторяемость в одной точке 0,03 мм"
+  },
+  {
+   "id": 25183,
+   "key": "Разрешение, мм",
+   "value": "до 0,010"
+  },
+  {
+   "id": 25184,
+   "key": "Скорость измерений, точек/сек",
+   "value": "2 700 000"
+  },
+  {
+   "id": 25185,
+   "key": "Область сканирования (поле зрения), мм",
+   "value": "1440 х 860 (фотограмметрия: 3760 х 3150)"
+  },
+  {
+   "id": 25186,
+   "key": "Оптимальное расстояние до объекта, мм",
+   "value": "300"
+  },
+  {
+   "id": 25187,
+   "key": "Источник излучения",
+   "value": "Сверхбыстрое сканирование: 11 синих лазерных крестов (22 линии)  Сканирование в высоком разрешении: 7 синих параллельных линий Сканирование с большой областью захвата: 11 параллельных инфракрасных линий  Сканирование глубоких отверстий: 1 синяя линия"
+  },
+  {
+   "id": 25188,
+   "key": "Показывать на главной странице",
+   "value": "n"
+  },
+  {
+   "id": 25189,
+   "key": "Глубина резкости, мм",
+   "value": "925  (фотограмметрия - 2500)"
+  },
+  {
+   "id": 25190,
+   "key": "Размеры измеряемого объекта, м",
+   "value": "0,01-10"
+  },
+  {
+   "id": 25191,
+   "key": "Габариты, мм",
+   "value": "325×133×84"
+  },
+  {
+   "id": 25192,
+   "key": "Вес, кг",
+   "value": "1,35"
+  },
+  {
+   "id": 25193,
+   "key": "Температура окружающей среды, °C",
+   "value": "от -10 до + 40"
+  },
+  {
+   "id": 25194,
+   "key": "Наличие в реестре средств измерений",
+   "value": "Внесен"
+  },
+  {
+   "id": 25195,
+   "key": "Страна производства",
+   "value": "Китай"
+  },
+  {
+   "id": 25196,
+   "key": "Отображать в слайдере на главной",
+   "value": "YES"
+  },
+  {
+   "id": 25197,
+   "key": "Цвет шапки и текста",
+   "value": "light"
+  },
+  {
+   "id": 25198,
+   "key": "Связанные товары по фильтру",
+   "value": "[]"
+  },
+  {
+   "id": 25199,
+   "key": "Вес, кг.",
+   "value": "1,35"
+  },
+  {
+   "id": 25200,
+   "key": "Внешние габариты, мм",
+   "value": "325 х 133 х 84"
+  },
+  {
+   "id": 25201,
+   "key": "bitrix_picture",
+   "value": "/pr_new_files/iblock/001/kgzrwpjvzyjlsp5as7x2j1tbafm1h2cp.png"
+  },
+  {
+   "id": 30949,
+   "key": "wbcr_wp_old_slug",
+   "value": "3d-%d1%81%d0%ba%d0%b0%d0%bd%d0%b5%d1%80-kscan-magic"
+  },
+  {
+   "id": 35557,
+   "key": "Документы товара",
+   "value": ""
+  },
+  {
+   "id": 35558,
+   "key": "Код с видео (iframe)",
+   "value": ""
+  },
+  {
+   "id": 35559,
+   "key": "Файл видео",
+   "value": ""
+  },
+  {
+   "id": 35560,
+   "key": "_news_category",
+   "value": "0"
+  },
+  {
+   "id": 35561,
+   "key": "_news_tag",
+   "value": "0"
+  },
+  {
+   "id": 35562,
+   "key": "_custom_advantages",
+   "value": ""
+  },
+  {
+   "id": 35563,
+   "key": "_my_menu_type",
+   "value": "обычное"
+  },
+  {
+   "id": 35564,
+   "key": "_video_block",
+   "value": {
+    "video_title": "",
+    "video_post_id": "",
+    "right_title": "",
+    "subtitle": "",
+    "video_description": "",
+    "button_text": "Смотреть больше видео",
+    "tag_id": ""
+   }
+  },
+  {
+   "id": 35565,
+   "key": "boldgrid_in_page_containers",
+   "value": "1"
+  },
+  {
+   "id": 35566,
+   "key": "_yoast_wpseo_primary_product_brand",
+   "value": ""
+  },
+  {
+   "id": 35567,
+   "key": "_yoast_wpseo_primary_product_cat",
+   "value": "24"
+  },
+  {
+   "id": 35568,
+   "key": "_yoast_wpseo_content_score",
+   "value": "60"
+  },
+  {
+   "id": 35569,
+   "key": "_yoast_wpseo_estimated-reading-time-minutes",
+   "value": "3"
+  },
+  {
+   "id": 35799,
+   "key": "_yoast_wpseo_title",
+   "value": "3D-сканер KSCAN MAGIC — купить с доставкой по России | AM-Tech"
+  },
+  {
+   "id": 35800,
+   "key": "_yoast_wpseo_metadesc",
+   "value": "Заказать 3D-сканер KSCAN MAGIC - демонстрация и консультация наших специалистов. +7 (495) 109 11 91"
+  },
+  {
+   "id": 36098,
+   "key": "_vcv-sourceChecksum",
+   "value": "e0d540ce157ee2bb31ffebf949679a82"
+  },
+  {
+   "id": 36099,
+   "key": "vcvSourceCssFileUrl",
+   "value": "/assets-bundles/e0d540ce157ee2bb31ffebf949679a82.source.css"
+  },
+  {
+   "id": 36100,
+   "key": "_vcv-globalCssMigrated",
+   "value": "1"
+  },
+  {
+   "id": 52856,
+   "key": "_elementor_page_assets",
+   "value": []
+  }
+ ],
+ "stock_status": "instock",
+ "has_options": false,
+ "post_password": "",
+ "global_unique_id": "",
+ "permalink_template": "https://am-tech.ru/product/%pagename%/",
+ "generated_slug": "3d-skaner-kscan-magic",
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>3D-сканер KSCAN MAGIC — купить с доставкой по России | AM-Tech</title>\n<meta name=\"description\" content=\"Заказать 3D-сканер KSCAN MAGIC - демонстрация и консультация наших специалистов. +7 (495) 109 11 91\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/product/3d-skaner-kscan-magic/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"3D-сканер KSCAN MAGIC — купить с доставкой по России | AM-Tech\" />\n<meta property=\"og:description\" content=\"Заказать 3D-сканер KSCAN MAGIC - демонстрация и консультация наших специалистов. +7 (495) 109 11 91\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/product/3d-skaner-kscan-magic/\" />\n<meta property=\"og:site_name\" content=\"AM.TECH\" />\n<meta property=\"article:modified_time\" content=\"2026-10-13T14:13:30+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2025/08/kgzrwpjvzyjlsp5as7x2j1tbafm1h2cp.png\" />\n\t<meta property=\"og:image:width\" content=\"284\" />\n\t<meta property=\"og:image:height\" content=\"618\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"3 минуты\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/product/3d-skaner-kscan-magic/\",\"url\":\"https://am-tech.ru/product/3d-skaner-kscan-magic/\",\"name\":\"3D-сканер KSCAN MAGIC — купить с доставкой по России | AM-Tech\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/product/3d-skaner-kscan-magic/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/product/3d-skaner-kscan-magic/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2025/08/kgzrwpjvzyjlsp5as7x2j1tbafm1h2cp.png\",\"datePublished\":\"2025-08-17T03:59:13+00:00\",\"dateModified\":\"2026-10-13T14:13:30+00:00\",\"description\":\"Заказать 3D-сканер KSCAN MAGIC - демонстрация и консультация наших специалистов. +7 (495) 109 11 91\",\"breadcrumb\":{\"@id\":\"https://am-tech.ru/product/3d-skaner-kscan-magic/#breadcrumb\"},\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/product/3d-skaner-kscan-magic/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/product/3d-skaner-kscan-magic/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2025/08/kgzrwpjvzyjlsp5as7x2j1tbafm1h2cp.png\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2025/08/kgzrwpjvzyjlsp5as7x2j1tbafm1h2cp.png\",\"width\":284,\"height\":618},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://am-tech.ru/product/3d-skaner-kscan-magic/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Главная страница\",\"item\":\"https://am-tech.ru/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Промышленные 3D сканеры: оборудование для реверс-инжиниринга и контроля качества\",\"item\":\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"3D-сканеры\",\"item\":\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"3D-сканер KSCAN MAGIC\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"AM.TECH\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"AM.TECH\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"AM.TECH\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "3D-сканер KSCAN MAGIC — купить с доставкой по России | AM-Tech",
+  "description": "Заказать 3D-сканер KSCAN MAGIC - демонстрация и консультация наших специалистов. +7 (495) 109 11 91",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/product/3d-skaner-kscan-magic/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "3D-сканер KSCAN MAGIC — купить с доставкой по России | AM-Tech",
+  "og_description": "Заказать 3D-сканер KSCAN MAGIC - демонстрация и консультация наших специалистов. +7 (495) 109 11 91",
+  "og_url": "https://am-tech.ru/product/3d-skaner-kscan-magic/",
+  "og_site_name": "AM.TECH",
+  "article_modified_time": "2026-10-13T14:13:30+00:00",
+  "og_image": [
+   {
+    "width": 284,
+    "height": 618,
+    "url": "https://am-tech.ru/wp-content/uploads/2025/08/kgzrwpjvzyjlsp5as7x2j1tbafm1h2cp.png",
+    "type": "image/png"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "3 минуты"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/product/3d-skaner-kscan-magic/",
+     "url": "https://am-tech.ru/product/3d-skaner-kscan-magic/",
+     "name": "3D-сканер KSCAN MAGIC — купить с доставкой по России | AM-Tech",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/product/3d-skaner-kscan-magic/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/product/3d-skaner-kscan-magic/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2025/08/kgzrwpjvzyjlsp5as7x2j1tbafm1h2cp.png",
+     "datePublished": "2025-08-17T03:59:13+00:00",
+     "dateModified": "2026-10-13T14:13:30+00:00",
+     "description": "Заказать 3D-сканер KSCAN MAGIC - демонстрация и консультация наших специалистов. +7 (495) 109 11 91",
+     "breadcrumb": {
+      "@id": "https://am-tech.ru/product/3d-skaner-kscan-magic/#breadcrumb"
+     },
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/product/3d-skaner-kscan-magic/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/product/3d-skaner-kscan-magic/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2025/08/kgzrwpjvzyjlsp5as7x2j1tbafm1h2cp.png",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2025/08/kgzrwpjvzyjlsp5as7x2j1tbafm1h2cp.png",
+     "width": 284,
+     "height": 618
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://am-tech.ru/product/3d-skaner-kscan-magic/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Главная страница",
+       "item": "https://am-tech.ru/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Промышленные 3D сканеры: оборудование для реверс-инжиниринга и контроля качества",
+       "item": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "3D-сканеры",
+       "item": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 4,
+       "name": "3D-сканер KSCAN MAGIC"
+      }
+     ]
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "AM.TECH",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "AM.TECH",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "AM.TECH"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wc/v3/products/1662",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wc/v3/products"
+   }
+  ]
+ }
+}

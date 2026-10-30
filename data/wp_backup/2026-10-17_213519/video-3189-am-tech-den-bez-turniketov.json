@@ -1,0 +1,286 @@
+{
+ "id": 3189,
+ "date": "2025-10-16T12:45:01",
+ "date_gmt": "2025-10-16T09:45:01",
+ "guid": {
+  "rendered": "https://am-tech.ru/?post_type=video_reviews&#038;p=3189",
+  "raw": "https://am-tech.ru/?post_type=video_reviews&#038;p=3189"
+ },
+ "modified": "2026-06-30T15:24:57",
+ "modified_gmt": "2026-06-30T12:24:57",
+ "password": "",
+ "slug": "am-tech-den-bez-turniketov",
+ "status": "publish",
+ "type": "video_reviews",
+ "link": "https://am-tech.ru/video-reviews/am-tech-den-bez-turniketov/",
+ "title": {
+  "raw": "AM.TECH: День без турникетов",
+  "rendered": "AM.TECH: День без турникетов"
+ },
+ "content": {
+  "raw": "<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n<p class=\"\">18 сентября компания <a href=\"https://rutube.ru/api/routing/v1/away?target=https%3A%2F%2FAM.TECH&amp;event=video-description&amp;id=b0bb3eac8bfc8ab3ced175cbce5ab7c3\" target=\"_blank\" rel=\"nofollow noopener\">AM.TECH</a> приняла участие в традиционной московской акции «День без турникетов». Её цель — познакомить молодежь с инновационными технологиями. Мы были рады видеть на нашей производственной площадке студентов профильных колледжей и всех интересующихся аддитивными технологиями.</p>\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+  "rendered": "<div class=\"boldgrid-section\">\n<div class=\"container\">\n<div class=\"row\">\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\n<p class=\"\">18 сентября компания <a href=\"https://rutube.ru/api/routing/v1/away?target=https%3A%2F%2FAM.TECH&amp;event=video-description&amp;id=b0bb3eac8bfc8ab3ced175cbce5ab7c3\" target=\"_blank\" rel=\"nofollow noopener\">AM.TECH</a> приняла участие в традиционной московской акции «День без турникетов». Её цель — познакомить молодежь с инновационными технологиями. Мы были рады видеть на нашей производственной площадке студентов профильных колледжей и всех интересующихся аддитивными технологиями.</p>\n</div>\n</div>\n</div>\n</div>\n",
+  "protected": false,
+  "block_version": 0
+ },
+ "excerpt": {
+  "raw": "",
+  "rendered": "<p>18 сентября компания AM.TECH приняла участие в традиционной московской акции «День без турникетов». Её цель — познакомить молодежь с инновационными технологиями. Мы были рады видеть на нашей производственной площадке студентов профильных колледжей и всех интересующихся аддитивными технологиями.</p>\n",
+  "protected": false
+ },
+ "author": 6,
+ "featured_media": 3191,
+ "comment_status": "open",
+ "ping_status": "closed",
+ "template": "",
+ "meta": {
+  "_acf_changed": false,
+  "_yoast_wpseo_title": "",
+  "_yoast_wpseo_metadesc": "Видео: День без турникетов в AM.TECH. Загляните в производство и узнайте, как создаются 3D-принтеры.",
+  "_yoast_wpseo_meta-robots-noindex": ""
+ },
+ "video_category": [
+  1105
+ ],
+ "video_tag": [
+  1296,
+  1297,
+  1299,
+  1305
+ ],
+ "permalink_template": "https://am-tech.ru/video-reviews/%pagename%/",
+ "generated_slug": "am-tech-den-bez-turniketov",
+ "class_list": [
+  "post-3189",
+  "video_reviews",
+  "type-video_reviews",
+  "status-publish",
+  "has-post-thumbnail",
+  "hentry",
+  "video_category-meroprijatija",
+  "video_tag-demonstracii-oborudovanija",
+  "video_tag-industrija-additivnyh-tehnologij",
+  "video_tag-issledovanija-i-razrabotki",
+  "video_tag-otraslevye-meroprijatija"
+ ],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>AM.TECH: День без турникетов | AM.TECH</title>\n<meta name=\"description\" content=\"Видео: День без турникетов в AM.TECH. Загляните в производство и узнайте, как создаются 3D-принтеры.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/video-reviews/am-tech-den-bez-turniketov/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"AM.TECH: День без турникетов | AM.TECH\" />\n<meta property=\"og:description\" content=\"Видео: День без турникетов в AM.TECH. Загляните в производство и узнайте, как создаются 3D-принтеры.\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/video-reviews/am-tech-den-bez-turniketov/\" />\n<meta property=\"og:site_name\" content=\"AM.TECH\" />\n<meta property=\"article:modified_time\" content=\"2026-06-30T12:24:57+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2025/10/snimok-1.png\" />\n\t<meta property=\"og:image:width\" content=\"1241\" />\n\t<meta property=\"og:image:height\" content=\"698\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"1 минута\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/video-reviews/am-tech-den-bez-turniketov/\",\"url\":\"https://am-tech.ru/video-reviews/am-tech-den-bez-turniketov/\",\"name\":\"AM.TECH: День без турникетов | AM.TECH\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/video-reviews/am-tech-den-bez-turniketov/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/video-reviews/am-tech-den-bez-turniketov/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2025/10/snimok-1.png\",\"datePublished\":\"2025-10-16T09:45:01+00:00\",\"dateModified\":\"2026-06-30T12:24:57+00:00\",\"description\":\"Видео: День без турникетов в AM.TECH. Загляните в производство и узнайте, как создаются 3D-принтеры.\",\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/video-reviews/am-tech-den-bez-turniketov/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/video-reviews/am-tech-den-bez-turniketov/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2025/10/snimok-1.png\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2025/10/snimok-1.png\",\"width\":1241,\"height\":698},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"AM.TECH\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"AM.TECH\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"AM.TECH\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "AM.TECH: День без турникетов | AM.TECH",
+  "description": "Видео: День без турникетов в AM.TECH. Загляните в производство и узнайте, как создаются 3D-принтеры.",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/video-reviews/am-tech-den-bez-turniketov/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "AM.TECH: День без турникетов | AM.TECH",
+  "og_description": "Видео: День без турникетов в AM.TECH. Загляните в производство и узнайте, как создаются 3D-принтеры.",
+  "og_url": "https://am-tech.ru/video-reviews/am-tech-den-bez-turniketov/",
+  "og_site_name": "AM.TECH",
+  "article_modified_time": "2026-06-30T12:24:57+00:00",
+  "og_image": [
+   {
+    "width": 1241,
+    "height": 698,
+    "url": "https://am-tech.ru/wp-content/uploads/2025/10/snimok-1.png",
+    "type": "image/png"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "1 минута"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/video-reviews/am-tech-den-bez-turniketov/",
+     "url": "https://am-tech.ru/video-reviews/am-tech-den-bez-turniketov/",
+     "name": "AM.TECH: День без турникетов | AM.TECH",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/video-reviews/am-tech-den-bez-turniketov/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/video-reviews/am-tech-den-bez-turniketov/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2025/10/snimok-1.png",
+     "datePublished": "2025-10-16T09:45:01+00:00",
+     "dateModified": "2026-06-30T12:24:57+00:00",
+     "description": "Видео: День без турникетов в AM.TECH. Загляните в производство и узнайте, как создаются 3D-принтеры.",
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/video-reviews/am-tech-den-bez-turniketov/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/video-reviews/am-tech-den-bez-turniketov/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2025/10/snimok-1.png",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2025/10/snimok-1.png",
+     "width": 1241,
+     "height": 698
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "AM.TECH",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "AM.TECH",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "AM.TECH"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3189",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/types/video_reviews"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/users/6"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/comments?post=3189"
+   }
+  ],
+  "wp:featuredmedia": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/media/3191"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/media?parent=3189"
+   }
+  ],
+  "wp:term": [
+   {
+    "taxonomy": "video_category",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_category?post=3189"
+   },
+   {
+    "taxonomy": "video_tag",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_tag?post=3189"
+   }
+  ],
+  "wp:action-publish": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3189"
+   }
+  ],
+  "wp:action-unfiltered-html": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3189"
+   }
+  ],
+  "wp:action-assign-author": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3189"
+   }
+  ],
+  "wp:action-create-video_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3189"
+   }
+  ],
+  "wp:action-assign-video_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3189"
+   }
+  ],
+  "wp:action-create-video_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3189"
+   }
+  ],
+  "wp:action-assign-video_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3189"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

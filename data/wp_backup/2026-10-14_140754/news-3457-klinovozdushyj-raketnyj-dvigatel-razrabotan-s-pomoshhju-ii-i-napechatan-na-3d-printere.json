@@ -1,0 +1,282 @@
+{
+ "id": 3457,
+ "date": "2023-12-23T19:58:42",
+ "date_gmt": "2023-12-23T16:58:42",
+ "guid": {
+  "rendered": "https://am-tech.ru/?post_type=news&#038;p=3457",
+  "raw": "https://am-tech.ru/?post_type=news&#038;p=3457"
+ },
+ "modified": "2026-06-30T15:22:45",
+ "modified_gmt": "2026-06-30T12:22:45",
+ "password": "",
+ "slug": "klinovozdushyj-raketnyj-dvigatel-razrabotan-s-pomoshhju-ii-i-napechatan-na-3d-printere",
+ "status": "publish",
+ "type": "news",
+ "link": "https://am-tech.ru/news/klinovozdushyj-raketnyj-dvigatel-razrabotan-s-pomoshhju-ii-i-napechatan-na-3d-printere/",
+ "title": {
+  "raw": "Клиновоздушый ракетный двигатель разработан с помощью ИИ и напечатан на 3D-принтере",
+  "rendered": "Клиновоздушый ракетный двигатель разработан с помощью ИИ и напечатан на 3D-принтере"
+ },
+ "content": {
+  "raw": "<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n<p class=\"\">Компания LEAP 71, которая разрабатывает ракетные двигатели с помощью ИИ, успешно испытала тороидальный клиновоздушный двигатель с тягой 5000 ньютонов (около 500 кг), работающий на криогенном жидком кислороде и керосине.</p>\r\n<p class=\"\">Двигатель был создан без использования классических CAD-систем с помощью <a href=\"https://leap71.com/noyron/\" data-type=\"page\" data-id=\"1399\">Noyron</a>, большой&nbsp;<a href=\"https://leap71.com/computationalengineering/\" data-type=\"page\" data-id=\"686\">вычислительной инженерной</a>&nbsp;модели компании.</p>\r\n\r\n<figure class=\"wp-block-image size-full\">\r\n<p class=\"mod-reset\"><img class=\"alignnone wp-image-3458 size-full\" src=\"https://am-tech.ru/wp-content/uploads/2025/11/82_0_859_368_1-1024x369.webp\" alt=\"\" width=\"859\" height=\"368\" data-recalc-dims=\"1\"></p>\r\n</figure>\r\n<p class=\"\">Клиновоздушный ракетный двигатель (КВРД) принципиально отличается от традиционного ракетного двигателя конструкцией сопла и принципом формирования газовой струи. В классическом двигателе реактивная струя выходит через фиксированное сопло колоколообразной формы, оптимизированное для определенной высоты и давления атмосферы. Это создает ограничения на эффективность двигателя на разных этапах полета: двигатель эффективен одной высоте, но теряет мощность на другой.&nbsp;В отличие от классического варианта, клиновоздушный двигатель образует своеобразное \"открытое\" сопло, одна половина которого представлена твердым элементом, а вторая создается самим окружающим воздухом. Это позволяет формировать эффективное рабочее пространство независимо от высоты полета, адаптируясь к изменениям внешнего давления. Такая конструкция особенно полезна для одноступенчатых космических аппаратов, двигатель которых работает во всём диапазоне высот. Одна из разновидностей клиновоздушного двигателя - тороидальный, центральная часть которого имеет форму сужающегося конуса, окруженную камерами сгорания, откуда выходят реактивные газы. Такое устройство обеспечивает автоматическую регулировку профиля газового потока в зависимости от окружающей среды, улучшая топливную эффективность и тяговые характеристики на любых высотах. Несмотря на свою привлекательность, клиновоздушные двигатели не получили распространения из за сложностей в проектировании и изготовлении. Одна из проблем - охлаждение конуса, который окружён выхломными газами с температурой 3500 °C.&nbsp;</p>\r\n<p class=\"\">Благодаря этому успеху LEAP 71 присоединилась к элитному клубу разработчиков, которые смогли создать клиновоздушный двигатель. Используя возможности вычислительного искусственного интеллекта Noyron, компания спроектировала двигатель всего за несколько недель. Двигатель был напечатан с помощью технологии лазерной наплавки в порошковом слое промышленным партнёром Aconity3D из современного аэрокосмического медного сплава (CuCrZr).&nbsp;</p>\r\n\r\n<figure class=\"wp-block-image size-large\">\r\n<p class=\"mod-reset\"><img class=\"alignnone wp-image-3460 size-full\" src=\"https://am-tech.ru/wp-content/uploads/2025/11/3-1.jpg\" alt=\"\" width=\"980\" height=\"980\" data-recalc-dims=\"1\"></p>\r\n</figure>\r\n<p class=\"\">&nbsp;</p>\r\n\r\n<figure class=\"wp-block-image size-large\">\r\n<p class=\"mod-reset\"><img class=\"alignnone wp-image-3461 size-full\" src=\"https://am-tech.ru/wp-content/uploads/2025/11/4-1.jpg\" alt=\"\" width=\"980\" height=\"762\" data-recalc-dims=\"1\"></p>\r\n</figure>\r\n<p class=\"\">Компания обработает собранные данные, чтобы доработать Noyron для следующей версии двигателей, и продолжит испытания в 2025 году, чтобы сделать Aerospikes жизнеспособным вариантом для современных космических аппаратов.</p>\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+  "rendered": "<div class=\"boldgrid-section\">\n<div class=\"container\">\n<div class=\"row\">\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\n<p class=\"\">Компания LEAP 71, которая разрабатывает ракетные двигатели с помощью ИИ, успешно испытала тороидальный клиновоздушный двигатель с тягой 5000 ньютонов (около 500 кг), работающий на криогенном жидком кислороде и керосине.</p>\n<p class=\"\">Двигатель был создан без использования классических CAD-систем с помощью <a href=\"https://leap71.com/noyron/\" data-type=\"page\" data-id=\"1399\">Noyron</a>, большой&nbsp;<a href=\"https://leap71.com/computationalengineering/\" data-type=\"page\" data-id=\"686\">вычислительной инженерной</a>&nbsp;модели компании.</p>\n<figure class=\"wp-block-image size-full\">\n<p class=\"mod-reset\"><img loading=\"lazy\" decoding=\"async\" fetchpriority=\"high\" decoding=\"async\" class=\"alignnone wp-image-3458 size-full\" src=\"https://am-tech.ru/wp-content/uploads/2025/11/82_0_859_368_1-1024x369.webp\" alt=\"Клиновоздушый ракетный двигатель разработан с помощью ИИ и напечатан на 3D-принтере - 3D-печать металлами - AM-Tech\" width=\"859\" height=\"368\" data-recalc-dims=\"1\"></p>\n</figure>\n<p class=\"\">Клиновоздушный ракетный двигатель (КВРД) принципиально отличается от традиционного ракетного двигателя конструкцией сопла и принципом формирования газовой струи. В классическом двигателе реактивная струя выходит через фиксированное сопло колоколообразной формы, оптимизированное для определенной высоты и давления атмосферы. Это создает ограничения на эффективность двигателя на разных этапах полета: двигатель эффективен одной высоте, но теряет мощность на другой.&nbsp;В отличие от классического варианта, клиновоздушный двигатель образует своеобразное &#171;открытое&#187; сопло, одна половина которого представлена твердым элементом, а вторая создается самим окружающим воздухом. Это позволяет формировать эффективное рабочее пространство независимо от высоты полета, адаптируясь к изменениям внешнего давления. Такая конструкция особенно полезна для одноступенчатых космических аппаратов, двигатель которых работает во всём диапазоне высот. Одна из разновидностей клиновоздушного двигателя &#8212; тороидальный, центральная часть которого имеет форму сужающегося конуса, окруженную камерами сгорания, откуда выходят реактивные газы. Такое устройство обеспечивает автоматическую регулировку профиля газового потока в зависимости от окружающей среды, улучшая топливную эффективность и тяговые характеристики на любых высотах. Несмотря на свою привлекательность, клиновоздушные двигатели не получили распространения из за сложностей в проектировании и изготовлении. Одна из проблем &#8212; охлаждение конуса, который окружён выхломными газами с температурой 3500 °C.&nbsp;</p>\n<p class=\"\">Благодаря этому успеху LEAP 71 присоединилась к элитному клубу разработчиков, которые смогли создать клиновоздушный двигатель. Используя возможности вычислительного искусственного интеллекта Noyron, компания спроектировала двигатель всего за несколько недель. Двигатель был напечатан с помощью технологии лазерной наплавки в порошковом слое промышленным партнёром Aconity3D из современного аэрокосмического медного сплава (CuCrZr).&nbsp;</p>\n<figure class=\"wp-block-image size-large\">\n<p class=\"mod-reset\"><img loading=\"lazy\" decoding=\"async\" decoding=\"async\" class=\"alignnone wp-image-3460 size-full\" src=\"https://am-tech.ru/wp-content/uploads/2025/11/3-1.jpg\" alt=\"Клиновоздушый ракетный двигатель разработан с помощью ИИ и напечатан на 3D-принтере - 3D-печать металлами - AM-Tech\" width=\"980\" height=\"980\" data-recalc-dims=\"1\" srcset=\"https://am-tech.ru/wp-content/uploads/2025/11/3-1.jpg 980w, https://am-tech.ru/wp-content/uploads/2025/11/3-1-300x300.jpg 300w, https://am-tech.ru/wp-content/uploads/2025/11/3-1-150x150.jpg 150w, https://am-tech.ru/wp-content/uploads/2025/11/3-1-768x768.jpg 768w, https://am-tech.ru/wp-content/uploads/2025/11/3-1-600x600.jpg 600w, https://am-tech.ru/wp-content/uploads/2025/11/3-1-100x100.jpg 100w\" sizes=\"(max-width: 980px) 100vw, 980px\" /></p>\n</figure>\n<p class=\"\">&nbsp;</p>\n<figure class=\"wp-block-image size-large\">\n<p class=\"mod-reset\"><img loading=\"lazy\" decoding=\"async\" decoding=\"async\" class=\"alignnone wp-image-3461 size-full\" src=\"https://am-tech.ru/wp-content/uploads/2025/11/4-1.jpg\" alt=\"Клиновоздушый ракетный двигатель разработан с помощью ИИ и напечатан на 3D-принтере - 3D-печать металлами - AM-Tech\" width=\"980\" height=\"762\" data-recalc-dims=\"1\" srcset=\"https://am-tech.ru/wp-content/uploads/2025/11/4-1.jpg 980w, https://am-tech.ru/wp-content/uploads/2025/11/4-1-300x233.jpg 300w, https://am-tech.ru/wp-content/uploads/2025/11/4-1-768x597.jpg 768w, https://am-tech.ru/wp-content/uploads/2025/11/4-1-600x467.jpg 600w\" sizes=\"(max-width: 980px) 100vw, 980px\" /></p>\n</figure>\n<p class=\"\">Компания обработает собранные данные, чтобы доработать Noyron для следующей версии двигателей, и продолжит испытания в 2025 году, чтобы сделать Aerospikes жизнеспособным вариантом для современных космических аппаратов.</p>\n</div>\n</div>\n</div>\n</div>\n",
+  "protected": false,
+  "block_version": 0
+ },
+ "excerpt": {
+  "raw": "",
+  "rendered": "<p>Компания LEAP 71, которая разрабатывает ракетные двигатели с помощью ИИ, успешно испытала тороидальный клиновоздушный двигатель с тягой 5000 ньютонов (около 500 кг), работающий на криогенном жидком кислороде и керосине. Двигатель был создан без использования классических CAD-систем с помощью Noyron, большой&nbsp;вычислительной инженерной&nbsp;модели компании. Клиновоздушный ракетный двигатель (КВРД) принципиально отличается от традиционного ракетного двигателя конструкцией сопла и принципом [&hellip;]</p>\n",
+  "protected": false
+ },
+ "author": 4,
+ "featured_media": 3461,
+ "comment_status": "open",
+ "ping_status": "closed",
+ "template": "",
+ "meta": {
+  "_acf_changed": false,
+  "_yoast_wpseo_title": "",
+  "_yoast_wpseo_metadesc": "Клиновоздушный ракетный двигатель спроектирован ИИ и напечатан на 3D-принтере. Детали о проекте в нашей статье.",
+  "_yoast_wpseo_meta-robots-noindex": ""
+ },
+ "news_category": [
+  1107
+ ],
+ "news_tag": [
+  1267,
+  1265
+ ],
+ "permalink_template": "https://am-tech.ru/news/%pagename%/",
+ "generated_slug": "klinovozdushyj-raketnyj-dvigatel-razrabotan-s-pomoshhju-ii-i-napechatan-na-3d-printere",
+ "class_list": [
+  "post-3457",
+  "news",
+  "type-news",
+  "status-publish",
+  "has-post-thumbnail",
+  "hentry",
+  "news_category-3d-pechat-metallami",
+  "news_tag-kosmos",
+  "news_tag-proektirovanie"
+ ],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Клиновоздушый ракетный двигатель разработан с помощью ИИ и напечатан на 3D-принтере - am-tech.ru</title>\n<meta name=\"description\" content=\"Клиновоздушный ракетный двигатель спроектирован ИИ и напечатан на 3D-принтере. Детали о проекте в нашей статье.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/news/klinovozdushyj-raketnyj-dvigatel-razrabotan-s-pomoshhju-ii-i-napechatan-na-3d-printere/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Клиновоздушый ракетный двигатель разработан с помощью ИИ и напечатан на 3D-принтере - am-tech.ru\" />\n<meta property=\"og:description\" content=\"Клиновоздушный ракетный двигатель спроектирован ИИ и напечатан на 3D-принтере. Детали о проекте в нашей статье.\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/news/klinovozdushyj-raketnyj-dvigatel-razrabotan-s-pomoshhju-ii-i-napechatan-na-3d-printere/\" />\n<meta property=\"og:site_name\" content=\"am-tech.ru\" />\n<meta property=\"article:modified_time\" content=\"2026-06-30T12:22:45+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2025/11/4-1.jpg\" />\n\t<meta property=\"og:image:width\" content=\"980\" />\n\t<meta property=\"og:image:height\" content=\"762\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"3 минуты\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/news/klinovozdushyj-raketnyj-dvigatel-razrabotan-s-pomoshhju-ii-i-napechatan-na-3d-printere/\",\"url\":\"https://am-tech.ru/news/klinovozdushyj-raketnyj-dvigatel-razrabotan-s-pomoshhju-ii-i-napechatan-na-3d-printere/\",\"name\":\"Клиновоздушый ракетный двигатель разработан с помощью ИИ и напечатан на 3D-принтере - am-tech.ru\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/news/klinovozdushyj-raketnyj-dvigatel-razrabotan-s-pomoshhju-ii-i-napechatan-na-3d-printere/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/news/klinovozdushyj-raketnyj-dvigatel-razrabotan-s-pomoshhju-ii-i-napechatan-na-3d-printere/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2025/11/4-1.jpg\",\"datePublished\":\"2023-12-23T16:58:42+00:00\",\"dateModified\":\"2026-06-30T12:22:45+00:00\",\"description\":\"Клиновоздушный ракетный двигатель спроектирован ИИ и напечатан на 3D-принтере. Детали о проекте в нашей статье.\",\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/news/klinovozdushyj-raketnyj-dvigatel-razrabotan-s-pomoshhju-ii-i-napechatan-na-3d-printere/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/news/klinovozdushyj-raketnyj-dvigatel-razrabotan-s-pomoshhju-ii-i-napechatan-na-3d-printere/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2025/11/4-1.jpg\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2025/11/4-1.jpg\",\"width\":980,\"height\":762},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"am-tech.ru\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"am-tech.ru\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"am-tech.ru\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "Клиновоздушый ракетный двигатель разработан с помощью ИИ и напечатан на 3D-принтере - am-tech.ru",
+  "description": "Клиновоздушный ракетный двигатель спроектирован ИИ и напечатан на 3D-принтере. Детали о проекте в нашей статье.",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/news/klinovozdushyj-raketnyj-dvigatel-razrabotan-s-pomoshhju-ii-i-napechatan-na-3d-printere/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "Клиновоздушый ракетный двигатель разработан с помощью ИИ и напечатан на 3D-принтере - am-tech.ru",
+  "og_description": "Клиновоздушный ракетный двигатель спроектирован ИИ и напечатан на 3D-принтере. Детали о проекте в нашей статье.",
+  "og_url": "https://am-tech.ru/news/klinovozdushyj-raketnyj-dvigatel-razrabotan-s-pomoshhju-ii-i-napechatan-na-3d-printere/",
+  "og_site_name": "am-tech.ru",
+  "article_modified_time": "2026-06-30T12:22:45+00:00",
+  "og_image": [
+   {
+    "width": 980,
+    "height": 762,
+    "url": "https://am-tech.ru/wp-content/uploads/2025/11/4-1.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "3 минуты"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/news/klinovozdushyj-raketnyj-dvigatel-razrabotan-s-pomoshhju-ii-i-napechatan-na-3d-printere/",
+     "url": "https://am-tech.ru/news/klinovozdushyj-raketnyj-dvigatel-razrabotan-s-pomoshhju-ii-i-napechatan-na-3d-printere/",
+     "name": "Клиновоздушый ракетный двигатель разработан с помощью ИИ и напечатан на 3D-принтере - am-tech.ru",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/news/klinovozdushyj-raketnyj-dvigatel-razrabotan-s-pomoshhju-ii-i-napechatan-na-3d-printere/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/news/klinovozdushyj-raketnyj-dvigatel-razrabotan-s-pomoshhju-ii-i-napechatan-na-3d-printere/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2025/11/4-1.jpg",
+     "datePublished": "2023-12-23T16:58:42+00:00",
+     "dateModified": "2026-06-30T12:22:45+00:00",
+     "description": "Клиновоздушный ракетный двигатель спроектирован ИИ и напечатан на 3D-принтере. Детали о проекте в нашей статье.",
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/news/klinovozdushyj-raketnyj-dvigatel-razrabotan-s-pomoshhju-ii-i-napechatan-na-3d-printere/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/news/klinovozdushyj-raketnyj-dvigatel-razrabotan-s-pomoshhju-ii-i-napechatan-na-3d-printere/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2025/11/4-1.jpg",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2025/11/4-1.jpg",
+     "width": 980,
+     "height": 762
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "am-tech.ru",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "am-tech.ru",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "am-tech.ru"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3457",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/types/news"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/users/4"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/comments?post=3457"
+   }
+  ],
+  "wp:featuredmedia": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/media/3461"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/media?parent=3457"
+   }
+  ],
+  "wp:term": [
+   {
+    "taxonomy": "news_category",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_category?post=3457"
+   },
+   {
+    "taxonomy": "news_tag",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_tag?post=3457"
+   }
+  ],
+  "wp:action-publish": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3457"
+   }
+  ],
+  "wp:action-unfiltered-html": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3457"
+   }
+  ],
+  "wp:action-assign-author": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3457"
+   }
+  ],
+  "wp:action-create-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3457"
+   }
+  ],
+  "wp:action-assign-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3457"
+   }
+  ],
+  "wp:action-create-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3457"
+   }
+  ],
+  "wp:action-assign-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3457"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

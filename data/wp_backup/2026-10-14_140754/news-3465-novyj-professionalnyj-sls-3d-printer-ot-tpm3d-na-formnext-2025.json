@@ -1,0 +1,282 @@
+{
+ "id": 3465,
+ "date": "2025-11-18T13:04:42",
+ "date_gmt": "2025-11-18T10:04:42",
+ "guid": {
+  "rendered": "https://am-tech.ru/?post_type=news&#038;p=3465",
+  "raw": "https://am-tech.ru/?post_type=news&#038;p=3465"
+ },
+ "modified": "2026-07-02T10:21:45",
+ "modified_gmt": "2026-07-02T07:21:45",
+ "password": "",
+ "slug": "novyj-professionalnyj-sls-3d-printer-ot-tpm3d-na-formnext-2025",
+ "status": "publish",
+ "type": "news",
+ "link": "https://am-tech.ru/news/novyj-professionalnyj-sls-3d-printer-ot-tpm3d-na-formnext-2025/",
+ "title": {
+  "raw": "Взгляд AM.TECH на новые разработки в SLS-печати: компактные решения TPM3D и их влияние на рынок",
+  "rendered": "Взгляд AM.TECH на новые разработки в SLS-печати: компактные решения TPM3D и их влияние на рынок"
+ },
+ "content": {
+  "raw": "<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n<p class=\"\"><span style=\"font-weight: 400;\">Как российский производитель промышленного оборудования по технологии </span><b>SLM</b><span style=\"font-weight: 400;\">, мы в AM.TECH внимательно следим за ключевыми тенденциями мировой аддитивной индустрии. В последние годы технология SLS прочно закрепилась в сегменте полимерной 3D-печати благодаря своей универсальности, высокой производительности и качеству деталей. Однако даже в 2025 году перед этим направлением остаются хорошо известные вызовы: сложность обращения с порошком, безопасность рабочих процессов, стабильность качества и сложность смены материала.</span></p>\r\n<p class=\"\"><span style=\"font-weight: 400;\">Именно эти критические моменты сегодня становятся точками роста. И один из ярких примеров — новая компактная серия SLS-оборудования компании </span><b>TPM3D</b><span style=\"font-weight: 400;\">, премьера которой состоится на Formnext 2025.</span></p>\r\n&nbsp;\r\n<p class=\"\"><img class=\"wp-image-3466 alignnone\" src=\"https://am-tech.ru/wp-content/uploads/2025/11/tpm3d_cover_cf200-300x176.jpg\" alt=\"\" width=\"728\" height=\"427\">&nbsp;</p>\r\n\r\n<h2 class=\"\"><b>Компактная серия TPM3D: шаг к более безопасной и доступной SLS-печати</b></h2>\r\n<span style=\"font-weight: 400;\">TPM3D в течение многих лет остаётся одним из ключевых игроков в сегменте полимерной SLS-печати. В этом году компания делает стратегически важный шаг — вывод компактной линейки оборудования, ориентированной на R&amp;D и малосерийное производство.</span>\r\n\r\n<span style=\"font-weight: 400;\">На Formnext 2025 TPM3D представит два устройства, которые должны упростить внедрение SLS-печати в компании со средними и малыми производственными мощностями:</span>\r\n<ul class=\"\">\r\n \t<li style=\"font-weight: 400;\"><b>SLS-принтер CF200</b><b>\r\n</b></li>\r\n \t<li style=\"font-weight: 400;\"><b>Станция обработки порошка PPS200</b><b>\r\n</b></li>\r\n</ul>\r\n<p class=\"\"><span style=\"font-weight: 400;\">Показ новинок состоялся 18 ноября на Technology Stage.</span></p>\r\n\r\n<h2 class=\"\"><b>Ключевые особенности CF200 и PPS200: взгляд производителя металлопечати</b></h2>\r\n<p class=\"\"><span style=\"font-weight: 400;\">С позиции компании AM.TECH, которая ежедневно работает с высокоточными порошковыми материалами в SLM-процессах, мы особенно ценим продуманные решения, направленные на безопасность и чистоту рабочих процессов. У новой серии TPM3D видно чёткое стремление к тому же.</span></p>\r\n<p class=\"\"><img class=\"alignnone wp-image-3467\" src=\"https://am-tech.ru/wp-content/uploads/2025/11/tpm3d-300x171.jpg\" alt=\"\" width=\"755\" height=\"430\"></p>\r\n\r\n<h3 class=\"\"><b>Компактность и интеграция</b></h3>\r\n<p class=\"\"><span style=\"font-weight: 400;\">Оба устройства занимают менее 1 м², что существенно снижает порог входа для лабораторий, офисов и учебных центров, где невозможна установка крупного промышленного комплекса.</span><span style=\"font-weight: 400;\">\r\n</span><span style=\"font-weight: 400;\"> Для SLS это действительно важный шаг.</span></p>\r\n\r\n<h3 class=\"\"><b>Работа от стандартной сети</b></h3>\r\n<p class=\"\"><span style=\"font-weight: 400;\">Оборудование работает от обычной розетки 220 В — это серьёзное упрощение для тех, кто только начинает работать с полимерными порошками или хочет протестировать технологию в R&amp;D-режиме.</span></p>\r\n\r\n<h3><b>Принтер CF200</b></h3>\r\n<ul class=\"\">\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Камера: </span><b>200 × 200 × 320 мм</b><b>\r\n</b></li>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Новый 30-ваттный волоконный лазер</span><span style=\"font-weight: 400;\">\r\n</span></li>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Поддержка PA11, PA12, TPU</span><span style=\"font-weight: 400;\">\r\n</span></li>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Верхняя загрузка порошка</span><span style=\"font-weight: 400;\">\r\n</span></li>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Цель — максимальная простота и надёжность</span>&nbsp;</li>\r\n</ul>\r\n<h3 class=\"\"><b>Станция PPS200</b></h3>\r\n<span style=\"font-weight: 400;\">Станция создана для безопасной работы с порошком в закрытой системе:</span>\r\n<ul class=\"\">\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">отрицательное давление</span><span style=\"font-weight: 400;\">\r\n</span></li>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">подача свежего воздуха</span><span style=\"font-weight: 400;\">\r\n</span></li>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">герметичная камера</span><span style=\"font-weight: 400;\">\r\n</span></li>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">автоматическое удаление порошка</span><span style=\"font-weight: 400;\">\r\n</span></li>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">возврат и смешивание материала</span><span style=\"font-weight: 400;\">\r\n</span></li>\r\n</ul>\r\n<span style=\"font-weight: 400;\">Для SLS-процессов это особенно критично, и здесь TPM3D делает действительно технологически зрелый шаг.</span>\r\n<h2><b>Новые решения по постобработке</b></h2>\r\n<span style=\"font-weight: 400;\">TPM3D также представит обновлённую станцию PPS V3:</span>\r\n<ul class=\"\">\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">на 20% компактнее</span><span style=\"font-weight: 400;\">\r\n</span></li>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">на 90% меньше потребление сжатого воздуха</span><span style=\"font-weight: 400;\">\r\n</span></li>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">на 50% выше эффективность удаления порошка</span><span style=\"font-weight: 400;\">\r\n</span></li>\r\n</ul>\r\n<span style=\"font-weight: 400;\">При этом одна станция способна обслуживать сразу два крупноформатных принтера — что значительно снижает нагрузку на операторов.</span>\r\n<p class=\"\">&nbsp;</p>\r\n\r\n<h2 class=\"\"><b>Материалы: расширение возможностей SLS</b></h2>\r\n<p class=\"\"><span style=\"font-weight: 400;\">Компания также использует Formnext 2025 как площадку для презентации новых полимерных материалов:</span></p>\r\n\r\n<h3 class=\"\"><b>Precimid 1190</b></h3>\r\n<ul>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">удлинение при разрыве: </span><b>280%</b><b>\r\n</b></li>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">высокая гибкость, подходит для медицинских изделий и носимых продуктов</span>&nbsp;</li>\r\n</ul>\r\n<h3 class=\"\"><b>Precimid 1174Pro CF 12</b></h3>\r\n<ul class=\"\">\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">армирование углеродным волокном</span><span style=\"font-weight: 400;\">\r\n</span></li>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">высокая жёсткость и термостойкость</span><span style=\"font-weight: 400;\">\r\n</span></li>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">применение: детали дронов, нагруженные элементы, высокотемпературные среды</span><span style=\"font-weight: 400;\">\r\n</span></li>\r\n</ul>\r\n<p class=\"\"><img class=\"alignnone wp-image-3468\" src=\"https://am-tech.ru/wp-content/uploads/2025/11/tpm3d_processingstation-300x171.jpg\" alt=\"\" width=\"755\" height=\"431\"></p>\r\n\r\n<h2><b>Заключение AM.TECH</b></h2>\r\n<p class=\"\"><span style=\"font-weight: 400;\">Как производитель оборудования по технологии </span><b>SLM</b><span style=\"font-weight: 400;\">, мы видим в новых разработках TPM3D важный отраслевой тренд: </span><b>аддитивные технологии становятся компактнее, безопаснее и доступнее</b><span style=\"font-weight: 400;\">, при этом сохраняя промышленный уровень качества.</span><span style=\"font-weight: 400;\">\r\n</span><span style=\"font-weight: 400;\"> Это направление развития полностью коррелирует с тем, что происходит и на рынке металлопечати: спрос растёт, а пользователь ожидает простоты интеграции, стабильности результата и автоматизации всех этапов.</span></p>\r\n<span style=\"font-weight: 400;\">Компактные решения в SLS-печати открывают новые возможности для предприятий, R&amp;D-центров и компаний, которые делают первые шаги в цифровом производстве. Для нас, как для разработчика оборудования на металле, такие тенденции подтверждают общее движение отрасли: </span><b>аддитивные технологии становятся стандартом современного производства</b><span style=\"font-weight: 400;\">, а не экспериментальной опцией.</span>\r\n<p class=\"\">Источник: <a href=\"https://i3d.ru/news/tpm3d-predstavit-novyy-professionalnyy-sls-3d-printer-na-formnext-2025/\">https://i3d.ru/news/tpm3d-predstavit-novyy-professionalnyy-sls-3d-printer-na-formnext-202</a>&nbsp;&nbsp;</p>\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+  "rendered": "<div class=\"boldgrid-section\">\n<div class=\"container\">\n<div class=\"row\">\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\n<p class=\"\"><span style=\"font-weight: 400;\">Как российский производитель промышленного оборудования по технологии </span><b>SLM</b><span style=\"font-weight: 400;\">, мы в AM.TECH внимательно следим за ключевыми тенденциями мировой аддитивной индустрии. В последние годы технология SLS прочно закрепилась в сегменте полимерной 3D-печати благодаря своей универсальности, высокой производительности и качеству деталей. Однако даже в 2025 году перед этим направлением остаются хорошо известные вызовы: сложность обращения с порошком, безопасность рабочих процессов, стабильность качества и сложность смены материала.</span></p>\n<p class=\"\"><span style=\"font-weight: 400;\">Именно эти критические моменты сегодня становятся точками роста. И один из ярких примеров — новая компактная серия SLS-оборудования компании </span><b>TPM3D</b><span style=\"font-weight: 400;\">, премьера которой состоится на Formnext 2025.</span></p>\n<p>&nbsp;</p>\n<p class=\"\"><img loading=\"lazy\" decoding=\"async\" fetchpriority=\"high\" decoding=\"async\" class=\"wp-image-3466 alignnone\" src=\"https://am-tech.ru/wp-content/uploads/2025/11/tpm3d_cover_cf200-300x176.jpg\" alt=\"Взгляд AM.TECH на новые разработки в SLS-печати: компактные решения TPM3D и их влияние на рынок - Новости - AM-Tech\" width=\"728\" height=\"427\" srcset=\"https://am-tech.ru/wp-content/uploads/2025/11/tpm3d_cover_cf200-300x176.jpg 300w, https://am-tech.ru/wp-content/uploads/2025/11/tpm3d_cover_cf200-768x452.jpg 768w, https://am-tech.ru/wp-content/uploads/2025/11/tpm3d_cover_cf200-600x353.jpg 600w, https://am-tech.ru/wp-content/uploads/2025/11/tpm3d_cover_cf200.jpg 850w\" sizes=\"(max-width: 728px) 100vw, 728px\" />&nbsp;</p>\n<h2 class=\"\"><b>Компактная серия TPM3D: шаг к более безопасной и доступной SLS-печати</b></h2>\n<p><span style=\"font-weight: 400;\">TPM3D в течение многих лет остаётся одним из ключевых игроков в сегменте полимерной SLS-печати. В этом году компания делает стратегически важный шаг — вывод компактной линейки оборудования, ориентированной на R&amp;D и малосерийное производство.</span></p>\n<p><span style=\"font-weight: 400;\">На Formnext 2025 TPM3D представит два устройства, которые должны упростить внедрение SLS-печати в компании со средними и малыми производственными мощностями:</span></p>\n<ul class=\"\">\n<li style=\"font-weight: 400;\"><b>SLS-принтер CF200</b><b><br />\n</b></li>\n<li style=\"font-weight: 400;\"><b>Станция обработки порошка PPS200</b><b><br />\n</b></li>\n</ul>\n<p class=\"\"><span style=\"font-weight: 400;\">Показ новинок состоялся 18 ноября на Technology Stage.</span></p>\n<h2 class=\"\"><b>Ключевые особенности CF200 и PPS200: взгляд производителя металлопечати</b></h2>\n<p class=\"\"><span style=\"font-weight: 400;\">С позиции компании AM.TECH, которая ежедневно работает с высокоточными порошковыми материалами в SLM-процессах, мы особенно ценим продуманные решения, направленные на безопасность и чистоту рабочих процессов. У новой серии TPM3D видно чёткое стремление к тому же.</span></p>\n<p class=\"\"><img loading=\"lazy\" decoding=\"async\" decoding=\"async\" class=\"alignnone wp-image-3467\" src=\"https://am-tech.ru/wp-content/uploads/2025/11/tpm3d-300x171.jpg\" alt=\"Взгляд AM.TECH на новые разработки в SLS-печати: компактные решения TPM3D и их влияние на рынок - Новости - AM-Tech\" width=\"755\" height=\"430\" srcset=\"https://am-tech.ru/wp-content/uploads/2025/11/tpm3d-300x171.jpg 300w, https://am-tech.ru/wp-content/uploads/2025/11/tpm3d-600x343.jpg 600w, https://am-tech.ru/wp-content/uploads/2025/11/tpm3d.jpg 700w\" sizes=\"(max-width: 755px) 100vw, 755px\" /></p>\n<h3 class=\"\"><b>Компактность и интеграция</b></h3>\n<p class=\"\"><span style=\"font-weight: 400;\">Оба устройства занимают менее 1 м², что существенно снижает порог входа для лабораторий, офисов и учебных центров, где невозможна установка крупного промышленного комплекса.</span><span style=\"font-weight: 400;\"><br />\n</span><span style=\"font-weight: 400;\"> Для SLS это действительно важный шаг.</span></p>\n<h3 class=\"\"><b>Работа от стандартной сети</b></h3>\n<p class=\"\"><span style=\"font-weight: 400;\">Оборудование работает от обычной розетки 220 В — это серьёзное упрощение для тех, кто только начинает работать с полимерными порошками или хочет протестировать технологию в R&amp;D-режиме.</span></p>\n<h3><b>Принтер CF200</b></h3>\n<ul class=\"\">\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Камера: </span><b>200 × 200 × 320 мм</b><b><br />\n</b></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Новый 30-ваттный волоконный лазер</span><span style=\"font-weight: 400;\"><br />\n</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Поддержка PA11, PA12, TPU</span><span style=\"font-weight: 400;\"><br />\n</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Верхняя загрузка порошка</span><span style=\"font-weight: 400;\"><br />\n</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Цель — максимальная простота и надёжность</span>&nbsp;</li>\n</ul>\n<h3 class=\"\"><b>Станция PPS200</b></h3>\n<p><span style=\"font-weight: 400;\">Станция создана для безопасной работы с порошком в закрытой системе:</span></p>\n<ul class=\"\">\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">отрицательное давление</span><span style=\"font-weight: 400;\"><br />\n</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">подача свежего воздуха</span><span style=\"font-weight: 400;\"><br />\n</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">герметичная камера</span><span style=\"font-weight: 400;\"><br />\n</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">автоматическое удаление порошка</span><span style=\"font-weight: 400;\"><br />\n</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">возврат и смешивание материала</span><span style=\"font-weight: 400;\"><br />\n</span></li>\n</ul>\n<p><span style=\"font-weight: 400;\">Для SLS-процессов это особенно критично, и здесь TPM3D делает действительно технологически зрелый шаг.</span></p>\n<h2><b>Новые решения по постобработке</b></h2>\n<p><span style=\"font-weight: 400;\">TPM3D также представит обновлённую станцию PPS V3:</span></p>\n<ul class=\"\">\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">на 20% компактнее</span><span style=\"font-weight: 400;\"><br />\n</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">на 90% меньше потребление сжатого воздуха</span><span style=\"font-weight: 400;\"><br />\n</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">на 50% выше эффективность удаления порошка</span><span style=\"font-weight: 400;\"><br />\n</span></li>\n</ul>\n<p><span style=\"font-weight: 400;\">При этом одна станция способна обслуживать сразу два крупноформатных принтера — что значительно снижает нагрузку на операторов.</span></p>\n<p class=\"\">&nbsp;</p>\n<h2 class=\"\"><b>Материалы: расширение возможностей SLS</b></h2>\n<p class=\"\"><span style=\"font-weight: 400;\">Компания также использует Formnext 2025 как площадку для презентации новых полимерных материалов:</span></p>\n<h3 class=\"\"><b>Precimid 1190</b></h3>\n<ul>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">удлинение при разрыве: </span><b>280%</b><b><br />\n</b></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">высокая гибкость, подходит для медицинских изделий и носимых продуктов</span>&nbsp;</li>\n</ul>\n<h3 class=\"\"><b>Precimid 1174Pro CF 12</b></h3>\n<ul class=\"\">\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">армирование углеродным волокном</span><span style=\"font-weight: 400;\"><br />\n</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">высокая жёсткость и термостойкость</span><span style=\"font-weight: 400;\"><br />\n</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">применение: детали дронов, нагруженные элементы, высокотемпературные среды</span><span style=\"font-weight: 400;\"><br />\n</span></li>\n</ul>\n<p class=\"\"><img loading=\"lazy\" decoding=\"async\" decoding=\"async\" class=\"alignnone wp-image-3468\" src=\"https://am-tech.ru/wp-content/uploads/2025/11/tpm3d_processingstation-300x171.jpg\" alt=\"Взгляд AM.TECH на новые разработки в SLS-печати: компактные решения TPM3D и их влияние на рынок - Новости - AM-Tech\" width=\"755\" height=\"431\" srcset=\"https://am-tech.ru/wp-content/uploads/2025/11/tpm3d_processingstation-300x171.jpg 300w, https://am-tech.ru/wp-content/uploads/2025/11/tpm3d_processingstation-600x343.jpg 600w, https://am-tech.ru/wp-content/uploads/2025/11/tpm3d_processingstation.jpg 700w\" sizes=\"(max-width: 755px) 100vw, 755px\" /></p>\n<h2><b>Заключение AM.TECH</b></h2>\n<p class=\"\"><span style=\"font-weight: 400;\">Как производитель оборудования по технологии </span><b>SLM</b><span style=\"font-weight: 400;\">, мы видим в новых разработках TPM3D важный отраслевой тренд: </span><b>аддитивные технологии становятся компактнее, безопаснее и доступнее</b><span style=\"font-weight: 400;\">, при этом сохраняя промышленный уровень качества.</span><span style=\"font-weight: 400;\"><br />\n</span><span style=\"font-weight: 400;\"> Это направление развития полностью коррелирует с тем, что происходит и на рынке металлопечати: спрос растёт, а пользователь ожидает простоты интеграции, стабильности результата и автоматизации всех этапов.</span></p>\n<p><span style=\"font-weight: 400;\">Компактные решения в SLS-печати открывают новые возможности для предприятий, R&amp;D-центров и компаний, которые делают первые шаги в цифровом производстве. Для нас, как для разработчика оборудования на металле, такие тенденции подтверждают общее движение отрасли: </span><b>аддитивные технологии становятся стандартом современного производства</b><span style=\"font-weight: 400;\">, а не экспериментальной опцией.</span></p>\n<p class=\"\">Источник: <a href=\"https://i3d.ru/news/tpm3d-predstavit-novyy-professionalnyy-sls-3d-printer-na-formnext-2025/\">https://i3d.ru/news/tpm3d-predstavit-novyy-professionalnyy-sls-3d-printer-na-formnext-202</a>&nbsp;&nbsp;</p>\n</div>\n</div>\n</div>\n</div>\n",
+  "protected": false,
+  "block_version": 0
+ },
+ "excerpt": {
+  "raw": "",
+  "rendered": "<p>Как российский производитель промышленного оборудования по технологии SLM, мы в AM.TECH внимательно следим за ключевыми тенденциями мировой аддитивной индустрии. В последние годы технология SLS прочно закрепилась в сегменте полимерной 3D-печати благодаря своей универсальности, высокой производительности и качеству деталей. Однако даже в 2025 году перед этим направлением остаются хорошо известные вызовы: сложность обращения с порошком, безопасность [&hellip;]</p>\n",
+  "protected": false
+ },
+ "author": 5,
+ "featured_media": 3466,
+ "comment_status": "open",
+ "ping_status": "closed",
+ "template": "",
+ "meta": {
+  "_acf_changed": false,
+  "_yoast_wpseo_title": "",
+  "_yoast_wpseo_metadesc": "Профессиональный промышленный SLS 3D-принтер TPM3D CF-200 и станция PPS200. Компактное решение для офиса и лаборатории. Печать из PA11, PA12, TPU. Представлены на Formnext 2025.",
+  "_yoast_wpseo_meta-robots-noindex": ""
+ },
+ "news_category": [
+  970
+ ],
+ "news_tag": [
+  1232,
+  1240
+ ],
+ "permalink_template": "https://am-tech.ru/news/%pagename%/",
+ "generated_slug": "vzgljad-am-tech-na-novye-razrabotki-v-sls-pechati-kompaktnye-reshenija-tpm3d-i-ih-vlijanie-na-rynok",
+ "class_list": [
+  "post-3465",
+  "news",
+  "type-news",
+  "status-publish",
+  "has-post-thumbnail",
+  "hentry",
+  "news_category-novosti",
+  "news_tag-industrija-additivnyh-tehnologij",
+  "news_tag-innovacii"
+ ],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Взгляд AM.TECH на новые разработки в SLS-печати: компактные решения TPM3D и их влияние на рынок - am-tech.ru</title>\n<meta name=\"description\" content=\"Профессиональный промышленный SLS 3D-принтер TPM3D CF-200 и станция PPS200. Компактное решение для офиса и лаборатории. Печать из PA11, PA12, TPU. Представлены на Formnext 2025.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/news/novyj-professionalnyj-sls-3d-printer-ot-tpm3d-na-formnext-2025/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Взгляд AM.TECH на новые разработки в SLS-печати: компактные решения TPM3D и их влияние на рынок - am-tech.ru\" />\n<meta property=\"og:description\" content=\"Профессиональный промышленный SLS 3D-принтер TPM3D CF-200 и станция PPS200. Компактное решение для офиса и лаборатории. Печать из PA11, PA12, TPU. Представлены на Formnext 2025.\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/news/novyj-professionalnyj-sls-3d-printer-ot-tpm3d-na-formnext-2025/\" />\n<meta property=\"og:site_name\" content=\"am-tech.ru\" />\n<meta property=\"article:modified_time\" content=\"2026-07-02T07:21:45+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2025/11/tpm3d_cover_cf200.jpg\" />\n\t<meta property=\"og:image:width\" content=\"850\" />\n\t<meta property=\"og:image:height\" content=\"500\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"4 минуты\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/news/novyj-professionalnyj-sls-3d-printer-ot-tpm3d-na-formnext-2025/\",\"url\":\"https://am-tech.ru/news/novyj-professionalnyj-sls-3d-printer-ot-tpm3d-na-formnext-2025/\",\"name\":\"Взгляд AM.TECH на новые разработки в SLS-печати: компактные решения TPM3D и их влияние на рынок - am-tech.ru\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/news/novyj-professionalnyj-sls-3d-printer-ot-tpm3d-na-formnext-2025/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/news/novyj-professionalnyj-sls-3d-printer-ot-tpm3d-na-formnext-2025/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2025/11/tpm3d_cover_cf200.jpg\",\"datePublished\":\"2025-11-18T10:04:42+00:00\",\"dateModified\":\"2026-07-02T07:21:45+00:00\",\"description\":\"Профессиональный промышленный SLS 3D-принтер TPM3D CF-200 и станция PPS200. Компактное решение для офиса и лаборатории. Печать из PA11, PA12, TPU. Представлены на Formnext 2025.\",\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/news/novyj-professionalnyj-sls-3d-printer-ot-tpm3d-na-formnext-2025/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/news/novyj-professionalnyj-sls-3d-printer-ot-tpm3d-na-formnext-2025/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2025/11/tpm3d_cover_cf200.jpg\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2025/11/tpm3d_cover_cf200.jpg\",\"width\":850,\"height\":500},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"am-tech.ru\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"am-tech.ru\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"am-tech.ru\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "Взгляд AM.TECH на новые разработки в SLS-печати: компактные решения TPM3D и их влияние на рынок - am-tech.ru",
+  "description": "Профессиональный промышленный SLS 3D-принтер TPM3D CF-200 и станция PPS200. Компактное решение для офиса и лаборатории. Печать из PA11, PA12, TPU. Представлены на Formnext 2025.",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/news/novyj-professionalnyj-sls-3d-printer-ot-tpm3d-na-formnext-2025/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "Взгляд AM.TECH на новые разработки в SLS-печати: компактные решения TPM3D и их влияние на рынок - am-tech.ru",
+  "og_description": "Профессиональный промышленный SLS 3D-принтер TPM3D CF-200 и станция PPS200. Компактное решение для офиса и лаборатории. Печать из PA11, PA12, TPU. Представлены на Formnext 2025.",
+  "og_url": "https://am-tech.ru/news/novyj-professionalnyj-sls-3d-printer-ot-tpm3d-na-formnext-2025/",
+  "og_site_name": "am-tech.ru",
+  "article_modified_time": "2026-07-02T07:21:45+00:00",
+  "og_image": [
+   {
+    "width": 850,
+    "height": 500,
+    "url": "https://am-tech.ru/wp-content/uploads/2025/11/tpm3d_cover_cf200.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "4 минуты"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/news/novyj-professionalnyj-sls-3d-printer-ot-tpm3d-na-formnext-2025/",
+     "url": "https://am-tech.ru/news/novyj-professionalnyj-sls-3d-printer-ot-tpm3d-na-formnext-2025/",
+     "name": "Взгляд AM.TECH на новые разработки в SLS-печати: компактные решения TPM3D и их влияние на рынок - am-tech.ru",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/news/novyj-professionalnyj-sls-3d-printer-ot-tpm3d-na-formnext-2025/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/news/novyj-professionalnyj-sls-3d-printer-ot-tpm3d-na-formnext-2025/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2025/11/tpm3d_cover_cf200.jpg",
+     "datePublished": "2025-11-18T10:04:42+00:00",
+     "dateModified": "2026-07-02T07:21:45+00:00",
+     "description": "Профессиональный промышленный SLS 3D-принтер TPM3D CF-200 и станция PPS200. Компактное решение для офиса и лаборатории. Печать из PA11, PA12, TPU. Представлены на Formnext 2025.",
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/news/novyj-professionalnyj-sls-3d-printer-ot-tpm3d-na-formnext-2025/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/news/novyj-professionalnyj-sls-3d-printer-ot-tpm3d-na-formnext-2025/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2025/11/tpm3d_cover_cf200.jpg",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2025/11/tpm3d_cover_cf200.jpg",
+     "width": 850,
+     "height": 500
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "am-tech.ru",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "am-tech.ru",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "am-tech.ru"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3465",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/types/news"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/users/5"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/comments?post=3465"
+   }
+  ],
+  "wp:featuredmedia": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/media/3466"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/media?parent=3465"
+   }
+  ],
+  "wp:term": [
+   {
+    "taxonomy": "news_category",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_category?post=3465"
+   },
+   {
+    "taxonomy": "news_tag",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_tag?post=3465"
+   }
+  ],
+  "wp:action-publish": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3465"
+   }
+  ],
+  "wp:action-unfiltered-html": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3465"
+   }
+  ],
+  "wp:action-assign-author": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3465"
+   }
+  ],
+  "wp:action-create-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3465"
+   }
+  ],
+  "wp:action-assign-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3465"
+   }
+  ],
+  "wp:action-create-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3465"
+   }
+  ],
+  "wp:action-assign-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3465"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

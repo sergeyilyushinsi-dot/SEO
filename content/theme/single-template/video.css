@@ -1,0 +1,53 @@
+/* --- Видеообзор (single-video_reviews.php) --- */
+/* Плеер (разметку выводит display_video_post_page) */
+#amt-blog .amt-video .video-post-page{max-width:100%;margin:0;padding:0}
+#amt-blog .amt-video .vp-player-card{position:relative;border-radius:var(--amt-radius-lg);overflow:hidden;background:#0b0d12;box-shadow:0 30px 60px -28px rgba(15,23,42,.35)}
+#amt-blog .amt-video .vp-player-aspect{position:relative;width:100%;aspect-ratio:16/9}
+#amt-blog .amt-video .vp-player-aspect>.plyr,#amt-blog .amt-video .vp-player-aspect>.plyr__video-embed,#amt-blog .amt-video .vp-player-aspect video,#amt-blog .amt-video .vp-player-aspect iframe,#amt-blog .amt-video .vp-player-aspect .vp-raw-embed{position:absolute;inset:0;width:100%;height:100%;border:0}
+#amt-blog .amt-video .vp-raw-embed iframe,#amt-blog .amt-video .vp-raw-embed video{width:100%!important;height:100%!important;border:0}
+#amt-blog .amt-video .vp-empty{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;color:rgba(255,255,255,.6)}
+#amt-blog .plyr--video,#amt-blog .plyr__video-wrapper{border-radius:var(--amt-radius-lg);overflow:hidden}
+#amt-blog .plyr--full-ui input[type=range]{color:var(--amt-orange)}
+#amt-blog .plyr__control--overlaid,#amt-blog .plyr--video .plyr__control:hover{background:rgba(255,115,0,.92)}
+/* Дата и заголовок под плеером уже есть в шапке страницы */
+#amt-blog .amt-video .vp-meta,#amt-blog .amt-video .vp-title{display:none}
+#amt-blog .amt-video .vp-desc-wrap{margin-top:34px}
+#amt-blog .amt-video .vp-desc{display:block;max-height:none!important;overflow:visible}
+#amt-blog .amt-video .vp-desc::after{content:none!important}
+#amt-blog .amt-video .desc-controls,#amt-blog .amt-video .toggle-desc-btn{display:none!important}
+
+/* «Рекомендованные видео» под описанием — карточки как в блоге */
+#amt-blog .amt-video .vp-related{margin:56px 0 0;padding-top:40px;border-top:1px solid var(--amt-line)}
+#amt-blog .amt-video .vp-section-head{display:flex;align-items:baseline;justify-content:space-between;flex-wrap:wrap;gap:8px 16px;margin-bottom:24px}
+#amt-blog .amt-video .vp-section-title{margin:0;font-size:clamp(22px,2vw,28px);font-weight:600;letter-spacing:-.015em;color:var(--amt-ink)}
+#amt-blog .amt-video .vp-section-sub{font-size:13px;color:var(--amt-muted)}
+#amt-blog .amt-video .vp-related-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}
+#amt-blog .amt-video .vp-related-card{display:flex;flex-direction:column;padding:10px;border:1px solid var(--amt-line);border-radius:var(--amt-radius-lg);background:#fff;color:inherit;text-decoration:none;transition:transform .2s ease,border-color .2s ease}
+#amt-blog .amt-video .vp-related-card:hover{transform:translateY(-2px);border-color:#c8c8c2}
+#amt-blog .amt-video .vp-related-thumb{position:relative;aspect-ratio:16/9;border-radius:16px;overflow:hidden;background:#0b0d12}
+#amt-blog .amt-video .vp-related-thumb img{width:100%;height:100%;object-fit:cover;border-radius:0;margin:0}
+#amt-blog .amt-video .vp-related-play{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;color:#fff;pointer-events:none}
+#amt-blog .amt-video .vp-related-play svg{width:46px;height:46px;padding:10px;border-radius:50%;background:rgba(255,115,0,.95)}
+#amt-blog .amt-video .vp-related-tag{position:absolute;left:12px;bottom:12px;top:auto;padding:6px 10px;border-radius:999px;background:rgba(255,255,255,.92);color:#444;font-size:11px;font-weight:500;text-transform:none;letter-spacing:0}
+#amt-blog .amt-video .vp-related-body{padding:16px 8px 8px;display:flex;flex-direction:column;gap:8px;flex:1}
+#amt-blog .amt-video .vp-related-title{margin:0;font-size:17px;line-height:1.3;font-weight:600;color:var(--amt-ink)}
+#amt-blog .amt-video .vp-related-card:hover .vp-related-title{color:var(--amt-orange)}
+#amt-blog .amt-video .vp-related-excerpt{margin:0;font-size:13px;line-height:1.5;color:var(--amt-muted);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+#amt-blog .amt-video .vp-related-date{margin-top:auto;font-size:12px;color:var(--amt-muted)}
+
+/* «Из блога» ([random_blogs]) в сайдбаре */
+#amt-blog .amt-popular .vp-sidebar-title{position:static;margin:0 0 14px!important;padding:0;font-size:12px;text-transform:uppercase;letter-spacing:.08em;font-weight:700;color:var(--amt-ink)}
+#amt-blog .amt-popular .vp-sidebar-title::after{display:none}
+#amt-blog .amt-popular .vp-blogs-list{display:flex;flex-direction:column;gap:14px}
+#amt-blog .amt-popular .vp-blog-card{position:relative;display:block;border-radius:var(--amt-radius-md);overflow:hidden;background:#fff;box-shadow:none;border:1px solid var(--amt-line)}
+#amt-blog .amt-popular .vp-blog-cover{position:relative;display:block;aspect-ratio:16/10;overflow:hidden}
+#amt-blog .amt-popular .vp-blog-cover img{width:100%;height:100%;object-fit:cover}
+#amt-blog .amt-popular .vp-blog-body{display:block;padding:12px 14px 14px}
+#amt-blog .amt-popular .vp-blog-title{margin:0;font-size:14px;line-height:1.35;font-weight:600;color:var(--amt-ink)}
+#amt-blog .amt-popular .vp-blog-excerpt,#amt-blog .amt-popular .vp-blog-foot,#amt-blog .amt-popular .vp-blog-chip{display:none}
+
+@media(max-width:760px){
+  #amt-blog .amt-video .vp-related-grid{grid-template-columns:1fr}
+}
+#amt-blog .amt-video .vp-section-title{padding-left:0}
+#amt-blog .amt-video .vp-section-title::before{display:none}

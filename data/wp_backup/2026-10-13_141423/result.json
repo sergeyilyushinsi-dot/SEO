@@ -1,0 +1,22 @@
+[
+ {
+  "plan_task": 16,
+  "label": "Title (Yoast)",
+  "before_text": "3D-сканер SIMSCAN 42 - заказать у производителя с доставкой по России | AM-Tech",
+  "after_text": "3D-сканер SIMSCAN 42 — купить с доставкой по России | AM-Tech",
+  "comment": "Было 79 симв., стало 61 симв. «У производителя» убрано: в карточке страна производства — Китай",
+  "slug": "3d-skaner-simscan-42",
+  "field": "title",
+  "value": "3D-сканер SIMSCAN 42 — купить с доставкой по России | AM-Tech",
+  "row": 63,
+  "type": "product",
+  "id": 1568,
+  "url": "https://am-tech.ru/product/3d-skaner-simscan-42/",
+  "before": "3D-сканер SIMSCAN 42 - заказать у производителя с доставкой по России | AM-Tech",
+  "after": "3D-сканер SIMSCAN 42 — купить с доставкой по России | AM-Tech",
+  "saved": true,
+  "on_page": true,
+  "on_cached_page": true,
+  "status": "применено"
+ }
+]

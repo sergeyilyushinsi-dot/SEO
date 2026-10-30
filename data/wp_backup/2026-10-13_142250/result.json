@@ -1,0 +1,24 @@
+[
+ {
+  "plan_task": 32,
+  "label": "Ссылка в тексте кейса",
+  "before_text": "https://am.tech/product-category/3d-skanery/trekers/",
+  "after_text": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/",
+  "comment": "Ссылка на старый домен am.tech",
+  "type": "case",
+  "slug": "skanirovanie-i-kontrol-truboprovodnoy-armatury",
+  "field": "content",
+  "link": true,
+  "old": "https://am.tech/product-category/3d-skanery/trekers/",
+  "value": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/",
+  "row": 120,
+  "id": 2153,
+  "url": "https://am-tech.ru/cases/skanirovanie-i-kontrol-truboprovodnoy-armatury/",
+  "before": "<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n<h2>Использовался <a href=\"https://am.tech/product-category/3d-skanery/trekers/\">лазерный трекер AM.TECH TRACKSCAN</a> как универсальный прибор не требующий меток.&nbsp;</h2>\r\n<p class=\"\">Время сканирование заняло 10 мин и не более 1 часа на составление карты отклонений.&nbsp;</p>\r\nЗадача – контроль геометрии. Клиент хотел проверить есть ли отклонение от исходной детали.\r\n\r\nСканирование\r\n<p class=\"\"><img title=\"Сканирование.jpg\" src=\"/upload/medialibrary/af0/chl00g266wvbe9zu1zvr205k3ocse836.jpg\" alt=\"Сканирование.jpg\" width=\"447\" height=\"512\"></p>\r\n\r\n<h2>Наложение скана на CAD-модель</h2>\r\n<p class=\"\"><img title=\"Наложение скана на CAD-модель.png\" src=\"/upload/medialibrary/817/1wja86l8as3gk33b23txwp36q25emevv.png\" alt=\"Наложение скана на CAD-модель.png\" width=\"595\" height=\"575\"></p>\r\n\r\n<h2>Составление отчета о контроле отклонений</h2>\r\n<img title=\"Составление отчета о контроле отклонений.png\" src=\"/upload/medialibrary/075/3jzmtatllmh27zxtwj9blzpi22pn99ex.png\" alt=\"Составление отчета о контроле отклонений.png\" width=\"735\" height=\"511\">&nbsp;\r\n\r\n&nbsp;\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+  "after": "<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n<h2>Использовался <a href=\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/\">лазерный трекер AM.TECH TRACKSCAN</a> как универсальный прибор не требующий меток.&nbsp;</h2>\r\n<p class=\"\">Время сканирование заняло 10 мин и не более 1 часа на составление карты отклонений.&nbsp;</p>\r\nЗадача – контроль геометрии. Клиент хотел проверить есть ли отклонение от исходной детали.\r\n\r\nСканирование\r\n<p class=\"\"><img title=\"Сканирование.jpg\" src=\"/upload/medialibrary/af0/chl00g266wvbe9zu1zvr205k3ocse836.jpg\" alt=\"Сканирование.jpg\" width=\"447\" height=\"512\"></p>\r\n\r\n<h2>Наложение скана на CAD-модель</h2>\r\n<p class=\"\"><img title=\"Наложение скана на CAD-модель.png\" src=\"/upload/medialibrary/817/1wja86l8as3gk33b23txwp36q25emevv.png\" alt=\"Наложение скана на CAD-модель.png\" width=\"595\" height=\"575\"></p>\r\n\r\n<h2>Составление отчета о контроле отклонений</h2>\r\n<img title=\"Составление отчета о контроле отклонений.png\" src=\"/upload/medialibrary/075/3jzmtatllmh27zxtwj9blzpi22pn99ex.png\" alt=\"Составление отчета о контроле отклонений.png\" width=\"735\" height=\"511\">&nbsp;\r\n\r\n&nbsp;\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+  "saved": true,
+  "on_page": true,
+  "on_cached_page": true,
+  "status": "применено"
+ }
+]

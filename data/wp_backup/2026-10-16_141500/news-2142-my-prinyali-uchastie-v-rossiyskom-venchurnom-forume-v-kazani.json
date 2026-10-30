@@ -1,0 +1,279 @@
+{
+ "id": 2142,
+ "date": "2025-04-11T00:00:00",
+ "date_gmt": "2025-04-10T21:00:00",
+ "guid": {
+  "rendered": "http://am-tech.ru/news/my-prinyali-uchastie-v-rossiyskom-venchurnom-forume-v-kazani/",
+  "raw": "http://am-tech.ru/news/my-prinyali-uchastie-v-rossiyskom-venchurnom-forume-v-kazani/"
+ },
+ "modified": "2025-11-07T15:47:40",
+ "modified_gmt": "2025-11-07T12:47:40",
+ "password": "",
+ "slug": "my-prinyali-uchastie-v-rossiyskom-venchurnom-forume-v-kazani",
+ "status": "publish",
+ "type": "news",
+ "link": "https://am-tech.ru/news/my-prinyali-uchastie-v-rossiyskom-venchurnom-forume-v-kazani/",
+ "title": {
+  "raw": "Мы приняли участие в Российском Венчурном Форуме в Казани",
+  "rendered": "Мы приняли участие в Российском Венчурном Форуме в Казани"
+ },
+ "content": {
+  "raw": "<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n\r\nЗавершились насыщенные два дня на главной площадке венчурной индустрии страны — Российском венчурном форуме. Мы представили свои передовые разработки в области аддитивного производства и провели множество продуктивных встреч с потенциальными инвесторами и отраслевыми партнёрами. &nbsp;\r\n\r\nНа своем стенде мы представили образцы 3D-печати металлом, изготовленные с использованием различных аддитивных технологий:\r\n- SLM (Selective Laser Melting)\r\n- EBM (Electron Beam Melting)\r\n- MBJ (Metal Binder Jetting)\r\n\r\nЗа время форума мы провели ряд переговоров с представителями промышленных компаний и венчурных фондов, обсудили перспективы совместных инновационных проектов. &nbsp;\r\n<p class=\"\">Спасибо организаторам за мощную площадку для роста и взаимодействия! Вдохновлены идеями и готовностью двигаться вперёд.</p>\r\n\r\n<table style=\"border-collapse: collapse; width: 98.6395%;\" border=\"0\" data-num-cols=\"NaN\">\r\n<tbody>\r\n<tr>\r\n<td class=\"\" style=\"width: 49.7586%;\" align=\"center\"><img class=\"aligncenter\" src=\"/upload/editor_images/1744382987-IMG_7009.JPG\" alt=\"\" width=\"401\" height=\"300\"></td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+  "rendered": "<div class=\"boldgrid-section\">\n<div class=\"container\">\n<div class=\"row\">\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\n<p>Завершились насыщенные два дня на главной площадке венчурной индустрии страны — Российском венчурном форуме. Мы представили свои передовые разработки в области аддитивного производства и провели множество продуктивных встреч с потенциальными инвесторами и отраслевыми партнёрами. &nbsp;</p>\n<p>На своем стенде мы представили образцы 3D-печати металлом, изготовленные с использованием различных аддитивных технологий:<br />\n&#8212; SLM (Selective Laser Melting)<br />\n&#8212; EBM (Electron Beam Melting)<br />\n&#8212; MBJ (Metal Binder Jetting)</p>\n<p>За время форума мы провели ряд переговоров с представителями промышленных компаний и венчурных фондов, обсудили перспективы совместных инновационных проектов. &nbsp;</p>\n<p class=\"\">Спасибо организаторам за мощную площадку для роста и взаимодействия! Вдохновлены идеями и готовностью двигаться вперёд.</p>\n<table style=\"border-collapse: collapse; width: 98.6395%;\" border=\"0\" data-num-cols=\"NaN\">\n<tbody>\n<tr>\n<td class=\"\" style=\"width: 49.7586%;\" align=\"center\"><img loading=\"lazy\" decoding=\"async\" fetchpriority=\"high\" decoding=\"async\" class=\"aligncenter\" src=\"/upload/editor_images/1744382987-IMG_7009.JPG\" alt=\"Мы приняли участие в Российском Венчурном Форуме в Казани - Новости - AM-Tech\" width=\"401\" height=\"300\"></td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n</div>\n",
+  "protected": false,
+  "block_version": 0
+ },
+ "excerpt": {
+  "raw": "",
+  "rendered": "<p>Завершились насыщенные два дня на главной площадке венчурной индустрии страны — Российском венчурном форуме. Мы представили свои передовые разработки в области аддитивного производства и провели множество продуктивных встреч с потенциальными инвесторами и отраслевыми партнёрами. &nbsp; На своем стенде мы представили образцы 3D-печати металлом, изготовленные с использованием различных аддитивных технологий: &#8212; SLM (Selective Laser Melting) &#8212; [&hellip;]</p>\n",
+  "protected": false
+ },
+ "author": 1,
+ "featured_media": 2083,
+ "comment_status": "open",
+ "ping_status": "open",
+ "template": "",
+ "meta": {
+  "_acf_changed": false,
+  "_yoast_wpseo_title": "Мы приняли участие в Российском Венчурном Форуме в Казани | AM-Tech",
+  "_yoast_wpseo_metadesc": "Приняли участие в Российском Венчурном Форуме в Казани - новости компании AM-Tech",
+  "_yoast_wpseo_meta-robots-noindex": ""
+ },
+ "news_category": [
+  970,
+  1212
+ ],
+ "news_tag": [],
+ "permalink_template": "https://am-tech.ru/news/%pagename%/",
+ "generated_slug": "my-prinjali-uchastie-v-rossijskom-venchurnom-forume-v-kazani",
+ "class_list": [
+  "post-2142",
+  "news",
+  "type-news",
+  "status-publish",
+  "has-post-thumbnail",
+  "hentry",
+  "news_category-novosti",
+  "news_category-sobytija-i-vystavki"
+ ],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Мы приняли участие в Российском Венчурном Форуме в Казани | AM-Tech</title>\n<meta name=\"description\" content=\"Приняли участие в Российском Венчурном Форуме в Казани - новости компании AM-Tech\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/news/my-prinyali-uchastie-v-rossiyskom-venchurnom-forume-v-kazani/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Мы приняли участие в Российском Венчурном Форуме в Казани | AM-Tech\" />\n<meta property=\"og:description\" content=\"Приняли участие в Российском Венчурном Форуме в Казани - новости компании AM-Tech\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/news/my-prinyali-uchastie-v-rossiyskom-venchurnom-forume-v-kazani/\" />\n<meta property=\"og:site_name\" content=\"AM.TECH\" />\n<meta property=\"article:modified_time\" content=\"2025-11-07T12:47:40+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2025/04/33me355grrghoh09fhi180ctqq0rnb8d.png\" />\n\t<meta property=\"og:image:width\" content=\"700\" />\n\t<meta property=\"og:image:height\" content=\"467\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"1 минута\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/news/my-prinyali-uchastie-v-rossiyskom-venchurnom-forume-v-kazani/\",\"url\":\"https://am-tech.ru/news/my-prinyali-uchastie-v-rossiyskom-venchurnom-forume-v-kazani/\",\"name\":\"Мы приняли участие в Российском Венчурном Форуме в Казани | AM-Tech\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/news/my-prinyali-uchastie-v-rossiyskom-venchurnom-forume-v-kazani/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/news/my-prinyali-uchastie-v-rossiyskom-venchurnom-forume-v-kazani/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2025/04/33me355grrghoh09fhi180ctqq0rnb8d.png\",\"datePublished\":\"2025-04-10T21:00:00+00:00\",\"dateModified\":\"2025-11-07T12:47:40+00:00\",\"description\":\"Приняли участие в Российском Венчурном Форуме в Казани - новости компании AM-Tech\",\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/news/my-prinyali-uchastie-v-rossiyskom-venchurnom-forume-v-kazani/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/news/my-prinyali-uchastie-v-rossiyskom-venchurnom-forume-v-kazani/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2025/04/33me355grrghoh09fhi180ctqq0rnb8d.png\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2025/04/33me355grrghoh09fhi180ctqq0rnb8d.png\",\"width\":700,\"height\":467},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"AM.TECH\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"AM.TECH\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"AM.TECH\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "Мы приняли участие в Российском Венчурном Форуме в Казани | AM-Tech",
+  "description": "Приняли участие в Российском Венчурном Форуме в Казани - новости компании AM-Tech",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/news/my-prinyali-uchastie-v-rossiyskom-venchurnom-forume-v-kazani/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "Мы приняли участие в Российском Венчурном Форуме в Казани | AM-Tech",
+  "og_description": "Приняли участие в Российском Венчурном Форуме в Казани - новости компании AM-Tech",
+  "og_url": "https://am-tech.ru/news/my-prinyali-uchastie-v-rossiyskom-venchurnom-forume-v-kazani/",
+  "og_site_name": "AM.TECH",
+  "article_modified_time": "2025-11-07T12:47:40+00:00",
+  "og_image": [
+   {
+    "width": 700,
+    "height": 467,
+    "url": "https://am-tech.ru/wp-content/uploads/2025/04/33me355grrghoh09fhi180ctqq0rnb8d.png",
+    "type": "image/png"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "1 минута"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/news/my-prinyali-uchastie-v-rossiyskom-venchurnom-forume-v-kazani/",
+     "url": "https://am-tech.ru/news/my-prinyali-uchastie-v-rossiyskom-venchurnom-forume-v-kazani/",
+     "name": "Мы приняли участие в Российском Венчурном Форуме в Казани | AM-Tech",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/news/my-prinyali-uchastie-v-rossiyskom-venchurnom-forume-v-kazani/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/news/my-prinyali-uchastie-v-rossiyskom-venchurnom-forume-v-kazani/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2025/04/33me355grrghoh09fhi180ctqq0rnb8d.png",
+     "datePublished": "2025-04-10T21:00:00+00:00",
+     "dateModified": "2025-11-07T12:47:40+00:00",
+     "description": "Приняли участие в Российском Венчурном Форуме в Казани - новости компании AM-Tech",
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/news/my-prinyali-uchastie-v-rossiyskom-venchurnom-forume-v-kazani/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/news/my-prinyali-uchastie-v-rossiyskom-venchurnom-forume-v-kazani/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2025/04/33me355grrghoh09fhi180ctqq0rnb8d.png",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2025/04/33me355grrghoh09fhi180ctqq0rnb8d.png",
+     "width": 700,
+     "height": 467
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "AM.TECH",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "AM.TECH",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "AM.TECH"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2142",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/types/news"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/users/1"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/comments?post=2142"
+   }
+  ],
+  "wp:featuredmedia": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/media/2083"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/media?parent=2142"
+   }
+  ],
+  "wp:term": [
+   {
+    "taxonomy": "news_category",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_category?post=2142"
+   },
+   {
+    "taxonomy": "news_tag",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_tag?post=2142"
+   }
+  ],
+  "wp:action-publish": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2142"
+   }
+  ],
+  "wp:action-unfiltered-html": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2142"
+   }
+  ],
+  "wp:action-assign-author": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2142"
+   }
+  ],
+  "wp:action-create-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2142"
+   }
+  ],
+  "wp:action-assign-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2142"
+   }
+  ],
+  "wp:action-create-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2142"
+   }
+  ],
+  "wp:action-assign-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2142"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

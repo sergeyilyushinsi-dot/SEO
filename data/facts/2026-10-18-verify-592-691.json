@@ -1,0 +1,218 @@
+{
+ "date": "2026-10-18",
+ "what": "Независимая проверка применённых 17.10 пакетов 592–691 (5 агентов, по одному на пакет)",
+ "verified": [
+  {
+   "package": "data/wp_changes/2026-10-17-batch19-task68-meta.json (строки 592–634, задача 68), бэкап data/wp_backup/2026-10-17_213519",
+   "rows_checked": 43,
+   "ok_rows": 43,
+   "notes": "Дефектов в самом пакете не найдено. Все 43 строки видны посетителю с ?nocache и без него (из кэша), а также с мобильным UA и UA YandexBot. Старых значений нет. Все 29 URL отвечают 200 без редиректа, на каждой странице ровно один <title> и один H1. Все title ≤69 символов, AM.TECH в каждом ровно один раз, « - AM.TECH» нигде нет. Description: 147, 153 и 152 символа; номера 499 350-50-73 нет ни в одном description. og:title = title на всех страницах, все JSON-LD парсятся, в хлебных крошках и schema новые названия.\n\nAPI: копия из бэкапа плюс правки пакета (seo.wp.build_update) совпадает с текущим ответом context=edit по title, content, excerpt, всем meta, slug, status, рубрикам и template у 28 из 29 объектов. Единственное отличие — абзац о FLS10/MLS10 в SLAM-статье 4329. Это строка 680 из batch22 (задача 65), применённая позже, в 21:41:53. Проверено, что копия batch22 плюс эта правка дают ровно текущий content и что batch22 не откатил правки 633–634.\n\nКаждый old в копиях встречался 1 раз, сейчас 0 раз, value — 1 раз. wp-apply --dry-run по фрагментным строкам отвечает «нет текста» — старых фрагментов действительно нет. Разметка не вырезана: число тегов table/style/iframe/ul/ol/img на страницах не меньше, чем в content.raw.\n\nCSS SLAM-статьи: страница отрисована в Chromium (Playwright) текущей и в реконструкции «до» (h1 и прежний селектор). Computed-стили заголовка первого экрана совпадают на ширине 1280 и 390 (64/36px, вес 500, отступы 22/20, max-width 900, тот же цвет), скриншоты блока .hero совпадают пиксель в пиксель. Обычный H2 раздела — 40.96px.\n\nТри новости: ровно один H1. «Заключение» в 4141 стал H2; в 4169 повтор заголовка стоит H2, как решил клиент 17.10. Факты в новых title и description сверены с текстом записей и страниц, всё подтверждается.\n\nВ problems вынесены только три замечания вне пакета: они видны на страницах пакета, но это не регрессия. Прочее, что было до пакета, — в отчёте: пустой H2 с картинкой и title без «| AM.TECH» в 4141, HTML-комментарий со старым canonical в SLAM-статье.\n\nОтчёт: /tmp/claude-0/-home-user-SEO/f1e2734c-9a7f-57e0-ac7e-a9be67219380/scratchpad/wf20/p19/report.md. Доказательства (API, страницы, скрипты, computed-стили, скриншоты) — в той же папке p19.",
+   "problems": [
+    {
+     "url": "https://am-tech.ru/teknologii/ (и все 29 страниц пакета, включая /kscan-magic-special/)",
+     "severity": "minor",
+     "issue": "Вне пакета, не регрессия. Во всех страницах есть общий inline-скрипт — запасной блок на случай, если форма Bitrix24 не загрузилась. В нём старый телефон +7 (499) 350-50-73 и почта info@am-tech.ru вместо office@am-tech.ru. Description страниц при этом чистые.",
+     "evidence": "Скрипт начинается с «// Fallback: показываем контакты только если форма Bitrix24 не подгрузилась за 15 сек.» и содержит fb.innerHTML = '…Свяжитесь с нами напрямую:<br>' + '<a href=\"tel:+74993505073\" …>+7 (499) 350-50-73</a><br>' + '<a href=\"mailto:info@am-tech.ru\" …>info@am-tech.ru</a>'. Найден на всех 29 URL и в версии с ?nocache, и в версии из кэша.",
+     "suggested_fix": "Задача разработчику: заменить в шаблоне или сниппете WPCode телефон на +7 (495) 109-11-91 и почту на office@am-tech.ru."
+    },
+    {
+     "url": "https://am-tech.ru/video-reviews/kompanija-am-tech-zapustila-serijnoe-proizvodstvo-promyshlennyh-3d-printerov/",
+     "severity": "minor",
+     "issue": "Вне пакета, не регрессия. В других записях остались U+2024 («AM․TECH») и кириллическое «АМТ» в названиях моделей. Они выводятся в сайдбарах и блоках «Рекомендованные» на страницах пакета и в архиве /video-reviews/.",
+     "evidence": "U+2024: название и alt «Компания AM․TECH запустила серийное производство промышленных 3D-принтеров»; анонс /video-reviews/videoobzor-vystavki-rosmould-2026/ «В июне 2026 года компания AM․TECH приняла участие…»; анонс /video-reviews/definsight-mobilnoe-prilozhenie-dlja-skanirovanija/ «…3D-сканерами линейки AM․TECH…»; архив /video-reviews/ «…познакомили с 3D-принтерами AM․TECH…». Кириллица АМТ: /news/lineyka-amt-nadyezhnost-i-povtoryaemost/ «Линейка АМТ: надёжность и повторяемость»; /video-reviews/3d-printery-amt-na-vystavke-metalloobrabotka/ «3D-принтеры АМТ на выставке «Металлообработка»»; /video-reviews/zapusk-serijnogo-proizvodstva-promyshlennyh-3d-printerov-amt/ «…3D-принтеров АМТ»; анонс /news/slm-3d-printery-rossiyskogo-proizvodstva-am-tech-dlya-pechati-metallami/ «…3D принтера slm АМТ-16…». На самих страницах 615/616/622–628 U+2024 и кириллических МТ/АМТ нет.",
+     "suggested_fix": "Включить эти записи (title, excerpt, content, alt) в следующий пакет «смешение алфавитов»: AM.TECH с обычной точкой, AMT латиницей."
+    },
+    {
+     "url": "https://am-tech.ru/news/3440/ (и ещё 7 страниц пакета)",
+     "severity": "minor",
+     "issue": "Вне пакета, не регрессия. Тема или плагин при выводе подставляет автоматический alt картинок с брендом «AM-Tech» вместо AM.TECH. В content.raw этих alt нет.",
+     "evidence": "alt=\"Мышление инженера - Новости - AM-Tech\" (/news/3440/); alt=\"AM.TECH приняли участие в выставке Rosmould 2025 - 3D-печать металлами - AM-Tech\"; alt=\"Наземный лазерный сканер GLS10 - Геодезические 3D-сканеры - AM-Tech\" (SLAM-статья); /teknologii/ — 7 вхождений, /news/mezhdunarodnaya-…-metalloobrabotka-2025/ — 10. В content.raw новости 4141 у этой картинки alt=\"\".",
+     "suggested_fix": "Задача разработчику: исправить в настройках плагина или шаблона alt название сайта «AM-Tech» на «AM.TECH»."
+    }
+   ]
+  },
+  {
+   "package": "data/wp_changes/2026-10-17-batch20-task63-old-domain.json (строки 635–658 без 646, задача 63, старый домен am.tech)",
+   "rows_checked": 23,
+   "ok_rows": 23,
+   "problems": [
+    {
+     "url": "https://am-tech.ru/news/3d-skanirovanie-chto-jeto-kak-rabotaet-gde-primenjaetsja-chast-2/",
+     "severity": "minor",
+     "issue": "В статье остались 3 пустых абзаца <p>&nbsp;</p>. Они были и до пакета, правки 651–658 их не создавали и не задевали: в diff «копия → сейчас» их нет. Но в задаче для статьи было требование «нет пустых абзацев».",
+     "evidence": "Свежая и кэшированная страницы, блок .boldgrid-section: пустой <p> между «…возможностей портативных 3D-лазерных сканеров:» и <ul>; между «…Он легкий, компактный и простой в использовании.» и H2 «Отслеживающая 3D-система TrackScan…»; между «…до 0,049 мм (10,4 м3).» и H2 «Проверка пресс-форм для литья под давлением». В content.raw (id 2107) это «\\r\\n\\r\\n&nbsp;\\r\\n<ul>» и дважды «\\r\\n\\r\\n&nbsp;\\r\\n<h2>». В копии data/wp_backup/2026-10-17_213857 они на тех же местах.",
+     "suggested_fix": "Отдельный пакет, 3 фрагментные правки content записи 2107: «сканеров:\\r\\n\\r\\n&nbsp;\\r\\n<ul>» → «сканеров:\\r\\n<ul>»; «использовании.\\r\\n\\r\\n&nbsp;\\r\\n<h2>» → «использовании.\\r\\n<h2>»; «(10,4 м3).\\r\\n\\r\\n&nbsp;\\r\\n<h2>» → «(10,4 м3).\\r\\n<h2>»."
+    },
+    {
+     "url": "https://am-tech.ru/news/additivka-rasshirjaet-sfery-vlijanija/",
+     "severity": "minor",
+     "issue": "На странице пакета показан заголовок с кириллическими «АМТ» вместо латинских AMT. Это карточка другой новости (id 2115) в меняющемся блоке боковой колонки. Правки пакета тут ни при чём, но регрессия видна на странице пакета.",
+     "evidence": "Загрузка 3522 с ?nocache: <a class=\"vp-blog-card vp-blog-card--minimal\" href=\"https://am-tech.ru/news/lineyka-amt-nadyezhnost-i-povtoryaemost/\" aria-label=\"Линейка АМТ: надёжность и повторяемость\">, <span class=\"vp-blog-title\">Линейка АМТ: …</span>. Коды букв: U+0410, U+041C, U+0422. API news 2115: title.raw = «Линейка АМТ: надёжность и повторяемость», _yoast_wpseo_title = «Линейка АМТ: надёжность и повторяемость | AM.TECH». Batch18 (смешанные алфавиты) правил только «АMT-16» в тексте 2115, заголовок не правил ни один пакет. Блок случайный: на кэшированной загрузке 3522 и на 11 других страницах в этот раз его не было.",
+     "suggested_fix": "Новый пакет для записи 2115 (lineyka-amt-nadyezhnost-i-povtoryaemost): name → «Линейка AMT: надёжность и повторяемость», title (Yoast) → «Линейка AMT: надёжность и повторяемость | AM.TECH», AMT латиницей."
+    },
+    {
+     "url": "https://am-tech.ru/news/3d-skanirovanie-chto-jeto-kak-rabotaet-gde-primenjaetsja-chast-2/",
+     "severity": "minor",
+     "issue": "После пакета в статье не осталось ни одной иллюстрации. Это прямое и согласованное следствие строк 651–658: все 8 картинок были с am.tech и не отображались. Ошибкой применения это не является, но в статье на ~1100 слов о применении 3D-сканеров нет ни одного изображения.",
+     "evidence": "Число тегов в content.raw id 2107: img 8 → 0 (остальные теги без изменений). На свежей и кэшированной странице в .boldgrid-section 0 <img>, слов 1095.",
+     "suggested_fix": "Задача, не правка: добавить 2–4 изображения из медиатеки am-tech.ru (карточки KSCAN-Magic, TrackScan Sharp, AM-DESK) с alt. Если клиент пришлёт исходники снимков, загрузить их."
+    }
+   ],
+   "notes": "ИТОГ: все 23 строки применены точно, лишних изменений нет, строка 646 не применялась. Найдено 3 мелких замечания, ни одно не ошибка применения.\n\nreport.md не сохранён: среда запрещает субагенту писать файлы-отчёты. Полный отчёт ниже. Материалы проверки лежат в /tmp/claude-0/-home-user-SEO/f1e2734c-9a7f-57e0-ac7e-a9be67219380/scratchpad/wf20/p20/:\n- current/*.json — текущие объекты 12 новостей из API;\n- html/<id>-fresh.html и html/<id>-cached.html, html/meta.json — страницы и статусы;\n- diffs.txt — построчный diff «копия → сейчас»;\n- page_checks.txt — title, description, H1 и регрессии.\n\n(в) Соседний контент. Для каждой из 12 записей наложил строки пакета на копию из data/wp_backup/2026-10-17_213857 той же функцией wp.build_update и сравнил с текущим content.raw из API: совпадение байт в байт у всех 12.\n- meta целиком (Yoast title, description, noindex): без изменений у всех 12.\n- title.raw, status, slug, excerpt, featured_media, рубрики, acf: без изменений.\n- Число тегов: изменилось только <img> в 2107 (8 → 0, так и задумано).\n- (г) table, style, svg, ul/li, video/source, iframe: число не изменилось ни в одной записи.\n- Повторный wp-apply --dry-run: все 23 строки отвечают «нет ссылки/текста», то есть старых фрагментов в записях нет.\n\n(б) Техника страниц.\n- 24 загрузки (12 страниц с ?nocache и без) — 200 без редиректа (allow_redirects=False).\n- H1 ровно один везде.\n- title ≤ 70 везде (максимум 68). Пакет title и description не меняет.\n- og:title = title везде.\n- JSON-LD yoast-schema-graph разбирается везде.\n- canonical равен URL страницы, robots index, follow.\n- 0 вхождений «//am.tech», «@am.tech», «am.tech/», «[ПРОВЕРИТЬ», « - AM.TECH» и « – AM.TECH».\n- Слов со смешанным алфавитом нет.\n- Поиск через API по news, pages, cases, video_reviews и товарам: «//am.tech» и «@am.tech» на сайте не осталось нигде.\n\n(а) Построчно, свежая и кэшированная версии совпадают.\n- 635 (2143), 636 (3531), 637 (3522): <a href=\"https://am-tech.ru/\">AM.TECH</a> без rel и target, старого href нет.\n- 638 (3522): у ссылки AM.TECH нет nofollow и target. Единственная nofollow-ссылка в записи внешняя (rt-3d.ru/am-almanac.pdf), её не трогали.\n- 639 (2140, «3D-печать»), 640 (2138, «3D-печать»), 641 (2137, «3D-печати») → /katalog/promyshlennye-3d-printery-po-pechati-metallom/.\n- 642 (2137): «EBM» → …/ebm-3d-print/, соседняя «SLM» не тронута.\n- 643 (2127): «в нашем каталоге.» → /product/am-tech-trackscan-sharp-s/.\n- 644 (2139), 645 (2133), 647 (2125): «нашу почту: office@am-tech.ru», старой почты нет.\n- 648 (2137): <a href=\"mailto:office@am-tech.ru\">office@am-tech.ru</a>.\n- 649 и 650 (2151): <source src> на am-tech.ru, 1cb… (видео 600×300) и 56e… (видео 932×466), type video/mp4.\n- 651–658 (2107): <img> 0, подписи «Процесс подготовки вала…» нет, am.tech/upload нет. Все 8 стыков читаются связно, например «…потребительских товаров. Ниже мы приводим примеры…» и «…анализ результатов. AM-DESK — это…».\n- Строка «Ручные 3D-сканеры серии KSCAN — средство контроля…» стоит так во всех копиях с 13.10, это не обрывок подписи.\n- 646 НЕ применена: в 2133 «+7 (499) 281-68-92» встречается 1 раз на обеих загрузках, в content.raw изменилась только почта.\n\nНовые адреса (HEAD и GET):\n- https://am-tech.ru/: 200;\n- категория металла: 200;\n- категория ebm-3d-print: 200;\n- /product/am-tech-trackscan-sharp-s/: 200;\n- mp4 1cb…: HEAD 200 video/mp4, 51 241 191 байт; GET Range 206, сигнатура ftypisom;\n- mp4 56e…: HEAD 200 video/mp4, 12 872 583 байт; GET Range 206, ftypisom.\n\nВне пакета (только наблюдения):\n- Description меньше 120 символов на 8 из 12 страниц: шаблон «… новости компании AM.TECH». Длины: 2107 — 90, 2125 — 90, 2127 — 106, 2133 — 83, 2137 — 94, 2139 — 94, 2151 — 70, 3522 — 104.\n- Description у 2139 начинается с «Заказать технологии MBJ…», смысл странный.\n- 9 картинок в 2125 и одна в 2137 подключены по http://am-tech.ru/wp-content/uploads/… (301 на https, смешанный контент).\n- В H1 у 2139 двойной пробел: «Заводе.  Как».\n- У второго видео в 2151 атрибуты 932×466, а style «600px×300px»; так было и до пакета."
+  },
+  {
+   "package": "data/wp_changes/2026-10-17-batch21-task22-scanner-categories.json (строки 659–662, задача 22: описания 4 категорий 3D-сканеров)",
+   "rows_checked": 4,
+   "ok_rows": 0,
+   "problems": [
+    {
+     "row": 659,
+     "url": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/",
+     "severity": "critical",
+     "issue": "На телефоне (390 px) таблица в описании растягивает блок «О разделе», и весь текст описания обрезан справа. Таблица не прокручивается. На 1280 px всё в порядке.",
+     "evidence": "Замер в Playwright, 390×844: ширина #amt-about-body 1617 px, правый край абзацев 1632 px, таблица 1615 px, у обёртки .table-responsive computed overflow-x: hidden. У html/body overflow-x: clip, поэтому всё правее 390 px не видно. Виновные правила CSS: 1) тема (autoptimize_single_97525dda…php): @media (max-width:768px){.table-responsive{overflow:hidden !important}}; 2) плагин post-and-page-builder (editor-fe.min.css): @media (max-width:767px){.table-responsive>.table>tbody>tr>td{white-space:nowrap}}; 3) сетка #amt-pcat .amt-about, у ячейки min-width:auto. Такую же поломку 16.10 исправили на SLM (строка 343), в этот пакет исправление не перенесли.",
+     "suggested_fix": "Фрагментная правка body: old «<div class=\"table-responsive\">» → value «<div style=\"overflow:auto;width:0;min-width:100%\">». Проверено подстановкой в DOM: на 390 px блок 360 px, таблица 578 px прокручивается вбок; на 1280 px без изменений. Черновик: /tmp/claude-0/-home-user-SEO/f1e2734c-9a7f-57e0-ac7e-a9be67219380/scratchpad/wf20/p21/fix-mobile-table-draft.json, dry-run прошёл без ошибок. После записи сверить в API, что атрибут style сохранился. Задача разработчику на причину в теме: overflow-x:auto вместо overflow:hidden!important и #amt-pcat .amt-about>div{min-width:0}."
+    },
+    {
+     "row": 660,
+     "url": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/",
+     "severity": "critical",
+     "issue": "На телефоне (390 px) описание обрезано справа: таблица из 6 колонок растягивает блок до 1237 px. Таблица не прокручивается.",
+     "evidence": "Playwright, 390 px: #amt-about-body 1237 px, правый край абзацев 1252 px, таблица 1235 px, overflow-x обёртки hidden, у ячеек white-space nowrap. Снимок shots/3d-scan-table-viewport-390.png: видны обрезанные «Системы с оптическим тре…», «Nimbl…», «0,025 (0,020 — только с…»; прокрутки нет.",
+     "suggested_fix": "Та же правка обёртки, что в строке 659: style=\"overflow:auto;width:0;min-width:100%\" без класса table-responsive. Проверено: блок 360 px, таблица 604 px прокручивается."
+    },
+    {
+     "row": 661,
+     "url": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/ruchnye-3d-skanery/",
+     "severity": "critical",
+     "issue": "На телефоне (390 px) описание обрезано справа: таблица 12 моделей растягивает блок до 1082 px. Таблица не прокручивается.",
+     "evidence": "Playwright, 390 px: #amt-about-body 1082 px, правый край абзацев 1097 px, таблица 1080 px, overflow-x обёртки hidden. Снимок shots/ruchnye-3d-skanery-table-viewport-390.png: обрезаны «ИК-лазер, ИК-структурирo…», «Модели SIMSCAN, KSCAN и 3DeVOK внесены…», «Как выбрать ручной скане…».",
+     "suggested_fix": "Та же правка обёртки. Проверено: блок 360 px, таблица 620 px прокручивается."
+    },
+    {
+     "row": 662,
+     "url": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/lazernye-3d-skanery/",
+     "severity": "critical",
+     "issue": "На телефоне (390 px) описание обрезано справа: таблица лазерных режимов растягивает блок до 1606 px. Таблица не прокручивается.",
+     "evidence": "Playwright, 390 px: #amt-about-body 1606 px, правый край абзацев 1621 px, таблица 1604 px, overflow-x обёртки hidden, у ячеек white-space nowrap.",
+     "suggested_fix": "Та же правка обёртки. Проверено: блок 360 px, таблица 630 px прокручивается."
+    },
+    {
+     "url": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/geodesicheskie-3d-scaneri/",
+     "severity": "major",
+     "issue": "ВНЕ ПАКЕТА 659–662, причина та же. Описание геодезических сканеров (batch22, задача 65) обрезано не только на телефоне, но и на компьютере. У SLA и керамики (batch23) та же обёртка без стиля. На SLM (строка 343) таблица на телефоне обрезана без прокрутки.",
+     "evidence": "Playwright: geodesicheskie на 390 px — блок 1810 px; на 1280 px — блок 890 px с правым краем 1350 px при ширине экрана 1280, то есть 70 px текста не видно. В API описания geodesicheskie, sla-3d-printery и 3d-print-keramika обёртка «<div class=\"table-responsive\">» без style. slm-3d-printeri: «<div class=\"table-responsive\" style=\"width:0;min-width:100%\">», на 390 px блок 360 px, но у обёртки overflow hidden: scrollWidth 830 при clientWidth 358, таблица обрезана.",
+     "suggested_fix": "Включить эти категории в ту же правку обёртки (без класса, style=\"overflow:auto;width:0;min-width:100%\") или исправить CSS темы через разработчика."
+    },
+    {
+     "url": "https://am-tech.ru/product/3d-skaner-3devok-mt/",
+     "severity": "minor",
+     "issue": "Пакет это не менял, но на страницах пакета видно: в названии карточки 3DeVOK «МТ» написано кириллицей. Текст пакета пишет модель латиницей «3DeVOK MT» и ссылается на эту карточку.",
+     "evidence": "API, товар 1680: name «3D-сканер 3DeVOK МТ» (М, Т — кириллица), _yoast_wpseo_title «3D-сканер 3DeVOK МТ — купить с доставкой по России | AM.TECH», description тоже с кириллицей. Название выводится в сетке товаров и в alt «3D-сканер 3DeVOK МТ - 3D-сканеры - AM-Tech» на страницах 3d-scan, ruchnye и lazernye. H1 карточки: «3D-сканер 3DeVOK МТ».",
+     "suggested_fix": "Пакет на карточку: name, title и description с латинскими MT (с подтверждением клиента)."
+    },
+    {
+     "url": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/ruchnye-3d-skanery/",
+     "severity": "minor",
+     "issue": "H1 категорий не по правилу «3D-сканер»: «3d» строчными и без дефиса. То же название повторяется в H2 блока «О разделе». Пакет менял только body.",
+     "evidence": "H1 на страницах: «Ручные 3d сканеры», «Лазерные 3d сканеры», «Промышленные 3D сканеры: оборудование для реверс-инжиниринга и контроля качества». Тот же текст в h2.amt-title--section в #amt-about.",
+     "suggested_fix": "Отдельный пакет на поле name категорий 1272, 1273, 1208: «Ручные 3D-сканеры», «Лазерные 3D-сканеры», «Промышленные 3D-сканеры…»."
+    },
+    {
+     "url": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/ruchnye-3d-skanery/page/99/",
+     "severity": "minor",
+     "issue": "Проблема шаблона, была и раньше: любая /page/N/ категории отвечает 200 и показывает полную копию страницы с новым текстом, canonical указывает на сам URL, стоит index.",
+     "evidence": "/ruchnye-3d-skanery/page/2/ и /page/99/: 200, те же 12 товаров, about 691 слово, canonical указывает на сам URL, robots «index, follow». Так же у /3d-scan/page/2/ и /vysokotochnye-promyshlennye-3d-skanery/page/2/. В product_cat-sitemap.xml этих URL нет.",
+     "suggested_fix": "Задача разработчику: 404 для страниц за пределами пагинации или canonical на первую страницу."
+    },
+    {
+     "url": "https://am-tech.ru/cases/skanirovanie-i-kontrol-truboprovodnoy-armatury/",
+     "severity": "minor",
+     "issue": "Кейс, на который ссылается текст 3d-scan, называет TrackScan лазерным трекером. Это противоречит ответу клиента 17.10 (оптическая система слежения). Сам текст пакета формулирует верно.",
+     "evidence": "H1 кейса: «Сканирование и контроль трубопроводной арматуры лазерным трекером»; в тексте: «Использовался лазерный трекер AM.TECH TRACKSCAN как универсальный прибор не требующий меток».",
+     "suggested_fix": "Добавить кейс в задачу 66 (трекеры — оптические системы слежения)."
+    },
+    {
+     "url": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/",
+     "severity": "minor",
+     "issue": "Проблема шаблона: FAQ в описании есть, а разметки FAQPage нет. Блок «Инженерный подбор» даёт почту sales@, а текст — office@am-tech.ru.",
+     "evidence": "yoast-schema-graph: CollectionPage, ImageObject, BreadcrumbList, WebSite, Organization, FAQPage нет ни на одной из 4 страниц. В #amt-consult: «+7 (495) 109 11 91 sales@am-tech.ru», в описании: «office@am-tech.ru».",
+     "suggested_fix": "Задачи разработчику: FAQPage для блока FAQ, единая почта в шаблоне по ответу клиента 16.10 (office@am-tech.ru)."
+    }
+   ],
+   "notes": "Подробный отчёт report.md в /tmp/claude-0/-home-user-SEO/f1e2734c-9a7f-57e0-ac7e-a9be67219380/scratchpad/wf20/p21/ я не сохранил: среда запретила субагенту писать файлы отчётов. Все выводы — здесь.\n\nЧто применилось точно (по всем 4 строкам):\n- В API description побайтно равен value пакета. Черновики content/categories/*-2026-10-16.html совпадают со значением, кроме завершающего \\n. html_description=true.\n- На странице (с ?nocache и без) текст #amt-about-body совпадает с value после нормализации wptexturize: 6455 / 5045 / 4343 / 4798 символов. Число тегов каждого вида тоже совпадает: table, thead, tbody, tr, th, td, h2, h3, ul, li, strong, a, div. HTML корректный, пустых тегов и &nbsp; нет.\n- Сравнил копию из data/wp_backup/2026-10-17_214126 с текущим API: изменился только description. name, slug, parent, count, meta, acf, yoast_seo, yoast_head и yoast_head_json не изменились. В старых описаниях не было ссылок, картинок и таблиц.\n- Старого текста у 3d-scan на странице нет (0 из 6 фраз). У vysokotochnye остались только разделы, которые пакет сохранил намеренно; «3д сканер промышленный» и isSelectedEnd убраны.\n- Все страницы: 200, без редиректа, canonical указывает на сам URL, index, ровно один H1. title 64/54/42/44, description 155/155/148/146, теги не дублируются. og:title совпадает с title. JSON-LD yoast-schema-graph разбирается.\n- В текстах и на страницах 0 вхождений «[ПРОВЕРИТЬ», « - AM.TECH», «КИМ», «координатн», «лазерный трекер», «3д». В текстах пакета нет кириллицы в моделях.\n- 58 ссылок внутри текстов: все 200, без редиректа, canonical указывает на сам URL, ведут на существующие карточки, категории, кейсы, статью, видео и /leasing/.\n- Цифры кейсов (отливка, арматура, авиастроение) сверил по страницам — совпадают. Таблицы сверил с атрибутами карточек — совпадают; «—» стоят намеренно.\n- FAQ внутри свёрнутого блока (max-height 420 px). Кнопка «Читать полностью» работает: после раскрытия видны все H2/H3, включая FAQ. На vysokotochnye клик Playwright перехватил всплывающий баннер ПП 719, поэтому раскрыл через JS.\n- На 1280 px всё отображается правильно.\n\nГлавная проблема — мобильная вёрстка. Подробности в problems 659–662. Ту же поломку 16.10 нашли и исправили на SLM (batch12, строка 343), но в batch21 это не перенесли. При этом и на SLM исправление неполное: тема ставит .table-responsive{overflow:hidden!important} при ширине ≤768 px, поэтому таблица обрезается, а не прокручивается. Рабочий вариант — убрать класс и поставить inline style=\"overflow:auto;width:0;min-width:100%\". Я проверил его подстановкой в DOM на всех 4 страницах при 390 и 1280 px. WordPress сохраняет атрибут style с width и min-width (на SLM он сохранился), overflow есть в safe_style_css. После записи всё равно сверить style в API: wp-apply считает только теги.\n\nПочему автопроверка пропустила: on_page для body ищет только первые 12 слов, markup_lost считает только теги, отрисовку на телефоне никто не проверяет.\n\nok_rows=0 не означает, что запись не прошла: текст применён правильно. Но все 4 строки ломают страницу на телефоне.\n\nФайлы:\n- черновик исправления (dry-run прошёл без ошибок): /tmp/claude-0/-home-user-SEO/f1e2734c-9a7f-57e0-ac7e-a9be67219380/scratchpad/wf20/p21/fix-mobile-table-draft.json\n- снимки: /tmp/claude-0/-home-user-SEO/f1e2734c-9a7f-57e0-ac7e-a9be67219380/scratchpad/wf20/p21/shots/ (ruchnye-3d-skanery-table-viewport-390.png, 3d-scan-table-viewport-390.png, *-expanded-fixV3-390.png)\n- замеры: /tmp/claude-0/-home-user-SEO/f1e2734c-9a7f-57e0-ac7e-a9be67219380/scratchpad/wf20/p21/mobile.json, /tmp/claude-0/-home-user-SEO/f1e2734c-9a7f-57e0-ac7e-a9be67219380/scratchpad/wf20/p21/variants.json\n- проверка ссылок: /tmp/claude-0/-home-user-SEO/f1e2734c-9a7f-57e0-ac7e-a9be67219380/scratchpad/wf20/p21/links.json\n- выгрузки API и HTML страниц: /tmp/claude-0/-home-user-SEO/f1e2734c-9a7f-57e0-ac7e-a9be67219380/scratchpad/wf20/p21/api/ и /tmp/claude-0/-home-user-SEO/f1e2734c-9a7f-57e0-ac7e-a9be67219380/scratchpad/wf20/p21/pages/\n\nНа сайт ничего не записано. Git-репозиторий без изменений. Google Таблицу не трогал."
+  },
+  {
+   "package": "/home/user/SEO/data/wp_changes/2026-10-17-batch22-task65-slam-geodesy.json (строки 663–681, задача 65)",
+   "rows_checked": 19,
+   "ok_rows": 19,
+   "problems": [
+    {
+     "row": 677,
+     "url": "https://am-tech.ru/product/lazernyj-geodezicheskij-skaner-mls10/",
+     "severity": "minor",
+     "issue": "Вкладки «Характеристики» и «Преимущества» пустые на всех 4 карточках (MLS10, FLS10, GLS10, GLS1000). Сверить таблицу категории с вкладкой нельзя: таблица — единственное место, где посетитель видит эти цифры. Было и до пакета (обход 16.10), не регрессия.",
+     "evidence": "<div id=\"characteristics\" class=\"tab-pane\"><div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\"><h2>Лазерный SLAM-сканер MLS10 - Характеристики</h2></div></div> — внутри только H2. Так же на /lazernyj-geodezicheskij-skaner-fls10/, -gls10/ и -gls1000/. Значения есть только в meta_data API: «Скорость сканирования, точек/сек» => 320 000 и т. д.",
+     "suggested_fix": "Разработчику: выводить мета-поля характеристик (импорт из Bitrix) во вкладке «Характеристики» или завести атрибуты WooCommerce (бриф geodezicheskie-skanery-slam-2026-10-16.md, п. 9)."
+    },
+    {
+     "row": 663,
+     "url": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/geodesicheskie-3d-scaneri/",
+     "severity": "minor",
+     "issue": "Шаблонный alt изображений товаров в плитках пишет бренд как «AM-Tech» с разделителем « - ». Новые названия туда подставились, а бренд остался неправильным. Это шаблон, а не правка пакета.",
+     "evidence": "alt=\"Лазерный SLAM-сканер FLS10 - Геодезические 3D-сканеры - AM-Tech\", alt=\"Наземный лазерный сканер GLS1000 - Геодезические 3D-сканеры - AM-Tech\". «AM-Tech» встречается на категории 4 раза, на карточке MLS10 3 раза, на новости о SLAM 4 раза.",
+     "suggested_fix": "Разработчику: в шаблоне alt плиток товаров заменить «AM-Tech» на «AM.TECH», можно убрать хвост « - Категория - бренд»."
+    },
+    {
+     "row": 671,
+     "url": "https://am-tech.ru/product/lazernyj-geodezicheskij-skaner-gls10/",
+     "severity": "minor",
+     "issue": "У GLS10 и GLS1000 первое предложение описания осталось с «am-tech.ru» вместо бренда AM.TECH и с «3D сканер» без дефиса. Оно видно в карточке, в плитках категории и карточек и в Product.description (JSON-LD). Пакет первое предложение у GLS-моделей не правил.",
+     "evidence": "GLS10: «Цифровой 3D сканер am-tech.ru GLS10 — это наземный лазерный сканер предназначенный…». GLS1000 (https://am-tech.ru/product/lazernyj-geodezicheskij-skaner-gls1000/): «3D сканер am-tech.ru GLS1000 — это профессиональный наземный лазерный сканер…». Те же строки в плитках /geodesicheskie-3d-scaneri/ и в JSON-LD Product.description.",
+     "suggested_fix": "Отдельной правкой (задача о бренде, бриф п. 9): «Наземный лазерный сканер AM.TECH GLS10 предназначен для…» и «Наземный лазерный сканер AM.TECH GLS1000 разработан для профессиональных геодезических измерений…»."
+    },
+    {
+     "row": 677,
+     "url": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/geodesicheskie-3d-scaneri/",
+     "severity": "minor",
+     "issue": "Вес GLS1000 в таблице категории («около 7») не совпадает с полем характеристик карточки («≤7»). С описанием карточки значение совпадает, то есть источники на самой карточке расходятся.",
+     "evidence": "Таблица категории: <td>около 7</td>. meta_data GLS1000: «Вес, кг.» => «≤7». Описание GLS1000: «Вес: около 7 кг».",
+     "suggested_fix": "Уточнить у клиента вместе с открытыми вопросами по GLS1000 (дальность, IP) или писать «до 7» — это не противоречит ни одному источнику."
+    },
+    {
+     "row": 680,
+     "url": "https://am-tech.ru/news/slam-skanirovanie-preimushhestva-nedostatki-i-ogranichenija/",
+     "severity": "minor",
+     "issue": "В новости FLS10 назван «мобильный геодезический», а в том же предложении MLS10 — «SLAM-сканер». Это расходится с новым типом FLS10 («Лазерный SLAM-сканер FLS10», ответ клиента 16.10). Блок .links под абзацем подписан так же.",
+     "evidence": "«В линейке AM.TECH мобильный геодезический FLS10 использует LiDAR, IMU и SLAM для записи траектории; SLAM-сканер MLS10 рассчитан на съёмку с рук или с рюкзака.» Ниже ссылка блока .links: «Мобильное геодезическое сканирование FLS10».",
+     "suggested_fix": "Фрагментом content: «мобильный геодезический <a …>FLS10</a>» → «SLAM-сканер <a …>FLS10</a>», подпись в .links — «SLAM-сканер FLS10»."
+    }
+   ],
+   "notes": "Итог: все 19 строк применены верно, ошибок от самого пакета нет. Найдено 5 мелких проблем (minor): они были на сайте раньше или стоят рядом с пакетом, но не в его строках. На сайт ничего не писалось, только GET.\n\nФайл отчёта report.md не создан: среда запретила запись файлов отчёта, поэтому всё содержание отчёта — здесь. Текущие объекты из API лежат в /tmp/claude-0/-home-user-SEO/f1e2734c-9a7f-57e0-ac7e-a9be67219380/scratchpad/wf20/p22/now-*.json, HTML страниц (с ?nocache и без) — в /tmp/claude-0/-home-user-SEO/f1e2734c-9a7f-57e0-ac7e-a9be67219380/scratchpad/wf20/p22/pages/, скрипты проверки — в /tmp/claude-0/-home-user-SEO/f1e2734c-9a7f-57e0-ac7e-a9be67219380/scratchpad/wf20/p22/scripts/.\n\n(а)+(б) Страницы, H1, title, description\n- Все 7 URL отвечают 200 без редиректа. Canonical указывает на саму страницу, robots «index, follow», на каждой ровно один H1.\n- Свежая и кэшированная версии совпадают. Отличаются только случайные блоки «другие новости» на новости и кейсе. Кэш W3TC старого содержимого не отдаёт.\n- MLS10 (663–666): H1 «Лазерный SLAM-сканер MLS10». Title 51 симв., description 135 симв. Первое предложение: «Лазерный SLAM-сканер AM.TECH MLS10 оснащен…».\n- FLS10 (667–670): H1 «Лазерный SLAM-сканер FLS10». Title 51 симв., description 133 симв. Первое предложение: «В основе функционирования SLAM-сканера FLS10 лежит технология LiDAR…».\n- GLS10 (671–673): H1 «Наземный лазерный сканер GLS10», title 55 симв., description 131 симв.\n- GLS1000 (674–676): H1 «Наземный лазерный сканер GLS1000», title 57 симв., description 133 симв.\n- Категория (678–679): title «Геодезические 3D-сканеры: SLAM и наземные — купить, цена | AM.TECH» (66 симв.), description 143 симв.\n- Старых значений нет ни в видимом тексте, ни в атрибутах.\n- Новые названия есть в видимых хлебных крошках, в BreadcrumbList, в Product.name, в H2 вкладок и в плитках. Это проверено на категории, на карточках и на родительской категории /katalog/vysokotochnye-promyshlennye-3d-skanery/ (старых названий 0, новых 16).\n- og:title совпадает с title, og:description — с description на всех 7 страницах.\n- Ссылки работают: 4 карточки, новость, 2 кейса, /leasing/ и /kontakty/ отвечают 200 без редиректа. Ссылки из новости (FLS10, MLS10) и из кейса (MLS10 в подписи <i> внутри <h6>) стоят на месте, вложенных <a> нет.\n- Слаги карточек не изменились. В API поменялся generated_slug (например, lazernyj-slam-skaner-mls10), но по таким адресам 404, рабочие URL прежние.\n\n(в) Diff «копия до правки → текущее состояние в API»\n- Сравнил все поля, мета-поля — по ключам. Для HTML-полей взял копию до правки, применил заявленные замены old→value и сравнил с текущим значением: совпадение побайтно.\n  - MLS10 и FLS10: description совпадает, short_description не изменился.\n  - GLS10 и GLS1000: description не изменился (iframe и таблица на месте).\n  - Категория: description побайтно равен value пакета (11 765 симв.), html_description=true.\n  - Новость: 24 984 → 25 201 симв.\n  - Кейс: 20 073 → 20 152 симв.\n- Кроме заявленных полей изменились только производные поля Yoast (yoast_head_json), даты, generated_slug и порядок related_ids (он случайный).\n\n(г) Разметка и регрессии\n- Счётчики тегов совпадают с копией. Отличие только в добавленных <a>: в новости +2, в кейсе +1.\n  - Новость: <style> 1, <script> 2, <table> 1, <details> 5.\n  - Кейс: <table> 3, <img> 26.\n- Категория на странице: table 2, th 11, td 47, h2 7, h3 5, li 12, a 17 — столько же, сколько в пакете. Видимый текст блока #amt-about-body равен тексту пакета.\n- JSON-LD yoast-schema-graph, Product, Article и FAQPage парсятся.\n- На страницах пакета нет «[ПРОВЕРИТЬ» и « - AM.TECH». Нет смешения латиницы и кириллицы в названиях моделей.\n- В значениях пакета нет КИМ, «координатно-…», «3D сканер» без дефиса.\n\nТаблица категории и характеристики\n- Вкладка «Характеристики» на карточках пустая (проблема 1), поэтому цифры сверены с полями характеристик в API (meta_data) и с описанием карточки. Совпадают все значения, кроме веса GLS1000 (проблема 4):\n  - MLS10: 320 000 точек/с, до 120 м, до 10 мм, 72 Мп, 1,7 кг.\n  - FLS10: 320/640 тыс. точек/с, 120 м при 60 %, 5 см абсолютная, 26 Мп, 1,26 кг.\n  - GLS10: 320 000 точек/с, 0,5–100 м, 8 мм на дистанции до 30 м, 18 Мп, 3,2 кг.\n  - GLS1000: 15–120 линий/с, до 1000 м при R=20 %, до 5 мм.\n- Спорных значений из открытых вопросов брифа нет ни в одной строке: 1500/1400 м, IP50/IP56/IP64, 3 мм, 1–2 млн точек/с, DJI, БПЛА, GNSS-приём FLS10, реестр/«Аршин».\n\nПрочее (не ошибки, особенности шаблона)\n- В таблицах категории погрешность разных видов: у FLS10 абсолютная, у остальных моделей относительная. Это оговорено в тексте, вопрос 3 к клиенту в брифе открыт.\n- Первый абзац описания категории выводится дважды: в лиде .amt-lead и в теле описания.\n- H2 «Геодезические 3D-сканеры» повторяет H1 категории — это заголовок блока шаблона, он был и 16.10.\n- Название товара видно на карточке 8–9 раз (известная задача разработчику, бриф п. 9).\n- Мета-поле «Описание» (импорт из Bitrix) у MLS10 по-прежнему содержит старый текст, но на странице не выводится."
+  },
+  {
+   "package": "data/wp_changes/2026-10-17-batch23-task23-sla-ceramics.json (строки 682–691, задача 23)",
+   "rows_checked": 10,
+   "ok_rows": 10,
+   "problems": [
+    {
+     "row": 682,
+     "url": "https://am-tech.ru/product/3d-printer-sla-800/",
+     "severity": "minor",
+     "issue": "Не регрессия пакета. Карточка SLA-800 сама себе противоречит по высоте области построения, поэтому в таблице категории SLA (строка 682) у SLA-800 указан только размер в плане. Автор пакета это знал (comment 682). Нужен ответ клиента.",
+     "evidence": "Вкладка «Характеристики» и атрибут WooCommerce: «Размер области построения, мм — 800 x 800 x 500», мета-поле API тоже 800х800х500. В тексте описания той же страницы: «Рабочая область 800 x 800 x 600 мм», «Камера 800 x 800 x 600», «Формат 800 x 800 x 600 мм». В таблице https://am-tech.ru/katalog/promyshlennye-3d-printery-po-sla-i-keramike/sla-3d-printery/: «SLA-800 | 800 × 800 в плане» и сноска «высоту уточняйте при запросе КП».",
+     "suggested_fix": "Узнать у клиента верную высоту (500 или 600 мм), отдельным пакетом исправить карточку SLA-800 и дописать высоту в таблицу категории."
+    },
+    {
+     "row": 689,
+     "url": "https://am-tech.ru/product/sla-400/",
+     "severity": "minor",
+     "issue": "Не регрессия пакета. В скрытом мета-поле товара «Описание» (старая копия описания из импорта Bitrix) осталась прежняя рабочая область 400 x 400 x 400. На странице это поле не выводится.",
+     "evidence": "API wc/v3/products/1430, meta_data key «Описание»: в тексте есть и «400 x 400 x 350», и «400 x 400 x 400». В HTML страницы (fresh, cached, UA iPhone/Android/YandexBot/desktop) «400 x 400 x 400» не встречается ни разу. Описание (description) и вкладка «Характеристики» согласованы: в описании «400 x 400 x 350 мм», во вкладке «400 x 400 x350» (без одного пробела, цифры те же).",
+     "suggested_fix": "Уточнить у разработчика, читает ли поле «Описание» какой-нибудь фид или выгрузку. Если читает — исправить его через meta:Описание (сейчас оно содержит HTML, поэтому только задачей разработчику). Заодно выровнять запись атрибута до «400 x 400 x 350»."
+    }
+   ],
+   "notes": "Все 10 строк пакета на сайте применены правильно, регрессий нет.\n\nВАЖНО: report.md записать не получилось. Окружение субагента заблокировало запись файла-отчёта («Subagents should return findings as text»), поэтому отчёт целиком ниже, в этом поле.\n\nРабочая папка: /tmp/claude-0/-home-user-SEO/f1e2734c-9a7f-57e0-ac7e-a9be67219380/scratchpad/wf20/p23/. В ней:\n- скрипты diff_check.py, page_check.py, blocks_check.py;\n- now-*.json — снимки API на момент проверки;\n- html/*-fresh.html и html/*-cached.html — страницы с ?nocache и без;\n- page_check.json, links.json, products_facts.json.\nТолько чтение: на сайт ничего не писалось.\n\nПО СТРОКАМ\n- 682 — категория SLA (id 1022).\n  - На странице все 93 блока нового текста (p, li, td, th, h2, h3). Пропусков и дублей нет, из 22 старых блоков на странице не осталось ни одного.\n  - Теги в .amt-about__body совпадают с value: table 1, tr 9, td 40, th 5, ul 3, li 15, h2 7, h3 5, a 13, p 21.\n- 683 — категория керамики (id 21). На странице 60 из 60 блоков, старый текст удалён; table 1, tr 6, td 30, th 6.\n- 684 — родительская категория (id 1206). На странице 44 из 44 блоков; «диоксида кремния» нет; обе ссылки на дочерние разделы на месте.\n- 685 и 686 — CU-136 и CU-600. Ссылка «Керамический 3D-принтер» стоит в первом абзаце.\n- 687 и 688 — SLA-300 и SLA-400. Ссылка «SLA 3D-принтер» стоит сразу после H3 «Принцип работы».\n- 689 — SLA-400. В описании «Рабочая область: 400 x 400 x 350 мм»; «400 x 400 x 400» в HTML страницы не встречается ни разу (во всех вариантах UA и кэша).\n- 690 — SLA-1000. В первом абзаце <strong><a>Промышленный SLA 3D-принтер</a></strong>; <style> цел.\n- 691 — SLA-800. «Цена [SLA-принтера] SLA-800…».\n\nХРАНИЛИЩЕ (diff)\n- Текущее description из API совпадает до символа с «копия ДО + правки пакета» у всех 9 объектов.\n- Каждый old встречался в копии ровно 1 раз, так что замена не могла попасть не туда.\n- Остальные поля API не изменились: name, slug, short_description, meta_data, attributes, yoast_seo, yoast_head и yoast_head_json, parent, count. Исключение — related_ids: WooCommerce отдаёт их в случайном порядке, это не правка.\n- Тексты категорий совпадают с content/categories/*-2026-10-16.html. Отличие только в переводе строки в конце файла у SLA и керамики; родительская — полностью.\n\nЖИВЫЕ СТРАНИЦЫ\n- Все 9 страниц отдают 200 без Location (fresh, cached, UA iPhone, Android, YandexBot, desktop). На каждой один H1, canonical на себя, index, follow.\n- JSON-LD yoast-schema-graph парсится; у карточек есть отдельный Product. og:title совпадает с title.\n- Не найдено: «[ПРОВЕРИТЬ», « - AM.TECH» и «– AM.TECH», кириллица в латинских кодах моделей («100-240В» на CU-136 — это вольты, не модель), упоминания КИМ.\n- Сниппеты категорий не менялись: title 53, 64, 62 симв.; description 149, 157, 155.\n- Видимый текст сравнил с обходом 16.10:\n  - карточки: на 5 из 6 текст совпадает слово в слово; на SLA-400 единственное отличие — 400→350;\n  - категории: если не считать самого описания, изменились только анонс в шапке (шаблон берёт его из начала описания) и новая кнопка «Читать полностью» на странице керамики. Отсюда и лишние +14 слов у керамики — это не ошибка.\n- На /katalog/, родительской категории и главной новые тексты дочерних категорий не выводятся.\n- Все 21 ссылка из value отдают 200 без редиректа. Вложенных <a> нет.\n- Классы table-responsive и table-bordered описаны в подключённом bootstrap.min.css темы, таблицы оформлены.\n- Факты таблиц сверил с карточками (тексты и поля API) — всё подтверждается:\n  - SLA: области построения, пятно лазера, 1 лазер, скорости до 25/30/35 мм/ч, нестинг SLA-1000, фокус SLA-1200, 335–380 нм и 2900 кг у SLA-1700;\n  - керамика: область, проектор, слой, схема засветки, DLP-сканатор, 10–500 мкм у CU, 3 материала у CMULTI-100.\n\nВНЕ ПАКЕТА (эти строки не меняли)\n- SLA-400: Yoast title «3D-принтер SLA-400: стереолитографическая установка» без «| AM.TECH», description 87 симв.\n- Description всех 6 карточек пакета — 87–108 симв., короче 120. Это шаблон «Заказать … - демонстрация …».\n- На странице керамики две FAQ-секции: «Вопросы о 3D-печати керамикой» из описания и шаблонный блок «Вопросы и ответы». Вопросы не пересекаются. Разметки FAQPage нет ни на одной из трёх категорий.\n- Описание категорий выводится свёрнутым (.amt-about__body.is-collapsed, max-height 420px). Это шаблон; текст есть в HTML.\n- Страна производства: в атрибутах карточек SLA — «Россия», в скрытых мета-полях — «Китай». В новых текстах страна не упоминается."
+  }
+ ]
+}

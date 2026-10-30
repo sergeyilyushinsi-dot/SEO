@@ -1,0 +1,282 @@
+{
+ "id": 3445,
+ "date": "2023-10-19T14:37:55",
+ "date_gmt": "2023-10-19T11:37:55",
+ "guid": {
+  "rendered": "https://am-tech.ru/?post_type=news&#038;p=3445",
+  "raw": "https://am-tech.ru/?post_type=news&#038;p=3445"
+ },
+ "modified": "2026-06-30T15:21:41",
+ "modified_gmt": "2026-06-30T12:21:41",
+ "password": "",
+ "slug": "leap-71-otkryvaet-ishodnyj-kod-svoej-bazovoj-tehnologii-vychislitelnoj-inzhenerii",
+ "status": "publish",
+ "type": "news",
+ "link": "https://am-tech.ru/news/leap-71-otkryvaet-ishodnyj-kod-svoej-bazovoj-tehnologii-vychislitelnoj-inzhenerii/",
+ "title": {
+  "raw": "LEAP 71 открывает исходный код своей базовой технологии вычислительной инженерии",
+  "rendered": "LEAP 71 открывает исходный код своей базовой технологии вычислительной инженерии"
+ },
+ "content": {
+  "raw": "<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n<div class=\"et_pb_section et_pb_section_1_tb_body et_section_regular\">\r\n<div class=\"et_pb_row et_pb_row_0_tb_body\">\r\n<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_0_tb_body et_pb_css_mix_blend_mode_passthrough et-last-child\">\r\n<div class=\"et_pb_module et_pb_post_title et_pb_post_title_0_tb_body et_pb_bg_layout_light et_pb_text_align_center\">\r\n<div class=\"et_pb_title_container\">\r\n\r\nДубайская компания LEAP 71 выпускает <a href=\"https://picogk.org/\">PicoGK</a> &nbsp;— программную платформу с открытым исходным кодом для&nbsp;вычислительной инженерии.&nbsp;Вычислительная инженерия радикально изменит подход к проектированию физических объектов.&nbsp;Её влияние можно сравнить с внедрением генеративного искусственного интеллекта в других областях.\r\n<p class=\"\">Вычислительная инженерия генерирует детали, конструкции и целые машины за считанные минуты, в отличие от трудоемкого проектирования технических продуктов человеком, на которое часто уходят недели и месяцы. Детали, конструкции и целые машины, готовые к производству с использованием цифровых технологий, таких как промышленная 3D-печать, могут быть готовы уже сегодня.&nbsp;</p>\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"et_pb_section et_pb_section_2_tb_body et_section_regular\">\r\n<div class=\"et_pb_row et_pb_row_1_tb_body\">\r\n<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_1_tb_body et_pb_css_mix_blend_mode_passthrough et-last-child\">\r\n<div class=\"et_pb_module et_pb_post_content et_pb_post_content_0_tb_body\">\r\n<figure class=\"wp-block-image aligncenter size-large\">\r\n<p class=\"mod-reset\"><img class=\"alignnone wp-image-3447 size-full\" src=\"https://am-tech.ru/wp-content/uploads/2023/10/1-e1763380623480.webp\" alt=\"\" width=\"1024\" height=\"753\" data-recalc-dims=\"1\"></p>\r\n</figure>\r\n<p class=\"\">Жозефина Лисснер, основательница и генеральный директор LEAP 71, сказала:&nbsp;<strong>«В нашей компании мы создаём сложное оборудование с помощью вычислительной инженерии в самых разных областях — от электромобилей до космических двигателей, от гидравлических систем до теплообменников.&nbsp;Но вычислительная инженерия должна стать глобальным движением, а любое движение должно основываться на бесплатном программном обеспечении с открытым исходным кодом».</strong></p>\r\nPicoGK лежит в основе всех вычислительных инженерных моделей компании.&nbsp;Недавно LEAP 71 объявила о сотрудничестве с европейской космической компанией The Exploration Company в области создания ракетных двигателей для грузовых космических кораблей.&nbsp;LEAP 71 также представит свою работу над эффективными электродвигателями и теплообменниками на климатической конференции COP 28 в ноябре.\r\n<figure class=\"wp-block-image aligncenter size-large\">\r\n<p class=\"mod-reset\"><img class=\"alignnone wp-image-3448 size-full\" src=\"https://am-tech.ru/wp-content/uploads/2023/10/2-e1763380550983.webp\" alt=\"\" width=\"1024\" height=\"662\" data-recalc-dims=\"1\"></p>\r\n</figure>\r\n<p class=\"\">Саид Лин Кайзер, соучредитель LEAP 71 и один из первопроходцев в области вычислительной инженерии:&nbsp;<strong>«Человечество вступает в критическую фазу, когда нам нужно найти инновационные решения для некоторых глобальных проблем.&nbsp;Ускорение темпов разработки и вывода на рынок новых технологий имеет первостепенное значение.&nbsp;Это должно происходить повсеместно, и одна компания не может справиться с этой задачей в одиночку.&nbsp;PicoGK — важный шаг на пути к глобальному внедрению этой парадигмы».</strong></p>\r\n<p class=\"\">Технология PikoGK доступна под лицензией Apache 2.0 с открытым исходным кодом в репозитории LEAP 71 на Github (<a href=\"https://github.com/leap71\">https://github.com/leap71</a>).</p>\r\n<p class=\"\">В будущем компания планирует выпустить дополнительные модули с открытым исходным кодом, которые расширят функциональность PicoGK.&nbsp;Для получения дополнительной информации посетите&nbsp;<a href=\"https://picogk.org/\">https://PicoGK.org</a>.</p>\r\n<p class=\"\"><strong>О LEAP</strong><strong> </strong><strong>71</strong></p>\r\n<p class=\"\">LEAP 71 — компания из Дубая, основанная немецкими предпринимателями Жозефиной Лисснер и Лин Кайзер, которые являются пионерами в области вычислительной инженерии.&nbsp;LEAP 71 разрабатывает передовые инженерные решения для аэрокосмической отрасли, электромобилей, а также систем отопления и охлаждения.&nbsp;Для получения дополнительной информации посетите сайт&nbsp;<a href=\"https://leap71.com/\">https://leap71.com</a></p>\r\n<p class=\"\"><strong>О компании PicoGK</strong></p>\r\n<p class=\"\">PicoGK (произносится как «пикок») расшифровывается как Pico Geometry Kernel (миниаютюрное геометрическое ядро) , поскольку он основан на небольшом, но мощном и быстром наборе инструкций.&nbsp;Это также игра слов, отсылающая к павлинам, разгуливающим по улицам Дубая.&nbsp;PicoGK лежит в основе комплексной системы для вычислительной инженерии, исходный код которой открыт компанией LEAP 71.&nbsp;Для получения дополнительной информации посетите сайт&nbsp;<a href=\"https://picogk.org/\">https://picogk.org</a>.</p>\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+  "rendered": "<div class=\"boldgrid-section\">\n<div class=\"container\">\n<div class=\"row\">\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\n<div class=\"et_pb_section et_pb_section_1_tb_body et_section_regular\">\n<div class=\"et_pb_row et_pb_row_0_tb_body\">\n<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_0_tb_body et_pb_css_mix_blend_mode_passthrough et-last-child\">\n<div class=\"et_pb_module et_pb_post_title et_pb_post_title_0_tb_body et_pb_bg_layout_light et_pb_text_align_center\">\n<div class=\"et_pb_title_container\">\n<p>Дубайская компания LEAP 71 выпускает <a href=\"https://picogk.org/\">PicoGK</a> &nbsp;— программную платформу с открытым исходным кодом для&nbsp;вычислительной инженерии.&nbsp;Вычислительная инженерия радикально изменит подход к проектированию физических объектов.&nbsp;Её влияние можно сравнить с внедрением генеративного искусственного интеллекта в других областях.</p>\n<p class=\"\">Вычислительная инженерия генерирует детали, конструкции и целые машины за считанные минуты, в отличие от трудоемкого проектирования технических продуктов человеком, на которое часто уходят недели и месяцы. Детали, конструкции и целые машины, готовые к производству с использованием цифровых технологий, таких как промышленная 3D-печать, могут быть готовы уже сегодня.&nbsp;</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"et_pb_section et_pb_section_2_tb_body et_section_regular\">\n<div class=\"et_pb_row et_pb_row_1_tb_body\">\n<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_1_tb_body et_pb_css_mix_blend_mode_passthrough et-last-child\">\n<div class=\"et_pb_module et_pb_post_content et_pb_post_content_0_tb_body\">\n<figure class=\"wp-block-image aligncenter size-large\">\n<p class=\"mod-reset\"><img loading=\"lazy\" decoding=\"async\" fetchpriority=\"high\" decoding=\"async\" class=\"alignnone wp-image-3447 size-full\" src=\"https://am-tech.ru/wp-content/uploads/2023/10/1-e1763380623480.webp\" alt=\"LEAP 71 открывает исходный код своей базовой технологии вычислительной инженерии - Новости - AM-Tech\" width=\"1024\" height=\"753\" data-recalc-dims=\"1\" srcset=\"https://am-tech.ru/wp-content/uploads/2023/10/1-e1763380623480.webp 1024w, https://am-tech.ru/wp-content/uploads/2023/10/1-e1763380623480-300x221.webp 300w, https://am-tech.ru/wp-content/uploads/2023/10/1-e1763380623480-768x565.webp 768w, https://am-tech.ru/wp-content/uploads/2023/10/1-e1763380623480-600x441.webp 600w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /></p>\n</figure>\n<p class=\"\">Жозефина Лисснер, основательница и генеральный директор LEAP 71, сказала:&nbsp;<strong>«В нашей компании мы создаём сложное оборудование с помощью вычислительной инженерии в самых разных областях — от электромобилей до космических двигателей, от гидравлических систем до теплообменников.&nbsp;Но вычислительная инженерия должна стать глобальным движением, а любое движение должно основываться на бесплатном программном обеспечении с открытым исходным кодом».</strong></p>\n<p>PicoGK лежит в основе всех вычислительных инженерных моделей компании.&nbsp;Недавно LEAP 71 объявила о сотрудничестве с европейской космической компанией The Exploration Company в области создания ракетных двигателей для грузовых космических кораблей.&nbsp;LEAP 71 также представит свою работу над эффективными электродвигателями и теплообменниками на климатической конференции COP 28 в ноябре.</p>\n<figure class=\"wp-block-image aligncenter size-large\">\n<p class=\"mod-reset\"><img loading=\"lazy\" decoding=\"async\" decoding=\"async\" class=\"alignnone wp-image-3448 size-full\" src=\"https://am-tech.ru/wp-content/uploads/2023/10/2-e1763380550983.webp\" alt=\"LEAP 71 открывает исходный код своей базовой технологии вычислительной инженерии - Новости - AM-Tech\" width=\"1024\" height=\"662\" data-recalc-dims=\"1\" srcset=\"https://am-tech.ru/wp-content/uploads/2023/10/2-e1763380550983.webp 1024w, https://am-tech.ru/wp-content/uploads/2023/10/2-e1763380550983-300x194.webp 300w, https://am-tech.ru/wp-content/uploads/2023/10/2-e1763380550983-768x497.webp 768w, https://am-tech.ru/wp-content/uploads/2023/10/2-e1763380550983-600x388.webp 600w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /></p>\n</figure>\n<p class=\"\">Саид Лин Кайзер, соучредитель LEAP 71 и один из первопроходцев в области вычислительной инженерии:&nbsp;<strong>«Человечество вступает в критическую фазу, когда нам нужно найти инновационные решения для некоторых глобальных проблем.&nbsp;Ускорение темпов разработки и вывода на рынок новых технологий имеет первостепенное значение.&nbsp;Это должно происходить повсеместно, и одна компания не может справиться с этой задачей в одиночку.&nbsp;PicoGK — важный шаг на пути к глобальному внедрению этой парадигмы».</strong></p>\n<p class=\"\">Технология PikoGK доступна под лицензией Apache 2.0 с открытым исходным кодом в репозитории LEAP 71 на Github (<a href=\"https://github.com/leap71\">https://github.com/leap71</a>).</p>\n<p class=\"\">В будущем компания планирует выпустить дополнительные модули с открытым исходным кодом, которые расширят функциональность PicoGK.&nbsp;Для получения дополнительной информации посетите&nbsp;<a href=\"https://picogk.org/\">https://PicoGK.org</a>.</p>\n<p class=\"\"><strong>О LEAP</strong><strong> </strong><strong>71</strong></p>\n<p class=\"\">LEAP 71 — компания из Дубая, основанная немецкими предпринимателями Жозефиной Лисснер и Лин Кайзер, которые являются пионерами в области вычислительной инженерии.&nbsp;LEAP 71 разрабатывает передовые инженерные решения для аэрокосмической отрасли, электромобилей, а также систем отопления и охлаждения.&nbsp;Для получения дополнительной информации посетите сайт&nbsp;<a href=\"https://leap71.com/\">https://leap71.com</a></p>\n<p class=\"\"><strong>О компании PicoGK</strong></p>\n<p class=\"\">PicoGK (произносится как «пикок») расшифровывается как Pico Geometry Kernel (миниаютюрное геометрическое ядро) , поскольку он основан на небольшом, но мощном и быстром наборе инструкций.&nbsp;Это также игра слов, отсылающая к павлинам, разгуливающим по улицам Дубая.&nbsp;PicoGK лежит в основе комплексной системы для вычислительной инженерии, исходный код которой открыт компанией LEAP 71.&nbsp;Для получения дополнительной информации посетите сайт&nbsp;<a href=\"https://picogk.org/\">https://picogk.org</a>.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n",
+  "protected": false,
+  "block_version": 0
+ },
+ "excerpt": {
+  "raw": "",
+  "rendered": "<p>Дубайская компания LEAP 71 выпускает PicoGK &nbsp;— программную платформу с открытым исходным кодом для&nbsp;вычислительной инженерии.&nbsp;Вычислительная инженерия радикально изменит подход к проектированию физических объектов.&nbsp;Её влияние можно сравнить с внедрением генеративного искусственного интеллекта в других областях. Вычислительная инженерия генерирует детали, конструкции и целые машины за считанные минуты, в отличие от трудоемкого проектирования технических продуктов человеком, на которое [&hellip;]</p>\n",
+  "protected": false
+ },
+ "author": 4,
+ "featured_media": 3448,
+ "comment_status": "open",
+ "ping_status": "closed",
+ "template": "",
+ "meta": {
+  "_acf_changed": false,
+  "_yoast_wpseo_title": "",
+  "_yoast_wpseo_metadesc": "Leap 71 открывает исходный код технологии вычислительной инженерии. Что это значит для аддитивной отрасли?",
+  "_yoast_wpseo_meta-robots-noindex": ""
+ },
+ "news_category": [
+  970
+ ],
+ "news_tag": [
+  1260,
+  1265
+ ],
+ "permalink_template": "https://am-tech.ru/news/%pagename%/",
+ "generated_slug": "leap-71-otkryvaet-ishodnyj-kod-svoej-bazovoj-tehnologii-vychislitelnoj-inzhenerii",
+ "class_list": [
+  "post-3445",
+  "news",
+  "type-news",
+  "status-publish",
+  "has-post-thumbnail",
+  "hentry",
+  "news_category-novosti",
+  "news_tag-mashinostroenie",
+  "news_tag-proektirovanie"
+ ],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>LEAP 71 открывает исходный код своей базовой технологии вычислительной инженерии - am-tech.ru</title>\n<meta name=\"description\" content=\"Leap 71 открывает исходный код технологии вычислительной инженерии. Что это значит для аддитивной отрасли?\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/news/leap-71-otkryvaet-ishodnyj-kod-svoej-bazovoj-tehnologii-vychislitelnoj-inzhenerii/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"LEAP 71 открывает исходный код своей базовой технологии вычислительной инженерии - am-tech.ru\" />\n<meta property=\"og:description\" content=\"Leap 71 открывает исходный код технологии вычислительной инженерии. Что это значит для аддитивной отрасли?\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/news/leap-71-otkryvaet-ishodnyj-kod-svoej-bazovoj-tehnologii-vychislitelnoj-inzhenerii/\" />\n<meta property=\"og:site_name\" content=\"am-tech.ru\" />\n<meta property=\"article:modified_time\" content=\"2026-06-30T12:21:41+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2023/10/2-e1763380550983.webp\" />\n\t<meta property=\"og:image:width\" content=\"1024\" />\n\t<meta property=\"og:image:height\" content=\"662\" />\n\t<meta property=\"og:image:type\" content=\"image/webp\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"3 минуты\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/news/leap-71-otkryvaet-ishodnyj-kod-svoej-bazovoj-tehnologii-vychislitelnoj-inzhenerii/\",\"url\":\"https://am-tech.ru/news/leap-71-otkryvaet-ishodnyj-kod-svoej-bazovoj-tehnologii-vychislitelnoj-inzhenerii/\",\"name\":\"LEAP 71 открывает исходный код своей базовой технологии вычислительной инженерии - am-tech.ru\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/news/leap-71-otkryvaet-ishodnyj-kod-svoej-bazovoj-tehnologii-vychislitelnoj-inzhenerii/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/news/leap-71-otkryvaet-ishodnyj-kod-svoej-bazovoj-tehnologii-vychislitelnoj-inzhenerii/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2023/10/2-e1763380550983.webp\",\"datePublished\":\"2023-10-19T11:37:55+00:00\",\"dateModified\":\"2026-06-30T12:21:41+00:00\",\"description\":\"Leap 71 открывает исходный код технологии вычислительной инженерии. Что это значит для аддитивной отрасли?\",\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/news/leap-71-otkryvaet-ishodnyj-kod-svoej-bazovoj-tehnologii-vychislitelnoj-inzhenerii/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/news/leap-71-otkryvaet-ishodnyj-kod-svoej-bazovoj-tehnologii-vychislitelnoj-inzhenerii/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2023/10/2-e1763380550983.webp\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2023/10/2-e1763380550983.webp\",\"width\":1024,\"height\":662},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"am-tech.ru\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"am-tech.ru\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"am-tech.ru\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "LEAP 71 открывает исходный код своей базовой технологии вычислительной инженерии - am-tech.ru",
+  "description": "Leap 71 открывает исходный код технологии вычислительной инженерии. Что это значит для аддитивной отрасли?",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/news/leap-71-otkryvaet-ishodnyj-kod-svoej-bazovoj-tehnologii-vychislitelnoj-inzhenerii/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "LEAP 71 открывает исходный код своей базовой технологии вычислительной инженерии - am-tech.ru",
+  "og_description": "Leap 71 открывает исходный код технологии вычислительной инженерии. Что это значит для аддитивной отрасли?",
+  "og_url": "https://am-tech.ru/news/leap-71-otkryvaet-ishodnyj-kod-svoej-bazovoj-tehnologii-vychislitelnoj-inzhenerii/",
+  "og_site_name": "am-tech.ru",
+  "article_modified_time": "2026-06-30T12:21:41+00:00",
+  "og_image": [
+   {
+    "width": 1024,
+    "height": 662,
+    "url": "https://am-tech.ru/wp-content/uploads/2023/10/2-e1763380550983.webp",
+    "type": "image/webp"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "3 минуты"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/news/leap-71-otkryvaet-ishodnyj-kod-svoej-bazovoj-tehnologii-vychislitelnoj-inzhenerii/",
+     "url": "https://am-tech.ru/news/leap-71-otkryvaet-ishodnyj-kod-svoej-bazovoj-tehnologii-vychislitelnoj-inzhenerii/",
+     "name": "LEAP 71 открывает исходный код своей базовой технологии вычислительной инженерии - am-tech.ru",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/news/leap-71-otkryvaet-ishodnyj-kod-svoej-bazovoj-tehnologii-vychislitelnoj-inzhenerii/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/news/leap-71-otkryvaet-ishodnyj-kod-svoej-bazovoj-tehnologii-vychislitelnoj-inzhenerii/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2023/10/2-e1763380550983.webp",
+     "datePublished": "2023-10-19T11:37:55+00:00",
+     "dateModified": "2026-06-30T12:21:41+00:00",
+     "description": "Leap 71 открывает исходный код технологии вычислительной инженерии. Что это значит для аддитивной отрасли?",
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/news/leap-71-otkryvaet-ishodnyj-kod-svoej-bazovoj-tehnologii-vychislitelnoj-inzhenerii/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/news/leap-71-otkryvaet-ishodnyj-kod-svoej-bazovoj-tehnologii-vychislitelnoj-inzhenerii/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2023/10/2-e1763380550983.webp",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2023/10/2-e1763380550983.webp",
+     "width": 1024,
+     "height": 662
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "am-tech.ru",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "am-tech.ru",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "am-tech.ru"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3445",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/types/news"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/users/4"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/comments?post=3445"
+   }
+  ],
+  "wp:featuredmedia": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/media/3448"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/media?parent=3445"
+   }
+  ],
+  "wp:term": [
+   {
+    "taxonomy": "news_category",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_category?post=3445"
+   },
+   {
+    "taxonomy": "news_tag",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_tag?post=3445"
+   }
+  ],
+  "wp:action-publish": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3445"
+   }
+  ],
+  "wp:action-unfiltered-html": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3445"
+   }
+  ],
+  "wp:action-assign-author": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3445"
+   }
+  ],
+  "wp:action-create-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3445"
+   }
+  ],
+  "wp:action-assign-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3445"
+   }
+  ],
+  "wp:action-create-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3445"
+   }
+  ],
+  "wp:action-assign-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3445"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

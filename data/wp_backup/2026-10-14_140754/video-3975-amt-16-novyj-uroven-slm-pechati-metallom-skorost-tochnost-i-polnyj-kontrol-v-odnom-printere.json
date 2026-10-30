@@ -1,0 +1,288 @@
+{
+ "id": 3975,
+ "date": "2026-04-30T15:13:28",
+ "date_gmt": "2026-04-30T12:13:28",
+ "guid": {
+  "rendered": "https://am-tech.ru/?post_type=video_reviews&#038;p=3975",
+  "raw": "https://am-tech.ru/?post_type=video_reviews&#038;p=3975"
+ },
+ "modified": "2026-04-30T15:13:28",
+ "modified_gmt": "2026-04-30T12:13:28",
+ "password": "",
+ "slug": "amt-16-novyj-uroven-slm-pechati-metallom-skorost-tochnost-i-polnyj-kontrol-v-odnom-printere",
+ "status": "publish",
+ "type": "video_reviews",
+ "link": "https://am-tech.ru/video-reviews/amt-16-novyj-uroven-slm-pechati-metallom-skorost-tochnost-i-polnyj-kontrol-v-odnom-printere/",
+ "title": {
+  "raw": "AMT-16: новый уровень SLM-печати металлом — скорость, точность и полный контроль в одном принтере",
+  "rendered": "AMT-16: новый уровень SLM-печати металлом — скорость, точность и полный контроль в одном принтере"
+ },
+ "content": {
+  "raw": "<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n<p class=\"\" data-start=\"666\" data-end=\"966\">В данном видео рассматриваются ключевые технологические аспекты SLM-печати металлом, включая особенности фокусировки лазерного луча и их влияние на качество изделий. Подробно разбираются два подхода — классический F-Theta объектив и динамическая фокусировка, которая применяется в установках AM.TECH.</p>\r\n<p class=\"\" data-start=\"968\" data-end=\"1247\">Особое внимание уделяется преимуществам динамической фокусировки: возможности изменения диаметра лазерного пятна в процессе печати, что позволяет одновременно повышать производительность при обработке внутренних зон детали и обеспечивать высокую точность на внешних поверхностях.</p>\r\n<p class=\"\" data-start=\"1249\" data-end=\"1611\">Также в видео раскрываются вопросы выбора материалов для SLM-печати. Отмечается важность качества металлического порошка, его гранулометрического состава и влияния на физико-механические свойства изделий. Рассматриваются как стандартные материалы (нержавеющие стали, никелевые и алюминиевые сплавы), так и перспективы работы с новыми экспериментальными сплавами.</p>\r\n<p class=\"\" data-start=\"1613\" data-end=\"1878\">Отдельный блок посвящён программному обеспечению: от подготовки задания на печать до управления оборудованием. Подчёркивается, что программные решения разработаны внутри компании, что позволяет гибко расширять функционал и адаптировать систему под задачи заказчика.</p>\r\n<p data-start=\"1880\" data-end=\"2130\">В заключение затрагивается тема локализации производства и роли аддитивных технологий как стратегически важного направления для развития промышленности, обеспечивающего независимость, стабильность поставок и контроль над производственными процессами.</p>\r\n<p class=\"\" data-start=\"2132\" data-end=\"2305\" data-is-last-node=\"\" data-is-only-node=\"\">Видео будет полезно специалистам в области аддитивных технологий, инженерам, технологам и представителям промышленности, рассматривающим внедрение SLM-печати в производство.</p>\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+  "rendered": "<div class=\"boldgrid-section\">\n<div class=\"container\">\n<div class=\"row\">\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\n<p class=\"\" data-start=\"666\" data-end=\"966\">В данном видео рассматриваются ключевые технологические аспекты SLM-печати металлом, включая особенности фокусировки лазерного луча и их влияние на качество изделий. Подробно разбираются два подхода — классический F-Theta объектив и динамическая фокусировка, которая применяется в установках AM.TECH.</p>\n<p class=\"\" data-start=\"968\" data-end=\"1247\">Особое внимание уделяется преимуществам динамической фокусировки: возможности изменения диаметра лазерного пятна в процессе печати, что позволяет одновременно повышать производительность при обработке внутренних зон детали и обеспечивать высокую точность на внешних поверхностях.</p>\n<p class=\"\" data-start=\"1249\" data-end=\"1611\">Также в видео раскрываются вопросы выбора материалов для SLM-печати. Отмечается важность качества металлического порошка, его гранулометрического состава и влияния на физико-механические свойства изделий. Рассматриваются как стандартные материалы (нержавеющие стали, никелевые и алюминиевые сплавы), так и перспективы работы с новыми экспериментальными сплавами.</p>\n<p class=\"\" data-start=\"1613\" data-end=\"1878\">Отдельный блок посвящён программному обеспечению: от подготовки задания на печать до управления оборудованием. Подчёркивается, что программные решения разработаны внутри компании, что позволяет гибко расширять функционал и адаптировать систему под задачи заказчика.</p>\n<p data-start=\"1880\" data-end=\"2130\">В заключение затрагивается тема локализации производства и роли аддитивных технологий как стратегически важного направления для развития промышленности, обеспечивающего независимость, стабильность поставок и контроль над производственными процессами.</p>\n<p class=\"\" data-start=\"2132\" data-end=\"2305\" data-is-last-node=\"\" data-is-only-node=\"\">Видео будет полезно специалистам в области аддитивных технологий, инженерам, технологам и представителям промышленности, рассматривающим внедрение SLM-печати в производство.</p>\n</div>\n</div>\n</div>\n</div>\n",
+  "protected": false,
+  "block_version": 0
+ },
+ "excerpt": {
+  "raw": "",
+  "rendered": "<p>В данном видео рассматриваются ключевые технологические аспекты SLM-печати металлом, включая особенности фокусировки лазерного луча и их влияние на качество изделий. Подробно разбираются два подхода — классический F-Theta объектив и динамическая фокусировка, которая применяется в установках AM.TECH. Особое внимание уделяется преимуществам динамической фокусировки: возможности изменения диаметра лазерного пятна в процессе печати, что позволяет одновременно повышать производительность [&hellip;]</p>\n",
+  "protected": false
+ },
+ "author": 1,
+ "featured_media": 3977,
+ "comment_status": "open",
+ "ping_status": "closed",
+ "template": "",
+ "meta": {
+  "_acf_changed": false,
+  "_yoast_wpseo_title": "",
+  "_yoast_wpseo_metadesc": "Разбираем принципы фокусировки в SLM-принтерах: F-Theta объектив и динамическая фокусировка. Как управлять качеством печати, выбирать материалы и повышать эффективность аддитивного производства.",
+  "_yoast_wpseo_meta-robots-noindex": ""
+ },
+ "video_category": [
+  1008,
+  1210
+ ],
+ "video_tag": [
+  1292,
+  1296,
+  1297,
+  1299,
+  1302
+ ],
+ "permalink_template": "https://am-tech.ru/video-reviews/%pagename%/",
+ "generated_slug": "amt-16-novyj-uroven-slm-pechati-metallom-skorost-tochnost-i-polnyj-kontrol-v-odnom-printere",
+ "class_list": [
+  "post-3975",
+  "video_reviews",
+  "type-video_reviews",
+  "status-publish",
+  "has-post-thumbnail",
+  "hentry",
+  "video_category-3d-printery-ru",
+  "video_category-novosti-ru",
+  "video_tag-amt-3d-printery",
+  "video_tag-demonstracii-oborudovanija",
+  "video_tag-industrija-additivnyh-tehnologij",
+  "video_tag-issledovanija-i-razrabotki",
+  "video_tag-mashinostroenie"
+ ],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>AMT-16: новый уровень SLM-печати металлом — скорость, точность и полный контроль в одном принтере - am-tech.ru</title>\n<meta name=\"description\" content=\"Разбираем принципы фокусировки в SLM-принтерах: F-Theta объектив и динамическая фокусировка. Как управлять качеством печати, выбирать материалы и повышать эффективность аддитивного производства.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/video-reviews/amt-16-novyj-uroven-slm-pechati-metallom-skorost-tochnost-i-polnyj-kontrol-v-odnom-printere/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"AMT-16: новый уровень SLM-печати металлом — скорость, точность и полный контроль в одном принтере - am-tech.ru\" />\n<meta property=\"og:description\" content=\"Разбираем принципы фокусировки в SLM-принтерах: F-Theta объектив и динамическая фокусировка. Как управлять качеством печати, выбирать материалы и повышать эффективность аддитивного производства.\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/video-reviews/amt-16-novyj-uroven-slm-pechati-metallom-skorost-tochnost-i-polnyj-kontrol-v-odnom-printere/\" />\n<meta property=\"og:site_name\" content=\"am-tech.ru\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2026/04/chatgpt-image-30-apr.-2026-g.-15_10_19.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1254\" />\n\t<meta property=\"og:image:height\" content=\"1254\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"2 минуты\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/video-reviews/amt-16-novyj-uroven-slm-pechati-metallom-skorost-tochnost-i-polnyj-kontrol-v-odnom-printere/\",\"url\":\"https://am-tech.ru/video-reviews/amt-16-novyj-uroven-slm-pechati-metallom-skorost-tochnost-i-polnyj-kontrol-v-odnom-printere/\",\"name\":\"AMT-16: новый уровень SLM-печати металлом — скорость, точность и полный контроль в одном принтере - am-tech.ru\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/video-reviews/amt-16-novyj-uroven-slm-pechati-metallom-skorost-tochnost-i-polnyj-kontrol-v-odnom-printere/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/video-reviews/amt-16-novyj-uroven-slm-pechati-metallom-skorost-tochnost-i-polnyj-kontrol-v-odnom-printere/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2026/04/chatgpt-image-30-apr.-2026-g.-15_10_19.jpg\",\"datePublished\":\"2026-04-30T12:13:28+00:00\",\"description\":\"Разбираем принципы фокусировки в SLM-принтерах: F-Theta объектив и динамическая фокусировка. Как управлять качеством печати, выбирать материалы и повышать эффективность аддитивного производства.\",\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/video-reviews/amt-16-novyj-uroven-slm-pechati-metallom-skorost-tochnost-i-polnyj-kontrol-v-odnom-printere/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/video-reviews/amt-16-novyj-uroven-slm-pechati-metallom-skorost-tochnost-i-polnyj-kontrol-v-odnom-printere/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2026/04/chatgpt-image-30-apr.-2026-g.-15_10_19.jpg\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2026/04/chatgpt-image-30-apr.-2026-g.-15_10_19.jpg\",\"width\":1254,\"height\":1254},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"am-tech.ru\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"am-tech.ru\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"am-tech.ru\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "AMT-16: новый уровень SLM-печати металлом — скорость, точность и полный контроль в одном принтере - am-tech.ru",
+  "description": "Разбираем принципы фокусировки в SLM-принтерах: F-Theta объектив и динамическая фокусировка. Как управлять качеством печати, выбирать материалы и повышать эффективность аддитивного производства.",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/video-reviews/amt-16-novyj-uroven-slm-pechati-metallom-skorost-tochnost-i-polnyj-kontrol-v-odnom-printere/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "AMT-16: новый уровень SLM-печати металлом — скорость, точность и полный контроль в одном принтере - am-tech.ru",
+  "og_description": "Разбираем принципы фокусировки в SLM-принтерах: F-Theta объектив и динамическая фокусировка. Как управлять качеством печати, выбирать материалы и повышать эффективность аддитивного производства.",
+  "og_url": "https://am-tech.ru/video-reviews/amt-16-novyj-uroven-slm-pechati-metallom-skorost-tochnost-i-polnyj-kontrol-v-odnom-printere/",
+  "og_site_name": "am-tech.ru",
+  "og_image": [
+   {
+    "width": 1254,
+    "height": 1254,
+    "url": "https://am-tech.ru/wp-content/uploads/2026/04/chatgpt-image-30-apr.-2026-g.-15_10_19.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "2 минуты"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/video-reviews/amt-16-novyj-uroven-slm-pechati-metallom-skorost-tochnost-i-polnyj-kontrol-v-odnom-printere/",
+     "url": "https://am-tech.ru/video-reviews/amt-16-novyj-uroven-slm-pechati-metallom-skorost-tochnost-i-polnyj-kontrol-v-odnom-printere/",
+     "name": "AMT-16: новый уровень SLM-печати металлом — скорость, точность и полный контроль в одном принтере - am-tech.ru",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/video-reviews/amt-16-novyj-uroven-slm-pechati-metallom-skorost-tochnost-i-polnyj-kontrol-v-odnom-printere/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/video-reviews/amt-16-novyj-uroven-slm-pechati-metallom-skorost-tochnost-i-polnyj-kontrol-v-odnom-printere/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2026/04/chatgpt-image-30-apr.-2026-g.-15_10_19.jpg",
+     "datePublished": "2026-04-30T12:13:28+00:00",
+     "description": "Разбираем принципы фокусировки в SLM-принтерах: F-Theta объектив и динамическая фокусировка. Как управлять качеством печати, выбирать материалы и повышать эффективность аддитивного производства.",
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/video-reviews/amt-16-novyj-uroven-slm-pechati-metallom-skorost-tochnost-i-polnyj-kontrol-v-odnom-printere/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/video-reviews/amt-16-novyj-uroven-slm-pechati-metallom-skorost-tochnost-i-polnyj-kontrol-v-odnom-printere/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2026/04/chatgpt-image-30-apr.-2026-g.-15_10_19.jpg",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2026/04/chatgpt-image-30-apr.-2026-g.-15_10_19.jpg",
+     "width": 1254,
+     "height": 1254
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "am-tech.ru",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "am-tech.ru",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "am-tech.ru"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3975",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/types/video_reviews"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/users/1"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/comments?post=3975"
+   }
+  ],
+  "wp:featuredmedia": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/media/3977"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/media?parent=3975"
+   }
+  ],
+  "wp:term": [
+   {
+    "taxonomy": "video_category",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_category?post=3975"
+   },
+   {
+    "taxonomy": "video_tag",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_tag?post=3975"
+   }
+  ],
+  "wp:action-publish": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3975"
+   }
+  ],
+  "wp:action-unfiltered-html": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3975"
+   }
+  ],
+  "wp:action-assign-author": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3975"
+   }
+  ],
+  "wp:action-create-video_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3975"
+   }
+  ],
+  "wp:action-assign-video_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3975"
+   }
+  ],
+  "wp:action-create-video_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3975"
+   }
+  ],
+  "wp:action-assign-video_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3975"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

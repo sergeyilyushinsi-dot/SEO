@@ -1,0 +1,284 @@
+{
+ "id": 3489,
+ "date": "2024-09-01T16:15:27",
+ "date_gmt": "2024-09-01T13:15:27",
+ "guid": {
+  "rendered": "https://am-tech.ru/?post_type=news&#038;p=3489",
+  "raw": "https://am-tech.ru/?post_type=news&#038;p=3489"
+ },
+ "modified": "2026-06-30T15:25:51",
+ "modified_gmt": "2026-06-30T12:25:51",
+ "password": "",
+ "slug": "additivnye-tehnologii-dlja-proizvodstva-kronshtejnov-3",
+ "status": "publish",
+ "type": "news",
+ "link": "https://am-tech.ru/news/additivnye-tehnologii-dlja-proizvodstva-kronshtejnov-3/",
+ "title": {
+  "raw": "Аддитивные технологии для производства кронштейнов (часть 3)",
+  "rendered": "Аддитивные технологии для производства кронштейнов (часть 3)"
+ },
+ "content": {
+  "raw": "<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n<p class=\"\">Как чувствуют себя напечатанные кронштейны в мире автомобилестроения?</p>\r\n\r\n<h2 class=\"\"><strong>Кронштейн для раскладывания крыши </strong><strong>BMW</strong></h2>\r\n<p class=\"\">В 2018 году BMW выпустила свой культовый автомобиль i8 Roadster с отмеченным наградами металлическим кронштейном. Этот кронштейн используется для раскладывания части крыши автомобиля. Очевидно, что BMW уже тогда упорно протаптывала себе дорожку к открытию ее известного кампуса <a href=\"https://www.press.bmwgroup.com/global/article/detail/T0309872EN/new-technology-campus-for-3d-printing-goes-on-stream:-bmw-group-builds-on-additive-manufacturing-with-skills-consolidated-at-single-site?language\">Additive Manufacturing Campus</a>, рассчитывая на использование технологий 3D-печати для серийного производства компонентов своих автомобилей. Новый дизайн кронштейна прошел множество итераций до одобренной дизайнерами, конструкторами и руководством формы. Программное обеспечение для топологической оптимизации, как известно, позволяет создавать не только красивые бионические детали, но и конструкции, способные работать в задаваемых разработчиками условиях. В данном случае удалось улучшить производительность механизма складывания крыши, учитывая такие параметры, как вес, размер и нагрузка.&nbsp;</p>\r\n<p class=\"\"><strong><img class=\"alignnone wp-image-3491 size-full\" src=\"https://am-tech.ru/wp-content/uploads/2025/11/3-2.png\" alt=\"\" width=\"1000\" height=\"560\"></strong></p>\r\n<strong>Рис. Эволюция дизайна кронштейна для раскладывания крыши </strong><strong>BMW i8 Roadster (BMW)</strong>\r\n<p class=\"\">Благодаря технологии селективного лазерного плавления L-PBF/SLM удалось напечатать деталь, которая стала в 10 раз жестче и на 44% легче первоначального варианта.</p>\r\n<p class=\"\">Смотреть <a href=\"https://www.press.bmwgroup.com/global/video/detail/PF0005744/the-new-bmw-i8-roadster-with-metal-3d-printed-parts?language=en\">видео</a>.</p>\r\n\r\n<h2 class=\"\"><strong>Кронштейн спойлера Bugatti</strong></h2>\r\n<p class=\"\">Автомобили Bugatti также оснащаются рядом напечатанных кронштейнов. Одним из них является титановый кронштейн для спойлера, изготовленный в сотрудничестве с Fraunhofer IAPT и Siemens.&nbsp;Утверждается, что, якобы, этот спойлер улучшает аэродинамические характеристики автомобилей Bugatti, помогая развивать скорость до 400 км/ч примерно за 32,6 секунды, а затем быстро останавливаться всего за 9 секунд!&nbsp;Активный задний спойлер можно регулировать по высоте и углу наклона, обеспечивая сложную аэродинамику, необходимую для обеспечения устойчивости автомобиля.</p>\r\n<p class=\"\"><img class=\"alignnone wp-image-3492 size-full\" src=\"https://am-tech.ru/wp-content/uploads/2025/11/3-3.png\" alt=\"\" width=\"1000\" height=\"560\"></p>\r\n<strong>Рис. Напечатанный кронштейн спойлера (VW Group)</strong>\r\n<p class=\"\">В этом проекте компания Siemens помогла оптимизировать кронштейн до производственной технологичности. В итоге финальная деталь продемонстрировала предел прочности при растяжении 1250 МПа, плотность материала более 99,7% и снижение веса на 53%, что составило около 5,4 кг.</p>\r\n<p class=\"\">3D-печать также использовалась для создания небольшого кронштейна двигателя со встроенным водяным охлаждением для суперкара Bugatti Chiron. Деталь служит активным теплозащитным экраном, значительно снижая передачу тепла от двигателя. Инновационный компонент, напечатанный из материала AlSi10Mg на 3D-принтере SLM280 Twin от SLM Solutions, был установлен во всех автомобилях серии с момента выпуска первого Bugatti Chiron.</p>\r\n\r\n<h2 class=\"\"><strong>Кронштейн сиденья General Motors</strong></h2>\r\n<p class=\"\">Успешная коллаборация инженеров автомобилестроительный корпорации General Motors с ведущим разработчиком систем автоматизированного проектирования, компанией Autodesk, вылилась в проект по агрегации деталей в одну с приятным дополнением в виде акцента на снижение массы. Многие десятки и даже сотни вариаций деталей позволяют значительно сократить время на проектирование, а также выбрать среди множества вариантов тот, который удовлетворит требованиям рабочей и фокус группы.</p>\r\nДля разработки кронштейна для установки замков ремней безопасности на заднем сиденье ПО с генеративным проектированием предоставило 150 вариантов, каждый из которых удовлетворял ТЗ, предоставленному инженерами проекта. Рабочая группа в результате выбрала вариант с агрегацией восьми деталей в одну, 40-процентным сокращением массы и на 20 процентов увеличенными прочностными качествами.\r\n<p class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2025/11/3-4.png\"><img class=\"alignnone wp-image-3493 size-full\" src=\"https://am-tech.ru/wp-content/uploads/2025/11/3-4.png\" alt=\"\" width=\"1000\" height=\"560\"></a></p>\r\n<p class=\"\"><strong>Слева – высокая вариативность предложений от ПО с генеративным проектированием, справа – кронштейн для установки замков ремней безопасности на заднем сиденье, удовлетворяющих требованиям ТЗ (</strong><strong>Autodesk)</strong></p>\r\n<p class=\"\"><strong><img class=\"alignnone wp-image-3494 size-full\" src=\"https://am-tech.ru/wp-content/uploads/2025/11/3-5.png\" alt=\"\" width=\"1000\" height=\"560\"></strong></p>\r\n<p class=\"\"><strong>Напечатанный кронштейн сиденья (General Motors)</strong></p>\r\n<p class=\"\">Даже изделия с такой избыточной сложностью можно с легкостью напечатать, например, по технологии L-PBF/SLM, а инженерам впредь не ограничиваться парком традиционного оборудования (фрезерное, литейное), ведь 3D-печать способна на многое. Современный инженер с новым мышлением может проектировать и оптимизировать изделия со всеми своими самыми амбициозными идеями.</p>\r\n\r\n<h2><strong>Шасси Bio-Logic от Czinger Vehicles</strong></h2>\r\n<p class=\"\">Рассказ об использовании АТ при производстве кронштейнов будет неполным при отсутствии упоминания о деятельности революционеров современного автомобилестроения – компании Czinger Vehicles. Для своего нашумевшего электрокара Czinger 21С они используют собственную производственную систему с искусственным интеллектом Divergent Adaptive Production System, роботизированные манипуляторы, обрабатывающие центры с ЧПУ и, конечно же, 3D-принтеры. В автомобиле Czinger 21С они постарались выложиться по полной, год за годом превращая его в технологическую икону благодаря использованию инноваций. Шасси Bio-Logic вобрало в себя огромное количество кронштейнов, скрупулезно оптимизированных с учётом жесткости, износоустойчивости, ударопрочности и соответствия различным производственным требованиям.</p>\r\n<p class=\"\"><strong><a href=\"https://am-tech.ru/wp-content/uploads/2025/11/3-6.png\"><img class=\"alignnone wp-image-3495 size-full\" src=\"https://am-tech.ru/wp-content/uploads/2025/11/3-6.png\" alt=\"\" width=\"1000\" height=\"560\"></a></strong></p>\r\n<p class=\"\"><strong>Шасси Bio-Logic с огромным количеством кронштейнов (Czinger Vehicles)</strong></p>\r\n\r\n<h2 class=\"\"><strong>Выводы </strong></h2>\r\n<p class=\"\">Мы привели здесь лишь малую часть многочисленных примеров использования аддитивного производства для воплощения в жизнь самых смелых идей, красноречиво подчёркивающих многие преимущества 3D-печати. Мы рассмотрели с вами топологическую и генеративную оптимизацию, перепроектирование, технологическую оптимизацию. Кронштейны сегодня – это небольшие компоненты с огромными возможностями. Они достаточно компактны и обычны в нашей повседневной жизни. До недавнего времени они достигли «потолка» в оптимизации, ведь ограничением всегда были используемые производственным методы. Сегодня же инженеры могут разрабатывать оптимизированные кронштейны и воплощать эти конструкции в жизнь с помощью различных методов 3D-печати, каждый раз открывая для себя новые горизонты.\r\n&nbsp;\r\nБлагодаря возможностям аддитивного производства кронштейны можно сделать легче, без боязни потерять в их жесткости и долговечности. Приведенные выше примеры также демонстрируют, что с помощью 3D-печати можно увеличить срок службы компонента, его производительность и сократить процесс его разработки, изготовления, и повысить степень индивидуализации продукции.\r\n&nbsp;\r\nТаким образом, интерес к 3D-печати кронштейнов обоснован множеством факторов, и это направление будет только развиваться в будущем. Нам кажется, что мы очень близки к тому моменту, когда кронштейны начнут печатать серийно, как это уже происходит в авиастроении, и начинает происходить в автомобилестроении.</p>\r\n<p class=\"\"><span style=\"background-color: #99ccff;\"><a href=\"https://am-tech.ru/news/additivnye-tehnologii-dlja-proizvodstva-kronshtejnov-1/\">Часть 1</a>.</span></p>\r\n<p class=\"\"><span style=\"background-color: #99ccff;\"><a href=\"https://am-tech.ru/news/additivnye-tehnologii-dlja-proizvodstva-kronshtejnov-2/\">Часть 2</a>.</span></p>\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+  "rendered": "<div class=\"boldgrid-section\">\n<div class=\"container\">\n<div class=\"row\">\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\n<p class=\"\">Как чувствуют себя напечатанные кронштейны в мире автомобилестроения?</p>\n<h2 class=\"\"><strong>Кронштейн для раскладывания крыши </strong><strong>BMW</strong></h2>\n<p class=\"\">В 2018 году BMW выпустила свой культовый автомобиль i8 Roadster с отмеченным наградами металлическим кронштейном. Этот кронштейн используется для раскладывания части крыши автомобиля. Очевидно, что BMW уже тогда упорно протаптывала себе дорожку к открытию ее известного кампуса <a href=\"https://www.press.bmwgroup.com/global/article/detail/T0309872EN/new-technology-campus-for-3d-printing-goes-on-stream:-bmw-group-builds-on-additive-manufacturing-with-skills-consolidated-at-single-site?language\">Additive Manufacturing Campus</a>, рассчитывая на использование технологий 3D-печати для серийного производства компонентов своих автомобилей. Новый дизайн кронштейна прошел множество итераций до одобренной дизайнерами, конструкторами и руководством формы. Программное обеспечение для топологической оптимизации, как известно, позволяет создавать не только красивые бионические детали, но и конструкции, способные работать в задаваемых разработчиками условиях. В данном случае удалось улучшить производительность механизма складывания крыши, учитывая такие параметры, как вес, размер и нагрузка.&nbsp;</p>\n<p class=\"\"><strong><img loading=\"lazy\" decoding=\"async\" fetchpriority=\"high\" decoding=\"async\" class=\"alignnone wp-image-3491 size-full\" src=\"https://am-tech.ru/wp-content/uploads/2025/11/3-2.png\" alt=\"Аддитивные технологии для производства кронштейнов (часть 3) - 3D-печать металлами - AM-Tech\" width=\"1000\" height=\"560\" srcset=\"https://am-tech.ru/wp-content/uploads/2025/11/3-2.png 1000w, https://am-tech.ru/wp-content/uploads/2025/11/3-2-300x168.png 300w, https://am-tech.ru/wp-content/uploads/2025/11/3-2-768x430.png 768w, https://am-tech.ru/wp-content/uploads/2025/11/3-2-600x336.png 600w\" sizes=\"(max-width: 1000px) 100vw, 1000px\" /></strong></p>\n<p><strong>Рис. Эволюция дизайна кронштейна для раскладывания крыши </strong><strong>BMW i8 Roadster (BMW)</strong></p>\n<p class=\"\">Благодаря технологии селективного лазерного плавления L-PBF/SLM удалось напечатать деталь, которая стала в 10 раз жестче и на 44% легче первоначального варианта.</p>\n<p class=\"\">Смотреть <a href=\"https://www.press.bmwgroup.com/global/video/detail/PF0005744/the-new-bmw-i8-roadster-with-metal-3d-printed-parts?language=en\">видео</a>.</p>\n<h2 class=\"\"><strong>Кронштейн спойлера Bugatti</strong></h2>\n<p class=\"\">Автомобили Bugatti также оснащаются рядом напечатанных кронштейнов. Одним из них является титановый кронштейн для спойлера, изготовленный в сотрудничестве с Fraunhofer IAPT и Siemens.&nbsp;Утверждается, что, якобы, этот спойлер улучшает аэродинамические характеристики автомобилей Bugatti, помогая развивать скорость до 400 км/ч примерно за 32,6 секунды, а затем быстро останавливаться всего за 9 секунд!&nbsp;Активный задний спойлер можно регулировать по высоте и углу наклона, обеспечивая сложную аэродинамику, необходимую для обеспечения устойчивости автомобиля.</p>\n<p class=\"\"><img loading=\"lazy\" decoding=\"async\" decoding=\"async\" class=\"alignnone wp-image-3492 size-full\" src=\"https://am-tech.ru/wp-content/uploads/2025/11/3-3.png\" alt=\"Аддитивные технологии для производства кронштейнов (часть 3) - 3D-печать металлами - AM-Tech\" width=\"1000\" height=\"560\" srcset=\"https://am-tech.ru/wp-content/uploads/2025/11/3-3.png 1000w, https://am-tech.ru/wp-content/uploads/2025/11/3-3-300x168.png 300w, https://am-tech.ru/wp-content/uploads/2025/11/3-3-768x430.png 768w, https://am-tech.ru/wp-content/uploads/2025/11/3-3-600x336.png 600w\" sizes=\"(max-width: 1000px) 100vw, 1000px\" /></p>\n<p><strong>Рис. Напечатанный кронштейн спойлера (VW Group)</strong></p>\n<p class=\"\">В этом проекте компания Siemens помогла оптимизировать кронштейн до производственной технологичности. В итоге финальная деталь продемонстрировала предел прочности при растяжении 1250 МПа, плотность материала более 99,7% и снижение веса на 53%, что составило около 5,4 кг.</p>\n<p class=\"\">3D-печать также использовалась для создания небольшого кронштейна двигателя со встроенным водяным охлаждением для суперкара Bugatti Chiron. Деталь служит активным теплозащитным экраном, значительно снижая передачу тепла от двигателя. Инновационный компонент, напечатанный из материала AlSi10Mg на 3D-принтере SLM280 Twin от SLM Solutions, был установлен во всех автомобилях серии с момента выпуска первого Bugatti Chiron.</p>\n<h2 class=\"\"><strong>Кронштейн сиденья General Motors</strong></h2>\n<p class=\"\">Успешная коллаборация инженеров автомобилестроительный корпорации General Motors с ведущим разработчиком систем автоматизированного проектирования, компанией Autodesk, вылилась в проект по агрегации деталей в одну с приятным дополнением в виде акцента на снижение массы. Многие десятки и даже сотни вариаций деталей позволяют значительно сократить время на проектирование, а также выбрать среди множества вариантов тот, который удовлетворит требованиям рабочей и фокус группы.</p>\n<p>Для разработки кронштейна для установки замков ремней безопасности на заднем сиденье ПО с генеративным проектированием предоставило 150 вариантов, каждый из которых удовлетворял ТЗ, предоставленному инженерами проекта. Рабочая группа в результате выбрала вариант с агрегацией восьми деталей в одну, 40-процентным сокращением массы и на 20 процентов увеличенными прочностными качествами.</p>\n<p class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2025/11/3-4.png\"><img loading=\"lazy\" decoding=\"async\" decoding=\"async\" class=\"alignnone wp-image-3493 size-full\" src=\"https://am-tech.ru/wp-content/uploads/2025/11/3-4.png\" alt=\"Аддитивные технологии для производства кронштейнов (часть 3) - 3D-печать металлами - AM-Tech\" width=\"1000\" height=\"560\" srcset=\"https://am-tech.ru/wp-content/uploads/2025/11/3-4.png 1000w, https://am-tech.ru/wp-content/uploads/2025/11/3-4-300x168.png 300w, https://am-tech.ru/wp-content/uploads/2025/11/3-4-768x430.png 768w, https://am-tech.ru/wp-content/uploads/2025/11/3-4-600x336.png 600w\" sizes=\"(max-width: 1000px) 100vw, 1000px\" /></a></p>\n<p class=\"\"><strong>Слева – высокая вариативность предложений от ПО с генеративным проектированием, справа – кронштейн для установки замков ремней безопасности на заднем сиденье, удовлетворяющих требованиям ТЗ (</strong><strong>Autodesk)</strong></p>\n<p class=\"\"><strong><img loading=\"lazy\" decoding=\"async\" class=\"alignnone wp-image-3494 size-full\" src=\"https://am-tech.ru/wp-content/uploads/2025/11/3-5.png\" alt=\"Аддитивные технологии для производства кронштейнов (часть 3) - 3D-печать металлами - AM-Tech\" width=\"1000\" height=\"560\" srcset=\"https://am-tech.ru/wp-content/uploads/2025/11/3-5.png 1000w, https://am-tech.ru/wp-content/uploads/2025/11/3-5-300x168.png 300w, https://am-tech.ru/wp-content/uploads/2025/11/3-5-768x430.png 768w, https://am-tech.ru/wp-content/uploads/2025/11/3-5-600x336.png 600w\" sizes=\"(max-width: 1000px) 100vw, 1000px\" /></strong></p>\n<p class=\"\"><strong>Напечатанный кронштейн сиденья (General Motors)</strong></p>\n<p class=\"\">Даже изделия с такой избыточной сложностью можно с легкостью напечатать, например, по технологии L-PBF/SLM, а инженерам впредь не ограничиваться парком традиционного оборудования (фрезерное, литейное), ведь 3D-печать способна на многое. Современный инженер с новым мышлением может проектировать и оптимизировать изделия со всеми своими самыми амбициозными идеями.</p>\n<h2><strong>Шасси Bio-Logic от Czinger Vehicles</strong></h2>\n<p class=\"\">Рассказ об использовании АТ при производстве кронштейнов будет неполным при отсутствии упоминания о деятельности революционеров современного автомобилестроения – компании Czinger Vehicles. Для своего нашумевшего электрокара Czinger 21С они используют собственную производственную систему с искусственным интеллектом Divergent Adaptive Production System, роботизированные манипуляторы, обрабатывающие центры с ЧПУ и, конечно же, 3D-принтеры. В автомобиле Czinger 21С они постарались выложиться по полной, год за годом превращая его в технологическую икону благодаря использованию инноваций. Шасси Bio-Logic вобрало в себя огромное количество кронштейнов, скрупулезно оптимизированных с учётом жесткости, износоустойчивости, ударопрочности и соответствия различным производственным требованиям.</p>\n<p class=\"\"><strong><a href=\"https://am-tech.ru/wp-content/uploads/2025/11/3-6.png\"><img loading=\"lazy\" decoding=\"async\" class=\"alignnone wp-image-3495 size-full\" src=\"https://am-tech.ru/wp-content/uploads/2025/11/3-6.png\" alt=\"Аддитивные технологии для производства кронштейнов (часть 3) - 3D-печать металлами - AM-Tech\" width=\"1000\" height=\"560\" srcset=\"https://am-tech.ru/wp-content/uploads/2025/11/3-6.png 1000w, https://am-tech.ru/wp-content/uploads/2025/11/3-6-300x168.png 300w, https://am-tech.ru/wp-content/uploads/2025/11/3-6-768x430.png 768w, https://am-tech.ru/wp-content/uploads/2025/11/3-6-600x336.png 600w\" sizes=\"(max-width: 1000px) 100vw, 1000px\" /></a></strong></p>\n<p class=\"\"><strong>Шасси Bio-Logic с огромным количеством кронштейнов (Czinger Vehicles)</strong></p>\n<h2 class=\"\"><strong>Выводы </strong></h2>\n<p class=\"\">Мы привели здесь лишь малую часть многочисленных примеров использования аддитивного производства для воплощения в жизнь самых смелых идей, красноречиво подчёркивающих многие преимущества 3D-печати. Мы рассмотрели с вами топологическую и генеративную оптимизацию, перепроектирование, технологическую оптимизацию. Кронштейны сегодня – это небольшие компоненты с огромными возможностями. Они достаточно компактны и обычны в нашей повседневной жизни. До недавнего времени они достигли «потолка» в оптимизации, ведь ограничением всегда были используемые производственным методы. Сегодня же инженеры могут разрабатывать оптимизированные кронштейны и воплощать эти конструкции в жизнь с помощью различных методов 3D-печати, каждый раз открывая для себя новые горизонты.<br />\n&nbsp;<br />\nБлагодаря возможностям аддитивного производства кронштейны можно сделать легче, без боязни потерять в их жесткости и долговечности. Приведенные выше примеры также демонстрируют, что с помощью 3D-печати можно увеличить срок службы компонента, его производительность и сократить процесс его разработки, изготовления, и повысить степень индивидуализации продукции.<br />\n&nbsp;<br />\nТаким образом, интерес к 3D-печати кронштейнов обоснован множеством факторов, и это направление будет только развиваться в будущем. Нам кажется, что мы очень близки к тому моменту, когда кронштейны начнут печатать серийно, как это уже происходит в авиастроении, и начинает происходить в автомобилестроении.</p>\n<p class=\"\"><span style=\"background-color: #99ccff;\"><a href=\"https://am-tech.ru/news/additivnye-tehnologii-dlja-proizvodstva-kronshtejnov-1/\">Часть 1</a>.</span></p>\n<p class=\"\"><span style=\"background-color: #99ccff;\"><a href=\"https://am-tech.ru/news/additivnye-tehnologii-dlja-proizvodstva-kronshtejnov-2/\">Часть 2</a>.</span></p>\n</div>\n</div>\n</div>\n</div>\n",
+  "protected": false,
+  "block_version": 0
+ },
+ "excerpt": {
+  "raw": "",
+  "rendered": "<p>Как чувствуют себя напечатанные кронштейны в мире автомобилестроения? Кронштейн для раскладывания крыши BMW В 2018 году BMW выпустила свой культовый автомобиль i8 Roadster с отмеченным наградами металлическим кронштейном. Этот кронштейн используется для раскладывания части крыши автомобиля. Очевидно, что BMW уже тогда упорно протаптывала себе дорожку к открытию ее известного кампуса Additive Manufacturing Campus, рассчитывая на [&hellip;]</p>\n",
+  "protected": false
+ },
+ "author": 4,
+ "featured_media": 3490,
+ "comment_status": "open",
+ "ping_status": "closed",
+ "template": "",
+ "meta": {
+  "_acf_changed": false,
+  "_yoast_wpseo_title": "",
+  "_yoast_wpseo_metadesc": "Часть 3. Производство кронштейнов с помощью аддитивных технологий. Финальные выводы и результаты оптимизации.",
+  "_yoast_wpseo_meta-robots-noindex": ""
+ },
+ "news_category": [
+  1107
+ ],
+ "news_tag": [
+  1260,
+  1220,
+  1265
+ ],
+ "permalink_template": "https://am-tech.ru/news/%pagename%/",
+ "generated_slug": "additivnye-tehnologii-dlja-proizvodstva-kronshtejnov-chast-3",
+ "class_list": [
+  "post-3489",
+  "news",
+  "type-news",
+  "status-publish",
+  "has-post-thumbnail",
+  "hentry",
+  "news_category-3d-pechat-metallami",
+  "news_tag-mashinostroenie",
+  "news_tag-slm",
+  "news_tag-proektirovanie"
+ ],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Аддитивные технологии для производства кронштейнов (часть 3) - am-tech.ru</title>\n<meta name=\"description\" content=\"Часть 3. Производство кронштейнов с помощью аддитивных технологий. Финальные выводы и результаты оптимизации.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/news/additivnye-tehnologii-dlja-proizvodstva-kronshtejnov-3/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Аддитивные технологии для производства кронштейнов (часть 3) - am-tech.ru\" />\n<meta property=\"og:description\" content=\"Часть 3. Производство кронштейнов с помощью аддитивных технологий. Финальные выводы и результаты оптимизации.\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/news/additivnye-tehnologii-dlja-proizvodstva-kronshtejnov-3/\" />\n<meta property=\"og:site_name\" content=\"am-tech.ru\" />\n<meta property=\"article:modified_time\" content=\"2026-06-30T12:25:51+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2025/11/3-1.png\" />\n\t<meta property=\"og:image:width\" content=\"1000\" />\n\t<meta property=\"og:image:height\" content=\"560\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"6 минут\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/news/additivnye-tehnologii-dlja-proizvodstva-kronshtejnov-3/\",\"url\":\"https://am-tech.ru/news/additivnye-tehnologii-dlja-proizvodstva-kronshtejnov-3/\",\"name\":\"Аддитивные технологии для производства кронштейнов (часть 3) - am-tech.ru\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/news/additivnye-tehnologii-dlja-proizvodstva-kronshtejnov-3/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/news/additivnye-tehnologii-dlja-proizvodstva-kronshtejnov-3/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2025/11/3-1.png\",\"datePublished\":\"2024-09-01T13:15:27+00:00\",\"dateModified\":\"2026-06-30T12:25:51+00:00\",\"description\":\"Часть 3. Производство кронштейнов с помощью аддитивных технологий. Финальные выводы и результаты оптимизации.\",\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/news/additivnye-tehnologii-dlja-proizvodstva-kronshtejnov-3/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/news/additivnye-tehnologii-dlja-proizvodstva-kronshtejnov-3/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2025/11/3-1.png\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2025/11/3-1.png\",\"width\":1000,\"height\":560},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"am-tech.ru\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"am-tech.ru\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"am-tech.ru\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "Аддитивные технологии для производства кронштейнов (часть 3) - am-tech.ru",
+  "description": "Часть 3. Производство кронштейнов с помощью аддитивных технологий. Финальные выводы и результаты оптимизации.",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/news/additivnye-tehnologii-dlja-proizvodstva-kronshtejnov-3/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "Аддитивные технологии для производства кронштейнов (часть 3) - am-tech.ru",
+  "og_description": "Часть 3. Производство кронштейнов с помощью аддитивных технологий. Финальные выводы и результаты оптимизации.",
+  "og_url": "https://am-tech.ru/news/additivnye-tehnologii-dlja-proizvodstva-kronshtejnov-3/",
+  "og_site_name": "am-tech.ru",
+  "article_modified_time": "2026-06-30T12:25:51+00:00",
+  "og_image": [
+   {
+    "width": 1000,
+    "height": 560,
+    "url": "https://am-tech.ru/wp-content/uploads/2025/11/3-1.png",
+    "type": "image/png"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "6 минут"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/news/additivnye-tehnologii-dlja-proizvodstva-kronshtejnov-3/",
+     "url": "https://am-tech.ru/news/additivnye-tehnologii-dlja-proizvodstva-kronshtejnov-3/",
+     "name": "Аддитивные технологии для производства кронштейнов (часть 3) - am-tech.ru",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/news/additivnye-tehnologii-dlja-proizvodstva-kronshtejnov-3/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/news/additivnye-tehnologii-dlja-proizvodstva-kronshtejnov-3/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2025/11/3-1.png",
+     "datePublished": "2024-09-01T13:15:27+00:00",
+     "dateModified": "2026-06-30T12:25:51+00:00",
+     "description": "Часть 3. Производство кронштейнов с помощью аддитивных технологий. Финальные выводы и результаты оптимизации.",
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/news/additivnye-tehnologii-dlja-proizvodstva-kronshtejnov-3/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/news/additivnye-tehnologii-dlja-proizvodstva-kronshtejnov-3/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2025/11/3-1.png",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2025/11/3-1.png",
+     "width": 1000,
+     "height": 560
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "am-tech.ru",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "am-tech.ru",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "am-tech.ru"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3489",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/types/news"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/users/4"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/comments?post=3489"
+   }
+  ],
+  "wp:featuredmedia": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/media/3490"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/media?parent=3489"
+   }
+  ],
+  "wp:term": [
+   {
+    "taxonomy": "news_category",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_category?post=3489"
+   },
+   {
+    "taxonomy": "news_tag",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_tag?post=3489"
+   }
+  ],
+  "wp:action-publish": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3489"
+   }
+  ],
+  "wp:action-unfiltered-html": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3489"
+   }
+  ],
+  "wp:action-assign-author": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3489"
+   }
+  ],
+  "wp:action-create-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3489"
+   }
+  ],
+  "wp:action-assign-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3489"
+   }
+  ],
+  "wp:action-create-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3489"
+   }
+  ],
+  "wp:action-assign-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3489"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

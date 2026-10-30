@@ -1,0 +1,23 @@
+[
+ {
+  "plan_task": 24,
+  "label": "Description (Yoast)",
+  "type": "news",
+  "slug": "iphone-18-3d-pechat-inzhenernyy-kontsept",
+  "field": "description",
+  "value": "Независимый инженерный концепт AM.TECH: как SLA-печать помогает делать визуальные и сборочные прототипы мобильных устройств и с какими ограничениями.",
+  "before_text": "(нет)",
+  "after_text": "Независимый инженерный концепт AM.TECH: как SLA-печать помогает делать визуальные и сборочные прототипы мобильных устройств и с какими ограничениями.",
+  "comment": "Поля Yoast открыты (задача 41 выполнена 13.10.2026), пробный запуск прошёл. 149 симв., по тексту страницы",
+  "page_path": "/news/iphone-18-3d-pechat-inzhenernyy-kontsept/",
+  "row": 138,
+  "id": 4298,
+  "url": "https://am-tech.ru/news/iphone-18-3d-pechat-inzhenernyy-kontsept/",
+  "before": "",
+  "after": "Независимый инженерный концепт AM.TECH: как SLA-печать помогает делать визуальные и сборочные прототипы мобильных устройств и с какими ограничениями.",
+  "saved": true,
+  "on_page": true,
+  "on_cached_page": true,
+  "status": "применено"
+ }
+]

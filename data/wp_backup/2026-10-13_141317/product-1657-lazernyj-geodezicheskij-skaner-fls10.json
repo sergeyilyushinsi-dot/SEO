@@ -1,0 +1,537 @@
+{
+ "id": 1657,
+ "name": "Лазерный геодезический сканер FLS10",
+ "slug": "lazernyj-geodezicheskij-skaner-fls10",
+ "permalink": "https://am-tech.ru/product/lazernyj-geodezicheskij-skaner-fls10/",
+ "date_created": "2025-08-17T06:58:03",
+ "date_created_gmt": "2025-08-17T03:58:03",
+ "date_modified": "2026-07-29T16:59:40",
+ "date_modified_gmt": "2026-07-29T13:59:40",
+ "type": "simple",
+ "status": "publish",
+ "featured": false,
+ "catalog_visibility": "visible",
+ "description": "<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n\r\nВ основе функционирования сканера лежит передовая технология LiDAR (Light Detection and Ranging). Устройство излучает лазерные импульсы с длиной волны 905 нм и измеряет время, за которое отраженный свет возвращается к сенсору. Этот метод, известный как Time of Flight (ToF), позволяет с высокой точностью определять расстояние до объектов.\r\n\r\nПрибор способен производить до 320 000 измерений в секунду при одинарном отражении и до 640 000 измерений при двойном отражении. Такая производительность обеспечивает быстрое и детальное сканирование крупных объектов и территорий.\r\n<p class=\"\">Уникальной особенностью устройства является его способность вращаться на 360 градусов, что в сочетании с вертикальным углом обзора в 31 градус позволяет создавать полноценные трехмерные модели окружающего пространства. Встроенная камера с разрешением 26 мегапикселей (6252 х 4168) обеспечивает цветное сканирование, добавляя реалистичные текстуры к облаку точек.</p>\r\nДля повышения точности позиционирования сканер оснащен инерциальной измерительной системой (IMU) и двухосевым инклинометром. Эти компоненты компенсируют движения прибора и обеспечивают точную привязку данных к системе координат.\r\n\r\nУстройство использует технологию SLAM (Simultaneous Localization and Mapping) для записи траектории движения. Это позволяет создавать точные трехмерные модели даже в условиях отсутствия сигнала GNSS, например, внутри зданий или в подземных сооружениях.\r\n\r\nПроцесс работы со сканером интуитивно понятен и эргономичен. Управление осуществляется через мобильное устройство на базе Android, что обеспечивает удобство и гибкость в полевых условиях. Данные сохраняются на встроенный накопитель объемом 256 ГБ и могут быть переданы через USB-интерфейс.\r\n\r\nПрибор обеспечивает высокую точность измерений - до 5 см при дальности сканирования до 120 метров (при 60% отражающей способности поверхности). Это делает его идеальным для широкого спектра геодезических и картографических задач.\r\n\r\nВажно отметить, что устройство относится к лазерным приборам класса 1, что обеспечивает полную безопасность для глаз оператора и окружающих. Это позволяет использовать сканер без специальных защитных средств, делая процесс более комфортным и эффективным.\r\n\r\nКонструкция разработана с учетом требований к надежности и мобильности. Прибор имеет степень защиты IP54, что позволяет использовать его в различных погодных условиях. При весе всего 1,26 кг и габаритах 159х118х127 мм, сканер остается высокомобильным и удобным в использовании, несмотря на свои высокие технические характеристики.\r\n\r\nВсе представленное в нашем каталоге оборудование доступно к приобретению на выгодных условиях <a href=\"https://am-tech.ru/leasing/\">лизинга.</a>\r\n\r\nНаши специалисты помогут подобрать оптимальную схему лизинга под ваши производственные задачи и финансовые возможности, а также окажут содействие в оформлении всей необходимой документации.\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+ "short_description": "",
+ "sku": "",
+ "price": "",
+ "regular_price": "",
+ "sale_price": "",
+ "date_on_sale_from": null,
+ "date_on_sale_from_gmt": null,
+ "date_on_sale_to": null,
+ "date_on_sale_to_gmt": null,
+ "on_sale": false,
+ "purchasable": false,
+ "total_sales": 0,
+ "virtual": false,
+ "downloadable": false,
+ "downloads": [],
+ "download_limit": -1,
+ "download_expiry": -1,
+ "external_url": "",
+ "button_text": "",
+ "tax_status": "taxable",
+ "tax_class": "",
+ "manage_stock": false,
+ "stock_quantity": null,
+ "backorders": "no",
+ "backorders_allowed": false,
+ "backordered": false,
+ "low_stock_amount": null,
+ "sold_individually": false,
+ "weight": "",
+ "dimensions": {
+  "length": "",
+  "width": "",
+  "height": ""
+ },
+ "shipping_required": true,
+ "shipping_taxable": true,
+ "shipping_class": "",
+ "shipping_class_id": 0,
+ "reviews_allowed": true,
+ "average_rating": "0",
+ "rating_count": 0,
+ "upsell_ids": [],
+ "cross_sell_ids": [],
+ "parent_id": 0,
+ "purchase_note": "",
+ "categories": [
+  {
+   "id": 23,
+   "name": "Геодезические 3D-сканеры",
+   "slug": "geodesicheskie-3d-scaneri"
+  }
+ ],
+ "brands": [],
+ "tags": [],
+ "images": [
+  {
+   "id": 1658,
+   "date_created": "2025-08-17T09:58:04",
+   "date_created_gmt": "2025-08-17T03:58:04",
+   "date_modified": "2025-08-17T09:58:04",
+   "date_modified_gmt": "2025-08-17T03:58:04",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/yjz9e1d2kc05gstirzhh48kqoiw10blx.png",
+   "name": "yjz9e1d2kc05gstirzhh48kqoiw10blx",
+   "alt": ""
+  },
+  {
+   "id": 1658,
+   "date_created": "2025-08-17T09:58:04",
+   "date_created_gmt": "2025-08-17T03:58:04",
+   "date_modified": "2025-08-17T09:58:04",
+   "date_modified_gmt": "2025-08-17T03:58:04",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/yjz9e1d2kc05gstirzhh48kqoiw10blx.png",
+   "name": "yjz9e1d2kc05gstirzhh48kqoiw10blx",
+   "alt": ""
+  }
+ ],
+ "attributes": [],
+ "default_attributes": [],
+ "variations": [],
+ "grouped_products": [],
+ "menu_order": 999,
+ "price_html": "",
+ "related_ids": [
+  1631,
+  1621,
+  1651
+ ],
+ "meta_data": [
+  {
+   "id": 25073,
+   "key": "bitrix_id",
+   "value": "2239"
+  },
+  {
+   "id": 25074,
+   "key": "Символьный код",
+   "value": "fls10"
+  },
+  {
+   "id": 25075,
+   "key": "Описание",
+   "value": "<p>В основе функционирования сканера лежит передовая технология LiDAR (Light Detection and Ranging). Устройство излучает лазерные импульсы с длиной волны 905 нм и измеряет время, за которое отраженный свет возвращается к сенсору. Этот метод, известный как Time of Flight (ToF), позволяет с высокой точностью определять расстояние до объектов.</p>\n<p>Прибор способен производить до 320 000 измерений в секунду при одинарном отражении и до 640 000 измерений при двойном отражении. Такая производительность обеспечивает быстрое и детальное сканирование крупных объектов и территорий.</p>\n<p>Уникальной особенностью устройства является его способность вращаться на 360 градусов, что в сочетании с вертикальным углом обзора в 31 градус позволяет создавать полноценные трехмерные модели окружающего пространства. Встроенная камера с разрешением 26 мегапикселей (6252 х 4168) обеспечивает цветное сканирование, добавляя реалистичные текстуры к облаку точек.</p>\n<p>Для повышения точности позиционирования сканер оснащен инерциальной измерительной системой (IMU) и двухосевым инклинометром. Эти компоненты компенсируют движения прибора и обеспечивают точную привязку данных к системе координат.</p>\n<p>Устройство использует технологию SLAM (Simultaneous Localization and Mapping) для записи траектории движения. Это позволяет создавать точные трехмерные модели даже в условиях отсутствия сигнала GNSS, например, внутри зданий или в подземных сооружениях.</p>\n<p>Процесс работы со сканером интуитивно понятен и эргономичен. Управление осуществляется через мобильное устройство на базе Android, что обеспечивает удобство и гибкость в полевых условиях. Данные сохраняются на встроенный накопитель объемом 256 ГБ и могут быть переданы через USB-интерфейс.</p>\n<p>Прибор обеспечивает высокую точность измерений - до 5 см при дальности сканирования до 120 метров (при 60% отражающей способности поверхности). Это делает его идеальным для широкого спектра геодезических и картографических задач.</p>\n<p>Важно отметить, что устройство относится к лазерным приборам класса 1, что обеспечивает полную безопасность для глаз оператора и окружающих. Это позволяет использовать сканер без специальных защитных средств, делая процесс более комфортным и эффективным.</p>\n<p>Конструкция разработана с учетом требований к надежности и мобильности. Прибор имеет степень защиты IP54, что позволяет использовать его в различных погодных условиях. При весе всего 1,26 кг и габаритах 159х118х127 мм, сканер остается высокомобильным и удобным в использовании, несмотря на свои высокие технические характеристики.</p>\n<p>Все представленное в нашем каталоге оборудование доступно к приобретению на выгодных условиях <a href=\"https://am-tech.ru/leasing/\">лизинга.</a></p>\n<p>Наши специалисты помогут подобрать оптимальную схему лизинга под ваши производственные задачи и финансовые возможности, а также окажут содействие в оформлении всей необходимой документации.</p>"
+  },
+  {
+   "id": 25079,
+   "key": "Вес, кг",
+   "value": "1,26"
+  },
+  {
+   "id": 25080,
+   "key": "Точность",
+   "value": "5 см"
+  },
+  {
+   "id": 25081,
+   "key": "Страна производства",
+   "value": "Китай"
+  },
+  {
+   "id": 25082,
+   "key": "Связанные товары по фильтру",
+   "value": "[]"
+  },
+  {
+   "id": 25083,
+   "key": "Длина волны, нм",
+   "value": "905"
+  },
+  {
+   "id": 25084,
+   "key": "Класс лазера (безопасность для глаз)",
+   "value": "1"
+  },
+  {
+   "id": 25085,
+   "key": "Скорость сканирования, точек/сек",
+   "value": "Одинарное отражение: 320000 &lt;br&gt; Двойное отражение: 640000"
+  },
+  {
+   "id": 25086,
+   "key": "Угол обзора, °",
+   "value": "310х360"
+  },
+  {
+   "id": 25087,
+   "key": "Система компенсации",
+   "value": "IMU"
+  },
+  {
+   "id": 25088,
+   "key": "Камера 360°",
+   "value": "26MP (6252 х 4168)"
+  },
+  {
+   "id": 25089,
+   "key": "Средняя потребляемая мощность, ВТ",
+   "value": "24"
+  },
+  {
+   "id": 25090,
+   "key": "Температура хранения, С°",
+   "value": "от -30 до 60"
+  },
+  {
+   "id": 25091,
+   "key": "Принцип измерения дальности",
+   "value": "ToF"
+  },
+  {
+   "id": 25092,
+   "key": "Диапазон измерения расстояний, м",
+   "value": "120 при 60% отражающей способности"
+  },
+  {
+   "id": 25093,
+   "key": "Температура рабочей среды, ℃",
+   "value": "от -10 до 50"
+  },
+  {
+   "id": 25094,
+   "key": "Режим сканирования",
+   "value": "Normal/High"
+  },
+  {
+   "id": 25095,
+   "key": "Рекомендуемый размер объекта",
+   "value": "здания и сооружения, объекты инфраструктуры"
+  },
+  {
+   "id": 25096,
+   "key": "Наличие текстур",
+   "value": "да"
+  },
+  {
+   "id": 25097,
+   "key": "Цветное сканирование",
+   "value": "да"
+  },
+  {
+   "id": 25098,
+   "key": "Время работы от батареи, ч",
+   "value": "4 часа от одной батареи (SLAM)"
+  },
+  {
+   "id": 25099,
+   "key": "Операционная система",
+   "value": "Windows, Android"
+  },
+  {
+   "id": 25100,
+   "key": "Передача данных",
+   "value": "USB 256 Гб"
+  },
+  {
+   "id": 25101,
+   "key": "Форматы данных",
+   "value": ".epi"
+  },
+  {
+   "id": 25102,
+   "key": "Выходные форматы",
+   "value": ".las, .pcd, .e57, .pts, .xyz"
+  },
+  {
+   "id": 25103,
+   "key": "Возможности программного обеспечения",
+   "value": "Импорт, конвертация, сшивка, сегментирование, чистка, измерения"
+  },
+  {
+   "id": 25104,
+   "key": "Двухосевой инклинометр",
+   "value": "встроенный"
+  },
+  {
+   "id": 25105,
+   "key": "Пылевлагозащищенность",
+   "value": "IP54"
+  },
+  {
+   "id": 25106,
+   "key": "Управление сканером",
+   "value": "мобильное устройство на Android"
+  },
+  {
+   "id": 25107,
+   "key": "Внешние габариты, мм",
+   "value": "159х118х127"
+  },
+  {
+   "id": 25108,
+   "key": "bitrix_picture",
+   "value": "/pr_new_files/iblock/10c/25tv0txom9qmdpy4fu0ecp51e5o68ep9.png"
+  },
+  {
+   "id": 25109,
+   "key": "Документы товара",
+   "value": "1623"
+  },
+  {
+   "id": 30947,
+   "key": "wbcr_wp_old_slug",
+   "value": "%d0%bb%d0%b0%d0%b7%d0%b5%d1%80%d0%bd%d1%8b%d0%b9-%d0%b3%d0%b5%d0%be%d0%b4%d0%b5%d0%b7%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d0%b9-%d1%81%d0%ba%d0%b0%d0%bd%d0%b5%d1%80-fls10"
+  },
+  {
+   "id": 35740,
+   "key": "_yoast_wpseo_title",
+   "value": "Лазерный геодезический сканер FLS10 - заказать у производителя с доставкой по России | AM-Tech"
+  },
+  {
+   "id": 35741,
+   "key": "_yoast_wpseo_metadesc",
+   "value": "Заказать Лазерный геодезический сканер FLS10 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91"
+  },
+  {
+   "id": 40726,
+   "key": "Код с видео (iframe)",
+   "value": ""
+  },
+  {
+   "id": 40727,
+   "key": "Файл видео",
+   "value": ""
+  },
+  {
+   "id": 40728,
+   "key": "_news_category",
+   "value": "0"
+  },
+  {
+   "id": 40729,
+   "key": "_news_tag",
+   "value": "0"
+  },
+  {
+   "id": 40730,
+   "key": "_custom_advantages",
+   "value": ""
+  },
+  {
+   "id": 40731,
+   "key": "_my_menu_type",
+   "value": "обычное"
+  },
+  {
+   "id": 40732,
+   "key": "_video_block",
+   "value": {
+    "video_title": "",
+    "video_post_id": "",
+    "right_title": "",
+    "subtitle": "",
+    "video_description": "",
+    "button_text": "Смотреть больше видео",
+    "tag_id": ""
+   }
+  },
+  {
+   "id": 40733,
+   "key": "boldgrid_in_page_containers",
+   "value": "1"
+  },
+  {
+   "id": 40734,
+   "key": "_yoast_wpseo_primary_product_brand",
+   "value": ""
+  },
+  {
+   "id": 40735,
+   "key": "_yoast_wpseo_primary_product_cat",
+   "value": "23"
+  },
+  {
+   "id": 40736,
+   "key": "_yoast_wpseo_content_score",
+   "value": "30"
+  },
+  {
+   "id": 40737,
+   "key": "_yoast_wpseo_estimated-reading-time-minutes",
+   "value": "3"
+  },
+  {
+   "id": 52185,
+   "key": "_elementor_page_assets",
+   "value": []
+  }
+ ],
+ "stock_status": "instock",
+ "has_options": false,
+ "post_password": "",
+ "global_unique_id": "",
+ "permalink_template": "https://am-tech.ru/product/%pagename%/",
+ "generated_slug": "lazernyj-geodezicheskij-skaner-fls10",
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Лазерный геодезический сканер FLS10 - заказать у производителя с доставкой по России | AM-Tech</title>\n<meta name=\"description\" content=\"Заказать Лазерный геодезический сканер FLS10 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/product/lazernyj-geodezicheskij-skaner-fls10/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Лазерный геодезический сканер FLS10 - заказать у производителя с доставкой по России | AM-Tech\" />\n<meta property=\"og:description\" content=\"Заказать Лазерный геодезический сканер FLS10 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/product/lazernyj-geodezicheskij-skaner-fls10/\" />\n<meta property=\"og:site_name\" content=\"am-tech.ru\" />\n<meta property=\"article:modified_time\" content=\"2026-07-29T13:59:40+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2025/08/yjz9e1d2kc05gstirzhh48kqoiw10blx.png\" />\n\t<meta property=\"og:image:width\" content=\"1000\" />\n\t<meta property=\"og:image:height\" content=\"666\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"3 минуты\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/product/lazernyj-geodezicheskij-skaner-fls10/\",\"url\":\"https://am-tech.ru/product/lazernyj-geodezicheskij-skaner-fls10/\",\"name\":\"Лазерный геодезический сканер FLS10 - заказать у производителя с доставкой по России | AM-Tech\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/product/lazernyj-geodezicheskij-skaner-fls10/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/product/lazernyj-geodezicheskij-skaner-fls10/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2025/08/yjz9e1d2kc05gstirzhh48kqoiw10blx.png\",\"datePublished\":\"2025-08-17T03:58:03+00:00\",\"dateModified\":\"2026-07-29T13:59:40+00:00\",\"description\":\"Заказать Лазерный геодезический сканер FLS10 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91\",\"breadcrumb\":{\"@id\":\"https://am-tech.ru/product/lazernyj-geodezicheskij-skaner-fls10/#breadcrumb\"},\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/product/lazernyj-geodezicheskij-skaner-fls10/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/product/lazernyj-geodezicheskij-skaner-fls10/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2025/08/yjz9e1d2kc05gstirzhh48kqoiw10blx.png\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2025/08/yjz9e1d2kc05gstirzhh48kqoiw10blx.png\",\"width\":1000,\"height\":666},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://am-tech.ru/product/lazernyj-geodezicheskij-skaner-fls10/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Главная страница\",\"item\":\"https://am-tech.ru/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Промышленные 3D сканеры: оборудование для реверс-инжиниринга и контроля качества\",\"item\":\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Геодезические 3D-сканеры\",\"item\":\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/geodesicheskie-3d-scaneri/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Лазерный геодезический сканер FLS10\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"am-tech.ru\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"am-tech.ru\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"am-tech.ru\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "Лазерный геодезический сканер FLS10 - заказать у производителя с доставкой по России | AM-Tech",
+  "description": "Заказать Лазерный геодезический сканер FLS10 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/product/lazernyj-geodezicheskij-skaner-fls10/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "Лазерный геодезический сканер FLS10 - заказать у производителя с доставкой по России | AM-Tech",
+  "og_description": "Заказать Лазерный геодезический сканер FLS10 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91",
+  "og_url": "https://am-tech.ru/product/lazernyj-geodezicheskij-skaner-fls10/",
+  "og_site_name": "am-tech.ru",
+  "article_modified_time": "2026-07-29T13:59:40+00:00",
+  "og_image": [
+   {
+    "width": 1000,
+    "height": 666,
+    "url": "https://am-tech.ru/wp-content/uploads/2025/08/yjz9e1d2kc05gstirzhh48kqoiw10blx.png",
+    "type": "image/png"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "3 минуты"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/product/lazernyj-geodezicheskij-skaner-fls10/",
+     "url": "https://am-tech.ru/product/lazernyj-geodezicheskij-skaner-fls10/",
+     "name": "Лазерный геодезический сканер FLS10 - заказать у производителя с доставкой по России | AM-Tech",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/product/lazernyj-geodezicheskij-skaner-fls10/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/product/lazernyj-geodezicheskij-skaner-fls10/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2025/08/yjz9e1d2kc05gstirzhh48kqoiw10blx.png",
+     "datePublished": "2025-08-17T03:58:03+00:00",
+     "dateModified": "2026-07-29T13:59:40+00:00",
+     "description": "Заказать Лазерный геодезический сканер FLS10 - демонстрация и консультация наших специалистов. +7 (495) 109 11 91",
+     "breadcrumb": {
+      "@id": "https://am-tech.ru/product/lazernyj-geodezicheskij-skaner-fls10/#breadcrumb"
+     },
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/product/lazernyj-geodezicheskij-skaner-fls10/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/product/lazernyj-geodezicheskij-skaner-fls10/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2025/08/yjz9e1d2kc05gstirzhh48kqoiw10blx.png",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2025/08/yjz9e1d2kc05gstirzhh48kqoiw10blx.png",
+     "width": 1000,
+     "height": 666
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://am-tech.ru/product/lazernyj-geodezicheskij-skaner-fls10/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Главная страница",
+       "item": "https://am-tech.ru/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Промышленные 3D сканеры: оборудование для реверс-инжиниринга и контроля качества",
+       "item": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "Геодезические 3D-сканеры",
+       "item": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/geodesicheskie-3d-scaneri/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 4,
+       "name": "Лазерный геодезический сканер FLS10"
+      }
+     ]
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "am-tech.ru",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "am-tech.ru",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "am-tech.ru"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wc/v3/products/1657",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wc/v3/products"
+   }
+  ]
+ }
+}

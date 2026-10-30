@@ -1,0 +1,23 @@
+[
+ {
+  "plan_task": 24,
+  "label": "Description (Yoast)",
+  "type": "news",
+  "slug": "postobrabotka-metallicheskih-implantatov-obzor-metodov",
+  "field": "description",
+  "value": "Инженерный обзор постобработки металлических имплантатов после SLM и EBM: удаление порошка, термообработка, HIP, отделение от платформы и другие этапы.",
+  "before_text": "(нет)",
+  "after_text": "Инженерный обзор постобработки металлических имплантатов после SLM и EBM: удаление порошка, термообработка, HIP, отделение от платформы и другие этапы.",
+  "comment": "Поля Yoast открыты (задача 41 выполнена 13.10.2026), пробный запуск прошёл. 151 симв., по тексту страницы",
+  "page_path": "/news/postobrabotka-metallicheskih-implantatov-obzor-metodov/",
+  "row": 141,
+  "id": 4291,
+  "url": "https://am-tech.ru/news/postobrabotka-metallicheskih-implantatov-obzor-metodov/",
+  "before": "",
+  "after": "Инженерный обзор постобработки металлических имплантатов после SLM и EBM: удаление порошка, термообработка, HIP, отделение от платформы и другие этапы.",
+  "saved": true,
+  "on_page": true,
+  "on_cached_page": true,
+  "status": "применено"
+ }
+]

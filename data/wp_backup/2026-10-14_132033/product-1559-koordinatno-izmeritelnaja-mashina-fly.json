@@ -1,0 +1,345 @@
+{
+ "id": 1559,
+ "name": "Координатно-измерительная машина FLY",
+ "slug": "koordinatno-izmeritelnaja-mashina-fly",
+ "permalink": "https://am-tech.ru/product/koordinatno-izmeritelnaja-mashina-fly/",
+ "date_created": "2025-08-17T06:34:53",
+ "date_created_gmt": "2025-08-17T03:34:53",
+ "date_modified": "2025-09-21T16:23:39",
+ "date_modified_gmt": "2025-09-21T13:23:39",
+ "type": "simple",
+ "status": "publish",
+ "featured": false,
+ "catalog_visibility": "visible",
+ "description": "<p><span style=\"font-weight: 400;\">Координатно-измерительная машина FLY является современным устройством, которое обеспечивает высокоточное определение координат и контроля геометрических параметров деталей в автоматическом режиме. Система имеет множество встроенных функций и использует передовые технологии для обработки данных и измерений.</span></p>\n<h2><span style=\"font-weight: 400;\">Основные характеристики и возможности</span></h2>\n<p><span style=\"font-weight: 400;\">Конструкция машины включает:</span></p>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"2\"><span style=\"font-weight: 400;\">Электронный блок обработки данных</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"2\"><span style=\"font-weight: 400;\">Оптические и контактные зонды</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"2\"><span style=\"font-weight: 400;\">Лазерный сканер последнего поколения</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"2\"><span style=\"font-weight: 400;\">Систему индикаторов состояния</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"2\"><span style=\"font-weight: 400;\">Фильтр помех для минимума погрешности</span></li>\n</ul>\n<p><span style=\"font-weight: 400;\">Программное обеспечение предоставляет:</span></p>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"2\"><span style=\"font-weight: 400;\">Автоматизированные режимы работы</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"2\"><span style=\"font-weight: 400;\">Настройки частоты отсчета</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"2\"><span style=\"font-weight: 400;\">Возможность сохранения данных в электронном виде</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"2\"><span style=\"font-weight: 400;\">Инструмент для быстрой обработки результатов</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"2\"><span style=\"font-weight: 400;\">Значение измерений в режиме реального времени</span></li>\n</ul>\n<h2><span style=\"font-weight: 400;\">Применение и условия эксплуатации</span></h2>\n<p><span style=\"font-weight: 400;\">FLY обеспечивает высокий уровня точности в различных условиях производства, включая:</span></p>\n<p><span style=\"font-weight: 400;\">Контроль качества деталей с использованием:</span></p>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"2\"><span style=\"font-weight: 400;\">Автоматических циклов измерения</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"2\"><span style=\"font-weight: 400;\">Оптических датчиков</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"2\"><span style=\"font-weight: 400;\">Системы вращения измерительной головки</span></li>\n</ul>\n<p><span style=\"font-weight: 400;\">Другие сферы применения:</span></p>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"2\"><span style=\"font-weight: 400;\">Калибровка приборов</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"2\"><span style=\"font-weight: 400;\">Реверс-инжиниринг</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"2\"><span style=\"font-weight: 400;\">Контроль изменения геометрии</span></li>\n</ul>\n<table border=\"1\" cellspacing=\"1\" cellpadding=\"1\" align=\"center\">\n<tbody>\n<tr>\n<td colspan=\"5\" rowspan=\"2\">\n<p>МОДЕЛЬ&nbsp;</p>\n</td>\n<td colspan=\"3\">Диапазон измерения (мм)&nbsp; &nbsp;</td>\n<td colspan=\"3\" rowspan=\"1\">MPEe, мкм<br />Стандартная точность&nbsp;</td>\n<td colspan=\"3\" rowspan=\"1\">MPEe, мкм<br />Высокая точность&nbsp;</td>\n<td colspan=\"3\" rowspan=\"1\">MPEe, мкм<br />Очень высокая точность&nbsp;</td>\n<td colspan=\"3\" rowspan=\"1\">&nbsp;Размеры (мм)&nbsp;</td>\n<td rowspan=\"2\">Максимальная<br />масса детали, кг&nbsp;</td>\n<td rowspan=\"2\">&nbsp;Масса КИМ, кг&nbsp;</td>\n<td rowspan=\"2\">&nbsp;Скорость движения,<br />мм/с&nbsp;</td>\n<td rowspan=\"2\">&nbsp;Поступательное<br />ускорение,<br />мм/с2&nbsp;&nbsp;</td>\n</tr>\n<tr>\n<td colspan=\"1\">&nbsp;ОСЬ Х&nbsp;</td>\n<td rowspan=\"1\">&nbsp;ОСЬ Y&nbsp;</td>\n<td rowspan=\"1\">&nbsp;ОСЬ Z&nbsp;</td>\n<td colspan=\"1\">&nbsp;TP20&nbsp;</td>\n<td rowspan=\"1\">&nbsp;TP200&nbsp;</td>\n<td rowspan=\"1\">&nbsp;SP25&nbsp;</td>\n<td colspan=\"1\">&nbsp;TP20&nbsp;</td>\n<td rowspan=\"1\">&nbsp;TP200&nbsp;</td>\n<td rowspan=\"1\">&nbsp;SP25&nbsp;</td>\n<td colspan=\"1\">&nbsp;TP20&nbsp;</td>\n<td rowspan=\"1\">&nbsp;TP200&nbsp;</td>\n<td rowspan=\"1\">&nbsp;SP25&nbsp;</td>\n<td colspan=\"1\">&nbsp;Д&nbsp;</td>\n<td rowspan=\"1\">&nbsp;Ш&nbsp;</td>\n<td rowspan=\"1\">&nbsp;В&nbsp;</td>\n</tr>\n<tr>\n<td colspan=\"2\">&nbsp;FLY&nbsp;654&nbsp;</td>\n<td colspan=\"4\" rowspan=\"1\">\n<p>&nbsp;500&nbsp;</p>\n</td>\n<td rowspan=\"1\">&nbsp;600&nbsp;</td>\n<td>&nbsp;400&nbsp;</td>\n<td rowspan=\"1\">&nbsp;2.3+Д/250&nbsp;</td>\n<td rowspan=\"1\">&nbsp;2.1+Д/250&nbsp;&nbsp;</td>\n<td>&nbsp;&nbsp;1.8+Д/250&nbsp;&nbsp;&nbsp;</td>\n<td rowspan=\"1\">&nbsp;2.1+Д/300&nbsp;</td>\n<td rowspan=\"1\">&nbsp;&nbsp;1.9+Д/300&nbsp;</td>\n<td>&nbsp;1.6+Д/300&nbsp;</td>\n<td rowspan=\"1\">&nbsp;&nbsp;1.9+Д/330&nbsp;</td>\n<td rowspan=\"1\">&nbsp;1.7+Д/330&nbsp;</td>\n<td>&nbsp;&nbsp;1.4+Д/330&nbsp;</td>\n<td rowspan=\"1\">1420&nbsp;</td>\n<td rowspan=\"1\">&nbsp;1135&nbsp;</td>\n<td>&nbsp;2310&nbsp;</td>\n<td rowspan=\"1\">&nbsp;500&nbsp;</td>\n<td rowspan=\"1\">900&nbsp;</td>\n<td rowspan=\"5\">&nbsp;430&nbsp;</td>\n<td rowspan=\"5\">&nbsp;1300&nbsp;</td>\n</tr>\n<tr>\n<td colspan=\"5\">&nbsp;FLY 866&nbsp;</td>\n<td colspan=\"1\">&nbsp;600&nbsp;</td>\n<td rowspan=\"1\">&nbsp;800&nbsp;</td>\n<td rowspan=\"1\">&nbsp;600&nbsp;</td>\n<td rowspan=\"1\">&nbsp;2.6+Д/250&nbsp;</td>\n<td rowspan=\"1\">&nbsp;2.4+Д/250&nbsp;</td>\n<td colspan=\"1\">&nbsp;2.1+Д/250&nbsp;</td>\n<td colspan=\"1\">&nbsp;2.3+Д/300&nbsp;</td>\n<td colspan=\"1\">&nbsp;2.1+Д/300&nbsp;</td>\n<td colspan=\"1\">&nbsp;1.8+Д/300&nbsp;</td>\n<td colspan=\"1\">&nbsp;2.0+Д/330&nbsp;</td>\n<td colspan=\"1\">&nbsp;1.8+Д/330&nbsp;</td>\n<td colspan=\"1\">&nbsp;1.6+Д/330&nbsp;</td>\n<td colspan=\"1\">&nbsp;1740&nbsp;</td>\n<td colspan=\"1\">&nbsp;1420&nbsp;</td>\n<td colspan=\"1\">&nbsp;2760&nbsp;</td>\n<td colspan=\"1\">800&nbsp;</td>\n<td colspan=\"1\">1300&nbsp;</td>\n</tr>\n<tr>\n<td colspan=\"5\">&nbsp;FLY&nbsp;1086&nbsp;</td>\n<td colspan=\"1\">&nbsp;800&nbsp;</td>\n<td rowspan=\"1\">&nbsp;1000&nbsp;</td>\n<td rowspan=\"1\">&nbsp;600&nbsp;</td>\n<td rowspan=\"1\">&nbsp;2.7+Д/250&nbsp;</td>\n<td rowspan=\"1\">&nbsp;2.5+Д/250&nbsp;</td>\n<td colspan=\"1\">&nbsp;2.2+Д/250&nbsp;</td>\n<td colspan=\"1\">&nbsp;2.4+Д/300&nbsp;</td>\n<td colspan=\"1\">&nbsp;2.2+Д/300&nbsp;</td>\n<td colspan=\"1\">&nbsp;1.9+Д/300&nbsp;</td>\n<td colspan=\"1\">&nbsp;2.1+Д/330&nbsp;</td>\n<td colspan=\"1\">&nbsp;1.9+Д/330&nbsp;</td>\n<td colspan=\"1\">&nbsp;1.7+Д/330&nbsp;</td>\n<td colspan=\"1\">&nbsp;1940&nbsp;</td>\n<td colspan=\"1\">&nbsp;1620&nbsp;</td>\n<td colspan=\"1\">&nbsp;2760&nbsp;</td>\n<td colspan=\"1\">1000&nbsp;</td>\n<td colspan=\"1\">1700&nbsp;</td>\n</tr>\n<tr>\n<td colspan=\"5\">&nbsp;FLY 1286&nbsp;</td>\n<td colspan=\"1\">&nbsp;800&nbsp;</td>\n<td rowspan=\"1\">&nbsp;1200&nbsp;</td>\n<td rowspan=\"1\">&nbsp;600&nbsp;</td>\n<td rowspan=\"1\">&nbsp;2.7+Д/250&nbsp;</td>\n<td rowspan=\"1\">&nbsp;2.5+Д/250&nbsp;</td>\n<td colspan=\"1\">&nbsp;2.2+Д/250&nbsp;</td>\n<td colspan=\"1\">&nbsp;2.4+Д/300&nbsp;</td>\n<td colspan=\"1\">&nbsp;2.2+Д/300&nbsp;</td>\n<td colspan=\"1\">&nbsp;&nbsp;1.9+Д/300&nbsp;&nbsp;</td>\n<td colspan=\"1\">&nbsp;&nbsp;2.1+Д/330&nbsp;</td>\n<td colspan=\"1\">&nbsp;1.9+Д/330&nbsp;</td>\n<td colspan=\"1\">&nbsp;1.7+Д/330&nbsp;</td>\n<td colspan=\"1\">&nbsp;2140&nbsp;</td>\n<td colspan=\"1\">&nbsp;1620&nbsp;</td>\n<td colspan=\"1\">&nbsp;2760&nbsp;</td>\n<td colspan=\"1\">1000&nbsp;</td>\n<td colspan=\"1\">1900&nbsp;</td>\n</tr>\n<tr>\n<td colspan=\"5\">&nbsp;FLY&nbsp;1586&nbsp;</td>\n<td colspan=\"1\">&nbsp;800&nbsp;</td>\n<td rowspan=\"1\">&nbsp;1500&nbsp;</td>\n<td rowspan=\"1\">&nbsp;600&nbsp;</td>\n<td rowspan=\"1\">&nbsp;2.7+Д/250&nbsp;</td>\n<td rowspan=\"1\">&nbsp;2.5+Д/250&nbsp;</td>\n<td colspan=\"1\">&nbsp;2.2+Д/250&nbsp;</td>\n<td colspan=\"1\">&nbsp;2.4+Д/300&nbsp;</td>\n<td colspan=\"1\">&nbsp;2.2+Д/300&nbsp;</td>\n<td colspan=\"1\">&nbsp;1.9+Д/300&nbsp;</td>\n<td colspan=\"1\">&nbsp;2.1+Д/330&nbsp;</td>\n<td colspan=\"1\">&nbsp;1.9+Д/330&nbsp;</td>\n<td colspan=\"1\">&nbsp;1.7+Д/330&nbsp;&nbsp;</td>\n<td colspan=\"1\">&nbsp;2440&nbsp;</td>\n<td colspan=\"1\">&nbsp;1620&nbsp;</td>\n<td colspan=\"1\">&nbsp;2760&nbsp;</td>\n<td colspan=\"1\">&nbsp;1000&nbsp;</td>\n<td colspan=\"1\">&nbsp;2200&nbsp;</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<p>Примечание: Точность машины одной и той же спецификации зависит от конфигурации. Технические параметры и внешний вид продукта могут быть обновлены без предварительного уведомления.</p>\n<p>Все представленное в нашем каталоге оборудование доступно к приобретению на выгодных условиях <a href=\"https://am-tech.ru/leasing/\">лизинга.</a></p>\n<p>Наши специалисты помогут подобрать оптимальную схему лизинга под ваши производственные задачи и финансовые возможности, а также окажут содействие в оформлении всей необходимой документации.</p>",
+ "short_description": "<p>Трехкоординатная измерительная машина с ЧПУ серии FLY - это высокоточное измерительное оборудование, способное<br />выполнять быстро и эффективно любые задачи по измерению и обнаружению благодаря сочетанию различных сканирующих и триггерных датчиков.</p>",
+ "sku": "",
+ "price": "",
+ "regular_price": "",
+ "sale_price": "",
+ "date_on_sale_from": null,
+ "date_on_sale_from_gmt": null,
+ "date_on_sale_to": null,
+ "date_on_sale_to_gmt": null,
+ "on_sale": false,
+ "purchasable": false,
+ "total_sales": 0,
+ "virtual": false,
+ "downloadable": false,
+ "downloads": [],
+ "download_limit": -1,
+ "download_expiry": -1,
+ "external_url": "",
+ "button_text": "",
+ "tax_status": "taxable",
+ "tax_class": "",
+ "manage_stock": false,
+ "stock_quantity": null,
+ "backorders": "no",
+ "backorders_allowed": false,
+ "backordered": false,
+ "low_stock_amount": null,
+ "sold_individually": false,
+ "weight": "",
+ "dimensions": {
+  "length": "",
+  "width": "",
+  "height": ""
+ },
+ "shipping_required": true,
+ "shipping_taxable": true,
+ "shipping_class": "",
+ "shipping_class_id": 0,
+ "reviews_allowed": true,
+ "average_rating": "0",
+ "rating_count": 0,
+ "upsell_ids": [],
+ "cross_sell_ids": [],
+ "parent_id": 0,
+ "purchase_note": "",
+ "categories": [
+  {
+   "id": 22,
+   "name": "Координатно-измерительные машины",
+   "slug": "kim-3d"
+  }
+ ],
+ "brands": [],
+ "tags": [],
+ "images": [
+  {
+   "id": 1560,
+   "date_created": "2025-08-17T09:34:54",
+   "date_created_gmt": "2025-08-17T03:34:54",
+   "date_modified": "2025-08-17T09:34:54",
+   "date_modified_gmt": "2025-08-17T03:34:54",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/a5wvq4gjlb0x7580nwr1s8ezl4zmlqrh.png",
+   "name": "a5wvq4gjlb0x7580nwr1s8ezl4zmlqrh",
+   "alt": ""
+  },
+  {
+   "id": 1560,
+   "date_created": "2025-08-17T09:34:54",
+   "date_created_gmt": "2025-08-17T03:34:54",
+   "date_modified": "2025-08-17T09:34:54",
+   "date_modified_gmt": "2025-08-17T03:34:54",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/a5wvq4gjlb0x7580nwr1s8ezl4zmlqrh.png",
+   "name": "a5wvq4gjlb0x7580nwr1s8ezl4zmlqrh",
+   "alt": ""
+  }
+ ],
+ "attributes": [],
+ "default_attributes": [],
+ "variations": [],
+ "grouped_products": [],
+ "menu_order": 0,
+ "price_html": "",
+ "related_ids": [
+  1557,
+  1419,
+  1555,
+  1416,
+  1553
+ ],
+ "meta_data": [
+  {
+   "id": 24098,
+   "key": "bitrix_id",
+   "value": "2219"
+  },
+  {
+   "id": 24099,
+   "key": "Символьный код",
+   "value": "fly"
+  },
+  {
+   "id": 24100,
+   "key": "Анонс",
+   "value": "<p>Трехкоординатная измерительная машина с ЧПУ серии FLY - это высокоточное измерительное оборудование, способное<br />выполнять быстро и эффективно любые задачи по измерению и обнаружению благодаря сочетанию различных сканирующих и триггерных датчиков.</p>"
+  },
+  {
+   "id": 24101,
+   "key": "Описание",
+   "value": "<p><span style=\"font-weight: 400;\">Координатно-измерительная машина FLY является современным устройством, которое обеспечивает высокоточное определение координат и контроля геометрических параметров деталей в автоматическом режиме. Система имеет множество встроенных функций и использует передовые технологии для обработки данных и измерений.</span></p>\n<h2><span style=\"font-weight: 400;\">Основные характеристики и возможности</span></h2>\n<p><span style=\"font-weight: 400;\">Конструкция машины включает:</span></p>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"2\"><span style=\"font-weight: 400;\">Электронный блок обработки данных</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"2\"><span style=\"font-weight: 400;\">Оптические и контактные зонды</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"2\"><span style=\"font-weight: 400;\">Лазерный сканер последнего поколения</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"2\"><span style=\"font-weight: 400;\">Систему индикаторов состояния</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"2\"><span style=\"font-weight: 400;\">Фильтр помех для минимума погрешности</span></li>\n</ul>\n<p><span style=\"font-weight: 400;\">Программное обеспечение предоставляет:</span></p>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"2\"><span style=\"font-weight: 400;\">Автоматизированные режимы работы</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"2\"><span style=\"font-weight: 400;\">Настройки частоты отсчета</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"2\"><span style=\"font-weight: 400;\">Возможность сохранения данных в электронном виде</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"2\"><span style=\"font-weight: 400;\">Инструмент для быстрой обработки результатов</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"2\"><span style=\"font-weight: 400;\">Значение измерений в режиме реального времени</span></li>\n</ul>\n<h2><span style=\"font-weight: 400;\">Применение и условия эксплуатации</span></h2>\n<p><span style=\"font-weight: 400;\">FLY обеспечивает высокий уровня точности в различных условиях производства, включая:</span></p>\n<p><span style=\"font-weight: 400;\">Контроль качества деталей с использованием:</span></p>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"2\"><span style=\"font-weight: 400;\">Автоматических циклов измерения</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"2\"><span style=\"font-weight: 400;\">Оптических датчиков</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"2\"><span style=\"font-weight: 400;\">Системы вращения измерительной головки</span></li>\n</ul>\n<p><span style=\"font-weight: 400;\">Другие сферы применения:</span></p>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"2\"><span style=\"font-weight: 400;\">Калибровка приборов</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"2\"><span style=\"font-weight: 400;\">Реверс-инжиниринг</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"2\"><span style=\"font-weight: 400;\">Контроль изменения геометрии</span></li>\n</ul>\n<table border=\"1\" cellspacing=\"1\" cellpadding=\"1\" align=\"center\">\n<tbody>\n<tr>\n<td colspan=\"5\" rowspan=\"2\">\n<p>МОДЕЛЬ&nbsp;</p>\n</td>\n<td colspan=\"3\">Диапазон измерения (мм)&nbsp; &nbsp;</td>\n<td colspan=\"3\" rowspan=\"1\">MPEe, мкм<br />Стандартная точность&nbsp;</td>\n<td colspan=\"3\" rowspan=\"1\">MPEe, мкм<br />Высокая точность&nbsp;</td>\n<td colspan=\"3\" rowspan=\"1\">MPEe, мкм<br />Очень высокая точность&nbsp;</td>\n<td colspan=\"3\" rowspan=\"1\">&nbsp;Размеры (мм)&nbsp;</td>\n<td rowspan=\"2\">Максимальная<br />масса детали, кг&nbsp;</td>\n<td rowspan=\"2\">&nbsp;Масса КИМ, кг&nbsp;</td>\n<td rowspan=\"2\">&nbsp;Скорость движения,<br />мм/с&nbsp;</td>\n<td rowspan=\"2\">&nbsp;Поступательное<br />ускорение,<br />мм/с2&nbsp;&nbsp;</td>\n</tr>\n<tr>\n<td colspan=\"1\">&nbsp;ОСЬ Х&nbsp;</td>\n<td rowspan=\"1\">&nbsp;ОСЬ Y&nbsp;</td>\n<td rowspan=\"1\">&nbsp;ОСЬ Z&nbsp;</td>\n<td colspan=\"1\">&nbsp;TP20&nbsp;</td>\n<td rowspan=\"1\">&nbsp;TP200&nbsp;</td>\n<td rowspan=\"1\">&nbsp;SP25&nbsp;</td>\n<td colspan=\"1\">&nbsp;TP20&nbsp;</td>\n<td rowspan=\"1\">&nbsp;TP200&nbsp;</td>\n<td rowspan=\"1\">&nbsp;SP25&nbsp;</td>\n<td colspan=\"1\">&nbsp;TP20&nbsp;</td>\n<td rowspan=\"1\">&nbsp;TP200&nbsp;</td>\n<td rowspan=\"1\">&nbsp;SP25&nbsp;</td>\n<td colspan=\"1\">&nbsp;Д&nbsp;</td>\n<td rowspan=\"1\">&nbsp;Ш&nbsp;</td>\n<td rowspan=\"1\">&nbsp;В&nbsp;</td>\n</tr>\n<tr>\n<td colspan=\"2\">&nbsp;FLY&nbsp;654&nbsp;</td>\n<td colspan=\"4\" rowspan=\"1\">\n<p>&nbsp;500&nbsp;</p>\n</td>\n<td rowspan=\"1\">&nbsp;600&nbsp;</td>\n<td>&nbsp;400&nbsp;</td>\n<td rowspan=\"1\">&nbsp;2.3+Д/250&nbsp;</td>\n<td rowspan=\"1\">&nbsp;2.1+Д/250&nbsp;&nbsp;</td>\n<td>&nbsp;&nbsp;1.8+Д/250&nbsp;&nbsp;&nbsp;</td>\n<td rowspan=\"1\">&nbsp;2.1+Д/300&nbsp;</td>\n<td rowspan=\"1\">&nbsp;&nbsp;1.9+Д/300&nbsp;</td>\n<td>&nbsp;1.6+Д/300&nbsp;</td>\n<td rowspan=\"1\">&nbsp;&nbsp;1.9+Д/330&nbsp;</td>\n<td rowspan=\"1\">&nbsp;1.7+Д/330&nbsp;</td>\n<td>&nbsp;&nbsp;1.4+Д/330&nbsp;</td>\n<td rowspan=\"1\">1420&nbsp;</td>\n<td rowspan=\"1\">&nbsp;1135&nbsp;</td>\n<td>&nbsp;2310&nbsp;</td>\n<td rowspan=\"1\">&nbsp;500&nbsp;</td>\n<td rowspan=\"1\">900&nbsp;</td>\n<td rowspan=\"5\">&nbsp;430&nbsp;</td>\n<td rowspan=\"5\">&nbsp;1300&nbsp;</td>\n</tr>\n<tr>\n<td colspan=\"5\">&nbsp;FLY 866&nbsp;</td>\n<td colspan=\"1\">&nbsp;600&nbsp;</td>\n<td rowspan=\"1\">&nbsp;800&nbsp;</td>\n<td rowspan=\"1\">&nbsp;600&nbsp;</td>\n<td rowspan=\"1\">&nbsp;2.6+Д/250&nbsp;</td>\n<td rowspan=\"1\">&nbsp;2.4+Д/250&nbsp;</td>\n<td colspan=\"1\">&nbsp;2.1+Д/250&nbsp;</td>\n<td colspan=\"1\">&nbsp;2.3+Д/300&nbsp;</td>\n<td colspan=\"1\">&nbsp;2.1+Д/300&nbsp;</td>\n<td colspan=\"1\">&nbsp;1.8+Д/300&nbsp;</td>\n<td colspan=\"1\">&nbsp;2.0+Д/330&nbsp;</td>\n<td colspan=\"1\">&nbsp;1.8+Д/330&nbsp;</td>\n<td colspan=\"1\">&nbsp;1.6+Д/330&nbsp;</td>\n<td colspan=\"1\">&nbsp;1740&nbsp;</td>\n<td colspan=\"1\">&nbsp;1420&nbsp;</td>\n<td colspan=\"1\">&nbsp;2760&nbsp;</td>\n<td colspan=\"1\">800&nbsp;</td>\n<td colspan=\"1\">1300&nbsp;</td>\n</tr>\n<tr>\n<td colspan=\"5\">&nbsp;FLY&nbsp;1086&nbsp;</td>\n<td colspan=\"1\">&nbsp;800&nbsp;</td>\n<td rowspan=\"1\">&nbsp;1000&nbsp;</td>\n<td rowspan=\"1\">&nbsp;600&nbsp;</td>\n<td rowspan=\"1\">&nbsp;2.7+Д/250&nbsp;</td>\n<td rowspan=\"1\">&nbsp;2.5+Д/250&nbsp;</td>\n<td colspan=\"1\">&nbsp;2.2+Д/250&nbsp;</td>\n<td colspan=\"1\">&nbsp;2.4+Д/300&nbsp;</td>\n<td colspan=\"1\">&nbsp;2.2+Д/300&nbsp;</td>\n<td colspan=\"1\">&nbsp;1.9+Д/300&nbsp;</td>\n<td colspan=\"1\">&nbsp;2.1+Д/330&nbsp;</td>\n<td colspan=\"1\">&nbsp;1.9+Д/330&nbsp;</td>\n<td colspan=\"1\">&nbsp;1.7+Д/330&nbsp;</td>\n<td colspan=\"1\">&nbsp;1940&nbsp;</td>\n<td colspan=\"1\">&nbsp;1620&nbsp;</td>\n<td colspan=\"1\">&nbsp;2760&nbsp;</td>\n<td colspan=\"1\">1000&nbsp;</td>\n<td colspan=\"1\">1700&nbsp;</td>\n</tr>\n<tr>\n<td colspan=\"5\">&nbsp;FLY 1286&nbsp;</td>\n<td colspan=\"1\">&nbsp;800&nbsp;</td>\n<td rowspan=\"1\">&nbsp;1200&nbsp;</td>\n<td rowspan=\"1\">&nbsp;600&nbsp;</td>\n<td rowspan=\"1\">&nbsp;2.7+Д/250&nbsp;</td>\n<td rowspan=\"1\">&nbsp;2.5+Д/250&nbsp;</td>\n<td colspan=\"1\">&nbsp;2.2+Д/250&nbsp;</td>\n<td colspan=\"1\">&nbsp;2.4+Д/300&nbsp;</td>\n<td colspan=\"1\">&nbsp;2.2+Д/300&nbsp;</td>\n<td colspan=\"1\">&nbsp;&nbsp;1.9+Д/300&nbsp;&nbsp;</td>\n<td colspan=\"1\">&nbsp;&nbsp;2.1+Д/330&nbsp;</td>\n<td colspan=\"1\">&nbsp;1.9+Д/330&nbsp;</td>\n<td colspan=\"1\">&nbsp;1.7+Д/330&nbsp;</td>\n<td colspan=\"1\">&nbsp;2140&nbsp;</td>\n<td colspan=\"1\">&nbsp;1620&nbsp;</td>\n<td colspan=\"1\">&nbsp;2760&nbsp;</td>\n<td colspan=\"1\">1000&nbsp;</td>\n<td colspan=\"1\">1900&nbsp;</td>\n</tr>\n<tr>\n<td colspan=\"5\">&nbsp;FLY&nbsp;1586&nbsp;</td>\n<td colspan=\"1\">&nbsp;800&nbsp;</td>\n<td rowspan=\"1\">&nbsp;1500&nbsp;</td>\n<td rowspan=\"1\">&nbsp;600&nbsp;</td>\n<td rowspan=\"1\">&nbsp;2.7+Д/250&nbsp;</td>\n<td rowspan=\"1\">&nbsp;2.5+Д/250&nbsp;</td>\n<td colspan=\"1\">&nbsp;2.2+Д/250&nbsp;</td>\n<td colspan=\"1\">&nbsp;2.4+Д/300&nbsp;</td>\n<td colspan=\"1\">&nbsp;2.2+Д/300&nbsp;</td>\n<td colspan=\"1\">&nbsp;1.9+Д/300&nbsp;</td>\n<td colspan=\"1\">&nbsp;2.1+Д/330&nbsp;</td>\n<td colspan=\"1\">&nbsp;1.9+Д/330&nbsp;</td>\n<td colspan=\"1\">&nbsp;1.7+Д/330&nbsp;&nbsp;</td>\n<td colspan=\"1\">&nbsp;2440&nbsp;</td>\n<td colspan=\"1\">&nbsp;1620&nbsp;</td>\n<td colspan=\"1\">&nbsp;2760&nbsp;</td>\n<td colspan=\"1\">&nbsp;1000&nbsp;</td>\n<td colspan=\"1\">&nbsp;2200&nbsp;</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<p>Примечание: Точность машины одной и той же спецификации зависит от конфигурации. Технические параметры и внешний вид продукта могут быть обновлены без предварительного уведомления.</p>\n<p>Все представленное в нашем каталоге оборудование доступно к приобретению на выгодных условиях <a href=\"https://am-tech.ru/leasing/\">лизинга.</a></p>\n<p>Наши специалисты помогут подобрать оптимальную схему лизинга под ваши производственные задачи и финансовые возможности, а также окажут содействие в оформлении всей необходимой документации.</p>"
+  },
+  {
+   "id": 24105,
+   "key": "Страна производства",
+   "value": "Китай"
+  },
+  {
+   "id": 24106,
+   "key": "Связанные товары по фильтру",
+   "value": "[]"
+  },
+  {
+   "id": 24107,
+   "key": "Материалы",
+   "value": "/pr_new_files/iblock/332/tjpldwywkucir45mufaqji0z4u7so2vk.pdf"
+  },
+  {
+   "id": 24108,
+   "key": "Вес, кг.",
+   "value": "900-2200"
+  },
+  {
+   "id": 24109,
+   "key": "bitrix_picture",
+   "value": "/pr_new_files/iblock/6f3/ll00znn9a2gdzef9h41pjmr31ddlon79.png"
+  },
+  {
+   "id": 24110,
+   "key": "Документы товара",
+   "value": "1418"
+  },
+  {
+   "id": 30929,
+   "key": "wbcr_wp_old_slug",
+   "value": "%d0%ba%d0%be%d0%be%d1%80%d0%b4%d0%b8%d0%bd%d0%b0%d1%82%d0%bd%d0%be-%d0%b8%d0%b7%d0%bc%d0%b5%d1%80%d0%b8%d1%82%d0%b5%d0%bb%d1%8c%d0%bd%d0%b0%d1%8f-%d0%bc%d0%b0%d1%88%d0%b8%d0%bd%d0%b0-fly"
+  },
+  {
+   "id": 35732,
+   "key": "_yoast_wpseo_title",
+   "value": "Координатно-измерительная машина FLY - заказать у производителя с доставкой по России | AM-Tech"
+  },
+  {
+   "id": 35733,
+   "key": "_yoast_wpseo_metadesc",
+   "value": "Заказать Координатно-измерительную машину FLY - демонстрация и консультация наших специалистов. +7 (495) 109 11 91"
+  },
+  {
+   "id": 52456,
+   "key": "_elementor_page_assets",
+   "value": []
+  }
+ ],
+ "stock_status": "instock",
+ "has_options": false,
+ "post_password": "",
+ "global_unique_id": "",
+ "permalink_template": "https://am-tech.ru/product/%pagename%/",
+ "generated_slug": "koordinatno-izmeritelnaja-mashina-fly",
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Координатно-измерительная машина FLY - заказать у производителя с доставкой по России | AM-Tech</title>\n<meta name=\"description\" content=\"Заказать Координатно-измерительную машину FLY - демонстрация и консультация наших специалистов. +7 (495) 109 11 91\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/product/koordinatno-izmeritelnaja-mashina-fly/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Координатно-измерительная машина FLY - заказать у производителя с доставкой по России | AM-Tech\" />\n<meta property=\"og:description\" content=\"Заказать Координатно-измерительную машину FLY - демонстрация и консультация наших специалистов. +7 (495) 109 11 91\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/product/koordinatno-izmeritelnaja-mashina-fly/\" />\n<meta property=\"og:site_name\" content=\"am-tech.ru\" />\n<meta property=\"article:modified_time\" content=\"2025-09-21T13:23:39+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2025/08/a5wvq4gjlb0x7580nwr1s8ezl4zmlqrh.png\" />\n\t<meta property=\"og:image:width\" content=\"223\" />\n\t<meta property=\"og:image:height\" content=\"300\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"1 минута\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/product/koordinatno-izmeritelnaja-mashina-fly/\",\"url\":\"https://am-tech.ru/product/koordinatno-izmeritelnaja-mashina-fly/\",\"name\":\"Координатно-измерительная машина FLY - заказать у производителя с доставкой по России | AM-Tech\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/product/koordinatno-izmeritelnaja-mashina-fly/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/product/koordinatno-izmeritelnaja-mashina-fly/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2025/08/a5wvq4gjlb0x7580nwr1s8ezl4zmlqrh.png\",\"datePublished\":\"2025-08-17T03:34:53+00:00\",\"dateModified\":\"2025-09-21T13:23:39+00:00\",\"description\":\"Заказать Координатно-измерительную машину FLY - демонстрация и консультация наших специалистов. +7 (495) 109 11 91\",\"breadcrumb\":{\"@id\":\"https://am-tech.ru/product/koordinatno-izmeritelnaja-mashina-fly/#breadcrumb\"},\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/product/koordinatno-izmeritelnaja-mashina-fly/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/product/koordinatno-izmeritelnaja-mashina-fly/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2025/08/a5wvq4gjlb0x7580nwr1s8ezl4zmlqrh.png\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2025/08/a5wvq4gjlb0x7580nwr1s8ezl4zmlqrh.png\",\"width\":223,\"height\":300},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://am-tech.ru/product/koordinatno-izmeritelnaja-mashina-fly/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Главная страница\",\"item\":\"https://am-tech.ru/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Координатно-измерительные машины\",\"item\":\"https://am-tech.ru/katalog/kim-3d/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Координатно-измерительная машина FLY\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"am-tech.ru\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"am-tech.ru\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"am-tech.ru\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "Координатно-измерительная машина FLY - заказать у производителя с доставкой по России | AM-Tech",
+  "description": "Заказать Координатно-измерительную машину FLY - демонстрация и консультация наших специалистов. +7 (495) 109 11 91",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/product/koordinatno-izmeritelnaja-mashina-fly/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "Координатно-измерительная машина FLY - заказать у производителя с доставкой по России | AM-Tech",
+  "og_description": "Заказать Координатно-измерительную машину FLY - демонстрация и консультация наших специалистов. +7 (495) 109 11 91",
+  "og_url": "https://am-tech.ru/product/koordinatno-izmeritelnaja-mashina-fly/",
+  "og_site_name": "am-tech.ru",
+  "article_modified_time": "2025-09-21T13:23:39+00:00",
+  "og_image": [
+   {
+    "width": 223,
+    "height": 300,
+    "url": "https://am-tech.ru/wp-content/uploads/2025/08/a5wvq4gjlb0x7580nwr1s8ezl4zmlqrh.png",
+    "type": "image/png"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "1 минута"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/product/koordinatno-izmeritelnaja-mashina-fly/",
+     "url": "https://am-tech.ru/product/koordinatno-izmeritelnaja-mashina-fly/",
+     "name": "Координатно-измерительная машина FLY - заказать у производителя с доставкой по России | AM-Tech",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/product/koordinatno-izmeritelnaja-mashina-fly/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/product/koordinatno-izmeritelnaja-mashina-fly/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2025/08/a5wvq4gjlb0x7580nwr1s8ezl4zmlqrh.png",
+     "datePublished": "2025-08-17T03:34:53+00:00",
+     "dateModified": "2025-09-21T13:23:39+00:00",
+     "description": "Заказать Координатно-измерительную машину FLY - демонстрация и консультация наших специалистов. +7 (495) 109 11 91",
+     "breadcrumb": {
+      "@id": "https://am-tech.ru/product/koordinatno-izmeritelnaja-mashina-fly/#breadcrumb"
+     },
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/product/koordinatno-izmeritelnaja-mashina-fly/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/product/koordinatno-izmeritelnaja-mashina-fly/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2025/08/a5wvq4gjlb0x7580nwr1s8ezl4zmlqrh.png",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2025/08/a5wvq4gjlb0x7580nwr1s8ezl4zmlqrh.png",
+     "width": 223,
+     "height": 300
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://am-tech.ru/product/koordinatno-izmeritelnaja-mashina-fly/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Главная страница",
+       "item": "https://am-tech.ru/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Координатно-измерительные машины",
+       "item": "https://am-tech.ru/katalog/kim-3d/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "Координатно-измерительная машина FLY"
+      }
+     ]
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "am-tech.ru",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "am-tech.ru",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "am-tech.ru"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wc/v3/products/1559",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wc/v3/products"
+   }
+  ]
+ }
+}

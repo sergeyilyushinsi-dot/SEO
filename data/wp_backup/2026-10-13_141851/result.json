@@ -1,0 +1,22 @@
+[
+ {
+  "plan_task": 47,
+  "label": "Название категории (H1, хлебные крошки)",
+  "before_text": "MBJ 3D - принтеры",
+  "after_text": "MBJ 3D-принтеры",
+  "comment": "Дефис с пробелами. Адрес категории не меняется",
+  "type": "category",
+  "slug": "mbj-3d-print",
+  "field": "name",
+  "value": "MBJ 3D-принтеры",
+  "row": 93,
+  "id": 17,
+  "url": "https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/mbj-3d-print/",
+  "before": "MBJ 3D - принтеры",
+  "after": "MBJ 3D-принтеры",
+  "saved": true,
+  "on_page": true,
+  "on_cached_page": true,
+  "status": "применено"
+ }
+]

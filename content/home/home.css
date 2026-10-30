@@ -1,0 +1,79 @@
+/* Главная (прототип) — дополнения к стилям блога #amt-blog */
+#amt-blog .amh-hero{padding:72px 0 48px}
+#amt-blog .amh-hero__grid{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,.85fr);gap:48px;align-items:center}
+#amt-blog .amh-hero h1{font-size:clamp(38px,4.6vw,72px);line-height:1.02;margin:14px 0 22px}
+#amt-blog .amh-hero__visual{position:relative;border-radius:var(--amt-radius-xl);background:linear-gradient(160deg,#f4f3ef,#e9e7e1);aspect-ratio:1/1;display:flex;align-items:center;justify-content:center;overflow:hidden}
+#amt-blog .amh-hero__visual img{width:86%;height:86%;object-fit:contain}
+#amt-blog .amh-hero__badge{position:absolute;left:18px;bottom:18px;right:18px;display:flex;gap:12px;align-items:center;padding:14px 16px;border-radius:18px;background:rgba(255,255,255,.92);backdrop-filter:blur(8px);font-size:13px;color:var(--amt-text)}
+#amt-blog .amh-hero__badge b{font-size:16px;color:var(--amt-orange)}
+#amt-blog .amh-stats{margin-top:48px}
+#amt-blog .amh-nav{position:sticky;top:70px;z-index:20;background:rgba(255,255,255,.96);backdrop-filter:blur(10px)}
+
+#amt-blog .amh-cats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:16px}
+#amt-blog .amh-cat{position:relative;display:flex;flex-direction:column;border:1px solid var(--amt-line);border-radius:var(--amt-radius-lg);background:#fff;overflow:hidden;transition:transform .2s,border-color .2s}
+#amt-blog .amh-cat:hover{transform:translateY(-3px);border-color:#c8c8c2}
+#amt-blog .amh-cat:first-child{grid-column:span 2;grid-row:span 2}
+#amt-blog .amh-cat__link{position:absolute;inset:0;z-index:1}
+#amt-blog .amh-cat__img{aspect-ratio:4/3;background:var(--amt-surface);display:flex;align-items:center;justify-content:center;margin:10px;border-radius:18px}
+#amt-blog .amh-cat:first-child .amh-cat__img{flex:1;aspect-ratio:auto;min-height:320px}
+#amt-blog .amh-cat__img img{max-width:78%;max-height:82%;object-fit:contain}
+#amt-blog .amh-cat__body{padding:6px 20px 20px}
+#amt-blog .amh-cat__body h3{margin:6px 0 8px;font-size:20px;font-weight:700;color:var(--amt-ink)}
+#amt-blog .amh-cat:first-child .amh-cat__body h3{font-size:28px}
+#amt-blog .amh-cat__body p{margin:0 0 12px;font-size:14px;line-height:1.5;color:var(--amt-text)}
+#amt-blog .amh-cat__chips{position:relative;z-index:2;display:flex;flex-wrap:wrap;gap:6px}
+#amt-blog .amh-cat__chips a{padding:6px 10px;border-radius:999px;border:1px solid var(--amt-line);font-size:12px;font-weight:600;color:var(--amt-ink)}
+#amt-blog .amh-cat__chips a:hover{border-color:var(--amt-orange);color:var(--amt-orange)}
+
+#amt-blog .amh-services{grid-template-columns:repeat(5,minmax(0,1fr))}
+#amt-blog .amh-service{min-height:220px}
+#amt-blog .amh-service h3{font-size:20px}
+
+#amt-blog .amh-why{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+#amt-blog .amh-why__item{padding:24px;border:1px solid var(--amt-line);border-radius:var(--amt-radius-lg);background:#fff}
+#amt-blog .amh-why__item b{display:inline-flex;width:36px;height:36px;align-items:center;justify-content:center;border-radius:50%;background:var(--amt-orange-soft);color:var(--amt-orange);font-size:12px}
+#amt-blog .amh-why__item h3{margin:14px 0 8px;font-size:19px}
+#amt-blog .amh-why__item p{margin:0;font-size:14px;line-height:1.55;color:var(--amt-text)}
+#amt-blog .amh-why__item a{color:var(--amt-orange)}
+#amt-blog .amh-partners{margin-top:40px;display:flex;flex-wrap:wrap;align-items:center;gap:28px 40px}
+#amt-blog .amh-partners__label{font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--amt-muted)}
+#amt-blog .amh-partners img{height:44px;width:auto;max-width:150px;object-fit:contain;filter:grayscale(1);opacity:.75;transition:filter .2s,opacity .2s}
+#amt-blog .amh-partners img:hover{filter:none;opacity:1}
+
+#amt-blog .amh-videos-head{margin:56px 0 18px;display:flex;justify-content:space-between;align-items:baseline}
+#amt-blog .amh-videos-head h3{margin:0;font-size:24px}
+#amt-blog .amh-videos-head a{color:var(--amt-orange);font-weight:600;font-size:14px}
+#amt-blog .amh-videos{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+#amt-blog .amh-video{display:flex;flex-direction:column;gap:10px}
+#amt-blog .amh-video__img{position:relative;aspect-ratio:16/9;border-radius:18px;background:#111 center/cover;display:flex;align-items:center;justify-content:center}
+#amt-blog .amh-video__play{width:52px;height:52px;border-radius:50%;background:rgba(255,115,0,.95);color:#fff;display:flex;align-items:center;justify-content:center;font-size:16px;padding-left:3px}
+#amt-blog .amh-video__title{font-size:15px;font-weight:600;line-height:1.35;color:var(--amt-ink)}
+#amt-blog .amt-contacts span{color:inherit}
+
+@media(max-width:1100px){
+  #amt-blog .amh-hero__grid{grid-template-columns:1fr}
+  #amt-blog .amh-hero__visual{aspect-ratio:4/3;max-height:420px}
+  #amt-blog .amh-cats{grid-template-columns:repeat(2,minmax(0,1fr))}
+  #amt-blog .amh-services{grid-template-columns:repeat(2,minmax(0,1fr))}
+  #amt-blog .amh-why{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media(max-width:760px){
+  #amt-blog .amh-hero{padding:40px 0 32px}
+  #amt-blog .amh-cats{grid-template-columns:1fr 1fr;gap:10px}
+  #amt-blog .amh-cat:first-child{grid-column:span 2;grid-row:auto}
+  #amt-blog .amh-cat:first-child .amh-cat__img{min-height:220px}
+  #amt-blog .amh-cat__body{padding:4px 12px 14px}
+  #amt-blog .amh-cat__body h3{font-size:16px}
+  #amt-blog .amh-cat__body p{display:none}
+  #amt-blog .amh-cat:first-child .amh-cat__body p{display:block}
+  #amt-blog .amh-services,#amt-blog .amh-why,#amt-blog .amh-videos{grid-template-columns:1fr}
+  #amt-blog .amh-service{min-height:auto}
+  #amt-blog .amh-partners img{height:34px}
+}
+#amt-blog .amt-nowrap{white-space:nowrap}
+#amt-blog .amh-cat--help{background:var(--amt-ink);border-color:var(--amt-ink);justify-content:flex-end;min-height:260px}
+#amt-blog .amh-cat--help .amh-cat__body{padding:24px}
+#amt-blog .amh-cat--help h3{color:#fff!important}
+#amt-blog .amh-cat--help p{color:#cfcfcf!important}
+#amt-blog .amh-cat__more{display:inline-block;margin-top:6px;color:var(--amt-orange);font-weight:600;font-size:14px}
+@media(max-width:760px){#amt-blog .amh-cat--help{grid-column:span 2;min-height:auto}}

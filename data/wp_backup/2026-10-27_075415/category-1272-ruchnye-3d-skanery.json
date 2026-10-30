@@ -1,0 +1,171 @@
+{
+ "id": 1272,
+ "count": 12,
+ "description": "<p>Ручной 3D-сканер — портативный измерительный прибор: оператор обходит деталь со сканером в руке и получает облако точек и цифровую 3D-модель прямо на производственном участке, без переноса изделия в лабораторию. В разделе — модели SIMSCAN, KSCAN, 3DeVOK и iReal с точностью от 0,015 до 0,1 мм для контроля геометрии и обратного проектирования.</p>\n\n<h2>Сравнение ручных 3D-сканеров AM.TECH</h2>\n<p>Данные — из характеристик на карточках моделей.</p>\n<div class=\"table-responsive\">\n<table class=\"table table-bordered\">\n<thead>\n<tr>\n<th scope=\"col\">Модель</th>\n<th scope=\"col\">Источник подсветки</th>\n<th scope=\"col\">Точность, мм, до</th>\n<th scope=\"col\">Размеры объектов, м</th>\n<th scope=\"col\">Вес, кг</th>\n<th scope=\"col\">Цена</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><a href=\"/product/3d-skaner-simscan-s/\">SIMSCAN S</a></td>\n<td>синий лазер</td>\n<td>0,015</td>\n<td>0,1–10</td>\n<td>0,56</td>\n<td>по запросу</td>\n</tr>\n<tr>\n<td><a href=\"/product/3d-skaner-simscan-e/\">SIMSCAN E</a></td>\n<td>синий лазер</td>\n<td>0,02</td>\n<td>0,1–5</td>\n<td>0,6</td>\n<td>по запросу</td>\n</tr>\n<tr>\n<td><a href=\"/product/3d-skaner-simscan-30/\">SIMSCAN 30</a></td>\n<td>синий лазер</td>\n<td>0,02</td>\n<td>0,1–5</td>\n<td>0,57</td>\n<td>по запросу</td>\n</tr>\n<tr>\n<td><a href=\"/product/3d-skaner-simscan-42/\">SIMSCAN 42</a></td>\n<td>синий лазер</td>\n<td>0,02</td>\n<td>0,1–5</td>\n<td>0,57</td>\n<td>по запросу</td>\n</tr>\n<tr>\n<td><a href=\"/product/3d-skaner-kscan-e/\">KSCAN E</a></td>\n<td>синий лазер, ИК-кресты</td>\n<td>0,02</td>\n<td>0,05–8</td>\n<td>1,2</td>\n<td>по запросу</td>\n</tr>\n<tr>\n<td><a href=\"/product/3d-skaner-kscan-x/\">KSCAN X</a></td>\n<td>синий лазер</td>\n<td>0,03</td>\n<td>0,5–15</td>\n<td>1,2</td>\n<td>по запросу</td>\n</tr>\n<tr>\n<td><a href=\"/product/3d-skaner-kscan-magic/\">KSCAN MAGIC</a></td>\n<td>синий лазер, ИК-режим</td>\n<td>0,02</td>\n<td>0,1–10</td>\n<td>1,35</td>\n<td>по запросу</td>\n</tr>\n<tr>\n<td><a href=\"/product/3d-skaner-kscan-magic-ii/\">KSCAN MAGIC II</a></td>\n<td>синий лазер, ИК-режим</td>\n<td>0,02</td>\n<td>0,1–10</td>\n<td>1,35</td>\n<td>по запросу</td>\n</tr>\n<tr>\n<td><a href=\"/product/3d-skaner-3devok-mq/\">3DeVOK MQ</a></td>\n<td>ИК-лазер, ИК-структурированный свет</td>\n<td>0,07</td>\n<td>0,05–5</td>\n<td>0,62</td>\n<td>по запросу</td>\n</tr>\n<tr>\n<td><a href=\"/product/3d-skaner-3devok-mt/\">3DeVOK MT</a></td>\n<td>синий и ИК-лазер, структурированный свет</td>\n<td>0,04</td>\n<td>0,5–15</td>\n<td>0,64</td>\n<td>по запросу</td>\n</tr>\n<tr>\n<td><a href=\"/product/3d-skaner-ireal-m3/\">iReal M3</a></td>\n<td>ИК-лазер, структурированный свет, цвет</td>\n<td>0,1</td>\n<td>0,5–4</td>\n<td>—</td>\n<td>по запросу</td>\n</tr>\n<tr>\n<td><a href=\"/product/3d-skaner-ireal-2e/\">iReal 2E</a></td>\n<td>структурированный свет, цвет</td>\n<td>0,1</td>\n<td>0,5–4</td>\n<td>—</td>\n<td>по запросу</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p>Модели SIMSCAN, KSCAN и 3DeVOK внесены в реестр средств измерений — это указано в характеристиках каждой карточки.</p>\n\n<h2>Как выбрать ручной сканер под деталь</h2>\n<ul>\n<li><strong>Габариты изделия.</strong> Для деталей до 5–10 м и работы в стеснённых местах подходят компактные SIMSCAN (корпус S, E и 42 — 203 × 80 × 44 мм): по данным карточки SIMSCAN E, он снимает щели, зазоры и отверстия. Для узлов до 15 м — KSCAN X с полем зрения 2600 × 1800 мм и адаптивной фотограмметрией или гибридный 3DeVOK MT.</li>\n<li><strong>Требования к точности.</strong> Для метрологического контроля качества по допускам в сотые доли миллиметра — лазерные SIMSCAN и KSCAN (0,015–0,03 мм). У 3DeVOK и iReal точность 0,04–0,1 мм; 3DeVOK MT, по карточке, применяют в обратном проектировании, художественном дизайне и 3D-печати.</li>\n<li><strong>Работа без кабеля.</strong> SIMSCAN S, SIMSCAN E, KSCAN E и KSCAN X работают беспроводно; у SIMSCAN E две сменные батареи, у KSCAN X — двухаккумуляторная система. Это удобно у станка, на сборке и на площадке заказчика.</li>\n<li><strong>Сложные поверхности.</strong> 3DeVOK MQ с инфракрасной подсветкой VCSEL работает с тёмными и блестящими поверхностями на расстоянии 150–1500 мм.</li>\n<li><strong>Контактные точки.</strong> KSCAN MAGIC и MAGIC II дополняются щупом K-Probe (повторяемость в одной точке 0,03 мм) — для отверстий, плоскостей и кромок, которые сложно снять оптикой.</li>\n<li><strong>Цвет и текстура.</strong> iReal M3 и iReal 2E фиксируют цвет и текстуру — это важно для произведений искусства, сканирования человека и предметов, где значим внешний вид.</li>\n</ul>\n<p>Скорость и лазерные режимы этих моделей сравнены в подборке <a href=\"/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/lazernye-3d-skanery/\">лазерных 3D-сканеров</a>: самые быстрые — KSCAN E (до 8,29 млн точек/с) и SIMSCAN S (до 8,1 млн).</p>\n<p>Если маркеры на изделие клеить нельзя или нужен быстрый контроль крупных узлов, рассмотрите системы с оптическим трекером — например, <a href=\"/product/3d-skaner-trackscan-sharp-e/\">TrackScan Sharp E</a> для объектов 0,1–12 м, который сканирует без маркеров. Такие системы собраны в разделе <a href=\"/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/\">«3D-сканеры»</a>.</p>\n\n<h2>Пример: контроль тягового агрегата</h2>\n<p>В <a href=\"/cases/aviastroenie/\">кейсе AM.TECH</a> тяговый агрегат сканировали ручным KSCAN MAGIC: сканирование заняло 30 минут, карта отклонений от CAD-модели — около часа, и стало видно, что смещены отверстия. По данным кейса, день простоя агрегата стоил 600 000 рублей.</p>\n\n<h2>Вопросы и ответы</h2>\n<h3>Какую точность дают ручные модели?</h3>\n<p>У моделей раздела — от 0,015 мм (SIMSCAN S) до 0,1 мм (iReal). На крупных деталях важна и объёмная точность: она зависит от длины объекта и указана в карточках моделей; у iReal — в описании (0,3 мм на метр), у 3DeVOK MQ не указана.</p>\n<h3>Сколько весит портативный сканер?</h3>\n<p>По карточкам — от 0,56 кг у SIMSCAN S до 1,35 кг у KSCAN MAGIC и MAGIC II. Лёгкие модели удобны для долгой работы одной рукой и съёмки в узких местах, более тяжёлые KSCAN дают большее поле зрения.</p>\n<h3>Можно ли посмотреть сканер в работе?</h3>\n<p>Да: на карточке каждой модели есть кнопка «Демонстрация». Записи работы сканеров — в разделе видеообзоров, например <a href=\"/video-reviews/obzor-besprovodnogo-3d-skanera-am-tech-kscan-e/\">обзор беспроводного KSCAN E</a>.</p>\n\n<h2>Купить ручной 3D-сканер</h2>\n<p>Цена — по запросу: её рассчитывают в КП под модель, комплектацию и программное обеспечение. Пришлите чертёж или 3D-модель детали и требования к точности — инженеры AM.TECH подберут сканер и подготовят КП. Оборудование доступно в <a href=\"/leasing/\">лизинг</a>. Телефон: +7 (495) 109-11-91, почта: office@am-tech.ru.</p>",
+ "link": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/ruchnye-3d-skanery/",
+ "name": "Ручные 3d сканеры",
+ "slug": "ruchnye-3d-skanery",
+ "taxonomy": "product_cat",
+ "parent": 24,
+ "meta": [],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Ручные 3D-сканеры — купить, цена | AM.TECH</title>\n<meta name=\"description\" content=\"Ручные 3D-сканеры SIMSCAN, KSCAN, 3DeVOK и iReal: 12 портативных моделей с точностью до 0,015 мм для контроля и реверс-инжиниринга. Цена по запросу.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/ruchnye-3d-skanery/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Ручные 3D-сканеры — купить, цена | AM.TECH\" />\n<meta property=\"og:description\" content=\"Ручные 3D-сканеры SIMSCAN, KSCAN, 3DeVOK и iReal: 12 портативных моделей с точностью до 0,015 мм для контроля и реверс-инжиниринга. Цена по запросу.\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/ruchnye-3d-skanery/\" />\n<meta property=\"og:site_name\" content=\"AM.TECH\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/ruchnye-3d-skanery/\",\"url\":\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/ruchnye-3d-skanery/\",\"name\":\"Ручные 3D-сканеры — купить, цена | AM.TECH\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"description\":\"Ручные 3D-сканеры SIMSCAN, KSCAN, 3DeVOK и iReal: 12 портативных моделей с точностью до 0,015 мм для контроля и реверс-инжиниринга. Цена по запросу.\",\"breadcrumb\":{\"@id\":\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/ruchnye-3d-skanery/#breadcrumb\"},\"inLanguage\":\"ru-RU\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/ruchnye-3d-skanery/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Главная страница\",\"item\":\"https://am-tech.ru/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Промышленные 3D сканеры: оборудование для реверс-инжиниринга и контроля качества\",\"item\":\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"3D-сканеры\",\"item\":\"https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Ручные 3d сканеры\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"AM.TECH\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"AM.TECH\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"AM.TECH\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "Ручные 3D-сканеры — купить, цена | AM.TECH",
+  "description": "Ручные 3D-сканеры SIMSCAN, KSCAN, 3DeVOK и iReal: 12 портативных моделей с точностью до 0,015 мм для контроля и реверс-инжиниринга. Цена по запросу.",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/ruchnye-3d-skanery/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "Ручные 3D-сканеры — купить, цена | AM.TECH",
+  "og_description": "Ручные 3D-сканеры SIMSCAN, KSCAN, 3DeVOK и iReal: 12 портативных моделей с точностью до 0,015 мм для контроля и реверс-инжиниринга. Цена по запросу.",
+  "og_url": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/ruchnye-3d-skanery/",
+  "og_site_name": "AM.TECH",
+  "twitter_card": "summary_large_image",
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "CollectionPage",
+     "@id": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/ruchnye-3d-skanery/",
+     "url": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/ruchnye-3d-skanery/",
+     "name": "Ручные 3D-сканеры — купить, цена | AM.TECH",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "description": "Ручные 3D-сканеры SIMSCAN, KSCAN, 3DeVOK и iReal: 12 портативных моделей с точностью до 0,015 мм для контроля и реверс-инжиниринга. Цена по запросу.",
+     "breadcrumb": {
+      "@id": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/ruchnye-3d-skanery/#breadcrumb"
+     },
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/ruchnye-3d-skanery/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Главная страница",
+       "item": "https://am-tech.ru/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Промышленные 3D сканеры: оборудование для реверс-инжиниринга и контроля качества",
+       "item": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "3D-сканеры",
+       "item": "https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 4,
+       "name": "Ручные 3d сканеры"
+      }
+     ]
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "AM.TECH",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "AM.TECH",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "AM.TECH"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "html_description": true,
+ "yoast_seo": {
+  "title": "Ручные 3D-сканеры — купить, цена | AM.TECH",
+  "desc": "Ручные 3D-сканеры SIMSCAN, KSCAN, 3DeVOK и iReal: 12 портативных моделей с точностью до 0,015 мм для контроля и реверс-инжиниринга. Цена по запросу."
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/product_cat/1272",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/product_cat"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/taxonomies/product_cat"
+   }
+  ],
+  "up": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/product_cat/24"
+   }
+  ],
+  "wp:post_type": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/product?product_cat=1272"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

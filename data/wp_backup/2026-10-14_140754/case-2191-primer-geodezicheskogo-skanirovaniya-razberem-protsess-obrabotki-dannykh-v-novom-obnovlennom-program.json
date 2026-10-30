@@ -1,0 +1,284 @@
+{
+ "id": 2191,
+ "date": "2024-10-23T00:00:00",
+ "date_gmt": "2024-10-22T21:00:00",
+ "guid": {
+  "rendered": "http://am-tech.ru/cases/primer-geodezicheskogo-skanirovaniya-razberem-protsess-obrabotki-dannykh-v-novom-obnovlennom-program/",
+  "raw": "http://am-tech.ru/cases/primer-geodezicheskogo-skanirovaniya-razberem-protsess-obrabotki-dannykh-v-novom-obnovlennom-program/"
+ },
+ "modified": "2026-01-23T14:01:52",
+ "modified_gmt": "2026-01-23T11:01:52",
+ "password": "",
+ "slug": "primer-geodezicheskogo-skanirovaniya-razberem-protsess-obrabotki-dannykh-v-novom-obnovlennom-program",
+ "status": "publish",
+ "type": "cases",
+ "link": "https://am-tech.ru/cases/primer-geodezicheskogo-skanirovaniya-razberem-protsess-obrabotki-dannykh-v-novom-obnovlennom-program/",
+ "title": {
+  "raw": "Пример геодезического сканирования. Разберем процесс обработки данных в новом обновленном программном обеспечении.",
+  "rendered": "Пример геодезического сканирования. Разберем процесс обработки данных в новом обновленном программном обеспечении."
+ },
+ "content": {
+  "raw": "<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n<p align=\"right\"><em>Комфорт и простота работы, воплощенные в новых технологичных инструментах.</em></p>\r\n\r\n<h4>Краткая справка об объекте:</h4>\r\n<b>Локация: </b>Осташёво, Волоколамский округ, Московская область. Фрагментарно сохранившаяся усадьба Муравьёвых.\r\n\r\nУсадьба находится на берегу Рузского водохранилища, которое было создано в 1960 году. К главному усадебному дому ведёт липовая въездная аллея. Вокруг усадьбы был липовый парк. Основной дом стоит на высоком берегу и из него прекрасно виден изгиб и ширь реки.\r\n\r\nВ бывшей усадьбе (XVIII – XIX в.в.), принадлежащей Н.Н. Муравьёву, в 1816 году проходили занятия, основанной им школы офицеров Генерального штаба. Из числа её воспитанников вышло 22 декабриста. Усадьба сменила нескольких владельцев, последним из которых был внук Николая I, великий князь Константин Константинович Романов, поэт серебряного века. Рядом с усадьбой находится храм-усыпальница, построеная в 1915 году над могилой князя Олега Константиновича Романова, который погиб на фронте в Первой Мировой войне.&nbsp;\r\n\r\n<b>Задача: </b>Реставрационные работы с сохранением исторического вида объекта.\r\n<h2><strong>&nbsp;</strong><strong>О технологии: </strong></h2>\r\n<p class=\"\">Технология одновременной локализации и картографирования (SLAM) позволяет быстро создавать цифровые модели окружающего пространства. Принцип работы заключается в синхронном использовании двух измерительных устройств - лазерного сканера и инерциальной системы (IMU). Их данные обрабатываются на компьютере, причем показания IMU корректируются данными со сканера, по которым вычисляется траектория движения сканера. Этот процесс полностью автоматизирован. Проще говоря, сканер определяет свое местоположение относительно окружающих объектов и одновременно оцифровывает эти объекты в виде облака точек.</p>\r\n<p class=\"\">Изначально SLAM-технология предполагала отсутствие GPS-приемника, позволяя проводить сканирование в местах, где нет сигнала спутников. Но со временем технологии развивались, и сейчас существуют модели сканеров, которые совмещают SLAM с GPS-навигацией.</p>\r\n\r\n<h2><strong>Решаемые задачи:</strong></h2>\r\n<ul class=\"\">\r\n \t<li>Авторский надзор</li>\r\n \t<li>Создание поэтажных планов зданий</li>\r\n \t<li>Создание трехмерных архивов объектов</li>\r\n \t<li>Изыскания</li>\r\n \t<li>Трехмерное сканирование строений для BIM-проектирования</li>\r\n \t<li>Съемка промышленных объектов</li>\r\n \t<li>Оперативный подсчет объемов складированных сыпучих материалов, угля, зернохранилищ</li>\r\n \t<li>Маркшейдерские измерения</li>\r\n \t<li>Трехмерная съемка подземных и наземных выработок</li>\r\n \t<li>Топографические изыскания</li>\r\n</ul>\r\n<h2><strong>&nbsp;</strong><strong>Процесс сбора данных:</strong></h2>\r\n<table style=\"border-collapse: collapse; width: 98.6395%; height: 18px;\" border=\"0\">\r\n<tbody>\r\n<tr style=\"height: 18px;\">\r\n<td style=\"width: 49.7586%; vertical-align: middle;\" align=\"center\"><img class=\"\" src=\"/upload/editor_images/1730884632-111.jpg\" alt=\"\" width=\"600\" height=\"355\"></td>\r\n<td style=\"width: 49.7586%; height: 18px;\">Время на подготовку – 1 минута.\r\n\r\nОбход маршрута 1 – 5 минут\r\n\r\nОбход маршрута 2 – 4,5 минуты</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<h2 class=\"\">Фотографии объекта:</h2>\r\n<table style=\"border-collapse: collapse; width: 98.6395%; height: 474px;\" border=\"0\">\r\n<tbody>\r\n<tr style=\"height: 456px;\">\r\n<td style=\"width: 49.7586%; height: 456px;\" align=\"center\"><img class=\"\" src=\"/upload/editor_images/1730884757-2.jpg\" alt=\"\" width=\"600\" height=\"451\"></td>\r\n<td style=\"width: 49.7586%; height: 456px;\" align=\"center\"><img class=\"\" src=\"/upload/editor_images/1730884774-3.jpg\" alt=\"\" width=\"600\" height=\"452\"></td>\r\n</tr>\r\n<tr style=\"height: 18px;\">\r\n<td style=\"width: 49.7586%;\" align=\"center\"><img class=\"\" src=\"/upload/editor_images/1730884786-4.jpg\" alt=\"\" width=\"600\" height=\"452\"></td>\r\n<td style=\"width: 49.7586%;\" align=\"center\"><img src=\"/upload/editor_images/1730884795-5.jpg\" alt=\"\" width=\"600\" height=\"452\"></td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<h2>Процесс обработки данных:</h2>\r\n<table style=\"border-collapse: collapse; width: 98.6395%; height: 36px;\" border=\"0\">\r\n<tbody>\r\n<tr style=\"height: 18px;\">\r\n<td style=\"width: 43.6747%;\" align=\"center\"><img class=\"\" src=\"/upload/editor_images/1730885018-6.png\" alt=\"\" width=\"600\" height=\"297\"></td>\r\n<td class=\"\" style=\"width: 55.8425%; height: 18px;\">Первым шагом традиционно выбираем место для хранения проекта и его название.\r\n\r\nДля импорта данных – добавляем отснятый в поле материал путем выбора папки хранения данных.</td>\r\n</tr>\r\n<tr style=\"height: 18px;\">\r\n<td style=\"width: 43.6747%; vertical-align: middle;\" align=\"center\"><img src=\"/upload/editor_images/1730885034-7.png\" alt=\"\" width=\"600\" height=\"312\"></td>\r\n<td style=\"width: 55.8425%; height: 18px;\">&nbsp;\r\n\r\nВ строке состояния статуса у нас отобразится информация о том, что наши данные успешно импортированны, но еще не отпроцессированны (распакованы в понятные для программного обеспечения алгоритмы).\r\n\r\n&nbsp;\r\n\r\n&nbsp;</td>\r\n</tr>\r\n<tr>\r\n<td style=\"width: 43.6747%; vertical-align: middle;\" align=\"center\"><img class=\"\" src=\"/upload/editor_images/1730885142-8.png\" alt=\"\" width=\"600\" height=\"316\"></td>\r\n<td style=\"width: 55.8425%;\">Нажимая ОК – автоматиески запускается процесс распаковки данных.</td>\r\n</tr>\r\n<tr>\r\n<td style=\"width: 43.6747%;\" align=\"center\"><img src=\"/upload/editor_images/1730885188-9.png\" alt=\"\" width=\"600\" height=\"66\"></td>\r\n<td style=\"width: 55.8425%;\">Требующееся время на процессинга данных на рекомендуемой конфигурации компьютера – 5 минут.</td>\r\n</tr>\r\n<tr>\r\n<td style=\"width: 43.6747%;\" align=\"center\"><img src=\"/upload/editor_images/1730885239-10.png\" alt=\"\" width=\"600\" height=\"336\"></td>\r\n<td style=\"width: 55.8425%;\">По окончании процесса мы уже можем увидеть как выглядит наш объект сканирования.</td>\r\n</tr>\r\n<tr>\r\n<td style=\"width: 43.6747%;\" align=\"center\"><img class=\"\" src=\"/upload/editor_images/1730885252-11.png\" alt=\"\" width=\"600\" height=\"305\"></td>\r\n<td class=\"\" style=\"width: 55.8425%;\">Следующим шагом необходимо оптимизировать наш проект.</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<h2>На текущий момент мы можем выбрать следующие данные, которые хотим увидеть в нашем проекте:</h2>\r\n<ol class=\"\">\r\n \t<li>Тип процессирования для разных сценариев съемки: стандартный, съемка в стесненном пространстве и динамическая съемка.</li>\r\n \t<li>Качестве обработки данных – стандартное и высокое. Высокое качество может рекомендоваться при необходимости сохранения высокой детализации на сложных архитектурных элементах и большой инфраструктурной загруженности (например, большое кол-во труб). Стандартный режим используется во всех остальных случаях.&nbsp;<img style=\"text-align: -webkit-center; margin-top: 20px; margin-bottom: 20px;\" src=\"http://am-tech.ru/wp-content/uploads/2025/08/1730885531-mceu_81267857311730885533459.png\" width=\"600\" height=\"311\"></li>\r\n \t<li>Трансформация системы координат.\r\n<img style=\"margin-top: 20px; margin-bottom: 20px;\" src=\"http://am-tech.ru/wp-content/uploads/2025/08/1730885839-mceu_8813390021730885841529.png\" width=\"600\"></li>\r\n \t<li>Обработка данных c RTK.</li>\r\n \t<li>Очистка динамических (подвижных) объектов.</li>\r\n \t<li>Окраска облака точек по цвету камеры.</li>\r\n</ol>\r\n&nbsp;\r\n<p class=\"\">Нажимая кнопку ОК, запускается аналогичнная строка состояния обработки и через 5-10 минут в зависимости от выбранных процессов мы получаем готовый результат – оптимизированное облако точек.</p>\r\n<p align=\"center\">&nbsp;</p>\r\n\r\n<table style=\"border-collapse: collapse; width: 98.6395%;\" border=\"0\">\r\n<tbody>\r\n<tr>\r\n<td style=\"width: 49.7586%;\" align=\"center\"><img style=\"text-align: -webkit-center;\" src=\"http://am-tech.ru/wp-content/uploads/2025/08/1730886034-mceu_48431672741730886037166.png\" width=\"600\"></td>\r\n<td style=\"width: 49.7586%;\" align=\"center\"><img src=\"/upload/editor_images/1730886096-15.png\" alt=\"\" width=\"600\" height=\"301\"></td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p align=\"center\"><i>Пример отображения облака точек в цвете и силе интенсивности сигнала</i></p>\r\n\r\n<h2>Полезным функционалом для пользователя безусловно станут такие функции как:</h2>\r\n<ol>\r\n \t<li>Возможность объединения нескольких сессий сканирования</li>\r\n \t<li>Задание пользовательской системы координат и выравнивания данных.</li>\r\n \t<li>Сегментирование и чистка облака точек</li>\r\n</ol>\r\n<p class=\"\" align=\"center\"><img src=\"/upload/editor_images/1730886198-mceu_62656237751730886200732.png\" width=\"600\"></p>\r\n<p align=\"center\"><i>Облако точек с отображением трека (движения) оператора</i></p>\r\n<p class=\"\" align=\"center\"><i><img src=\"/upload/editor_images/1730886282-mceu_96755952061730886285111.png\" width=\"600\"></i></p>\r\n<p align=\"center\"><i>Раскадровка отснятых камерой панорам</i></p>\r\n\r\n<table style=\"border-collapse: collapse; width: 98.6395%;\" border=\"0\">\r\n<tbody>\r\n<tr>\r\n<td style=\"width: 49.7586%;\" align=\"center\"><img class=\"\" src=\"/upload/editor_images/1730886353-18.png\" alt=\"\" width=\"600\" height=\"305\"></td>\r\n<td style=\"width: 49.7586%;\" align=\"center\"><img src=\"/upload/editor_images/1730886369-19.png\" alt=\"\" width=\"600\" height=\"301\"></td>\r\n</tr>\r\n</tbody>\r\n</table>\r\nУ нас есть возможность выбрать панораму с камеры в режиме раздельного экрана, либо в отдельном виде для детального изучения отснятого материала.\r\n<table style=\"border-collapse: collapse; width: 98.6395%; height: 36px;\" border=\"0\">\r\n<tbody>\r\n<tr style=\"height: 18px;\">\r\n<td style=\"width: 49.7586%; vertical-align: middle;\" align=\"center\"><img class=\"\" src=\"/upload/editor_images/1730886439-20.png\" alt=\"\" width=\"595\" height=\"380\"></td>\r\n<td style=\"width: 49.7586%; vertical-align: middle;\" align=\"center\"><img src=\"/upload/editor_images/1730886454-21.png\" alt=\"\" width=\"749\" height=\"380\"></td>\r\n</tr>\r\n</tbody>\r\n</table>\r\nПример отсканированного белокаменного объекта – традиционно крайне тяжелая поверхность для оптических устройств ввиду высокой степени отражения сигнала. Даже в такой ситуации сканер показывает себя отлично.\r\n<h2 class=\"\"><strong>Вывод: </strong></h2>\r\nИтак, очевидным преимуществом технологии является высокая скорость сбора данных и накопления информации о состоянии объекта.\r\n\r\nПроцесс съемки и обработки данных является полностью автоматизированным и минимизирует трудовые затраты.\r\n<p class=\"\">Наличие функции чистки динамических объектов позволяет серьезно сократить лишние шумы, вызванные прохожими, самим оператором съемки и прочими посторонними элементами.</p>\r\nВысокая степень комфорта для пользователя в процессе сбора и обработки данных.\r\n\r\n&nbsp;\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+  "rendered": "<div class=\"boldgrid-section\">\n<div class=\"container\">\n<div class=\"row\">\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\n<p align=\"right\"><em>Комфорт и простота работы, воплощенные в новых технологичных инструментах.</em></p>\n<h4>Краткая справка об объекте:</h4>\n<p><b>Локация: </b>Осташёво, Волоколамский округ, Московская область. Фрагментарно сохранившаяся усадьба Муравьёвых.</p>\n<p>Усадьба находится на берегу Рузского водохранилища, которое было создано в 1960 году. К главному усадебному дому ведёт липовая въездная аллея. Вокруг усадьбы был липовый парк. Основной дом стоит на высоком берегу и из него прекрасно виден изгиб и ширь реки.</p>\n<p>В бывшей усадьбе (XVIII – XIX в.в.), принадлежащей Н.Н. Муравьёву, в 1816 году проходили занятия, основанной им школы офицеров Генерального штаба. Из числа её воспитанников вышло 22 декабриста. Усадьба сменила нескольких владельцев, последним из которых был внук Николая I, великий князь Константин Константинович Романов, поэт серебряного века. Рядом с усадьбой находится храм-усыпальница, построеная в 1915 году над могилой князя Олега Константиновича Романова, который погиб на фронте в Первой Мировой войне.&nbsp;</p>\n<p><b>Задача: </b>Реставрационные работы с сохранением исторического вида объекта.</p>\n<h2><strong>&nbsp;</strong><strong>О технологии: </strong></h2>\n<p class=\"\">Технология одновременной локализации и картографирования (SLAM) позволяет быстро создавать цифровые модели окружающего пространства. Принцип работы заключается в синхронном использовании двух измерительных устройств &#8212; лазерного сканера и инерциальной системы (IMU). Их данные обрабатываются на компьютере, причем показания IMU корректируются данными со сканера, по которым вычисляется траектория движения сканера. Этот процесс полностью автоматизирован. Проще говоря, сканер определяет свое местоположение относительно окружающих объектов и одновременно оцифровывает эти объекты в виде облака точек.</p>\n<p class=\"\">Изначально SLAM-технология предполагала отсутствие GPS-приемника, позволяя проводить сканирование в местах, где нет сигнала спутников. Но со временем технологии развивались, и сейчас существуют модели сканеров, которые совмещают SLAM с GPS-навигацией.</p>\n<h2><strong>Решаемые задачи:</strong></h2>\n<ul class=\"\">\n<li>Авторский надзор</li>\n<li>Создание поэтажных планов зданий</li>\n<li>Создание трехмерных архивов объектов</li>\n<li>Изыскания</li>\n<li>Трехмерное сканирование строений для BIM-проектирования</li>\n<li>Съемка промышленных объектов</li>\n<li>Оперативный подсчет объемов складированных сыпучих материалов, угля, зернохранилищ</li>\n<li>Маркшейдерские измерения</li>\n<li>Трехмерная съемка подземных и наземных выработок</li>\n<li>Топографические изыскания</li>\n</ul>\n<h2><strong>&nbsp;</strong><strong>Процесс сбора данных:</strong></h2>\n<table style=\"border-collapse: collapse; width: 98.6395%; height: 18px;\" border=\"0\">\n<tbody>\n<tr style=\"height: 18px;\">\n<td style=\"width: 49.7586%; vertical-align: middle;\" align=\"center\"><img loading=\"lazy\" decoding=\"async\" fetchpriority=\"high\" decoding=\"async\" class=\"\" src=\"/upload/editor_images/1730884632-111.jpg\" alt=\"Пример геодезического сканирования. Разберем процесс обработки данных в новом обновленном программном обеспечении. - Технологии промышленного 3D-сканирования - AM-Tech\" width=\"600\" height=\"355\"></td>\n<td style=\"width: 49.7586%; height: 18px;\">Время на подготовку – 1 минута.</p>\n<p>Обход маршрута 1 – 5 минут</p>\n<p>Обход маршрута 2 – 4,5 минуты</td>\n</tr>\n</tbody>\n</table>\n<h2 class=\"\">Фотографии объекта:</h2>\n<table style=\"border-collapse: collapse; width: 98.6395%; height: 474px;\" border=\"0\">\n<tbody>\n<tr style=\"height: 456px;\">\n<td style=\"width: 49.7586%; height: 456px;\" align=\"center\"><img loading=\"lazy\" decoding=\"async\" decoding=\"async\" class=\"\" src=\"/upload/editor_images/1730884757-2.jpg\" alt=\"Пример геодезического сканирования. Разберем процесс обработки данных в новом обновленном программном обеспечении. - Технологии промышленного 3D-сканирования - AM-Tech\" width=\"600\" height=\"451\"></td>\n<td style=\"width: 49.7586%; height: 456px;\" align=\"center\"><img loading=\"lazy\" decoding=\"async\" decoding=\"async\" class=\"\" src=\"/upload/editor_images/1730884774-3.jpg\" alt=\"Пример геодезического сканирования. Разберем процесс обработки данных в новом обновленном программном обеспечении. - Технологии промышленного 3D-сканирования - AM-Tech\" width=\"600\" height=\"452\"></td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 49.7586%;\" align=\"center\"><img loading=\"lazy\" decoding=\"async\" class=\"\" src=\"/upload/editor_images/1730884786-4.jpg\" alt=\"Пример геодезического сканирования. Разберем процесс обработки данных в новом обновленном программном обеспечении. - Технологии промышленного 3D-сканирования - AM-Tech\" width=\"600\" height=\"452\"></td>\n<td style=\"width: 49.7586%;\" align=\"center\"><img loading=\"lazy\" decoding=\"async\" src=\"/upload/editor_images/1730884795-5.jpg\" alt=\"Пример геодезического сканирования. Разберем процесс обработки данных в новом обновленном программном обеспечении. - Технологии промышленного 3D-сканирования - AM-Tech\" width=\"600\" height=\"452\"></td>\n</tr>\n</tbody>\n</table>\n<h2>Процесс обработки данных:</h2>\n<table style=\"border-collapse: collapse; width: 98.6395%; height: 36px;\" border=\"0\">\n<tbody>\n<tr style=\"height: 18px;\">\n<td style=\"width: 43.6747%;\" align=\"center\"><img loading=\"lazy\" decoding=\"async\" class=\"\" src=\"/upload/editor_images/1730885018-6.png\" alt=\"Пример геодезического сканирования. Разберем процесс обработки данных в новом обновленном программном обеспечении. - Технологии промышленного 3D-сканирования - AM-Tech\" width=\"600\" height=\"297\"></td>\n<td class=\"\" style=\"width: 55.8425%; height: 18px;\">Первым шагом традиционно выбираем место для хранения проекта и его название.</p>\n<p>Для импорта данных – добавляем отснятый в поле материал путем выбора папки хранения данных.</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 43.6747%; vertical-align: middle;\" align=\"center\"><img loading=\"lazy\" decoding=\"async\" src=\"/upload/editor_images/1730885034-7.png\" alt=\"Пример геодезического сканирования. Разберем процесс обработки данных в новом обновленном программном обеспечении. - Технологии промышленного 3D-сканирования - AM-Tech\" width=\"600\" height=\"312\"></td>\n<td style=\"width: 55.8425%; height: 18px;\">&nbsp;</p>\n<p>В строке состояния статуса у нас отобразится информация о том, что наши данные успешно импортированны, но еще не отпроцессированны (распакованы в понятные для программного обеспечения алгоритмы).</p>\n<p>&nbsp;</p>\n<p>&nbsp;</td>\n</tr>\n<tr>\n<td style=\"width: 43.6747%; vertical-align: middle;\" align=\"center\"><img loading=\"lazy\" decoding=\"async\" class=\"\" src=\"/upload/editor_images/1730885142-8.png\" alt=\"Пример геодезического сканирования. Разберем процесс обработки данных в новом обновленном программном обеспечении. - Технологии промышленного 3D-сканирования - AM-Tech\" width=\"600\" height=\"316\"></td>\n<td style=\"width: 55.8425%;\">Нажимая ОК – автоматиески запускается процесс распаковки данных.</td>\n</tr>\n<tr>\n<td style=\"width: 43.6747%;\" align=\"center\"><img loading=\"lazy\" decoding=\"async\" src=\"/upload/editor_images/1730885188-9.png\" alt=\"Пример геодезического сканирования. Разберем процесс обработки данных в новом обновленном программном обеспечении. - Технологии промышленного 3D-сканирования - AM-Tech\" width=\"600\" height=\"66\"></td>\n<td style=\"width: 55.8425%;\">Требующееся время на процессинга данных на рекомендуемой конфигурации компьютера – 5 минут.</td>\n</tr>\n<tr>\n<td style=\"width: 43.6747%;\" align=\"center\"><img loading=\"lazy\" decoding=\"async\" src=\"/upload/editor_images/1730885239-10.png\" alt=\"Пример геодезического сканирования. Разберем процесс обработки данных в новом обновленном программном обеспечении. - Технологии промышленного 3D-сканирования - AM-Tech\" width=\"600\" height=\"336\"></td>\n<td style=\"width: 55.8425%;\">По окончании процесса мы уже можем увидеть как выглядит наш объект сканирования.</td>\n</tr>\n<tr>\n<td style=\"width: 43.6747%;\" align=\"center\"><img loading=\"lazy\" decoding=\"async\" class=\"\" src=\"/upload/editor_images/1730885252-11.png\" alt=\"Пример геодезического сканирования. Разберем процесс обработки данных в новом обновленном программном обеспечении. - Технологии промышленного 3D-сканирования - AM-Tech\" width=\"600\" height=\"305\"></td>\n<td class=\"\" style=\"width: 55.8425%;\">Следующим шагом необходимо оптимизировать наш проект.</td>\n</tr>\n</tbody>\n</table>\n<h2>На текущий момент мы можем выбрать следующие данные, которые хотим увидеть в нашем проекте:</h2>\n<ol class=\"\">\n<li>Тип процессирования для разных сценариев съемки: стандартный, съемка в стесненном пространстве и динамическая съемка.</li>\n<li>Качестве обработки данных – стандартное и высокое. Высокое качество может рекомендоваться при необходимости сохранения высокой детализации на сложных архитектурных элементах и большой инфраструктурной загруженности (например, большое кол-во труб). Стандартный режим используется во всех остальных случаях.&nbsp;<img alt=\"Пример геодезического сканирования. Разберем процесс обработки данных в новом обновленном программном обеспечении. - Технологии промышленного 3D-сканирования - AM-Tech\" loading=\"lazy\" decoding=\"async\" style=\"text-align: -webkit-center; margin-top: 20px; margin-bottom: 20px;\" src=\"https://am-tech.ru/wp-content/uploads/2025/08/1730885531-mceu_81267857311730885533459.png\" width=\"600\" height=\"311\"></li>\n<li>Трансформация системы координат.<br />\n<img loading=\"lazy\" decoding=\"async\" alt=\"Пример геодезического сканирования. Разберем процесс обработки данных в новом обновленном программном обеспечении. - Технологии промышленного 3D-сканирования - AM-Tech\" decoding=\"async\" style=\"margin-top: 20px; margin-bottom: 20px;\" src=\"https://am-tech.ru/wp-content/uploads/2025/08/1730885839-mceu_8813390021730885841529.png\" width=\"600\"></li>\n<li>Обработка данных c RTK.</li>\n<li>Очистка динамических (подвижных) объектов.</li>\n<li>Окраска облака точек по цвету камеры.</li>\n</ol>\n<p>&nbsp;</p>\n<p class=\"\">Нажимая кнопку ОК, запускается аналогичнная строка состояния обработки и через 5-10 минут в зависимости от выбранных процессов мы получаем готовый результат – оптимизированное облако точек.</p>\n<p align=\"center\">&nbsp;</p>\n<table style=\"border-collapse: collapse; width: 98.6395%;\" border=\"0\">\n<tbody>\n<tr>\n<td style=\"width: 49.7586%;\" align=\"center\"><img loading=\"lazy\" decoding=\"async\" alt=\"Пример геодезического сканирования. Разберем процесс обработки данных в новом обновленном программном обеспечении. - Технологии промышленного 3D-сканирования - AM-Tech\" decoding=\"async\" style=\"text-align: -webkit-center;\" src=\"https://am-tech.ru/wp-content/uploads/2025/08/1730886034-mceu_48431672741730886037166.png\" width=\"600\"></td>\n<td style=\"width: 49.7586%;\" align=\"center\"><img loading=\"lazy\" decoding=\"async\" src=\"/upload/editor_images/1730886096-15.png\" alt=\"Пример геодезического сканирования. Разберем процесс обработки данных в новом обновленном программном обеспечении. - Технологии промышленного 3D-сканирования - AM-Tech\" width=\"600\" height=\"301\"></td>\n</tr>\n</tbody>\n</table>\n<p align=\"center\"><i>Пример отображения облака точек в цвете и силе интенсивности сигнала</i></p>\n<h2>Полезным функционалом для пользователя безусловно станут такие функции как:</h2>\n<ol>\n<li>Возможность объединения нескольких сессий сканирования</li>\n<li>Задание пользовательской системы координат и выравнивания данных.</li>\n<li>Сегментирование и чистка облака точек</li>\n</ol>\n<p class=\"\" align=\"center\"><img loading=\"lazy\" decoding=\"async\" alt=\"Пример геодезического сканирования. Разберем процесс обработки данных в новом обновленном программном обеспечении. - Технологии промышленного 3D-сканирования - AM-Tech\" decoding=\"async\" src=\"/upload/editor_images/1730886198-mceu_62656237751730886200732.png\" width=\"600\"></p>\n<p align=\"center\"><i>Облако точек с отображением трека (движения) оператора</i></p>\n<p class=\"\" align=\"center\"><i><img loading=\"lazy\" decoding=\"async\" alt=\"Пример геодезического сканирования. Разберем процесс обработки данных в новом обновленном программном обеспечении. - Технологии промышленного 3D-сканирования - AM-Tech\" decoding=\"async\" src=\"/upload/editor_images/1730886282-mceu_96755952061730886285111.png\" width=\"600\"></i></p>\n<p align=\"center\"><i>Раскадровка отснятых камерой панорам</i></p>\n<table style=\"border-collapse: collapse; width: 98.6395%;\" border=\"0\">\n<tbody>\n<tr>\n<td style=\"width: 49.7586%;\" align=\"center\"><img loading=\"lazy\" decoding=\"async\" class=\"\" src=\"/upload/editor_images/1730886353-18.png\" alt=\"Пример геодезического сканирования. Разберем процесс обработки данных в новом обновленном программном обеспечении. - Технологии промышленного 3D-сканирования - AM-Tech\" width=\"600\" height=\"305\"></td>\n<td style=\"width: 49.7586%;\" align=\"center\"><img loading=\"lazy\" decoding=\"async\" src=\"/upload/editor_images/1730886369-19.png\" alt=\"Пример геодезического сканирования. Разберем процесс обработки данных в новом обновленном программном обеспечении. - Технологии промышленного 3D-сканирования - AM-Tech\" width=\"600\" height=\"301\"></td>\n</tr>\n</tbody>\n</table>\n<p>У нас есть возможность выбрать панораму с камеры в режиме раздельного экрана, либо в отдельном виде для детального изучения отснятого материала.</p>\n<table style=\"border-collapse: collapse; width: 98.6395%; height: 36px;\" border=\"0\">\n<tbody>\n<tr style=\"height: 18px;\">\n<td style=\"width: 49.7586%; vertical-align: middle;\" align=\"center\"><img loading=\"lazy\" decoding=\"async\" class=\"\" src=\"/upload/editor_images/1730886439-20.png\" alt=\"Пример геодезического сканирования. Разберем процесс обработки данных в новом обновленном программном обеспечении. - Технологии промышленного 3D-сканирования - AM-Tech\" width=\"595\" height=\"380\"></td>\n<td style=\"width: 49.7586%; vertical-align: middle;\" align=\"center\"><img loading=\"lazy\" decoding=\"async\" src=\"/upload/editor_images/1730886454-21.png\" alt=\"Пример геодезического сканирования. Разберем процесс обработки данных в новом обновленном программном обеспечении. - Технологии промышленного 3D-сканирования - AM-Tech\" width=\"749\" height=\"380\"></td>\n</tr>\n</tbody>\n</table>\n<p>Пример отсканированного белокаменного объекта – традиционно крайне тяжелая поверхность для оптических устройств ввиду высокой степени отражения сигнала. Даже в такой ситуации сканер показывает себя отлично.</p>\n<h2 class=\"\"><strong>Вывод: </strong></h2>\n<p>Итак, очевидным преимуществом технологии является высокая скорость сбора данных и накопления информации о состоянии объекта.</p>\n<p>Процесс съемки и обработки данных является полностью автоматизированным и минимизирует трудовые затраты.</p>\n<p class=\"\">Наличие функции чистки динамических объектов позволяет серьезно сократить лишние шумы, вызванные прохожими, самим оператором съемки и прочими посторонними элементами.</p>\n<p>Высокая степень комфорта для пользователя в процессе сбора и обработки данных.</p>\n<p>&nbsp;</p>\n</div>\n</div>\n</div>\n</div>\n",
+  "protected": false,
+  "block_version": 0
+ },
+ "excerpt": {
+  "raw": "",
+  "rendered": "<p>Комфорт и простота работы, воплощенные в новых технологичных инструментах. Краткая справка об объекте: Локация: Осташёво, Волоколамский округ, Московская область. Фрагментарно сохранившаяся усадьба Муравьёвых. Усадьба находится на берегу Рузского водохранилища, которое было создано в 1960 году. К главному усадебному дому ведёт липовая въездная аллея. Вокруг усадьбы был липовый парк. Основной дом стоит на высоком берегу и [&hellip;]</p>\n",
+  "protected": false
+ },
+ "author": 1,
+ "featured_media": 2166,
+ "comment_status": "open",
+ "ping_status": "open",
+ "template": "",
+ "meta": {
+  "_acf_changed": false,
+  "_yoast_wpseo_title": "Пример геодезического сканирования. Разберем процесс обработки данных в новом обновленном программном обеспечении | AM-Tech",
+  "_yoast_wpseo_metadesc": "Кейс геодезического сканирования. Процесс обработки данных в новом обновленном программном обеспечении - AM-Tech",
+  "_yoast_wpseo_meta-robots-noindex": ""
+ },
+ "case_category": [
+  1091
+ ],
+ "case_tag": [
+  1323,
+  1322,
+  1324
+ ],
+ "permalink_template": "https://am-tech.ru/cases/%pagename%/",
+ "generated_slug": "primer-geodezicheskogo-skanirovanija-razberem-process-obrabotki-dannyh-v-novom-obnovlennom-programmnom-obespechenii",
+ "class_list": [
+  "post-2191",
+  "cases",
+  "type-cases",
+  "status-publish",
+  "has-post-thumbnail",
+  "hentry",
+  "case_category-tehnologii-3d-skanirovaniya",
+  "case_tag-geodesicheskie-3d-scaneri",
+  "case_tag-obratnoe-proektirovanie",
+  "case_tag-promyshlennoe-3d-skanirovanie"
+ ],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Пример геодезического сканирования. Разберем процесс обработки данных в новом обновленном программном обеспечении | AM-Tech</title>\n<meta name=\"description\" content=\"Кейс геодезического сканирования. Процесс обработки данных в новом обновленном программном обеспечении - AM-Tech\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/cases/primer-geodezicheskogo-skanirovaniya-razberem-protsess-obrabotki-dannykh-v-novom-obnovlennom-program/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Пример геодезического сканирования. Разберем процесс обработки данных в новом обновленном программном обеспечении | AM-Tech\" />\n<meta property=\"og:description\" content=\"Кейс геодезического сканирования. Процесс обработки данных в новом обновленном программном обеспечении - AM-Tech\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/cases/primer-geodezicheskogo-skanirovaniya-razberem-protsess-obrabotki-dannykh-v-novom-obnovlennom-program/\" />\n<meta property=\"og:site_name\" content=\"am-tech.ru\" />\n<meta property=\"article:modified_time\" content=\"2026-01-23T11:01:52+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2025/08/4l45imnbqgyga3icckp1uwqxuhgenq6k.webp\" />\n\t<meta property=\"og:image:width\" content=\"1024\" />\n\t<meta property=\"og:image:height\" content=\"494\" />\n\t<meta property=\"og:image:type\" content=\"image/webp\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"8 минут\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/cases/primer-geodezicheskogo-skanirovaniya-razberem-protsess-obrabotki-dannykh-v-novom-obnovlennom-program/\",\"url\":\"https://am-tech.ru/cases/primer-geodezicheskogo-skanirovaniya-razberem-protsess-obrabotki-dannykh-v-novom-obnovlennom-program/\",\"name\":\"Пример геодезического сканирования. Разберем процесс обработки данных в новом обновленном программном обеспечении | AM-Tech\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/cases/primer-geodezicheskogo-skanirovaniya-razberem-protsess-obrabotki-dannykh-v-novom-obnovlennom-program/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/cases/primer-geodezicheskogo-skanirovaniya-razberem-protsess-obrabotki-dannykh-v-novom-obnovlennom-program/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2025/08/4l45imnbqgyga3icckp1uwqxuhgenq6k.webp\",\"datePublished\":\"2024-10-22T21:00:00+00:00\",\"dateModified\":\"2026-01-23T11:01:52+00:00\",\"description\":\"Кейс геодезического сканирования. Процесс обработки данных в новом обновленном программном обеспечении - AM-Tech\",\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/cases/primer-geodezicheskogo-skanirovaniya-razberem-protsess-obrabotki-dannykh-v-novom-obnovlennom-program/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/cases/primer-geodezicheskogo-skanirovaniya-razberem-protsess-obrabotki-dannykh-v-novom-obnovlennom-program/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2025/08/4l45imnbqgyga3icckp1uwqxuhgenq6k.webp\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2025/08/4l45imnbqgyga3icckp1uwqxuhgenq6k.webp\",\"width\":1024,\"height\":494},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"am-tech.ru\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"am-tech.ru\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"am-tech.ru\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "Пример геодезического сканирования. Разберем процесс обработки данных в новом обновленном программном обеспечении | AM-Tech",
+  "description": "Кейс геодезического сканирования. Процесс обработки данных в новом обновленном программном обеспечении - AM-Tech",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/cases/primer-geodezicheskogo-skanirovaniya-razberem-protsess-obrabotki-dannykh-v-novom-obnovlennom-program/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "Пример геодезического сканирования. Разберем процесс обработки данных в новом обновленном программном обеспечении | AM-Tech",
+  "og_description": "Кейс геодезического сканирования. Процесс обработки данных в новом обновленном программном обеспечении - AM-Tech",
+  "og_url": "https://am-tech.ru/cases/primer-geodezicheskogo-skanirovaniya-razberem-protsess-obrabotki-dannykh-v-novom-obnovlennom-program/",
+  "og_site_name": "am-tech.ru",
+  "article_modified_time": "2026-01-23T11:01:52+00:00",
+  "og_image": [
+   {
+    "width": 1024,
+    "height": 494,
+    "url": "https://am-tech.ru/wp-content/uploads/2025/08/4l45imnbqgyga3icckp1uwqxuhgenq6k.webp",
+    "type": "image/webp"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "8 минут"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/cases/primer-geodezicheskogo-skanirovaniya-razberem-protsess-obrabotki-dannykh-v-novom-obnovlennom-program/",
+     "url": "https://am-tech.ru/cases/primer-geodezicheskogo-skanirovaniya-razberem-protsess-obrabotki-dannykh-v-novom-obnovlennom-program/",
+     "name": "Пример геодезического сканирования. Разберем процесс обработки данных в новом обновленном программном обеспечении | AM-Tech",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/cases/primer-geodezicheskogo-skanirovaniya-razberem-protsess-obrabotki-dannykh-v-novom-obnovlennom-program/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/cases/primer-geodezicheskogo-skanirovaniya-razberem-protsess-obrabotki-dannykh-v-novom-obnovlennom-program/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2025/08/4l45imnbqgyga3icckp1uwqxuhgenq6k.webp",
+     "datePublished": "2024-10-22T21:00:00+00:00",
+     "dateModified": "2026-01-23T11:01:52+00:00",
+     "description": "Кейс геодезического сканирования. Процесс обработки данных в новом обновленном программном обеспечении - AM-Tech",
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/cases/primer-geodezicheskogo-skanirovaniya-razberem-protsess-obrabotki-dannykh-v-novom-obnovlennom-program/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/cases/primer-geodezicheskogo-skanirovaniya-razberem-protsess-obrabotki-dannykh-v-novom-obnovlennom-program/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2025/08/4l45imnbqgyga3icckp1uwqxuhgenq6k.webp",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2025/08/4l45imnbqgyga3icckp1uwqxuhgenq6k.webp",
+     "width": 1024,
+     "height": 494
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "am-tech.ru",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "am-tech.ru",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "am-tech.ru"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/cases/2191",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/cases"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/types/cases"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/users/1"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/comments?post=2191"
+   }
+  ],
+  "wp:featuredmedia": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/media/2166"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/media?parent=2191"
+   }
+  ],
+  "wp:term": [
+   {
+    "taxonomy": "case_category",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/case_category?post=2191"
+   },
+   {
+    "taxonomy": "case_tag",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/case_tag?post=2191"
+   }
+  ],
+  "wp:action-publish": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/cases/2191"
+   }
+  ],
+  "wp:action-unfiltered-html": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/cases/2191"
+   }
+  ],
+  "wp:action-assign-author": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/cases/2191"
+   }
+  ],
+  "wp:action-create-case_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/cases/2191"
+   }
+  ],
+  "wp:action-assign-case_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/cases/2191"
+   }
+  ],
+  "wp:action-create-case_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/cases/2191"
+   }
+  ],
+  "wp:action-assign-case_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/cases/2191"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

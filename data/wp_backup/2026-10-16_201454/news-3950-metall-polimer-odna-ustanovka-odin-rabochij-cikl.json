@@ -1,0 +1,281 @@
+{
+ "id": 3950,
+ "date": "2026-04-01T12:59:00",
+ "date_gmt": "2026-04-01T09:59:00",
+ "guid": {
+  "rendered": "https://am-tech.ru/?post_type=news&#038;p=3950",
+  "raw": "https://am-tech.ru/?post_type=news&#038;p=3950"
+ },
+ "modified": "2026-06-30T15:17:55",
+ "modified_gmt": "2026-06-30T12:17:55",
+ "password": "",
+ "slug": "metall-polimer-odna-ustanovka-odin-rabochij-cikl",
+ "status": "publish",
+ "type": "news",
+ "link": "https://am-tech.ru/news/metall-polimer-odna-ustanovka-odin-rabochij-cikl/",
+ "title": {
+  "raw": "Металл + полимер — одна установка, один рабочий цикл",
+  "rendered": "Металл + полимер — одна установка, один рабочий цикл"
+ },
+ "content": {
+  "raw": "<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n<p class=\"\">ООО «НПО „3Д-Интеграция“» открыло серийное производство первой в России аддитивной линии, которая сочетает селективное лазерное плавление металлов (SLM) и послойную экструзию полимеров (FDM). Технология bimaterial printing дает конструкторам возможность объединять прочность металла и функциональность пластика в единой детали без дополнительной сборки, пайки или клея.</p>\r\n<p class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-03-31_10-18-11.jpg\"><img class=\"alignnone size-full wp-image-3951\" src=\"https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-03-31_10-18-11.jpg\" alt=\"\" width=\"1024\" height=\"1024\"></a></p>\r\n\r\n<h2 class=\"\">Как это работает</h2>\r\n<ul class=\"\">\r\n \t<li>Металлическая база печатается по SLM: порошок расплавляется отечественным лазером 500 Вт.</li>\r\n \t<li>В той же камере сразу формируется полимерный слой по FDM-методу.</li>\r\n \t<li>Толщина металло-полимерного шва — менее 40 µm. Связь прочнее традиционного пайки и клея.</li>\r\n \t<li>Термошкаф до 180 °C поддерживает стабильную кристаллизацию полимера.</li>\r\n \t<li>Полная сертификация по ГОСТ Р ISO / ASTM 52900-2020.</li>\r\n</ul>\r\n<h2>Производственная линия</h2>\r\n<ul class=\"\">\r\n \t<li>До 2 000 гибридных деталей в месяц на одной установке.</li>\r\n \t<li>Максимальный строительный объем: 250 × 250 × 300 мм.</li>\r\n \t<li>Система мониторинга шва в реальном времени и автоматический отбор проб для ОТК.</li>\r\n \t<li>Промышленная интеграция через OPC UA ― легко подключается к MES/ERP.</li>\r\n</ul>\r\n<h2 class=\"\">Преимущества для заказчика</h2>\r\n<ol class=\"\">\r\n \t<li>Масса сборок − 30 %: убираем метизы, резьбовые вставки и клеевые слои.</li>\r\n \t<li>Тайм-ту-маркет − 40 %: металл и полимер строятся за один проход, без пост-сборки.</li>\r\n \t<li>Новые конструкторские возможности:</li>\r\n</ol>\r\n<ul class=\"\">\r\n \t<li>внутренние каналы охлаждения;</li>\r\n \t<li>встроенные демпферы и уплотнения;</li>\r\n \t<li>диэлектрические изоляторы и электропроводящие дорожки;</li>\r\n \t<li>резьбы, посадочные места, мягкие контактные зоны ― всё «выращивается» сразу.</li>\r\n</ul>\r\n<h2>Где, как и зачем используют bimaterial printing</h2>\r\n<h3 class=\"\">1. Авиакосмическая промышленность</h3>\r\n<p class=\"\">Кронштейн прокладки бортовой проводки в отсеке топливных баков.&nbsp;</p>\r\n<p class=\"\">‐ Металл: AlSi10Mg (корпус, несущая часть).&nbsp;</p>\r\n<p class=\"\">‐ Полимер: PEEK-ESD (антистатический канал-изоляция).</p>\r\n<p class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-04-01_12-43-57.jpg\"><img class=\"alignnone size-full wp-image-3952\" src=\"https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-04-01_12-43-57.jpg\" alt=\"\" width=\"1024\" height=\"1024\"></a></p>\r\n<p class=\"\">Металлическая полка обеспечивает прочность и стойкость к вибрациям; полимерный «коридор» защищает кабели и исключает дуговой разряд при 28 V бортовой сети.</p>\r\n<p class=\"\">В результате –32 % массы и ‑4 сборочных операции (ранее ставили отдельный алюминиевый кронштейн + клипсу PEEK). Завод-изготовитель сертифицировал узел у ЕASA Part 21G; лётные испытания – Q2 2024.</p>\r\n&nbsp;\r\n<h3 class=\"\">2. Ракетно-космические двигательные системы</h3>\r\n<p class=\"\">Сопловая вставка с интегрированными каналами рецикла топлива для регенеративного охлаждения.&nbsp;</p>\r\n‐ Металл: Inconel 718.&nbsp;\r\n<p class=\"\">‐ Полимер: PEI + CNT-наполнение (датчиковая трасса).</p>\r\n<p class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-03-31_16-32-22.jpg\"><img class=\"alignnone size-full wp-image-3953\" src=\"https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-03-31_16-32-22.jpg\" alt=\"\" width=\"1024\" height=\"1024\"></a></p>\r\n<p class=\"\">Полимерные микротрубки врастая в стенку, служат термо-и электроизоляцией для термопар; позволяют крепить сенсоры без пайки.</p>\r\n<p class=\"\">На стенде получено +120 сек устойчивой работы, без растрескивания канала. Разработка проходит цикл TRL-6.</p>\r\n<p class=\"\">&nbsp;</p>\r\n\r\n<h3>3. Медицинская техника и имплантология</h3>\r\n<p class=\"\">Хирургический степлер для лапароскопии.&nbsp;</p>\r\n<p class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-04-01_12-57-18.jpg\"><img class=\"alignnone size-full wp-image-3958\" src=\"https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-04-01_12-57-18.jpg\" alt=\"\" width=\"1408\" height=\"768\"></a></p>\r\n\r\n<ul class=\"\">\r\n \t<li>‐ Металл: Ti6Al4V (рукав-направляющая скоб).</li>\r\n \t<li>‐ Полимер: MED-PA12-CF (эргономичный каркас ручки).</li>\r\n</ul>\r\n<p class=\"\">Металлическая часть стерилизуется автоклавом; полимер делает рукоятку лёгкой и анти-скользящей. Пациенту — меньше утомляемости хирурга, клинике — одноразовое изделие c возможностью частичной стерилизации.</p>\r\n\r\n<h3>4. Дентальная ортодонтия</h3>\r\n<p class=\"\">Индивидуальная брекет-пластина.&nbsp;</p>\r\n<p class=\"\">‐ Металл: CoCrMo (биосовместимый сплав).&nbsp;</p>\r\n<p class=\"\">‐ Полимер: ТПУ Shore 75A (мягкая окклюзионная накладка).</p>\r\n<p class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-03-31_16-35-04.jpg\"><img class=\"alignnone size-full wp-image-3954\" src=\"https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-03-31_16-35-04.jpg\" alt=\"\" width=\"1408\" height=\"768\"></a></p>\r\nВ одном цикле «выращиваются» и силовая дуга, и эластичный демпфер — нет клея, нет дискомфорта. Снятие пациентом занимает 30 сек.\r\n<p class=\"\">&nbsp;</p>\r\n\r\n<h3>5. Робототехника / лёгкая промышленная автоматизация</h3>\r\n<p class=\"\">Концевой инструмент для коллаборативного робота.&nbsp;</p>\r\n‐ Металл: 17-4PH (пальцы-захваты).&nbsp;\r\n<p class=\"\">‐ Полимер: TPU + Graphite (покрытие контактных поверхностей).&nbsp;</p>\r\nТрадиционно металлические пальцы + приклеиваемые резиновые накладки меняли каждые 25 тыс захватов. Гибридная деталь — 120 тыс циклов до износа и нулевой простой на переклейку.\r\n<p class=\"\"><strong>&nbsp;</strong>В полимер встроена токопроводящая нить (240 Ω) —- система распознаёт захват предмета по импедансу.</p>\r\n<strong>&nbsp;</strong>\r\n<h3>6. Автомобилестроение / Мотоспорт</h3>\r\n<p class=\"\">&nbsp;Корпус клапана EGR с интегрированным тепловым разрывом.&nbsp;</p>\r\n<p class=\"\">‐ Металл: AlSi9Cu3.</p>\r\n<p class=\"\">‐ Полимер: PPS-GF40 (барьерная вставка).</p>\r\n<p class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-03-31_16-36-17.jpg\"><img class=\"alignnone size-full wp-image-3955\" src=\"https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-03-31_16-36-17.jpg\" alt=\"\" width=\"1024\" height=\"1024\"></a></p>\r\nПолимер отделяет горячий участок (900 °C) от впускного коллектора → снижение температуры воздуха на 18 °C, улучшение навеса турбины. Пробег 250 тыс км без разрушения шва (испытания OEM-Tier 1).\r\n<p class=\"\">&nbsp;</p>\r\n\r\n<h3>7. Электронные приборы, RF-модули</h3>\r\n<p class=\"\">Радиатор-экран для миллиметрового радара 77 ГГц.&nbsp;</p>\r\n‐ Металл: AlSi10Mg (ребра охлаждения, экран).&nbsp;\r\n\r\n‐ Полимер: LCP-MF (низкая диэлектрическая проницаемость).&nbsp;\r\n<p class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-04-01_12-51-27.jpg\"><img class=\"alignnone size-full wp-image-3956\" src=\"https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-04-01_12-51-27.jpg\" alt=\"\" width=\"1024\" height=\"1024\"></a></p>\r\n<p class=\"\">Отражение на 77 ГГц –34 дБ; масса –28 %. Полимерная вставка формирует СВЧ-прозрачное окно: коллимация без дополнительного кожуха.</p>\r\n&nbsp;\r\n<h3>8. Химическое и нефтегазовое оборудование</h3>\r\n<p class=\"\">Форсунка смешения двух-фазного реактива.&nbsp;</p>\r\n<p class=\"\">‐ Металл: 316L (корпус и резьбовой фланец).&nbsp;</p>\r\n<p class=\"\">‐ Полимер: PFA-FEP (кислото-щелочестойкая вставка).&nbsp;</p>\r\n<p class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-04-01_12-54-00.jpg\"><img class=\"alignnone size-full wp-image-3957\" src=\"https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-04-01_12-54-00.jpg\" alt=\"\" width=\"1408\" height=\"768\"></a></p>\r\nСрок службы в растворах pH 1–14 вырос с 3 месяцев до 14 месяцев. На буровых в Арктике это означает экономию $170 0<strong>00 на осях снабжения.</strong>\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+  "rendered": "<div class=\"boldgrid-section\">\n<div class=\"container\">\n<div class=\"row\">\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\n<p class=\"\">ООО «НПО „3Д-Интеграция“» открыло серийное производство первой в России аддитивной линии, которая сочетает селективное лазерное плавление металлов (SLM) и послойную экструзию полимеров (FDM). Технология bimaterial printing дает конструкторам возможность объединять прочность металла и функциональность пластика в единой детали без дополнительной сборки, пайки или клея.</p>\n<p class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-03-31_10-18-11.jpg\"><img loading=\"lazy\" decoding=\"async\" fetchpriority=\"high\" decoding=\"async\" class=\"alignnone size-full wp-image-3951\" src=\"https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-03-31_10-18-11.jpg\" alt=\"Металл + полимер — одна установка, один рабочий цикл - 3D-печать металлами - AM-Tech\" width=\"1024\" height=\"1024\" srcset=\"https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-03-31_10-18-11.jpg 1024w, https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-03-31_10-18-11-300x300.jpg 300w, https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-03-31_10-18-11-150x150.jpg 150w, https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-03-31_10-18-11-768x768.jpg 768w, https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-03-31_10-18-11-600x600.jpg 600w, https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-03-31_10-18-11-100x100.jpg 100w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /></a></p>\n<h2 class=\"\">Как это работает</h2>\n<ul class=\"\">\n<li>Металлическая база печатается по SLM: порошок расплавляется отечественным лазером 500 Вт.</li>\n<li>В той же камере сразу формируется полимерный слой по FDM-методу.</li>\n<li>Толщина металло-полимерного шва — менее 40 µm. Связь прочнее традиционного пайки и клея.</li>\n<li>Термошкаф до 180 °C поддерживает стабильную кристаллизацию полимера.</li>\n<li>Полная сертификация по ГОСТ Р ISO / ASTM 52900-2020.</li>\n</ul>\n<h2>Производственная линия</h2>\n<ul class=\"\">\n<li>До 2 000 гибридных деталей в месяц на одной установке.</li>\n<li>Максимальный строительный объем: 250 × 250 × 300 мм.</li>\n<li>Система мониторинга шва в реальном времени и автоматический отбор проб для ОТК.</li>\n<li>Промышленная интеграция через OPC UA ― легко подключается к MES/ERP.</li>\n</ul>\n<h2 class=\"\">Преимущества для заказчика</h2>\n<ol class=\"\">\n<li>Масса сборок − 30 %: убираем метизы, резьбовые вставки и клеевые слои.</li>\n<li>Тайм-ту-маркет − 40 %: металл и полимер строятся за один проход, без пост-сборки.</li>\n<li>Новые конструкторские возможности:</li>\n</ol>\n<ul class=\"\">\n<li>внутренние каналы охлаждения;</li>\n<li>встроенные демпферы и уплотнения;</li>\n<li>диэлектрические изоляторы и электропроводящие дорожки;</li>\n<li>резьбы, посадочные места, мягкие контактные зоны ― всё «выращивается» сразу.</li>\n</ul>\n<h2>Где, как и зачем используют bimaterial printing</h2>\n<h3 class=\"\">1. Авиакосмическая промышленность</h3>\n<p class=\"\">Кронштейн прокладки бортовой проводки в отсеке топливных баков.&nbsp;</p>\n<p class=\"\">‐ Металл: AlSi10Mg (корпус, несущая часть).&nbsp;</p>\n<p class=\"\">‐ Полимер: PEEK-ESD (антистатический канал-изоляция).</p>\n<p class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-04-01_12-43-57.jpg\"><img loading=\"lazy\" decoding=\"async\" decoding=\"async\" class=\"alignnone size-full wp-image-3952\" src=\"https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-04-01_12-43-57.jpg\" alt=\"Металл + полимер — одна установка, один рабочий цикл - 3D-печать металлами - AM-Tech\" width=\"1024\" height=\"1024\" srcset=\"https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-04-01_12-43-57.jpg 1024w, https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-04-01_12-43-57-300x300.jpg 300w, https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-04-01_12-43-57-150x150.jpg 150w, https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-04-01_12-43-57-768x768.jpg 768w, https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-04-01_12-43-57-600x600.jpg 600w, https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-04-01_12-43-57-100x100.jpg 100w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /></a></p>\n<p class=\"\">Металлическая полка обеспечивает прочность и стойкость к вибрациям; полимерный «коридор» защищает кабели и исключает дуговой разряд при 28 V бортовой сети.</p>\n<p class=\"\">В результате –32 % массы и ‑4 сборочных операции (ранее ставили отдельный алюминиевый кронштейн + клипсу PEEK). Завод-изготовитель сертифицировал узел у ЕASA Part 21G; лётные испытания – Q2 2024.</p>\n<p>&nbsp;</p>\n<h3 class=\"\">2. Ракетно-космические двигательные системы</h3>\n<p class=\"\">Сопловая вставка с интегрированными каналами рецикла топлива для регенеративного охлаждения.&nbsp;</p>\n<p>‐ Металл: Inconel 718.&nbsp;</p>\n<p class=\"\">‐ Полимер: PEI + CNT-наполнение (датчиковая трасса).</p>\n<p class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-03-31_16-32-22.jpg\"><img loading=\"lazy\" decoding=\"async\" decoding=\"async\" class=\"alignnone size-full wp-image-3953\" src=\"https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-03-31_16-32-22.jpg\" alt=\"Металл + полимер — одна установка, один рабочий цикл - 3D-печать металлами - AM-Tech\" width=\"1024\" height=\"1024\" srcset=\"https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-03-31_16-32-22.jpg 1024w, https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-03-31_16-32-22-300x300.jpg 300w, https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-03-31_16-32-22-150x150.jpg 150w, https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-03-31_16-32-22-768x768.jpg 768w, https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-03-31_16-32-22-600x600.jpg 600w, https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-03-31_16-32-22-100x100.jpg 100w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /></a></p>\n<p class=\"\">Полимерные микротрубки врастая в стенку, служат термо-и электроизоляцией для термопар; позволяют крепить сенсоры без пайки.</p>\n<p class=\"\">На стенде получено +120 сек устойчивой работы, без растрескивания канала. Разработка проходит цикл TRL-6.</p>\n<p class=\"\">&nbsp;</p>\n<h3>3. Медицинская техника и имплантология</h3>\n<p class=\"\">Хирургический степлер для лапароскопии.&nbsp;</p>\n<p class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-04-01_12-57-18.jpg\"><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-full wp-image-3958\" src=\"https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-04-01_12-57-18.jpg\" alt=\"Металл + полимер — одна установка, один рабочий цикл - 3D-печать металлами - AM-Tech\" width=\"1408\" height=\"768\" srcset=\"https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-04-01_12-57-18.jpg 1408w, https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-04-01_12-57-18-300x164.jpg 300w, https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-04-01_12-57-18-1024x559.jpg 1024w, https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-04-01_12-57-18-768x419.jpg 768w, https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-04-01_12-57-18-600x327.jpg 600w\" sizes=\"(max-width: 1408px) 100vw, 1408px\" /></a></p>\n<ul class=\"\">\n<li>‐ Металл: Ti6Al4V (рукав-направляющая скоб).</li>\n<li>‐ Полимер: MED-PA12-CF (эргономичный каркас ручки).</li>\n</ul>\n<p class=\"\">Металлическая часть стерилизуется автоклавом; полимер делает рукоятку лёгкой и анти-скользящей. Пациенту — меньше утомляемости хирурга, клинике — одноразовое изделие c возможностью частичной стерилизации.</p>\n<h3>4. Дентальная ортодонтия</h3>\n<p class=\"\">Индивидуальная брекет-пластина.&nbsp;</p>\n<p class=\"\">‐ Металл: CoCrMo (биосовместимый сплав).&nbsp;</p>\n<p class=\"\">‐ Полимер: ТПУ Shore 75A (мягкая окклюзионная накладка).</p>\n<p class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-03-31_16-35-04.jpg\"><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-full wp-image-3954\" src=\"https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-03-31_16-35-04.jpg\" alt=\"Металл + полимер — одна установка, один рабочий цикл - 3D-печать металлами - AM-Tech\" width=\"1408\" height=\"768\" srcset=\"https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-03-31_16-35-04.jpg 1408w, https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-03-31_16-35-04-300x164.jpg 300w, https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-03-31_16-35-04-1024x559.jpg 1024w, https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-03-31_16-35-04-768x419.jpg 768w, https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-03-31_16-35-04-600x327.jpg 600w\" sizes=\"(max-width: 1408px) 100vw, 1408px\" /></a></p>\n<p>В одном цикле «выращиваются» и силовая дуга, и эластичный демпфер — нет клея, нет дискомфорта. Снятие пациентом занимает 30 сек.</p>\n<p class=\"\">&nbsp;</p>\n<h3>5. Робототехника / лёгкая промышленная автоматизация</h3>\n<p class=\"\">Концевой инструмент для коллаборативного робота.&nbsp;</p>\n<p>‐ Металл: 17-4PH (пальцы-захваты).&nbsp;</p>\n<p class=\"\">‐ Полимер: TPU + Graphite (покрытие контактных поверхностей).&nbsp;</p>\n<p>Традиционно металлические пальцы + приклеиваемые резиновые накладки меняли каждые 25 тыс захватов. Гибридная деталь — 120 тыс циклов до износа и нулевой простой на переклейку.</p>\n<p class=\"\"><strong>&nbsp;</strong>В полимер встроена токопроводящая нить (240 Ω) —- система распознаёт захват предмета по импедансу.</p>\n<p><strong>&nbsp;</strong></p>\n<h3>6. Автомобилестроение / Мотоспорт</h3>\n<p class=\"\">&nbsp;Корпус клапана EGR с интегрированным тепловым разрывом.&nbsp;</p>\n<p class=\"\">‐ Металл: AlSi9Cu3.</p>\n<p class=\"\">‐ Полимер: PPS-GF40 (барьерная вставка).</p>\n<p class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-03-31_16-36-17.jpg\"><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-full wp-image-3955\" src=\"https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-03-31_16-36-17.jpg\" alt=\"Металл + полимер — одна установка, один рабочий цикл - 3D-печать металлами - AM-Tech\" width=\"1024\" height=\"1024\" srcset=\"https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-03-31_16-36-17.jpg 1024w, https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-03-31_16-36-17-300x300.jpg 300w, https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-03-31_16-36-17-150x150.jpg 150w, https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-03-31_16-36-17-768x768.jpg 768w, https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-03-31_16-36-17-600x600.jpg 600w, https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-03-31_16-36-17-100x100.jpg 100w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /></a></p>\n<p>Полимер отделяет горячий участок (900 °C) от впускного коллектора → снижение температуры воздуха на 18 °C, улучшение навеса турбины. Пробег 250 тыс км без разрушения шва (испытания OEM-Tier 1).</p>\n<p class=\"\">&nbsp;</p>\n<h3>7. Электронные приборы, RF-модули</h3>\n<p class=\"\">Радиатор-экран для миллиметрового радара 77 ГГц.&nbsp;</p>\n<p>‐ Металл: AlSi10Mg (ребра охлаждения, экран).&nbsp;</p>\n<p>‐ Полимер: LCP-MF (низкая диэлектрическая проницаемость).&nbsp;</p>\n<p class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-04-01_12-51-27.jpg\"><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-full wp-image-3956\" src=\"https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-04-01_12-51-27.jpg\" alt=\"Металл + полимер — одна установка, один рабочий цикл - 3D-печать металлами - AM-Tech\" width=\"1024\" height=\"1024\" srcset=\"https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-04-01_12-51-27.jpg 1024w, https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-04-01_12-51-27-300x300.jpg 300w, https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-04-01_12-51-27-150x150.jpg 150w, https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-04-01_12-51-27-768x768.jpg 768w, https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-04-01_12-51-27-600x600.jpg 600w, https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-04-01_12-51-27-100x100.jpg 100w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /></a></p>\n<p class=\"\">Отражение на 77 ГГц –34 дБ; масса –28 %. Полимерная вставка формирует СВЧ-прозрачное окно: коллимация без дополнительного кожуха.</p>\n<p>&nbsp;</p>\n<h3>8. Химическое и нефтегазовое оборудование</h3>\n<p class=\"\">Форсунка смешения двух-фазного реактива.&nbsp;</p>\n<p class=\"\">‐ Металл: 316L (корпус и резьбовой фланец).&nbsp;</p>\n<p class=\"\">‐ Полимер: PFA-FEP (кислото-щелочестойкая вставка).&nbsp;</p>\n<p class=\"\"><a href=\"https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-04-01_12-54-00.jpg\"><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-full wp-image-3957\" src=\"https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-04-01_12-54-00.jpg\" alt=\"Металл + полимер — одна установка, один рабочий цикл - 3D-печать металлами - AM-Tech\" width=\"1408\" height=\"768\" srcset=\"https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-04-01_12-54-00.jpg 1408w, https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-04-01_12-54-00-300x164.jpg 300w, https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-04-01_12-54-00-1024x559.jpg 1024w, https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-04-01_12-54-00-768x419.jpg 768w, https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-04-01_12-54-00-600x327.jpg 600w\" sizes=\"(max-width: 1408px) 100vw, 1408px\" /></a></p>\n<p>Срок службы в растворах pH 1–14 вырос с 3 месяцев до 14 месяцев. На буровых в Арктике это означает экономию $170 0<strong>00 на осях снабжения.</strong></p>\n</div>\n</div>\n</div>\n</div>\n",
+  "protected": false,
+  "block_version": 0
+ },
+ "excerpt": {
+  "raw": "",
+  "rendered": "<p>ООО «НПО „3Д-Интеграция“» открыло серийное производство первой в России аддитивной линии, которая сочетает селективное лазерное плавление металлов (SLM) и послойную экструзию полимеров (FDM). Технология bimaterial printing дает конструкторам возможность объединять прочность металла и функциональность пластика в единой детали без дополнительной сборки, пайки или клея. Как это работает Металлическая база печатается по SLM: порошок расплавляется отечественным [&hellip;]</p>\n",
+  "protected": false
+ },
+ "author": 1,
+ "featured_media": 3951,
+ "comment_status": "open",
+ "ping_status": "closed",
+ "template": "",
+ "meta": {
+  "_acf_changed": false,
+  "_yoast_wpseo_title": "",
+  "_yoast_wpseo_metadesc": "Комбинированная 3D-печать: металл и полимер за один рабочий цикл. Узнайте о возможностях многоматериальной аддитивной установки.",
+  "_yoast_wpseo_meta-robots-noindex": ""
+ },
+ "news_category": [
+  1107,
+  1218,
+  970
+ ],
+ "news_tag": [],
+ "permalink_template": "https://am-tech.ru/news/%pagename%/",
+ "generated_slug": "metall-polimer-odna-ustanovka-odin-rabochij-cikl",
+ "class_list": [
+  "post-3950",
+  "news",
+  "type-news",
+  "status-publish",
+  "has-post-thumbnail",
+  "hentry",
+  "news_category-3d-pechat-metallami",
+  "news_category-linejka-3d-printerov-amt",
+  "news_category-novosti"
+ ],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Металл + полимер — одна установка, один рабочий цикл - AM.TECH</title>\n<meta name=\"description\" content=\"Комбинированная 3D-печать: металл и полимер за один рабочий цикл. Узнайте о возможностях многоматериальной аддитивной установки.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/news/metall-polimer-odna-ustanovka-odin-rabochij-cikl/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Металл + полимер — одна установка, один рабочий цикл - AM.TECH\" />\n<meta property=\"og:description\" content=\"Комбинированная 3D-печать: металл и полимер за один рабочий цикл. Узнайте о возможностях многоматериальной аддитивной установки.\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/news/metall-polimer-odna-ustanovka-odin-rabochij-cikl/\" />\n<meta property=\"og:site_name\" content=\"AM.TECH\" />\n<meta property=\"article:modified_time\" content=\"2026-06-30T12:17:55+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-03-31_10-18-11.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1024\" />\n\t<meta property=\"og:image:height\" content=\"1024\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"6 минут\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/news/metall-polimer-odna-ustanovka-odin-rabochij-cikl/\",\"url\":\"https://am-tech.ru/news/metall-polimer-odna-ustanovka-odin-rabochij-cikl/\",\"name\":\"Металл + полимер — одна установка, один рабочий цикл - AM.TECH\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/news/metall-polimer-odna-ustanovka-odin-rabochij-cikl/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/news/metall-polimer-odna-ustanovka-odin-rabochij-cikl/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-03-31_10-18-11.jpg\",\"datePublished\":\"2026-04-01T09:59:00+00:00\",\"dateModified\":\"2026-06-30T12:17:55+00:00\",\"description\":\"Комбинированная 3D-печать: металл и полимер за один рабочий цикл. Узнайте о возможностях многоматериальной аддитивной установки.\",\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/news/metall-polimer-odna-ustanovka-odin-rabochij-cikl/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/news/metall-polimer-odna-ustanovka-odin-rabochij-cikl/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-03-31_10-18-11.jpg\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-03-31_10-18-11.jpg\",\"width\":1024,\"height\":1024},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"AM.TECH\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"AM.TECH\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"AM.TECH\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "Металл + полимер — одна установка, один рабочий цикл - AM.TECH",
+  "description": "Комбинированная 3D-печать: металл и полимер за один рабочий цикл. Узнайте о возможностях многоматериальной аддитивной установки.",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/news/metall-polimer-odna-ustanovka-odin-rabochij-cikl/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "Металл + полимер — одна установка, один рабочий цикл - AM.TECH",
+  "og_description": "Комбинированная 3D-печать: металл и полимер за один рабочий цикл. Узнайте о возможностях многоматериальной аддитивной установки.",
+  "og_url": "https://am-tech.ru/news/metall-polimer-odna-ustanovka-odin-rabochij-cikl/",
+  "og_site_name": "AM.TECH",
+  "article_modified_time": "2026-06-30T12:17:55+00:00",
+  "og_image": [
+   {
+    "width": 1024,
+    "height": 1024,
+    "url": "https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-03-31_10-18-11.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "6 минут"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/news/metall-polimer-odna-ustanovka-odin-rabochij-cikl/",
+     "url": "https://am-tech.ru/news/metall-polimer-odna-ustanovka-odin-rabochij-cikl/",
+     "name": "Металл + полимер — одна установка, один рабочий цикл - AM.TECH",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/news/metall-polimer-odna-ustanovka-odin-rabochij-cikl/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/news/metall-polimer-odna-ustanovka-odin-rabochij-cikl/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-03-31_10-18-11.jpg",
+     "datePublished": "2026-04-01T09:59:00+00:00",
+     "dateModified": "2026-06-30T12:17:55+00:00",
+     "description": "Комбинированная 3D-печать: металл и полимер за один рабочий цикл. Узнайте о возможностях многоматериальной аддитивной установки.",
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/news/metall-polimer-odna-ustanovka-odin-rabochij-cikl/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/news/metall-polimer-odna-ustanovka-odin-rabochij-cikl/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-03-31_10-18-11.jpg",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2026/04/photo_2026-03-31_10-18-11.jpg",
+     "width": 1024,
+     "height": 1024
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "AM.TECH",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "AM.TECH",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "AM.TECH"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3950",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/types/news"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/users/1"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/comments?post=3950"
+   }
+  ],
+  "wp:featuredmedia": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/media/3951"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/media?parent=3950"
+   }
+  ],
+  "wp:term": [
+   {
+    "taxonomy": "news_category",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_category?post=3950"
+   },
+   {
+    "taxonomy": "news_tag",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_tag?post=3950"
+   }
+  ],
+  "wp:action-publish": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3950"
+   }
+  ],
+  "wp:action-unfiltered-html": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3950"
+   }
+  ],
+  "wp:action-assign-author": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3950"
+   }
+  ],
+  "wp:action-create-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3950"
+   }
+  ],
+  "wp:action-assign-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3950"
+   }
+  ],
+  "wp:action-create-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3950"
+   }
+  ],
+  "wp:action-assign-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3950"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

@@ -1,0 +1,88 @@
+[
+ {
+  "id": 4400,
+  "slug": "kontrol-shtampov-3d-skanerom-simscan-s",
+  "status": "draft",
+  "yt": "Контроль штампов 3D-сканером SIMSCAN S: доводка за 1 день | AM.TECH",
+  "yd_len": 151,
+  "tables": 1,
+  "style_wrap": 1,
+  "preview": "https://am-tech.ru/?post_type=cases&p=4400",
+  "featured_media": 4403,
+  "media": [
+   {
+    "id": 4403,
+    "url": "https://am-tech.ru/wp-content/uploads/2026/10/kontrol-shtampovannoj-paneli-3d-skanerom-simscan-s.webp",
+    "alt": "Сканирование штампованной кузовной панели ручным 3D-сканером SIMSCAN S"
+   },
+   {
+    "id": 4404,
+    "url": "https://am-tech.ru/wp-content/uploads/2026/10/kuzov-avtomobilya-shtampovannye-detali.webp",
+    "alt": "Кузов автомобиля из штампованных панелей"
+   },
+   {
+    "id": 4405,
+    "url": "https://am-tech.ru/wp-content/uploads/2026/10/3d-skanirovanie-shtampovannoj-detali-simscan-s.webp",
+    "alt": "3D-сканирование штампованной детали: синие лазерные линии SIMSCAN S"
+   },
+   {
+    "id": 4406,
+    "url": "https://am-tech.ru/wp-content/uploads/2026/10/karta-otklonenij-ot-cad-modeli-shtampovka.webp",
+    "alt": "Цветная карта отклонений штампованной панели от CAD-модели, мм"
+   },
+   {
+    "id": 4407,
+    "url": "https://am-tech.ru/wp-content/uploads/2026/10/3d-skaner-simscan-s-kontrol-kronshtejna.webp",
+    "alt": "Ручной 3D-сканер SIMSCAN S при контроле кузовного кронштейна"
+   }
+  ]
+ },
+ {
+  "id": 4401,
+  "slug": "kontrol-svarnyh-konstrukcij-nimbletrack-e",
+  "status": "draft",
+  "yt": "Контроль сварных узлов NimbleTrack E: отчёт в 10 раз быстрее | AM.TECH",
+  "yd_len": 155,
+  "tables": 1,
+  "style_wrap": 1,
+  "preview": "https://am-tech.ru/?post_type=cases&p=4401"
+ },
+ {
+  "id": 4402,
+  "slug": "proverka-soosnosti-valov-kscan-magic-ii",
+  "status": "draft",
+  "yt": "Проверка соосности валов 3D-сканером KSCAN MAGIC II | AM.TECH",
+  "yd_len": 150,
+  "tables": 1,
+  "style_wrap": 1,
+  "preview": "https://am-tech.ru/?post_type=cases&p=4402",
+  "featured_media": 4409,
+  "media": [
+   {
+    "id": 4409,
+    "url": "https://am-tech.ru/wp-content/uploads/2026/10/3d-skanirovanie-ramy-kscan-magic-ii-na-ploshhadke.webp",
+    "alt": "3D-сканирование рамы с посадочными местами валов сканером KSCAN MAGIC II на площадке заказчика"
+   },
+   {
+    "id": 4410,
+    "url": "https://am-tech.ru/wp-content/uploads/2026/10/svarnaya-rama-drobilki-proverka-soosnosti.webp",
+    "alt": "Сварная рама дробилки перед проверкой соосности валов"
+   },
+   {
+    "id": 4411,
+    "url": "https://am-tech.ru/wp-content/uploads/2026/10/skanirovanie-posadochnogo-otverstiya-vala-kscan-magic-ii.webp",
+    "alt": "Сканирование посадочного отверстия вала: KSCAN MAGIC II и метки на фланце"
+   },
+   {
+    "id": 4412,
+    "url": "https://am-tech.ru/wp-content/uploads/2026/10/cad-model-ramy-drobilki.webp",
+    "alt": "CAD-модель рамы дробилки с посадочными местами валов"
+   },
+   {
+    "id": 4413,
+    "url": "https://am-tech.ru/wp-content/uploads/2026/10/sovmeshchenie-skana-ramy-s-cad-modelyu.webp",
+    "alt": "Совмещение облака точек рамы с CAD-моделью для размерного анализа соосности"
+   }
+  ]
+ }
+]

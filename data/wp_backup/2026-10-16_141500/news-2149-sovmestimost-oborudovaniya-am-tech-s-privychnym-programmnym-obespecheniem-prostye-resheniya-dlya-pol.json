@@ -1,0 +1,277 @@
+{
+ "id": 2149,
+ "date": "2025-07-15T11:20:00",
+ "date_gmt": "2025-07-15T08:20:00",
+ "guid": {
+  "rendered": "http://am-tech.ru/news/sovmestimost-oborudovaniya-am-tech-s-privychnym-programmnym-obespecheniem-prostye-resheniya-dlya-pol/",
+  "raw": "http://am-tech.ru/news/sovmestimost-oborudovaniya-am-tech-s-privychnym-programmnym-obespecheniem-prostye-resheniya-dlya-pol/"
+ },
+ "modified": "2026-10-14T17:11:49",
+ "modified_gmt": "2026-10-14T14:11:49",
+ "password": "",
+ "slug": "sovmestimost-oborudovaniya-am-tech-s-privychnym-programmnym-obespecheniem-prostye-resheniya-dlya-pol",
+ "status": "publish",
+ "type": "news",
+ "link": "https://am-tech.ru/news/sovmestimost-oborudovaniya-am-tech-s-privychnym-programmnym-obespecheniem-prostye-resheniya-dlya-pol/",
+ "title": {
+  "raw": "Совместимость оборудования AM.TECH с привычным программным обеспечением: простые решения для пользователей",
+  "rendered": "Совместимость оборудования AM.TECH с привычным программным обеспечением: простые решения для пользователей"
+ },
+ "content": {
+  "raw": "<p data-start=\"246\" data-end=\"508\">Одним из часто задаваемых вопросов, который мы регулярно получаем от наших клиентов, является следующий:<br data-start=\"350\" data-end=\"353\" /><strong data-start=\"353\" data-end=\"508\">Можно ли использовать привычное программное обеспечение (например, от Leica, Trimble, Faro и других производителей) при работе с оборудованием AM.TECH?</strong></p>\n<p data-start=\"510\" data-end=\"738\"><strong data-start=\"510\" data-end=\"525\">Ответ &mdash; да.</strong><br data-start=\"525\" data-end=\"528\" />Оборудование AM.TECH не ограничивает пользователей в выборе программных решений и поддерживает гибкий подход к работе с облаками точек. Мы предлагаем два удобных сценария использования программного обеспечения:</p>\n<h2 data-start=\"745\" data-end=\"807\"><strong data-start=\"749\" data-end=\"807\">1. Стандартное программное обеспечение AM.TECH: Center</strong></h2>\n<p data-start=\"809\" data-end=\"970\">Каждое устройство AM.TECH комплектуется собственным программным обеспечением &mdash; <strong data-start=\"888\" data-end=\"898\">Center</strong>, которое обеспечивает полный функционал для первичной обработки данных:</p>\n<ul data-start=\"972\" data-end=\"1133\">\n<li data-start=\"972\" data-end=\"1006\">\n<p data-start=\"974\" data-end=\"1006\">Загрузка необработанных сканов</p>\n</li>\n<li data-start=\"1007\" data-end=\"1051\">\n<p data-start=\"1009\" data-end=\"1051\">Автоматическое и ручное сшивание станций</p>\n</li>\n<li data-start=\"1052\" data-end=\"1090\">\n<p data-start=\"1054\" data-end=\"1090\">Удаление лишних точек и артефактов</p>\n</li>\n<li data-start=\"1091\" data-end=\"1133\">\n<p data-start=\"1093\" data-end=\"1133\">Разрежение и оптимизация облаков точек</p>\n</li>\n</ul>\n<p data-start=\"1135\" data-end=\"1347\">После завершения обработки пользователи могут экспортировать данные в универсальные форматы, включая:<br data-start=\"1236\" data-end=\"1239\" /><strong data-start=\"1239\" data-end=\"1266\">E57, LAS, PTX, PCD, XYZ</strong> &mdash; что обеспечивает совместимость с большинством CAD, BIM и геодезических систем.</p>\n<h2 data-start=\"1354\" data-end=\"1424\"><strong data-start=\"1358\" data-end=\"1424\">2. Использование стороннего ПО: простой конвертер в формат LAS</strong></h2>\n<p data-start=\"1426\" data-end=\"1638\">Если в вашей рабочей практике используется программное обеспечение от сторонних производителей (Leica Cyclone, Trimble RealWorks, Autodesk Recap, Faro Scene и др.), вы можете легко продолжить его использование.</p>\n<p data-start=\"1640\" data-end=\"1886\">Для этого мы разработали <strong data-start=\"1665\" data-end=\"1705\">специализированную утилиту-конвертер</strong>, позволяющую напрямую преобразовывать &laquo;сырые&raquo; данные, полученные с оборудования AM.TECH, в формат <strong data-start=\"1804\" data-end=\"1811\">LAS</strong>, совместимый с большинством сторонних решений для работы с облаками точек.</p>\n<h4 data-start=\"1888\" data-end=\"1906\">Преимущества:</h4>\n<ul data-start=\"1907\" data-end=\"2012\">\n<li data-start=\"1907\" data-end=\"1933\">\n<p data-start=\"1909\" data-end=\"1933\">Простота использования</p>\n</li>\n<li data-start=\"1934\" data-end=\"1978\">\n<p data-start=\"1936\" data-end=\"1978\">Минимум действий со стороны пользователя</p>\n</li>\n<li data-start=\"1979\" data-end=\"2012\">\n<p data-start=\"1981\" data-end=\"2012\">Поддержка популярных форматов</p>\n</li>\n</ul>\n<table style=\"border-collapse: collapse; width: 98.5755%;\" align=\"center\">\n<tbody>\n<tr>\n<td style=\"width: 49.7471%; vertical-align: middle;\" align=\"center\"><img src=\"/upload/editor_images/1752567504-mceu_83659426521752567498726.png\" /></td>\n<td style=\"width: 49.7471%;\"><img src=\"/upload/editor_images/1752567515-mceu_11036434231752567509543.png\" /></td>\n</tr>\n</tbody>\n</table>\n<h3 data-start=\"2019\" data-end=\"2050\"><strong data-start=\"2023\" data-end=\"2050\">Как работает конвертер:</strong></h3>\n<p data-start=\"2052\" data-end=\"2078\">Пользователю необходимо:</p>\n<ol data-start=\"2079\" data-end=\"2228\">\n<li data-start=\"2079\" data-end=\"2099\">\n<p data-start=\"2082\" data-end=\"2099\">Открыть утилиту</p>\n</li>\n<li data-start=\"2100\" data-end=\"2152\">\n<p data-start=\"2103\" data-end=\"2152\">Перенести в рабочее окно требуемые облака точек</p>\n</li>\n<li data-start=\"2153\" data-end=\"2188\">\n<p data-start=\"2156\" data-end=\"2188\">Выбрать формат (например, LAS)</p>\n</li>\n<li data-start=\"2189\" data-end=\"2228\">\n<p data-start=\"2192\" data-end=\"2228\">Нажать кнопку <strong data-start=\"2206\" data-end=\"2226\">&laquo;Конвертировать&raquo;</strong></p>\n</li>\n</ol>\n<p data-start=\"2230\" data-end=\"2392\">В правой части окна отображается прогресс выполнения задачи. На выходе вы получаете оптимизированные облака точек, готовые к импорту в знакомую программную среду.</p>\n<p align=\"center\" data-start=\"2230\" data-end=\"2392\"><img src=\"/upload/editor_images/1752567583-mceu_600154141752567577851.png\" width=\"623\" height=\"439\" /></p>\n<h2 data-start=\"2399\" data-end=\"2453\"><strong data-start=\"2403\" data-end=\"2451\">Пример: Выгрузка данных в Autodesk Recap PRO</strong></h2>\n<p align=\"center\"><strong data-start=\"2403\" data-end=\"2451\"><img src=\"/upload/editor_images/1752567618-mceu_27220953551752567612546.jpg\" height=\"400\" /></strong></p>\n<p align=\"center\" data-start=\"2454\" data-end=\"2504\"><em data-start=\"2454\" data-end=\"2502\">(иллюстрация интерфейса и результата загрузки)</em></p>\n<p data-start=\"2454\" data-end=\"2504\">&nbsp;</p>",
+  "rendered": "<p data-start=\"246\" data-end=\"508\">Одним из часто задаваемых вопросов, который мы регулярно получаем от наших клиентов, является следующий:<br data-start=\"350\" data-end=\"353\" /><strong data-start=\"353\" data-end=\"508\">Можно ли использовать привычное программное обеспечение (например, от Leica, Trimble, Faro и других производителей) при работе с оборудованием AM.TECH?</strong></p>\n<p data-start=\"510\" data-end=\"738\"><strong data-start=\"510\" data-end=\"525\">Ответ &mdash; да.</strong><br data-start=\"525\" data-end=\"528\" />Оборудование AM.TECH не ограничивает пользователей в выборе программных решений и поддерживает гибкий подход к работе с облаками точек. Мы предлагаем два удобных сценария использования программного обеспечения:</p>\n<h2 data-start=\"745\" data-end=\"807\"><strong data-start=\"749\" data-end=\"807\">1. Стандартное программное обеспечение AM.TECH: Center</strong></h2>\n<p data-start=\"809\" data-end=\"970\">Каждое устройство AM.TECH комплектуется собственным программным обеспечением &mdash; <strong data-start=\"888\" data-end=\"898\">Center</strong>, которое обеспечивает полный функционал для первичной обработки данных:</p>\n<ul data-start=\"972\" data-end=\"1133\">\n<li data-start=\"972\" data-end=\"1006\">\n<p data-start=\"974\" data-end=\"1006\">Загрузка необработанных сканов</p>\n</li>\n<li data-start=\"1007\" data-end=\"1051\">\n<p data-start=\"1009\" data-end=\"1051\">Автоматическое и ручное сшивание станций</p>\n</li>\n<li data-start=\"1052\" data-end=\"1090\">\n<p data-start=\"1054\" data-end=\"1090\">Удаление лишних точек и артефактов</p>\n</li>\n<li data-start=\"1091\" data-end=\"1133\">\n<p data-start=\"1093\" data-end=\"1133\">Разрежение и оптимизация облаков точек</p>\n</li>\n</ul>\n<p data-start=\"1135\" data-end=\"1347\">После завершения обработки пользователи могут экспортировать данные в универсальные форматы, включая:<br data-start=\"1236\" data-end=\"1239\" /><strong data-start=\"1239\" data-end=\"1266\">E57, LAS, PTX, PCD, XYZ</strong> &mdash; что обеспечивает совместимость с большинством CAD, BIM и геодезических систем.</p>\n<h2 data-start=\"1354\" data-end=\"1424\"><strong data-start=\"1358\" data-end=\"1424\">2. Использование стороннего ПО: простой конвертер в формат LAS</strong></h2>\n<p data-start=\"1426\" data-end=\"1638\">Если в вашей рабочей практике используется программное обеспечение от сторонних производителей (Leica Cyclone, Trimble RealWorks, Autodesk Recap, Faro Scene и др.), вы можете легко продолжить его использование.</p>\n<p data-start=\"1640\" data-end=\"1886\">Для этого мы разработали <strong data-start=\"1665\" data-end=\"1705\">специализированную утилиту-конвертер</strong>, позволяющую напрямую преобразовывать &laquo;сырые&raquo; данные, полученные с оборудования AM.TECH, в формат <strong data-start=\"1804\" data-end=\"1811\">LAS</strong>, совместимый с большинством сторонних решений для работы с облаками точек.</p>\n<h4 data-start=\"1888\" data-end=\"1906\">Преимущества:</h4>\n<ul data-start=\"1907\" data-end=\"2012\">\n<li data-start=\"1907\" data-end=\"1933\">\n<p data-start=\"1909\" data-end=\"1933\">Простота использования</p>\n</li>\n<li data-start=\"1934\" data-end=\"1978\">\n<p data-start=\"1936\" data-end=\"1978\">Минимум действий со стороны пользователя</p>\n</li>\n<li data-start=\"1979\" data-end=\"2012\">\n<p data-start=\"1981\" data-end=\"2012\">Поддержка популярных форматов</p>\n</li>\n</ul>\n<table style=\"border-collapse: collapse; width: 98.5755%;\" align=\"center\">\n<tbody>\n<tr>\n<td style=\"width: 49.7471%; vertical-align: middle;\" align=\"center\"><img loading=\"lazy\" decoding=\"async\" alt=\"Совместимость оборудования AM.TECH с привычным программным обеспечением: простые решения для пользователей - Обратное проектирование и 3D-сканирование - AM-Tech\" decoding=\"async\" src=\"/upload/editor_images/1752567504-mceu_83659426521752567498726.png\" /></td>\n<td style=\"width: 49.7471%;\"><img loading=\"lazy\" decoding=\"async\" alt=\"Совместимость оборудования AM.TECH с привычным программным обеспечением: простые решения для пользователей - Обратное проектирование и 3D-сканирование - AM-Tech\" decoding=\"async\" src=\"/upload/editor_images/1752567515-mceu_11036434231752567509543.png\" /></td>\n</tr>\n</tbody>\n</table>\n<h3 data-start=\"2019\" data-end=\"2050\"><strong data-start=\"2023\" data-end=\"2050\">Как работает конвертер:</strong></h3>\n<p data-start=\"2052\" data-end=\"2078\">Пользователю необходимо:</p>\n<ol data-start=\"2079\" data-end=\"2228\">\n<li data-start=\"2079\" data-end=\"2099\">\n<p data-start=\"2082\" data-end=\"2099\">Открыть утилиту</p>\n</li>\n<li data-start=\"2100\" data-end=\"2152\">\n<p data-start=\"2103\" data-end=\"2152\">Перенести в рабочее окно требуемые облака точек</p>\n</li>\n<li data-start=\"2153\" data-end=\"2188\">\n<p data-start=\"2156\" data-end=\"2188\">Выбрать формат (например, LAS)</p>\n</li>\n<li data-start=\"2189\" data-end=\"2228\">\n<p data-start=\"2192\" data-end=\"2228\">Нажать кнопку <strong data-start=\"2206\" data-end=\"2226\">&laquo;Конвертировать&raquo;</strong></p>\n</li>\n</ol>\n<p data-start=\"2230\" data-end=\"2392\">В правой части окна отображается прогресс выполнения задачи. На выходе вы получаете оптимизированные облака точек, готовые к импорту в знакомую программную среду.</p>\n<p align=\"center\" data-start=\"2230\" data-end=\"2392\"><img loading=\"lazy\" decoding=\"async\" alt=\"Совместимость оборудования AM.TECH с привычным программным обеспечением: простые решения для пользователей - Обратное проектирование и 3D-сканирование - AM-Tech\" fetchpriority=\"high\" decoding=\"async\" src=\"/upload/editor_images/1752567583-mceu_600154141752567577851.png\" width=\"623\" height=\"439\" /></p>\n<h2 data-start=\"2399\" data-end=\"2453\"><strong data-start=\"2403\" data-end=\"2451\">Пример: Выгрузка данных в Autodesk Recap PRO</strong></h2>\n<p align=\"center\"><strong data-start=\"2403\" data-end=\"2451\"><img loading=\"lazy\" decoding=\"async\" alt=\"Совместимость оборудования AM.TECH с привычным программным обеспечением: простые решения для пользователей - Обратное проектирование и 3D-сканирование - AM-Tech\" decoding=\"async\" src=\"/upload/editor_images/1752567618-mceu_27220953551752567612546.jpg\" height=\"400\" /></strong></p>\n<p align=\"center\" data-start=\"2454\" data-end=\"2504\"><em data-start=\"2454\" data-end=\"2502\">(иллюстрация интерфейса и результата загрузки)</em></p>\n<p data-start=\"2454\" data-end=\"2504\">&nbsp;</p>\n",
+  "protected": false,
+  "block_version": 0
+ },
+ "excerpt": {
+  "raw": "",
+  "rendered": "<p>Одним из часто задаваемых вопросов, который мы регулярно получаем от наших клиентов, является следующий:Можно ли использовать привычное программное обеспечение (например, от Leica, Trimble, Faro и других производителей) при работе с оборудованием AM.TECH? Ответ &mdash; да.Оборудование AM.TECH не ограничивает пользователей в выборе программных решений и поддерживает гибкий подход к работе с облаками точек. Мы предлагаем два [&hellip;]</p>\n",
+  "protected": false
+ },
+ "author": 1,
+ "featured_media": 2093,
+ "comment_status": "open",
+ "ping_status": "open",
+ "template": "",
+ "meta": {
+  "_acf_changed": false,
+  "_yoast_wpseo_title": "Совместимость оборудования AM.TECH с привычным ПО | AM-Tech",
+  "_yoast_wpseo_metadesc": "Совместимость оборудования AM.TECH с привычным программным обеспечением: простые решения для пользователей - новости компании AM-Tech",
+  "_yoast_wpseo_meta-robots-noindex": ""
+ },
+ "news_category": [
+  971
+ ],
+ "news_tag": [],
+ "permalink_template": "https://am-tech.ru/news/%pagename%/",
+ "generated_slug": "sovmestimost-oborudovanija-am-tech-s-privychnym-programmnym-obespecheniem-prostye-reshenija-dlja-polzovatelej",
+ "class_list": [
+  "post-2149",
+  "news",
+  "type-news",
+  "status-publish",
+  "has-post-thumbnail",
+  "hentry",
+  "news_category-obratnoe-proektirovanie-i-3d-skanirovanie"
+ ],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Совместимость оборудования AM.TECH с привычным ПО | AM-Tech</title>\n<meta name=\"description\" content=\"Совместимость оборудования AM.TECH с привычным программным обеспечением: простые решения для пользователей - новости компании AM-Tech\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/news/sovmestimost-oborudovaniya-am-tech-s-privychnym-programmnym-obespecheniem-prostye-resheniya-dlya-pol/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Совместимость оборудования AM.TECH с привычным ПО | AM-Tech\" />\n<meta property=\"og:description\" content=\"Совместимость оборудования AM.TECH с привычным программным обеспечением: простые решения для пользователей - новости компании AM-Tech\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/news/sovmestimost-oborudovaniya-am-tech-s-privychnym-programmnym-obespecheniem-prostye-resheniya-dlya-pol/\" />\n<meta property=\"og:site_name\" content=\"AM.TECH\" />\n<meta property=\"article:modified_time\" content=\"2026-10-14T14:11:49+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2025/07/eo9u4mquog2n63cm8ohpwhl2e46yrnv3.png\" />\n\t<meta property=\"og:image:width\" content=\"700\" />\n\t<meta property=\"og:image:height\" content=\"466\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"3 минуты\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/news/sovmestimost-oborudovaniya-am-tech-s-privychnym-programmnym-obespecheniem-prostye-resheniya-dlya-pol/\",\"url\":\"https://am-tech.ru/news/sovmestimost-oborudovaniya-am-tech-s-privychnym-programmnym-obespecheniem-prostye-resheniya-dlya-pol/\",\"name\":\"Совместимость оборудования AM.TECH с привычным ПО | AM-Tech\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/news/sovmestimost-oborudovaniya-am-tech-s-privychnym-programmnym-obespecheniem-prostye-resheniya-dlya-pol/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/news/sovmestimost-oborudovaniya-am-tech-s-privychnym-programmnym-obespecheniem-prostye-resheniya-dlya-pol/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2025/07/eo9u4mquog2n63cm8ohpwhl2e46yrnv3.png\",\"datePublished\":\"2025-07-15T08:20:00+00:00\",\"dateModified\":\"2026-10-14T14:11:49+00:00\",\"description\":\"Совместимость оборудования AM.TECH с привычным программным обеспечением: простые решения для пользователей - новости компании AM-Tech\",\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/news/sovmestimost-oborudovaniya-am-tech-s-privychnym-programmnym-obespecheniem-prostye-resheniya-dlya-pol/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/news/sovmestimost-oborudovaniya-am-tech-s-privychnym-programmnym-obespecheniem-prostye-resheniya-dlya-pol/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2025/07/eo9u4mquog2n63cm8ohpwhl2e46yrnv3.png\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2025/07/eo9u4mquog2n63cm8ohpwhl2e46yrnv3.png\",\"width\":700,\"height\":466},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"AM.TECH\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"AM.TECH\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"AM.TECH\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "Совместимость оборудования AM.TECH с привычным ПО | AM-Tech",
+  "description": "Совместимость оборудования AM.TECH с привычным программным обеспечением: простые решения для пользователей - новости компании AM-Tech",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/news/sovmestimost-oborudovaniya-am-tech-s-privychnym-programmnym-obespecheniem-prostye-resheniya-dlya-pol/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "Совместимость оборудования AM.TECH с привычным ПО | AM-Tech",
+  "og_description": "Совместимость оборудования AM.TECH с привычным программным обеспечением: простые решения для пользователей - новости компании AM-Tech",
+  "og_url": "https://am-tech.ru/news/sovmestimost-oborudovaniya-am-tech-s-privychnym-programmnym-obespecheniem-prostye-resheniya-dlya-pol/",
+  "og_site_name": "AM.TECH",
+  "article_modified_time": "2026-10-14T14:11:49+00:00",
+  "og_image": [
+   {
+    "width": 700,
+    "height": 466,
+    "url": "https://am-tech.ru/wp-content/uploads/2025/07/eo9u4mquog2n63cm8ohpwhl2e46yrnv3.png",
+    "type": "image/png"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "3 минуты"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/news/sovmestimost-oborudovaniya-am-tech-s-privychnym-programmnym-obespecheniem-prostye-resheniya-dlya-pol/",
+     "url": "https://am-tech.ru/news/sovmestimost-oborudovaniya-am-tech-s-privychnym-programmnym-obespecheniem-prostye-resheniya-dlya-pol/",
+     "name": "Совместимость оборудования AM.TECH с привычным ПО | AM-Tech",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/news/sovmestimost-oborudovaniya-am-tech-s-privychnym-programmnym-obespecheniem-prostye-resheniya-dlya-pol/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/news/sovmestimost-oborudovaniya-am-tech-s-privychnym-programmnym-obespecheniem-prostye-resheniya-dlya-pol/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2025/07/eo9u4mquog2n63cm8ohpwhl2e46yrnv3.png",
+     "datePublished": "2025-07-15T08:20:00+00:00",
+     "dateModified": "2026-10-14T14:11:49+00:00",
+     "description": "Совместимость оборудования AM.TECH с привычным программным обеспечением: простые решения для пользователей - новости компании AM-Tech",
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/news/sovmestimost-oborudovaniya-am-tech-s-privychnym-programmnym-obespecheniem-prostye-resheniya-dlya-pol/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/news/sovmestimost-oborudovaniya-am-tech-s-privychnym-programmnym-obespecheniem-prostye-resheniya-dlya-pol/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2025/07/eo9u4mquog2n63cm8ohpwhl2e46yrnv3.png",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2025/07/eo9u4mquog2n63cm8ohpwhl2e46yrnv3.png",
+     "width": 700,
+     "height": 466
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "AM.TECH",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "AM.TECH",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "AM.TECH"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2149",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/types/news"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/users/1"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/comments?post=2149"
+   }
+  ],
+  "wp:featuredmedia": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/media/2093"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/media?parent=2149"
+   }
+  ],
+  "wp:term": [
+   {
+    "taxonomy": "news_category",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_category?post=2149"
+   },
+   {
+    "taxonomy": "news_tag",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_tag?post=2149"
+   }
+  ],
+  "wp:action-publish": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2149"
+   }
+  ],
+  "wp:action-unfiltered-html": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2149"
+   }
+  ],
+  "wp:action-assign-author": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2149"
+   }
+  ],
+  "wp:action-create-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2149"
+   }
+  ],
+  "wp:action-assign-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2149"
+   }
+  ],
+  "wp:action-create-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2149"
+   }
+  ],
+  "wp:action-assign-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/2149"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

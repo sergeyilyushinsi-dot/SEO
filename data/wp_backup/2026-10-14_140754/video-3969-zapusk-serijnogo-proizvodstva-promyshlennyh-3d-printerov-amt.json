@@ -1,0 +1,284 @@
+{
+ "id": 3969,
+ "date": "2026-04-22T17:18:24",
+ "date_gmt": "2026-04-22T14:18:24",
+ "guid": {
+  "rendered": "https://am-tech.ru/?post_type=video_reviews&#038;p=3969",
+  "raw": "https://am-tech.ru/?post_type=video_reviews&#038;p=3969"
+ },
+ "modified": "2026-06-30T15:14:23",
+ "modified_gmt": "2026-06-30T12:14:23",
+ "password": "",
+ "slug": "zapusk-serijnogo-proizvodstva-promyshlennyh-3d-printerov-amt",
+ "status": "publish",
+ "type": "video_reviews",
+ "link": "https://am-tech.ru/video-reviews/zapusk-serijnogo-proizvodstva-promyshlennyh-3d-printerov-amt/",
+ "title": {
+  "raw": "Запуск серийного производства промышленных 3D-принтеров АМТ",
+  "rendered": "Запуск серийного производства промышленных 3D-принтеров АМТ"
+ },
+ "content": {
+  "raw": "<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n<p class=\"\">27 апреля 2026 года компания AM.TECH официально открывает серийное производство отечественных 3D-принтеров AMT, работающих по технологии селективного лазерного сплавления металлического порошка (L-PBF/SLM). Запуск серийного производства — итог масштабной научно-исследовательской и опытно-конструкторской работы, проведенной компанией при поддержке Минпромторга России. Федеральная субсидия в размере 280 млн рублей позволила разработать и довести до серийного производства линейку отечественных SLM-принтеров AMT-16 и AMT-32. Представляем короткий видеоанонс предстоящего мероприятия.</p>\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+  "rendered": "<div class=\"boldgrid-section\">\n<div class=\"container\">\n<div class=\"row\">\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\n<p class=\"\">27 апреля 2026 года компания AM.TECH официально открывает серийное производство отечественных 3D-принтеров AMT, работающих по технологии селективного лазерного сплавления металлического порошка (L-PBF/SLM). Запуск серийного производства — итог масштабной научно-исследовательской и опытно-конструкторской работы, проведенной компанией при поддержке Минпромторга России. Федеральная субсидия в размере 280 млн рублей позволила разработать и довести до серийного производства линейку отечественных SLM-принтеров AMT-16 и AMT-32. Представляем короткий видеоанонс предстоящего мероприятия.</p>\n</div>\n</div>\n</div>\n</div>\n",
+  "protected": false,
+  "block_version": 0
+ },
+ "excerpt": {
+  "raw": "",
+  "rendered": "<p>27 апреля 2026 года компания AM.TECH официально открывает серийное производство отечественных 3D-принтеров AMT, работающих по технологии селективного лазерного сплавления металлического порошка (L-PBF/SLM). Запуск серийного производства — итог масштабной научно-исследовательской и опытно-конструкторской работы, проведенной компанией при поддержке Минпромторга России. Федеральная субсидия в размере 280 млн рублей позволила разработать и довести до серийного производства линейку отечественных SLM-принтеров [&hellip;]</p>\n",
+  "protected": false
+ },
+ "author": 5,
+ "featured_media": 3971,
+ "comment_status": "open",
+ "ping_status": "closed",
+ "template": "",
+ "meta": {
+  "_acf_changed": false,
+  "_yoast_wpseo_title": "",
+  "_yoast_wpseo_metadesc": "Видео о запуске серийного производства промышленных 3D-принтеров АМТ. Узнайте о новых мощностях и перспективах аддитивного производства.",
+  "_yoast_wpseo_meta-robots-noindex": ""
+ },
+ "video_category": [
+  1210,
+  1105
+ ],
+ "video_tag": [
+  1292,
+  1305
+ ],
+ "permalink_template": "https://am-tech.ru/video-reviews/%pagename%/",
+ "generated_slug": "zapusk-serijnogo-proizvodstva-promyshlennyh-3d-printerov-amt",
+ "class_list": [
+  "post-3969",
+  "video_reviews",
+  "type-video_reviews",
+  "status-publish",
+  "has-post-thumbnail",
+  "hentry",
+  "video_category-novosti-ru",
+  "video_category-meroprijatija",
+  "video_tag-amt-3d-printery",
+  "video_tag-otraslevye-meroprijatija"
+ ],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Запуск серийного производства промышленных 3D-принтеров АМТ - am-tech.ru</title>\n<meta name=\"description\" content=\"Видео о запуске серийного производства промышленных 3D-принтеров АМТ. Узнайте о новых мощностях и перспективах аддитивного производства.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/video-reviews/zapusk-serijnogo-proizvodstva-promyshlennyh-3d-printerov-amt/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Запуск серийного производства промышленных 3D-принтеров АМТ - am-tech.ru\" />\n<meta property=\"og:description\" content=\"Видео о запуске серийного производства промышленных 3D-принтеров АМТ. Узнайте о новых мощностях и перспективах аддитивного производства.\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/video-reviews/zapusk-serijnogo-proizvodstva-promyshlennyh-3d-printerov-amt/\" />\n<meta property=\"og:site_name\" content=\"am-tech.ru\" />\n<meta property=\"article:modified_time\" content=\"2026-06-30T12:14:23+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2026/04/snimok.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1186\" />\n\t<meta property=\"og:image:height\" content=\"667\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"1 минута\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/video-reviews/zapusk-serijnogo-proizvodstva-promyshlennyh-3d-printerov-amt/\",\"url\":\"https://am-tech.ru/video-reviews/zapusk-serijnogo-proizvodstva-promyshlennyh-3d-printerov-amt/\",\"name\":\"Запуск серийного производства промышленных 3D-принтеров АМТ - am-tech.ru\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/video-reviews/zapusk-serijnogo-proizvodstva-promyshlennyh-3d-printerov-amt/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/video-reviews/zapusk-serijnogo-proizvodstva-promyshlennyh-3d-printerov-amt/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2026/04/snimok.jpg\",\"datePublished\":\"2026-04-22T14:18:24+00:00\",\"dateModified\":\"2026-06-30T12:14:23+00:00\",\"description\":\"Видео о запуске серийного производства промышленных 3D-принтеров АМТ. Узнайте о новых мощностях и перспективах аддитивного производства.\",\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/video-reviews/zapusk-serijnogo-proizvodstva-promyshlennyh-3d-printerov-amt/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/video-reviews/zapusk-serijnogo-proizvodstva-promyshlennyh-3d-printerov-amt/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2026/04/snimok.jpg\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2026/04/snimok.jpg\",\"width\":1186,\"height\":667},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"am-tech.ru\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"am-tech.ru\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"am-tech.ru\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "Запуск серийного производства промышленных 3D-принтеров АМТ - am-tech.ru",
+  "description": "Видео о запуске серийного производства промышленных 3D-принтеров АМТ. Узнайте о новых мощностях и перспективах аддитивного производства.",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/video-reviews/zapusk-serijnogo-proizvodstva-promyshlennyh-3d-printerov-amt/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "Запуск серийного производства промышленных 3D-принтеров АМТ - am-tech.ru",
+  "og_description": "Видео о запуске серийного производства промышленных 3D-принтеров АМТ. Узнайте о новых мощностях и перспективах аддитивного производства.",
+  "og_url": "https://am-tech.ru/video-reviews/zapusk-serijnogo-proizvodstva-promyshlennyh-3d-printerov-amt/",
+  "og_site_name": "am-tech.ru",
+  "article_modified_time": "2026-06-30T12:14:23+00:00",
+  "og_image": [
+   {
+    "width": 1186,
+    "height": 667,
+    "url": "https://am-tech.ru/wp-content/uploads/2026/04/snimok.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "1 минута"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/video-reviews/zapusk-serijnogo-proizvodstva-promyshlennyh-3d-printerov-amt/",
+     "url": "https://am-tech.ru/video-reviews/zapusk-serijnogo-proizvodstva-promyshlennyh-3d-printerov-amt/",
+     "name": "Запуск серийного производства промышленных 3D-принтеров АМТ - am-tech.ru",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/video-reviews/zapusk-serijnogo-proizvodstva-promyshlennyh-3d-printerov-amt/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/video-reviews/zapusk-serijnogo-proizvodstva-promyshlennyh-3d-printerov-amt/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2026/04/snimok.jpg",
+     "datePublished": "2026-04-22T14:18:24+00:00",
+     "dateModified": "2026-06-30T12:14:23+00:00",
+     "description": "Видео о запуске серийного производства промышленных 3D-принтеров АМТ. Узнайте о новых мощностях и перспективах аддитивного производства.",
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/video-reviews/zapusk-serijnogo-proizvodstva-promyshlennyh-3d-printerov-amt/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/video-reviews/zapusk-serijnogo-proizvodstva-promyshlennyh-3d-printerov-amt/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2026/04/snimok.jpg",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2026/04/snimok.jpg",
+     "width": 1186,
+     "height": 667
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "am-tech.ru",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "am-tech.ru",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "am-tech.ru"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3969",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/types/video_reviews"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/users/5"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/comments?post=3969"
+   }
+  ],
+  "wp:featuredmedia": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/media/3971"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/media?parent=3969"
+   }
+  ],
+  "wp:term": [
+   {
+    "taxonomy": "video_category",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_category?post=3969"
+   },
+   {
+    "taxonomy": "video_tag",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_tag?post=3969"
+   }
+  ],
+  "wp:action-publish": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3969"
+   }
+  ],
+  "wp:action-unfiltered-html": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3969"
+   }
+  ],
+  "wp:action-assign-author": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3969"
+   }
+  ],
+  "wp:action-create-video_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3969"
+   }
+  ],
+  "wp:action-assign-video_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3969"
+   }
+  ],
+  "wp:action-create-video_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3969"
+   }
+  ],
+  "wp:action-assign-video_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3969"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

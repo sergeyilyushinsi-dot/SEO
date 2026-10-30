@@ -1,0 +1,521 @@
+{
+ "id": 4323,
+ "name": "AMT-43",
+ "slug": "amt-43",
+ "permalink": "https://am-tech.ru/product/amt-43/",
+ "date_created": "2026-09-10T14:22:02",
+ "date_created_gmt": "2026-09-10T11:22:02",
+ "date_modified": "2026-09-10T14:46:25",
+ "date_modified_gmt": "2026-09-10T11:46:25",
+ "type": "simple",
+ "status": "publish",
+ "featured": false,
+ "catalog_visibility": "visible",
+ "description": "<p><!-- AMT-43: описание товара --></p>\n<section class=\"amt43-product-description\">\n<style>\n    .amt43-product-description{\n      --amt43-accent:#ff6a00;\n      --amt43-accent-soft:#fff3ea;\n      --amt43-text:#151515;\n      --amt43-muted:#70706b;\n      --amt43-line:#deded8;\n      --amt43-soft:#f6f6f3;\n      --amt43-dark:#171717;\n      --amt43-radius:26px;\n      --amt43-pill:999px;\n      color:var(--amt43-text);\n      font-family:inherit;\n    }</p>\n<p>    .amt43-product-description *{box-sizing:border-box}</p>\n<p>    .amt43-product-description .amt43-section{\n      padding:80px 0;\n      border-top:1px solid var(--amt43-line);\n    }</p>\n<p>    .amt43-product-description .amt43-section:first-child{\n      border-top:0;\n      padding-top:40px;\n    }</p>\n<p>    .amt43-product-description .amt43-eyebrow{\n      margin-bottom:16px;\n      font-size:13px;\n      font-weight:600;\n      color:#50504c;\n    }</p>\n<p>    .amt43-product-description .amt43-eyebrow span{\n      color:var(--amt43-accent);\n    }</p>\n<p>    .amt43-product-description h2,\n    .amt43-product-description h3,\n    .amt43-product-description p{\n      margin-top:0;\n    }</p>\n<p>    .amt43-product-description h2{\n      max-width:900px;\n      margin-bottom:22px;\n      font-size:clamp(34px,4vw,60px);\n      line-height:1.04;\n      letter-spacing:-.04em;\n      font-weight:500;\n    }</p>\n<p>    .amt43-product-description h3{\n      margin-bottom:12px;\n      font-size:clamp(22px,2vw,30px);\n      line-height:1.14;\n      letter-spacing:-.025em;\n      font-weight:500;\n    }</p>\n<p>    .amt43-product-description .amt43-lead{\n      max-width:900px;\n      margin-bottom:0;\n      color:#3d3d39;\n      font-size:clamp(18px,1.6vw,24px);\n      line-height:1.5;\n    }</p>\n<p>    .amt43-product-description .amt43-intro{\n      display:grid;\n      grid-template-columns:.75fr 1.25fr;\n      gap:64px;\n      align-items:start;\n    }</p>\n<p>    .amt43-product-description .amt43-copy p{\n      margin-bottom:20px;\n      color:#41413d;\n      font-size:17px;\n      line-height:1.65;\n    }</p>\n<p>    .amt43-product-description .amt43-quick{\n      margin-top:48px;\n      display:grid;\n      grid-template-columns:repeat(4,1fr);\n      border-top:1px solid var(--amt43-line);\n    }</p>\n<p>    .amt43-product-description .amt43-quick-item{\n      min-height:118px;\n      padding:22px 24px 0 0;\n      border-right:1px solid var(--amt43-line);\n    }</p>\n<p>    .amt43-product-description .amt43-quick-item:nth-child(n+2){\n      padding-left:24px;\n    }</p>\n<p>    .amt43-product-description .amt43-quick-item:last-child{\n      border-right:0;\n    }</p>\n<p>    .amt43-product-description .amt43-quick-item strong{\n      display:block;\n      margin-bottom:6px;\n      font-size:clamp(24px,2.2vw,32px);\n      font-weight:500;\n      letter-spacing:-.035em;\n    }</p>\n<p>    .amt43-product-description .amt43-quick-item span{\n      color:var(--amt43-muted);\n      font-size:13px;\n    }</p>\n<p>    .amt43-product-description .amt43-features{\n      margin-top:34px;\n      display:grid;\n      gap:14px;\n    }</p>\n<p>    .amt43-product-description .amt43-feature{\n      padding:24px 26px;\n      display:grid;\n      grid-template-columns:52px 1fr;\n      gap:18px;\n      border:1px solid var(--amt43-line);\n      border-radius:var(--amt43-radius);\n      background:#fff;\n    }</p>\n<p>    .amt43-product-description .amt43-feature-num{\n      width:44px;\n      height:44px;\n      display:flex;\n      align-items:center;\n      justify-content:center;\n      border-radius:50%;\n      background:var(--amt43-accent-soft);\n      color:var(--amt43-accent);\n      font-size:12px;\n      font-weight:700;\n    }</p>\n<p>    .amt43-product-description .amt43-feature p{\n      margin:0;\n      color:#5a5a55;\n      font-size:15px;\n      line-height:1.55;\n    }</p>\n<p>    .amt43-product-description .amt43-spec-wrap{\n      padding:40px;\n      border-radius:30px;\n      background:var(--amt43-soft);\n    }</p>\n<p>    .amt43-product-description .amt43-tabs{\n      margin:30px 0 22px;\n      display:flex;\n      gap:8px;\n      flex-wrap:wrap;\n    }</p>\n<p>    .amt43-product-description .amt43-tab{\n      padding:10px 15px;\n      border:1px solid #d1d1cb;\n      border-radius:var(--amt43-pill);\n      background:#fff;\n      color:#5c5c57;\n      font:inherit;\n      font-size:13px;\n      cursor:pointer;\n    }</p>\n<p>    .amt43-product-description .amt43-tab.is-active{\n      border-color:var(--amt43-accent);\n      color:var(--amt43-accent);\n      background:#fff7f1;\n    }</p>\n<p>    .amt43-product-description .amt43-spec{\n      overflow:hidden;\n      border:1px solid var(--amt43-line);\n      border-radius:26px;\n      background:#fff;\n    }</p>\n<p>    .amt43-product-description .amt43-spec-group{\n      padding:0 28px;\n    }</p>\n<p>    .amt43-product-description .amt43-spec-group + .amt43-spec-group{\n      border-top:1px solid var(--amt43-line);\n    }</p>\n<p>    .amt43-product-description .amt43-spec-title{\n      padding:26px 0 14px;\n      display:flex;\n      align-items:center;\n      gap:10px;\n      font-size:14px;\n      font-weight:600;\n    }</p>\n<p>    .amt43-product-description .amt43-spec-title::before{\n      content:\"\";\n      width:8px;\n      height:8px;\n      border-radius:50%;\n      background:var(--amt43-accent);\n    }</p>\n<p>    .amt43-product-description .amt43-spec-row{\n      min-height:78px;\n      display:grid;\n      grid-template-columns:minmax(230px,.85fr) 1.15fr;\n      gap:34px;\n      align-items:center;\n      border-top:1px solid #ecece8;\n    }</p>\n<p>    .amt43-product-description .amt43-spec-name{\n      color:#767671;\n      font-size:14px;\n    }</p>\n<p>    .amt43-product-description .amt43-spec-value{\n      font-size:16px;\n      font-weight:500;\n      line-height:1.5;\n    }</p>\n<p>    .amt43-product-description .amt43-spec-value--big{\n      font-size:22px;\n      letter-spacing:-.02em;\n    }</p>\n<p>    .amt43-product-description .amt43-sub{\n      color:#5d5d58;\n      font-size:14px;\n      font-weight:400;\n    }</p>\n<p>    .amt43-product-description .amt43-automation{\n      display:grid;\n      grid-template-columns:repeat(3,1fr);\n      gap:16px;\n      margin-top:38px;\n    }</p>\n<p>    .amt43-product-description .amt43-card{\n      min-height:250px;\n      padding:28px;\n      display:flex;\n      flex-direction:column;\n      justify-content:space-between;\n      border:1px solid var(--amt43-line);\n      border-radius:var(--amt43-radius);\n      background:#fff;\n    }</p>\n<p>    .amt43-product-description .amt43-card p{\n      margin:0;\n      color:#595954;\n      font-size:15px;\n      line-height:1.55;\n    }</p>\n<p>    .amt43-product-description .amt43-modules{\n      display:grid;\n      grid-template-columns:repeat(3,1fr);\n      gap:16px;\n      margin-top:38px;\n    }</p>\n<p>    .amt43-product-description .amt43-module{\n      padding:26px;\n      border:1px solid var(--amt43-line);\n      border-radius:var(--amt43-radius);\n      background:#fff;\n    }</p>\n<p>    .amt43-product-description .amt43-module-label{\n      margin-bottom:18px;\n      color:var(--amt43-accent);\n      font-size:12px;\n      font-weight:600;\n    }</p>\n<p>    .amt43-product-description .amt43-module-grid{\n      display:grid;\n      gap:14px;\n    }</p>\n<p>    .amt43-product-description .amt43-module-value{\n      padding-top:12px;\n      border-top:1px solid var(--amt43-line);\n    }</p>\n<p>    .amt43-product-description .amt43-module-value strong{\n      display:block;\n      margin-bottom:3px;\n      font-size:18px;\n      font-weight:500;\n    }</p>\n<p>    .amt43-product-description .amt43-module-value span{\n      color:#777772;\n      font-size:11px;\n    }</p>\n<p>    .amt43-product-description .amt43-seo-grid{\n      display:grid;\n      grid-template-columns:.8fr 1.2fr;\n      gap:64px;\n    }</p>\n<p>    .amt43-product-description .amt43-seo-grid p{\n      margin-bottom:20px;\n      color:#41413d;\n      font-size:17px;\n      line-height:1.65;\n    }</p>\n<p>    .amt43-product-description .amt43-list{\n      margin:26px 0 0;\n      padding:0;\n      list-style:none;\n      display:grid;\n      gap:10px;\n    }</p>\n<p>    .amt43-product-description .amt43-list li{\n      position:relative;\n      padding-left:22px;\n      color:#444440;\n    }</p>\n<p>    .amt43-product-description .amt43-list li::before{\n      content:\"\";\n      position:absolute;\n      left:0;\n      top:.72em;\n      width:7px;\n      height:7px;\n      border-radius:50%;\n      background:var(--amt43-accent);\n    }</p>\n<p>    @media (max-width:1000px){\n      .amt43-product-description .amt43-intro,\n      .amt43-product-description .amt43-seo-grid{\n        grid-template-columns:1fr;\n      }</p>\n<p>      .amt43-product-description .amt43-quick{\n        grid-template-columns:repeat(2,1fr);\n      }</p>\n<p>      .amt43-product-description .amt43-automation,\n      .amt43-product-description .amt43-modules{\n        grid-template-columns:1fr;\n      }\n    }</p>\n<p>    @media (max-width:700px){\n      .amt43-product-description .amt43-section{\n        padding:60px 0;\n      }</p>\n<p>      .amt43-product-description .amt43-quick{\n        grid-template-columns:1fr;\n      }</p>\n<p>      .amt43-product-description .amt43-quick-item,\n      .amt43-product-description .amt43-quick-item:nth-child(n+2){\n        min-height:auto;\n        padding:17px 0;\n        border-right:0;\n        border-bottom:1px solid var(--amt43-line);\n      }</p>\n<p>      .amt43-product-description .amt43-spec-wrap{\n        padding:24px 16px;\n      }</p>\n<p>      .amt43-product-description .amt43-spec-group{\n        padding:0 16px;\n      }</p>\n<p>      .amt43-product-description .amt43-spec-row{\n        grid-template-columns:1fr;\n        gap:7px;\n        padding:16px 0;\n      }</p>\n<p>      .amt43-product-description .amt43-spec-name{\n        font-size:12px;\n      }\n    }\n  </style>\n<div class=\"amt43-section\">\n<div class=\"amt43-intro\">\n<div>\n<div class=\"amt43-eyebrow\"><span>AMT-43</span> / промышленная SLM-система</div>\n<h2>Высокопроизводительная металлическая 3D-печать</h2>\n</p></div>\n<div class=\"amt43-copy\">\n<p>AMT-43 — промышленная аддитивная установка для производства металлических деталей по технологии SLM. Система сочетает рабочую область 320×520×370 мм, три лазера мощностью 500 Вт каждый с возможностью опционального увеличения мощности до 1000 Вт, двустороннее нанесение порошка и автоматизированный замкнутый контур его рециркуляции.</p>\n<p>Архитектура установки ориентирована на стабильную длительную работу, снижение количества ручных операций и интеграцию в современный производственный процесс. AMT-43 подходит для предприятий, где важны производительность, повторяемость и высокий уровень автоматизации работы с металлическим порошком.</p>\n</p></div>\n</p></div>\n<div class=\"amt43-quick\">\n<div class=\"amt43-quick-item\">\n        <strong>320×520×370</strong><br />\n        <span>область построения, мм</span>\n      </div>\n<div class=\"amt43-quick-item\">\n        <strong>3 лазера</strong><br />\n        <span>многолазерная архитектура</span>\n      </div>\n<div class=\"amt43-quick-item\">\n        <strong>500 Вт</strong><br />\n        <span>на лазер, 1000 Вт опционально</span>\n      </div>\n<div class=\"amt43-quick-item\">\n        <strong>3 датчика O₂</strong><br />\n        <span>контроль рабочей атмосферы</span>\n      </div>\n</p></div>\n<div class=\"amt43-features\">\n<div class=\"amt43-feature\">\n<div class=\"amt43-feature-num\">01</div>\n<div>\n<h3>Три лазерных канала</h3>\n<p>Три лазера мощностью по 500 Вт формируют высокопроизводительную многолазерную систему. Для задач, требующих повышенной мощности, предусмотрена опция 1000 Вт.</p>\n</p></div>\n</p></div>\n<div class=\"amt43-feature\">\n<div class=\"amt43-feature-num\">02</div>\n<div>\n<h3>Замкнутый контур работы с порошком</h3>\n<p>Модуль СПТ объединяет автоматизированную рециркуляцию, ультразвуковую сепарацию и пневмотранспорт металлического порошка.</p>\n</p></div>\n</p></div>\n<div class=\"amt43-feature\">\n<div class=\"amt43-feature-num\">03</div>\n<div>\n<h3>Контроль рабочей атмосферы</h3>\n<p>Три датчика кислорода и двухступенчатая система газоочистки замкнутого цикла помогают поддерживать контролируемые условия технологического процесса.</p>\n</p></div>\n</p></div>\n</p></div>\n</p></div>\n<div class=\"amt43-section\">\n<div class=\"amt43-spec-wrap\" id=\"amt43-specs\">\n<div class=\"amt43-eyebrow\">AMT-43 / Характеристики</div>\n<h2>Технические параметры</h2>\n<p class=\"amt43-lead\">Характеристики сгруппированы по процессу печати, работе с порошком и газом, а также габаритам модулей.</p>\n<div class=\"amt43-tabs\">\n        <button class=\"amt43-tab is-active\" type=\"button\" data-amt43-target=\"all\">Все параметры</button><br />\n        <button class=\"amt43-tab\" type=\"button\" data-amt43-target=\"process\">Печать</button><br />\n        <button class=\"amt43-tab\" type=\"button\" data-amt43-target=\"powder\">Порошок и газ</button><br />\n        <button class=\"amt43-tab\" type=\"button\" data-amt43-target=\"dimensions\">Габариты</button>\n      </div>\n<div class=\"amt43-spec\">\n<div class=\"amt43-spec-group\" data-amt43-group=\"process\">\n<div class=\"amt43-spec-title\">Процесс построения</div>\n<div class=\"amt43-spec-row\">\n<div class=\"amt43-spec-name\">Габариты области построения, Ш×Г×В</div>\n<div class=\"amt43-spec-value amt43-spec-value--big\">320 × 520 × 370 мм</div>\n</p></div>\n<div class=\"amt43-spec-row\">\n<div class=\"amt43-spec-name\">Количество лазеров</div>\n<div class=\"amt43-spec-value amt43-spec-value--big\">3 шт.</div>\n</p></div>\n<div class=\"amt43-spec-row\">\n<div class=\"amt43-spec-name\">Мощность лазера</div>\n<div class=\"amt43-spec-value\">500 Вт <span class=\"amt43-sub\">/ 1000 Вт опционально</span></div>\n</p></div>\n<div class=\"amt43-spec-row\">\n<div class=\"amt43-spec-name\">Нанесение слоя порошка</div>\n<div class=\"amt43-spec-value\">Двустороннее</div>\n</p></div>\n</p></div>\n<div class=\"amt43-spec-group\" data-amt43-group=\"powder\">\n<div class=\"amt43-spec-title\">Порошок, атмосфера и фильтрация</div>\n<div class=\"amt43-spec-row\">\n<div class=\"amt43-spec-name\">Количество датчиков кислорода</div>\n<div class=\"amt43-spec-value\">3 шт.</div>\n</p></div>\n<div class=\"amt43-spec-row\">\n<div class=\"amt43-spec-name\">Работа с порошком</div>\n<div class=\"amt43-spec-value\">Автоматизированный замкнутый контур рециркуляции, ультразвуковой сепарации и пневмотранспорта порошка <span class=\"amt43-sub\">(модуль СПТ)</span></div>\n</p></div>\n<div class=\"amt43-spec-row\">\n<div class=\"amt43-spec-name\">Система газоочистки</div>\n<div class=\"amt43-spec-value\">Двухступенчатая, замкнутого цикла</div>\n</p></div>\n<div class=\"amt43-spec-row\">\n<div class=\"amt43-spec-name\">Класс фильтрации</div>\n<div class=\"amt43-spec-value\">HEPA (H13) <span class=\"amt43-sub\">— эффективность улавливания частиц до 99,97%</span></div>\n</p></div>\n<div class=\"amt43-spec-row\">\n<div class=\"amt43-spec-name\">Система регенерации фильтров</div>\n<div class=\"amt43-spec-value\">Автоматическая пневмовстряска <span class=\"amt43-sub\">(обратная импульсная продувка аргоном высокого давления)</span></div>\n</p></div>\n</p></div>\n<div class=\"amt43-spec-group\" data-amt43-group=\"dimensions\">\n<div class=\"amt43-spec-title\">Габариты и масса модулей</div>\n<div class=\"amt43-spec-row\">\n<div class=\"amt43-spec-name\">Основной модуль, Ш×Г×В</div>\n<div class=\"amt43-spec-value\">2000 × 1420 × 3100 мм / 2300 кг</div>\n</p></div>\n<div class=\"amt43-spec-row\">\n<div class=\"amt43-spec-name\">Модуль СПТ, Ш×Г×В</div>\n<div class=\"amt43-spec-value\">2115 × 1550 × 3100 мм / 2200 кг</div>\n</p></div>\n<div class=\"amt43-spec-row\">\n<div class=\"amt43-spec-name\">Модуль охлаждения, Ш×Г×В</div>\n<div class=\"amt43-spec-value\">625 × 1300 × 1900 мм / 300 кг</div>\n</p></div>\n</p></div>\n</p></div>\n</p></div>\n</p></div>\n<div class=\"amt43-section\">\n<div class=\"amt43-eyebrow\">Автоматизация процесса</div>\n<h2>Меньше ручных операций между построениями</h2>\n<p class=\"amt43-lead\">AMT-43 объединяет многолазерную печать, подготовку порошка и газоочистку в единую производственную архитектуру.</p>\n<div class=\"amt43-automation\">\n<div class=\"amt43-card\">\n<div class=\"amt43-feature-num\">01</div>\n<div>\n<h3>Рециркуляция порошка</h3>\n<p>Замкнутый контур организует возврат и повторную подготовку материала внутри технологической цепочки.</p>\n</p></div>\n</p></div>\n<div class=\"amt43-card\">\n<div class=\"amt43-feature-num\">02</div>\n<div>\n<h3>Ультразвуковая сепарация</h3>\n<p>Модуль СПТ включает этап сепарации порошка перед его дальнейшим использованием в производственном цикле.</p>\n</p></div>\n</p></div>\n<div class=\"amt43-card\">\n<div class=\"amt43-feature-num\">03</div>\n<div>\n<h3>Регенерация фильтров</h3>\n<p>Автоматическая обратная импульсная продувка аргоном снижает объём ручных операций по обслуживанию системы фильтрации.</p>\n</p></div>\n</p></div>\n</p></div>\n</p></div>\n<div class=\"amt43-section\">\n<div class=\"amt43-eyebrow\">Модульная компоновка</div>\n<h2>Габариты оборудования</h2>\n<div class=\"amt43-modules\">\n<div class=\"amt43-module\">\n<div class=\"amt43-module-label\">01 / AMT-43</div>\n<h3>Основной модуль</h3>\n<div class=\"amt43-module-grid\">\n<div class=\"amt43-module-value\">\n            <strong>2000 × 1420 × 3100 мм</strong><br />\n            <span>габариты, Ш×Г×В</span>\n          </div>\n<div class=\"amt43-module-value\">\n            <strong>2300 кг</strong><br />\n            <span>масса</span>\n          </div>\n</p></div>\n</p></div>\n<div class=\"amt43-module\">\n<div class=\"amt43-module-label\">02 / СПТ</div>\n<h3>Модуль работы с порошком</h3>\n<div class=\"amt43-module-grid\">\n<div class=\"amt43-module-value\">\n            <strong>2115 × 1550 × 3100 мм</strong><br />\n            <span>габариты, Ш×Г×В</span>\n          </div>\n<div class=\"amt43-module-value\">\n            <strong>2200 кг</strong><br />\n            <span>масса</span>\n          </div>\n</p></div>\n</p></div>\n<div class=\"amt43-module\">\n<div class=\"amt43-module-label\">03 / COOLING</div>\n<h3>Модуль охлаждения</h3>\n<div class=\"amt43-module-grid\">\n<div class=\"amt43-module-value\">\n            <strong>625 × 1300 × 1900 мм</strong><br />\n            <span>габариты, Ш×Г×В</span>\n          </div>\n<div class=\"amt43-module-value\">\n            <strong>300 кг</strong><br />\n            <span>масса</span>\n          </div>\n</p></div>\n</p></div>\n</p></div>\n</p></div>\n<div class=\"amt43-section\">\n<div class=\"amt43-seo-grid\">\n<div>\n<div class=\"amt43-eyebrow\">Промышленная SLM-печать</div>\n<h2>AMT-43 для производственных задач с высокой загрузкой</h2>\n</p></div>\n<div>\n<p>Промышленный SLM 3D-принтер AMT-43 предназначен для изготовления металлических деталей методом селективного лазерного сплавления. Рабочая область 320×520×370 мм подходит для размещения габаритных изделий или партий деталей в одном построении, а три лазера формируют высокопроизводительную многолазерную конфигурацию.</p>\n<p>Автоматизированная работа с металлическим порошком реализована через модуль СПТ, объединяющий рециркуляцию, ультразвуковую сепарацию и пневмотранспорт материала. Такая схема особенно актуальна для производственных площадок с регулярной загрузкой оборудования и высокими требованиями к организации технологического процесса.</p>\n<p>Двухступенчатая система газоочистки работает по замкнутому циклу. HEPA-фильтрация класса H13 обеспечивает эффективность улавливания частиц до 99,97%, а автоматическая регенерация фильтров выполняется обратной импульсной продувкой аргоном высокого давления.</p>\n<ul class=\"amt43-list\">\n<li>область построения 320×520×370 мм;</li>\n<li>3 лазера мощностью 500 Вт с опцией 1000 Вт;</li>\n<li>автоматизированный модуль работы с порошком;</li>\n<li>двустороннее нанесение слоя;</li>\n<li>3 датчика контроля кислорода;</li>\n<li>двухступенчатая газоочистка и HEPA H13.</li>\n</ul></div>\n</p></div>\n</p></div>\n<p>  <script>\n    (function(){\n      const root = document.querySelector('.amt43-product-description');\n      if(!root) return;</p>\n<p>      const tabs = root.querySelectorAll('.amt43-tab');\n      const groups = root.querySelectorAll('.amt43-spec-group');</p>\n<p>      tabs.forEach(function(tab){\n        tab.addEventListener('click', function(){\n          const target = tab.getAttribute('data-amt43-target');</p>\n<p>          tabs.forEach(function(item){\n            item.classList.toggle('is-active', item === tab);\n          });</p>\n<p>          groups.forEach(function(group){\n            const groupName = group.getAttribute('data-amt43-group');\n            group.style.display = (target === 'all' || groupName === target) ? '' : 'none';\n          });\n        });\n      });\n    })();\n  </script><br />\n</section>\n",
+ "short_description": "<p class=\"ds-markdown-paragraph\"><strong><span class=\"\">AMT-45 – высокопроизводительный SLM-принтер с полной автоматизацией процессов</span></strong></p>\n",
+ "sku": "",
+ "price": "",
+ "regular_price": "",
+ "sale_price": "",
+ "date_on_sale_from": null,
+ "date_on_sale_from_gmt": null,
+ "date_on_sale_to": null,
+ "date_on_sale_to_gmt": null,
+ "on_sale": false,
+ "purchasable": false,
+ "total_sales": 0,
+ "virtual": false,
+ "downloadable": false,
+ "downloads": [],
+ "download_limit": -1,
+ "download_expiry": -1,
+ "external_url": "",
+ "button_text": "",
+ "tax_status": "taxable",
+ "tax_class": "",
+ "manage_stock": false,
+ "stock_quantity": null,
+ "backorders": "no",
+ "backorders_allowed": false,
+ "backordered": false,
+ "low_stock_amount": null,
+ "sold_individually": false,
+ "weight": "",
+ "dimensions": {
+  "length": "",
+  "width": "",
+  "height": ""
+ },
+ "shipping_required": true,
+ "shipping_taxable": true,
+ "shipping_class": "",
+ "shipping_class_id": 0,
+ "reviews_allowed": true,
+ "average_rating": "0.00",
+ "rating_count": 0,
+ "upsell_ids": [],
+ "cross_sell_ids": [],
+ "parent_id": 0,
+ "purchase_note": "",
+ "categories": [
+  {
+   "id": 18,
+   "name": "SLM 3D - принтеры",
+   "slug": "slm-3d-printeri"
+  }
+ ],
+ "brands": [],
+ "tags": [],
+ "images": [
+  {
+   "id": 4324,
+   "date_created": "2026-09-10T17:40:08",
+   "date_created_gmt": "2026-09-10T11:40:08",
+   "date_modified": "2026-09-10T17:40:08",
+   "date_modified_gmt": "2026-09-10T11:40:08",
+   "src": "https://am-tech.ru/wp-content/uploads/2026/09/amt-34_rus.png",
+   "name": "AMt-34_rus",
+   "alt": ""
+  },
+  {
+   "id": 4324,
+   "date_created": "2026-09-10T17:40:08",
+   "date_created_gmt": "2026-09-10T11:40:08",
+   "date_modified": "2026-09-10T17:40:08",
+   "date_modified_gmt": "2026-09-10T11:40:08",
+   "src": "https://am-tech.ru/wp-content/uploads/2026/09/amt-34_rus.png",
+   "name": "AMt-34_rus",
+   "alt": ""
+  }
+ ],
+ "attributes": [
+  {
+   "id": 3542,
+   "name": "Габариты области построения ШхГхВ (мм)",
+   "slug": "pa_gabarity-oblasti-postroenija",
+   "position": 0,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "320х520х370"
+   ]
+  },
+  {
+   "id": 3485,
+   "name": "Количество лазеров, шт",
+   "slug": "pa_kolichestvo-lazerov-sht",
+   "position": 1,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "3"
+   ]
+  },
+  {
+   "id": 3486,
+   "name": "Мощность лазера, Вт",
+   "slug": "pa_moshhnost-lazera-vt",
+   "position": 2,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "500 (опционально 1000)"
+   ]
+  },
+  {
+   "id": 3543,
+   "name": "Максимальная масса изделия (кг)",
+   "slug": "pa_production_max_mass",
+   "position": 3,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "715"
+   ]
+  },
+  {
+   "id": 3491,
+   "name": "Количество датчиков кислорода (шт)",
+   "slug": "pa_datchiki-urovnja-kisloroda",
+   "position": 4,
+   "visible": true,
+   "variation": false,
+   "options": [
+    "3"
+   ]
+  }
+ ],
+ "default_attributes": [],
+ "variations": [],
+ "grouped_products": [],
+ "menu_order": 0,
+ "price_html": "",
+ "related_ids": [
+  1377,
+  4011,
+  1610,
+  1604
+ ],
+ "meta_data": [
+  {
+   "id": 50381,
+   "key": "bitrix_id",
+   "value": "2232"
+  },
+  {
+   "id": 50382,
+   "key": "Символьный код",
+   "value": "amt-32"
+  },
+  {
+   "id": 50383,
+   "key": "Анонс",
+   "value": "<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<div>Средняя модель АМТ-32 в линейке аддитивных комплексов для селективного лазерного сплавления от am-tech.ru <br /><br />-Рабочая область: 320 х 320 х 400 мм<br />-Мощность лазерного источника: 500 Вт. <br />-Количество лазерных источников: 2 шт. <br />-Подогрев рабочей платформы: 200 С&ordm; <br />-Система контроля качества нанесения слоя</div>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>"
+  },
+  {
+   "id": 50384,
+   "key": "Описание",
+   "value": "<h2>Модульная концепция серии AMT</h2>\r\n<p><span style=\"color: var(--basic_text_black); font-family: var(--ui-font-family-primary, var(--ui-font-family-helvetica));\">Все принтеры линейки АМТ имеют единые параметры оптической системы независимо от габаритов рабочей области. Унификация существенно сокращает число итераций по настройке параметров печати. </span></p>\r\n<h2>Открытая аппаратная архитектура</h2>\r\n<p><span style=\"color: var(--basic_text_black); font-family: var(--ui-font-family-primary, var(--ui-font-family-helvetica));\">Дает полный контроль над технологическим процессом. Все аддитивные комплексы АМ.ТЕСН позволяют использовать порошковые материалы сторонних производителей. Для выбора согласно уникальным задачам вашего производства, а также - возможности разработки новых синтезируемых материалов.</span></p>\r\n<h2>Открытая программная архитектура</h2>\r\n<p><span style=\"color: var(--basic_text_black); font-family: var(--ui-font-family-primary, var(--ui-font-family-helvetica));\">Собственное программное обеспечение АМ.ТЕСН PriпtMate с открытой архитектурой. С возможностью настройки параметров процесса для индивидуальных производственных задач. </span></p>\r\n<h2>Расширенный пакет контрольно-измерительной аппаратуры</h2>\r\n<p><span style=\"color: var(--basic_text_black); font-family: var(--ui-font-family-primary, var(--ui-font-family-helvetica));\">Для детального анализа технологического процесса уже в базовой комплектации АМТ-16 установлены два датчика анализа содержания кислорода для контроля газовой атмосферы и безопасной работы со сложными материалами. Датчик давления в рабочей камере, совместно с интеллектуальной системой регулировки, обеспечивает стабильность параметров газовой атмосферы на всем протяжении процесса сплавления. Автоматизированный контроль состояния загрязненности фильтрующего элемента вовремя подскажет потребность в его замене. </span></p>\r\n<h2>Интеллектуальная система контроля качества порошкового слоя</h2>\r\n<p><span style=\"color: var(--basic_text_black); font-family: var(--ui-font-family-primary, var(--ui-font-family-helvetica));\">Позволяет выявлять мельчайшие отклонения в плотности распределения порошкового слоя по рабочей площади. Чувствительность определения дефектов может настраиваться пользователем в зависимости от порошкового материала и параметров процесса синтеза. Интеллектуальная система контроля качества нанесения порошкового слоя позволяет значительно снизить издержки производственного процесса за счет раннего предупреждения возможных отказов.</span></p>\r\n<p>Все представленное в нашем каталоге оборудование доступно к приобретению на выгодных условиях <a href=\"https://am-tech.ru/leasing/\">лизинга.</a></p>\r\n<p>Наши специалисты помогут подобрать оптимальную схему лизинга под ваши производственные задачи и финансовые возможности, а также окажут содействие в оформлении всей необходимой документации.</p>"
+  },
+  {
+   "id": 50385,
+   "key": "Показывать на главной странице",
+   "value": "Y"
+  },
+  {
+   "id": 50386,
+   "key": "Изображение SLM установки am-tech.ru",
+   "value": "/pr_new_files/iblock/3fc/5luhtgxk32la0t7bida3rskhhxzkacoh.jpg"
+  },
+  {
+   "id": 50387,
+   "key": "Страна производства",
+   "value": "Россия"
+  },
+  {
+   "id": 50388,
+   "key": "Связанные товары по фильтру",
+   "value": "[]"
+  },
+  {
+   "id": 50389,
+   "key": "Материалы",
+   "value": "/pr_new_files/iblock/bc3/ffgip6b52ook5m716tsnsothh4ou147g.pdf"
+  },
+  {
+   "id": 50390,
+   "key": "Картинки галереи",
+   "value": "/pr_new_files/iblock/d1b/ihynlx8c0smes7pmyy0tyhto3751nz6w.png"
+  },
+  {
+   "id": 50391,
+   "key": "Габариты рабочей зоны, мм",
+   "value": "320х320х400"
+  },
+  {
+   "id": 50392,
+   "key": "Количество лазеров, шт",
+   "value": "2 (опционально 1)"
+  },
+  {
+   "id": 50393,
+   "key": "Мощность лазера, Вт",
+   "value": "500"
+  },
+  {
+   "id": 50394,
+   "key": "Подогрев платформы",
+   "value": "200°C"
+  },
+  {
+   "id": 50395,
+   "key": "Материалы печати",
+   "value": "сплавы на основе Fe, Ni, Co, Al, Ti"
+  },
+  {
+   "id": 50396,
+   "key": "Подключение",
+   "value": "380В"
+  },
+  {
+   "id": 50397,
+   "key": "bitrix_picture",
+   "value": "/pr_new_files/iblock/383/gyy3ky3bpoornl9cpi46aa93ta0hm92l.png"
+  },
+  {
+   "id": 50398,
+   "key": "Документы товара",
+   "value": "1379,4325"
+  },
+  {
+   "id": 50399,
+   "key": "wbcr_wp_old_slug",
+   "value": "3d-%d0%bf%d1%80%d0%b8%d0%bd%d1%82%d0%b5%d1%80-amt-32"
+  },
+  {
+   "id": 50400,
+   "key": "Код с видео (iframe)",
+   "value": ""
+  },
+  {
+   "id": 50401,
+   "key": "Файл видео",
+   "value": "2799"
+  },
+  {
+   "id": 50402,
+   "key": "_news_category",
+   "value": "1107"
+  },
+  {
+   "id": 50403,
+   "key": "_news_tag",
+   "value": "0"
+  },
+  {
+   "id": 50404,
+   "key": "_my_menu_type",
+   "value": "обычное"
+  },
+  {
+   "id": 50405,
+   "key": "_video_block",
+   "value": {
+    "video_title": "Возможности 3D-печати металлом",
+    "video_post_id": "3720",
+    "right_title": "Метод селективного лазерного сплавления",
+    "subtitle": "",
+    "video_description": "Selective Laser Melting (SLM) — это аддитивная технология 3D-печати металлом, при которой тонкий слой металлического порошка послойно сплавляется с помощью мощного лазера.\r\nПринтер наносит порошок на платформу, а лазер точно плавит его по заданной 3D-модели. После застывания слоя платформа опускается, наносится следующий слой порошка, и процесс повторяется до получения готовой детали.\r\n\r\nSLM позволяет создавать сложные геометрические формы с высокой точностью и отличными механическими свойствами.",
+    "button_text": "Смотреть больше видео",
+    "tag_id": "1295"
+   }
+  },
+  {
+   "id": 50406,
+   "key": "boldgrid_in_page_containers",
+   "value": "1"
+  },
+  {
+   "id": 50407,
+   "key": "_yoast_wpseo_primary_product_brand",
+   "value": ""
+  },
+  {
+   "id": 50408,
+   "key": "_yoast_wpseo_primary_product_cat",
+   "value": ""
+  },
+  {
+   "id": 50409,
+   "key": "_yoast_wpseo_focuskw",
+   "value": "SLM 3D-принтер"
+  },
+  {
+   "id": 50410,
+   "key": "_yoast_wpseo_linkdex",
+   "value": "57"
+  },
+  {
+   "id": 50411,
+   "key": "_yoast_wpseo_content_score",
+   "value": "90"
+  },
+  {
+   "id": 50412,
+   "key": "_yoast_wpseo_estimated-reading-time-minutes",
+   "value": "4"
+  },
+  {
+   "id": 50413,
+   "key": "_custom_advantages",
+   "value": "<div class=\"boldgrid-section bg-background-color color-neutral-background-color color-neutral-text-contrast\" style=\"background-size: auto;background-repeat: repeat\">\r\n<div class=\"container\">\r\n<div class=\"row bg-background-color color-neutral-background-color color-neutral-text-contrast\">\r\n<div class=\"col-lg-6 col-md-6 col-sm-6 col-xs-12\">\r\n<div>\r\n<h2>Динамическая фокусировка</h2>\r\nДинамическая фокусировка лазерного луча улучшает стабильность работы комплекса и даёт дополнительную степень свободы при выборе режимов печати, позволяя выбирать между производительным режимом печати с большим диаметром пучка и точным режимом с минимальным диаметром пучка.\r\n\r\n</div>\r\n</div>\r\n<div class=\"col-lg-6 col-md-6 col-sm-6 col-xs-12\">\r\n<h2>Открытое программное обеспечение</h2>\r\nПрограммное обеспечение АМ.ТЕСН PrintMate с открытой архитектурой предоставляет пользователю возможность выбора между стандартными параметрами АМ.ТЕСН под определенные материалы или самостоятельной настройкой под специальные производственные потребности. Полный контроль за технологическим процессом – промышленные решения еще не были настолько доступными.\r\n\r\n</div>\r\n</div>\r\n<div class=\"row\">\r\n<div class=\"col-lg-6 col-md-6 col-sm-6 col-xs-12\">\r\n<h2>Расширенный пакет контрольной аппаратуры</h2>\r\nИнтеллектуальная система контроля с тремя датчиками концентрации кислорода и датчиком давления обеспечивает стабильность параметров газовой атмосферы на всём протяжении процесса сплавления, гарантируя надёжную и безопасную работу со всеми материалами. Автоматизированный контроль состояния загрязненности фильтрующего элемента вовремя укажет на необходимость его замены.\r\n\r\n</div>\r\n<div class=\"col-lg-6 col-md-6 col-sm-6 col-xs-12\">\r\n<div>\r\n<h2>Унифицированная конструкция</h2>\r\nВо всех SLM-принтерах серии  AMT используется одинаковая лазерно-оптическая система . Такая унификация позволяет существенно сократить количество итераций по настройке параметров процесса синтеза при переходе от младших АМТ к старшим моделям аддитивных комплексов, отличающихся увеличенными размерами рабочей области.\r\n\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"row\">\r\n<div class=\"col-lg-6 col-md-6 col-sm-6 col-xs-12\">\r\n<h2>Контроль качества порошкового слоя</h2>\r\nДля контроля качества порошкового слоя используется система компьютерного зрения, которая выявляет мельчайшие отклонения в плотности распределения порошкового слоя по всей площади печати.\r\n\r\n</div>\r\n<div class=\"col-lg-6 col-md-6 col-sm-6 col-xs-12\">\r\n<h2>Свобода выбора материала</h2>\r\nНержавеющая сталь, кобальт-хром, никелевые сплавы, сплавы титана и алюминия — все эти материалы могут быть использованы в SLM-установке AMT-45.\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>"
+  },
+  {
+   "id": 50414,
+   "key": "_bgppb_default_editor",
+   "value": "bgppb"
+  },
+  {
+   "id": 50415,
+   "key": "_yoast_wpseo_title",
+   "value": "SLM 3D - принтеры AMT-45 - заказать у производителя с доставкой по России | AM-Tech"
+  },
+  {
+   "id": 50416,
+   "key": "_yoast_wpseo_metadesc",
+   "value": "Надежный 3D-принтер AMT-45 для промышленной печати. Высокая точность и скорость создания деталей. Заказать демонстрацию и консультацию: +7 (499) 350-50-73."
+  },
+  {
+   "id": 51755,
+   "key": "_elementor_page_assets",
+   "value": []
+  }
+ ],
+ "stock_status": "instock",
+ "has_options": false,
+ "post_password": "",
+ "global_unique_id": "",
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>SLM 3D - принтеры AMT-45 - заказать у производителя с доставкой по России | AM-Tech</title>\n<meta name=\"description\" content=\"Надежный 3D-принтер AMT-45 для промышленной печати. Высокая точность и скорость создания деталей. Заказать демонстрацию и консультацию: +7 (499) 350-50-73.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/product/amt-43/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"SLM 3D - принтеры AMT-45 - заказать у производителя с доставкой по России | AM-Tech\" />\n<meta property=\"og:description\" content=\"Надежный 3D-принтер AMT-45 для промышленной печати. Высокая точность и скорость создания деталей. Заказать демонстрацию и консультацию: +7 (499) 350-50-73.\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/product/amt-43/\" />\n<meta property=\"og:site_name\" content=\"am-tech.ru\" />\n<meta property=\"article:modified_time\" content=\"2026-09-10T11:46:25+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2026/09/amt-34_rus.png\" />\n\t<meta property=\"og:image:width\" content=\"2560\" />\n\t<meta property=\"og:image:height\" content=\"1753\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"4 минуты\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/product/amt-43/\",\"url\":\"https://am-tech.ru/product/amt-43/\",\"name\":\"SLM 3D - принтеры AMT-45 - заказать у производителя с доставкой по России | AM-Tech\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/product/amt-43/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/product/amt-43/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2026/09/amt-34_rus.png\",\"datePublished\":\"2026-09-10T11:22:02+00:00\",\"dateModified\":\"2026-09-10T11:46:25+00:00\",\"description\":\"Надежный 3D-принтер AMT-45 для промышленной печати. Высокая точность и скорость создания деталей. Заказать демонстрацию и консультацию: +7 (499) 350-50-73.\",\"breadcrumb\":{\"@id\":\"https://am-tech.ru/product/amt-43/#breadcrumb\"},\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/product/amt-43/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/product/amt-43/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2026/09/amt-34_rus.png\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2026/09/amt-34_rus.png\",\"width\":2560,\"height\":1753},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://am-tech.ru/product/amt-43/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Главная страница\",\"item\":\"https://am-tech.ru/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"SLM 3D - принтеры\",\"item\":\"https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"AMT-43\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"am-tech.ru\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"am-tech.ru\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"am-tech.ru\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "SLM 3D - принтеры AMT-45 - заказать у производителя с доставкой по России | AM-Tech",
+  "description": "Надежный 3D-принтер AMT-45 для промышленной печати. Высокая точность и скорость создания деталей. Заказать демонстрацию и консультацию: +7 (499) 350-50-73.",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/product/amt-43/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "SLM 3D - принтеры AMT-45 - заказать у производителя с доставкой по России | AM-Tech",
+  "og_description": "Надежный 3D-принтер AMT-45 для промышленной печати. Высокая точность и скорость создания деталей. Заказать демонстрацию и консультацию: +7 (499) 350-50-73.",
+  "og_url": "https://am-tech.ru/product/amt-43/",
+  "og_site_name": "am-tech.ru",
+  "article_modified_time": "2026-09-10T11:46:25+00:00",
+  "og_image": [
+   {
+    "width": 2560,
+    "height": 1753,
+    "url": "https://am-tech.ru/wp-content/uploads/2026/09/amt-34_rus.png",
+    "type": "image/png"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "4 минуты"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/product/amt-43/",
+     "url": "https://am-tech.ru/product/amt-43/",
+     "name": "SLM 3D - принтеры AMT-45 - заказать у производителя с доставкой по России | AM-Tech",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/product/amt-43/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/product/amt-43/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2026/09/amt-34_rus.png",
+     "datePublished": "2026-09-10T11:22:02+00:00",
+     "dateModified": "2026-09-10T11:46:25+00:00",
+     "description": "Надежный 3D-принтер AMT-45 для промышленной печати. Высокая точность и скорость создания деталей. Заказать демонстрацию и консультацию: +7 (499) 350-50-73.",
+     "breadcrumb": {
+      "@id": "https://am-tech.ru/product/amt-43/#breadcrumb"
+     },
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/product/amt-43/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/product/amt-43/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2026/09/amt-34_rus.png",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2026/09/amt-34_rus.png",
+     "width": 2560,
+     "height": 1753
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://am-tech.ru/product/amt-43/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Главная страница",
+       "item": "https://am-tech.ru/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "SLM 3D - принтеры",
+       "item": "https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "AMT-43"
+      }
+     ]
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "am-tech.ru",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "am-tech.ru",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "am-tech.ru"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wc/v3/products/4323",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wc/v3/products"
+   }
+  ]
+ }
+}

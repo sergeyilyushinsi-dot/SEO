@@ -1,0 +1,20 @@
+<style>
+/* Исправление 30.10: кнопки-типы сканеров не наезжают друг на друга; на телефоне карточки моделей по 2 в ряд */
+body #amt-blog.amte .amte-chips>.elementor-widget,body #amt-blog.amte .amte-actions>.elementor-widget{flex:0 0 auto;max-width:100%}
+@media(max-width:760px){
+  body #amt-blog.amte .amte-chips{flex-wrap:wrap!important;overflow:visible!important;margin:-4px 0 18px!important;padding:0!important;gap:6px!important}
+  body #amt-blog.amte .amte-chip .elementor-button{padding:8px 12px;font-size:12px}
+  body #amt-blog.amte .amte-cards{display:grid!important;grid-template-columns:1fr 1fr!important;gap:8px!important;overflow:visible!important;margin:0!important;padding:0!important}
+  body #amt-blog.amte .amte-card{flex:none!important;padding:6px 6px 12px!important;border-radius:18px}
+  body #amt-blog.amte .amte-card:last-child:nth-child(odd){grid-column:span 2}
+  body #amt-blog.amte .amte-card__img a,body #amt-blog.amte .amte-card__img .elementor-widget-container{aspect-ratio:1/1!important;height:auto!important;border-radius:14px}
+  body #amt-blog.amte .amte-card:last-child:nth-child(odd) .amte-card__img a,body #amt-blog.amte .amte-card:last-child:nth-child(odd) .amte-card__img .elementor-widget-container{aspect-ratio:2/1!important}
+  body #amt-blog.amte .amte-badge{left:12px;top:12px}
+  body #amt-blog.amte .amte-badge p{font-size:9.5px;padding:4px 7px}
+  body #amt-blog.amte .amte-card__title .elementor-heading-title{padding:10px 4px 0;font-size:16px}
+  body #amt-blog.amte .amte-card__text p{padding:2px 4px 8px;font-size:12px;min-height:0}
+  body #amt-blog.amte .amte-card__specs .elementor-widget-container{padding:8px 4px 0;gap:4px}
+  body #amt-blog.amte .amte-card__specs span{font-size:10px}
+  body #amt-blog.amte .amte-card__specs strong{font-size:12.5px}
+}
+</style>

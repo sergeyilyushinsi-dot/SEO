@@ -1,0 +1,22 @@
+[
+ {
+  "plan_task": 16,
+  "label": "Title (Yoast)",
+  "before_text": "3D-сканер TrackScan Sharp S - заказать у производителя с доставкой по России | AM-Tech",
+  "after_text": "3D-сканер TrackScan Sharp S — купить с доставкой по России | AM-Tech",
+  "comment": "Было 86 симв., стало 68 симв. «У производителя» убрано: в карточке страна производства — Китай",
+  "slug": "am-tech-trackscan-sharp-s",
+  "field": "title",
+  "value": "3D-сканер TrackScan Sharp S — купить с доставкой по России | AM-Tech",
+  "row": 43,
+  "type": "product",
+  "id": 1683,
+  "url": "https://am-tech.ru/product/am-tech-trackscan-sharp-s/",
+  "before": "3D-сканер TrackScan Sharp S - заказать у производителя с доставкой по России | AM-Tech",
+  "after": "3D-сканер TrackScan Sharp S — купить с доставкой по России | AM-Tech",
+  "saved": true,
+  "on_page": true,
+  "on_cached_page": true,
+  "status": "применено"
+ }
+]

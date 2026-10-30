@@ -1,0 +1,294 @@
+{
+ "id": 3218,
+ "date": "2025-10-16T14:01:30",
+ "date_gmt": "2025-10-16T11:01:30",
+ "guid": {
+  "rendered": "https://am-tech.ru/?post_type=video_reviews&#038;p=3218",
+  "raw": "https://am-tech.ru/?post_type=video_reviews&#038;p=3218"
+ },
+ "modified": "2026-01-22T16:56:55",
+ "modified_gmt": "2026-01-22T13:56:55",
+ "password": "",
+ "slug": "demonstracionnyj-den-tehnologij-slm-i-ebm",
+ "status": "publish",
+ "type": "video_reviews",
+ "link": "https://am-tech.ru/video-reviews/demonstracionnyj-den-tehnologij-slm-i-ebm/",
+ "title": {
+  "raw": "Демонстрационный день технологий SLM и EBM",
+  "rendered": "Демонстрационный день технологий SLM и EBM"
+ },
+ "content": {
+  "raw": "<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n<p class=\"\">Согласно отчёту Wohlers Report 2024, мировые продажи металлических порошков для 3D-печати с 2014 по 2023 росли в среднем на 36% в год. В чём причина этого устойчивого роста? Сохранится ли он в будущем? И какие аддитивные технологии внесли в него самый большой вклад? Мы постарались ответить на эти и многие другие вопросы в ходе демодня по технологиям SLM (селективное лазерное сплавление) и EBM (электронно-лучевое сплавление) 27 марта на Московском цифровом заводе.</p>\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+  "rendered": "<div class=\"boldgrid-section\">\n<div class=\"container\">\n<div class=\"row\">\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\n<p class=\"\">Согласно отчёту Wohlers Report 2024, мировые продажи металлических порошков для 3D-печати с 2014 по 2023 росли в среднем на 36% в год. В чём причина этого устойчивого роста? Сохранится ли он в будущем? И какие аддитивные технологии внесли в него самый большой вклад? Мы постарались ответить на эти и многие другие вопросы в ходе демодня по технологиям SLM (селективное лазерное сплавление) и EBM (электронно-лучевое сплавление) 27 марта на Московском цифровом заводе.</p>\n</div>\n</div>\n</div>\n</div>\n",
+  "protected": false,
+  "block_version": 0
+ },
+ "excerpt": {
+  "raw": "",
+  "rendered": "<p>Согласно отчёту Wohlers Report 2024, мировые продажи металлических порошков для 3D-печати с 2014 по 2023 росли в среднем на 36% в год. В чём причина этого устойчивого роста? Сохранится ли он в будущем? И какие аддитивные технологии внесли в него самый большой вклад? Мы постарались ответить на эти и многие другие вопросы в ходе демодня [&hellip;]</p>\n",
+  "protected": false
+ },
+ "author": 6,
+ "featured_media": 3220,
+ "comment_status": "open",
+ "ping_status": "closed",
+ "template": "",
+ "meta": {
+  "_acf_changed": false,
+  "_yoast_wpseo_title": "",
+  "_yoast_wpseo_metadesc": "На демодне AM.TECH, посвящённом технологиям SLM и EBM, обсудили причины роста рынка металлических порошков для 3D-печати, отражённого в Wohlers Report 2024, и перспективы дальнейшего развития аддитивных технологий.",
+  "_yoast_wpseo_meta-robots-noindex": ""
+ },
+ "video_category": [
+  1008,
+  1105
+ ],
+ "video_tag": [
+  1292,
+  1293,
+  1295,
+  1296,
+  1297,
+  1298,
+  1299
+ ],
+ "permalink_template": "https://am-tech.ru/video-reviews/%pagename%/",
+ "generated_slug": "demonstracionnyj-den-tehnologij-slm-i-ebm",
+ "class_list": [
+  "post-3218",
+  "video_reviews",
+  "type-video_reviews",
+  "status-publish",
+  "has-post-thumbnail",
+  "hentry",
+  "video_category-3d-printery-ru",
+  "video_category-meroprijatija",
+  "video_tag-amt-3d-printery",
+  "video_tag-ebm",
+  "video_tag-slm",
+  "video_tag-demonstracii-oborudovanija",
+  "video_tag-industrija-additivnyh-tehnologij",
+  "video_tag-innovacii",
+  "video_tag-issledovanija-i-razrabotki"
+ ],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Демонстрационный день технологий SLM и EBM - am-tech.ru</title>\n<meta name=\"description\" content=\"На демодне AM.TECH, посвящённом технологиям SLM и EBM, обсудили причины роста рынка металлических порошков для 3D-печати, отражённого в Wohlers Report 2024, и перспективы дальнейшего развития аддитивных технологий.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/video-reviews/demonstracionnyj-den-tehnologij-slm-i-ebm/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Демонстрационный день технологий SLM и EBM - am-tech.ru\" />\n<meta property=\"og:description\" content=\"На демодне AM.TECH, посвящённом технологиям SLM и EBM, обсудили причины роста рынка металлических порошков для 3D-печати, отражённого в Wohlers Report 2024, и перспективы дальнейшего развития аддитивных технологий.\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/video-reviews/demonstracionnyj-den-tehnologij-slm-i-ebm/\" />\n<meta property=\"og:site_name\" content=\"am-tech.ru\" />\n<meta property=\"article:modified_time\" content=\"2026-01-22T13:56:55+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2025/10/snimok-4.png\" />\n\t<meta property=\"og:image:width\" content=\"1370\" />\n\t<meta property=\"og:image:height\" content=\"771\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"1 минута\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/video-reviews/demonstracionnyj-den-tehnologij-slm-i-ebm/\",\"url\":\"https://am-tech.ru/video-reviews/demonstracionnyj-den-tehnologij-slm-i-ebm/\",\"name\":\"Демонстрационный день технологий SLM и EBM - am-tech.ru\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/video-reviews/demonstracionnyj-den-tehnologij-slm-i-ebm/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/video-reviews/demonstracionnyj-den-tehnologij-slm-i-ebm/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2025/10/snimok-4.png\",\"datePublished\":\"2025-10-16T11:01:30+00:00\",\"dateModified\":\"2026-01-22T13:56:55+00:00\",\"description\":\"На демодне AM.TECH, посвящённом технологиям SLM и EBM, обсудили причины роста рынка металлических порошков для 3D-печати, отражённого в Wohlers Report 2024, и перспективы дальнейшего развития аддитивных технологий.\",\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/video-reviews/demonstracionnyj-den-tehnologij-slm-i-ebm/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/video-reviews/demonstracionnyj-den-tehnologij-slm-i-ebm/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2025/10/snimok-4.png\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2025/10/snimok-4.png\",\"width\":1370,\"height\":771},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"am-tech.ru\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"am-tech.ru\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"am-tech.ru\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "Демонстрационный день технологий SLM и EBM - am-tech.ru",
+  "description": "На демодне AM.TECH, посвящённом технологиям SLM и EBM, обсудили причины роста рынка металлических порошков для 3D-печати, отражённого в Wohlers Report 2024, и перспективы дальнейшего развития аддитивных технологий.",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/video-reviews/demonstracionnyj-den-tehnologij-slm-i-ebm/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "Демонстрационный день технологий SLM и EBM - am-tech.ru",
+  "og_description": "На демодне AM.TECH, посвящённом технологиям SLM и EBM, обсудили причины роста рынка металлических порошков для 3D-печати, отражённого в Wohlers Report 2024, и перспективы дальнейшего развития аддитивных технологий.",
+  "og_url": "https://am-tech.ru/video-reviews/demonstracionnyj-den-tehnologij-slm-i-ebm/",
+  "og_site_name": "am-tech.ru",
+  "article_modified_time": "2026-01-22T13:56:55+00:00",
+  "og_image": [
+   {
+    "width": 1370,
+    "height": 771,
+    "url": "https://am-tech.ru/wp-content/uploads/2025/10/snimok-4.png",
+    "type": "image/png"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "1 минута"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/video-reviews/demonstracionnyj-den-tehnologij-slm-i-ebm/",
+     "url": "https://am-tech.ru/video-reviews/demonstracionnyj-den-tehnologij-slm-i-ebm/",
+     "name": "Демонстрационный день технологий SLM и EBM - am-tech.ru",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/video-reviews/demonstracionnyj-den-tehnologij-slm-i-ebm/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/video-reviews/demonstracionnyj-den-tehnologij-slm-i-ebm/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2025/10/snimok-4.png",
+     "datePublished": "2025-10-16T11:01:30+00:00",
+     "dateModified": "2026-01-22T13:56:55+00:00",
+     "description": "На демодне AM.TECH, посвящённом технологиям SLM и EBM, обсудили причины роста рынка металлических порошков для 3D-печати, отражённого в Wohlers Report 2024, и перспективы дальнейшего развития аддитивных технологий.",
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/video-reviews/demonstracionnyj-den-tehnologij-slm-i-ebm/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/video-reviews/demonstracionnyj-den-tehnologij-slm-i-ebm/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2025/10/snimok-4.png",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2025/10/snimok-4.png",
+     "width": 1370,
+     "height": 771
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "am-tech.ru",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "am-tech.ru",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "am-tech.ru"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3218",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/types/video_reviews"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/users/6"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/comments?post=3218"
+   }
+  ],
+  "wp:featuredmedia": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/media/3220"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/media?parent=3218"
+   }
+  ],
+  "wp:term": [
+   {
+    "taxonomy": "video_category",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_category?post=3218"
+   },
+   {
+    "taxonomy": "video_tag",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_tag?post=3218"
+   }
+  ],
+  "wp:action-publish": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3218"
+   }
+  ],
+  "wp:action-unfiltered-html": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3218"
+   }
+  ],
+  "wp:action-assign-author": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3218"
+   }
+  ],
+  "wp:action-create-video_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3218"
+   }
+  ],
+  "wp:action-assign-video_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3218"
+   }
+  ],
+  "wp:action-create-video_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3218"
+   }
+  ],
+  "wp:action-assign-video_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3218"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

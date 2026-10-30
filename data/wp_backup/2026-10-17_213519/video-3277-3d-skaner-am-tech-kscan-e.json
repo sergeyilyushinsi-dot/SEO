@@ -1,0 +1,286 @@
+{
+ "id": 3277,
+ "date": "2025-10-27T13:22:52",
+ "date_gmt": "2025-10-27T10:22:52",
+ "guid": {
+  "rendered": "https://am-tech.ru/?post_type=video_reviews&#038;p=3277",
+  "raw": "https://am-tech.ru/?post_type=video_reviews&#038;p=3277"
+ },
+ "modified": "2026-07-02T10:45:39",
+ "modified_gmt": "2026-07-02T07:45:39",
+ "password": "",
+ "slug": "3d-skaner-am-tech-kscan-e",
+ "status": "publish",
+ "type": "video_reviews",
+ "link": "https://am-tech.ru/video-reviews/3d-skaner-am-tech-kscan-e/",
+ "title": {
+  "raw": "3D-сканер AM.TECH KSCAN E",
+  "rendered": "3D-сканер AM.TECH KSCAN E"
+ },
+ "content": {
+  "raw": "<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n<p class=\"\">В линейке сканеров AM.TECH появилось новое устройство — беспроводной 3D-сканер KSCAN E.</p>\r\n<p class=\"\">Благодаря шести режимам работы он одинаково хорошо справляется с оцифровкой как крупных объектов, так и мельчайших деталей, обеспечивая полный захват данных высокого качества.</p>\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+  "rendered": "<div class=\"boldgrid-section\">\n<div class=\"container\">\n<div class=\"row\">\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\n<p class=\"\">В линейке сканеров AM.TECH появилось новое устройство — беспроводной 3D-сканер KSCAN E.</p>\n<p class=\"\">Благодаря шести режимам работы он одинаково хорошо справляется с оцифровкой как крупных объектов, так и мельчайших деталей, обеспечивая полный захват данных высокого качества.</p>\n</div>\n</div>\n</div>\n</div>\n",
+  "protected": false,
+  "block_version": 0
+ },
+ "excerpt": {
+  "raw": "",
+  "rendered": "<p>В линейке сканеров AM.TECH появилось новое устройство — беспроводной 3D-сканер KSCAN E. Благодаря шести режимам работы он одинаково хорошо справляется с оцифровкой как крупных объектов, так и мельчайших деталей, обеспечивая полный захват данных высокого качества.</p>\n",
+  "protected": false
+ },
+ "author": 5,
+ "featured_media": 3279,
+ "comment_status": "open",
+ "ping_status": "closed",
+ "template": "",
+ "meta": {
+  "_acf_changed": false,
+  "_yoast_wpseo_title": "",
+  "_yoast_wpseo_metadesc": "Смотрите видеообзор 3D-сканера AM.TECH KSCAN E! Детальная демонстрация работы, оценка точности и скорости сканирования. Узнайте возможности прибора на практике.",
+  "_yoast_wpseo_meta-robots-noindex": ""
+ },
+ "video_category": [
+  1004
+ ],
+ "video_tag": [
+  1291,
+  1296,
+  1297,
+  1304
+ ],
+ "permalink_template": "https://am-tech.ru/video-reviews/%pagename%/",
+ "generated_slug": "3d-skaner-am-tech-kscan-e",
+ "class_list": [
+  "post-3277",
+  "video_reviews",
+  "type-video_reviews",
+  "status-publish",
+  "has-post-thumbnail",
+  "hentry",
+  "video_category-3d-skanery-ru",
+  "video_tag-3d-skanery-am-tech",
+  "video_tag-demonstracii-oborudovanija",
+  "video_tag-industrija-additivnyh-tehnologij",
+  "video_tag-metrologija"
+ ],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>3D-сканер AM.TECH KSCAN E | AM.TECH</title>\n<meta name=\"description\" content=\"Смотрите видеообзор 3D-сканера AM.TECH KSCAN E! Детальная демонстрация работы, оценка точности и скорости сканирования. Узнайте возможности прибора на практике.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/video-reviews/3d-skaner-am-tech-kscan-e/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"3D-сканер AM.TECH KSCAN E | AM.TECH\" />\n<meta property=\"og:description\" content=\"Смотрите видеообзор 3D-сканера AM.TECH KSCAN E! Детальная демонстрация работы, оценка точности и скорости сканирования. Узнайте возможности прибора на практике.\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/video-reviews/3d-skaner-am-tech-kscan-e/\" />\n<meta property=\"og:site_name\" content=\"AM.TECH\" />\n<meta property=\"article:modified_time\" content=\"2026-07-02T07:45:39+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2025/10/kscan-x.png\" />\n\t<meta property=\"og:image:width\" content=\"1919\" />\n\t<meta property=\"og:image:height\" content=\"1003\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"1 минута\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/video-reviews/3d-skaner-am-tech-kscan-e/\",\"url\":\"https://am-tech.ru/video-reviews/3d-skaner-am-tech-kscan-e/\",\"name\":\"3D-сканер AM.TECH KSCAN E | AM.TECH\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/video-reviews/3d-skaner-am-tech-kscan-e/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/video-reviews/3d-skaner-am-tech-kscan-e/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2025/10/kscan-x.png\",\"datePublished\":\"2025-10-27T10:22:52+00:00\",\"dateModified\":\"2026-07-02T07:45:39+00:00\",\"description\":\"Смотрите видеообзор 3D-сканера AM.TECH KSCAN E! Детальная демонстрация работы, оценка точности и скорости сканирования. Узнайте возможности прибора на практике.\",\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/video-reviews/3d-skaner-am-tech-kscan-e/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/video-reviews/3d-skaner-am-tech-kscan-e/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2025/10/kscan-x.png\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2025/10/kscan-x.png\",\"width\":1919,\"height\":1003},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"AM.TECH\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"AM.TECH\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"AM.TECH\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "3D-сканер AM.TECH KSCAN E | AM.TECH",
+  "description": "Смотрите видеообзор 3D-сканера AM.TECH KSCAN E! Детальная демонстрация работы, оценка точности и скорости сканирования. Узнайте возможности прибора на практике.",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/video-reviews/3d-skaner-am-tech-kscan-e/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "3D-сканер AM.TECH KSCAN E | AM.TECH",
+  "og_description": "Смотрите видеообзор 3D-сканера AM.TECH KSCAN E! Детальная демонстрация работы, оценка точности и скорости сканирования. Узнайте возможности прибора на практике.",
+  "og_url": "https://am-tech.ru/video-reviews/3d-skaner-am-tech-kscan-e/",
+  "og_site_name": "AM.TECH",
+  "article_modified_time": "2026-07-02T07:45:39+00:00",
+  "og_image": [
+   {
+    "width": 1919,
+    "height": 1003,
+    "url": "https://am-tech.ru/wp-content/uploads/2025/10/kscan-x.png",
+    "type": "image/png"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "1 минута"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/video-reviews/3d-skaner-am-tech-kscan-e/",
+     "url": "https://am-tech.ru/video-reviews/3d-skaner-am-tech-kscan-e/",
+     "name": "3D-сканер AM.TECH KSCAN E | AM.TECH",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/video-reviews/3d-skaner-am-tech-kscan-e/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/video-reviews/3d-skaner-am-tech-kscan-e/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2025/10/kscan-x.png",
+     "datePublished": "2025-10-27T10:22:52+00:00",
+     "dateModified": "2026-07-02T07:45:39+00:00",
+     "description": "Смотрите видеообзор 3D-сканера AM.TECH KSCAN E! Детальная демонстрация работы, оценка точности и скорости сканирования. Узнайте возможности прибора на практике.",
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/video-reviews/3d-skaner-am-tech-kscan-e/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/video-reviews/3d-skaner-am-tech-kscan-e/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2025/10/kscan-x.png",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2025/10/kscan-x.png",
+     "width": 1919,
+     "height": 1003
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "AM.TECH",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "AM.TECH",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "AM.TECH"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3277",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/types/video_reviews"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/users/5"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/comments?post=3277"
+   }
+  ],
+  "wp:featuredmedia": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/media/3279"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/media?parent=3277"
+   }
+  ],
+  "wp:term": [
+   {
+    "taxonomy": "video_category",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_category?post=3277"
+   },
+   {
+    "taxonomy": "video_tag",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_tag?post=3277"
+   }
+  ],
+  "wp:action-publish": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3277"
+   }
+  ],
+  "wp:action-unfiltered-html": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3277"
+   }
+  ],
+  "wp:action-assign-author": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3277"
+   }
+  ],
+  "wp:action-create-video_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3277"
+   }
+  ],
+  "wp:action-assign-video_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3277"
+   }
+  ],
+  "wp:action-create-video_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3277"
+   }
+  ],
+  "wp:action-assign-video_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/video_reviews/3277"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

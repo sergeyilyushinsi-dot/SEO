@@ -1,0 +1,123 @@
+/* --- Страница статьи и кейса (single-news.php / single-cases.php) --- */
+/* Вариант «б»: шрифт сайта Montserrat, заголовки легче, чем в ленте блога (как в макете). */
+#amt-blog.amt-single .amt-title--section{font-weight:600;letter-spacing:-.02em}
+#amt-blog .amt-shero{padding:56px 0 48px}
+/* Крошки: тонкие, серые, со стрелками вместо синих черточек темы */
+#amt-blog .amt-crumbs{margin-bottom:34px;font-size:13px;font-weight:400;line-height:1.5;color:rgba(23,23,23,.45);text-transform:none;letter-spacing:0}
+#amt-blog .amt-crumbs a{color:inherit;transition:color .2s}
+#amt-blog .amt-crumbs a:hover{color:var(--amt-orange)}
+#amt-blog .amt-crumbs svg{display:none}
+#amt-blog .amt-crumbs span > span ~ span::before{content:"→";display:inline-block;margin:0 10px;font-size:14px}
+#amt-blog .amt-crumbs .breadcrumb_last,#amt-blog .amt-crumbs *{color:inherit!important;font-weight:400!important;text-transform:none!important;letter-spacing:0!important;font-size:13px}
+#amt-blog .amt-shero__grid{max-width:1180px}
+#amt-blog .amt-shero .amt-label{display:inline-block;margin-bottom:16px}
+#amt-blog .amt-shero__title{margin:0 0 26px;font-size:clamp(34px,4.6vw,72px);line-height:1.04;font-weight:500;letter-spacing:-.035em;color:var(--amt-ink);max-width:1180px}
+#amt-blog .amt-shero__lead{margin:0 0 30px;max-width:900px;font-size:clamp(17px,1.5vw,22px);line-height:1.5;color:#343432}
+#amt-blog .amt-shero__meta{display:flex;flex-wrap:wrap;gap:14px 34px;align-items:center}
+#amt-blog .amt-author{display:flex;gap:12px;align-items:center}
+#amt-blog .amt-author img{width:48px;height:48px;border-radius:50%;object-fit:cover}
+#amt-blog .amt-author b{display:block;font-size:14px;font-weight:600}
+#amt-blog .amt-author span{display:block;font-size:12px;color:var(--amt-muted)}
+#amt-blog .amt-shero__dates{display:flex;flex-wrap:wrap;gap:8px 18px;font-size:13px;color:var(--amt-muted)}
+
+#amt-blog .amt-facts{margin-top:42px;display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:0;border:1px solid var(--amt-line);border-radius:var(--amt-radius-md);background:#fff;overflow:hidden}
+#amt-blog .amt-fact{padding:18px 20px;border-right:1px solid var(--amt-line);border-bottom:1px solid var(--amt-line);margin:0 -1px -1px 0}
+#amt-blog .amt-fact span{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:var(--amt-muted);margin-bottom:6px}
+#amt-blog .amt-fact b{display:block;font-size:15px;font-weight:600;line-height:1.35;color:var(--amt-ink)}
+#amt-blog .amt-fact a{color:var(--amt-orange)}
+
+#amt-blog .amt-sbody{padding-top:56px}
+#amt-blog .amt-sbody__grid{display:grid;grid-template-columns:minmax(0,1fr) 340px;gap:64px;align-items:stretch}
+#amt-blog.amt-single--wide .amt-sbody__grid{grid-template-columns:minmax(0,1fr)}
+#amt-blog.amt-single--wide .amt-sidebar{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:24px;align-items:start}
+#amt-blog.amt-single--wide .amt-sticky{position:static}
+
+/* Типографика текста. :where() — нулевая специфичность, чтобы не ломать статьи со своей вёрсткой. */
+#amt-blog .amt-prose{max-width:780px;font-size:17px;line-height:1.7;color:#2b2b2b;min-width:0}
+#amt-blog.amt-single--wide .amt-prose{max-width:none}
+#amt-blog .amt-prose :where(p){margin:0 0 1.1em}
+#amt-blog .amt-prose :where(p:empty){display:none}
+#amt-blog .amt-prose :where(h2){margin:1.9em 0 .6em;font-size:clamp(24px,2.2vw,30px);line-height:1.2;font-weight:600;letter-spacing:-.015em;color:var(--amt-ink);scroll-margin-top:110px}
+#amt-blog .amt-prose :where(h3){margin:1.5em 0 .5em;font-size:21px;line-height:1.3;font-weight:600;color:var(--amt-ink)}
+#amt-blog .amt-prose :where(h4){margin:1.3em 0 .4em;font-size:18px;font-weight:600}
+#amt-blog .amt-prose :where(ul,ol){margin:0 0 1.2em;padding-left:1.3em}
+#amt-blog .amt-prose :where(li){margin-bottom:.4em}
+#amt-blog .amt-prose :where(li)::marker{color:var(--amt-orange)}
+#amt-blog .amt-prose :where(a){color:var(--amt-orange);text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:3px}
+#amt-blog .amt-prose :where(img){max-width:100%;height:auto;border-radius:var(--amt-radius-md)}
+#amt-blog .amt-prose :where(figure){margin:1.6em 0}
+#amt-blog .amt-prose :where(figcaption){font-size:13px;color:var(--amt-muted);margin-top:8px}
+#amt-blog .amt-prose :where(blockquote){margin:1.6em 0;padding:18px 24px;border-left:3px solid var(--amt-orange);background:var(--amt-orange-soft);border-radius:0 var(--amt-radius-md) var(--amt-radius-md) 0}
+#amt-blog .amt-prose :where(table){width:100%;border-collapse:collapse;font-size:15px;margin:0 0 1.4em}
+#amt-blog .amt-prose :where(th,td){padding:10px 12px;border-bottom:1px solid var(--amt-line);text-align:left;vertical-align:top}
+#amt-blog .amt-prose :where(th){background:var(--amt-surface);font-weight:600}
+#amt-blog .amt-prose :where(iframe,video){max-width:100%;border-radius:var(--amt-radius-md)}
+#amt-blog .amt-prose :where(.boldgrid-section .container,.container){width:auto;max-width:none;padding-left:0;padding-right:0}
+#amt-blog .amt-prose :where(.row){margin-left:0;margin-right:0}
+
+#amt-blog .amt-toc--mobile{display:none}
+#amt-blog .amt-toc ol{margin:0;padding:0;list-style:none;counter-reset:toc}
+#amt-blog .amt-toc li{counter-increment:toc;margin:0;border-top:1px solid var(--amt-line)}
+#amt-blog .amt-toc li a{display:flex;gap:10px;padding:9px 0;font-size:13.5px;line-height:1.4;color:var(--amt-text);text-decoration:none}
+#amt-blog .amt-toc li a::before{content:counter(toc,decimal-leading-zero);color:var(--amt-orange);font-weight:600;font-size:12px;padding-top:1px}
+#amt-blog .amt-toc li a:hover,#amt-blog .amt-toc li a.is-active{color:var(--amt-ink)}
+#amt-blog .amt-toc li a.is-active{font-weight:600}
+
+#amt-blog .amt-inline-cta{margin-top:2.4em;padding:24px 26px;display:flex;gap:20px;align-items:center;justify-content:space-between;flex-wrap:wrap;border:1px solid var(--amt-line);border-radius:var(--amt-radius-lg);background:var(--amt-surface);font-size:15px;line-height:1.5}
+#amt-blog .amt-inline-cta b{display:block;font-size:18px;margin-bottom:4px;color:var(--amt-ink)}
+#amt-blog .amt-inline-cta span{color:var(--amt-text)}
+#amt-blog .amt-inline-cta .amt-button{text-decoration:none;color:#fff}
+
+#amt-blog .amt-sidebar{display:flex;flex-direction:column;gap:24px;min-width:0}
+#amt-blog .amt-sblock{padding:22px;border:1px solid var(--amt-line);border-radius:var(--amt-radius-lg);background:#fff}
+#amt-blog .amt-sblock .amt-eyebrow{margin-bottom:14px}
+#amt-blog .amt-sticky{position:sticky;top:110px;display:flex;flex-direction:column;gap:24px}
+#amt-blog .amt-product{display:grid;grid-template-columns:84px 1fr;gap:4px 14px;align-items:center;padding:10px 0;border-top:1px solid var(--amt-line)}
+#amt-blog .amt-product:first-of-type{border-top:0}
+#amt-blog .amt-product__img{grid-row:span 2;width:84px;height:84px;border-radius:14px;background:var(--amt-surface);display:flex;align-items:center;justify-content:center;overflow:hidden}
+#amt-blog .amt-product__img img{max-width:90%;max-height:90%;width:auto;height:auto;object-fit:contain}
+#amt-blog .amt-product__title{font-size:14px;font-weight:600;line-height:1.35;color:var(--amt-ink)}
+#amt-blog .amt-product__more{font-size:12px;color:var(--amt-orange)}
+#amt-blog .amt-product:hover .amt-product__title{color:var(--amt-orange)}
+#amt-blog .amt-ask p{margin:0 0 12px;font-size:14px;color:var(--amt-text)}
+#amt-blog .amt-ask__phone{display:block;margin-bottom:14px;font-size:18px;font-weight:600}
+#amt-blog .amt-ask .amt-button{width:100%;justify-content:center}
+/* «Популярное» выводит функция темы random_news() со своими стилями — подгоняем рамку и заголовок */
+#amt-blog .amt-popular .vp-sidebar-block{margin:0;padding:0;border:0}
+#amt-blog .amt-popular .vp-sidebar-title{margin:0 0 14px!important;font-size:12px;text-transform:uppercase;letter-spacing:.08em;font-weight:700;color:var(--amt-ink)}
+
+#amt-blog .amt-sform{border-top:1px solid var(--amt-line)}
+#amt-blog .amt-sform .amt-lead a{color:var(--amt-orange)}
+
+/* Форма Bitrix24 (стили перенесены из старого single-news.php) */
+.custom-contactblock hr.contact_hr,.custom-contactblock hr.contact_hr~*{display:none}
+.custom-contactblock .b24-form-field-company-name{display:none}
+.custom-contactblock .b24-form-field.b24-form-field-email.b24-form-control-string{display:none}
+.custom-contactblock label.b24-form-control-container{display:flex;align-items:flex-start;justify-content:flex-start;gap:10px}
+.custom-contactblock .b24-form-control-agreement input{height:auto!important}
+.custom-contactblock .b24-form-control-agreement .b24-form-control-required{display:none}
+.custom-contactblock .b24-form-header-padding{display:none}
+.custom-contactblock .b24-form-sign{display:none}
+.custom-contactblock .b24-form-content.b24-form-padding-side{border:none!important}
+.custom-contactblock .b24-form-wrapper.b24-form-border-bottom{border:none}
+@media screen and (min-width:1024px){.b24-form-content.b24-form-padding-side>form>div{justify-content:space-between}}
+
+@media(max-width:1100px){
+  #amt-blog .amt-sbody__grid{grid-template-columns:minmax(0,1fr)}
+  #amt-blog .amt-sticky{position:static}
+  #amt-blog .amt-sidebar{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));align-items:start}
+  #amt-blog .amt-sidebar .amt-toc:not(.amt-toc--mobile){display:none}
+  #amt-blog .amt-toc--mobile{display:block;margin-bottom:28px;padding:16px 20px;border:1px solid var(--amt-line);border-radius:var(--amt-radius-md);background:var(--amt-surface)}
+  #amt-blog .amt-toc--mobile summary{cursor:pointer;font-weight:600;font-size:15px}
+  #amt-blog .amt-toc--mobile ol{margin-top:12px}
+}
+@media(max-width:760px){
+  #amt-blog .amt-shero{padding:36px 0 32px}
+  #amt-blog .amt-prose{font-size:16px}
+  #amt-blog .amt-sidebar{grid-template-columns:1fr}
+  #amt-blog .amt-facts{grid-template-columns:1fr 1fr}
+  #amt-blog .amt-fact{padding:14px 14px}
+  #amt-blog .amt-inline-cta .amt-button{width:100%;justify-content:center}
+}
+/* Шапка сайта фиксированная: отступ сверху как в блоге (у видеообзоров тема его обнуляет) */
+body.single-news,body.single-cases,body.single-video_reviews{padding-top:12vh!important}

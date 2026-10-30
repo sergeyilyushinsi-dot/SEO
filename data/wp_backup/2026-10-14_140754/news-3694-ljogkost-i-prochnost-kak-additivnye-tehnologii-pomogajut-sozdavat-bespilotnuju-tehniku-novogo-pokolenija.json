@@ -1,0 +1,277 @@
+{
+ "id": 3694,
+ "date": "2026-01-19T12:20:00",
+ "date_gmt": "2026-01-19T09:20:00",
+ "guid": {
+  "rendered": "https://am-tech.ru/?post_type=news&#038;p=3694",
+  "raw": "https://am-tech.ru/?post_type=news&#038;p=3694"
+ },
+ "modified": "2026-07-02T10:42:00",
+ "modified_gmt": "2026-07-02T07:42:00",
+ "password": "",
+ "slug": "ljogkost-i-prochnost-kak-additivnye-tehnologii-pomogajut-sozdavat-bespilotnuju-tehniku-novogo-pokolenija",
+ "status": "publish",
+ "type": "news",
+ "link": "https://am-tech.ru/news/ljogkost-i-prochnost-kak-additivnye-tehnologii-pomogajut-sozdavat-bespilotnuju-tehniku-novogo-pokolenija/",
+ "title": {
+  "raw": "Лёгкость и прочность: как аддитивные технологии помогают создавать беспилотную технику нового поколения",
+  "rendered": "Лёгкость и прочность: как аддитивные технологии помогают создавать беспилотную технику нового поколения"
+ },
+ "content": {
+  "raw": "<div class=\"boldgrid-section\">\n<div class=\"container\">\n<div class=\"row\">\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\n<p class=\"\"><span style=\"font-weight: 400\">В машиностроении выбор технологии производства часто становится ключом к решению инженерной задачи. Особенно остро этот вопрос стоит при создании робототехники и беспилотных систем, где на первый план выходят два критических параметра: минимальный вес для увеличения автономности и максимальная прочность для надежности. Традиционные методы изготовления, такие как сварка или механическая обработка, часто не позволяют достичь оптимального баланса, добавляя лишнюю массу и создавая уязвимые места в конструкции.</span></p>\n<p class=\"\"><span style=\"font-weight: 400\">Яркий пример решения этой проблемы — разработка инженеров МГТУ им. Н.Э. Баумана, которые создали беспилотный электроквадроцикл для автономного патрулирования территорий. Одной из главных инноваций в проекте стала его рама. Для достижения идеального соотношения массы и прочности команда отказалась от традиционной сварной конструкции в пользу бионического дизайна — геометрии, вдохновлённой природными структурами, которые эффективно распределяют нагрузки. На видео ниже показан процесс разработки и изготовления данной конструкции. </span></p>\n[video width=\"720\" height=\"1280\" mp4=\"https://am-tech.ru/wp-content/uploads/2026/01/video_2026-01-16_12-19-26.mp4\"][/video]\n\n<span style=\"font-weight: 400\">Результат оказался впечатляющим:</span>\n<ul class=\"\">\n \t<li style=\"font-weight: 400\"><span style=\"font-weight: 400\">Вес рамы удалось снизить в 2 раза по сравнению с классическим трубчатым каркасом.</span></li>\n \t<li style=\"font-weight: 400\"><span style=\"font-weight: 400\">При этом прочность конструкции возросла в 1,7 раза.</span></li>\n</ul>\n<span style=\"font-weight: 400\">Такой скачок в характеристиках стал возможен благодаря отказу от сварки и переходу к монолитному исполнению. Но как изготовить столь сложную деталь?</span>\n<h2><span style=\"font-weight: 400\">На пути к идеальной детали: гибкость аддитивных технологий</span></h2>\n<p class=\"\"><span style=\"font-weight: 400\">Команда Бауманки выбрала проверенный метод для единичного производства — литьё по точным формам. Вместо того чтобы фрезеровать или собирать оснастку неделями, они напечатали её на 3D-принтере по технологии Binder Jetting. Литейная форма для рамы состояла из 516 песчаных элементов. Специалисты из “Литмашдетали” собирали этот сложный трёхмерный «пазл» 14 часов, после чего форма была залита алюминиевым сплавом.</span></p>\n<p class=\"\"><span style=\"font-weight: 400\">Итог — цельная, бесшовная рама. Отсутствие сварных швов, болтов и заклёпок — потенциальных очагов напряжения и усталости металла — и стало секретом её исключительной надёжности и лёгкости.</span></p>\n\n<h2><span style=\"font-weight: 400\">Альтернативный путь: от прототипа к серии</span></h2>\n<p class=\"\"><span style=\"font-weight: 400\"><a href=\"https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/\">Прямое литьё по 3D-печатным формам</a> — идеально для изготовления первого образца или небольшой партии. Однако если стоит задача быстрого прототипирования или запуска мелкосерийного производства, на помощь приходит прямая 3D-печать металлом.</span></p>\n<p class=\"\"><span style=\"font-weight: 400\">Такую раму можно было бы «вырастить» целиком на промышленном 3D-принтере, например, на принтере </span><span style=\"font-weight: 400\">по технологии селективного лазерного сплавления (SLM). Этот метод позволяет создавать готовые детали со сложной внутренней структурой за считанные часы, полностью минуя этап изготовления литейной оснастки.</span></p>\n<span style=\"font-weight: 400\">Таким образом, современный инженер получает мощный инструментарий:</span>\n<ul class=\"\">\n \t<li style=\"font-weight: 400\"><span style=\"font-weight: 400\"><a href=\"https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/\">Прямая печать металлом (SLM)</a> — для оперативной проверки концепции и выпуска функциональных прототипов или мелких серий.</span></li>\n \t<li style=\"font-weight: 400\"><span style=\"font-weight: 400\">Литьё по 3D-печатным формам — для рентабельного производства крупногабаритных или штучных деталей.</span></li>\n</ul>\n<p class=\"\"><span style=\"font-weight: 400\">Ключевое преимущество аддитивных технологий — свобода проектирования. Они позволяют создавать изделия, которые раньше было невозможно изготовить, выводя на первый план не ограничения производства, а инженерные требования к прочности, весу и функциональности.</span></p>\n<span style=\"font-weight: 400\">Наша компания AM.TECH готова помочь в реализации подобных проектов — от консультации по выбору технологии до полного цикла изготовления. Если у вас есть задача, где требуется сочетание лёгкости, прочности и сложной геометрии — обращайтесь к нашим специалистам.</span>\n<p class=\"\"><span style=\"font-weight: 400\">Контакты для связи:</span></p>\n<span style=\"font-weight: 400\">AM.TECH | am-tech.ru | </span><a href=\"mailto:sales@am-tech.ru\"><span style=\"font-weight: 400\">sales@am-tech.ru</span></a> <span style=\"font-weight: 400\">| +7 (495) 109 11 91</span>\n\n</div>\n</div>\n</div>\n</div>",
+  "rendered": "<div class=\"boldgrid-section\">\n<div class=\"container\">\n<div class=\"row\">\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\n<p class=\"\"><span style=\"font-weight: 400\">В машиностроении выбор технологии производства часто становится ключом к решению инженерной задачи. Особенно остро этот вопрос стоит при создании робототехники и беспилотных систем, где на первый план выходят два критических параметра: минимальный вес для увеличения автономности и максимальная прочность для надежности. Традиционные методы изготовления, такие как сварка или механическая обработка, часто не позволяют достичь оптимального баланса, добавляя лишнюю массу и создавая уязвимые места в конструкции.</span></p>\n<p class=\"\"><span style=\"font-weight: 400\">Яркий пример решения этой проблемы — разработка инженеров МГТУ им. Н.Э. Баумана, которые создали беспилотный электроквадроцикл для автономного патрулирования территорий. Одной из главных инноваций в проекте стала его рама. Для достижения идеального соотношения массы и прочности команда отказалась от традиционной сварной конструкции в пользу бионического дизайна — геометрии, вдохновлённой природными структурами, которые эффективно распределяют нагрузки. На видео ниже показан процесс разработки и изготовления данной конструкции. </span></p>\n<div style=\"width: 720px;\" class=\"wp-video\"><video class=\"wp-video-shortcode\" id=\"video-3694-1\" width=\"720\" height=\"1280\" preload=\"metadata\" controls=\"controls\"><source type=\"video/mp4\" src=\"https://am-tech.ru/wp-content/uploads/2026/01/video_2026-01-16_12-19-26.mp4?_=1\" /><a href=\"https://am-tech.ru/wp-content/uploads/2026/01/video_2026-01-16_12-19-26.mp4\">https://am-tech.ru/wp-content/uploads/2026/01/video_2026-01-16_12-19-26.mp4</a></video></div>\n<p><span style=\"font-weight: 400\">Результат оказался впечатляющим:</span></p>\n<ul class=\"\">\n<li style=\"font-weight: 400\"><span style=\"font-weight: 400\">Вес рамы удалось снизить в 2 раза по сравнению с классическим трубчатым каркасом.</span></li>\n<li style=\"font-weight: 400\"><span style=\"font-weight: 400\">При этом прочность конструкции возросла в 1,7 раза.</span></li>\n</ul>\n<p><span style=\"font-weight: 400\">Такой скачок в характеристиках стал возможен благодаря отказу от сварки и переходу к монолитному исполнению. Но как изготовить столь сложную деталь?</span></p>\n<h2><span style=\"font-weight: 400\">На пути к идеальной детали: гибкость аддитивных технологий</span></h2>\n<p class=\"\"><span style=\"font-weight: 400\">Команда Бауманки выбрала проверенный метод для единичного производства — литьё по точным формам. Вместо того чтобы фрезеровать или собирать оснастку неделями, они напечатали её на 3D-принтере по технологии Binder Jetting. Литейная форма для рамы состояла из 516 песчаных элементов. Специалисты из “Литмашдетали” собирали этот сложный трёхмерный «пазл» 14 часов, после чего форма была залита алюминиевым сплавом.</span></p>\n<p class=\"\"><span style=\"font-weight: 400\">Итог — цельная, бесшовная рама. Отсутствие сварных швов, болтов и заклёпок — потенциальных очагов напряжения и усталости металла — и стало секретом её исключительной надёжности и лёгкости.</span></p>\n<h2><span style=\"font-weight: 400\">Альтернативный путь: от прототипа к серии</span></h2>\n<p class=\"\"><span style=\"font-weight: 400\"><a href=\"https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/\">Прямое литьё по 3D-печатным формам</a> — идеально для изготовления первого образца или небольшой партии. Однако если стоит задача быстрого прототипирования или запуска мелкосерийного производства, на помощь приходит прямая 3D-печать металлом.</span></p>\n<p class=\"\"><span style=\"font-weight: 400\">Такую раму можно было бы «вырастить» целиком на промышленном 3D-принтере, например, на принтере </span><span style=\"font-weight: 400\">по технологии селективного лазерного сплавления (SLM). Этот метод позволяет создавать готовые детали со сложной внутренней структурой за считанные часы, полностью минуя этап изготовления литейной оснастки.</span></p>\n<p><span style=\"font-weight: 400\">Таким образом, современный инженер получает мощный инструментарий:</span></p>\n<ul class=\"\">\n<li style=\"font-weight: 400\"><span style=\"font-weight: 400\"><a href=\"https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/\">Прямая печать металлом (SLM)</a> — для оперативной проверки концепции и выпуска функциональных прототипов или мелких серий.</span></li>\n<li style=\"font-weight: 400\"><span style=\"font-weight: 400\">Литьё по 3D-печатным формам — для рентабельного производства крупногабаритных или штучных деталей.</span></li>\n</ul>\n<p class=\"\"><span style=\"font-weight: 400\">Ключевое преимущество аддитивных технологий — свобода проектирования. Они позволяют создавать изделия, которые раньше было невозможно изготовить, выводя на первый план не ограничения производства, а инженерные требования к прочности, весу и функциональности.</span></p>\n<p><span style=\"font-weight: 400\">Наша компания AM.TECH готова помочь в реализации подобных проектов — от консультации по выбору технологии до полного цикла изготовления. Если у вас есть задача, где требуется сочетание лёгкости, прочности и сложной геометрии — обращайтесь к нашим специалистам.</span></p>\n<p class=\"\"><span style=\"font-weight: 400\">Контакты для связи:</span></p>\n<p><span style=\"font-weight: 400\">AM.TECH | am-tech.ru | </span><a href=\"mailto:sales@am-tech.ru\"><span style=\"font-weight: 400\">sales@am-tech.ru</span></a> <span style=\"font-weight: 400\">| +7 (495) 109 11 91</span></p>\n</div>\n</div>\n</div>\n</div>\n",
+  "protected": false,
+  "block_version": 0
+ },
+ "excerpt": {
+  "raw": "",
+  "rendered": "<p>В машиностроении выбор технологии производства часто становится ключом к решению инженерной задачи. Особенно остро этот вопрос стоит при создании робототехники и беспилотных систем, где на первый план выходят два критических параметра: минимальный вес для увеличения автономности и максимальная прочность для надежности. Традиционные методы изготовления, такие как сварка или механическая обработка, часто не позволяют достичь оптимального [&hellip;]</p>\n",
+  "protected": false
+ },
+ "author": 5,
+ "featured_media": 3696,
+ "comment_status": "open",
+ "ping_status": "closed",
+ "template": "",
+ "meta": {
+  "_acf_changed": false,
+  "_yoast_wpseo_title": "",
+  "_yoast_wpseo_metadesc": "Лёгкость и прочность БПЛА: как аддитивные технологии и 3D-печать меняют производство беспилотной техники нового поколения. Читайте подробности в нашей статье.",
+  "_yoast_wpseo_meta-robots-noindex": ""
+ },
+ "news_category": [
+  1107
+ ],
+ "news_tag": [],
+ "permalink_template": "https://am-tech.ru/news/%pagename%/",
+ "generated_slug": "ljogkost-i-prochnost-kak-additivnye-tehnologii-pomogajut-sozdavat-bespilotnuju-tehniku-novogo-pokolenija",
+ "class_list": [
+  "post-3694",
+  "news",
+  "type-news",
+  "status-publish",
+  "has-post-thumbnail",
+  "hentry",
+  "news_category-3d-pechat-metallami"
+ ],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Лёгкость и прочность: как аддитивные технологии помогают создавать беспилотную технику нового поколения - am-tech.ru</title>\n<meta name=\"description\" content=\"Лёгкость и прочность БПЛА: как аддитивные технологии и 3D-печать меняют производство беспилотной техники нового поколения. Читайте подробности в нашей статье.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/news/ljogkost-i-prochnost-kak-additivnye-tehnologii-pomogajut-sozdavat-bespilotnuju-tehniku-novogo-pokolenija/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Лёгкость и прочность: как аддитивные технологии помогают создавать беспилотную технику нового поколения - am-tech.ru\" />\n<meta property=\"og:description\" content=\"Лёгкость и прочность БПЛА: как аддитивные технологии и 3D-печать меняют производство беспилотной техники нового поколения. Читайте подробности в нашей статье.\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/news/ljogkost-i-prochnost-kak-additivnye-tehnologii-pomogajut-sozdavat-bespilotnuju-tehniku-novogo-pokolenija/\" />\n<meta property=\"og:site_name\" content=\"am-tech.ru\" />\n<meta property=\"article:modified_time\" content=\"2026-07-02T07:42:00+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2026/01/6798dc578e23c.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1219\" />\n\t<meta property=\"og:image:height\" content=\"850\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"3 минуты\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/news/ljogkost-i-prochnost-kak-additivnye-tehnologii-pomogajut-sozdavat-bespilotnuju-tehniku-novogo-pokolenija/\",\"url\":\"https://am-tech.ru/news/ljogkost-i-prochnost-kak-additivnye-tehnologii-pomogajut-sozdavat-bespilotnuju-tehniku-novogo-pokolenija/\",\"name\":\"Лёгкость и прочность: как аддитивные технологии помогают создавать беспилотную технику нового поколения - am-tech.ru\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/news/ljogkost-i-prochnost-kak-additivnye-tehnologii-pomogajut-sozdavat-bespilotnuju-tehniku-novogo-pokolenija/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/news/ljogkost-i-prochnost-kak-additivnye-tehnologii-pomogajut-sozdavat-bespilotnuju-tehniku-novogo-pokolenija/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2026/01/6798dc578e23c.jpg\",\"datePublished\":\"2026-01-19T09:20:00+00:00\",\"dateModified\":\"2026-07-02T07:42:00+00:00\",\"description\":\"Лёгкость и прочность БПЛА: как аддитивные технологии и 3D-печать меняют производство беспилотной техники нового поколения. Читайте подробности в нашей статье.\",\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/news/ljogkost-i-prochnost-kak-additivnye-tehnologii-pomogajut-sozdavat-bespilotnuju-tehniku-novogo-pokolenija/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/news/ljogkost-i-prochnost-kak-additivnye-tehnologii-pomogajut-sozdavat-bespilotnuju-tehniku-novogo-pokolenija/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2026/01/6798dc578e23c.jpg\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2026/01/6798dc578e23c.jpg\",\"width\":1219,\"height\":850},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"am-tech.ru\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"am-tech.ru\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"am-tech.ru\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "Лёгкость и прочность: как аддитивные технологии помогают создавать беспилотную технику нового поколения - am-tech.ru",
+  "description": "Лёгкость и прочность БПЛА: как аддитивные технологии и 3D-печать меняют производство беспилотной техники нового поколения. Читайте подробности в нашей статье.",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/news/ljogkost-i-prochnost-kak-additivnye-tehnologii-pomogajut-sozdavat-bespilotnuju-tehniku-novogo-pokolenija/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "Лёгкость и прочность: как аддитивные технологии помогают создавать беспилотную технику нового поколения - am-tech.ru",
+  "og_description": "Лёгкость и прочность БПЛА: как аддитивные технологии и 3D-печать меняют производство беспилотной техники нового поколения. Читайте подробности в нашей статье.",
+  "og_url": "https://am-tech.ru/news/ljogkost-i-prochnost-kak-additivnye-tehnologii-pomogajut-sozdavat-bespilotnuju-tehniku-novogo-pokolenija/",
+  "og_site_name": "am-tech.ru",
+  "article_modified_time": "2026-07-02T07:42:00+00:00",
+  "og_image": [
+   {
+    "width": 1219,
+    "height": 850,
+    "url": "https://am-tech.ru/wp-content/uploads/2026/01/6798dc578e23c.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "3 минуты"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/news/ljogkost-i-prochnost-kak-additivnye-tehnologii-pomogajut-sozdavat-bespilotnuju-tehniku-novogo-pokolenija/",
+     "url": "https://am-tech.ru/news/ljogkost-i-prochnost-kak-additivnye-tehnologii-pomogajut-sozdavat-bespilotnuju-tehniku-novogo-pokolenija/",
+     "name": "Лёгкость и прочность: как аддитивные технологии помогают создавать беспилотную технику нового поколения - am-tech.ru",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/news/ljogkost-i-prochnost-kak-additivnye-tehnologii-pomogajut-sozdavat-bespilotnuju-tehniku-novogo-pokolenija/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/news/ljogkost-i-prochnost-kak-additivnye-tehnologii-pomogajut-sozdavat-bespilotnuju-tehniku-novogo-pokolenija/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2026/01/6798dc578e23c.jpg",
+     "datePublished": "2026-01-19T09:20:00+00:00",
+     "dateModified": "2026-07-02T07:42:00+00:00",
+     "description": "Лёгкость и прочность БПЛА: как аддитивные технологии и 3D-печать меняют производство беспилотной техники нового поколения. Читайте подробности в нашей статье.",
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/news/ljogkost-i-prochnost-kak-additivnye-tehnologii-pomogajut-sozdavat-bespilotnuju-tehniku-novogo-pokolenija/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/news/ljogkost-i-prochnost-kak-additivnye-tehnologii-pomogajut-sozdavat-bespilotnuju-tehniku-novogo-pokolenija/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2026/01/6798dc578e23c.jpg",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2026/01/6798dc578e23c.jpg",
+     "width": 1219,
+     "height": 850
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "am-tech.ru",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "am-tech.ru",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "am-tech.ru"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3694",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/types/news"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/users/5"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/comments?post=3694"
+   }
+  ],
+  "wp:featuredmedia": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/media/3696"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/media?parent=3694"
+   }
+  ],
+  "wp:term": [
+   {
+    "taxonomy": "news_category",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_category?post=3694"
+   },
+   {
+    "taxonomy": "news_tag",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/news_tag?post=3694"
+   }
+  ],
+  "wp:action-publish": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3694"
+   }
+  ],
+  "wp:action-unfiltered-html": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3694"
+   }
+  ],
+  "wp:action-assign-author": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3694"
+   }
+  ],
+  "wp:action-create-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3694"
+   }
+  ],
+  "wp:action-assign-news_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3694"
+   }
+  ],
+  "wp:action-create-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3694"
+   }
+  ],
+  "wp:action-assign-news_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/news/3694"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

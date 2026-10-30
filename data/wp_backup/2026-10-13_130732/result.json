@@ -1,0 +1,44 @@
+[
+ {
+  "row": 1,
+  "slug": "amt-43",
+  "field": "title",
+  "value": "SLM 3D-принтер AMT-43: 3 лазера, область 320×520×370 мм | AM-Tech",
+  "id": 4323,
+  "url": "https://am-tech.ru/product/amt-43/",
+  "before": "SLM 3D - принтеры AMT-45 - заказать у производителя с доставкой по России | AM-Tech",
+  "after": "SLM 3D-принтер AMT-43: 3 лазера, область 320×520×370 мм | AM-Tech",
+  "saved": true,
+  "on_page": true,
+  "on_cached_page": true,
+  "status": "применено"
+ },
+ {
+  "row": 2,
+  "slug": "amt-43",
+  "field": "description",
+  "value": "AMT-43 — промышленный SLM-принтер: 3 лазера по 500 Вт (опция 1000 Вт), область 320×520×370 мм, замкнутый контур порошка. Цена и КП: +7 (495) 109 11 91",
+  "id": 4323,
+  "url": "https://am-tech.ru/product/amt-43/",
+  "before": "Надежный 3D-принтер AMT-45 для промышленной печати. Высокая точность и скорость создания деталей. Заказать демонстрацию и консультацию: +7 (499) 350-50-73.",
+  "after": "AMT-43 — промышленный SLM-принтер: 3 лазера по 500 Вт (опция 1000 Вт), область 320×520×370 мм, замкнутый контур порошка. Цена и КП: +7 (495) 109 11 91",
+  "saved": true,
+  "on_page": true,
+  "on_cached_page": true,
+  "status": "применено"
+ },
+ {
+  "row": 3,
+  "slug": "amt-43",
+  "field": "short_description",
+  "value": "AMT-43 — высокопроизводительный SLM-принтер с тремя лазерами и автоматизированным замкнутым контуром работы с порошком",
+  "id": 4323,
+  "url": "https://am-tech.ru/product/amt-43/",
+  "before": "<p class=\"ds-markdown-paragraph\"><strong><span class=\"\">AMT-45 – высокопроизводительный SLM-принтер с полной автоматизацией процессов</span></strong></p>\n",
+  "after": "<p class=\"ds-markdown-paragraph\"><strong><span class=\"\">AMT-43 — высокопроизводительный SLM-принтер с тремя лазерами и автоматизированным замкнутым контуром работы с порошком</span></strong></p>\n",
+  "saved": true,
+  "on_page": true,
+  "on_cached_page": true,
+  "status": "применено"
+ }
+]

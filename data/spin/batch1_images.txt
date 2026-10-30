@@ -1,0 +1,73 @@
+1094 3D-сканирование стула и создание STEP-модели
+   cases_export2_files/iblock/de0/euhczqz9793fm25510uqnss02dvpcba3.png
+   upload/medialibrary/9bc/l4x8kxmm0ou1wnlt9zo85aca4axkq1ip.png
+   upload/medialibrary/a32/eeoexjybhk34h6sa4g3u207a58iajghu.png
+   upload/medialibrary/5af/wi8o31noo5z08v5lzfzl73a0b2wtypx5.png
+   upload/medialibrary/c51/5ljd8e8zjh0dz3xyor6zzyge6p1b11hx.png
+1063 Реверс-инжиниринг и 3D-печать сломанной пластиковой детали для строительной компании
+   cases_export2_files/iblock/23d/rh0wd03ukuemo8m31oim54xbj7q5014i.jpg
+   cases_export2_files/iblock/9e5/pyhl22kl9s00mylb8e2nvvg5i5rsgc5b.jpg
+   upload/medialibrary/706/617w2xg1rwbm8zmbrver96zne9xlqdrz.jpeg
+   upload/medialibrary/218/x446vug5qj5d2i4w1eo16wd3awoevdvi.jpeg
+   upload/medialibrary/21e/iz4tcrq1ftfjf0o4da8k64b634ri4as1.jpeg
+   upload/medialibrary/d32/qsl2lj07up158ov4415oumf0qb56vge7.jpeg
+   upload/medialibrary/cb6/dzahmyt5553gwtd74kmy2tld5c4br3ir.jpg
+964 3D Сканирование крышки для изменения положения отверстий
+   cases_export2_files/iblock/6c0/3livpbj73bwn1fzogj5fg7fq0ec0va7f.jpg
+   cases_export2_files/iblock/c3f/e16y22z6so7ov19guyqgc94ipc4ypeyw.jpg
+   cases_export2_files/iblock/6d2/waw734br49op260ijk4i5ucj60h0t1c8.jpg
+   cases_export2_files/iblock/e50/y70x8zlhqzt6crxzob1ccgfdps29ki1u.jpg
+   cases_export2_files/iblock/f45/t5micvwyk0qjcz0xe7crd4cfdfo54i6d.jpg
+1095 Реверс-инжиниринг формирующего барабана: из сборного узла в цельную деталь
+   cases_export2_files/iblock/e41/9se03ur5b87kwqpvy5123nopbi02bycr.png
+   upload/medialibrary/b84/ltr9993mw341evftur3v048vm2s17j6z.jpg
+   upload/medialibrary/b88/hpk9upr0gn2olmsz58siy0mgdj2xd2bc.jpg
+   upload/medialibrary/a82/rhuho58j8qf3lg07q6u0mdzkd3u2bv8u.jpg
+   upload/medialibrary/e35/p02fqep40ezr8h2ybt1et7l3wnti3d2p.png
+   upload/medialibrary/afc/u806hqwm47268baf4435hgm3hzk158zd.jpg
+   upload/medialibrary/7db/jqi9at6yo2m5ks6q45v9u9sefwyqnxo8.jpg
+841 Реверс-инжиниринг режущей кромки ковша экскаватора
+   cases_export2_files/iblock/aee/tlr0pnhn2b8cq28caj1yt6yc961mj8x9.jpg
+   cases_export2_files/iblock/d32/mjgx1y68ty2z7b0az7zrh9qlsn7aqtpj.jpg
+   cases_export2_files/iblock/3a3/uslayqi1jepj6zgccgx3tdsaui2rx4al.jpg
+   cases_export2_files/iblock/35f/6s9u2qihk9oil40ujzbusq2vfmecy1or.jpg
+   cases_export2_files/iblock/f40/f93vmiwpn37tvop3imikt72ryql22wob.jpg
+   cases_export2_files/iblock/7c8/ypbnha276pdmb391wtkmlaa30ibodhsj.jpg
+   cases_export2_files/iblock/344/tp4qoa8pgi7jkvxksujyu3hnviob3unq.jpg
+960 3D-сканирование AUDI Q7 для нового обвеса
+   cases_export2_files/iblock/a37/icrk63eh53bh7dfvrk2kq1ajb2gye84a.jpg
+   cases_export2_files/iblock/980/badrvh5ccbnq92ej94hwomrns7ayolpj.jpg
+   cases_export2_files/iblock/2b0/ap1xcbvvujciktnusjadmtu759g4mjvj.jpg
+   cases_export2_files/iblock/f24/67kypcsy21q060sjae3umgzhximzelo9.jpg
+   cases_export2_files/iblock/f5e/wr279jvitf342vkg0bdcmi450i16c4ko.jpg
+805 Реверс-инжиниринг редуктора
+   cases_export2_files/iblock/dba/endks400sit63ck55nswi2y3wz1xep78.jpg
+   cases_export2_files/iblock/8fc/lt6px375chspfpf9ux3iidbf1b42v1gt.jpg
+   cases_export2_files/iblock/a3b/ebyn2bd1s4jwks6dgfodgqq2syaw9lk6.jpg
+   cases_export2_files/iblock/432/9ckexbqxsnv97y340lpkqb5egqdq13ne.jpg
+   cases_export2_files/iblock/2bf/kw31hdzckqalkcet8h30vudbgolbc885.jpg
+   upload/medialibrary/5c5/k9g05dx44u8ozyw2699v1f6qsvbnrwb5.jpg
+910 3D-сканирование ГБЦ (головки блока цилиндра) Ferrari
+   cases_export2_files/iblock/aca/g2yc6wniep31awldzk5kmx5k4dxzd5q1.jpg
+   cases_export2_files/iblock/254/0sdo8x1dl5js3j98ov4d56mcgdwegnsy.jpg
+   cases_export2_files/iblock/d52/zkm4ivasagfy6tcdfwir5gn7dzfgld8t.jpg
+   cases_export2_files/iblock/9f4/h8pqfif3qrw8lr3g6s023p9kebmi6qn4.jpg
+   cases_export2_files/iblock/655/tj9lb5p5twh2jjzui859d1coj9ljba07.jpg
+   cases_export2_files/iblock/a53/long5w4k1xhsuzr727mcsmm79p9u3ds6.jpg
+   cases_export2_files/iblock/963/hr1sfndvptyl0e7d2kzqxempag3s9e6s.jpg
+885 Реверс-инжиниринг кожуха рулевой колонки для Lamborghini Murcielago
+   cases_export2_files/iblock/9b1/03x8wrf2zewgd78m9wpd9k5cil3p689d.png
+   cases_export2_files/iblock/0b1/amtim03oizxktl3dy2qgr8xz6a4eavz5.jpg
+   cases_export2_files/iblock/d16/2ko1s6hcb8yy23g2gx3gns4qg9txl8vh.jpg
+   cases_export2_files/iblock/3fd/n2gj0ywdlx0a5rab9515e4724eb38u3q.jpg
+   cases_export2_files/iblock/145/ssksg6zobk4ratewkxpo38a2zdgyoyxn.jpg
+   cases_export2_files/iblock/14d/397nfan8bn2pfr1rbdzkeku3nia74648.jpg
+   cases_export2_files/iblock/306/k1d1cy0c9irvk84vcassky0xwubnkgs5.jpg
+486 3D-cканирование и 3D-моделирование спутниковой антенны
+   cases_export2_files/iblock/904/rawo4g52silr3yashiatamlhzaaasjgu.jpg
+   cases_export2_files/iblock/ba3/rx9u4u2ep39m8d3j12jy9trmg66qvken.jpg
+   cases_export2_files/iblock/185/c4l437qzjdxcxc09l50a0lohxa2ejaq0.jpg
+   cases_export2_files/iblock/a0c/1ld8zb01nc2p8b5hks5t7e515u5cjsfw.jpg
+   cases_export2_files/iblock/7e2/8revf73q25ulsj6xp584ubp3ry7gw0g2.jpg
+   cases_export2_files/iblock/6c1/7n45q65bo3e9dixto5mcau3nvikzb4hw.jpg
+   cases_export2_files/iblock/115/351fh8guu787403d7p55oru0mm71de3r.jpg

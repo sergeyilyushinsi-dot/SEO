@@ -1,0 +1,19 @@
+# Ручная отправка через плагин IndexNow (Настройки → IndexNow → Submit URL), 16.10.2026.
+# Страницы с правками 13–14.10, которые плагин сам не отправит (он отправляет только изменения после установки).
+# Остальные изменённые записи (новости, видео, кейсы) робот найдёт по lastmod в sitemap.
+https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/
+https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/ebm-3d-print/
+https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/mbj-3d-print/
+https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/
+https://am-tech.ru/katalog/promyshlennye-3d-printery-po-sla-i-keramike/sla-3d-printery/
+https://am-tech.ru/katalog/promyshlennye-3d-printery-po-sla-i-keramike/3d-print-keramika/
+https://am-tech.ru/katalog/promyshlennye-3d-printery-po-sla-i-keramike/
+https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/
+https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/
+https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/rossijskie-3d-skanery/
+https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/ruchnye-3d-skanery/
+https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/3d-scan/lazernye-3d-skanery/
+https://am-tech.ru/katalog/besprovodnoj-skaner/
+https://am-tech.ru/katalog/vysokotochnye-promyshlennye-3d-skanery/geodesicheskie-3d-scaneri/
+https://am-tech.ru/news/
+# Результат: все 15 адресов отправлены владельцем 16.10.2026 в 11:48–11:52 (МСК по часам админки), статус Success.

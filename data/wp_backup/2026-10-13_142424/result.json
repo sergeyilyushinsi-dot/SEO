@@ -1,0 +1,23 @@
+[
+ {
+  "plan_task": 16,
+  "label": "Title (Yoast)",
+  "type": "news",
+  "slug": "primery-ispolzovaniya-3d-pechati-v-iskusstve",
+  "field": "title",
+  "value": "Примеры использования 3D-печати в искусстве | AM-Tech",
+  "before_text": "Примеры использования 3D-печати в искусстве - заказать у производителя с доставкой по России | AM-Tech",
+  "after_text": "Примеры использования 3D-печати в искусстве | AM-Tech",
+  "comment": "Поля Yoast открыты (задача 41 выполнена 13.10.2026), пробный запуск прошёл. В title приписка для товаров «заказать у производителя с доставкой»; было 102 симв., стало 53 симв.",
+  "page_path": "/news/primery-ispolzovaniya-3d-pechati-v-iskusstve/",
+  "row": 131,
+  "id": 2151,
+  "url": "https://am-tech.ru/news/primery-ispolzovaniya-3d-pechati-v-iskusstve/",
+  "before": "Примеры использования 3D-печати в искусстве - заказать у производителя с доставкой по России | AM-Tech",
+  "after": "Примеры использования 3D-печати в искусстве | AM-Tech",
+  "saved": true,
+  "on_page": true,
+  "on_cached_page": true,
+  "status": "применено"
+ }
+]

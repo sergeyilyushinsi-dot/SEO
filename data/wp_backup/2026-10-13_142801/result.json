@@ -1,0 +1,23 @@
+[
+ {
+  "plan_task": 24,
+  "label": "Description (Yoast)",
+  "type": "news",
+  "slug": "my-prinyali-uchastie-v-additivnom-kongresse-1",
+  "field": "description",
+  "value": "AM.TECH на Аддитивном Конгрессе #1: SLM-установка АМТ-16 в работе, образцы печати по технологиям SLM, SLA, MBJ, EBM и керамикой, участие в дискуссиях экспертов.",
+  "before_text": "Мы приняли участие в Аддитивном Конгрессе #1 новости компании AM Tech",
+  "after_text": "AM.TECH на Аддитивном Конгрессе #1: SLM-установка АМТ-16 в работе, образцы печати по технологиям SLM, SLA, MBJ, EBM и керамикой, участие в дискуссиях экспертов.",
+  "comment": "Поля Yoast открыты (задача 41 выполнена 13.10.2026), пробный запуск прошёл. 160 симв., по тексту страницы",
+  "page_path": "/news/my-prinyali-uchastie-v-additivnom-kongresse-1/",
+  "row": 155,
+  "id": 2128,
+  "url": "https://am-tech.ru/news/my-prinyali-uchastie-v-additivnom-kongresse-1/",
+  "before": "Мы приняли участие в Аддитивном Конгрессе #1 новости компании AM Tech",
+  "after": "AM.TECH на Аддитивном Конгрессе #1: SLM-установка АМТ-16 в работе, образцы печати по технологиям SLM, SLA, MBJ, EBM и керамикой, участие в дискуссиях экспертов.",
+  "saved": true,
+  "on_page": true,
+  "on_cached_page": true,
+  "status": "применено"
+ }
+]

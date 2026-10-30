@@ -1,0 +1,18 @@
+/* --- Дополнения для страницы кейсов (case.php) --- */
+#amt-blog .amt-topic--child{font-size:.92em;opacity:.85}
+#amt-blog .amt-topic--child::before{content:"— ";opacity:.5}
+#amt-blog form.amt-search{margin:0}
+#amt-blog .amt-media:not([style*="background-image"]){background:linear-gradient(135deg,#f1f1ee,#e4e4df)}
+#amt-blog .amt-empty a{color:var(--amt-orange);text-decoration:underline}
+#amt-blog .amt-contacts a{color:inherit}
+#amt-blog .amt-cta__actions{flex-wrap:wrap}
+#amt-blog .amt-pagetext{max-width:900px;color:var(--amt-text)}
+#amt-blog .amt-pagetext h2,#amt-blog .amt-pagetext h3{color:var(--amt-ink)}
+#amt-blog .amt-pagetext a{color:var(--amt-orange)}
+#amt-blog .amt-pagetext p:empty{display:none}
+/* Запасной вариант, если скрипт выше не сработал: шапка как .regular-menu */
+body.page-template-case header.transparent-menu .header_nav ul a,
+body.page-template-case header.transparent-menu .contact_header a{color:#313131}
+body.page-template-case header.transparent-menu .header_nav a:hover,
+body.page-template-case header.transparent-menu .contact_header a:hover{color:#ff7200!important}
+body.page-template-case header.transparent-menu .right_header path{fill:#313131}

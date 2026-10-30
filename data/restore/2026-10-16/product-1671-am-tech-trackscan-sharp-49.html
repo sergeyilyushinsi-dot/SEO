@@ -1,0 +1,243 @@
+<style>
+
+    
+
+    .amt-wrapper{
+        max-width:1320px;
+        margin:0 auto;
+        padding:70px 20px;
+    }
+
+    .section-title{
+        font-size:46px;
+        font-weight:700;
+        margin-bottom:50px;
+        color:#111;
+        letter-spacing:-0.5px;
+    }
+
+    .amt-grid{
+        display:grid;
+        grid-template-columns:repeat(2,1fr);
+        gap:24px;
+    }
+
+    .amt-card{
+        background:#fff;
+        border-radius:28px;
+        padding:40px;
+        box-shadow:0 6px 22px rgba(0,0,0,0.06);
+        transition:0.25s ease;
+        border:1px solid #f1f1f1;
+    }
+
+    .amt-card:hover{
+        transform:translateY(-5px);
+        box-shadow:0 14px 36px rgba(0,0,0,0.10);
+    }
+
+    .amt-card.large{
+        grid-column:span 2;
+    }
+
+    .amt-card h2{
+        font-size:32px;
+        margin:0 0 18px 0;
+        color:#111;
+    }
+
+    .amt-card h3{
+        font-size:24px;
+        margin:0 0 14px 0;
+        color:#111;
+    }
+
+    .amt-card p{
+        font-size:16px;
+        color:#555;
+        margin-bottom:14px;
+    }
+
+    .amt-card a{
+        color:#ff6b00;
+        font-weight:600;
+        text-decoration:none;
+    }
+
+    .amt-card a:hover{
+        text-decoration:underline;
+    }
+
+    .highlight{
+        color:#111;
+        font-weight:700;
+    }
+
+    /* инфографика */
+    .feature-grid{
+        display:grid;
+        grid-template-columns:repeat(2,1fr);
+        gap:14px;
+        margin-top:20px;
+    }
+
+    .feature-item{
+        background:#fafafa;
+        border:1px solid #ededed;
+        border-radius:18px;
+        padding:18px 18px;
+        font-size:15px;
+        color:#333;
+        position:relative;
+        overflow:hidden;
+    }
+
+    /* мягкий оранжевый акцент */
+    .feature-item:before{
+        content:"";
+        position:absolute;
+        left:0;
+        top:0;
+        width:4px;
+        height:100%;
+        background:#ff6b00;
+        opacity:0.9;
+    }
+
+    img{
+        width:100%;
+        border-radius:18px;
+        margin:18px 0;
+        object-fit:cover;
+    }
+
+    /* адаптив */
+    @media(max-width:992px){
+        .amt-grid{grid-template-columns:1fr;}
+        .amt-card.large{grid-column:span 1;}
+        .feature-grid{grid-template-columns:1fr;}
+    }
+
+    @media(max-width:768px){
+        .amt-wrapper{padding:40px 16px;}
+        .section-title{font-size:34px;}
+        .amt-card{padding:26px;}
+        .amt-card h2{font-size:26px;}
+    }
+
+</style>
+
+<div class="amt-wrapper">
+
+    <h1 class="section-title">
+        TrackScan-Sharp 49 — промышленный 3D-сканер
+    </h1>
+
+    <div class="amt-grid">
+
+        <!-- INTRO -->
+        <div class="amt-card large">
+
+            <h2>Профессиональная метрология нового уровня</h2>
+
+            <p>
+                <span class="highlight">TrackScan-Sharp 49</span> от AM.TECH — это высокоточный 
+                промышленный 3D-сканер для метрологических исследований, 
+                контроля качества и инженерных задач любой сложности.
+            </p>
+
+            <p>
+                Разработан совместно с ScanTech и предназначен для работы 
+                с объектами любых размеров — от мелких деталей до крупногабаритных конструкций.
+            </p>
+
+        </div>
+
+        <!-- FEATURES -->
+        <div class="amt-card">
+
+            <h3>Ключевые технологии</h3>
+
+            <div class="feature-grid">
+
+                <div class="feature-item">i-Scanner нового поколения</div>
+                <div class="feature-item">Оптические датчики высокой чувствительности</div>
+                <div class="feature-item">Безопасный лазерный класс</div>
+                <div class="feature-item">Расширенный диапазон сканирования</div>
+                <div class="feature-item">USB-передача данных</div>
+                <div class="feature-item">Модульная архитектура</div>
+
+            </div>
+
+        </div>
+
+        <!-- SOFTWARE -->
+        <div class="amt-card">
+
+            <h3>Программное обеспечение i-Tracker</h3>
+
+            <p>
+                Интеллектуальная система обработки данных позволяет 
+                работать с 3D-моделями в реальном времени.
+            </p>
+
+            <div class="feature-grid">
+
+                <div class="feature-item">Измерение геометрии деталей</div>
+                <div class="feature-item">Работа с CAD-моделями</div>
+                <div class="feature-item">Анализ отклонений</div>
+                <div class="feature-item">3D-реконструкция объектов</div>
+
+            </div>
+
+        </div>
+
+        <!-- IMAGE BLOCK -->
+        <div class="amt-card large">
+
+            <h2>Принцип работы системы</h2>
+
+            <p>
+                Сканер формирует облако точек в реальном времени, 
+                обеспечивая точную цифровую копию объекта.
+            </p>
+
+            <img src="https://am-tech.ru/wp-content/uploads/2025/08/3d-skaner-simscan22_4.webp" alt="TrackScan-Sharp 49">
+
+        </div>
+
+        <!-- SUPPORT -->
+        <div class="amt-card large">
+
+            <h2>Поддержка и внедрение</h2>
+
+            <p>
+                Пользователи получают полный цикл сопровождения:
+                от настройки до обучения персонала.
+            </p>
+
+            <div class="feature-grid">
+
+                <div class="feature-item">Настройка и калибровка</div>
+                <div class="feature-item">Обучение операторов</div>
+                <div class="feature-item">Техническая поддержка</div>
+                <div class="feature-item">Сервисное обслуживание</div>
+
+            </div>
+
+            <p style="margin-top:20px;">
+                Официальное представительство AM.TECH обеспечивает 
+                полный комплекс услуг по внедрению оборудования 
+                на промышленных предприятиях.
+            </p>
+
+            <p>
+                Все оборудование доступно в каталоге и может быть приобретено 
+                на условиях <a href="https://am-tech.ru/leasing/">лизинга</a>.
+            </p>
+
+        </div>
+
+    </div>
+
+</div>

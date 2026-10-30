@@ -1,0 +1,282 @@
+{
+ "id": 2157,
+ "date": "2021-07-13T00:00:00",
+ "date_gmt": "2021-07-12T21:00:00",
+ "guid": {
+  "rendered": "http://am-tech.ru/cases/skanirovanie-i-kontrol-otlivki/",
+  "raw": "http://am-tech.ru/cases/skanirovanie-i-kontrol-otlivki/"
+ },
+ "modified": "2026-10-16T17:25:45",
+ "modified_gmt": "2026-10-16T14:25:45",
+ "password": "",
+ "slug": "skanirovanie-i-kontrol-otlivki",
+ "status": "publish",
+ "type": "cases",
+ "link": "https://am-tech.ru/cases/skanirovanie-i-kontrol-otlivki/",
+ "title": {
+  "raw": "Сканирование и контроль отливки изделия сканером AM.TECH TRACKSCAN",
+  "rendered": "Сканирование и контроль отливки изделия сканером AM.TECH TRACKSCAN"
+ },
+ "content": {
+  "raw": "<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n<h2>Для сканирования электродвигателя был использован AM.TECH TRACKSCAN, как сканер не требующий меток при сканировании.</h2>\r\n<p class=\"\">Литейное предприятие, большая отливка, клиент используют импортные и отечественные смолы, хотел проверить как смещаются отечественные смолы, минут 20-30 ушло на сканирование и 30 мин на анализ с метками было бы намного больше.</p>\r\n\r\n<h2 class=\"\">Сканирование</h2>\r\n<p class=\"\"><img title=\"Сканирование.jpg\" src=\"/upload/medialibrary/cb3/1k25szyg2yn0dmr4yztg0jzrv94mekkv.jpg\" alt=\"Сканирование.jpg\" width=\"413\" height=\"326\"></p>\r\n\r\n<h2>Наложение скана на CAD-модель</h2>\r\n<p class=\"\"><img title=\"Наложение скана на CAD-модель.png\" src=\"/upload/medialibrary/c70/j50a7m64btnjm8pevga3h9jjmunodsfb.png\" alt=\"Наложение скана на CAD-модель.png\" width=\"549\" height=\"476\"></p>\r\n\r\n<h2>Составление отчета о контроле отклонений</h2>\r\n<p class=\"\"><img title=\"Составление отчета о контроле отклонений.png\" src=\"/upload/medialibrary/01d/6bnza4fy3hhsndzz5r12uunxp0dnbwb8.png\" alt=\"Составление отчета о контроле отклонений.png\" width=\"616\" height=\"471\">&nbsp;</p>\r\n&nbsp;\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+  "rendered": "<div class=\"boldgrid-section\">\n<div class=\"container\">\n<div class=\"row\">\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\n<h2>Для сканирования электродвигателя был использован AM.TECH TRACKSCAN, как сканер не требующий меток при сканировании.</h2>\n<p class=\"\">Литейное предприятие, большая отливка, клиент используют импортные и отечественные смолы, хотел проверить как смещаются отечественные смолы, минут 20-30 ушло на сканирование и 30 мин на анализ с метками было бы намного больше.</p>\n<h2 class=\"\">Сканирование</h2>\n<p class=\"\"><img loading=\"lazy\" decoding=\"async\" fetchpriority=\"high\" decoding=\"async\" title=\"Сканирование.jpg\" src=\"/upload/medialibrary/cb3/1k25szyg2yn0dmr4yztg0jzrv94mekkv.jpg\" alt=\"Сканирование.jpg\" width=\"413\" height=\"326\"></p>\n<h2>Наложение скана на CAD-модель</h2>\n<p class=\"\"><img loading=\"lazy\" decoding=\"async\" decoding=\"async\" title=\"Наложение скана на CAD-модель.png\" src=\"/upload/medialibrary/c70/j50a7m64btnjm8pevga3h9jjmunodsfb.png\" alt=\"Наложение скана на CAD-модель.png\" width=\"549\" height=\"476\"></p>\n<h2>Составление отчета о контроле отклонений</h2>\n<p class=\"\"><img loading=\"lazy\" decoding=\"async\" decoding=\"async\" title=\"Составление отчета о контроле отклонений.png\" src=\"/upload/medialibrary/01d/6bnza4fy3hhsndzz5r12uunxp0dnbwb8.png\" alt=\"Составление отчета о контроле отклонений.png\" width=\"616\" height=\"471\">&nbsp;</p>\n<p>&nbsp;</p>\n</div>\n</div>\n</div>\n</div>\n",
+  "protected": false,
+  "block_version": 0
+ },
+ "excerpt": {
+  "raw": "",
+  "rendered": "<p>Для сканирования электродвигателя был использован AM.TECH TRACKSCAN, как сканер не требующий меток при сканировании. Литейное предприятие, большая отливка, клиент используют импортные и отечественные смолы, хотел проверить как смещаются отечественные смолы, минут 20-30 ушло на сканирование и 30 мин на анализ с метками было бы намного больше. Сканирование Наложение скана на CAD-модель Составление отчета о контроле [&hellip;]</p>\n",
+  "protected": false
+ },
+ "author": 1,
+ "featured_media": 2158,
+ "comment_status": "open",
+ "ping_status": "open",
+ "template": "",
+ "meta": {
+  "_acf_changed": false,
+  "_yoast_wpseo_title": "Сканирование и контроль отливки сканером TrackScan — кейс | AM.TECH",
+  "_yoast_wpseo_metadesc": "Сканирование и контроль отливки изделия сканером AM.TECH TRACKSCAN новости компании AM Tech",
+  "_yoast_wpseo_meta-robots-noindex": ""
+ },
+ "case_category": [
+  1091
+ ],
+ "case_tag": [
+  1322,
+  1324
+ ],
+ "permalink_template": "https://am-tech.ru/cases/%pagename%/",
+ "generated_slug": "skanirovanie-i-kontrol-otlivki-izdelija-skanerom-am-tech-trackscan",
+ "class_list": [
+  "post-2157",
+  "cases",
+  "type-cases",
+  "status-publish",
+  "has-post-thumbnail",
+  "hentry",
+  "case_category-tehnologii-3d-skanirovaniya",
+  "case_tag-obratnoe-proektirovanie",
+  "case_tag-promyshlennoe-3d-skanirovanie"
+ ],
+ "acf": [],
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Сканирование и контроль отливки сканером TrackScan — кейс | AM.TECH</title>\n<meta name=\"description\" content=\"Сканирование и контроль отливки изделия сканером AM.TECH TRACKSCAN новости компании AM Tech\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/cases/skanirovanie-i-kontrol-otlivki/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Сканирование и контроль отливки сканером TrackScan — кейс | AM.TECH\" />\n<meta property=\"og:description\" content=\"Сканирование и контроль отливки изделия сканером AM.TECH TRACKSCAN новости компании AM Tech\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/cases/skanirovanie-i-kontrol-otlivki/\" />\n<meta property=\"og:site_name\" content=\"AM.TECH\" />\n<meta property=\"article:modified_time\" content=\"2026-10-16T14:25:45+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2021/07/rl4eqvlamuek3fodvtnz8j70ccbs3wl8.jpg\" />\n\t<meta property=\"og:image:width\" content=\"514\" />\n\t<meta property=\"og:image:height\" content=\"341\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"2 минуты\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/cases/skanirovanie-i-kontrol-otlivki/\",\"url\":\"https://am-tech.ru/cases/skanirovanie-i-kontrol-otlivki/\",\"name\":\"Сканирование и контроль отливки сканером TrackScan — кейс | AM.TECH\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/cases/skanirovanie-i-kontrol-otlivki/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/cases/skanirovanie-i-kontrol-otlivki/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2021/07/rl4eqvlamuek3fodvtnz8j70ccbs3wl8.jpg\",\"datePublished\":\"2021-07-12T21:00:00+00:00\",\"dateModified\":\"2026-10-16T14:25:45+00:00\",\"description\":\"Сканирование и контроль отливки изделия сканером AM.TECH TRACKSCAN новости компании AM Tech\",\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/cases/skanirovanie-i-kontrol-otlivki/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/cases/skanirovanie-i-kontrol-otlivki/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2021/07/rl4eqvlamuek3fodvtnz8j70ccbs3wl8.jpg\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2021/07/rl4eqvlamuek3fodvtnz8j70ccbs3wl8.jpg\",\"width\":514,\"height\":341},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"AM.TECH\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"AM.TECH\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"AM.TECH\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "Сканирование и контроль отливки сканером TrackScan — кейс | AM.TECH",
+  "description": "Сканирование и контроль отливки изделия сканером AM.TECH TRACKSCAN новости компании AM Tech",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/cases/skanirovanie-i-kontrol-otlivki/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "Сканирование и контроль отливки сканером TrackScan — кейс | AM.TECH",
+  "og_description": "Сканирование и контроль отливки изделия сканером AM.TECH TRACKSCAN новости компании AM Tech",
+  "og_url": "https://am-tech.ru/cases/skanirovanie-i-kontrol-otlivki/",
+  "og_site_name": "AM.TECH",
+  "article_modified_time": "2026-10-16T14:25:45+00:00",
+  "og_image": [
+   {
+    "width": 514,
+    "height": 341,
+    "url": "https://am-tech.ru/wp-content/uploads/2021/07/rl4eqvlamuek3fodvtnz8j70ccbs3wl8.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "2 минуты"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/cases/skanirovanie-i-kontrol-otlivki/",
+     "url": "https://am-tech.ru/cases/skanirovanie-i-kontrol-otlivki/",
+     "name": "Сканирование и контроль отливки сканером TrackScan — кейс | AM.TECH",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/cases/skanirovanie-i-kontrol-otlivki/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/cases/skanirovanie-i-kontrol-otlivki/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2021/07/rl4eqvlamuek3fodvtnz8j70ccbs3wl8.jpg",
+     "datePublished": "2021-07-12T21:00:00+00:00",
+     "dateModified": "2026-10-16T14:25:45+00:00",
+     "description": "Сканирование и контроль отливки изделия сканером AM.TECH TRACKSCAN новости компании AM Tech",
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/cases/skanirovanie-i-kontrol-otlivki/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/cases/skanirovanie-i-kontrol-otlivki/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2021/07/rl4eqvlamuek3fodvtnz8j70ccbs3wl8.jpg",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2021/07/rl4eqvlamuek3fodvtnz8j70ccbs3wl8.jpg",
+     "width": 514,
+     "height": 341
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "AM.TECH",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "AM.TECH",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "AM.TECH"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/cases/2157",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/cases"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/types/cases"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/users/1"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/comments?post=2157"
+   }
+  ],
+  "wp:featuredmedia": [
+   {
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/media/2158"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/media?parent=2157"
+   }
+  ],
+  "wp:term": [
+   {
+    "taxonomy": "case_category",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/case_category?post=2157"
+   },
+   {
+    "taxonomy": "case_tag",
+    "embeddable": true,
+    "href": "https://am-tech.ru/wp-json/wp/v2/case_tag?post=2157"
+   }
+  ],
+  "wp:action-publish": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/cases/2157"
+   }
+  ],
+  "wp:action-unfiltered-html": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/cases/2157"
+   }
+  ],
+  "wp:action-assign-author": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/cases/2157"
+   }
+  ],
+  "wp:action-create-case_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/cases/2157"
+   }
+  ],
+  "wp:action-assign-case_category": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/cases/2157"
+   }
+  ],
+  "wp:action-create-case_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/cases/2157"
+   }
+  ],
+  "wp:action-assign-case_tag": [
+   {
+    "href": "https://am-tech.ru/wp-json/wp/v2/cases/2157"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

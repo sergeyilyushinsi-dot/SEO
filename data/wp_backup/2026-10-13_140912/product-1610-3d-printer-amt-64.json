@@ -1,0 +1,452 @@
+{
+ "id": 1610,
+ "name": "AMT-64",
+ "slug": "3d-printer-amt-64",
+ "permalink": "https://am-tech.ru/product/3d-printer-amt-64/",
+ "date_created": "2025-08-17T06:47:35",
+ "date_created_gmt": "2025-08-17T03:47:35",
+ "date_modified": "2026-09-23T14:21:18",
+ "date_modified_gmt": "2026-09-23T11:21:18",
+ "type": "simple",
+ "status": "publish",
+ "featured": false,
+ "catalog_visibility": "visible",
+ "description": "<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12 col-md-12 col-xs-12 col-sm-12\">\r\n\r\n<!-- AMT-64: блок описания товара -->\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<section class=\"amt64-desc\">\r\n<p class=\"mod-reset\"><style>\r\n  .amt64-product {\r\n    --amt64-bg: #f7f7f5;\r\n    --amt64-card: #ffffff;\r\n    --amt64-text: #171717;\r\n    --amt64-muted: #6d6d68;\r\n    --amt64-line: #e7e5df;\r\n    --amt64-accent: #f26a21;\r\n    --amt64-dark: #1f2224;\r\n    font-family: Inter, Arial, Helvetica, sans-serif;\r\n    color: var(--amt64-text);\r\n    background: #fff;\r\n    line-height: 1.55;\r\n  }\r\n\r\n  .amt64-product * { box-sizing: border-box; }\r\n\r\n  .amt64-product .amt64-wrap {\r\n    width: min(1240px, calc(100% - 40px));\r\n    margin: 0 auto;\r\n  }\r\n\r\n  .amt64-product .amt64-hero {\r\n    position: relative;\r\n    overflow: hidden;\r\n    padding: 72px 0 46px;\r\n    background:\r\n      radial-gradient(circle at 92% 8%, rgba(242,106,33,.10), transparent 31%),\r\n      linear-gradient(180deg, #fafaf8 0%, #fff 100%);\r\n    border-bottom: 1px solid var(--amt64-line);\r\n  }\r\n\r\n  .amt64-product .amt64-eyebrow {\r\n    display: inline-flex;\r\n    align-items: center;\r\n    gap: 9px;\r\n    margin-bottom: 20px;\r\n    color: var(--amt64-accent);\r\n    font-size: 12px;\r\n    font-weight: 800;\r\n    letter-spacing: .14em;\r\n    text-transform: uppercase;\r\n  }\r\n\r\n  .amt64-product .amt64-eyebrow::before {\r\n    content: \"\";\r\n    width: 28px;\r\n    height: 2px;\r\n    background: var(--amt64-accent);\r\n  }\r\n\r\n  .amt64-product h1,\r\n  .amt64-product h2,\r\n  .amt64-product h3,\r\n  .amt64-product p { margin-top: 0; }\r\n\r\n  .amt64-product h1 {\r\n    max-width: 980px;\r\n    margin-bottom: 24px;\r\n    font-size: clamp(38px, 5.3vw, 72px);\r\n    line-height: .98;\r\n    letter-spacing: -.045em;\r\n    font-weight: 760;\r\n  }\r\n\r\n  .amt64-product .amt64-lead {\r\n    max-width: 900px;\r\n    margin-bottom: 34px;\r\n    color: #454541;\r\n    font-size: clamp(18px, 2vw, 22px);\r\n    line-height: 1.58;\r\n  }\r\n\r\n  .amt64-product .amt64-metrics {\r\n    display: grid;\r\n    grid-template-columns: repeat(4, minmax(0,1fr));\r\n    gap: 14px;\r\n  }\r\n\r\n  .amt64-product .amt64-metric {\r\n    min-height: 132px;\r\n    padding: 22px;\r\n    border: 1px solid var(--amt64-line);\r\n    border-radius: 18px;\r\n    background: rgba(255,255,255,.88);\r\n  }\r\n\r\n  .amt64-product .amt64-metric strong {\r\n    display: block;\r\n    margin-bottom: 8px;\r\n    font-size: clamp(22px, 2.2vw, 32px);\r\n    line-height: 1.05;\r\n    letter-spacing: -.035em;\r\n  }\r\n\r\n  .amt64-product .amt64-metric span {\r\n    color: var(--amt64-muted);\r\n    font-size: 14px;\r\n  }\r\n\r\n  .amt64-product .amt64-section {\r\n    padding: 72px 0;\r\n    border-bottom: 1px solid var(--amt64-line);\r\n  }\r\n\r\n  .amt64-product .amt64-section--soft { background: var(--amt64-bg); }\r\n\r\n  .amt64-product .amt64-grid {\r\n    display: grid;\r\n    grid-template-columns: minmax(0,.8fr) minmax(0,1.2fr);\r\n    gap: clamp(36px, 6vw, 84px);\r\n    align-items: start;\r\n  }\r\n\r\n  .amt64-product h2 {\r\n    margin-bottom: 18px;\r\n    font-size: clamp(30px, 4vw, 48px);\r\n    line-height: 1.08;\r\n    letter-spacing: -.035em;\r\n    font-weight: 740;\r\n  }\r\n\r\n  .amt64-product .amt64-copy > p,\r\n  .amt64-product .amt64-intro {\r\n    color: #4d4d48;\r\n    font-size: 17px;\r\n  }\r\n\r\n  .amt64-product .amt64-list {\r\n    display: grid;\r\n    gap: 12px;\r\n    margin: 26px 0 0;\r\n    padding: 0;\r\n    list-style: none;\r\n  }\r\n\r\n  .amt64-product .amt64-list li {\r\n    position: relative;\r\n    padding: 16px 18px 16px 48px;\r\n    border: 1px solid var(--amt64-line);\r\n    border-radius: 14px;\r\n    background: var(--amt64-card);\r\n  }\r\n\r\n  .amt64-product .amt64-list li::before {\r\n    content: \"\";\r\n    position: absolute;\r\n    left: 19px;\r\n    top: 22px;\r\n    width: 10px;\r\n    height: 10px;\r\n    border-radius: 50%;\r\n    background: var(--amt64-accent);\r\n    box-shadow: 0 0 0 5px rgba(242,106,33,.10);\r\n  }\r\n\r\n  .amt64-product .amt64-panel {\r\n    padding: 28px;\r\n    border-radius: 22px;\r\n    color: #fff;\r\n    background: var(--amt64-dark);\r\n  }\r\n\r\n  .amt64-product .amt64-panel h3 {\r\n    margin-bottom: 18px;\r\n    font-size: 21px;\r\n    line-height: 1.2;\r\n  }\r\n\r\n  .amt64-product .amt64-specs {\r\n    display: grid;\r\n    gap: 0;\r\n  }\r\n\r\n  .amt64-product .amt64-spec {\r\n    display: grid;\r\n    grid-template-columns: 1fr auto;\r\n    gap: 18px;\r\n    padding: 15px 0;\r\n    border-bottom: 1px solid rgba(255,255,255,.12);\r\n  }\r\n\r\n  .amt64-product .amt64-spec:last-child { border-bottom: 0; }\r\n  .amt64-product .amt64-spec span { color: #bfbfba; }\r\n  .amt64-product .amt64-spec strong { text-align: right; }\r\n\r\n  .amt64-product .amt64-cards {\r\n    display: grid;\r\n    grid-template-columns: repeat(3, minmax(0,1fr));\r\n    gap: 16px;\r\n    margin-top: 30px;\r\n  }\r\n\r\n  .amt64-product .amt64-card {\r\n    padding: 26px;\r\n    min-height: 230px;\r\n    border: 1px solid var(--amt64-line);\r\n    border-radius: 18px;\r\n    background: #fff;\r\n  }\r\n\r\n  .amt64-product .amt64-card-num {\r\n    display: block;\r\n    margin-bottom: 36px;\r\n    color: var(--amt64-accent);\r\n    font-size: 13px;\r\n    font-weight: 800;\r\n    letter-spacing: .12em;\r\n  }\r\n\r\n  .amt64-product .amt64-card h3 {\r\n    margin-bottom: 12px;\r\n    font-size: 21px;\r\n    line-height: 1.2;\r\n  }\r\n\r\n  .amt64-product .amt64-card p {\r\n    margin-bottom: 0;\r\n    color: var(--amt64-muted);\r\n  }\r\n\r\n  .amt64-product .amt64-cta {\r\n    padding: 72px 0;\r\n    background: #17191a;\r\n    color: #fff;\r\n  }\r\n\r\n  .amt64-product .amt64-cta-grid {\r\n    display: grid;\r\n    grid-template-columns: 1.05fr .95fr;\r\n    gap: 52px;\r\n    align-items: start;\r\n  }\r\n\r\n  .amt64-product .amt64-cta h2 { color: #fff; }\r\n  .amt64-product .amt64-cta p { color: #c9c9c5; font-size: 17px; }\r\n\r\n  .amt64-product .amt64-service-list {\r\n    display: grid;\r\n    grid-template-columns: repeat(2, minmax(0,1fr));\r\n    gap: 10px;\r\n    margin: 26px 0 0;\r\n    padding: 0;\r\n    list-style: none;\r\n  }\r\n\r\n  .amt64-product .amt64-service-list li {\r\n    padding: 14px 16px;\r\n    border: 1px solid rgba(255,255,255,.12);\r\n    border-radius: 12px;\r\n    color: #eeeeea;\r\n    background: rgba(255,255,255,.035);\r\n  }\r\n\r\n  .amt64-product .amt64-action {\r\n    padding: 28px;\r\n    border-radius: 20px;\r\n    background: #fff;\r\n    color: var(--amt64-text);\r\n  }\r\n\r\n  .amt64-product .amt64-action p { color: #595954; }\r\n\r\n  .amt64-product .amt64-btn {\r\n    display: inline-flex;\r\n    justify-content: center;\r\n    align-items: center;\r\n    min-height: 52px;\r\n    margin-top: 10px;\r\n    padding: 0 24px;\r\n    border-radius: 999px;\r\n    text-decoration: none;\r\n    font-weight: 750;\r\n    color: #fff;\r\n    background: var(--amt64-accent);\r\n    transition: transform .2s ease, opacity .2s ease;\r\n  }\r\n\r\n  .amt64-product .amt64-btn:hover { transform: translateY(-1px); opacity: .92; }\r\n\r\n  @media (max-width: 900px) {\r\n    .amt64-product .amt64-metrics,\r\n    .amt64-product .amt64-cards { grid-template-columns: repeat(2, minmax(0,1fr)); }\r\n    .amt64-product .amt64-grid,\r\n    .amt64-product .amt64-cta-grid { grid-template-columns: 1fr; }\r\n  }\r\n\r\n  @media (max-width: 600px) {\r\n    .amt64-product .amt64-wrap { width: min(100% - 24px, 1240px); }\r\n    .amt64-product .amt64-hero,\r\n    .amt64-product .amt64-section,\r\n    .amt64-product .amt64-cta { padding: 48px 0; }\r\n    .amt64-product .amt64-metrics,\r\n    .amt64-product .amt64-cards,\r\n    .amt64-product .amt64-service-list { grid-template-columns: 1fr; }\r\n    .amt64-product .amt64-spec { grid-template-columns: 1fr; gap: 5px; }\r\n    .amt64-product .amt64-spec strong { text-align: left; }\r\n  }\r\n</style>\r\n\r\n</p><section class=\"amt64-product\">\r\n  <div class=\"amt64-hero\">\r\n    <div class=\"amt64-wrap\">\r\n      <div class=\"amt64-eyebrow\">AMT-64 / промышленная SLM-система</div>\r\n      <h1>SLM 3D-принтер AMT-64: промышленная печать металлом от производителя</h1>\r\n      <p class=\"amt64-lead\">\r\n        AMT-64 — флагманская платформа AM.TECH для крупноформатного аддитивного производства металлических деталей. Система объединяет рабочую область 600×600×600 мм с возможностью увеличения высоты построения до 1200 мм, четыре лазера по 500 Вт, подогрев рабочей платформы до 200 °C и расширенный контроль технологической среды.\r\n      </p>\r\n\r\n      <div class=\"amt64-metrics\">\r\n        <div class=\"amt64-metric\"><strong>600×600×600</strong><span>мм — базовая рабочая область</span></div>\r\n        <div class=\"amt64-metric\"><strong>до 1200 мм</strong><span>увеличенная высота построения</span></div>\r\n        <div class=\"amt64-metric\"><strong>4 × 500 Вт</strong><span>многолазерная оптическая система</span></div>\r\n        <div class=\"amt64-metric\"><strong>до 200 °C</strong><span>подогрев рабочей платформы</span></div>\r\n      </div>\r\n    </div>\r\n  </div>\r\n\r\n  <div class=\"amt64-section\">\r\n    <div class=\"amt64-wrap amt64-grid\">\r\n      <div>\r\n        <div class=\"amt64-eyebrow\">01 / Технология</div>\r\n        <h2>Технология SLM в принтере AMT-64</h2>\r\n      </div>\r\n      <div class=\"amt64-copy\">\r\n        <p>\r\n          В основе установки — SLM, технология селективного лазерного плавления металлического порошка. Деталь формируется послойно: лазер локально расплавляет материал по рассчитанной траектории, после чего платформа опускается и наносится новый порошковый слой. Технология позволяет создавать функциональные изделия со сложной геометрией и внутренними каналами.\r\n        </p>\r\n        <ul class=\"amt64-list\">\r\n          <li><strong>Послойное лазерное плавление.</strong> Управляемое спекание и переплав порошка формируют плотную металлическую структуру; при корректно подобранных режимах плотность материала может достигать 99,9%.</li>\r\n          <li><strong>Четыре лазера по 500 Вт.</strong> Многолазерная конфигурация ускоряет обработку крупного поля 600×600 мм.</li>\r\n          <li><strong>Защитная атмосфера.</strong> Печать ведётся в камере с инертным газом — аргоном или азотом в зависимости от материала и технологического процесса, что снижает риск окисления расплава.</li>\r\n          <li><strong>Контроль среды.</strong> Четыре датчика O₂ и датчик давления помогают контролировать состояние рабочей камеры.</li>\r\n        </ul>\r\n      </div>\r\n    </div>\r\n  </div>\r\n\r\n  <div class=\"amt64-section amt64-section--soft\">\r\n    <div class=\"amt64-wrap amt64-grid\">\r\n      <div>\r\n        <div class=\"amt64-eyebrow\">02 / Возможности</div>\r\n        <h2>Технические характеристики и возможности AMT-64</h2>\r\n        <p class=\"amt64-intro\">\r\n          Конфигурация ориентирована на крупногабаритные изделия и серийное производство с гибкой настройкой параметров процесса.\r\n        </p>\r\n      </div>\r\n\r\n      <div class=\"amt64-panel\">\r\n        <h3>Ключевые параметры платформы</h3>\r\n        <div class=\"amt64-specs\">\r\n          <div class=\"amt64-spec\"><span>Рабочая область</span><strong>600 × 600 × 600 мм</strong></div>\r\n          <div class=\"amt64-spec\"><span>Высота построения</span><strong>до 1200 мм</strong></div>\r\n          <div class=\"amt64-spec\"><span>Лазерная система</span><strong>4 × 500 Вт</strong></div>\r\n          <div class=\"amt64-spec\"><span>Подогрев платформы</span><strong>до 200 °C</strong></div>\r\n          <div class=\"amt64-spec\"><span>Датчики кислорода</span><strong>4 шт.</strong></div>\r\n          <div class=\"amt64-spec\"><span>Толщина слоя</span><strong>ориентир 30–50 мкм*</strong></div>\r\n          <div class=\"amt64-spec\"><span>Программная платформа</span><strong>PrintMate</strong></div>\r\n          <div class=\"amt64-spec\"><span>Параметры настройки</span><strong>более 60</strong></div>\r\n        </div>\r\n      </div>\r\n    </div>\r\n\r\n    <div class=\"amt64-wrap\">\r\n      <ul class=\"amt64-list\">\r\n        <li><strong>Открытая архитектура.</strong> Предприятие получает доступ к технологическим настройкам и может адаптировать режимы под свои задачи, включая работу с порошками разных производителей после квалификации материала.</li>\r\n        <li><strong>Материалы.</strong> Платформа рассчитана на распространённые металлические порошки: нержавеющую сталь, титан, алюминий и никелевые сплавы, включая Inconel, при наличии отработанного режима.</li>\r\n        <li><strong>Точность как часть процесса.</strong> Итоговые допуски зависят от геометрии детали, материала, стратегии сканирования, толщины слоя и постобработки.</li>\r\n      </ul>\r\n    </div>\r\n  </div>\r\n\r\n  <div class=\"amt64-section\">\r\n    <div class=\"amt64-wrap\">\r\n      <div class=\"amt64-eyebrow\">03 / Применение</div>\r\n      <h2>Сферы применения SLM 3D-принтера AMT-64</h2>\r\n      <p class=\"amt64-intro\">\r\n        Большой объём построения подходит производственным центрам, КБ и предприятиям, которым необходимо изготавливать крупные детали или размещать несколько изделий в одной сборке. Аддитивный процесс помогает сокращать число сборочных операций и быстрее переходить от цифровой модели к готовому изделию.\r\n      </p>\r\n\r\n      <div class=\"amt64-cards\">\r\n        <article class=\"amt64-card\">\r\n          <span class=\"amt64-card-num\">01</span>\r\n          <h3>Аэрокосмическая отрасль</h3>\r\n          <p>Создание деталей со сложной внутренней геометрией, каналами охлаждения и решётчатыми структурами.</p>\r\n        </article>\r\n        <article class=\"amt64-card\">\r\n          <span class=\"amt64-card-num\">02</span>\r\n          <h3>Медицина</h3>\r\n          <p>Изготовление индивидуальных имплантов, протезов и изделий сложной формы из биосовместимых сплавов при валидации процесса.</p>\r\n        </article>\r\n        <article class=\"amt64-card\">\r\n          <span class=\"amt64-card-num\">03</span>\r\n          <h3>Промышленное производство</h3>\r\n          <p>Выпуск конечных деталей, функциональных прототипов, сложной оснастки и серий, где традиционный маршрут требует большого числа операций.</p>\r\n        </article>\r\n      </div>\r\n    </div>\r\n  </div>\r\n\r\n  <div class=\"amt64-cta\">\r\n    <div class=\"amt64-wrap amt64-cta-grid\">\r\n      <div>\r\n        <div class=\"amt64-eyebrow\">04 / Поставка проекта</div>\r\n        <h2>Заказать SLM 3D-принтер AMT-64</h2>\r\n        <p>\r\n          AM.TECH предлагает купить SLM 3D-принтер AMT-64 как часть законченного производственного проекта: от подбора конфигурации и подготовки площадки до ввода установки в эксплуатацию. Прямая работа с производителем и интегратором упрощает инженерное сопровождение, сервис и обучение.\r\n        </p>\r\n        <p>\r\n          SLM 3D - принтеры AMT-64 поставляются с учётом задач конкретного предприятия. Специалисты помогают определить требования к инфраструктуре, материалам, газовой системе, участку и технологическому маршруту.\r\n        </p>\r\n        <ul class=\"amt64-service-list\">\r\n          <li>доставка оборудования по России;</li>\r\n          <li>монтаж и пусконаладка;</li>\r\n          <li>обучение операторов и технологов;</li>\r\n          <li>подбор и поставка металлических порошков;</li>\r\n          <li>технологическая поддержка при запуске изделий;</li>\r\n          <li>сервисное сопровождение на всём сроке эксплуатации.</li>\r\n        </ul>\r\n      </div>\r\n\r\n      <aside class=\"amt64-action\">\r\n        <h3>Производственная платформа под задачу предприятия</h3>\r\n        <p>\r\n          AMT-64 объединяет крупное поле построения, четыре лазера, подогрев платформы и открытую программно-аппаратную архитектуру. Это позволяет масштабировать производство и сохранять контроль над ключевыми параметрами печати металлом.\r\n        </p>\r\n        <a class=\"amt64-btn\" href=\"#consultation\">Обсудить конфигурацию AMT-64</a>\r\n        <p style=\"margin:16px 0 0;font-size:12px;color:#858580;\">* Параметры слоя и доступные материалы требуют подтверждения для конкретной конфигурации, сплава и технологического режима.</p>\r\n      </aside>\r\n    </div>\r\n  </div>\r\n</section>\r\n\r\n</section>",
+ "short_description": "<div>Флагман в линейке <a href=\"https://am-tech.ru/product-category/slm-3d-printeri-ru/\">аддитивных slm комплексов</a> от am-tech.ru. Комплекс AMT-64 обладает большой рабочей областью и позволяет изготавливать крупногабаритные заготовки методом селективного лазерного сплавления.</div>",
+ "sku": "",
+ "price": "",
+ "regular_price": "",
+ "sale_price": "",
+ "date_on_sale_from": null,
+ "date_on_sale_from_gmt": null,
+ "date_on_sale_to": null,
+ "date_on_sale_to_gmt": null,
+ "on_sale": false,
+ "purchasable": false,
+ "total_sales": 0,
+ "virtual": false,
+ "downloadable": false,
+ "downloads": [],
+ "download_limit": -1,
+ "download_expiry": -1,
+ "external_url": "",
+ "button_text": "",
+ "tax_status": "taxable",
+ "tax_class": "",
+ "manage_stock": false,
+ "stock_quantity": null,
+ "backorders": "no",
+ "backorders_allowed": false,
+ "backordered": false,
+ "low_stock_amount": null,
+ "sold_individually": false,
+ "weight": "",
+ "dimensions": {
+  "length": "",
+  "width": "",
+  "height": ""
+ },
+ "shipping_required": true,
+ "shipping_taxable": true,
+ "shipping_class": "",
+ "shipping_class_id": 0,
+ "reviews_allowed": true,
+ "average_rating": "0",
+ "rating_count": 0,
+ "upsell_ids": [],
+ "cross_sell_ids": [],
+ "parent_id": 0,
+ "purchase_note": "",
+ "categories": [
+  {
+   "id": 18,
+   "name": "SLM 3D - принтеры",
+   "slug": "slm-3d-printeri"
+  }
+ ],
+ "brands": [],
+ "tags": [],
+ "images": [
+  {
+   "id": 1611,
+   "date_created": "2025-08-17T09:47:35",
+   "date_created_gmt": "2025-08-17T03:47:35",
+   "date_modified": "2025-08-17T09:47:35",
+   "date_modified_gmt": "2025-08-17T03:47:35",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/mkiqr01hxfsz01whbu7xx3yp7c54fgua.png",
+   "name": "mkiqr01hxfsz01whbu7xx3yp7c54fgua",
+   "alt": ""
+  },
+  {
+   "id": 1612,
+   "date_created": "2025-08-17T09:47:40",
+   "date_created_gmt": "2025-08-17T03:47:40",
+   "date_modified": "2025-08-17T09:47:40",
+   "date_modified_gmt": "2025-08-17T03:47:40",
+   "src": "https://am-tech.ru/wp-content/uploads/2025/08/k49wai1n8i37rvg2mlffqy1j6397pxm9-scaled.png",
+   "name": "k49wai1n8i37rvg2mlffqy1j6397pxm9",
+   "alt": ""
+  }
+ ],
+ "attributes": [],
+ "default_attributes": [],
+ "variations": [],
+ "grouped_products": [],
+ "menu_order": 0,
+ "price_html": "",
+ "related_ids": [
+  1377,
+  1604,
+  4323,
+  4011
+ ],
+ "meta_data": [
+  {
+   "id": 24701,
+   "key": "bitrix_id",
+   "value": "2233"
+  },
+  {
+   "id": 24702,
+   "key": "Символьный код",
+   "value": "amt-64"
+  },
+  {
+   "id": 24703,
+   "key": "Анонс",
+   "value": "<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<div>Флагман в линейке аддитивных комплексов от am-tech.ru. Комплекс AMT-64 обладает большой рабочей областью и позволяет изготавливать крупногабаритные заготовки методом селективного лазерного сплавления.&nbsp; <br />-Рабочая область: 600 х 600 х 600 (1200) мм<br />-Мощность лазерного источника: 500 Вт. <br />-Количество лазерных источников: 4 шт. <br />-Подогрев рабочей платформы: 200 С&ordm; <br />-Система контроля качества нанесения слоя</div>\r\n<p>&nbsp;</p>"
+  },
+  {
+   "id": 24704,
+   "key": "Описание",
+   "value": "<h2>Модульная концепция серии AMT</h2>\r\n<p><span style=\"color: var(--basic_text_black); font-family: var(--ui-font-family-primary, var(--ui-font-family-helvetica));\">Все принтеры линейки АМТ имеют единые параметры оптической системы независимо от габаритов рабочей области. Унификация существенно сокращает число итераций по настройке параметров печати. </span></p>\r\n<h2>Открытая аппаратная архитектура</h2>\r\n<p><span style=\"color: var(--basic_text_black); font-family: var(--ui-font-family-primary, var(--ui-font-family-helvetica));\">Дает полный контроль над технологическим процессом. Все аддитивные комплексы АМ.ТЕСН позволяют использовать порошковые материалы сторонних производителей. Для выбора согласно уникальным задачам вашего производства, а также - возможности разработки новых синтезируемых материалов.</span></p>\r\n<h2>Открытая программная архитектура</h2>\r\n<p><span style=\"color: var(--basic_text_black); font-family: var(--ui-font-family-primary, var(--ui-font-family-helvetica));\">Собственное программное обеспечение АМ.ТЕСН PriпtMate с открытой архитектурой. С возможностью настройки параметров процесса для индивидуальных производственных задач. </span></p>\r\n<h2>Расширенный пакет контрольно-измерительной аппаратуры</h2>\r\n<p><span style=\"color: var(--basic_text_black); font-family: var(--ui-font-family-primary, var(--ui-font-family-helvetica));\">Для детального анализа технологического процесса уже в базовой комплектации АМТ-16 установлены два датчика анализа содержания кислорода для контроля газовой атмосферы и безопасной работы со сложными материалами. Датчик давления в рабочей камере, совместно с интеллектуальной системой регулировки, обеспечивает стабильность параметров газовой атмосферы на всем протяжении процесса сплавления. Автоматизированный контроль состояния загрязненности фильтрующего элемента вовремя подскажет потребность в его замене. </span></p>\r\n<h2>Интеллектуальная система контроля качества порошкового слоя</h2>\r\n<p><span style=\"color: var(--basic_text_black); font-family: var(--ui-font-family-primary, var(--ui-font-family-helvetica));\">Позволяет выявлять мельчайшие отклонения в плотности распределения порошкового слоя по рабочей площади. Чувствительность определения дефектов может настраиваться пользователем в зависимости от порошкового материала и параметров процесса синтеза. Интеллектуальная система контроля качества нанесения порошкового слоя позволяет значительно снизить издержки производственного процесса за счет раннего предупреждения возможных отказов.</span></p>\r\n<p>Все представленное в нашем каталоге оборудование доступно к приобретению на выгодных условиях <a href=\"https://am-tech.ru/leasing/\">лизинга.</a></p>\r\n<p>Наши специалисты помогут подобрать оптимальную схему лизинга под ваши производственные задачи и финансовые возможности, а также окажут содействие в оформлении всей необходимой документации.</p>"
+  },
+  {
+   "id": 24708,
+   "key": "Показывать на главной странице",
+   "value": "Y"
+  },
+  {
+   "id": 24709,
+   "key": "Изображение SLM установки am-tech.ru",
+   "value": "/pr_new_files/iblock/823/xrkp10gx5wz619s7u4ujeb7vm738ushp.jpg"
+  },
+  {
+   "id": 24710,
+   "key": "Страна производства",
+   "value": "Россия"
+  },
+  {
+   "id": 24711,
+   "key": "Связанные товары по фильтру",
+   "value": "[]"
+  },
+  {
+   "id": 24712,
+   "key": "Картинки галереи",
+   "value": "/pr_new_files/iblock/2a0/67yjfmshz0l4be2gl4vtwhirmms519n5.png"
+  },
+  {
+   "id": 24713,
+   "key": "Габариты рабочей зоны, мм",
+   "value": "600х600х600(1200)"
+  },
+  {
+   "id": 24714,
+   "key": "Количество лазеров, шт",
+   "value": "4"
+  },
+  {
+   "id": 24715,
+   "key": "Мощность лазера, Вт",
+   "value": "500"
+  },
+  {
+   "id": 24716,
+   "key": "Подогрев платформы",
+   "value": "200°C"
+  },
+  {
+   "id": 24717,
+   "key": "Материалы печати",
+   "value": "сплавы на основе Fe, Ni, Co, Al, Ti"
+  },
+  {
+   "id": 24718,
+   "key": "Подключение",
+   "value": "380В"
+  },
+  {
+   "id": 24719,
+   "key": "bitrix_picture",
+   "value": "/pr_new_files/iblock/32e/mkiqr01hxfsz01whbu7xx3yp7c54fgua.png"
+  },
+  {
+   "id": 24720,
+   "key": "Документы товара",
+   "value": "1379"
+  },
+  {
+   "id": 30941,
+   "key": "wbcr_wp_old_slug",
+   "value": "3d-%d0%bf%d1%80%d0%b8%d0%bd%d1%82%d0%b5%d1%80-amt-64"
+  },
+  {
+   "id": 34558,
+   "key": "Код с видео (iframe)",
+   "value": ""
+  },
+  {
+   "id": 34559,
+   "key": "Файл видео",
+   "value": "2799"
+  },
+  {
+   "id": 34560,
+   "key": "_news_category",
+   "value": "1107"
+  },
+  {
+   "id": 34561,
+   "key": "_news_tag",
+   "value": "0"
+  },
+  {
+   "id": 34562,
+   "key": "_custom_advantages",
+   "value": ""
+  },
+  {
+   "id": 34563,
+   "key": "_my_menu_type",
+   "value": "обычное"
+  },
+  {
+   "id": 34564,
+   "key": "_video_block",
+   "value": {
+    "video_title": "Возможности 3D-печати металлом",
+    "video_post_id": "3720",
+    "right_title": "Метод селективного лазерного сплавления",
+    "subtitle": "",
+    "video_description": "Selective Laser Melting (SLM) — это аддитивная технология 3D-печати металлом, при которой тонкий слой металлического порошка послойно сплавляется с помощью мощного лазера.\r\nПринтер наносит порошок на платформу, а лазер точно плавит его по заданной 3D-модели. После застывания слоя платформа опускается, наносится следующий слой порошка, и процесс повторяется до получения готовой детали.\r\n\r\nSLM позволяет создавать сложные геометрические формы с высокой точностью и отличными механическими свойствами.",
+    "button_text": "Смотреть больше видео",
+    "tag_id": ""
+   }
+  },
+  {
+   "id": 34565,
+   "key": "boldgrid_in_page_containers",
+   "value": "1"
+  },
+  {
+   "id": 34566,
+   "key": "_yoast_wpseo_primary_product_brand",
+   "value": ""
+  },
+  {
+   "id": 34567,
+   "key": "_yoast_wpseo_primary_product_cat",
+   "value": ""
+  },
+  {
+   "id": 34568,
+   "key": "_yoast_wpseo_content_score",
+   "value": "60"
+  },
+  {
+   "id": 34569,
+   "key": "_yoast_wpseo_estimated-reading-time-minutes",
+   "value": "3"
+  },
+  {
+   "id": 35700,
+   "key": "_yoast_wpseo_title",
+   "value": "3D-принтер AMT-64: промышленная печать металлом"
+  },
+  {
+   "id": 35701,
+   "key": "_yoast_wpseo_metadesc",
+   "value": "Промышленный 3D-принтер AMT-64: характеристики и преимущества. Заказывайте оборудование для аддитивного производства. Демонстрация и консультация: +7 (499) 350-50-73."
+  },
+  {
+   "id": 51342,
+   "key": "_yoast_wpseo_focuskw",
+   "value": "SLM 3D принтер"
+  },
+  {
+   "id": 51343,
+   "key": "_yoast_wpseo_linkdex",
+   "value": "65"
+  }
+ ],
+ "stock_status": "instock",
+ "has_options": false,
+ "post_password": "",
+ "global_unique_id": "",
+ "permalink_template": "https://am-tech.ru/product/%pagename%/",
+ "generated_slug": "amt-64",
+ "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>3D-принтер AMT-64: промышленная печать металлом</title>\n<meta name=\"description\" content=\"Промышленный 3D-принтер AMT-64: характеристики и преимущества. Заказывайте оборудование для аддитивного производства. Демонстрация и консультация: +7 (499) 350-50-73.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://am-tech.ru/product/3d-printer-amt-64/\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"3D-принтер AMT-64: промышленная печать металлом\" />\n<meta property=\"og:description\" content=\"Промышленный 3D-принтер AMT-64: характеристики и преимущества. Заказывайте оборудование для аддитивного производства. Демонстрация и консультация: +7 (499) 350-50-73.\" />\n<meta property=\"og:url\" content=\"https://am-tech.ru/product/3d-printer-amt-64/\" />\n<meta property=\"og:site_name\" content=\"am-tech.ru\" />\n<meta property=\"article:modified_time\" content=\"2026-09-23T11:21:18+00:00\" />\n<meta property=\"og:image\" content=\"https://am-tech.ru/wp-content/uploads/2025/08/mkiqr01hxfsz01whbu7xx3yp7c54fgua.png\" />\n\t<meta property=\"og:image:width\" content=\"1000\" />\n\t<meta property=\"og:image:height\" content=\"709\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Примерное время для чтения\" />\n\t<meta name=\"twitter:data1\" content=\"3 минуты\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://am-tech.ru/product/3d-printer-amt-64/\",\"url\":\"https://am-tech.ru/product/3d-printer-amt-64/\",\"name\":\"3D-принтер AMT-64: промышленная печать металлом\",\"isPartOf\":{\"@id\":\"https://am-tech.ru/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://am-tech.ru/product/3d-printer-amt-64/#primaryimage\"},\"image\":{\"@id\":\"https://am-tech.ru/product/3d-printer-amt-64/#primaryimage\"},\"thumbnailUrl\":\"https://am-tech.ru/wp-content/uploads/2025/08/mkiqr01hxfsz01whbu7xx3yp7c54fgua.png\",\"datePublished\":\"2025-08-17T03:47:35+00:00\",\"dateModified\":\"2026-09-23T11:21:18+00:00\",\"description\":\"Промышленный 3D-принтер AMT-64: характеристики и преимущества. Заказывайте оборудование для аддитивного производства. Демонстрация и консультация: +7 (499) 350-50-73.\",\"breadcrumb\":{\"@id\":\"https://am-tech.ru/product/3d-printer-amt-64/#breadcrumb\"},\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://am-tech.ru/product/3d-printer-amt-64/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/product/3d-printer-amt-64/#primaryimage\",\"url\":\"https://am-tech.ru/wp-content/uploads/2025/08/mkiqr01hxfsz01whbu7xx3yp7c54fgua.png\",\"contentUrl\":\"https://am-tech.ru/wp-content/uploads/2025/08/mkiqr01hxfsz01whbu7xx3yp7c54fgua.png\",\"width\":1000,\"height\":709},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://am-tech.ru/product/3d-printer-amt-64/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Главная страница\",\"item\":\"https://am-tech.ru/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"SLM 3D - принтеры\",\"item\":\"https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"AMT-64\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://am-tech.ru/#website\",\"url\":\"https://am-tech.ru/\",\"name\":\"am-tech.ru\",\"description\":\"Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.\",\"publisher\":{\"@id\":\"https://am-tech.ru/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://am-tech.ru/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"Organization\",\"@id\":\"https://am-tech.ru/#organization\",\"name\":\"am-tech.ru\",\"url\":\"https://am-tech.ru/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ru-RU\",\"@id\":\"https://am-tech.ru/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"am-tech.ru\"},\"image\":{\"@id\":\"https://am-tech.ru/#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+ "yoast_head_json": {
+  "title": "3D-принтер AMT-64: промышленная печать металлом",
+  "description": "Промышленный 3D-принтер AMT-64: характеристики и преимущества. Заказывайте оборудование для аддитивного производства. Демонстрация и консультация: +7 (499) 350-50-73.",
+  "robots": {
+   "index": "index",
+   "follow": "follow",
+   "max-snippet": "max-snippet:-1",
+   "max-image-preview": "max-image-preview:large",
+   "max-video-preview": "max-video-preview:-1"
+  },
+  "canonical": "https://am-tech.ru/product/3d-printer-amt-64/",
+  "og_locale": "ru_RU",
+  "og_type": "article",
+  "og_title": "3D-принтер AMT-64: промышленная печать металлом",
+  "og_description": "Промышленный 3D-принтер AMT-64: характеристики и преимущества. Заказывайте оборудование для аддитивного производства. Демонстрация и консультация: +7 (499) 350-50-73.",
+  "og_url": "https://am-tech.ru/product/3d-printer-amt-64/",
+  "og_site_name": "am-tech.ru",
+  "article_modified_time": "2026-09-23T11:21:18+00:00",
+  "og_image": [
+   {
+    "width": 1000,
+    "height": 709,
+    "url": "https://am-tech.ru/wp-content/uploads/2025/08/mkiqr01hxfsz01whbu7xx3yp7c54fgua.png",
+    "type": "image/png"
+   }
+  ],
+  "twitter_card": "summary_large_image",
+  "twitter_misc": {
+   "Примерное время для чтения": "3 минуты"
+  },
+  "schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://am-tech.ru/product/3d-printer-amt-64/",
+     "url": "https://am-tech.ru/product/3d-printer-amt-64/",
+     "name": "3D-принтер AMT-64: промышленная печать металлом",
+     "isPartOf": {
+      "@id": "https://am-tech.ru/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://am-tech.ru/product/3d-printer-amt-64/#primaryimage"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/product/3d-printer-amt-64/#primaryimage"
+     },
+     "thumbnailUrl": "https://am-tech.ru/wp-content/uploads/2025/08/mkiqr01hxfsz01whbu7xx3yp7c54fgua.png",
+     "datePublished": "2025-08-17T03:47:35+00:00",
+     "dateModified": "2026-09-23T11:21:18+00:00",
+     "description": "Промышленный 3D-принтер AMT-64: характеристики и преимущества. Заказывайте оборудование для аддитивного производства. Демонстрация и консультация: +7 (499) 350-50-73.",
+     "breadcrumb": {
+      "@id": "https://am-tech.ru/product/3d-printer-amt-64/#breadcrumb"
+     },
+     "inLanguage": "ru-RU",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://am-tech.ru/product/3d-printer-amt-64/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "inLanguage": "ru-RU",
+     "@id": "https://am-tech.ru/product/3d-printer-amt-64/#primaryimage",
+     "url": "https://am-tech.ru/wp-content/uploads/2025/08/mkiqr01hxfsz01whbu7xx3yp7c54fgua.png",
+     "contentUrl": "https://am-tech.ru/wp-content/uploads/2025/08/mkiqr01hxfsz01whbu7xx3yp7c54fgua.png",
+     "width": 1000,
+     "height": 709
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://am-tech.ru/product/3d-printer-amt-64/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Главная страница",
+       "item": "https://am-tech.ru/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "SLM 3D - принтеры",
+       "item": "https://am-tech.ru/katalog/promyshlennye-3d-printery-po-pechati-metallom/slm-3d-printeri/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "AMT-64"
+      }
+     ]
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://am-tech.ru/#website",
+     "url": "https://am-tech.ru/",
+     "name": "am-tech.ru",
+     "description": "Компания AM.TECH специализируется на разработке и производстве промышленного аддитивного оборудования: 3D-принтеров по металлу, керамике и полимерам, а также высокоточных 3D-сканеров. Логотип отражает технологичность и инновационный подход компании.",
+     "publisher": {
+      "@id": "https://am-tech.ru/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://am-tech.ru/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "ru-RU"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://am-tech.ru/#organization",
+     "name": "am-tech.ru",
+     "url": "https://am-tech.ru/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://am-tech.ru/#/schema/logo/image/",
+      "url": "",
+      "contentUrl": "",
+      "caption": "am-tech.ru"
+     },
+     "image": {
+      "@id": "https://am-tech.ru/#/schema/logo/image/"
+     }
+    }
+   ]
+  }
+ },
+ "_links": {
+  "self": [
+   {
+    "href": "https://am-tech.ru/wp-json/wc/v3/products/1610",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://am-tech.ru/wp-json/wc/v3/products"
+   }
+  ]
+ }
+}
